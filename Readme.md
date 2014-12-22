@@ -2,8 +2,8 @@
 
 To run:
 ````Shell
-git clone https://github.com/blakelapierre/googlesDictionary
-cd googlesDictionary
+git clone https://github.com/blakelapierre/googles-dictionary
+cd googles-dictionary
 npm install
 grunt
 ````
