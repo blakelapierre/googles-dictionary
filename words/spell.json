@@ -1,0 +1,58 @@
+{
+  "word": "spell",
+  "syllables": [
+    "spell"
+  ],
+  "pronunciation": "spel",
+  "parts": [
+    {
+      "part": "verb",
+      "letiants": [
+        {
+          "part": "gerund or present participle",
+          "letiant": "spelling"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "write or name the letters that form (a word) in correct sequence.",
+          "examples": [
+            "Dolly spelled her name"
+          ]
+        },
+        {
+          "definition": "(of letters) make up or form (a word).",
+          "examples": [
+            "the letters spell the word “how.”"
+          ]
+        },
+        {
+          "definition": "be recognizable as a sign or characteristic of.",
+          "examples": [
+            "she had the chic, efficient look that spells Milan"
+          ]
+        },
+        {
+          "definition": "lead to.",
+          "examples": [
+            "the plans would spell disaster for the economy"
+          ],
+          "synonyms": [
+            "signal",
+            "signify",
+            "mean",
+            "amount to",
+            "add up to",
+            "constitute; Moreportend",
+            "augur",
+            "herald",
+            "bode",
+            "promise; involve; literarybetoken",
+            "foretoken",
+            "forebode \"the drought spelled disaster for them\""
+          ]
+        }
+      ]
+    }
+  ]
+}

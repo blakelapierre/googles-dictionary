@@ -1,0 +1,115 @@
+[
+  {
+    "word": "growth",
+    "syllables": [
+      "growth"
+    ],
+    "pronunciation": "ɡrōTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "growth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "growths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of increasing in physical size.",
+            "examples": [
+              "the upward growth of plants"
+            ],
+            "synonyms": [
+              "development",
+              "maturation",
+              "growing",
+              "germination",
+              "sprouting; blooming \"the growth of plants\""
+            ],
+            "antonyms": [
+              "withering"
+            ]
+          },
+          {
+            "definition": "the process of developing or maturing physically, mentally, or spiritually.",
+            "examples": [
+              "keeping a journal can be a vital step in our personal growth"
+            ],
+            "synonyms": [
+              "expansion",
+              "extension",
+              "development",
+              "progress",
+              "advance",
+              "advancement",
+              "headway",
+              "spread; Morerise",
+              "success",
+              "boom",
+              "upturn",
+              "upswing \"the marked growth of local enterprises\""
+            ],
+            "antonyms": [
+              "failure",
+              "decline"
+            ]
+          },
+          {
+            "definition": "the increase in number and spread of small or microscopic organisms.",
+            "examples": [
+              "some additives slow down the growth of microorganisms"
+            ]
+          },
+          {
+            "definition": "the process of increasing in amount, value, or importance.",
+            "examples": [
+              "the rates of population growth are lowest in the north"
+            ],
+            "synonyms": [
+              "increase",
+              "expansion",
+              "augmentation",
+              "proliferation",
+              "multiplication",
+              "enlargement",
+              "mushrooming",
+              "snowballing",
+              "rise",
+              "escalation",
+              "buildup \"population growth\""
+            ],
+            "antonyms": [
+              "decrease"
+            ]
+          },
+          {
+            "definition": "increase in economic value or activity.",
+            "examples": [
+              "the government aims to get growth back into the economy"
+            ]
+          },
+          {
+            "definition": "something that has grown or is growing.",
+            "examples": [
+              "a day's growth of unshaven stubble on his chin"
+            ]
+          },
+          {
+            "definition": "a tumor or other abnormal formation.",
+            "examples": [
+              "tumor, malignancy, cancer; Morelump, excrescence, outgrowth, swelling, nodule; cyst, polyp \"a growth on his jaw\"Morelump, excrescence, outgrowth, swelling, nodule; cyst, polyp a growth on his jaw"
+            ]
+          },
+          {
+            "definition": "a vineyard or crop of grapes of a specified classification of quality, or a wine from it."
+          }
+        ]
+      }
+    ]
+  }
+]

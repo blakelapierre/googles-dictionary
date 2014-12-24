@@ -1,0 +1,93 @@
+[
+  {
+    "word": "volume",
+    "syllables": [
+      "vol",
+      "ume"
+    ],
+    "pronunciation": "ˈvälyəmˈvälˌyo͞om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "volume"
+          },
+          {
+            "part": "plural noun",
+            "variant": "volumes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a book forming part of a work or series."
+          },
+          {
+            "definition": "a single book or a bound collection of printed sheets.",
+            "examples": [
+              "book, publication, tome, hardback, paperback, title; Moremanual, almanac, compendium \"a volume from the library\"Moremanual, almanac, compendium a volume from the library"
+            ]
+          },
+          {
+            "definition": "a consecutive sequence of issues of a periodical."
+          },
+          {
+            "definition": "a scroll of parchment or papyrus containing written matter."
+          },
+          {
+            "definition": "the amount of space that a substance or object occupies, or that is enclosed within a container, especially when great.",
+            "examples": [
+              "the sewer could not cope with the volume of rainwater"
+            ],
+            "synonyms": [
+              "capacity",
+              "cubic measure",
+              "size",
+              "magnitude",
+              "mass",
+              "bulk",
+              "extent; Moredimensions",
+              "proportions",
+              "measurements \"a glass syringe of known volume\""
+            ]
+          },
+          {
+            "definition": "the amount or quantity of something, especially when great.",
+            "examples": [
+              "changes in the volume of consumer spending"
+            ],
+            "synonyms": [
+              "quantity",
+              "amount",
+              "proportion",
+              "measure",
+              "mass",
+              "bulk \"a huge volume of water\""
+            ]
+          },
+          {
+            "definition": "a certain, typically large amount of something.",
+            "examples": [
+              "the volumes of data handled are vast"
+            ]
+          },
+          {
+            "definition": "fullness or expansive thickness of something, especially of a person's hair."
+          },
+          {
+            "definition": "quantity or power of sound; degree of loudness.",
+            "examples": [
+              "he turned the volume up on the radio"
+            ],
+            "synonyms": [
+              "loudness",
+              "sound",
+              "amplification; informaldecibels \"she turned the volume down\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

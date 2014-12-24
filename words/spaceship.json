@@ -1,0 +1,33 @@
+[
+  {
+    "word": "spaceship",
+    "syllables": [
+      "space",
+      "ship"
+    ],
+    "pronunciation": "ˈspā(s)ˌSHip",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spaceship"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spaceships"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a spacecraft, especially one controlled by a crew.",
+            "examples": [
+              "spacecraft, space shuttle, rocket ship a televised report from the spaceship"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "sorority",
+    "syllables": [
+      "so",
+      "ror",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "səˈrôrədē",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sorority"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sororities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a society for female students in a university or college, typically for social purposes."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "word": "differentiation",
+    "syllables": [
+      "dif",
+      "fer",
+      "en",
+      "ti",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "ˌdifəˌren(t)SHēˈāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "differentiation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "differentiations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of differentiating.",
+            "examples": [
+              "packaging can be a source of product differentiation"
+            ],
+            "synonyms": [
+              "distinction",
+              "distinctness",
+              "difference; Moreseparation",
+              "demarcation",
+              "delimitation \"there is not enough differentiation between the two types of investment\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

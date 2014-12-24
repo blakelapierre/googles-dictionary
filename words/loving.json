@@ -1,0 +1,139 @@
+[
+  {
+    "word": "loving",
+    "syllables": [
+      "lov",
+      "ing"
+    ],
+    "pronunciation": "ˈləviNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "loving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feeling or showing love or great care.",
+            "examples": [
+              "a kind and loving father"
+            ],
+            "synonyms": [
+              "affectionate",
+              "fond",
+              "devoted",
+              "adoring",
+              "doting",
+              "solicitous",
+              "demonstrative; Morecaring",
+              "tender",
+              "warm",
+              "warmhearted",
+              "close; amorous",
+              "ardent",
+              "passionate",
+              "amatory \"her loving husband\""
+            ],
+            "antonyms": [
+              "cold",
+              "cruel"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "loving"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lovings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the demonstration of love or great care."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "love",
+    "syllables": [
+      "love"
+    ],
+    "pronunciation": "ləv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "loving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel a deep romantic or sexual attachment to (someone).",
+            "examples": [
+              "do you love me?"
+            ],
+            "synonyms": [
+              "care very much for",
+              "feel deep affection for",
+              "hold very dear",
+              "adore",
+              "think the world of",
+              "be devoted to",
+              "dote on",
+              "idolize",
+              "worship; Morebe in love with",
+              "be infatuated with",
+              "be smitten with",
+              "be besotted with; informalbe mad/crazy/nuts/wild about",
+              "have a crush on",
+              "carry a torch for \"she loves him\""
+            ],
+            "antonyms": [
+              "hate"
+            ]
+          },
+          {
+            "definition": "like very much; find pleasure in.",
+            "examples": [
+              "I'd love a cup of tea, thanks"
+            ],
+            "synonyms": [
+              "like very much",
+              "delight in",
+              "enjoy greatly",
+              "have a passion for",
+              "take great pleasure in",
+              "derive great pleasure from",
+              "relish",
+              "savor; Morehave a weakness for",
+              "be partial to",
+              "have a soft spot for",
+              "have a taste for",
+              "be taken with; informalget a kick out of",
+              "have a thing about",
+              "be mad/crazy/nuts/wild about",
+              "be hooked on",
+              "get off on \"Laura loved painting\""
+            ],
+            "antonyms": [
+              "hate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

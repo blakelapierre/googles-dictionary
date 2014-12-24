@@ -1,0 +1,78 @@
+[
+  {
+    "word": "elevation",
+    "syllables": [
+      "el",
+      "e",
+      "va",
+      "tion"
+    ],
+    "pronunciation": "ˌeləˈvāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "elevation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of elevating or being elevated.",
+            "examples": [
+              "her sudden elevation to the cabinet"
+            ],
+            "synonyms": [
+              "promotion",
+              "upgrading",
+              "advancement",
+              "advance",
+              "preferment",
+              "aggrandizement; Moreennoblement; informalstep up the ladder \"his elevation to the directorship\""
+            ]
+          },
+          {
+            "definition": "augmentation of or increase in the amount or level of something."
+          },
+          {
+            "definition": "(in a Christian Mass) the raising of the consecrated elements for adoration."
+          },
+          {
+            "definition": "height above a given level, especially sea level.",
+            "examples": [
+              "a network of microclimates created by sharp differences in elevation"
+            ],
+            "synonyms": [
+              "altitude",
+              "height \"15",
+              "000–30",
+              "000 feet in elevation\""
+            ]
+          },
+          {
+            "definition": "a high place or position.",
+            "examples": [
+              "plural noun: elevations"
+            ]
+          },
+          {
+            "definition": "the angle of something with the horizontal, especially of a gun or of the direction of a celestial object."
+          },
+          {
+            "definition": "the ability of a dancer to attain height in jumps."
+          },
+          {
+            "definition": "a particular side of a building.",
+            "examples": [
+              "a burglar alarm was prominently displayed on the front elevation"
+            ]
+          },
+          {
+            "definition": "a drawing or diagram, especially of a building, made by projection on a vertical plane."
+          }
+        ]
+      }
+    ]
+  }
+]

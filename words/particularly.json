@@ -1,0 +1,69 @@
+[
+  {
+    "word": "particularly",
+    "syllables": [
+      "par",
+      "tic",
+      "u",
+      "lar",
+      "ly"
+    ],
+    "pronunciation": "pə(r)ˈtikyələrlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "particularly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to a higher degree than is usual or average.",
+            "examples": [
+              "I don't particularly want to be reminded of that time"
+            ],
+            "synonyms": [
+              "especially",
+              "specially",
+              "very",
+              "extremely",
+              "exceptionally",
+              "singularly",
+              "peculiarly",
+              "unusually",
+              "extraordinarily",
+              "remarkably",
+              "outstandingly",
+              "amazingly",
+              "incredibly",
+              "really",
+              "seriously \"the acoustics are particularly good\""
+            ]
+          },
+          {
+            "definition": "used to single out a subject to which a statement is especially applicable.",
+            "examples": [
+              "the team's defense is excellent, particularly their two center backs"
+            ]
+          },
+          {
+            "definition": "so as to give special emphasis to a point; specifically.",
+            "examples": [
+              "he particularly asked that I should help you"
+            ],
+            "synonyms": [
+              "specifically",
+              "explicitly",
+              "expressly",
+              "in particular",
+              "especially",
+              "specially \"he particularly asked that I should help you\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "word": "scan",
+    "syllables": [
+      "scan"
+    ],
+    "pronunciation": "skan",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "scan"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "scans"
+          },
+          {
+            "part": "past tense",
+            "variant": "scanned"
+          },
+          {
+            "part": "past participle",
+            "variant": "scanned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "scanning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "look at all parts of (something) carefully in order to detect some feature.",
+            "examples": [
+              "he raised his binoculars to scan the coast"
+            ],
+            "synonyms": [
+              "scrutinize",
+              "examine",
+              "study",
+              "inspect",
+              "survey",
+              "search",
+              "scour",
+              "sweep",
+              "look at",
+              "stare at",
+              "look someone/something up and down",
+              "gaze at",
+              "eye",
+              "watch; Morecontemplate",
+              "regard",
+              "take stock of; informalcheck out",
+              "scope (out) \"Adam scanned the horizon\""
+            ]
+          },
+          {
+            "definition": "look quickly but not very thoroughly through (a document or other text) in order to identify relevant information.",
+            "examples": [
+              "we scan the papers for news from the trouble spots"
+            ],
+            "synonyms": [
+              "glance through/over",
+              "look through/over",
+              "have a look at",
+              "run/cast/pass one's eye over",
+              "skim (through)",
+              "flick through",
+              "flip through",
+              "leaf through",
+              "thumb through",
+              "rifle through",
+              "read quickly",
+              "browse (through) \"I scanned the pages of his diary\""
+            ],
+            "antonyms": [
+              "pore over"
+            ]
+          },
+          {
+            "definition": "cause (a surface, object, or part of the body) to be traversed by a detector or an electromagnetic beam.",
+            "examples": [
+              "their brains are scanned so that researchers can monitor the progress of the disease"
+            ]
+          },
+          {
+            "definition": "cause (a beam) to traverse across a surface or object.",
+            "examples": [
+              "we scanned the beam over a sector of 120°"
+            ]
+          },
+          {
+            "definition": "convert (a document or picture) into digital form for storage or processing on a computer.",
+            "examples": [
+              "text and pictures can be scanned into the computer"
+            ]
+          },
+          {
+            "definition": "resolve (a picture) into its elements of light and shade in a prearranged pattern for the purposes of television transmission."
+          },
+          {
+            "definition": "analyze the meter of (a line of verse) by reading with the emphasis on its rhythm or by examining the pattern of feet or syllables."
+          },
+          {
+            "definition": "(of verse) conform to metrical principles."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scan"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of scanning someone or something.",
+            "examples": [
+              "a quick scan of the sports page"
+            ],
+            "synonyms": [
+              "inspection",
+              "scrutiny",
+              "examination",
+              "survey More\"a careful scan of the terrain\"glance",
+              "look",
+              "flick",
+              "browse",
+              "skim \"a quick scan through the report\""
+            ]
+          },
+          {
+            "definition": "a medical examination using a scanner.",
+            "examples": [
+              "a brain scan"
+            ],
+            "synonyms": [
+              "examination",
+              "screening",
+              "MRI",
+              "ultrasound \"a brain scan\""
+            ]
+          },
+          {
+            "definition": "an image obtained by scanning or with a scanner.",
+            "examples": [
+              "we can't predict anything until we have seen the scan"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

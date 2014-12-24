@@ -1,0 +1,62 @@
+{
+  "word": "metal",
+  "syllables": [
+    "met",
+    "al"
+  ],
+  "pronunciation": "ˈmedl",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "metals"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g., iron, gold, silver, copper, and aluminum, and alloys such as brass and steel).",
+          "examples": [
+            "vessels made of ceramics or metal"
+          ]
+        },
+        {
+          "definition": "gold and silver (as tinctures in blazoning)."
+        },
+        {
+          "definition": "broken stone for use in making roads."
+        },
+        {
+          "definition": "molten glass before it is blown or cast."
+        },
+        {
+          "definition": "heavy metal or similar rock music."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "metals"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make out of or coat with metal.",
+          "examples": [
+            "metaled key rings"
+          ]
+        },
+        {
+          "definition": "make or mend (a road) with road metal.",
+          "examples": [
+            "follow the metalled road for about 200 yards"
+          ]
+        }
+      ]
+    }
+  ]
+}

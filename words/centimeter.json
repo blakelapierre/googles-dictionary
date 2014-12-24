@@ -1,0 +1,44 @@
+[
+  {
+    "word": "centimeter",
+    "syllables": [
+      "cen",
+      "ti",
+      "me",
+      "ter"
+    ],
+    "pronunciation": "ˈsen(t)əˌmēdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "centimetre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "centimetres"
+          },
+          {
+            "part": "noun",
+            "variant": "centimeter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "centimeters"
+          },
+          {
+            "part": "symbol",
+            "variant": "cm"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a metric unit of length, equal to one hundredth of a meter."
+          }
+        ]
+      }
+    ]
+  }
+]

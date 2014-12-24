@@ -1,0 +1,30 @@
+[
+  {
+    "word": "waitress",
+    "syllables": [
+      "wait",
+      "ress"
+    ],
+    "pronunciation": "ˈwātris",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "waitress"
+          },
+          {
+            "part": "plural noun",
+            "variant": "waitresses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a woman whose job is to serve customers at their tables in a restaurant."
+          }
+        ]
+      }
+    ]
+  }
+]

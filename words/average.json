@@ -1,0 +1,204 @@
+[
+  {
+    "word": "average",
+    "syllables": [
+      "av",
+      "er",
+      "age"
+    ],
+    "pronunciation": "ˈav(ə)rij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "average"
+          },
+          {
+            "part": "plural noun",
+            "variant": "averages"
+          },
+          {
+            "part": "noun",
+            "variant": "avg."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number.",
+            "examples": [
+              "the housing prices there are twice the national average"
+            ],
+            "synonyms": [
+              "mean",
+              "median",
+              "mode; Morenorm",
+              "standard",
+              "rule",
+              "par \"the price is above the national average\""
+            ]
+          },
+          {
+            "definition": "an amount, standard, level, or rate regarded as usual or ordinary.",
+            "examples": [
+              "the month's snowfall is below average"
+            ],
+            "synonyms": [
+              "normally",
+              "usually",
+              "ordinarily",
+              "generally",
+              "in general",
+              "for the most part",
+              "as a rule",
+              "typically; Moreoverall",
+              "by and large",
+              "on the whole \"on average",
+              "we get about two million visitors each year\""
+            ]
+          },
+          {
+            "definition": "the apportionment of financial liability resulting from loss of or damage to a ship or its cargo."
+          },
+          {
+            "definition": "reduction in the amount payable under an insurance policy, e.g., in respect of partial loss."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "average"
+          },
+          {
+            "part": "adjective",
+            "variant": "avg."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "constituting the result obtained by adding together several quantities and then dividing this total by the number of quantities.",
+            "examples": [
+              "the average temperature in May was 64°F"
+            ],
+            "synonyms": [
+              "mean",
+              "median",
+              "modal \"the average temperature in May\""
+            ]
+          },
+          {
+            "definition": "of the usual or ordinary standard, level, or quantity.",
+            "examples": [
+              "a woman of average height"
+            ],
+            "synonyms": [
+              "ordinary",
+              "standard",
+              "normal",
+              "typical",
+              "regular; midsize \"a woman of average height\""
+            ]
+          },
+          {
+            "definition": "having qualities that are seen as typical of a particular person or thing.",
+            "examples": [
+              "the average teenager prefers comfort to high fashion"
+            ]
+          },
+          {
+            "definition": "mediocre; not very good.",
+            "examples": [
+              "a very average director who made very average movies"
+            ],
+            "synonyms": [
+              "mediocre",
+              "second-rate",
+              "undistinguished",
+              "ordinary",
+              "middle-of-the-road",
+              "unexceptional",
+              "unexciting",
+              "unremarkable",
+              "unmemorable",
+              "indifferent",
+              "pedestrian",
+              "lackluster",
+              "forgettable",
+              "amateurish; MoreinformalOK",
+              "so-so",
+              "'comme ci",
+              "comme ça'",
+              "fair-to-middling",
+              "no great shakes",
+              "underwhelming",
+              "plain-vanilla \"a very average director\""
+            ],
+            "antonyms": [
+              "outstanding",
+              "exceptional"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "average"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "averages"
+          },
+          {
+            "part": "past tense",
+            "variant": "averaged"
+          },
+          {
+            "part": "past participle",
+            "variant": "averaged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "averaging"
+          },
+          {
+            "part": "verb",
+            "variant": "avg."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "achieve or amount to as an average rate or amount over a period of time.",
+            "examples": [
+              "annual inflation averaged 2.4 percent"
+            ]
+          },
+          {
+            "definition": "calculate or estimate the average of (figures or measurements).",
+            "examples": [
+              "their earnings, averaged out over the month, were only $62 a week"
+            ]
+          },
+          {
+            "definition": "result in an even distribution; even out.",
+            "examples": [
+              "it is reasonable to hope that the results will average out"
+            ]
+          },
+          {
+            "definition": "result in an average figure of.",
+            "examples": [
+              "the cost should average out to about $6 per page"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

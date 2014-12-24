@@ -1,0 +1,169 @@
+[
+  {
+    "word": "qualify",
+    "syllables": [
+      "qual",
+      "i",
+      "fy"
+    ],
+    "pronunciation": "ˈkwäləˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "qualify"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "qualifies"
+          },
+          {
+            "part": "past tense",
+            "variant": "qualified"
+          },
+          {
+            "part": "past participle",
+            "variant": "qualified"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "qualifying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be entitled to a particular benefit or privilege by fulfilling a necessary condition.",
+            "examples": [
+              "they do not qualify for compensation payments"
+            ],
+            "synonyms": [
+              "be eligible for",
+              "meet the requirements for; Morebe entitled to",
+              "be permitted \"I qualify for free prescriptions\""
+            ]
+          },
+          {
+            "definition": "become eligible for a competition or its final rounds, by reaching a certain standard or defeating a competitor.",
+            "examples": [
+              "he failed to qualify for the Olympic team"
+            ]
+          },
+          {
+            "definition": "be or make properly entitled to be classed in a particular way.",
+            "examples": [
+              "he qualifies as a genuine political refugee"
+            ],
+            "synonyms": [
+              "count",
+              "be considered",
+              "be designated",
+              "be eligible \"they qualify as refugees\""
+            ]
+          },
+          {
+            "definition": "become officially recognized as a practitioner of a particular profession or activity by satisfying the relevant conditions or requirements, typically by undertaking a course of study and passing examinations.",
+            "examples": [
+              "after the war he qualified as a lawyer"
+            ],
+            "synonyms": [
+              "certified",
+              "certificated",
+              "chartered",
+              "credentialed",
+              "licensed",
+              "professional; Moretrained",
+              "fit",
+              "competent",
+              "accomplished",
+              "proficient",
+              "skilled",
+              "experienced",
+              "expert \"qualified mechanics\"be certified",
+              "be licensed; pass",
+              "graduate",
+              "make the grade",
+              "succeed",
+              "pass muster \"she qualified as a doctor\""
+            ]
+          },
+          {
+            "definition": "officially recognize or establish (someone) as a practitioner of a particular profession or activity.",
+            "examples": [
+              "the courses qualify you as an instructor of the sport"
+            ],
+            "synonyms": [
+              "authorize",
+              "empower",
+              "allow",
+              "permit",
+              "license; Moreequip",
+              "prepare",
+              "train",
+              "educate",
+              "teach \"the course qualified them to teach\""
+            ]
+          },
+          {
+            "definition": "make (someone) competent or knowledgeable enough to do something.",
+            "examples": [
+              "I'm not qualified to write on the subject"
+            ]
+          },
+          {
+            "definition": "make (a statement or assertion) less absolute; add reservations to.",
+            "examples": [
+              "she felt obliged to qualify her first short answer"
+            ],
+            "synonyms": [
+              "certified",
+              "certificated",
+              "chartered",
+              "credentialed",
+              "licensed",
+              "professional; Moretrained",
+              "fit",
+              "competent",
+              "accomplished",
+              "proficient",
+              "skilled",
+              "experienced",
+              "expert \"qualified mechanics\"count",
+              "be considered",
+              "be designated",
+              "be eligible \"they qualify as refugees\"modify",
+              "limit",
+              "restrict",
+              "make conditional; moderate",
+              "temper",
+              "modulate",
+              "mitigate \"they qualified their findings\""
+            ]
+          },
+          {
+            "definition": "make (something extreme or undesirable) less severe or extreme.",
+            "examples": [
+              "his sincere piety and his large heart always qualify his errors"
+            ]
+          },
+          {
+            "definition": "alter the strength or flavor of (something, especially a liquid).",
+            "examples": [
+              "he qualified his mug of water with a plentiful infusion of the liquor"
+            ]
+          },
+          {
+            "definition": "attribute a specified quality to something; describe something as.",
+            "examples": [
+              "the propositions have been qualified as heretical"
+            ]
+          },
+          {
+            "definition": "(of a word or phrase) attribute a quality to (another word, especially a preceding noun)."
+          }
+        ]
+      }
+    ]
+  }
+]

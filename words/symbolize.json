@@ -1,0 +1,90 @@
+[
+  {
+    "word": "symbolize",
+    "syllables": [
+      "sym",
+      "bol",
+      "ize"
+    ],
+    "pronunciation": "ˈsimbəˌlīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "symbolize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "symbolizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "symbolized"
+          },
+          {
+            "part": "past participle",
+            "variant": "symbolized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "symbolizing"
+          },
+          {
+            "part": "verb",
+            "variant": "symbolise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "symbolises"
+          },
+          {
+            "part": "past tense",
+            "variant": "symbolised"
+          },
+          {
+            "part": "past participle",
+            "variant": "symbolised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "symbolising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be a symbol of.",
+            "examples": [
+              "the ceremonial dagger symbolizes justice"
+            ]
+          },
+          {
+            "definition": "represent by means of symbols.",
+            "examples": [
+              "a tendency to symbolize the father as the sun"
+            ],
+            "synonyms": [
+              "represent",
+              "stand for",
+              "be a sign of",
+              "exemplify; Moredenote",
+              "signify",
+              "mean",
+              "indicate",
+              "convey",
+              "express",
+              "imply",
+              "suggest",
+              "allude to; embody",
+              "epitomize",
+              "encapsulate",
+              "personify",
+              "typify; literarybetoken \"the wheel symbolizes the power of peaceful change\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

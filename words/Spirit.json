@@ -1,0 +1,247 @@
+[
+  {
+    "word": "spirit",
+    "syllables": [
+      "spir",
+      "it"
+    ],
+    "pronunciation": "ˈspirit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spirit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spirits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the nonphysical part of a person that is the seat of emotions and character; the soul.",
+            "examples": [
+              "we seek a harmony between body and spirit"
+            ],
+            "synonyms": [
+              "soul",
+              "psyche",
+              "(inner) self",
+              "inner being",
+              "inner man/woman",
+              "mind",
+              "ego",
+              "id; pneuma \"harmony between body and spirit\""
+            ],
+            "antonyms": [
+              "body",
+              "flesh"
+            ]
+          },
+          {
+            "definition": "the nonphysical part of a person regarded as a person's true self and as capable of surviving physical death or separation.",
+            "examples": [
+              "a year after he left, his spirit is still present"
+            ]
+          },
+          {
+            "definition": "the nonphysical part of a person manifested as an apparition after their death; a ghost.",
+            "examples": [
+              "ghost, presence; spook a spirit haunts the island"
+            ]
+          },
+          {
+            "definition": "a supernatural being.",
+            "examples": [
+              "shrines to nature spirits"
+            ]
+          },
+          {
+            "definition": "short for Holy Spirit.",
+            "examples": [
+              "noun: Spirit; noun: the Spirit"
+            ]
+          },
+          {
+            "definition": "a highly refined substance or fluid thought to govern vital phenomena."
+          },
+          {
+            "definition": "those qualities regarded as forming the definitive or typical elements in the character of a person, nation, or group or in the thought and attitudes of a particular period.",
+            "examples": [
+              "the university is a symbol of the nation's egalitarian spirit"
+            ],
+            "synonyms": [
+              "ethos",
+              "prevailing tendency",
+              "motivating force",
+              "essence",
+              "quintessence; Moreatmosphere",
+              "mood",
+              "feeling",
+              "climate; attitudes",
+              "beliefs",
+              "principles",
+              "standards",
+              "ethics \"the spirit of the age\""
+            ]
+          },
+          {
+            "definition": "a person identified with their most prominent mental or moral characteristics or with their role in a group or movement.",
+            "examples": [
+              "he was a leading spirit in the conference"
+            ]
+          },
+          {
+            "definition": "a specified emotion or mood, especially one prevailing at a particular time.",
+            "examples": [
+              "I hope the team will build on this spirit of confidence"
+            ]
+          },
+          {
+            "definition": "a person's mood.",
+            "examples": [
+              "the warm weather lifted everyone's spirits after the winter"
+            ],
+            "synonyms": [
+              "mood",
+              "frame of mind",
+              "state of mind",
+              "emotional state",
+              "humor",
+              "temper \"she was in good spirits when I left\""
+            ]
+          },
+          {
+            "definition": "the quality of courage, energy, and determination or assertiveness.",
+            "examples": [
+              "his visitors admired his spirit and good temper"
+            ],
+            "synonyms": [
+              "morale",
+              "esprit de corps More\"team spirit\"courage",
+              "bravery",
+              "pluck",
+              "valor",
+              "strength of character",
+              "fortitude",
+              "backbone",
+              "mettle",
+              "stoutheartedness",
+              "determination",
+              "resolution",
+              "resolve",
+              "fight",
+              "grit; informalguts",
+              "spunk",
+              "sand",
+              "moxie \"his spirit never failed him\"enthusiasm",
+              "eagerness",
+              "keenness",
+              "liveliness",
+              "vivacity",
+              "vivaciousness",
+              "animation",
+              "energy",
+              "verve",
+              "vigor",
+              "dynamism",
+              "zest",
+              "dash",
+              "elan",
+              "panache",
+              "sparkle",
+              "exuberance",
+              "gusto",
+              "brio",
+              "pep",
+              "fervor",
+              "zeal",
+              "fire",
+              "passion; informalget-up-and-go \"they played with great spirit\""
+            ]
+          },
+          {
+            "definition": "the attitude or intentions with which someone undertakes or regards something.",
+            "examples": [
+              "he confessed in a spirit of self-respect, not defiance"
+            ],
+            "synonyms": [
+              "attitude",
+              "frame of mind",
+              "way of thinking",
+              "point of view",
+              "outlook",
+              "thoughts",
+              "ideas \"that's the spirit\""
+            ]
+          },
+          {
+            "definition": "the real meaning or the intention behind something as opposed to its strict verbal interpretation.",
+            "examples": [
+              "the rule had been broken in spirit if not in letter"
+            ],
+            "synonyms": [
+              "real/true meaning",
+              "true intention",
+              "essence",
+              "substance \"the spirit of the law\""
+            ]
+          },
+          {
+            "definition": "strong distilled liquor such as brandy, whiskey, gin, or rum.",
+            "examples": [
+              "strong liquor/drink; Moreinformalhard stuff, firewater, hooch \"he drinks spirits\"Morehard stuff, firewater, hooch he drinks spirits"
+            ]
+          },
+          {
+            "definition": "a volatile liquid, especially a fuel, prepared by distillation.",
+            "examples": [
+              "aviation spirit"
+            ]
+          },
+          {
+            "definition": "a solution of volatile components extracted from something, typically by distillation or by solution in alcohol.",
+            "examples": [
+              "spirits of turpentine"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "spirit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "spirits"
+          },
+          {
+            "part": "past tense",
+            "variant": "spirited"
+          },
+          {
+            "part": "past participle",
+            "variant": "spirited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spiriting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convey rapidly and secretly.",
+            "examples": [
+              "stolen cows were spirited away some distance to prevent detection"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

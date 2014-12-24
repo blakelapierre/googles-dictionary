@@ -1,0 +1,56 @@
+[
+  {
+    "word": "inheritance",
+    "syllables": [
+      "in",
+      "her",
+      "it",
+      "ance"
+    ],
+    "pronunciation": "inˈherədəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inheritance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inheritances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is inherited.",
+            "examples": [
+              "he came into a comfortable inheritance"
+            ],
+            "synonyms": [
+              "legacy",
+              "bequest",
+              "endowment",
+              "bestowal",
+              "provision; Morebirthright",
+              "heritage",
+              "patrimony; devise \"a comfortable inheritance\""
+            ]
+          },
+          {
+            "definition": "the action of inheriting.",
+            "examples": [
+              "the inheritance of traits"
+            ],
+            "synonyms": [
+              "succession to",
+              "accession to",
+              "assumption of",
+              "elevation to \"his inheritance of the title\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

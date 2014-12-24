@@ -1,0 +1,36 @@
+[
+  {
+    "word": "turbulence",
+    "syllables": [
+      "tur",
+      "bu",
+      "lence"
+    ],
+    "pronunciation": "ˈtərbyələns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "turbulence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "violent or unsteady movement of air or water, or of some other fluid.",
+            "examples": [
+              "the plane shuddered as it entered some turbulence"
+            ]
+          },
+          {
+            "definition": "conflict; confusion.",
+            "examples": [
+              "a time of political turbulence"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

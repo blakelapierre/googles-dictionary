@@ -1,0 +1,128 @@
+[
+  {
+    "word": "phase",
+    "syllables": [
+      "phase"
+    ],
+    "pronunciation": "fāz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "phase"
+          },
+          {
+            "part": "plural noun",
+            "variant": "phases"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a distinct period or stage in a process of change or forming part of something's development.",
+            "examples": [
+              "the final phases of the war"
+            ],
+            "synonyms": [
+              "stage",
+              "period",
+              "chapter",
+              "episode",
+              "part",
+              "step",
+              "point",
+              "time",
+              "juncture \"the final phase of the campaign\""
+            ]
+          },
+          {
+            "definition": "a stage in a person's psychological development, especially a period of temporary unhappiness or difficulty during adolescence or a particular stage during childhood.",
+            "examples": [
+              "you are not obsessed, but you are going through a phase"
+            ],
+            "synonyms": [
+              "period",
+              "stage",
+              "time",
+              "spell",
+              "patch \"he's going through a difficult phase\""
+            ]
+          },
+          {
+            "definition": "each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter.",
+            "examples": [
+              "aspect, shape, form, appearance, state, condition the phases of the moon"
+            ]
+          },
+          {
+            "definition": "each of the separate events in an eventing competition."
+          },
+          {
+            "definition": "a genetic or seasonal variety of an animal's coloration."
+          },
+          {
+            "definition": "a stage in the life cycle or annual cycle of an animal."
+          },
+          {
+            "definition": "a distinct and homogeneous form of matter (i.e., a particular solid, liquid, or gas) separated by its surface from other forms."
+          },
+          {
+            "definition": "the relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "phase"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "phases"
+          },
+          {
+            "part": "past tense",
+            "variant": "phased"
+          },
+          {
+            "part": "past participle",
+            "variant": "phased"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "phasing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carry out (something) in gradual stages.",
+            "examples": [
+              "the work is being phased over a number of years"
+            ]
+          },
+          {
+            "definition": "introduce into (or withdraw from) use in gradual stages.",
+            "examples": [
+              "our armed forces policy was to be phased in over 10 years"
+            ],
+            "synonyms": [
+              "introduce gradually",
+              "begin to use",
+              "ease in More\"compliance with the new regulations will be phased in over a six-month period\"withdraw gradually",
+              "discontinue",
+              "stop using",
+              "run down",
+              "wind down \"we're going to phase out the cash-rebate program\""
+            ]
+          },
+          {
+            "definition": "adjust the phase of (something), especially so as to synchronize it with something else."
+          }
+        ]
+      }
+    ]
+  }
+]

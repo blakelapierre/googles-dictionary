@@ -1,0 +1,42 @@
+[
+  {
+    "word": "exchange",
+    "syllables": [
+      "ex",
+      "change"
+    ],
+    "pronunciation": "iksˈCHānj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "exchanging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give something and receive something of the same kind in return.",
+            "examples": [
+              "we exchanged addresses"
+            ],
+            "synonyms": [
+              "trade",
+              "swap",
+              "switch",
+              "change",
+              "interchange \"we exchanged shirts\""
+            ]
+          },
+          {
+            "definition": "give or receive one thing in place of another.",
+            "examples": [
+              "we regret that tickets cannot be exchanged"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

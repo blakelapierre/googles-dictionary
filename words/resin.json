@@ -1,0 +1,32 @@
+{
+  "word": "resin",
+  "syllables": [
+    "res",
+    "in"
+  ],
+  "pronunciation": "ˈrezən",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [],
+      "definitions": []
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "resins"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "rub or treat with resin.",
+          "examples": [
+            "resined canvas"
+          ]
+        }
+      ]
+    }
+  ]
+}

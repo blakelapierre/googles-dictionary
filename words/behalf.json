@@ -1,0 +1,58 @@
+[
+  {
+    "word": "behalf",
+    "syllables": [
+      "be",
+      "half"
+    ],
+    "pronunciation": "bəˈhaf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "behalf"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in the interests of a person, group, or principle.",
+            "examples": [
+              "votes cast by labor unions on behalf of their members"
+            ],
+            "synonyms": [
+              "in the interests of",
+              "in support of",
+              "for",
+              "for the benefit of",
+              "for the good of",
+              "for the sake of \"a campaign on behalf of recycling\""
+            ]
+          },
+          {
+            "definition": "as a representative of.",
+            "examples": [
+              "he had to attend the funeral on Mama's behalf"
+            ],
+            "synonyms": [
+              "as a representative of",
+              "as a spokesperson for",
+              "for",
+              "in the name of",
+              "in place of",
+              "on the authority of",
+              "at the behest of \"I am writing on behalf of my client\""
+            ]
+          },
+          {
+            "definition": "on the part of; done by.",
+            "examples": [
+              "this wasn't simply a philanthropic gesture on his behalf"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

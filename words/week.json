@@ -1,0 +1,62 @@
+[
+  {
+    "word": "week",
+    "syllables": [
+      "week"
+    ],
+    "pronunciation": "wēk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "week"
+          },
+          {
+            "part": "plural noun",
+            "variant": "weeks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a period of seven days.",
+            "examples": [
+              "the course lasts sixteen weeks"
+            ]
+          },
+          {
+            "definition": "the period of seven days generally reckoned from and to midnight on Saturday night.",
+            "examples": [
+              "she has an art class twice a week"
+            ]
+          },
+          {
+            "definition": "workdays as opposed to the weekend; the five days from Monday to Friday.",
+            "examples": [
+              "I work during the week, so I can only get to this shop on Saturdays"
+            ]
+          },
+          {
+            "definition": "the time spent working in the workday period of five to seven days.",
+            "examples": [
+              "she works a 48-hour week"
+            ]
+          },
+          {
+            "definition": "a period of five or seven days devoted to a specified purpose or beginning on a specified day.",
+            "examples": [
+              "Super Bowl week"
+            ]
+          },
+          {
+            "definition": "used after the name of a day to indicate that something will happen seven days after that day.",
+            "examples": [
+              "the program will be broadcast on Sunday week"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "word": "ringing",
+    "syllables": [
+      "ring",
+      "ing"
+    ],
+    "pronunciation": "ˈriNGiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "ringing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or emitting a clear resonant sound.",
+            "examples": [
+              "a ringing voice"
+            ]
+          },
+          {
+            "definition": "(of a statement) forceful and unequivocal.",
+            "examples": [
+              "the Russian leader received a ringing declaration of support"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ring",
+    "syllables": [
+      "ring"
+    ],
+    "pronunciation": "riNG",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "ringing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "surround (someone or something), especially for protection or containment.",
+            "examples": [
+              "the courthouse was ringed with police"
+            ],
+            "synonyms": [
+              "surround",
+              "circle",
+              "encircle",
+              "encompass",
+              "girdle",
+              "enclose",
+              "hem in",
+              "confine",
+              "seal off \"police ringed the building\""
+            ]
+          },
+          {
+            "definition": "form a line around the edge of (something circular).",
+            "examples": [
+              "dark shadows ringed his eyes"
+            ]
+          },
+          {
+            "definition": "draw a circle around (something), especially to focus attention on it.",
+            "examples": [
+              "an area of Tribeca had been ringed in red"
+            ]
+          },
+          {
+            "definition": "put a circular band through the nose of (a bull, pig, or other farm animal) to lead or otherwise control it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ring",
+    "syllables": [
+      "ring"
+    ],
+    "pronunciation": "riNG",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "ringing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a clear resonant or vibrating sound.",
+            "examples": [
+              "a shot rang out"
+            ],
+            "synonyms": [
+              "toll",
+              "sound",
+              "peal",
+              "chime",
+              "clang",
+              "bong",
+              "ding",
+              "jingle",
+              "tinkle; literaryknell \"church bells rang all day\""
+            ]
+          },
+          {
+            "definition": "cause (a bell or alarm) to ring.",
+            "examples": [
+              "he walked up to the door and rang the bell"
+            ]
+          },
+          {
+            "definition": "(of a telephone) produce a series of resonant or vibrating sounds to signal an incoming call.",
+            "examples": [
+              "the phone rang again as I replaced it"
+            ]
+          },
+          {
+            "definition": "call for service or attention by sounding a bell.",
+            "examples": [
+              "Ruth, will you ring for some tea?"
+            ]
+          },
+          {
+            "definition": "sound (the hour, a peal, etc.) on a bell or bells.",
+            "examples": [
+              "a bell ringing the hour"
+            ]
+          },
+          {
+            "definition": "(of a place) resound or reverberate with (a sound or sounds).",
+            "examples": [
+              "the room rang with laughter"
+            ],
+            "synonyms": [
+              "resound",
+              "reverberate",
+              "resonate",
+              "echo \"the room rang with laughter\""
+            ]
+          },
+          {
+            "definition": "(of a person's ears) be filled with a continuous buzzing or humming sound, especially as the aftereffect of a blow or loud noise.",
+            "examples": [
+              "he yelled so loudly that my eardrums rang"
+            ]
+          },
+          {
+            "definition": "be filled or permeated with (a particular quality).",
+            "examples": [
+              "a clever retort which rang with contempt"
+            ]
+          },
+          {
+            "definition": "convey a specified impression or quality.",
+            "examples": [
+              "the author's honesty rings true"
+            ]
+          },
+          {
+            "definition": "call by telephone.",
+            "examples": [
+              "I rang her this morning"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

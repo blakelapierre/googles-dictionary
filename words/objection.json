@@ -1,0 +1,52 @@
+{
+  "word": "objection",
+  "syllables": [
+    "ob",
+    "jec",
+    "tion"
+  ],
+  "pronunciation": "əbˈjekSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "objections"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an expression or feeling of disapproval or opposition; a reason for disagreeing.",
+          "examples": [
+            "they have raised no objections to the latest plans"
+          ],
+          "synonyms": [
+            "protest",
+            "protestation",
+            "demur",
+            "demurral",
+            "demurrer",
+            "complaint",
+            "expostulation",
+            "grievance",
+            "cavil",
+            "quibble; Moreopposition",
+            "argument",
+            "counterargument",
+            "disagreement",
+            "disapproval",
+            "dissent; informalgripe",
+            "beef \"he lodged an official objection with the town council\""
+          ]
+        },
+        {
+          "definition": "the action of challenging or disagreeing with something.",
+          "examples": [
+            "his view is open to objection"
+          ]
+        }
+      ]
+    }
+  ]
+}

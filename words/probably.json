@@ -1,0 +1,38 @@
+{
+  "word": "probably",
+  "syllables": [
+    "prob",
+    "a",
+    "bly"
+  ],
+  "pronunciation": "ˈpräbəblēˈpräblē",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "probably"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "almost certainly; as far as one knows or can tell.",
+          "examples": [
+            "she would probably never see him again"
+          ],
+          "synonyms": [
+            "in all likelihood",
+            "in all probability",
+            "as likely as not",
+            "(very/most) likely",
+            "ten to one",
+            "the chances are",
+            "doubtless",
+            "no doubt; archaiclike enough \"I knew I would probably never see her again\""
+          ]
+        }
+      ]
+    }
+  ]
+}

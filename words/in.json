@@ -1,0 +1,444 @@
+[
+  {
+    "word": "in",
+    "syllables": [
+      "in"
+    ],
+    "pronunciation": "in",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "in"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing the situation of something that is or appears to be enclosed or surrounded by something else.",
+            "examples": [
+              "living in Deep River"
+            ],
+            "synonyms": [
+              "inside",
+              "within",
+              "in the middle of; Moresurrounded by",
+              "enclosed by \"she was hiding in the closet\""
+            ]
+          },
+          {
+            "definition": "expressing motion with the result that something ends up within or surrounded by something else.",
+            "examples": [
+              "don't put dye in the bathtub"
+            ],
+            "synonyms": [
+              "into",
+              "inside \"he put a candy in his mouth\""
+            ]
+          },
+          {
+            "definition": "expressing a period of time during which an event takes place or a situation remains the case.",
+            "examples": [
+              "they met in 1885"
+            ],
+            "synonyms": [
+              "during",
+              "in the course of",
+              "over \"they met in 1921\""
+            ]
+          },
+          {
+            "definition": "expressing the length of time before a future event is expected to take place.",
+            "examples": [
+              "I'll see you in fifteen minutes"
+            ],
+            "synonyms": [
+              "after",
+              "at the end of",
+              "following; Morewithin",
+              "in less than",
+              "in under \"I'll see you in half an hour\""
+            ]
+          },
+          {
+            "definition": "(often followed by a noun without a determiner) expressing a state or condition.",
+            "examples": [
+              "to be in love"
+            ]
+          },
+          {
+            "definition": "indicating the quality or aspect with respect to which a judgment is made.",
+            "examples": [
+              "no discernible difference in quality"
+            ]
+          },
+          {
+            "definition": "expressing inclusion or involvement.",
+            "examples": [
+              "I read it in a book"
+            ]
+          },
+          {
+            "definition": "indicating someone's occupation or profession.",
+            "examples": [
+              "she works in publishing"
+            ]
+          },
+          {
+            "definition": "indicating the language or medium used.",
+            "examples": [
+              "say it in Polish"
+            ]
+          },
+          {
+            "definition": "indicating the key in which a piece of music is written.",
+            "examples": [
+              "Mozart's Piano Concerto in E flat"
+            ]
+          },
+          {
+            "definition": "as an integral part of (an activity).",
+            "examples": [
+              "in planning public expenditure it is better to be prudent"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "in"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing movement with the result that someone or something becomes enclosed or surrounded by something else.",
+            "examples": [
+              "come in"
+            ],
+            "synonyms": [
+              "inside",
+              "indoors",
+              "into the room",
+              "into the house/building \"his mom walked in\""
+            ]
+          },
+          {
+            "definition": "expressing the situation of being enclosed or surrounded by something.",
+            "examples": [
+              "we were locked in"
+            ]
+          },
+          {
+            "definition": "expressing arrival at a destination.",
+            "examples": [
+              "the train got in very late"
+            ]
+          },
+          {
+            "definition": "(of the tide) rising or at its highest level.",
+            "examples": [
+              "high, at its highest level, rising the tide's in"
+            ]
+          },
+          {
+            "definition": "(of an infielder or outfielder) playing closer to home plate than usual.",
+            "examples": [
+              "looking for a force, they brought the infield in"
+            ]
+          },
+          {
+            "definition": "(of a pitch) very close to the batter.",
+            "examples": [
+              "he threw a fastball in and up a little"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "in"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) present at one's home or office.",
+            "examples": [
+              "we knocked at the door but there was no one in"
+            ],
+            "synonyms": [
+              "present",
+              "(at) home; Moreinside",
+              "indoors",
+              "in the house/room \"no one is in\""
+            ]
+          },
+          {
+            "definition": "fashionable.",
+            "examples": [
+              "pastels and light colors are in this year"
+            ],
+            "synonyms": [
+              "fashionable",
+              "in fashion",
+              "in vogue",
+              "popular",
+              "stylish",
+              "modern",
+              "modish",
+              "chic",
+              "à la mode",
+              "de rigueur",
+              "trendy",
+              "cool",
+              "all the rage",
+              "du jour",
+              "with it",
+              "the in thing",
+              "hip",
+              "hot \"sculpted beards are in\""
+            ],
+            "antonyms": [
+              "unfashionable",
+              "unpopular"
+            ]
+          },
+          {
+            "definition": "(of the ball in tennis and similar games) landing within the designated playing area."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "in"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a position of influence.",
+            "examples": [
+              "he would ensure an in with the nominee"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "in.",
+    "syllables": [
+      "in."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "in."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "inch(es)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-in",
+    "syllables": [
+      "-in"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffixChemistry",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-in"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming names of organic compounds, pharmaceutical products, proteins, etc.",
+            "examples": [
+              "insulin"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "in-",
+    "syllables": [
+      "in-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "in-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(added to adjectives) not.",
+            "examples": [
+              "inanimate"
+            ]
+          },
+          {
+            "definition": "(added to nouns) without; lacking.",
+            "examples": [
+              "inadvertence"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-in",
+    "syllables": [
+      "-in"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-in"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting a gathering of people having a common purpose, typically as a form of protest.",
+            "examples": [
+              "sit-in"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "in-",
+    "syllables": [
+      "in-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "in-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in; into; toward; within.",
+            "examples": [
+              "induce"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "IN",
+    "syllables": [
+      "IN"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "IN"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "Indiana (in official postal use)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "In",
+    "syllables": [
+      "In"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "symbol",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "In"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the chemical element indium."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "indium",
+    "syllables": [
+      "in",
+      "di",
+      "um"
+    ],
+    "pronunciation": "ˈindēəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "In"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the chemical element of atomic number 49, a soft silvery-white metal occurring naturally in association with zinc and some other metals."
+          }
+        ]
+      }
+    ]
+  }
+]

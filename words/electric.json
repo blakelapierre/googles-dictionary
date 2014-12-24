@@ -1,0 +1,89 @@
+[
+  {
+    "word": "electric",
+    "syllables": [
+      "e",
+      "lec",
+      "tric"
+    ],
+    "pronunciation": "əˈlektrik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "electric"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, worked by, charged with, or producing electricity.",
+            "examples": [
+              "an electric stove"
+            ],
+            "synonyms": [
+              "electric-powered",
+              "electrically operated",
+              "battery-operated \"an electric kettle\""
+            ]
+          },
+          {
+            "definition": "(of a musical instrument) amplified through a loudspeaker.",
+            "examples": [
+              "electric bass guitar"
+            ]
+          },
+          {
+            "definition": "(of a color) brilliant and vivid.",
+            "examples": [
+              "images shot through with jagged streaks of electric blue"
+            ]
+          },
+          {
+            "definition": "having or producing a sudden sense of thrilling excitement.",
+            "examples": [
+              "the atmosphere was electric"
+            ],
+            "synonyms": [
+              "exciting",
+              "charged",
+              "electrifying",
+              "thrilling",
+              "heady",
+              "dramatic",
+              "intoxicating",
+              "dynamic",
+              "stimulating",
+              "galvanizing",
+              "rousing",
+              "stirring",
+              "moving; Moretense",
+              "knife-edge",
+              "explosive",
+              "volatile \"the atmosphere was electric\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "electric"
+          },
+          {
+            "part": "plural noun",
+            "variant": "electrics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an electric train or other vehicle."
+          }
+        ]
+      }
+    ]
+  }
+]

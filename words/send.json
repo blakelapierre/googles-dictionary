@@ -1,0 +1,95 @@
+{
+  "word": "send",
+  "syllables": [
+    "send"
+  ],
+  "pronunciation": "send",
+  "parts": [
+    {
+      "part": "verb",
+      "letiants": [
+        {
+          "part": "gerund or present participle",
+          "letiant": "sending"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "cause to go or be taken to a particular destination; arrange for the delivery of, especially by mail.",
+          "examples": [
+            "we sent a reminder letter but received no reply"
+          ],
+          "synonyms": [
+            "dispatch",
+            "post",
+            "mail",
+            "address",
+            "consign",
+            "direct",
+            "forward; Moretransmit",
+            "convey",
+            "communicate; telephone",
+            "phone",
+            "broadcast",
+            "radio",
+            "fax",
+            "email; datedtelegraph",
+            "wire",
+            "cable \"they sent a message to HQ\""
+          ],
+          "antonyms": [
+            "receive"
+          ]
+        },
+        {
+          "definition": "cause (a message or computer file) to be transmitted electronically.",
+          "examples": [
+            "send your document as a PDF attachment"
+          ]
+        },
+        {
+          "definition": "order or instruct to go to a particular destination or in a particular direction.",
+          "examples": [
+            "Clemons sent me to Bangkok for R&R"
+          ]
+        },
+        {
+          "definition": "send a message or letter.",
+          "examples": [
+            "he sent to invite her to supper"
+          ]
+        },
+        {
+          "definition": "cause to move sharply or quickly; propel.",
+          "examples": [
+            "the volcano sent clouds of ash up four miles into the air"
+          ],
+          "synonyms": [
+            "propel",
+            "project",
+            "eject",
+            "deliver",
+            "discharge",
+            "spout",
+            "fire",
+            "shoot",
+            "release; Morethrow",
+            "let fly; informalchuck \"the pump sent out a jet of steam\""
+          ]
+        },
+        {
+          "definition": "arrange for someone to go to (an institution) and stay there for a particular purpose.",
+          "examples": [
+            "many parents prefer to send their children to single-sex schools"
+          ]
+        },
+        {
+          "definition": "affect with powerful emotion; put into ecstasy.",
+          "examples": [
+            "it's the spectacle and music that send us, not the words"
+          ]
+        }
+      ]
+    }
+  ]
+}

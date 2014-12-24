@@ -1,0 +1,130 @@
+{
+  "word": "regret",
+  "syllables": [
+    "re",
+    "gret"
+  ],
+  "pronunciation": "rəˈɡret",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "regret"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "regrets"
+        },
+        {
+          "part": "past tense",
+          "variant": "regretted"
+        },
+        {
+          "part": "past participle",
+          "variant": "regretted"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "regretting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "feel sad, repentant, or disappointed over (something that has happened or been done, especially a loss or missed opportunity).",
+          "examples": [
+            "she immediately regretted her words"
+          ],
+          "synonyms": [
+            "be sorry about",
+            "feel contrite about",
+            "feel remorse about/for",
+            "be remorseful about",
+            "rue",
+            "repent (of)",
+            "feel repentant about",
+            "be regretful at/about More\"they came to regret their decision\"mourn",
+            "grieve for/over",
+            "feel grief at",
+            "weep over",
+            "sigh over",
+            "feel sad about",
+            "lament",
+            "sorrow for",
+            "deplore \"regretting the passing of youth\""
+          ],
+          "antonyms": [
+            "welcome",
+            "applaud"
+          ]
+        },
+        {
+          "definition": "used in polite formulas to express apology for or sadness over something unfortunate or unpleasant.",
+          "examples": [
+            "any inconvenience to readers is regretted"
+          ]
+        },
+        {
+          "definition": "feel sorrow for the loss or absence of (something pleasant).",
+          "examples": [
+            "my home, when shall I cease to regret you!"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "regret"
+        },
+        {
+          "part": "plural noun",
+          "variant": "regrets"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a feeling of sadness, repentance, or disappointment over something that has happened or been done.",
+          "examples": [
+            "she expressed her regret at Virginia's death"
+          ],
+          "synonyms": [
+            "remorse",
+            "sorrow",
+            "contrition",
+            "contriteness",
+            "repentance",
+            "penitence",
+            "guilt",
+            "compunction",
+            "remorsefulness",
+            "ruefulness More\"both players later expressed regret\"sadness",
+            "sorrow",
+            "disappointment",
+            "unhappiness",
+            "grief \"they left with genuine regret\""
+          ],
+          "antonyms": [
+            "satisfaction",
+            "happiness"
+          ]
+        },
+        {
+          "definition": "an instance or cause of regret.",
+          "examples": [
+            "she had few regrets in leaving the house"
+          ]
+        },
+        {
+          "definition": "used in polite formulas to express apology for or sadness at an occurrence or an inability to accept an invitation.",
+          "examples": [
+            "plural noun: one's regrets"
+          ]
+        }
+      ]
+    }
+  ]
+}

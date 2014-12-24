@@ -1,0 +1,72 @@
+{
+  "word": "A",
+  "syllables": [
+    "A"
+  ],
+  "pronunciation": "ā",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "A"
+        },
+        {
+          "part": "plural noun",
+          "variant": "A's"
+        },
+        {
+          "part": "plural noun",
+          "variant": "As"
+        },
+        {
+          "part": "noun",
+          "variant": "a"
+        },
+        {
+          "part": "plural noun",
+          "variant": "as"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the first letter of the alphabet."
+        },
+        {
+          "definition": "denoting the first in a set of items, categories, sizes, etc."
+        },
+        {
+          "definition": "denoting the first of two or more hypothetical people or things.",
+          "examples": [
+            "suppose A had killed B"
+          ]
+        },
+        {
+          "definition": "the highest class of academic mark."
+        },
+        {
+          "definition": "denoting the first file from the left, as viewed from white's side of the board."
+        },
+        {
+          "definition": "the first fixed quantity in an algebraic expression."
+        },
+        {
+          "definition": "the human blood type (in the ABO system) containing the A agglutinogen and lacking the B."
+        },
+        {
+          "definition": "a shape like that of a capital A.",
+          "examples": [
+            "an A-shape"
+          ]
+        },
+        {
+          "definition": "the sixth note of the diatonic scale of C major."
+        },
+        {
+          "definition": "a key based on a scale with A as its keynote."
+        }
+      ]
+    }
+  ]
+}

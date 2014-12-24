@@ -1,0 +1,105 @@
+[
+  {
+    "word": "excite",
+    "syllables": [
+      "ex",
+      "cite"
+    ],
+    "pronunciation": "ikˈsīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "excite"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "excites"
+          },
+          {
+            "part": "past tense",
+            "variant": "excited"
+          },
+          {
+            "part": "past participle",
+            "variant": "excited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "exciting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause strong feelings of enthusiasm and eagerness in (someone).",
+            "examples": [
+              "flying still excites me"
+            ],
+            "synonyms": [
+              "thrill",
+              "exhilarate",
+              "animate",
+              "enliven",
+              "rouse",
+              "stir",
+              "stimulate",
+              "galvanize",
+              "electrify",
+              "inspirit; Moreinformalbuck up",
+              "pep up",
+              "give someone a buzz",
+              "give someone a kick",
+              "give someone a charge \"the prospect of a vacation excited me\""
+            ],
+            "antonyms": [
+              "bore",
+              "depress"
+            ]
+          },
+          {
+            "definition": "arouse (someone) sexually.",
+            "examples": [
+              "his kiss thrilled and excited her"
+            ],
+            "synonyms": [
+              "arouse",
+              "arouse sexually",
+              "stimulate",
+              "titillate",
+              "inflame; Moreinformalturn someone on",
+              "get someone going \"she wore a chiffon nightgown to excite him\""
+            ],
+            "antonyms": [
+              "turn off"
+            ]
+          },
+          {
+            "definition": "bring out or give rise to (a feeling or reaction).",
+            "examples": [
+              "the ability to excite interest in others"
+            ],
+            "synonyms": [
+              "provoke",
+              "stir up",
+              "rouse",
+              "arouse",
+              "kindle",
+              "trigger (off)",
+              "spark (off)",
+              "incite",
+              "cause; literaryenkindle \"his clothes excited envy\""
+            ]
+          },
+          {
+            "definition": "produce a state of increased energy or activity in (a physical or biological system).",
+            "examples": [
+              "the energy of an electron is sufficient to excite the atom"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

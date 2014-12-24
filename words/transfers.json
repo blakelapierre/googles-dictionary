@@ -1,0 +1,32 @@
+[
+  {
+    "word": "transfer",
+    "syllables": [
+      "trans",
+      "fer"
+    ],
+    "pronunciation": "transˈfərˈtransfərˈtran(t)sfər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "transfers"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "transfers"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

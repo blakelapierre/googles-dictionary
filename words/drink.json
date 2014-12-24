@@ -1,0 +1,158 @@
+{
+  "word": "drink",
+  "syllables": [
+    "drink"
+  ],
+  "pronunciation": "driNGk",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "drinks"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "take (a liquid) into the mouth and swallow.",
+          "examples": [
+            "we sat by the fire, drinking our coffee"
+          ],
+          "synonyms": [
+            "swallow",
+            "gulp down",
+            "quaff",
+            "guzzle",
+            "imbibe",
+            "sip",
+            "consume; Moreinformalswig",
+            "down",
+            "knock back",
+            "put away",
+            "swill",
+            "chug \"she drank her coffee\""
+          ]
+        },
+        {
+          "definition": "consume or be in the habit of consuming alcohol, especially to excess.",
+          "examples": [
+            "she doesn't drink or smoke"
+          ],
+          "synonyms": [
+            "drink alcohol",
+            "tipple",
+            "indulge; Morecarouse; informalhit the bottle",
+            "booze",
+            "booze it up",
+            "knock a few back",
+            "get tanked up",
+            "go on a bender",
+            "bend one's elbow \"he never drank\""
+          ]
+        },
+        {
+          "definition": "consume the rest of a drink, especially in a rapid manner."
+        },
+        {
+          "definition": "(of a plant or a porous substance) absorb (moisture)."
+        },
+        {
+          "definition": "(of wine) have a specified flavor or character when drunk.",
+          "examples": [
+            "this wine is really drinking beautifully"
+          ]
+        },
+        {
+          "definition": "watch or listen to something with eager pleasure or interest.",
+          "examples": [
+            "she strolled to the window to drink in the view"
+          ],
+          "synonyms": [
+            "absorb",
+            "assimilate",
+            "digest",
+            "ingest",
+            "take in; Morebe rapt in",
+            "be lost in",
+            "be fascinated by",
+            "pay close attention to \"I'll just sit here and drink in the scenery\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "drinks"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a liquid that can be swallowed as refreshment or nourishment.",
+          "examples": [
+            "cans of soda and other drinks"
+          ],
+          "synonyms": [
+            "beverage",
+            "liquid refreshment; Morebracer",
+            "nightcap",
+            "nip; humorouslibation; archaicpotation \"he took a sip of his drink\""
+          ]
+        },
+        {
+          "definition": "a quantity of liquid swallowed.",
+          "examples": [
+            "he had a drink of water"
+          ],
+          "synonyms": [
+            "swallow",
+            "gulp",
+            "sip",
+            "draft",
+            "slug; Moreinformalswig",
+            "swill \"she took a drink of her wine\""
+          ]
+        },
+        {
+          "definition": "alcohol, or the habitual or excessive consumption of alcohol.",
+          "examples": [
+            "the effects of too much drink"
+          ],
+          "synonyms": [
+            "alcohol",
+            "liquor",
+            "alcoholic drink; Moreinformalbooze",
+            "hooch",
+            "the hard stuff",
+            "firewater",
+            "rotgut",
+            "moonshine",
+            "the bottle",
+            "the sauce \"she turned to drink\""
+          ]
+        },
+        {
+          "definition": "a glass of liquid, especially when alcoholic.",
+          "examples": [
+            "we went for a drink"
+          ]
+        },
+        {
+          "definition": "the sea or another large area of water.",
+          "examples": [
+            "noun: the drink"
+          ],
+          "synonyms": [
+            "the sea",
+            "the ocean",
+            "the water; Moreinformalthe briny",
+            "Davy Jones's locker; literarythe deep \"he fell into the drink\""
+          ]
+        }
+      ]
+    }
+  ]
+}

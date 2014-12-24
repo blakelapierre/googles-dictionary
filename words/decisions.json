@@ -1,0 +1,84 @@
+[
+  {
+    "word": "decision",
+    "syllables": [
+      "de",
+      "ci",
+      "sion"
+    ],
+    "pronunciation": "dəˈsiZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "decisions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a conclusion or resolution reached after consideration.",
+            "examples": [
+              "I'll make the decision on my own"
+            ],
+            "synonyms": [
+              "resolution",
+              "conclusion",
+              "settlement",
+              "commitment",
+              "resolve",
+              "determination; Morechoice",
+              "option",
+              "selection \"they came to a decision\"verdict",
+              "finding",
+              "ruling",
+              "recommendation",
+              "judgment",
+              "judgment call",
+              "pronouncement",
+              "adjudication",
+              "order",
+              "rule",
+              "resolve; findings",
+              "results; determination \"the judge's decision\""
+            ]
+          },
+          {
+            "definition": "the action or process of deciding something or of resolving a question.",
+            "examples": [
+              "the information was used as the basis for decision"
+            ]
+          },
+          {
+            "definition": "a formal judgment.",
+            "examples": [
+              "last year's Supreme Court decision"
+            ]
+          },
+          {
+            "definition": "the ability or tendency to make decisions quickly; decisiveness.",
+            "examples": [
+              "she was a woman of decision"
+            ],
+            "synonyms": [
+              "decisiveness",
+              "determination",
+              "resolution",
+              "resolve",
+              "firmness; Morestrong-mindedness",
+              "purpose",
+              "purposefulness \"his order had a ring of decision\""
+            ]
+          },
+          {
+            "definition": "the awarding of a fight, in the absence of a knockout or technical knockout, to the boxer with the most rounds won or with the most points."
+          },
+          {
+            "definition": "a win or a loss assigned to a pitcher."
+          }
+        ]
+      }
+    ]
+  }
+]

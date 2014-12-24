@@ -1,0 +1,126 @@
+[
+  {
+    "word": "help",
+    "syllables": [
+      "help"
+    ],
+    "pronunciation": "help",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "helps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make it easier for (someone) to do something by offering one's services or resources.",
+            "examples": [
+              "Roger's companion helped him with the rent"
+            ],
+            "synonyms": [
+              "assist",
+              "aid",
+              "lend a (helping) hand to",
+              "give assistance to",
+              "come to the aid of; Morebe of service to",
+              "be of use to; do someone a favor",
+              "do someone a service",
+              "do someone a good turn",
+              "bail someone out",
+              "come to someone's/the rescue",
+              "give someone a leg up; informalget someone out of a tight spot",
+              "save someone's bacon",
+              "save someone's skin \"can you help me please?\""
+            ],
+            "antonyms": [
+              "hinder"
+            ]
+          },
+          {
+            "definition": "improve (a situation or problem); be of benefit to.",
+            "examples": [
+              "upbeat comments about prospects helped confidence"
+            ],
+            "synonyms": [
+              "relieve",
+              "soothe",
+              "ease",
+              "alleviate",
+              "make better",
+              "improve",
+              "assuage",
+              "lessen; Moreremedy",
+              "cure",
+              "heal \"sore throats are helped by lozenges\""
+            ],
+            "antonyms": [
+              "worsen"
+            ]
+          },
+          {
+            "definition": "assist (someone) to move in a specified direction.",
+            "examples": [
+              "I helped her up"
+            ]
+          },
+          {
+            "definition": "assist someone to put on or take off (a garment)."
+          },
+          {
+            "definition": "serve someone with (food or drink).",
+            "examples": [
+              "she helped herself to a cookie"
+            ]
+          },
+          {
+            "definition": "take something without permission.",
+            "examples": [
+              "he helped himself to the wages she had brought home"
+            ],
+            "synonyms": [
+              "steal",
+              "take",
+              "appropriate",
+              "borrow",
+              "liberate",
+              "pocket",
+              "lift",
+              "purloin",
+              "commandeer; Moreinformalswipe",
+              "nab",
+              "filch",
+              "walk off with",
+              "run off with",
+              "pinch \"Tara helped herself to one of the photo albums that we left on the table\""
+            ]
+          },
+          {
+            "definition": "cannot or could not avoid.",
+            "examples": [
+              "he could not help laughing"
+            ],
+            "synonyms": [
+              "be unable to stop",
+              "be unable to refrain from",
+              "be unable to keep from \"he could not help laughing\""
+            ]
+          },
+          {
+            "definition": "cannot or could not stop oneself from acting in a certain way.",
+            "examples": [
+              "she couldn't help herself; she burst into tears"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

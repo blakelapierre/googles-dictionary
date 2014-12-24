@@ -1,0 +1,229 @@
+{
+  "word": "land",
+  "syllables": [
+    "land"
+  ],
+  "pronunciation": "land",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "land"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the part of the earth's surface that is not covered by water, as opposed to the sea or the air.",
+          "examples": [
+            "the reptiles lay their eggs on land"
+          ],
+          "synonyms": [
+            "terra firma",
+            "dry land; Morecoast",
+            "coastline",
+            "shore \"the lookout sighted land to the east\""
+          ],
+          "antonyms": [
+            "sea"
+          ]
+        },
+        {
+          "definition": "living or traveling on land rather than in water or the air.",
+          "examples": [
+            "modifier noun: land"
+          ]
+        },
+        {
+          "definition": "an expanse of land; an area of ground, especially in terms of its ownership or use.",
+          "examples": [
+            "plural noun: lands"
+          ]
+        },
+        {
+          "definition": "ground or soil used as a basis for agriculture.",
+          "examples": [
+            "noun: the land"
+          ]
+        },
+        {
+          "definition": "a country.",
+          "examples": [
+            "the valley is one of the most beautiful in the land"
+          ],
+          "synonyms": [
+            "country",
+            "nation",
+            "nation state",
+            "state",
+            "realm",
+            "kingdom",
+            "province; Moreregion",
+            "area",
+            "domain \"Tunisia is a land of variety\""
+          ]
+        },
+        {
+          "definition": "a conceptual realm or domain.",
+          "examples": [
+            "you are living in a fantasy land"
+          ]
+        },
+        {
+          "definition": "the space between the rifling grooves in a gun."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "land"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "lands"
+        },
+        {
+          "part": "past tense",
+          "variant": "landed"
+        },
+        {
+          "part": "past participle",
+          "variant": "landed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "landing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "put (someone or something) on land from a boat.",
+          "examples": [
+            "the lifeboat landed the survivors safely ashore"
+          ]
+        },
+        {
+          "definition": "go ashore; disembark.",
+          "examples": [
+            "the marines landed at a small fishing jetty"
+          ],
+          "synonyms": [
+            "disembark",
+            "go ashore",
+            "debark",
+            "alight",
+            "get off \"Canadian troops landed at Juno Beach\""
+          ],
+          "antonyms": [
+            "embark"
+          ]
+        },
+        {
+          "definition": "bring (a fish) to land, especially with a net or hook.",
+          "examples": [
+            "I landed a scrappy three-pound walleye"
+          ]
+        },
+        {
+          "definition": "succeed in obtaining or achieving (something desirable), especially in the face of strong competition.",
+          "examples": [
+            "she landed the starring role in a new film"
+          ],
+          "synonyms": [
+            "obtain",
+            "get",
+            "acquire",
+            "secure",
+            "be appointed to",
+            "gain",
+            "net",
+            "win",
+            "achieve",
+            "attain",
+            "carry off; informalbag \"Nick landed the job of editor\""
+          ]
+        },
+        {
+          "definition": "come down through the air and alight on the ground.",
+          "examples": [
+            "planes landing at the rate of two a minute"
+          ],
+          "synonyms": [
+            "touch down",
+            "make a landing",
+            "come in to land",
+            "come down More\"their plane landed in Chicago\"perch",
+            "settle",
+            "come to rest",
+            "alight \"a bird landed on the branch\""
+          ],
+          "antonyms": [
+            "take off",
+            "fly off"
+          ]
+        },
+        {
+          "definition": "bring (an aircraft or spacecraft) to the ground or the surface of water, especially in a controlled way.",
+          "examples": [
+            "the copilot landed the plane"
+          ]
+        },
+        {
+          "definition": "reach the ground after falling or jumping.",
+          "examples": [
+            "he leaped over the fence and landed nimbly on his feet"
+          ]
+        },
+        {
+          "definition": "(of an object) come to rest after falling or being thrown.",
+          "examples": [
+            "the plate landed in her lap"
+          ]
+        },
+        {
+          "definition": "(of something unpleasant or unexpected) arrive suddenly.",
+          "examples": [
+            "there seemed to be more problems than ever landing on her desk this week"
+          ]
+        },
+        {
+          "definition": "cause someone to be in (a difficult or unwelcome situation).",
+          "examples": [
+            "his exploits always landed him in trouble"
+          ],
+          "synonyms": [
+            "bring",
+            "lead to",
+            "drive to",
+            "cause to be in \"Joanne's drug habit landed her in big trouble\""
+          ]
+        },
+        {
+          "definition": "inflict (an unwelcome task or a difficult situation) on someone.",
+          "examples": [
+            "the mistake landed the company with a massive bill"
+          ]
+        },
+        {
+          "definition": "inflict (a blow) on someone.",
+          "examples": [
+            "I won the fight without landing a single punch"
+          ],
+          "synonyms": [
+            "inflict",
+            "deal",
+            "deliver",
+            "administer",
+            "dispense",
+            "score",
+            "mete out \"he landed a left hook that staggered Curry\""
+          ]
+        }
+      ]
+    }
+  ]
+}

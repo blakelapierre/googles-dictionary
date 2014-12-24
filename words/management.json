@@ -1,0 +1,75 @@
+[
+  {
+    "word": "management",
+    "syllables": [
+      "man",
+      "age",
+      "ment"
+    ],
+    "pronunciation": "ˈmanijmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "management"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of dealing with or controlling things or people.",
+            "examples": [
+              "the management of elk herds"
+            ]
+          },
+          {
+            "definition": "the responsibility for and control of a company or similar organization.",
+            "examples": [
+              "the management of a great metropolitan newspaper"
+            ],
+            "synonyms": [
+              "administration",
+              "running",
+              "managing",
+              "organization; Morecharge",
+              "care",
+              "direction",
+              "leadership",
+              "control",
+              "governing",
+              "governance",
+              "ruling",
+              "command",
+              "superintendence",
+              "supervision",
+              "overseeing",
+              "conduct",
+              "handling",
+              "guidance",
+              "operation \"he's responsible for the management of the firm\""
+            ]
+          },
+          {
+            "definition": "the people in charge of running a company or organization, regarded collectively.",
+            "examples": [
+              "plural noun: managements"
+            ]
+          },
+          {
+            "definition": "the treatment or control of diseases, injuries, or disorders, or the care of patients who suffer from them.",
+            "examples": [
+              "the use of combination chemotherapy in the management of breast cancer"
+            ]
+          },
+          {
+            "definition": "trickery; deceit.",
+            "examples": [
+              "if there has been any management in the business, it has been concealed from me"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

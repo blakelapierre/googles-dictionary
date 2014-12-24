@@ -1,0 +1,32 @@
+[
+  {
+    "word": "compositor",
+    "syllables": [
+      "com",
+      "pos",
+      "i",
+      "tor"
+    ],
+    "pronunciation": "kəmˈpäzədər",
+    "parts": [
+      {
+        "part": "nounPrinting",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "compositor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "compositors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who arranges type for printing or keys text into a composing machine."
+          }
+        ]
+      }
+    ]
+  }
+]

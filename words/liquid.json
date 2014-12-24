@@ -1,0 +1,130 @@
+{
+  "word": "liquid",
+  "syllables": [
+    "liq",
+    "uid"
+  ],
+  "pronunciation": "ˈlikwid",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "liquid"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "having a consistency like that of water or oil, i.e., flowing freely but of constant volume.",
+          "examples": [
+            "fluid, liquefied; Moremelted, molten, thawed, dissolved; hydrous \"liquid fuels\"Moremelted, molten, thawed, dissolved; hydrous liquid fuels"
+          ],
+          "antonyms": [
+            "solid",
+            "gaseous"
+          ]
+        },
+        {
+          "definition": "having the clear shimmer of water.",
+          "examples": [
+            "looking into those liquid dark eyes"
+          ],
+          "synonyms": [
+            "clear",
+            "limpid",
+            "crystal clear",
+            "crystalline",
+            "pellucid",
+            "unclouded",
+            "bright \"her liquid eyes\""
+          ],
+          "antonyms": [
+            "cloudy",
+            "opaque"
+          ]
+        },
+        {
+          "definition": "denoting a substance normally a gas that has been liquefied by cold or pressure.",
+          "examples": [
+            "liquid oxygen"
+          ]
+        },
+        {
+          "definition": "not fixed or stable; fluid."
+        },
+        {
+          "definition": "(of a sound) clear, pure, and flowing; harmonious.",
+          "examples": [
+            "the liquid song of the birds"
+          ],
+          "synonyms": [
+            "pure",
+            "clear",
+            "mellifluous",
+            "dulcet",
+            "mellow",
+            "sweet",
+            "sweet-sounding",
+            "soft",
+            "melodious",
+            "harmonious \"liquid sounds\""
+          ],
+          "antonyms": [
+            "disharmonious",
+            "cacophonous"
+          ]
+        },
+        {
+          "definition": "(of a consonant, typically l and r ) produced by allowing the airstream to flow over the sides of the tongue , and able to be prolonged like a vowel."
+        },
+        {
+          "definition": "(of assets) held in cash or easily converted into cash.",
+          "examples": [
+            "convertible, disposable, usable, spendable liquid assets"
+          ],
+          "antonyms": [
+            "tied up",
+            "unavailable"
+          ]
+        },
+        {
+          "definition": "having ready cash or liquid assets."
+        },
+        {
+          "definition": "(of a market) having a high volume of activity."
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "liquid"
+        },
+        {
+          "part": "plural noun",
+          "variant": "liquids"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a liquid substance.",
+          "examples": [
+            "drink plenty of liquids"
+          ],
+          "synonyms": [
+            "fluid",
+            "moisture; Moreliquor",
+            "solution",
+            "juice \"a vat of liquid\""
+          ]
+        },
+        {
+          "definition": "a liquid consonant."
+        }
+      ]
+    }
+  ]
+}

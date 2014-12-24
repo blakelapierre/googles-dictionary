@@ -1,0 +1,77 @@
+[
+  {
+    "word": "process",
+    "syllables": [
+      "proc",
+      "ess"
+    ],
+    "pronunciation": "ˈpräˌsesˈprōˌses",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "processing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perform a series of mechanical or chemical operations on (something) in order to change or preserve it.",
+            "examples": [
+              "the various stages in processing the wool"
+            ]
+          },
+          {
+            "definition": "operate on (computer data) by means of a program."
+          },
+          {
+            "definition": "deal with (someone) using an official and established procedure.",
+            "examples": [
+              "the immigration authorities who processed him"
+            ],
+            "synonyms": [
+              "deal with",
+              "attend to",
+              "see to",
+              "sort out",
+              "handle",
+              "take care of",
+              "action \"applications are processed rapidly\""
+            ]
+          },
+          {
+            "definition": "another term for conk3."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "process",
+    "syllables": [
+      "pro",
+      "cess"
+    ],
+    "pronunciation": "prəˈses",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "processing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "walk or march in procession.",
+            "examples": [
+              "they processed down the aisle"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

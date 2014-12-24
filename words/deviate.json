@@ -1,0 +1,57 @@
+[
+  {
+    "word": "deviate",
+    "syllables": [
+      "de",
+      "vi",
+      "ate"
+    ],
+    "pronunciation": "ˈdēvēˌātˈdēvēət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deviate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deviates"
+          },
+          {
+            "part": "past tense",
+            "variant": "deviated"
+          },
+          {
+            "part": "past participle",
+            "variant": "deviated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deviating"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun & adjective",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deviate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "deviates"
+          },
+          {
+            "part": "adjective",
+            "variant": "deviate"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

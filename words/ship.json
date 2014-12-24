@@ -1,0 +1,232 @@
+[
+  {
+    "word": "ship",
+    "syllables": [
+      "ship"
+    ],
+    "pronunciation": "SHip",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ship"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ships"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vessel larger than a boat for transporting people or goods by sea.",
+            "examples": [
+              "boat, vessel, craft they traveled by ship"
+            ]
+          },
+          {
+            "definition": "a sailing vessel with a bowsprit and three or more square-rigged masts."
+          },
+          {
+            "definition": "any boat, especially a racing boat."
+          },
+          {
+            "definition": "a spaceship."
+          },
+          {
+            "definition": "an aircraft."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ship"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ships"
+          },
+          {
+            "part": "past tense",
+            "variant": "shipped"
+          },
+          {
+            "part": "past participle",
+            "variant": "shipped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "shipping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "transport (goods or people) on a ship.",
+            "examples": [
+              "the wounded soldiers were shipped home"
+            ]
+          },
+          {
+            "definition": "send by some other means of transport or by mail.",
+            "examples": [
+              "the freight would be shipped by rail"
+            ]
+          },
+          {
+            "definition": "(of a product) be made available for purchase.",
+            "examples": [
+              "the cellular phone is expected to ship at about $500 sometime this summer"
+            ]
+          },
+          {
+            "definition": "(of a naval force) go to sea from a home port.",
+            "examples": [
+              "Bob got sick a week before we shipped out"
+            ]
+          },
+          {
+            "definition": "embark on a ship.",
+            "examples": [
+              "people wishing to get from London to New York ship at Liverpool"
+            ]
+          },
+          {
+            "definition": "(of a sailor) serve on a ship.",
+            "examples": [
+              "Jack, you shipped with the Admiral once, didn't you?"
+            ]
+          },
+          {
+            "definition": "(of a boat) take in (water) over the side."
+          },
+          {
+            "definition": "take (oars) from the oarlocks and lay them inside a boat."
+          },
+          {
+            "definition": "fix (something such as a rudder or mast) in its place on a ship."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ship",
+    "syllables": [
+      "ship"
+    ],
+    "pronunciation": "SHip",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ship"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ships"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a romantic pairing between two characters in a fictional series, often one that is supported or portrayed by fans rather than depicted in the series itself.",
+            "examples": [
+              "the thing that I loved about the Mulder/Scully ship was that we knew so much about their characters"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ship"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ships"
+          },
+          {
+            "part": "past tense",
+            "variant": "shipped"
+          },
+          {
+            "part": "past participle",
+            "variant": "shipped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "shipping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "support or have a particular interest in a romantic pairing between two characters in a fictional series, often when this relationship is one portrayed by fans rather than depicted in the series itself.",
+            "examples": [
+              "I'm still shipping for Edward/Hermione"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-ship",
+    "syllables": [
+      "-ship"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-ship"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming nouns:"
+          },
+          {
+            "definition": "denoting a quality or condition.",
+            "examples": [
+              "companionship"
+            ]
+          },
+          {
+            "definition": "denoting status, office, or honor.",
+            "examples": [
+              "ambassadorship"
+            ]
+          },
+          {
+            "definition": "denoting a tenure of office.",
+            "examples": [
+              "chairmanship"
+            ]
+          },
+          {
+            "definition": "denoting a skill in a certain capacity.",
+            "examples": [
+              "entrepreneurship"
+            ]
+          },
+          {
+            "definition": "denoting the collective individuals of a group.",
+            "examples": [
+              "membership"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "inquiry",
+    "syllables": [
+      "in",
+      "quir",
+      "y"
+    ],
+    "pronunciation": "ˈinkwərēinˈkwī(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "enquiry"
+          },
+          {
+            "part": "plural noun",
+            "variant": "enquiries"
+          },
+          {
+            "part": "noun",
+            "variant": "inquiry"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inquiries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of asking for information.",
+            "examples": [
+              "the deluge of phone inquiries after a crash"
+            ],
+            "synonyms": [
+              "question",
+              "query \"an inquiry about our location\""
+            ]
+          },
+          {
+            "definition": "an official investigation.",
+            "examples": [
+              "investigation, probe, examination, review, analysis, exploration; Moreinquest, hearing \"an inquiry into alleged security leaks\"Moreinquest, hearing an inquiry into alleged security leaks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "word": "lake",
+    "syllables": [
+      "lake"
+    ],
+    "pronunciation": "lāk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lake"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lakes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large body of water surrounded by land.",
+            "examples": [
+              "boys were swimming in the lake"
+            ],
+            "synonyms": [
+              "pond",
+              "pool",
+              "tarn",
+              "reservoir",
+              "slough",
+              "lagoon",
+              "water",
+              "waterhole",
+              "watering hole",
+              "inland sea; Moreoxbow (lake)",
+              "pothole (lake)",
+              "glacial lake; loch; literarymere \"the frozen lake\""
+            ]
+          },
+          {
+            "definition": "a pool of liquid.",
+            "examples": [
+              "the fish was served in a bright lake of spicy carrot sauce"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lake",
+    "syllables": [
+      "lake"
+    ],
+    "pronunciation": "lāk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lake"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lakes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an insoluble pigment made by combining a soluble organic dye and an insoluble mordant."
+          },
+          {
+            "definition": "a purplish-red pigment made the same way as lake, used in dyes, inks, and paints and originally made with lac."
+          }
+        ]
+      }
+    ]
+  }
+]

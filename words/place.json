@@ -1,0 +1,309 @@
+{
+  "word": "place",
+  "syllables": [
+    "place"
+  ],
+  "pronunciation": "plās",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "places"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a particular position or point in space.",
+          "examples": [
+            "there were still some remote places in the world"
+          ],
+          "synonyms": [
+            "location",
+            "site",
+            "spot",
+            "setting",
+            "position",
+            "situation",
+            "area",
+            "region",
+            "locale; Morevenue; technicallocus \"an ideal place for dinner\"country",
+            "state",
+            "area",
+            "region",
+            "town",
+            "city; locality",
+            "district; literaryclime \"foreign places\""
+          ]
+        },
+        {
+          "definition": "a particular point on a larger surface or in a larger object or area.",
+          "examples": [
+            "he lashed out and cut the policeman's hand in three places"
+          ]
+        },
+        {
+          "definition": "a building or area used for a specified purpose or activity.",
+          "examples": [
+            "the town has many excellent eating places"
+          ]
+        },
+        {
+          "definition": "a person's home.",
+          "examples": [
+            "what about dinner at my place?"
+          ],
+          "synonyms": [
+            "home",
+            "house",
+            "flat",
+            "apartment; Moreaccommodations",
+            "property",
+            "pied-à-terre; rooms",
+            "quarters; informalpad",
+            "digs; formalresidence",
+            "abode",
+            "dwelling (place)",
+            "domicile",
+            "habitation \"a place of her own\""
+          ]
+        },
+        {
+          "definition": "a point in a book or other text reached by a reader at a particular time.",
+          "examples": [
+            "I must have lost my place in the script"
+          ]
+        },
+        {
+          "definition": "a portion of space available or designated for or being used by someone.",
+          "examples": [
+            "they hurried to their places at the table"
+          ],
+          "synonyms": [
+            "seat",
+            "chair",
+            "space \"a place was reserved for her\""
+          ]
+        },
+        {
+          "definition": "a vacancy or available position.",
+          "examples": [
+            "she won a place to study German at the university"
+          ],
+          "synonyms": [
+            "job",
+            "position",
+            "post",
+            "appointment",
+            "situation",
+            "office; employment \"I offered him a place in the company\""
+          ]
+        },
+        {
+          "definition": "the regular or proper position of something.",
+          "examples": [
+            "lay each slab in place"
+          ]
+        },
+        {
+          "definition": "a person's rank or status.",
+          "examples": [
+            "occupation structures a person's place in society"
+          ],
+          "synonyms": [
+            "status",
+            "position",
+            "standing",
+            "rank",
+            "niche; Moredatedestate",
+            "station \"I know my place\""
+          ]
+        },
+        {
+          "definition": "a right or privilege resulting from someone's role or position.",
+          "examples": [
+            "I'm sure she has a story to tell, but it's not my place to ask"
+          ],
+          "synonyms": [
+            "responsibility",
+            "duty",
+            "job",
+            "task",
+            "role",
+            "function",
+            "concern",
+            "affair",
+            "charge; Moreright",
+            "privilege",
+            "prerogative \"it was not her place to sort it out\""
+          ]
+        },
+        {
+          "definition": "the role played by or importance attached to someone or something in a particular context.",
+          "examples": [
+            "the place of computers in improving office efficiency varies between companies"
+          ]
+        },
+        {
+          "definition": "a position in a sequence, in particular."
+        },
+        {
+          "definition": "a position in a contest.",
+          "examples": [
+            "his score was good enough to leave him in ninth place"
+          ]
+        },
+        {
+          "definition": "the second position, especially in a horse race."
+        },
+        {
+          "definition": "any of the first three or sometimes four positions in a race (used especially of the second, third, or fourth positions)."
+        },
+        {
+          "definition": "the degree of priority given to something.",
+          "examples": [
+            "accurate reportage takes second place to lurid detail"
+          ]
+        },
+        {
+          "definition": "the position of a figure in a series indicated in decimal or similar notation, especially one after the decimal point.",
+          "examples": [
+            "calculate the ratios to one decimal place"
+          ]
+        },
+        {
+          "definition": "(in place names) a square or a short street.",
+          "examples": [
+            "our new restaurant is in Hilliard Place"
+          ]
+        },
+        {
+          "definition": "a country house with its grounds."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "places"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "put in a particular position.",
+          "examples": [
+            "a newspaper had been placed beside my plate"
+          ],
+          "synonyms": [
+            "put (down)",
+            "set (down)",
+            "lay",
+            "deposit",
+            "position",
+            "plant",
+            "rest",
+            "stand",
+            "station",
+            "situate",
+            "leave; Moreinformalstick",
+            "dump",
+            "park",
+            "plonk",
+            "pop",
+            "plunk \"books were placed on the table\""
+          ]
+        },
+        {
+          "definition": "cause to be in a particular situation.",
+          "examples": [
+            "enemy officers were placed under arrest"
+          ]
+        },
+        {
+          "definition": "used to express the attitude someone has toward someone or something.",
+          "examples": [
+            "I am not able to place any trust in you"
+          ],
+          "synonyms": [
+            "put",
+            "lay",
+            "set",
+            "invest \"the trust you placed in me\""
+          ]
+        },
+        {
+          "definition": "used to indicate the degree of advantage or convenience enjoyed by someone or something as a result of their position or circumstances.",
+          "examples": [
+            "the company is well placed to seize the opportunity"
+          ]
+        },
+        {
+          "definition": "find a home or employment for.",
+          "examples": [
+            "the children were placed with foster parents"
+          ],
+          "synonyms": [
+            "house with",
+            "billet to; Moreallocate to",
+            "assign to",
+            "appoint to \"we were placed with foster parents\""
+          ]
+        },
+        {
+          "definition": "dispose of (something, especially shares) by selling to a customer."
+        },
+        {
+          "definition": "arrange for the recognition and implementation of (an order, bet, etc.).",
+          "examples": [
+            "they placed a contract for three boats"
+          ]
+        },
+        {
+          "definition": "order or obtain a connection for (a telephone call) through an operator."
+        },
+        {
+          "definition": "identify or classify as being of a specified type or as holding a specified position in a sequence or hierarchy.",
+          "examples": [
+            "a survey placed the company 13th for achievement"
+          ],
+          "synonyms": [
+            "rank",
+            "order",
+            "grade",
+            "class",
+            "classify",
+            "categorize; Moreput",
+            "set",
+            "assign \"a survey placed the company sixth\""
+          ]
+        },
+        {
+          "definition": "remember where one has seen or how one comes to recognize (someone or something).",
+          "examples": [
+            "she eventually said she couldn't place him"
+          ],
+          "synonyms": [
+            "identify",
+            "recognize",
+            "remember",
+            "put a name to",
+            "pin down; Morelocate",
+            "pinpoint \"Joe couldn't quite place her\""
+          ]
+        },
+        {
+          "definition": "achieve a specified position in a race.",
+          "examples": [
+            "he was placed eleventh in the long individual race"
+          ]
+        },
+        {
+          "definition": "be among the first three in a race (or the first three or four in the UK)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "both",
+    "syllables": [
+      "both"
+    ],
+    "pronunciation": "bōTH",
+    "parts": [
+      {
+        "part": "predeterminer, determiner, & pronoun",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "both"
+          },
+          {
+            "part": "pronoun",
+            "variant": "both"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to refer to two people or things, regarded and identified together.",
+            "examples": [
+              "both his parents indulged him"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "both"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used before the first of two alternatives to emphasize that the statement being made applies to each (the other alternative being introduced by “and”).",
+            "examples": [
+              "they all loved to play, both the boys and the girls"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

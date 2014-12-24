@@ -1,0 +1,51 @@
+[
+  {
+    "word": "membrane",
+    "syllables": [
+      "mem",
+      "brane"
+    ],
+    "pronunciation": "ˈmemˌbrān",
+    "parts": [
+      {
+        "part": "nounAnatomyZoology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "membrane"
+          },
+          {
+            "part": "plural noun",
+            "variant": "membranes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a pliable sheetlike structure acting as a boundary, lining, or partition in an organism.",
+            "examples": [
+              "layer, sheet, skin, film, tissue, integument, overlay; pellicle the sensitive membranes in the mouth"
+            ]
+          },
+          {
+            "definition": "a thin pliable sheet or skin of various kinds.",
+            "examples": [
+              "the concrete should include a membrane to prevent water seepage"
+            ],
+            "synonyms": [
+              "layer",
+              "sheet",
+              "skin",
+              "film",
+              "tissue",
+              "integument",
+              "overlay; technicalpellicle \"the sensitive membranes in the mouth\""
+            ]
+          },
+          {
+            "definition": "a microscopic double layer of lipids and proteins that bounds cells and organelles and forms structures within cells."
+          }
+        ]
+      }
+    ]
+  }
+]

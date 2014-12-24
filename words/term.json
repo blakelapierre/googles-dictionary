@@ -1,0 +1,205 @@
+{
+  "word": "term",
+  "syllables": [
+    "term"
+  ],
+  "pronunciation": "tərm",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "term"
+        },
+        {
+          "part": "plural noun",
+          "variant": "terms"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a word or phrase used to describe a thing or to express a concept, especially in a particular kind of language or branch of study.",
+          "examples": [
+            "the musical term “leitmotiv”"
+          ],
+          "synonyms": [
+            "word",
+            "expression",
+            "phrase",
+            "turn of phrase",
+            "idiom",
+            "locution; Morename",
+            "title",
+            "designation",
+            "label",
+            "moniker; formalappellation",
+            "denomination",
+            "descriptor \"scientific and technical terms\""
+          ]
+        },
+        {
+          "definition": "language used on a particular occasion; a way of expressing oneself.",
+          "examples": [
+            "a protest in the strongest possible terms"
+          ],
+          "synonyms": [
+            "language",
+            "mode of expression",
+            "manner of speaking",
+            "phraseology",
+            "terminology; Morewords",
+            "expressions \"a protest in the strongest terms\""
+          ]
+        },
+        {
+          "definition": "a word or words that may be the subject or predicate of a proposition."
+        },
+        {
+          "definition": "a fixed or limited period for which something, e.g., office, imprisonment, or investment, lasts or is intended to last.",
+          "examples": [
+            "the president is elected for a single four-year term"
+          ],
+          "synonyms": [
+            "period",
+            "period of time",
+            "time",
+            "length of time",
+            "spell",
+            "stint",
+            "duration; Morestretch",
+            "run; period of office",
+            "incumbency \"the director is elected for a two-year term\""
+          ]
+        },
+        {
+          "definition": "the duration of a person's life.",
+          "examples": [
+            "duration, length, span the whole term of your natural life"
+          ]
+        },
+        {
+          "definition": "the completion of a normal length of pregnancy.",
+          "examples": [
+            "noun: full term; plural noun: full terms"
+          ]
+        },
+        {
+          "definition": "a tenancy of a fixed period.",
+          "examples": [
+            "plural noun: term for years"
+          ]
+        },
+        {
+          "definition": "a boundary or limit, especially of time."
+        },
+        {
+          "definition": "each of the periods in the year, alternating with holidays or vacations, during which instruction is given in a school, college, or university, or during which a court holds sessions.",
+          "examples": [
+            "the summer term"
+          ],
+          "synonyms": [
+            "session",
+            "semester",
+            "trimester",
+            "quarter; intersession \"the summer term\""
+          ]
+        },
+        {
+          "definition": "conditions under which an action may be undertaken or agreement reached; stipulated or agreed-upon requirements.",
+          "examples": [
+            "the union and the company agreed upon the contract's terms"
+          ]
+        },
+        {
+          "definition": "conditions with regard to payment for something; stated charges.",
+          "examples": [
+            "loans on favorable terms"
+          ],
+          "synonyms": [
+            "conditions",
+            "stipulations",
+            "specifications",
+            "provisions",
+            "provisos",
+            "qualifications",
+            "particulars",
+            "small print",
+            "details",
+            "points More\"the terms of the contract\"rates",
+            "prices",
+            "charges",
+            "costs",
+            "fees; tariff \"a policy offering more favorable terms\""
+          ]
+        },
+        {
+          "definition": "agreed conditions under which a war or other dispute is brought to an end.",
+          "examples": [
+            "the United States played a key role in prodding the two sides to come to terms"
+          ],
+          "synonyms": [
+            "reach an agreement/understanding",
+            "make a deal",
+            "reach a compromise",
+            "meet each other halfway \"the two sides came to terms\""
+          ]
+        },
+        {
+          "definition": "each of the quantities in a ratio, series, or mathematical expression."
+        },
+        {
+          "definition": "another term for terminus."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "term"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "terms"
+        },
+        {
+          "part": "past tense",
+          "variant": "termed"
+        },
+        {
+          "part": "past participle",
+          "variant": "termed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "terming"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "give a descriptive name to; call by a specified name.",
+          "examples": [
+            "he has been termed the father of modern theology"
+          ],
+          "synonyms": [
+            "call",
+            "name",
+            "entitle",
+            "title",
+            "style",
+            "designate",
+            "describe as",
+            "dub",
+            "label",
+            "brand",
+            "tag",
+            "bill",
+            "nickname; formaldenominate \"he has been termed the father of modern theology\""
+          ]
+        }
+      ]
+    }
+  ]
+}

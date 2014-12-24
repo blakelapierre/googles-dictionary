@@ -1,0 +1,100 @@
+[
+  {
+    "word": "debate",
+    "syllables": [
+      "de",
+      "bate"
+    ],
+    "pronunciation": "dəˈbāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "debate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "debates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward.",
+            "examples": [
+              "discussion, discourse, parley, dialogue; Moreargument, counterargument, dispute, wrangle, war of words; argumentation, disputation, dissension, disagreement, contention, conflict; negotiations, talks; informalconfab, powwow \"a debate on the reforms\"Moreargument, counterargument, dispute, wrangle, war of words; argumentation, disputation, dissension, disagreement, contention, conflict; negotiations, talks; confab, powwow a debate on the reforms"
+            ]
+          },
+          {
+            "definition": "an argument about a particular subject, especially one in which many people are involved.",
+            "examples": [
+              "the national debate on abortion"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "debate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "debates"
+          },
+          {
+            "part": "past tense",
+            "variant": "debated"
+          },
+          {
+            "part": "past participle",
+            "variant": "debated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "debating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "argue about (a subject), especially in a formal manner.",
+            "examples": [
+              "the board debated his proposal"
+            ],
+            "synonyms": [
+              "discuss",
+              "talk over/through",
+              "talk about",
+              "thrash out",
+              "hash out",
+              "argue",
+              "dispute; Moreinformalkick around",
+              "bat around \"they will debate the future of rail transport\""
+            ]
+          },
+          {
+            "definition": "consider a possible course of action in one's mind before reaching a decision.",
+            "examples": [
+              "he debated whether he should leave the matter alone or speak to her"
+            ],
+            "synonyms": [
+              "consider",
+              "think over/about",
+              "chew over",
+              "mull over",
+              "ponder",
+              "revolve",
+              "deliberate",
+              "contemplate",
+              "muse",
+              "meditate; formalcogitate \"he debated whether to call her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

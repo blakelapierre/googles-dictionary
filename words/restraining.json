@@ -1,0 +1,77 @@
+[
+  {
+    "word": "restrain",
+    "syllables": [
+      "re",
+      "strain"
+    ],
+    "pronunciation": "rəˈstrān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "restraining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prevent (someone or something) from doing something; keep under control or within limits.",
+            "examples": [
+              "he had to be restrained from walking out of the meeting"
+            ],
+            "synonyms": [
+              "prevent",
+              "stop",
+              "keep",
+              "hold back \"she could barely restrain herself from swearing\""
+            ]
+          },
+          {
+            "definition": "prevent oneself from displaying or giving way to (a strong urge or emotion).",
+            "examples": [
+              "Amos had to restrain his impatience"
+            ],
+            "synonyms": [
+              "control",
+              "keep under control",
+              "check",
+              "hold/keep in check",
+              "curb",
+              "suppress",
+              "repress",
+              "contain",
+              "dampen",
+              "subdue",
+              "smother",
+              "choke back",
+              "stifle",
+              "bottle up",
+              "rein back/in; informalkeep the lid on \"Charles restrained his anger\""
+            ]
+          },
+          {
+            "definition": "deprive (someone) of freedom of movement or personal liberty.",
+            "examples": [
+              "leg cuffs are used in the U.S. for restraining and transporting extremely violent and dangerous criminals"
+            ],
+            "synonyms": [
+              "tie up",
+              "bind",
+              "tether",
+              "chain (up)",
+              "fetter",
+              "shackle",
+              "manacle",
+              "put in irons; informalhog-tie \"that beast ought to be restrained\""
+            ]
+          },
+          {
+            "definition": "(of a seat belt) hold (a person or part of their body) down and back while in a vehicle seat."
+          }
+        ]
+      }
+    ]
+  }
+]

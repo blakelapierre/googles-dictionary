@@ -1,0 +1,66 @@
+[
+  {
+    "word": "fairly",
+    "syllables": [
+      "fair",
+      "ly"
+    ],
+    "pronunciation": "ˈferlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "fairly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with justice.",
+            "examples": [
+              "he could not fairly be accused of wasting police time"
+            ],
+            "synonyms": [
+              "justly",
+              "equitably",
+              "impartially",
+              "without bias",
+              "without prejudice",
+              "evenhandedly; Morelawfully",
+              "legally",
+              "legitimately",
+              "by the book; equally",
+              "the same \"all students were treated fairly\""
+            ]
+          },
+          {
+            "definition": "to quite a high degree.",
+            "examples": [
+              "I was fairly certain she had nothing to do with the affair"
+            ],
+            "synonyms": [
+              "reasonably",
+              "passably",
+              "tolerably",
+              "adequately",
+              "moderately",
+              "quite",
+              "relatively",
+              "comparatively; Moreinformalpretty",
+              "kind of",
+              "kinda",
+              "sort of \"the pipes are in fairly good condition\""
+            ]
+          },
+          {
+            "definition": "actually (used to emphasize something surprising or extreme).",
+            "examples": [
+              "he fairly snarled at her"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

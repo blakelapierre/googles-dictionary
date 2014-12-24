@@ -1,0 +1,55 @@
+[
+  {
+    "word": "addition",
+    "syllables": [
+      "ad",
+      "di",
+      "tion"
+    ],
+    "pronunciation": "əˈdiSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "addition"
+          },
+          {
+            "part": "noun",
+            "variant": "addn."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of adding something to something else.",
+            "examples": [
+              "the hotel has been extended with the addition of more rooms"
+            ],
+            "synonyms": [
+              "adding",
+              "incorporation",
+              "inclusion",
+              "introduction \"the soil is improved by the addition of compost\""
+            ]
+          },
+          {
+            "definition": "a person or thing added or joined, typically in order to improve something.",
+            "examples": [
+              "plural noun: additions"
+            ]
+          },
+          {
+            "definition": "the process or skill of calculating the total of two or more numbers or amounts.",
+            "examples": [
+              "she began with simple arithmetic, addition and then subtraction"
+            ]
+          },
+          {
+            "definition": "the process of combining matrices, vectors, or other quantities under specific rules to obtain their sum."
+          }
+        ]
+      }
+    ]
+  }
+]

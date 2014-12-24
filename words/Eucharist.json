@@ -1,0 +1,34 @@
+[
+  {
+    "word": "Eucharist",
+    "syllables": [
+      "Eu",
+      "cha",
+      "rist"
+    ],
+    "pronunciation": "ˈyo͞ok(ə)rəst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Eucharist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Eucharists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the Christian ceremony commemorating the Last Supper, in which bread and wine are consecrated and consumed."
+          },
+          {
+            "definition": "the consecrated elements, especially the bread."
+          }
+        ]
+      }
+    ]
+  }
+]

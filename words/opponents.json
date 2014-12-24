@@ -1,0 +1,62 @@
+[
+  {
+    "word": "opponent",
+    "syllables": [
+      "op",
+      "po",
+      "nent"
+    ],
+    "pronunciation": "əˈpōnənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "opponents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "someone who competes against or fights another in a contest, game, or argument; a rival or adversary.",
+            "examples": [
+              "he beat his opponent by a landslide margin"
+            ],
+            "synonyms": [
+              "rival",
+              "adversary",
+              "opposer",
+              "(the) opposition",
+              "fellow contestant",
+              "(fellow) competitor",
+              "enemy",
+              "antagonist",
+              "combatant",
+              "contender",
+              "challenger; literaryfoe \"his political opponent\""
+            ],
+            "antonyms": [
+              "ally",
+              "partner"
+            ]
+          },
+          {
+            "definition": "a person who disagrees with or resists a proposal or practice.",
+            "examples": [
+              "an opponent of the economic reforms"
+            ],
+            "synonyms": [
+              "opposer",
+              "objector",
+              "dissenter",
+              "dissident \"an opponent of the reforms\""
+            ],
+            "antonyms": [
+              "supporter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

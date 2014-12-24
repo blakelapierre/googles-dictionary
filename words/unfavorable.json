@@ -1,0 +1,70 @@
+[
+  {
+    "word": "unfavorable",
+    "syllables": [
+      "un",
+      "fa",
+      "vor",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "ˌənˈfāv(ə)rəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unfavourable"
+          },
+          {
+            "part": "adjective",
+            "variant": "unfavorable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing or showing a lack of approval or support.",
+            "examples": [
+              "single mothers are often the target of unfavorable press attention"
+            ],
+            "synonyms": [
+              "adverse",
+              "critical",
+              "hostile",
+              "inimical",
+              "unfriendly",
+              "unsympathetic",
+              "negative",
+              "scathing; Morediscouraging",
+              "disapproving",
+              "uncomplimentary",
+              "unflattering \"unfavorable comments\""
+            ],
+            "antonyms": [
+              "positive"
+            ]
+          },
+          {
+            "definition": "adverse; inauspicious.",
+            "examples": [
+              "it would be unwise to sell the company while the economic circumstances are so unfavorable"
+            ],
+            "synonyms": [
+              "gloomy",
+              "adverse",
+              "inauspicious",
+              "unpropitious",
+              "disadvantageous; Moreunsuitable",
+              "inappropriate",
+              "inopportune \"the unfavorable economic climate\""
+            ],
+            "antonyms": [
+              "advantageous"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

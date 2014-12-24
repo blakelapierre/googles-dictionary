@@ -1,0 +1,148 @@
+[
+  {
+    "word": "climbing",
+    "syllables": [
+      "climb",
+      "ing"
+    ],
+    "pronunciation": "ˈklīmiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "climbing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the sport or activity of ascending mountains or cliffs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "climb",
+    "syllables": [
+      "climb"
+    ],
+    "pronunciation": "klīm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "climbing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "go or come up (a slope, incline, or staircase), especially by using the feet and sometimes the hands; ascend.",
+            "examples": [
+              "we began to climb the hill"
+            ],
+            "synonyms": [
+              "ascend",
+              "mount",
+              "scale",
+              "scramble up",
+              "clamber up",
+              "shinny up; Morego up",
+              "walk up; conquer",
+              "gain \"we climbed the hill\""
+            ],
+            "antonyms": [
+              "descend"
+            ]
+          },
+          {
+            "definition": "(of an aircraft or the sun) go upward.",
+            "examples": [
+              "we decided to climb to 6,000 feet"
+            ],
+            "synonyms": [
+              "rise",
+              "ascend",
+              "go up",
+              "gain altitude \"the plane climbed\""
+            ],
+            "antonyms": [
+              "descend",
+              "dive"
+            ]
+          },
+          {
+            "definition": "(of a road or track) slope upward or up.",
+            "examples": [
+              "the track climbed steeply up a narrow, twisting valley"
+            ],
+            "synonyms": [
+              "slope upward",
+              "rise",
+              "go uphill",
+              "incline upward \"the road climbs steeply\""
+            ],
+            "antonyms": [
+              "drop"
+            ]
+          },
+          {
+            "definition": "(of a plant) grow up (a wall, tree, or trellis) by clinging with tendrils or by twining.",
+            "examples": [
+              "when ivy climbs a wall, it infiltrates any crack"
+            ]
+          },
+          {
+            "definition": "grow in scale, value, or power.",
+            "examples": [
+              "the stock market climbed 24 points"
+            ],
+            "synonyms": [
+              "increase",
+              "rise",
+              "go up; Moreshoot up",
+              "soar",
+              "rocket \"the shares climbed to $10.77\""
+            ],
+            "antonyms": [
+              "decrease",
+              "fall"
+            ]
+          },
+          {
+            "definition": "move to a higher position in (a chart or table).",
+            "examples": [
+              "the song is climbing the adult-contemporary chart"
+            ],
+            "synonyms": [
+              "advance",
+              "rise",
+              "move up",
+              "progress",
+              "work one's way (up) \"he climbed through the ranks\""
+            ]
+          },
+          {
+            "definition": "move with effort, especially into or out of a confined space; clamber.",
+            "examples": [
+              "Howard started to climb out of the front seat"
+            ],
+            "synonyms": [
+              "clamber",
+              "scramble; step \"he climbed out of his car\""
+            ]
+          },
+          {
+            "definition": "put on (clothes).",
+            "examples": [
+              "he climbed into his suit"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

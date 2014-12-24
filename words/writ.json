@@ -1,0 +1,61 @@
+[
+  {
+    "word": "writ",
+    "syllables": [
+      "writ"
+    ],
+    "pronunciation": "rit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "writ"
+          },
+          {
+            "part": "plural noun",
+            "variant": "writs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a form of written command in the name of a court or other legal authority to act, or abstain from acting, in some way.",
+            "examples": [
+              "summons, subpoena, warrant, arraignment, indictment, citation, court order they were served with a writ"
+            ]
+          },
+          {
+            "definition": "one's power to enforce compliance or submission; one's authority.",
+            "examples": [
+              "noun: one's writ; plural noun: one's writs"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "writ",
+    "syllables": [
+      "writ"
+    ],
+    "pronunciation": "rit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "writ"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "archaic past participle of write."
+          }
+        ]
+      }
+    ]
+  }
+]

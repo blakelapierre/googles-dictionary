@@ -1,0 +1,68 @@
+[
+  {
+    "word": "participate",
+    "syllables": [
+      "par",
+      "tic",
+      "i",
+      "pate"
+    ],
+    "pronunciation": "pärˈtisəˌpāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "participate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "participates"
+          },
+          {
+            "part": "past tense",
+            "variant": "participated"
+          },
+          {
+            "part": "past participle",
+            "variant": "participated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "participating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take part.",
+            "examples": [
+              "thousands participated in a nationwide strike"
+            ],
+            "synonyms": [
+              "take part in",
+              "engage in",
+              "join in",
+              "get involved in",
+              "share in",
+              "play a part/role in",
+              "be a participant in",
+              "partake in",
+              "have a hand in",
+              "be associated with; Morecooperate in",
+              "help (out) with",
+              "assist in",
+              "lend a hand with/to \"at least he's willing to participate in town events\""
+            ]
+          },
+          {
+            "definition": "have or possess (a particular quality).",
+            "examples": [
+              "both members participate of harmony"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

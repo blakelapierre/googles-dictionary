@@ -1,0 +1,155 @@
+[
+  {
+    "word": "hidden",
+    "syllables": [
+      "hid",
+      "den"
+    ],
+    "pronunciation": "ˈhidn",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "hidden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "kept out of sight; concealed.",
+            "examples": [
+              "hidden dangers"
+            ],
+            "synonyms": [
+              "concealed",
+              "secret",
+              "undercover",
+              "invisible",
+              "unseen",
+              "out of sight",
+              "closeted",
+              "covert; Moresecluded",
+              "tucked away; camouflaged",
+              "disguised",
+              "masked",
+              "cloaked \"a hidden camera\""
+            ],
+            "antonyms": [
+              "visible"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hide",
+    "syllables": [
+      "hide"
+    ],
+    "pronunciation": "hīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "hidden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put or keep out of sight; conceal from the view or notice of others.",
+            "examples": [
+              "he hid the money in the house"
+            ],
+            "synonyms": [
+              "conceal",
+              "secrete",
+              "put out of sight; Morecamouflage; lock up",
+              "stow away",
+              "tuck away",
+              "squirrel away",
+              "cache; informalstash \"he hid the money\""
+            ],
+            "antonyms": [
+              "flaunt",
+              "expose"
+            ]
+          },
+          {
+            "definition": "(of a thing) prevent (someone or something) from being seen.",
+            "examples": [
+              "clouds hid the moon"
+            ],
+            "synonyms": [
+              "obscure",
+              "block out",
+              "blot out",
+              "obstruct",
+              "cloud",
+              "shroud",
+              "veil",
+              "blanket",
+              "envelop",
+              "eclipse \"clouds hid the moon\""
+            ],
+            "antonyms": [
+              "reveal"
+            ]
+          },
+          {
+            "definition": "keep secret or unknown.",
+            "examples": [
+              "Hal could hardly hide his dislike"
+            ],
+            "synonyms": [
+              "conceal",
+              "keep secret",
+              "cover up",
+              "keep quiet about",
+              "hush up",
+              "bottle up",
+              "suppress",
+              "curtain",
+              "bury; Moredisguise",
+              "dissemble",
+              "mask",
+              "camouflage; informalkeep under one's hat",
+              "keep a/the lid on \"he could not hide his dislike\""
+            ],
+            "antonyms": [
+              "disclose"
+            ]
+          },
+          {
+            "definition": "conceal oneself.",
+            "examples": [
+              "Juliet's first instinct was to hide under the blankets"
+            ],
+            "synonyms": [
+              "conceal oneself",
+              "sequester oneself",
+              "hide out",
+              "take cover",
+              "keep out of sight; Morelie low",
+              "go underground; informalhole up \"they hid in an air vent\""
+            ]
+          },
+          {
+            "definition": "use (someone or something) to protect oneself from criticism or punishment, especially in a way considered cowardly or unethical.",
+            "examples": [
+              "companies and manufacturers with poor security can hide behind the law"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

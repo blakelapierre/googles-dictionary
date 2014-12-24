@@ -1,0 +1,66 @@
+[
+  {
+    "word": "proposal",
+    "syllables": [
+      "pro",
+      "pos",
+      "al"
+    ],
+    "pronunciation": "prəˈpōzəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "proposal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "proposals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plan or suggestion, especially a formal or written one, put forward for consideration or discussion by others.",
+            "examples": [
+              "a set of proposals for a major new high-speed rail link"
+            ],
+            "synonyms": [
+              "plan",
+              "idea",
+              "scheme",
+              "project",
+              "program",
+              "manifesto",
+              "motion",
+              "proposition",
+              "suggestion",
+              "action point",
+              "submission",
+              "trial balloon \"the proposal was rejected\""
+            ]
+          },
+          {
+            "definition": "the action of proposing a plan or suggestion.",
+            "examples": [
+              "the proposal of flexible work hours"
+            ],
+            "synonyms": [
+              "putting forward",
+              "proposing",
+              "suggesting",
+              "submitting \"the proposal of a new constitution\""
+            ],
+            "antonyms": [
+              "withdrawal"
+            ]
+          },
+          {
+            "definition": "an offer of marriage."
+          }
+        ]
+      }
+    ]
+  }
+]

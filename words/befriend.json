@@ -1,0 +1,45 @@
+[
+  {
+    "word": "befriend",
+    "syllables": [
+      "be",
+      "friend"
+    ],
+    "pronunciation": "bəˈfrend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "befriend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "befriends"
+          },
+          {
+            "part": "past tense",
+            "variant": "befriended"
+          },
+          {
+            "part": "past participle",
+            "variant": "befriended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "befriending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "act as a friend to (someone) by offering help or support.",
+            "examples": [
+              "make friends with, make a friend of; Morelook after, keep an eye on; be of service to, lend a helping hand to, help, protect; side with, stand by, encourage \"a charming story in which the toys befriend one another\"Morelook after, keep an eye on; be of service to, lend a helping hand to, help, protect; side with, stand by, encourage a charming story in which the toys befriend one another"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

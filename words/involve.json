@@ -1,0 +1,78 @@
+[
+  {
+    "word": "involve",
+    "syllables": [
+      "in",
+      "volve"
+    ],
+    "pronunciation": "inˈvälv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "involve"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "involves"
+          },
+          {
+            "part": "past tense",
+            "variant": "involved"
+          },
+          {
+            "part": "past participle",
+            "variant": "involved"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "involving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a situation or event) include (something) as a necessary part or result.",
+            "examples": [
+              "his transfer to another school would involve a lengthy assessment procedure"
+            ],
+            "synonyms": [
+              "require",
+              "necessitate",
+              "demand",
+              "call for; Moreentail",
+              "mean",
+              "imply",
+              "presuppose \"the inspection involved a lot of work\""
+            ],
+            "antonyms": [
+              "preclude"
+            ]
+          },
+          {
+            "definition": "cause (a person or group) to experience or participate in an activity or situation.",
+            "examples": [
+              "what kind of organizations will be involved in setting up these projects?"
+            ],
+            "synonyms": [
+              "include",
+              "count in",
+              "bring in",
+              "take into account",
+              "take note of; Moreincorporate",
+              "encompass",
+              "touch on",
+              "embrace",
+              "comprehend",
+              "cover \"I try to involve everyone in key decisions\""
+            ],
+            "antonyms": [
+              "exclude"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

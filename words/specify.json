@@ -1,0 +1,76 @@
+[
+  {
+    "word": "specify",
+    "syllables": [
+      "spec",
+      "i",
+      "fy"
+    ],
+    "pronunciation": "ˈspesəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "specify"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "specifies"
+          },
+          {
+            "part": "past tense",
+            "variant": "specified"
+          },
+          {
+            "part": "past participle",
+            "variant": "specified"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "specifying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "identify clearly and definitely.",
+            "examples": [
+              "the coup leader promised an election but did not specify a date"
+            ],
+            "synonyms": [
+              "state",
+              "name",
+              "identify",
+              "define",
+              "describe",
+              "set out",
+              "frame",
+              "itemize",
+              "detail",
+              "list",
+              "spell out",
+              "enumerate",
+              "particularize",
+              "cite",
+              "instance; Morestipulate",
+              "prescribe \"specify your color preferences\""
+            ]
+          },
+          {
+            "definition": "state a fact or requirement clearly and precisely.",
+            "examples": [
+              "the agency failed to specify that the workers were not their employees"
+            ]
+          },
+          {
+            "definition": "include in an architect's or engineer's specifications.",
+            "examples": [
+              "naval architects specified circular portholes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

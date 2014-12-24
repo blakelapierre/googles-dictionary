@@ -1,0 +1,38 @@
+{
+  "word": "-work",
+  "syllables": [
+    "-work"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "combining form",
+      "variants": [
+        {
+          "part": "suffix",
+          "variant": "-work"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "denoting things or parts made of a specified material or with specified tools.",
+          "examples": [
+            "silverwork"
+          ]
+        },
+        {
+          "definition": "denoting a mechanism or structure of a specified kind.",
+          "examples": [
+            "bridgework"
+          ]
+        },
+        {
+          "definition": "denoting ornamentation of a specified kind, or articles having such ornamentation.",
+          "examples": [
+            "knotwork"
+          ]
+        }
+      ]
+    }
+  ]
+}

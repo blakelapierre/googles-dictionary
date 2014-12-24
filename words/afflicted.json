@@ -1,0 +1,56 @@
+[
+  {
+    "word": "afflict",
+    "syllables": [
+      "af",
+      "flict"
+    ],
+    "pronunciation": "əˈflikt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "afflicted"
+          },
+          {
+            "part": "past participle",
+            "variant": "afflicted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a problem or illness) cause pain or suffering to; affect or trouble.",
+            "examples": [
+              "serious ills afflict the industry"
+            ],
+            "synonyms": [
+              "trouble",
+              "burden",
+              "distress",
+              "cause suffering to",
+              "beset",
+              "harass",
+              "worry",
+              "oppress; Moretorment",
+              "pester",
+              "plague",
+              "blight",
+              "bedevil",
+              "rack",
+              "smite",
+              "curse; archaicail \"arthritis can afflict people of all ages\""
+            ]
+          },
+          {
+            "definition": "(of a celestial body) be in a stressful aspect with (another celestial body or a point on the ecliptic).",
+            "examples": [
+              "Jupiter is afflicted by Mars in opposition"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

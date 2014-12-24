@@ -1,0 +1,117 @@
+[
+  {
+    "word": "guided",
+    "syllables": [
+      "guid",
+      "ed"
+    ],
+    "pronunciation": "ˈɡīdəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "guided"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "conducted by a guide.",
+            "examples": [
+              "a guided tour of the castle"
+            ]
+          },
+          {
+            "definition": "directed by remote control or by internal equipment.",
+            "examples": [
+              "a guided missile"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "guide",
+    "syllables": [
+      "guide"
+    ],
+    "pronunciation": "ɡīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "guided"
+          },
+          {
+            "part": "past participle",
+            "variant": "guided"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "show or indicate the way to (someone).",
+            "examples": [
+              "he guided her to the front row and sat beside her"
+            ],
+            "synonyms": [
+              "lead",
+              "conduct",
+              "show",
+              "show the way",
+              "usher",
+              "shepherd",
+              "direct",
+              "steer",
+              "pilot",
+              "escort",
+              "accompany",
+              "attend; Moresee",
+              "take",
+              "help",
+              "assist \"he guided her to her seat\""
+            ]
+          },
+          {
+            "definition": "direct the motion or positioning of (something).",
+            "examples": [
+              "the groove in the needle guides the thread"
+            ]
+          },
+          {
+            "definition": "direct or have an influence on the course of action of (someone or something).",
+            "examples": [
+              "he guided the team to a second successive win in the tournament"
+            ],
+            "synonyms": [
+              "direct",
+              "steer",
+              "control",
+              "manage",
+              "command",
+              "lead",
+              "conduct",
+              "run",
+              "be in charge of",
+              "have control of",
+              "pilot",
+              "govern",
+              "preside over",
+              "superintend",
+              "supervise",
+              "oversee; Morehandle",
+              "regulate \"the chairperson must guide the meeting\"advise",
+              "counsel",
+              "give advice to",
+              "direct",
+              "give direction to \"he was always there to guide me\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

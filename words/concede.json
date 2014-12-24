@@ -1,0 +1,116 @@
+[
+  {
+    "word": "concede",
+    "syllables": [
+      "con",
+      "cede"
+    ],
+    "pronunciation": "kənˈsēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "concede"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "concedes"
+          },
+          {
+            "part": "past tense",
+            "variant": "conceded"
+          },
+          {
+            "part": "past participle",
+            "variant": "conceded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "conceding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "admit that something is true or valid after first denying or resisting it.",
+            "examples": [
+              "I had to concede that I'd overreacted"
+            ],
+            "synonyms": [
+              "admit",
+              "acknowledge",
+              "accept",
+              "allow",
+              "grant",
+              "recognize",
+              "own",
+              "confess; agree \"I had to concede that I'd overreacted\""
+            ],
+            "antonyms": [
+              "deny"
+            ]
+          },
+          {
+            "definition": "admit (defeat) in a contest.",
+            "examples": [
+              "he conceded defeat"
+            ],
+            "synonyms": [
+              "capitulate",
+              "give in",
+              "give",
+              "surrender",
+              "yield",
+              "give up",
+              "submit",
+              "raise the white flag; Moreback down",
+              "climb down; informalthrow in the towel \"Colonel Morris vowed never to concede defeat\""
+            ]
+          },
+          {
+            "definition": "admit defeat in (a contest).",
+            "examples": [
+              "ready to concede the gold medal"
+            ]
+          },
+          {
+            "definition": "surrender or yield (something that one possesses).",
+            "examples": [
+              "to concede all the territory he'd won"
+            ],
+            "synonyms": [
+              "surrender",
+              "yield",
+              "give up",
+              "relinquish",
+              "cede",
+              "hand over \"he conceded the Auvergne to the king\""
+            ],
+            "antonyms": [
+              "retain"
+            ]
+          },
+          {
+            "definition": "grant (a right, privilege, or demand).",
+            "examples": [
+              "their rights to redress of grievances were conceded once more"
+            ]
+          },
+          {
+            "definition": "(in sports) fail to prevent the scoring of (a goal or point) by an opponent.",
+            "examples": [
+              "the coach conceded three safeties rather than kick into the wind"
+            ]
+          },
+          {
+            "definition": "allow (a lead or advantage) to slip.",
+            "examples": [
+              "he took an early lead that he never conceded"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

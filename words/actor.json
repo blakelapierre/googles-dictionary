@@ -1,0 +1,45 @@
+[
+  {
+    "word": "actor",
+    "syllables": [
+      "ac",
+      "tor"
+    ],
+    "pronunciation": "ˈaktər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "actor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "actors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person whose profession is acting on the stage, in movies, or on television.",
+            "examples": [
+              "performer, player, thespian, trouper; Morefilm star, star, starlet, matinee idol; informalham; lead, leading man, leading lady, stand-in \"daily bus tours take you past the homes of your favorite Hollywood actors and actresses\"Morefilm star, star, starlet, matinee idol; ham; lead, leading man, leading lady, stand-in daily bus tours take you past the homes of your favorite Hollywood actors and actresses"
+            ]
+          },
+          {
+            "definition": "a person who behaves in a way that is not genuine.",
+            "examples": [
+              "in war one must be a good actor"
+            ]
+          },
+          {
+            "definition": "a participant in an action or process.",
+            "examples": [
+              "employers are key actors within industrial relations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

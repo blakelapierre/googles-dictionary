@@ -1,0 +1,76 @@
+{
+  "word": "property",
+  "syllables": [
+    "prop",
+    "er",
+    "ty"
+  ],
+  "pronunciation": "ˈpräpərdē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "property"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a thing or things belonging to someone; possessions collectively.",
+          "examples": [
+            "she wanted Oliver and his property out of her house"
+          ],
+          "synonyms": [
+            "possessions",
+            "belongings",
+            "things",
+            "effects",
+            "stuff",
+            "gear",
+            "chattels",
+            "movables; Moreresources",
+            "assets",
+            "valuables",
+            "fortune",
+            "capital",
+            "riches",
+            "wealth; personalty",
+            "goods and chattels \"lost property\""
+          ]
+        },
+        {
+          "definition": "a building or buildings and the land belonging to it or them.",
+          "examples": [
+            "plural noun: properties"
+          ]
+        },
+        {
+          "definition": "the right to the possession, use, or disposal of something; ownership.",
+          "examples": [
+            "rights of property"
+          ]
+        },
+        {
+          "definition": "old-fashioned term for prop2."
+        },
+        {
+          "definition": "an attribute, quality, or characteristic of something.",
+          "examples": [
+            "the property of heat to expand metal at uniform rates"
+          ],
+          "synonyms": [
+            "quality",
+            "attribute",
+            "characteristic",
+            "feature",
+            "power",
+            "trait",
+            "mark",
+            "hallmark \"healing properties\""
+          ]
+        }
+      ]
+    }
+  ]
+}

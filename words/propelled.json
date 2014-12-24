@@ -1,0 +1,64 @@
+[
+  {
+    "word": "propel",
+    "syllables": [
+      "pro",
+      "pel"
+    ],
+    "pronunciation": "prəˈpel",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "propelled"
+          },
+          {
+            "part": "past participle",
+            "variant": "propelled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "drive, push, or cause to move in a particular direction, typically forward.",
+            "examples": [
+              "the boat is propelled by using a very long paddle"
+            ],
+            "synonyms": [
+              "move",
+              "power",
+              "push",
+              "drive More\"a boat propelled by oars\"throw",
+              "thrust",
+              "toss",
+              "fling",
+              "hurl",
+              "launch",
+              "pitch",
+              "project",
+              "send",
+              "shoot \"he propelled the ball into the air\""
+            ]
+          },
+          {
+            "definition": "spur or drive into a particular situation.",
+            "examples": [
+              "fear propelled her out of her stillness"
+            ],
+            "synonyms": [
+              "spur",
+              "drive",
+              "prompt",
+              "precipitate",
+              "catapult",
+              "motivate",
+              "force",
+              "impel \"confusion propelled her into action\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "word": "possibility",
+    "syllables": [
+      "pos",
+      "si",
+      "bil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌpäsəˈbilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "possibilities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that may happen or be the case.",
+            "examples": [
+              "the theoretical possibility of a chain reaction"
+            ],
+            "synonyms": [
+              "chance",
+              "likelihood",
+              "probability",
+              "hope; Morerisk",
+              "hazard",
+              "danger",
+              "fear \"there is a possibility that he might be alive\""
+            ]
+          },
+          {
+            "definition": "the state or fact of being likely or possible; likelihood.",
+            "examples": [
+              "there was no possibility of recompense for him"
+            ],
+            "synonyms": [
+              "feasibility",
+              "practicability",
+              "chances",
+              "odds",
+              "probability \"they discussed the possibility of launching a new project\""
+            ]
+          },
+          {
+            "definition": "a thing that may be chosen or done out of several possible alternatives.",
+            "examples": [
+              "one possibility is to allow all firms to participate"
+            ],
+            "synonyms": [
+              "option",
+              "alternative",
+              "choice",
+              "course of action",
+              "solution \"buying a smaller house is one possibility\""
+            ]
+          },
+          {
+            "definition": "unspecified qualities of a promising nature; potential.",
+            "examples": [
+              "the house was old but it had possibilities"
+            ],
+            "synonyms": [
+              "potential",
+              "promise",
+              "prospects \"the idea has distinct possibilities\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

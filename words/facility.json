@@ -1,0 +1,118 @@
+[
+  {
+    "word": "facility",
+    "syllables": [
+      "fa",
+      "cil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "fəˈsilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "facility"
+          },
+          {
+            "part": "plural noun",
+            "variant": "facilities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "space or equipment necessary for doing something.",
+            "examples": [
+              "cooking facilities"
+            ],
+            "synonyms": [
+              "provision",
+              "space",
+              "means",
+              "potential",
+              "equipment More\"parking facilities\"amenity",
+              "resource",
+              "service",
+              "advantage",
+              "convenience",
+              "benefit \"a wealth of local facilities\"establishment",
+              "center",
+              "place",
+              "station",
+              "location",
+              "premises",
+              "site",
+              "post",
+              "base; informaljoint",
+              "outfit",
+              "setup \"a medical facility\""
+            ]
+          },
+          {
+            "definition": "an amenity or resource, especially one connected with leisure or hygiene.",
+            "examples": [
+              "facilities include two swimming pools"
+            ]
+          },
+          {
+            "definition": "a public restroom.",
+            "examples": [
+              "plural noun: the facilities"
+            ],
+            "synonyms": [
+              "washroom",
+              "toilet",
+              "restroom",
+              "bathroom \"the facilities consisted of an old wooden outhouse\""
+            ]
+          },
+          {
+            "definition": "an establishment set up to fulfill a particular function or provide a particular service, typically an industrial or medical one.",
+            "examples": [
+              "a manufacturing facility"
+            ]
+          },
+          {
+            "definition": "an option or service that gives the opportunity to do or benefit from something.",
+            "examples": [
+              "the program includes a help facility and interactive windows"
+            ]
+          },
+          {
+            "definition": "an ability to do or learn something well and easily; a natural aptitude.",
+            "examples": [
+              "he had a facility for languages"
+            ],
+            "synonyms": [
+              "aptitude",
+              "talent",
+              "gift",
+              "flair",
+              "bent",
+              "skill",
+              "knack",
+              "genius; Moreability",
+              "proficiency",
+              "competence",
+              "capability",
+              "capacity",
+              "faculty; expertness",
+              "adeptness",
+              "prowess",
+              "mastery",
+              "artistry \"his facility for drawing\""
+            ]
+          },
+          {
+            "definition": "absence of difficulty or effort.",
+            "examples": [
+              "the pianist played with great facility"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

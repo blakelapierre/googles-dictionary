@@ -1,0 +1,57 @@
+{
+  "word": "befall",
+  "syllables": [
+    "be",
+    "fall"
+  ],
+  "pronunciation": "bəˈfôl",
+  "parts": [
+    {
+      "part": "verbliterary",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "befall"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "befalls"
+        },
+        {
+          "part": "past tense",
+          "variant": "befell"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "befalling"
+        },
+        {
+          "part": "past participle",
+          "variant": "befallen"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(of something bad) happen to someone.",
+          "examples": [
+            "a tragedy befell his daughter"
+          ],
+          "synonyms": [
+            "happen to",
+            "overtake",
+            "come upon",
+            "be visited on More\"the same fate befell him\"happen",
+            "occur",
+            "take place",
+            "come about",
+            "transpire",
+            "materialize; ensue",
+            "follow",
+            "result; informalgo down; literarycome to pass",
+            "betide \"tell us what befell\""
+          ]
+        }
+      ]
+    }
+  ]
+}

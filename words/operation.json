@@ -1,0 +1,93 @@
+{
+  "word": "operation",
+  "syllables": [
+    "op",
+    "er",
+    "a",
+    "tion"
+  ],
+  "pronunciation": "ˌäpəˈrāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "operation"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the fact or condition of functioning or being active.",
+          "examples": [
+            "the construction and operation of power stations"
+          ],
+          "synonyms": [
+            "functioning",
+            "working",
+            "running",
+            "performance",
+            "action \"the slide bars ensure smooth operation\""
+          ]
+        },
+        {
+          "definition": "an active process; a discharge of a function.",
+          "examples": [
+            "plural noun: operations"
+          ]
+        },
+        {
+          "definition": "a business organization; a company.",
+          "examples": [
+            "he reopened his operation under a different name"
+          ],
+          "synonyms": [
+            "business",
+            "enterprise",
+            "company",
+            "organization",
+            "firm",
+            "concern; Moreinformaloutfit",
+            "setup \"their mining operation in Pennsylvania\""
+          ]
+        },
+        {
+          "definition": "an activity in which a business is involved.",
+          "examples": [
+            "the company is selling most of its commercial banking operations"
+          ]
+        },
+        {
+          "definition": "an act of surgery performed on a patient.",
+          "examples": [
+            "surgery, surgical procedure a cardiologist from Atlanta will perform the operation"
+          ]
+        },
+        {
+          "definition": "a piece of organized and concerted activity involving a number of people, especially members of the armed forces or the police.",
+          "examples": [
+            "a rescue operation"
+          ],
+          "synonyms": [
+            "action",
+            "activity",
+            "exercise",
+            "undertaking",
+            "enterprise",
+            "maneuver",
+            "campaign \"a military operation\""
+          ]
+        },
+        {
+          "definition": "preceding a code name for an organized military or police activity.",
+          "examples": [
+            "noun: Operation"
+          ]
+        },
+        {
+          "definition": "a process in which a number, quantity, expression, etc., is altered or manipulated according to formal rules, such as those of addition, multiplication, and differentiation."
+        }
+      ]
+    }
+  ]
+}

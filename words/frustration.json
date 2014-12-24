@@ -1,0 +1,67 @@
+[
+  {
+    "word": "frustration",
+    "syllables": [
+      "frus",
+      "tra",
+      "tion"
+    ],
+    "pronunciation": "frəˈstrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "frustration"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the feeling of being upset or annoyed, especially because of inability to change or achieve something.",
+            "examples": [
+              "I sometimes feel like screaming with frustration"
+            ],
+            "synonyms": [
+              "exasperation",
+              "annoyance",
+              "anger",
+              "vexation",
+              "irritation; Moredisappointment",
+              "dissatisfaction",
+              "discontentment",
+              "discontent; informalaggravation \"he clenched his fists in frustration\""
+            ]
+          },
+          {
+            "definition": "an event or circumstance that causes one to have a feeling of frustration.",
+            "examples": [
+              "plural noun: frustrations"
+            ]
+          },
+          {
+            "definition": "the prevention of the progress, success, or fulfillment of something.",
+            "examples": [
+              "the frustration of their wishes"
+            ],
+            "synonyms": [
+              "thwarting",
+              "defeat",
+              "prevention",
+              "foiling",
+              "blocking",
+              "spoiling",
+              "circumvention",
+              "forestalling",
+              "disappointment",
+              "derailment; Moreobstruction",
+              "hampering",
+              "hindering; failure",
+              "collapse \"the frustration of her attempts to introduce changes\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

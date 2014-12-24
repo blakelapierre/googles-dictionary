@@ -1,0 +1,58 @@
+[
+  {
+    "word": "vector",
+    "syllables": [
+      "vec",
+      "tor"
+    ],
+    "pronunciation": "ˈvektər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "vectors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another."
+          },
+          {
+            "definition": "a matrix with one row or one column."
+          },
+          {
+            "definition": "a course to be taken by an aircraft."
+          },
+          {
+            "definition": "denoting a type of graphical representation using straight lines to construct the outlines of objects.",
+            "examples": [
+              "modifier noun: vector"
+            ]
+          },
+          {
+            "definition": "an organism, typically a biting insect or tick, that transmits a disease or parasite from one animal or plant to another."
+          },
+          {
+            "definition": "a bacteriophage or plasmid that transfers genetic material into a cell, or from one bacterium to another."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "vectors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "direct (an aircraft in flight) to a desired point."
+          }
+        ]
+      }
+    ]
+  }
+]

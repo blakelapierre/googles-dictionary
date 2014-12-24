@@ -1,0 +1,32 @@
+[
+  {
+    "word": "participle",
+    "syllables": [
+      "par",
+      "ti",
+      "ci",
+      "ple"
+    ],
+    "pronunciation": "ˈpärdəˌsip(ə)l",
+    "parts": [
+      {
+        "part": "nounGrammar",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "participle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "participles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a word formed from a verb (e.g., going, gone, being, been ) and used as an adjective (e.g., working woman, burned toast ) or a noun (e.g., good breeding ). In English, participles are also used to make compound verb forms (e.g., is going, has been )."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "word": "personal",
+    "syllables": [
+      "per",
+      "son",
+      "al"
+    ],
+    "pronunciation": "ˈpərs(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "personal"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, affecting, or belonging to a particular person rather than to anyone else.",
+            "examples": [
+              "her personal fortune was recently estimated at $37 million"
+            ],
+            "synonyms": [
+              "direct",
+              "empirical",
+              "firsthand",
+              "immediate",
+              "experiential \"I have personal knowledge of the family\""
+            ]
+          },
+          {
+            "definition": "done or made by a particular person; involving the actual presence or action of a particular individual.",
+            "examples": [
+              "the president and his wife made personal appearances for the re-election of the state governor"
+            ],
+            "synonyms": [
+              "distinctive",
+              "characteristic",
+              "unique",
+              "individual",
+              "one's own",
+              "particular",
+              "peculiar",
+              "idiosyncratic",
+              "individualized",
+              "personalized More\"a highly personal style\"in person",
+              "in the flesh",
+              "actual",
+              "live",
+              "physical \"a personal appearance\""
+            ],
+            "antonyms": [
+              "public",
+              "general"
+            ]
+          },
+          {
+            "definition": "of or concerning one's private life, relationships, and emotions rather than matters connected with one's public or professional career.",
+            "examples": [
+              "the book describes his acting career and gives little information about his personal life"
+            ],
+            "synonyms": [
+              "private",
+              "intimate; Moreconfidential",
+              "secret \"his personal life\""
+            ]
+          },
+          {
+            "definition": "referring to an individual's character, appearance, or private life, especially in a hostile or critical way.",
+            "examples": [
+              "his personal remarks about Mr. Mellor's work ethic were unprofessional"
+            ],
+            "synonyms": [
+              "derogatory",
+              "ad hominem; Moredisparaging",
+              "belittling",
+              "insulting",
+              "critical",
+              "rude",
+              "slighting",
+              "disrespectful",
+              "offensive",
+              "pejorative \"personal remarks\""
+            ]
+          },
+          {
+            "definition": "of or relating to a person's body.",
+            "examples": [
+              "personal hygiene"
+            ]
+          },
+          {
+            "definition": "of or denoting one of the three persons."
+          },
+          {
+            "definition": "existing as a self-aware entity, not as an abstraction or an impersonal force.",
+            "examples": [
+              "he rejected the notion of a personal God"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "personal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "personals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an advertisement or message in the personal column of a newspaper; personal ad."
+          },
+          {
+            "definition": "another term for personal column."
+          }
+        ]
+      }
+    ]
+  }
+]

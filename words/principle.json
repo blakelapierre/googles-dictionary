@@ -1,0 +1,114 @@
+{
+  "word": "principle",
+  "syllables": [
+    "prin",
+    "ci",
+    "ple"
+  ],
+  "pronunciation": "ˈprinsəpəl",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "principle"
+        },
+        {
+          "part": "plural noun",
+          "variant": "principles"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.",
+          "examples": [
+            "the basic principles of Christianity"
+          ],
+          "synonyms": [
+            "truth",
+            "proposition",
+            "concept",
+            "idea",
+            "theory",
+            "assumption",
+            "fundamental",
+            "essential",
+            "ground rule \"elementary principles\""
+          ]
+        },
+        {
+          "definition": "a rule or belief governing one's personal behavior.",
+          "examples": [
+            "struggling to be true to their own principles"
+          ],
+          "synonyms": [
+            "morals",
+            "morality",
+            "(code of) ethics",
+            "beliefs",
+            "ideals",
+            "standards; Moreintegrity",
+            "uprightness",
+            "righteousness",
+            "virtue",
+            "probity",
+            "(sense of) honor",
+            "decency",
+            "conscience",
+            "scruples \"a woman of principle\""
+          ]
+        },
+        {
+          "definition": "morally correct behavior and attitudes.",
+          "examples": [
+            "a man of principle"
+          ],
+          "synonyms": [
+            "morals",
+            "morality",
+            "(code of) ethics",
+            "beliefs",
+            "ideals",
+            "standards; Moreintegrity",
+            "uprightness",
+            "righteousness",
+            "virtue",
+            "probity",
+            "(sense of) honor",
+            "decency",
+            "conscience",
+            "scruples \"a woman of principle\""
+          ]
+        },
+        {
+          "definition": "a general scientific theorem or law that has numerous special applications across a wide field."
+        },
+        {
+          "definition": "a natural law forming the basis for the construction or working of a machine.",
+          "examples": [
+            "these machines all operate on the same general principle"
+          ]
+        },
+        {
+          "definition": "a fundamental source or basis of something.",
+          "examples": [
+            "the first principle of all things was water"
+          ]
+        },
+        {
+          "definition": "a fundamental quality or attribute determining the nature of something; an essence.",
+          "examples": [
+            "the combination of male and female principles"
+          ]
+        },
+        {
+          "definition": "an active or characteristic constituent of a substance, obtained by simple analysis or separation.",
+          "examples": [
+            "the active principle in the medulla is epinephrine"
+          ]
+        }
+      ]
+    }
+  ]
+}

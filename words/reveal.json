@@ -1,0 +1,145 @@
+[
+  {
+    "word": "reveal",
+    "syllables": [
+      "re",
+      "veal"
+    ],
+    "pronunciation": "rəˈvēl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reveal"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reveals"
+          },
+          {
+            "part": "past tense",
+            "variant": "revealed"
+          },
+          {
+            "part": "past participle",
+            "variant": "revealed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "revealing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (previously unknown or secret information) known to others.",
+            "examples": [
+              "Brenda was forced to reveal Robbie's whereabouts"
+            ],
+            "synonyms": [
+              "divulge",
+              "disclose",
+              "tell",
+              "let slip",
+              "let drop",
+              "give away",
+              "give out",
+              "blurt (out)",
+              "release",
+              "leak; Moremake known",
+              "make public",
+              "broadcast",
+              "publicize",
+              "circulate",
+              "disseminate; informallet on \"the police can't reveal his whereabouts\""
+            ],
+            "antonyms": [
+              "hide",
+              "conceal"
+            ]
+          },
+          {
+            "definition": "cause or allow (something) to be seen.",
+            "examples": [
+              "the clouds were breaking up to reveal a clear blue sky"
+            ],
+            "synonyms": [
+              "show",
+              "display",
+              "exhibit",
+              "disclose",
+              "uncover",
+              "unveil; literaryuncloak \"the screen moved back to reveal the new car\""
+            ],
+            "antonyms": [
+              "hide"
+            ]
+          },
+          {
+            "definition": "make (something) known to humans by divine or supernatural means.",
+            "examples": [
+              "the truth revealed at the Incarnation"
+            ],
+            "synonyms": [
+              "bring to light",
+              "uncover",
+              "lay bare",
+              "unearth",
+              "expose; Moreformalevince; literaryuncloak \"the data can reveal a good deal of information\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reveal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reveals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in a movie or television show) a final revelation of information that has previously been kept from the characters or viewers.",
+            "examples": [
+              "the big reveal at the end of the movie answers all questions"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reveal",
+    "syllables": [
+      "re",
+      "veal"
+    ],
+    "pronunciation": "rəˈvēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reveal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reveals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "either side surface of an aperture in a wall for a door or window."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "density",
+    "syllables": [
+      "den",
+      "si",
+      "ty"
+    ],
+    "pronunciation": "ˈdensədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "density"
+          },
+          {
+            "part": "plural noun",
+            "variant": "densities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the degree of compactness of a substance.",
+            "examples": [
+              "a reduction in bone density"
+            ],
+            "synonyms": [
+              "solidity",
+              "solidness",
+              "denseness",
+              "thickness",
+              "substance",
+              "mass; Morecompactness",
+              "tightness",
+              "hardness \"a loss of bone density\""
+            ]
+          },
+          {
+            "definition": "a measure of the amount of information on a storage medium (tape or disk). For magnetic tape it is the amount of information recorded per unit length of tape (bits per inch or millimeter); for a disk, a fixed number of bits per sector, sectors per track, and tracks per disk.",
+            "examples": [
+              "noun: packing density; plural noun: packing densities"
+            ]
+          },
+          {
+            "definition": "degree of consistency measured by the quantity of mass per unit volume."
+          },
+          {
+            "definition": "the opacity of a photographic image."
+          },
+          {
+            "definition": "the quantity of people or things in a given area or space.",
+            "examples": [
+              "areas of low population density"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

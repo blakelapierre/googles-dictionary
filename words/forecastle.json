@@ -1,0 +1,50 @@
+[
+  {
+    "word": "forecastle",
+    "syllables": [
+      "fore",
+      "cas",
+      "tle"
+    ],
+    "pronunciation": "ˈfōksəlˈfôrˌkasəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "forecastle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "forecastles"
+          },
+          {
+            "part": "noun",
+            "variant": "fo'c'sle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fo'c'sles"
+          },
+          {
+            "part": "noun",
+            "variant": "fo'c's'le"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fo'c's'les"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the forward part of a ship below the deck, traditionally used as the crew's living quarters."
+          },
+          {
+            "definition": "a raised deck at the bow of a ship."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "potential",
+    "syllables": [
+      "po",
+      "ten",
+      "tial"
+    ],
+    "pronunciation": "pəˈten(t)SHəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "potential"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing the capacity to become or develop into something in the future.",
+            "examples": [
+              "a two-pronged campaign to woo potential customers"
+            ],
+            "synonyms": [
+              "possible",
+              "likely",
+              "prospective",
+              "future",
+              "probable; Morelatent",
+              "inherent",
+              "undeveloped \"a potential source of conflict\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "potential"
+          },
+          {
+            "part": "plural noun",
+            "variant": "potentials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "latent qualities or abilities that may be developed and lead to future success or usefulness.",
+            "examples": [
+              "a young broadcaster with great potential"
+            ],
+            "synonyms": [
+              "possibilities",
+              "potentiality",
+              "prospects; Morepromise",
+              "capability",
+              "capacity \"economic potential\""
+            ]
+          },
+          {
+            "definition": "the possibility of something happening or of someone doing something in the future.",
+            "examples": [
+              "the crane operator's clear view reduces the potential for accidents"
+            ]
+          },
+          {
+            "definition": "the quantity determining the energy of mass in a gravitational field or of charge in an electric field."
+          }
+        ]
+      }
+    ]
+  }
+]

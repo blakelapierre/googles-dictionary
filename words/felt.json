@@ -1,0 +1,260 @@
+[
+  {
+    "word": "felt",
+    "syllables": [
+      "felt"
+    ],
+    "pronunciation": "felt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "felt"
+          },
+          {
+            "part": "plural noun",
+            "variant": "felts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a kind of cloth made by rolling and pressing wool or another suitable textile accompanied by the application of moisture or heat, which causes the constituent fibers to mat together to create a smooth surface."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "felt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "felts"
+          },
+          {
+            "part": "past tense",
+            "variant": "felted"
+          },
+          {
+            "part": "past participle",
+            "variant": "felted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "felting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make into felt; mat together.",
+            "examples": [
+              "the wood fibers are shredded and felted together"
+            ]
+          },
+          {
+            "definition": "cover with felt.",
+            "examples": [
+              "a felted roof"
+            ]
+          },
+          {
+            "definition": "become matted.",
+            "examples": [
+              "care must be taken in washing, or the wool will shrink and felt"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "felt",
+    "syllables": [
+      "felt"
+    ],
+    "pronunciation": "felt",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "syllables": [
+      "feel"
+    ],
+    "pronunciation": "fēl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "felt"
+          },
+          {
+            "part": "past participle",
+            "variant": "felt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be aware of (a person or object) through touching or being touched.",
+            "examples": [
+              "she felt someone touch her shoulder"
+            ],
+            "synonyms": [
+              "perceive",
+              "sense",
+              "detect",
+              "discern",
+              "notice",
+              "be aware of",
+              "be conscious of \"she felt a breeze on her back\""
+            ]
+          },
+          {
+            "definition": "be aware of (something happening) through physical sensation.",
+            "examples": [
+              "she felt the ground give way beneath her"
+            ]
+          },
+          {
+            "definition": "examine or search by touch.",
+            "examples": [
+              "he touched her head and felt her hair"
+            ],
+            "synonyms": [
+              "touch",
+              "stroke",
+              "caress",
+              "fondle",
+              "finger",
+              "thumb",
+              "handle More\"she felt the fabric\"test",
+              "try (out)",
+              "check",
+              "assess \"feel the temperature of the water\""
+            ]
+          },
+          {
+            "definition": "be capable of sensation.",
+            "examples": [
+              "the dead cannot feel"
+            ]
+          },
+          {
+            "definition": "give a sensation of a particular physical quality when touched.",
+            "examples": [
+              "the wool feels soft"
+            ],
+            "synonyms": [
+              "seem",
+              "appear",
+              "strike one as \"the air feels damp\""
+            ]
+          },
+          {
+            "definition": "investigate something cautiously.",
+            "examples": [
+              "they want to feel out the situation"
+            ]
+          },
+          {
+            "definition": "fondle someone for one's own sexual stimulation."
+          },
+          {
+            "definition": "experience (an emotion or sensation).",
+            "examples": [
+              "I felt a sense of excitement"
+            ],
+            "synonyms": [
+              "experience",
+              "undergo",
+              "go through",
+              "bear",
+              "endure",
+              "suffer \"you will not feel any pain\""
+            ]
+          },
+          {
+            "definition": "consider oneself to be in a particular state or exhibiting particular qualities.",
+            "examples": [
+              "he doesn't feel obliged to visit every weekend"
+            ]
+          },
+          {
+            "definition": "have the strength and energy to do or deal with.",
+            "examples": [
+              "after the accident she didn't feel up to driving"
+            ]
+          },
+          {
+            "definition": "be healthy and well.",
+            "examples": [
+              "Ruth was not quite feeling herself"
+            ]
+          },
+          {
+            "definition": "be emotionally affected by.",
+            "examples": [
+              "he didn't feel the loss of his mother so keenly"
+            ]
+          },
+          {
+            "definition": "have compassion for.",
+            "examples": [
+              "poor woman—I feel for her"
+            ],
+            "synonyms": [
+              "sympathize with",
+              "be sorry for",
+              "pity",
+              "feel pity for",
+              "feel sympathy for",
+              "feel compassion for",
+              "be moved by; Morecommiserate with",
+              "condole with \"tell your mother we certainly feel for her\""
+            ]
+          },
+          {
+            "definition": "have a belief or impression, especially without an identifiable reason.",
+            "examples": [
+              "she felt that the woman positively disliked her"
+            ],
+            "synonyms": [
+              "sense",
+              "have a (funny) feeling",
+              "get the impression",
+              "have a hunch",
+              "intuit \"I feel that he is only biding his time\""
+            ]
+          },
+          {
+            "definition": "hold an opinion.",
+            "examples": [
+              "I felt I could make a useful contribution"
+            ],
+            "synonyms": [
+              "believe",
+              "think",
+              "consider (it right)",
+              "be of the opinion",
+              "hold",
+              "maintain",
+              "judge; Moreinformalreckon",
+              "figure \"he feels that he should go to the meeting\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

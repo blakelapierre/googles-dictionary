@@ -1,0 +1,115 @@
+{
+  "word": "device",
+  "syllables": [
+    "de",
+    "vice"
+  ],
+  "pronunciation": "dəˈvīs",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "device"
+        },
+        {
+          "part": "plural noun",
+          "variant": "devices"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.",
+          "examples": [
+            "a measuring device"
+          ],
+          "synonyms": [
+            "implement",
+            "gadget",
+            "utensil",
+            "tool",
+            "appliance",
+            "apparatus",
+            "instrument",
+            "machine",
+            "mechanism",
+            "contrivance",
+            "contraption; Moreinformalgizmo",
+            "widget",
+            "doohickey \"a device for measuring pressure\""
+          ]
+        },
+        {
+          "definition": "a bomb or other explosive weapon.",
+          "examples": [
+            "an incendiary device"
+          ]
+        },
+        {
+          "definition": "the design or look of something.",
+          "examples": [
+            "works of strange device"
+          ]
+        },
+        {
+          "definition": "a plan, scheme, or trick with a particular aim.",
+          "examples": [
+            "writing a public letter is a traditional device for signaling dissent"
+          ],
+          "synonyms": [
+            "ploy",
+            "tactic",
+            "move",
+            "stratagem",
+            "scheme",
+            "plot",
+            "plan",
+            "trick",
+            "ruse",
+            "maneuver",
+            "machination",
+            "contrivance",
+            "expedient",
+            "dodge",
+            "wile \"an ingenious legal device\""
+          ]
+        },
+        {
+          "definition": "a turn of phrase intended to produce a particular effect in speech or a literary work.",
+          "examples": [
+            "a rhetorical device"
+          ]
+        },
+        {
+          "definition": "a drawing or design.",
+          "examples": [
+            "the decorative device on the invitations"
+          ]
+        },
+        {
+          "definition": "an emblematic or heraldic design.",
+          "examples": [
+            "their shields bear the device of the Blazing Sun"
+          ],
+          "synonyms": [
+            "emblem",
+            "symbol",
+            "logo",
+            "badge",
+            "crest",
+            "insignia",
+            "coat of arms",
+            "escutcheon",
+            "seal",
+            "mark",
+            "design",
+            "motif; Moremonogram",
+            "hallmark",
+            "trademark \"their shields bear his device\""
+          ]
+        }
+      ]
+    }
+  ]
+}

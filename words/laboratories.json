@@ -1,0 +1,38 @@
+[
+  {
+    "word": "laboratory",
+    "syllables": [
+      "lab",
+      "o",
+      "ra",
+      "to",
+      "ry"
+    ],
+    "pronunciation": "ˈlabrəˌtôrē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "laboratories"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a room or building equipped for scientific experiments, research, or teaching, or for the manufacture of drugs or chemicals.",
+            "examples": [
+              "pepsin can be extracted in the laboratory"
+            ]
+          },
+          {
+            "definition": "(of an animal) bred for or used in experiments in laboratories.",
+            "examples": [
+              "modifier noun: laboratory"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

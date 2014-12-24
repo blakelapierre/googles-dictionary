@@ -1,0 +1,152 @@
+[
+  {
+    "word": "observe",
+    "syllables": [
+      "ob",
+      "serve"
+    ],
+    "pronunciation": "əbˈzərv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "observed"
+          },
+          {
+            "part": "past participle",
+            "variant": "observed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "notice or perceive (something) and register it as being significant.",
+            "examples": [
+              "young people observe that decisions are made by others"
+            ],
+            "synonyms": [
+              "notice",
+              "see",
+              "note",
+              "perceive",
+              "discern",
+              "detect",
+              "spot; Moreliteraryespy",
+              "descry",
+              "behold \"every time he looked at her now",
+              "he observed something new\""
+            ],
+            "antonyms": [
+              "overlook"
+            ]
+          },
+          {
+            "definition": "watch (someone or something) carefully and attentively.",
+            "examples": [
+              "Rob stood in the hallway, where he could observe the happenings on the street"
+            ],
+            "synonyms": [
+              "watch",
+              "look at",
+              "eye",
+              "contemplate",
+              "view",
+              "witness",
+              "survey",
+              "regard",
+              "keep an eye on",
+              "scrutinize",
+              "keep under observation",
+              "keep (a) watch on",
+              "keep under surveillance",
+              "surveil",
+              "monitor",
+              "check out",
+              "keep a weather eye on",
+              "keep tabs on",
+              "spy on; informaleyeball \"I may not even observe them unawares\""
+            ]
+          },
+          {
+            "definition": "take note of or detect (something) in the course of a scientific study.",
+            "examples": [
+              "the behavior observed in groups of chimpanzees"
+            ]
+          },
+          {
+            "definition": "make a remark or comment.",
+            "examples": [
+              "“It's chilly,” she observed"
+            ],
+            "synonyms": [
+              "remark",
+              "comment",
+              "say",
+              "mention",
+              "note",
+              "declare",
+              "announce",
+              "state",
+              "pronounce; formalopine \"she'd observed that the Christmas tree looked underdecorated\""
+            ]
+          },
+          {
+            "definition": "fulfill or comply with (a social, legal, ethical, or religious obligation).",
+            "examples": [
+              "a tribunal must observe the principles of natural justice"
+            ],
+            "synonyms": [
+              "comply with",
+              "abide by",
+              "keep",
+              "obey",
+              "adhere to",
+              "heed",
+              "honor",
+              "be heedful of",
+              "respect",
+              "follow",
+              "consent to",
+              "acquiesce in",
+              "accept",
+              "fulfill \"both countries agreed to observe the ceasefire\""
+            ],
+            "antonyms": [
+              "disregard",
+              "ignore"
+            ]
+          },
+          {
+            "definition": "maintain (silence) in compliance with a rule or custom, or temporarily as a mark of respect.",
+            "examples": [
+              "a minute's silence will be observed"
+            ]
+          },
+          {
+            "definition": "perform or take part in (a rite or ceremony).",
+            "examples": [
+              "relations gather to observe the funeral rites"
+            ]
+          },
+          {
+            "definition": "celebrate or acknowledge (an anniversary).",
+            "examples": [
+              "many observed the one-year anniversary of the flood"
+            ],
+            "synonyms": [
+              "commemorate",
+              "mark",
+              "keep",
+              "memorialize",
+              "solemnize",
+              "remember",
+              "recognize",
+              "celebrate \"this year he observed the anniversary at a ceremony on the South Lawn\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "word": "target",
+    "syllables": [
+      "tar",
+      "get"
+    ],
+    "pronunciation": "ˈtärɡət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "target"
+          },
+          {
+            "part": "plural noun",
+            "variant": "targets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person, object, or place selected as the aim of an attack.",
+            "examples": [
+              "prey, quarry, game, kill eagles can spot their target from half a mile"
+            ]
+          },
+          {
+            "definition": "a mark or point at which someone fires or aims, especially a round or rectangular board marked with concentric circles used in archery or shooting.",
+            "examples": [
+              "mark, bullseye, goal targets at a range of 200 meters"
+            ]
+          },
+          {
+            "definition": "an objective or result toward which efforts are directed.",
+            "examples": [
+              "the car met its sales target in record time"
+            ],
+            "synonyms": [
+              "objective",
+              "goal",
+              "aim",
+              "end; Moreplan",
+              "intention",
+              "intent",
+              "design",
+              "aspiration",
+              "ambition",
+              "ideal",
+              "desire",
+              "wish \"their profit target\""
+            ]
+          },
+          {
+            "definition": "an idealization of the articulation of a speech sound, with reference to which actual utterances can be described."
+          },
+          {
+            "definition": "a person or thing against whom criticism or abuse is or may be directed.",
+            "examples": [
+              "victim, butt, recipient, focus, object, subject she was the target for a wave of abuse"
+            ]
+          },
+          {
+            "definition": "a small, round shield or buckler."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "target"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "targets"
+          },
+          {
+            "part": "past tense",
+            "variant": "targeted"
+          },
+          {
+            "part": "past participle",
+            "variant": "targeted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "targeting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "select as an object of attention or attack.",
+            "examples": [
+              "two men were targeted by the attackers"
+            ],
+            "synonyms": [
+              "pick out",
+              "single out",
+              "earmark",
+              "fix on; Moreattack",
+              "aim at",
+              "fire at \"he was targeted by a gunman\""
+            ]
+          },
+          {
+            "definition": "aim or direct (something).",
+            "examples": [
+              "a significant nuclear capability targeted on the US"
+            ],
+            "synonyms": [
+              "aim at",
+              "direct at",
+              "level at",
+              "intend for",
+              "focus on \"the product is targeted at a specific market\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

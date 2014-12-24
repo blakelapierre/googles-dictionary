@@ -1,0 +1,34 @@
+{
+  "word": "heraldry",
+  "syllables": [
+    "her",
+    "ald",
+    "ry"
+  ],
+  "pronunciation": "ˈherəldrē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "heraldry"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the system by which coats of arms and other armorial bearings are devised, described, and regulated."
+        },
+        {
+          "definition": "armorial bearings or other heraldic symbols."
+        },
+        {
+          "definition": "colorful ceremony.",
+          "examples": [
+            "all the pomp and heraldry provided a splendid pageant"
+          ]
+        }
+      ]
+    }
+  ]
+}

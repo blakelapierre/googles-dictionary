@@ -1,0 +1,106 @@
+{
+  "word": "language",
+  "syllables": [
+    "lan",
+    "guage"
+  ],
+  "pronunciation": "ˈlaNGɡwij",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "language"
+        },
+        {
+          "part": "plural noun",
+          "variant": "languages"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.",
+          "examples": [
+            "a study of the way children learn language"
+          ]
+        },
+        {
+          "definition": "any nonverbal method of expression or communication.",
+          "examples": [
+            "a language of gesture and facial expression"
+          ],
+          "synonyms": [
+            "speech",
+            "writing",
+            "communication",
+            "conversation",
+            "speaking",
+            "talking",
+            "talk",
+            "discourse; Morewords",
+            "vocabulary \"the structure of language\""
+          ]
+        },
+        {
+          "definition": "the system of communication used by a particular community or country.",
+          "examples": [
+            "the book was translated into twenty-five languages"
+          ],
+          "synonyms": [
+            "tongue",
+            "mother tongue",
+            "native tongue; Moredialect",
+            "patois",
+            "slang",
+            "idiom",
+            "jargon",
+            "argot",
+            "cant; informallingo \"the English language\""
+          ]
+        },
+        {
+          "definition": "a system of symbols and rules for writing programs or algorithms.",
+          "examples": [
+            "a new programming language"
+          ]
+        },
+        {
+          "definition": "the manner or style of a piece of writing or speech.",
+          "examples": [
+            "he explained the procedure in simple, everyday language"
+          ]
+        },
+        {
+          "definition": "the phraseology and vocabulary of a certain profession, domain, or group of people.",
+          "examples": [
+            "legal language"
+          ],
+          "synonyms": [
+            "wording",
+            "phrasing",
+            "phraseology",
+            "style",
+            "vocabulary",
+            "terminology",
+            "expressions",
+            "turns of phrase",
+            "parlance",
+            "form/mode of expression",
+            "usages",
+            "locutions",
+            "choice of words",
+            "idiolect; informallingo \"the booklet is written in simple",
+            "everyday language\""
+          ]
+        },
+        {
+          "definition": "coarse, crude, or offensive language.",
+          "examples": [
+            "strong language"
+          ]
+        }
+      ]
+    }
+  ]
+}

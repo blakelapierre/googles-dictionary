@@ -1,0 +1,359 @@
+[
+  {
+    "word": "beaten",
+    "syllables": [
+      "beat",
+      "en"
+    ],
+    "pronunciation": "ˈbētn",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "beaten"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having been defeated.",
+            "examples": [
+              "I knew when I was beaten"
+            ]
+          },
+          {
+            "definition": "exhausted and dejected.",
+            "examples": [
+              "he sat feeling old and beaten"
+            ],
+            "synonyms": [
+              "defeated",
+              "losing",
+              "unsuccessful",
+              "conquered",
+              "bettered",
+              "vanquished",
+              "trounced",
+              "routed",
+              "overcome",
+              "overwhelmed",
+              "overpowered",
+              "overthrown",
+              "bested",
+              "subdued",
+              "quashed",
+              "crushed",
+              "broken",
+              "foiled",
+              "hapless",
+              "luckless; Moreinformallicked",
+              "thrashed",
+              "losingest",
+              "clobbered \"the beaten team\""
+            ],
+            "antonyms": [
+              "victorious",
+              "winning"
+            ]
+          },
+          {
+            "definition": "having been beaten or struck.",
+            "examples": [
+              "he trudged home like a beaten dog"
+            ],
+            "synonyms": [
+              "abused",
+              "battered",
+              "maltreated",
+              "ill-treated",
+              "mistreated",
+              "misused",
+              "downtrodden; Moreassaulted",
+              "thumped",
+              "whacked",
+              "hit",
+              "thrashed",
+              "pummeled",
+              "smacked",
+              "drubbed; informalwalloped",
+              "belted",
+              "bashed",
+              "clobbered",
+              "knocked around/about",
+              "roughed up \"a beaten dog\""
+            ]
+          },
+          {
+            "definition": "(of food) whipped to a uniform consistency.",
+            "examples": [
+              "beaten eggs"
+            ],
+            "synonyms": [
+              "whisked",
+              "whipped",
+              "stirred",
+              "mixed",
+              "blended; Morefrothy",
+              "foamy \"gradually stir in the beaten eggs\""
+            ]
+          },
+          {
+            "definition": "(of metal) shaped by hammering, typically so as to give the surface a dimpled texture."
+          },
+          {
+            "definition": "(of precious metal) hammered to form thin foil for ornamental use."
+          },
+          {
+            "definition": "(of a path) well trodden; much used.",
+            "examples": [
+              "trodden, trampled; Morewell trodden, much trodden, well used, much traveled, worn, well worn \"a beaten path\"Morewell trodden, much trodden, well used, much traveled, worn, well worn a beaten path"
+            ],
+            "antonyms": [
+              "untouched"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "beat",
+    "syllables": [
+      "beat"
+    ],
+    "pronunciation": "bēt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "beaten"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strike (a person or an animal) repeatedly and violently so as to hurt or injure them, usually with an implement such as a club or whip.",
+            "examples": [
+              "a woman whose husband would frequently beat her after becoming drunk"
+            ],
+            "synonyms": [
+              "hit",
+              "strike",
+              "batter",
+              "thump",
+              "bang",
+              "hammer",
+              "punch",
+              "knock",
+              "thrash",
+              "pound",
+              "pummel",
+              "slap",
+              "smack",
+              "rain blows on; Moreassault",
+              "attack",
+              "abuse; cudgel",
+              "club",
+              "birch; informalwallop",
+              "belt",
+              "whup",
+              "bash",
+              "whack",
+              "thwack",
+              "clout",
+              "clobber",
+              "slug",
+              "tan",
+              "bop",
+              "sock",
+              "deck",
+              "plug",
+              "beat the living daylights out of; datedchastise \"they were beaten with truncheons\""
+            ]
+          },
+          {
+            "definition": "strike (an object) repeatedly so as to make a noise.",
+            "examples": [
+              "he beat the table with his hand"
+            ],
+            "synonyms": [
+              "pulsate",
+              "pulse",
+              "palpitate",
+              "vibrate",
+              "throb; Morepump",
+              "pound",
+              "thump",
+              "thud",
+              "hammer",
+              "drum; pitter-patter \"her heart was still beating\""
+            ]
+          },
+          {
+            "definition": "(of an instrument) make a rhythmical sound by being struck.",
+            "examples": [
+              "drums were beating in the distance"
+            ]
+          },
+          {
+            "definition": "strike (a carpet, blanket, etc.) repeatedly in order to remove dust."
+          },
+          {
+            "definition": "flatten or shape (metal) by striking it repeatedly with a hammer.",
+            "examples": [
+              "pure gold can be beaten out to form very thin sheets"
+            ],
+            "synonyms": [
+              "hammer",
+              "forge",
+              "form",
+              "shape",
+              "mold",
+              "work",
+              "stamp",
+              "fashion",
+              "model \"the metal is beaten into a die\""
+            ]
+          },
+          {
+            "definition": "strike something against (something).",
+            "examples": [
+              "she beat her fists against the wood"
+            ]
+          },
+          {
+            "definition": "strike repeatedly on.",
+            "examples": [
+              "Sidney beat on the door with the flat of his hand"
+            ]
+          },
+          {
+            "definition": "make striking movements toward.",
+            "examples": [
+              "Emmie seized the hearthrug and began to beat at the flames"
+            ]
+          },
+          {
+            "definition": "move across (an area of land) repeatedly striking at the ground cover in order to raise game birds for shooting."
+          },
+          {
+            "definition": "defeat (someone) in a game, competition, election, or commercial venture.",
+            "examples": [
+              "she beat him easily at chess"
+            ],
+            "synonyms": [
+              "defeat",
+              "conquer",
+              "win against",
+              "get the better of",
+              "vanquish",
+              "trounce",
+              "rout",
+              "overpower",
+              "overcome",
+              "subdue; Moreinformallick",
+              "thrash",
+              "whip",
+              "wipe the floor with",
+              "clobber",
+              "cream",
+              "shellac",
+              "skunk \"the team they need to beat\""
+            ]
+          },
+          {
+            "definition": "baffle.",
+            "examples": [
+              "it beats me how you manage to work in this heat"
+            ]
+          },
+          {
+            "definition": "overcome (a problem, or disease).",
+            "examples": [
+              "they are investing their savings in hopes of beating inflation"
+            ]
+          },
+          {
+            "definition": "do or be better than (a record or score).",
+            "examples": [
+              "he beat his own world record"
+            ],
+            "synonyms": [
+              "surpass",
+              "exceed",
+              "better",
+              "improve on",
+              "go one better than",
+              "eclipse",
+              "transcend",
+              "top",
+              "trump",
+              "cap \"he beat the record\""
+            ]
+          },
+          {
+            "definition": "be better than.",
+            "examples": [
+              "you can't beat the taste of fresh raspberries"
+            ]
+          },
+          {
+            "definition": "succeed in getting somewhere ahead of (someone).",
+            "examples": [
+              "I could beat him on my bicycle"
+            ]
+          },
+          {
+            "definition": "take action to avoid (difficult or inconvenient effects of an event or circumstance).",
+            "examples": [
+              "they set off early to beat the traffic"
+            ]
+          },
+          {
+            "definition": "(of the heart) pulsate.",
+            "examples": [
+              "her heart beat faster with panic"
+            ]
+          },
+          {
+            "definition": "(of a bird) move (the wings) up and down.",
+            "examples": [
+              "flap, flutter, thresh, thrash, wave, vibrate, oscillate the eagle beat its wings"
+            ]
+          },
+          {
+            "definition": "(of a bird) fly making rhythmic wing movements.",
+            "examples": [
+              "an owl beat low over the salt marsh"
+            ]
+          },
+          {
+            "definition": "stir (cooking ingredients) vigorously with a fork, whisk, or beater to make a smooth or frothy mixture.",
+            "examples": [
+              "whisk, mix, blend, whip beat the cream into the mixture"
+            ]
+          },
+          {
+            "definition": "leave.",
+            "examples": [
+              "now beat it, will you!"
+            ]
+          },
+          {
+            "definition": "sail into the wind, following a zigzag course with repeated tacking.",
+            "examples": [
+              "we beat southward all that first day"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

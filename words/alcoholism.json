@@ -1,0 +1,31 @@
+[
+  {
+    "word": "alcoholism",
+    "syllables": [
+      "al",
+      "co",
+      "hol",
+      "ism"
+    ],
+    "pronunciation": "ˈalkəhôˌlizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "alcoholism"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an addiction to the consumption of alcoholic liquor or the mental illness and compulsive behavior resulting from alcohol dependency.",
+            "examples": [
+              "he had a long history of depression, drug abuse and alcoholism"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

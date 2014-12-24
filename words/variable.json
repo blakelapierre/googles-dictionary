@@ -1,0 +1,122 @@
+{
+  "word": "variable",
+  "syllables": [
+    "var",
+    "i",
+    "a",
+    "ble"
+  ],
+  "pronunciation": "ˈverēəb(ə)l",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "variable"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "not consistent or having a fixed pattern; liable to change.",
+          "examples": [
+            "the quality of hospital food is highly variable"
+          ],
+          "synonyms": [
+            "changeable",
+            "changing",
+            "varying",
+            "shifting",
+            "fluctuating",
+            "irregular",
+            "inconstant",
+            "inconsistent",
+            "fluid",
+            "unsteady",
+            "unstable",
+            "unsettled",
+            "fitful",
+            "mutable",
+            "protean",
+            "wavering",
+            "vacillating",
+            "capricious",
+            "fickle",
+            "volatile",
+            "unpredictable",
+            "mercurial",
+            "unreliable; informalup and down \"the weather on the shoreline is known for being variable\""
+          ],
+          "antonyms": [
+            "constant"
+          ]
+        },
+        {
+          "definition": "(of a wind) tending to change direction.",
+          "examples": [
+            "changeable, changing, varying, shifting, fluctuating, irregular, inconstant, inconsistent, fluid, unsteady, unstable, unsettled, fitful, mutable, protean, wavering, vacillating, capricious, fickle, volatile, unpredictable, mercurial, unreliable; up and down the weather on the shoreline is known for being variable"
+          ],
+          "antonyms": [
+            "constant"
+          ]
+        },
+        {
+          "definition": "(of a quantity) able to assume different numerical values."
+        },
+        {
+          "definition": "(of a species) liable to deviate from the typical color or form, or to occur in different colors or forms."
+        },
+        {
+          "definition": "able to be changed or adapted.",
+          "examples": [
+            "the drill has variable speed"
+          ]
+        },
+        {
+          "definition": "(of a gear) designed to give varying ratios or speeds."
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "variable"
+        },
+        {
+          "part": "plural noun",
+          "variant": "variables"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an element, feature, or factor that is liable to vary or change.",
+          "examples": [
+            "there are too many variables involved to make any meaningful predictions"
+          ],
+          "synonyms": [
+            "factor",
+            "element",
+            "ingredient",
+            "quantity",
+            "unknown quantity",
+            "condition \"there are other variables to consider\""
+          ]
+        },
+        {
+          "definition": "a quantity that during a calculation is assumed to vary or be capable of varying in value."
+        },
+        {
+          "definition": "a data item that may take on more than one value during the runtime of a program."
+        },
+        {
+          "definition": "short for variable star."
+        },
+        {
+          "definition": "the region of light, variable winds to the north of the northeast trade winds or (in the southern hemisphere) between the southeast trade winds and the westerlies."
+        }
+      ]
+    }
+  ]
+}

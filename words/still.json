@@ -1,0 +1,240 @@
+{
+  "word": "still",
+  "syllables": [
+    "still"
+  ],
+  "pronunciation": "stil",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "still"
+        },
+        {
+          "part": "comparative adjective",
+          "variant": "stiller"
+        },
+        {
+          "part": "superlative adjective",
+          "variant": "stillest"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "not moving or making a sound.",
+          "examples": [
+            "the still body of the young man"
+          ],
+          "synonyms": [
+            "motionless",
+            "unmoving",
+            "not moving a muscle",
+            "stock-still",
+            "immobile",
+            "inanimate",
+            "like a statue",
+            "as if turned to stone",
+            "rooted to the spot",
+            "transfixed",
+            "static",
+            "stationary \"the parrot lay still\""
+          ],
+          "antonyms": [
+            "moving",
+            "active"
+          ]
+        },
+        {
+          "definition": "(of air or water) undisturbed by wind, sound, or current; calm and tranquil.",
+          "examples": [
+            "her voice carried on the still air"
+          ],
+          "synonyms": [
+            "calm",
+            "flat",
+            "even",
+            "smooth",
+            "placid",
+            "tranquil",
+            "pacific",
+            "waveless",
+            "glassy",
+            "like a millpond",
+            "unruffled",
+            "stagnant \"the lake was still\""
+          ],
+          "antonyms": [
+            "rough",
+            "turbulent"
+          ]
+        },
+        {
+          "definition": "(of a drink) not effervescent."
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "still"
+        },
+        {
+          "part": "plural noun",
+          "variant": "stills"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "deep silence and calm; stillness.",
+          "examples": [
+            "the still of the night"
+          ],
+          "synonyms": [
+            "quietness",
+            "quiet",
+            "quietude",
+            "silence",
+            "stillness",
+            "hush",
+            "soundlessness; Morecalm",
+            "tranquility",
+            "peace",
+            "serenity \"the still of the night\""
+          ],
+          "antonyms": [
+            "noise",
+            "disturbance",
+            "hubbub"
+          ]
+        },
+        {
+          "definition": "an ordinary static photograph as opposed to a motion picture, especially a single shot from a movie."
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "still"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "up to and including the present or the time mentioned; even now (or then) as formerly.",
+          "examples": [
+            "he still lives with his mother"
+          ],
+          "synonyms": [
+            "up to this time",
+            "up to the present time",
+            "until now",
+            "even now",
+            "yet \"she's still running in circles\""
+          ]
+        },
+        {
+          "definition": "referring to something that will or may happen in the future.",
+          "examples": [
+            "we could still win"
+          ]
+        },
+        {
+          "definition": "nevertheless; all the same.",
+          "examples": [
+            "I'm afraid he's crazy. Still, he's harmless"
+          ],
+          "synonyms": [
+            "nevertheless",
+            "nonetheless",
+            "regardless",
+            "all the same",
+            "just the same",
+            "anyway",
+            "anyhow",
+            "even so",
+            "yet",
+            "but",
+            "however",
+            "notwithstanding",
+            "despite that",
+            "in spite of that",
+            "for all that",
+            "be that as it may",
+            "in any event",
+            "at any rate; Moreinformalstill and all",
+            "anyhoo \"He's crazy. Still",
+            "he's good for dinner conversation\""
+          ]
+        },
+        {
+          "definition": "even (used with comparatives for emphasis).",
+          "examples": [
+            "write, or better still, type, captions for the pictures"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "still"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "stills"
+        },
+        {
+          "part": "past tense",
+          "variant": "stilled"
+        },
+        {
+          "part": "past participle",
+          "variant": "stilled"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "stilling"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make or become still; quieten.",
+          "examples": [
+            "she raised her hand, stilling Erica's protests"
+          ],
+          "synonyms": [
+            "quiet",
+            "silence",
+            "hush; Morecalm",
+            "settle",
+            "pacify",
+            "soothe",
+            "lull",
+            "allay",
+            "subdue \"she stilled the crowd\"abate",
+            "die down",
+            "lessen",
+            "subside",
+            "ease up/off",
+            "let up",
+            "moderate",
+            "slacken",
+            "weaken \"the wind stilled\""
+          ],
+          "antonyms": [
+            "stir up",
+            "get stronger"
+          ]
+        }
+      ]
+    }
+  ]
+}

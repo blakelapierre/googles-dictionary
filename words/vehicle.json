@@ -1,0 +1,60 @@
+{
+  "word": "vehicle",
+  "syllables": [
+    "ve",
+    "hi",
+    "cle"
+  ],
+  "pronunciation": "ˈvēək(ə)lˈvēˌhik(ə)l",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "vehicle"
+        },
+        {
+          "part": "plural noun",
+          "variant": "vehicles"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a thing used for transporting people or goods, especially on land, such as a car, truck, or cart.",
+          "examples": [
+            "means of transport, conveyance, motor vehicle a stolen vehicle"
+          ]
+        },
+        {
+          "definition": "a thing used to express, embody, or fulfill something.",
+          "examples": [
+            "I use paint as a vehicle for my ideas"
+          ],
+          "synonyms": [
+            "channel",
+            "medium",
+            "conduit",
+            "means",
+            "means of expression",
+            "agency",
+            "agent",
+            "instrument",
+            "mechanism",
+            "organ",
+            "apparatus \"a vehicle for the communication of original ideas\""
+          ]
+        },
+        {
+          "definition": "a substance that facilitates the use of a drug, pigment, or other material mixed with it."
+        },
+        {
+          "definition": "the figurative language used in a metaphor, as distinct from the metaphor's subject."
+        },
+        {
+          "definition": "a movie, television program, song, etc., that is intended to display the leading performer to the best advantage."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "behavior",
+    "syllables": [
+      "be",
+      "hav",
+      "ior"
+    ],
+    "pronunciation": "bəˈhāvyər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "behaviour"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the way in which one acts or conducts oneself, especially toward others.",
+            "examples": [
+              "good behavior"
+            ],
+            "synonyms": [
+              "conduct",
+              "deportment",
+              "bearing",
+              "actions",
+              "doings; Moremanners",
+              "ways; formalcomportment \"his behavior was inexcusable\""
+            ]
+          },
+          {
+            "definition": "the way in which an animal or person acts in response to a particular situation or stimulus.",
+            "examples": [
+              "plural noun: behaviours; plural noun: behaviors"
+            ]
+          },
+          {
+            "definition": "the way in which a natural phenomenon or a machine works or functions.",
+            "examples": [
+              "the erratic behavior of the old car"
+            ],
+            "synonyms": [
+              "functioning",
+              "action",
+              "performance",
+              "operation",
+              "working",
+              "reaction",
+              "response \"the behavior of these organisms\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

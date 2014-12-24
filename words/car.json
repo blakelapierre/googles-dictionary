@@ -1,0 +1,61 @@
+[
+  {
+    "word": "car",
+    "syllables": [
+      "car"
+    ],
+    "pronunciation": "kär",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "car"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people.",
+            "examples": [
+              "we're going by car"
+            ],
+            "synonyms": [
+              "automobile",
+              "motor vehicle",
+              "vehicle; Moredatedmotorcar; informalauto",
+              "wheels",
+              "gas guzzler; jalopy",
+              "lemon",
+              "junker",
+              "clunker",
+              "hooptie",
+              "Tin Lizzie",
+              "rustbucket \"he drove up in his car\""
+            ]
+          },
+          {
+            "definition": "a railroad vehicle for passengers or freight.",
+            "examples": [
+              "the first-class cars"
+            ],
+            "synonyms": [
+              "carriage",
+              "coach \"the dining car\""
+            ]
+          },
+          {
+            "definition": "the passenger compartment of an elevator, cableway, airship, or balloon."
+          },
+          {
+            "definition": "a chariot."
+          }
+        ]
+      }
+    ]
+  }
+]

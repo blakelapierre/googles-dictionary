@@ -1,0 +1,169 @@
+[
+  {
+    "word": "wanting",
+    "syllables": [
+      "want",
+      "ing"
+    ],
+    "pronunciation": "ˈwän(t)iNGwôn(t)iNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "wanting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking in a certain required or necessary quality.",
+            "examples": [
+              "they weren't wanting in confidence"
+            ],
+            "synonyms": [
+              "deficient",
+              "inadequate",
+              "lacking",
+              "insufficient",
+              "imperfect",
+              "unacceptable",
+              "unsatisfactory",
+              "flawed",
+              "faulty",
+              "defective",
+              "unsound",
+              "substandard",
+              "inferior",
+              "second-rate",
+              "poor",
+              "shoddy More\"the defenses were found wanting\"without",
+              "lacking",
+              "deprived of",
+              "devoid of",
+              "bereft of",
+              "in need of",
+              "out of; deficient in",
+              "short on; informalminus \"millions were left wanting for food\""
+            ],
+            "antonyms": [
+              "sufficient"
+            ]
+          },
+          {
+            "definition": "not existing or supplied; absent.",
+            "examples": [
+              "the kneecap is wanting in amphibians and reptiles"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "syllables": [
+      "want"
+    ],
+    "pronunciation": "wäntwônt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "wanting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have a desire to possess or do (something); wish for.",
+            "examples": [
+              "I want an apple"
+            ],
+            "synonyms": [
+              "desire",
+              "wish for",
+              "hope for",
+              "aspire to",
+              "fancy",
+              "care for",
+              "like; Morelong for",
+              "yearn for",
+              "crave",
+              "hanker after",
+              "hunger for",
+              "thirst for",
+              "cry out for",
+              "covet; need; informalhave a yen for",
+              "have a jones for",
+              "be dying for \"do you want more coffee?\""
+            ]
+          },
+          {
+            "definition": "wish to consult or speak to (someone).",
+            "examples": [
+              "Tony wants me in the studio"
+            ]
+          },
+          {
+            "definition": "(of the police) desire to question or apprehend (a suspected criminal).",
+            "examples": [
+              "he is wanted by the police in connection with an arms theft"
+            ]
+          },
+          {
+            "definition": "desire (someone) sexually.",
+            "examples": [
+              "I've wanted you since the first moment I saw you"
+            ]
+          },
+          {
+            "definition": "(of a thing) require to be attended to in a specified way.",
+            "examples": [
+              "the wheel wants greasing"
+            ]
+          },
+          {
+            "definition": "ought, should, or need to do something.",
+            "examples": [
+              "you don't want to believe everything you hear"
+            ],
+            "synonyms": [
+              "should",
+              "ought to",
+              "need to",
+              "must \"you want to be more careful\""
+            ]
+          },
+          {
+            "definition": "desire to be in or out of a particular place or situation.",
+            "examples": [
+              "if anyone wants out, there's the door"
+            ]
+          },
+          {
+            "definition": "lack or be short of something desirable or essential.",
+            "examples": [
+              "you shall want for nothing while you are with me"
+            ]
+          },
+          {
+            "definition": "(chiefly used in expressions of time) be short of or lack (a specified amount or thing).",
+            "examples": [
+              "it wanted twenty minutes to midnight"
+            ],
+            "synonyms": [
+              "lack",
+              "be without",
+              "have need of",
+              "be devoid of",
+              "be bereft of",
+              "be missing \"this mollycoddled generation wants for nothing\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

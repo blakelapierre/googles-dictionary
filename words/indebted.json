@@ -1,0 +1,46 @@
+[
+  {
+    "word": "indebted",
+    "syllables": [
+      "in",
+      "debt",
+      "ed"
+    ],
+    "pronunciation": "inˈdedəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "indebted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "owing money.",
+            "examples": [
+              "heavily indebted countries"
+            ]
+          },
+          {
+            "definition": "owing gratitude for a service or favor.",
+            "examples": [
+              "I am indebted to her for her help in indexing my book"
+            ],
+            "synonyms": [
+              "beholden",
+              "under an obligation",
+              "obliged",
+              "obligated",
+              "grateful",
+              "thankful",
+              "in debt",
+              "owing a debt of gratitude \"he thinks he is indebted to us for saving his life\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

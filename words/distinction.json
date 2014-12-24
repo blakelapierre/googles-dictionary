@@ -1,0 +1,96 @@
+{
+  "word": "distinction",
+  "syllables": [
+    "dis",
+    "tinc",
+    "tion"
+  ],
+  "pronunciation": "dəˈstiNG(k)SH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "distinction"
+        },
+        {
+          "part": "plural noun",
+          "variant": "distinctions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a difference or contrast between similar things or people.",
+          "examples": [
+            "there is a sharp distinction between domestic politics and international politics"
+          ],
+          "synonyms": [
+            "difference",
+            "contrast",
+            "dissimilarity",
+            "variance",
+            "variation; Moredivision",
+            "differentiation",
+            "dividing line",
+            "gulf",
+            "gap \"class distinctions\""
+          ],
+          "antonyms": [
+            "similarity"
+          ]
+        },
+        {
+          "definition": "the separation of things or people into different groups according to their attributes or characteristics.",
+          "examples": [
+            "these procedures were to be applied to all births, without distinction"
+          ]
+        },
+        {
+          "definition": "excellence that sets someone or something apart from others.",
+          "examples": [
+            "a novelist of distinction"
+          ],
+          "synonyms": [
+            "importance",
+            "significance",
+            "note",
+            "consequence; Morerenown",
+            "fame",
+            "celebrity",
+            "prominence",
+            "eminence",
+            "preeminence",
+            "repute",
+            "reputation; merit",
+            "worth",
+            "greatness",
+            "excellence",
+            "quality \"a painter of distinction\""
+          ],
+          "antonyms": [
+            "mediocrity"
+          ]
+        },
+        {
+          "definition": "a decoration or honor awarded to someone in recognition of outstanding achievement.",
+          "examples": [
+            "he gained the highest distinction awarded for excellence in photography"
+          ],
+          "synonyms": [
+            "honor",
+            "credit",
+            "excellence",
+            "merit \"he had served with distinction\""
+          ]
+        },
+        {
+          "definition": "recognition of outstanding achievement, such as on an examination.",
+          "examples": [
+            "I made a distinction in Greek"
+          ]
+        }
+      ]
+    }
+  ]
+}

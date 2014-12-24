@@ -1,0 +1,30 @@
+[
+  {
+    "word": "inquest",
+    "syllables": [
+      "in",
+      "quest"
+    ],
+    "pronunciation": "ˈiNGˌkwest",
+    "parts": [
+      {
+        "part": "nounLaw",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inquest"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inquests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a judicial inquiry to ascertain the facts relating to an incident, such as a death."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "unlikely",
+    "syllables": [
+      "un",
+      "like",
+      "ly"
+    ],
+    "pronunciation": "ˌənˈlīklē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unlikely"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "unlikelier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "unlikeliest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not likely to happen, be done, or be true; improbable.",
+            "examples": [
+              "an unlikely explanation"
+            ],
+            "synonyms": [
+              "improbable",
+              "doubtful",
+              "dubious More\"it is unlikely they will ever recover\"implausible",
+              "improbable",
+              "questionable",
+              "unconvincing",
+              "far-fetched",
+              "unrealistic",
+              "incredible",
+              "unbelievable",
+              "inconceivable",
+              "unimaginable; absurd",
+              "preposterous; informaltall \"an unlikely story\""
+            ],
+            "antonyms": [
+              "probable",
+              "believable"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

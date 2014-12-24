@@ -1,0 +1,39 @@
+{
+  "word": "participant",
+  "syllables": [
+    "par",
+    "tic",
+    "i",
+    "pant"
+  ],
+  "pronunciation": "ˌpärˈtisəpənt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "participants"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person who takes part in something.",
+          "examples": [
+            "eager students would become firsthand participants in an archaeological exploration"
+          ],
+          "synonyms": [
+            "participator",
+            "contributor",
+            "party",
+            "member; Moreentrant",
+            "competitor",
+            "player",
+            "contestant",
+            "candidate \"the first 100 participants to sign up will get a free T-shirt\""
+          ]
+        }
+      ]
+    }
+  ]
+}

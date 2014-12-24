@@ -1,0 +1,36 @@
+[
+  {
+    "word": "forcibly",
+    "syllables": [
+      "for",
+      "ci",
+      "bly"
+    ],
+    "pronunciation": "ˈfôrsəblē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "forcibly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "using force or violence.",
+            "examples": [
+              "no one will be forcibly evicted"
+            ]
+          },
+          {
+            "definition": "in a forceful way; convincingly.",
+            "examples": [
+              "they argued forcibly against the proposal"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

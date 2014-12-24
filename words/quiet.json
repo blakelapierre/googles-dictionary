@@ -1,0 +1,218 @@
+{
+  "word": "quiet",
+  "syllables": [
+    "qui",
+    "et"
+  ],
+  "pronunciation": "ˈkwīət",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "quiet"
+        },
+        {
+          "part": "comparative adjective",
+          "variant": "quieter"
+        },
+        {
+          "part": "superlative adjective",
+          "variant": "quietest"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "making little or no noise.",
+          "examples": [
+            "the car has a quiet, economical engine"
+          ],
+          "synonyms": [
+            "silent",
+            "still",
+            "hushed",
+            "noiseless",
+            "soundless; Moremute",
+            "dumb",
+            "speechless \"the whole pub went quiet\"soft",
+            "low",
+            "muted",
+            "muffled",
+            "faint",
+            "indistinct",
+            "inaudible",
+            "hushed",
+            "whispered",
+            "suppressed \"a quiet voice\""
+          ],
+          "antonyms": [
+            "noisy",
+            "loud"
+          ]
+        },
+        {
+          "definition": "(of a place, period of time, or situation) without much activity, disturbance, or excitement.",
+          "examples": [
+            "the street below was quiet, little traffic braving the snow"
+          ],
+          "synonyms": [
+            "peaceful",
+            "sleepy",
+            "tranquil",
+            "calm",
+            "still",
+            "restful",
+            "undisturbed",
+            "untroubled; Moreunfrequented \"a quiet village\"slow",
+            "stagnant",
+            "slack",
+            "sluggish",
+            "inactive",
+            "idle \"business is quiet\""
+          ],
+          "antonyms": [
+            "busy",
+            "hectic",
+            "active"
+          ]
+        },
+        {
+          "definition": "without being disturbed or interrupted.",
+          "examples": [
+            "all he wanted was a quiet drink"
+          ],
+          "synonyms": [
+            "peaceful",
+            "sleepy",
+            "tranquil",
+            "calm",
+            "still",
+            "restful",
+            "undisturbed",
+            "untroubled; unfrequented \"a quiet village\""
+          ],
+          "antonyms": [
+            "busy",
+            "hectic"
+          ]
+        },
+        {
+          "definition": "carried out discreetly, secretly, or with moderation.",
+          "examples": [
+            "we wanted a quiet wedding"
+          ],
+          "synonyms": [
+            "private",
+            "confidential",
+            "secret",
+            "discreet",
+            "unofficial",
+            "off the record",
+            "between ourselves \"can I have a quiet word?\""
+          ],
+          "antonyms": [
+            "public"
+          ]
+        },
+        {
+          "definition": "(of a person) tranquil and reserved by nature; not brash or forceful.",
+          "examples": [
+            "his quiet, middle-aged parents"
+          ]
+        },
+        {
+          "definition": "expressed in a restrained or understated way.",
+          "examples": [
+            "Molly spoke with quiet confidence"
+          ]
+        },
+        {
+          "definition": "(of a color or garment) unobtrusive; not bright or showy.",
+          "examples": [
+            "unobtrusive, restrained, muted, understated, subdued, subtle, low-key; Moresoft, pale, pastel \"quiet colors\"Moresoft, pale, pastel quiet colors"
+          ],
+          "antonyms": [
+            "loud"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "quiet"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "absence of noise or bustle; silence; calm.",
+          "examples": [
+            "the ringing of the telephone shattered the early morning quiet"
+          ]
+        },
+        {
+          "definition": "freedom from disturbance or interruption by others.",
+          "examples": [
+            "he understood her wish for peace and quiet"
+          ],
+          "synonyms": [
+            "peacefulness",
+            "peace",
+            "restfulness",
+            "calm",
+            "tranquility",
+            "serenity; Moresilence",
+            "quietness",
+            "stillness",
+            "still",
+            "quietude",
+            "hush",
+            "soundlessness \"the quiet of the countryside\""
+          ]
+        },
+        {
+          "definition": "a peaceful or settled state of affairs in social or political life.",
+          "examples": [
+            "after several months of comparative quiet, the scandal reerupted in August"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verbNorth American",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "quiet"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "quiets"
+        },
+        {
+          "part": "past tense",
+          "variant": "quieted"
+        },
+        {
+          "part": "past participle",
+          "variant": "quieted"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "quieting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make or become silent, calm, or still.",
+          "examples": [
+            "there are ways of quieting kids down"
+          ]
+        }
+      ]
+    }
+  ]
+}

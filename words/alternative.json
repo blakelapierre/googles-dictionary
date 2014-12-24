@@ -1,0 +1,100 @@
+[
+  {
+    "word": "alternative",
+    "syllables": [
+      "al",
+      "ter",
+      "na",
+      "tive"
+    ],
+    "pronunciation": "ôlˈtərnədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "alternative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of one or more things) available as another possibility.",
+            "examples": [
+              "the various alternative methods for resolving disputes"
+            ],
+            "synonyms": [
+              "different",
+              "other",
+              "another",
+              "second",
+              "possible",
+              "substitute",
+              "replacement",
+              "alternate; Morestandby",
+              "emergency",
+              "reserve",
+              "backup",
+              "auxiliary",
+              "fallback \"an alternative route\""
+            ]
+          },
+          {
+            "definition": "(of two things) mutually exclusive.",
+            "examples": [
+              "the facts fit two alternative scenarios"
+            ]
+          },
+          {
+            "definition": "of or relating to behavior that is considered unconventional and is often seen as a challenge to traditional norms.",
+            "examples": [
+              "an alternative lifestyle"
+            ],
+            "synonyms": [
+              "unorthodox",
+              "unconventional",
+              "nonstandard",
+              "unusual",
+              "uncommon",
+              "out of the ordinary",
+              "radical",
+              "revolutionary",
+              "nonconformist",
+              "avant-garde; Moreinformaloff the wall",
+              "oddball",
+              "offbeat",
+              "way-out \"an alternative lifestyle\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "alternative"
+          },
+          {
+            "part": "plural noun",
+            "variant": "alternatives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "one of two or more available possibilities.",
+            "examples": [
+              "audiocassettes are an interesting alternative to reading"
+            ],
+            "synonyms": [
+              "option",
+              "choice",
+              "other possibility; Moresubstitute",
+              "replacement \"we have no alternative\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

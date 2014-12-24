@@ -1,0 +1,128 @@
+[
+  {
+    "word": "pleasing",
+    "syllables": [
+      "pleas",
+      "ing"
+    ],
+    "pronunciation": "ˈplēziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "pleasing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "satisfying or appealing.",
+            "examples": [
+              "the pleasing austerity of the surroundings"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "please",
+    "syllables": [
+      "please"
+    ],
+    "pronunciation": "plēz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "pleasing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to feel happy and satisfied.",
+            "examples": [
+              "he arranged a fishing trip to please his son"
+            ],
+            "synonyms": [
+              "nice",
+              "agreeable",
+              "pleasant",
+              "pleasurable",
+              "satisfying",
+              "gratifying",
+              "good",
+              "enjoyable",
+              "entertaining",
+              "amusing",
+              "delightful; Moreinformallovely",
+              "great; informalcushty \"a pleasing day\""
+            ]
+          },
+          {
+            "definition": "give satisfaction.",
+            "examples": [
+              "she was quiet and eager to please"
+            ],
+            "synonyms": [
+              "friendly",
+              "amiable",
+              "pleasant",
+              "agreeable",
+              "affable",
+              "nice",
+              "genial",
+              "likable",
+              "good-humored",
+              "charming",
+              "engaging",
+              "delightful; Moreinformallovely",
+              "simpatico \"her pleasing manner\""
+            ]
+          },
+          {
+            "definition": "satisfy aesthetically.",
+            "examples": [
+              "make happy, give pleasure to, make someone feel good; Moredelight, charm, amuse, entertain; satisfy, gratify, humor, oblige, content, suit \"he'd do anything to please her\"Moredelight, charm, amuse, entertain; satisfy, gratify, humor, oblige, content, suit he'd do anything to please her"
+            ],
+            "antonyms": [
+              "annoy"
+            ]
+          },
+          {
+            "definition": "take only one's own wishes into consideration in deciding how to act or proceed.",
+            "examples": [
+              "this is the first time in ages that I can just please myself"
+            ]
+          },
+          {
+            "definition": "wish or desire to do something.",
+            "examples": [
+              "feel free to wander around as you please"
+            ],
+            "synonyms": [
+              "like",
+              "want",
+              "wish",
+              "desire",
+              "see fit",
+              "think fit",
+              "choose",
+              "will",
+              "prefer \"do as you please\""
+            ]
+          },
+          {
+            "definition": "it is someone's choice to do something.",
+            "examples": [
+              "instead of attending the meeting, it pleased him to go off hunting"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

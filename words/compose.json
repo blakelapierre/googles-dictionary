@@ -1,0 +1,132 @@
+[
+  {
+    "word": "compose",
+    "syllables": [
+      "com",
+      "pose"
+    ],
+    "pronunciation": "kəmˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "compose"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "composes"
+          },
+          {
+            "part": "past tense",
+            "variant": "composed"
+          },
+          {
+            "part": "past participle",
+            "variant": "composed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "composing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "write or create (a work of art, especially music or poetry).",
+            "examples": [
+              "he composed the First Violin Sonata four years earlier"
+            ],
+            "synonyms": [
+              "write",
+              "formulate",
+              "devise",
+              "make up",
+              "think up",
+              "produce",
+              "invent",
+              "concoct; Morepen",
+              "author",
+              "draft; score",
+              "orchestrate",
+              "choreograph \"a poem composed by Shelley\""
+            ]
+          },
+          {
+            "definition": "write or phrase (a letter or piece of writing) with care and thought.",
+            "examples": [
+              "the first sentence is so hard to compose"
+            ]
+          },
+          {
+            "definition": "form (a whole) by ordering or arranging the parts, especially in an artistic way.",
+            "examples": [
+              "compose and draw a still life"
+            ],
+            "synonyms": [
+              "organize",
+              "arrange",
+              "set out \"compose a still life\""
+            ]
+          },
+          {
+            "definition": "order or arrange (parts) to form a whole, especially in an artistic way.",
+            "examples": [
+              "make an attempt to compose your images"
+            ]
+          },
+          {
+            "definition": "(of elements) constitute or make up (a whole).",
+            "examples": [
+              "the system is composed of a group of machines"
+            ],
+            "synonyms": [
+              "make up",
+              "constitute",
+              "form \"the subcommittee is composed of ten senators\""
+            ]
+          },
+          {
+            "definition": "be (a specified number or amount) of a whole.",
+            "examples": [
+              "women compose 49 percent of that group"
+            ]
+          },
+          {
+            "definition": "calm or settle (oneself or one's features or thoughts).",
+            "examples": [
+              "she tried to compose herself"
+            ],
+            "synonyms": [
+              "calm down",
+              "control oneself",
+              "regain one's composure",
+              "pull oneself together",
+              "collect oneself",
+              "steady oneself",
+              "keep one's head",
+              "relax; Moreinformalget a grip",
+              "take a chill pill",
+              "chillax",
+              "keep one's cool",
+              "cool one's jets",
+              "decompress \"you have to compose yourself before you take the stand\""
+            ]
+          },
+          {
+            "definition": "settle (a dispute).",
+            "examples": [
+              "the king, with some difficulty, composed this difference"
+            ]
+          },
+          {
+            "definition": "prepare (a text) for printing by manually, mechanically, or electronically setting up the letters and other characters in the order to be printed."
+          },
+          {
+            "definition": "set up (letters and characters) of a text in preparation for printing."
+          }
+        ]
+      }
+    ]
+  }
+]

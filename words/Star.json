@@ -1,0 +1,181 @@
+[
+  {
+    "word": "star",
+    "syllables": [
+      "star"
+    ],
+    "pronunciation": "stär",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "star"
+          },
+          {
+            "part": "plural noun",
+            "variant": "stars"
+          },
+          {
+            "part": "noun",
+            "variant": "fixed star"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fixed stars"
+          },
+          {
+            "part": "noun",
+            "variant": "wandering star"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wandering stars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fixed luminous point in the night sky that is a large, remote incandescent body like the sun.",
+            "examples": [
+              "celestial body, heavenly body, sun; Moreasteroid, planet, dwarf planet \"the sky was full of stars\"Moreasteroid, planet, dwarf planet the sky was full of stars"
+            ]
+          },
+          {
+            "definition": "a conventional or stylized representation of a star, typically one having five or more points.",
+            "examples": [
+              "the walls were painted with silver moons and stars"
+            ]
+          },
+          {
+            "definition": "a star symbol used to indicate a category of excellence.",
+            "examples": [
+              "the hotel has three stars"
+            ]
+          },
+          {
+            "definition": "an asterisk."
+          },
+          {
+            "definition": "a white patch on the forehead of a horse or other animal."
+          },
+          {
+            "definition": "a data or communication network in which all nodes are independently connected to one central unit.",
+            "examples": [
+              "noun: star network; plural noun: star networks"
+            ]
+          },
+          {
+            "definition": "a famous or exceptionally talented performer in the world of entertainment or sports.",
+            "examples": [
+              "a pop star"
+            ],
+            "synonyms": [
+              "principal",
+              "leading lady/man",
+              "lead",
+              "female/male lead",
+              "hero",
+              "heroine More\"the stars of the film\"celebrity",
+              "superstar",
+              "big name",
+              "famous name",
+              "household name",
+              "someone",
+              "somebody",
+              "newsmaker",
+              "lion",
+              "leading light",
+              "VIP",
+              "personality",
+              "personage",
+              "luminary; informalceleb",
+              "big shot",
+              "megastar \"a star of the world of chess\""
+            ],
+            "antonyms": [
+              "extra",
+              "bit player",
+              "nobody"
+            ]
+          },
+          {
+            "definition": "an outstandingly good or successful person or thing in a group.",
+            "examples": [
+              "a rising star in the party"
+            ]
+          },
+          {
+            "definition": "a planet, constellation, or configuration regarded as influencing someone's fortunes or personality.",
+            "examples": [
+              "his golf destiny was written in the stars"
+            ]
+          },
+          {
+            "definition": "a horoscope published in a newspaper or magazine.",
+            "examples": [
+              "what do my stars say?"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "star"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "stars"
+          },
+          {
+            "part": "past tense",
+            "variant": "starred"
+          },
+          {
+            "part": "past participle",
+            "variant": "starred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "starring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a movie, play, or other show) have (someone) as a principal performer.",
+            "examples": [
+              "a film starring Liza Minnelli"
+            ]
+          },
+          {
+            "definition": "(of a performer) have a principal role in a movie, play, or other show.",
+            "examples": [
+              "McQueen had starred in such epics as The Magnificent Seven"
+            ]
+          },
+          {
+            "definition": "(of a person) perform brilliantly or prominently in a particular endeavor or event.",
+            "examples": [
+              "Vitt starred at third base for the Detroit Tigers"
+            ]
+          },
+          {
+            "definition": "decorate or cover with star-shaped marks or objects.",
+            "examples": [
+              "thick grass starred with flowers"
+            ]
+          },
+          {
+            "definition": "mark (something) for special notice or recommendation with an asterisk or other star-shaped symbol.",
+            "examples": [
+              "the activities listed below are starred according to their fitness ratings"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

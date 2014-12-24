@@ -1,0 +1,79 @@
+[
+  {
+    "word": "fraud",
+    "syllables": [
+      "fraud"
+    ],
+    "pronunciation": "frôd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fraud"
+          },
+          {
+            "part": "plural noun",
+            "variant": "frauds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "wrongful or criminal deception intended to result in financial or personal gain.",
+            "examples": [
+              "he was convicted of fraud"
+            ],
+            "synonyms": [
+              "fraudulence",
+              "cheating",
+              "swindling",
+              "embezzlement",
+              "deceit",
+              "deception",
+              "double-dealing",
+              "chicanery",
+              "sharp practice; Morepharming \"he was arrested for fraud\"swindle",
+              "racket",
+              "deception",
+              "trick",
+              "cheat",
+              "hoax; informalscam",
+              "con",
+              "rip-off",
+              "sting",
+              "gyp",
+              "fiddle",
+              "bunco",
+              "hustle",
+              "grift \"social insurance frauds\""
+            ]
+          },
+          {
+            "definition": "a person or thing intended to deceive others, typically by unjustifiably claiming or being credited with accomplishments or qualities.",
+            "examples": [
+              "mediums exposed as tricksters and frauds"
+            ],
+            "synonyms": [
+              "impostor",
+              "fake",
+              "sham",
+              "charlatan",
+              "quack",
+              "mountebank; Moreswindler",
+              "gonif",
+              "snake oil salesman",
+              "fraudster",
+              "racketeer",
+              "cheat",
+              "confidence trickster; informalphony",
+              "con man",
+              "con artist",
+              "scam artist \"they exposed him as a fraud\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "commander",
+    "syllables": [
+      "com",
+      "mand",
+      "er"
+    ],
+    "pronunciation": "kəˈmandər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "commander"
+          },
+          {
+            "part": "plural noun",
+            "variant": "commanders"
+          },
+          {
+            "part": "noun",
+            "variant": "Comdr."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person in authority, especially over a body of troops or a military operation.",
+            "examples": [
+              "the commander of a paratroop regiment"
+            ],
+            "synonyms": [
+              "leader",
+              "head",
+              "chief",
+              "overseer",
+              "controller; Morecommander-in-chief",
+              "C in C",
+              "commanding officer",
+              "CO",
+              "officer; informalboss",
+              "bossman",
+              "skipper",
+              "numero uno",
+              "number one",
+              "top dog",
+              "kingpin",
+              "head honcho",
+              "big kahuna \"he is commander of an intelligence unit\""
+            ]
+          },
+          {
+            "definition": "a naval officer of high rank, in particular (in the US Navy or Coast Guard) an officer ranking above lieutenant commander and below captain."
+          },
+          {
+            "definition": "(in certain metropolitan police departments) the officer in charge of a division, district, precinct, or squad."
+          },
+          {
+            "definition": "a member of a higher class in some orders of knighthood."
+          }
+        ]
+      }
+    ]
+  }
+]

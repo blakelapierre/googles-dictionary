@@ -1,0 +1,69 @@
+[
+  {
+    "word": "procession",
+    "syllables": [
+      "pro",
+      "ces",
+      "sion"
+    ],
+    "pronunciation": "prəˈseSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "procession"
+          },
+          {
+            "part": "plural noun",
+            "variant": "processions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony or festival.",
+            "examples": [
+              "a funeral procession"
+            ],
+            "synonyms": [
+              "parade",
+              "march",
+              "march past",
+              "cavalcade",
+              "motorcade",
+              "cortège; Morecolumn",
+              "file",
+              "train \"a procession of marching bands\""
+            ]
+          },
+          {
+            "definition": "the action of moving forward as part of a ceremony.",
+            "examples": [
+              "the fully robed civic dignitaries walk in procession"
+            ]
+          },
+          {
+            "definition": "a relentless succession of people or things.",
+            "examples": [
+              "his path was paved by a procession of industry executives"
+            ],
+            "synonyms": [
+              "parade",
+              "march",
+              "march past",
+              "cavalcade",
+              "motorcade",
+              "cortège; Morecolumn",
+              "file",
+              "train \"a procession of marching bands\""
+            ]
+          },
+          {
+            "definition": "the emanation of the Holy Spirit."
+          }
+        ]
+      }
+    ]
+  }
+]

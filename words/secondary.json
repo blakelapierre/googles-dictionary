@@ -1,0 +1,119 @@
+[
+  {
+    "word": "secondary",
+    "syllables": [
+      "sec",
+      "ond",
+      "ar",
+      "y"
+    ],
+    "pronunciation": "ˈsekənˌderē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "secondary"
+          },
+          {
+            "part": "adjective",
+            "variant": "Secondary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "coming after, less important than, or resulting from someone or something else that is primary.",
+            "examples": [
+              "luck plays a role, but it's ultimately secondary to local knowledge"
+            ],
+            "synonyms": [
+              "less important",
+              "subordinate",
+              "lesser",
+              "minor",
+              "peripheral",
+              "incidental",
+              "ancillary",
+              "subsidiary",
+              "nonessential",
+              "inessential",
+              "of little account",
+              "unimportant More\"a secondary issue\"accompanying",
+              "attendant",
+              "concomitant",
+              "consequential",
+              "resulting",
+              "resultant \"secondary infections\""
+            ],
+            "antonyms": [
+              "primary"
+            ]
+          },
+          {
+            "definition": "of or relating to education for children from the age of eleven to sixteen or eighteen.",
+            "examples": [
+              "a secondary school"
+            ]
+          },
+          {
+            "definition": "having a reversible chemical reaction and therefore able to store energy."
+          },
+          {
+            "definition": "relating to or denoting the output side of a device using electromagnetic induction, especially in a transformer."
+          },
+          {
+            "definition": "former term for Mesozoic."
+          },
+          {
+            "definition": "(of an organic compound) having its functional group located on a carbon atom that is bonded to two other carbon atoms."
+          },
+          {
+            "definition": "(chiefly of amines) derived from ammonia by replacement of two hydrogen atoms by organic groups."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "secondary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "secondaries"
+          },
+          {
+            "part": "singular proper noun",
+            "variant": "Secondary"
+          },
+          {
+            "part": "noun",
+            "variant": "the Secondary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for."
+          },
+          {
+            "definition": "a secondary color."
+          },
+          {
+            "definition": "a secondary feather."
+          },
+          {
+            "definition": "a secondary coil or winding in an electrical transformer."
+          },
+          {
+            "definition": "the players in the defensive backfield; the area these players cover."
+          },
+          {
+            "definition": "the Secondary or Mesozoic era."
+          }
+        ]
+      }
+    ]
+  }
+]

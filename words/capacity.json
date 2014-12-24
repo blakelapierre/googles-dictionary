@@ -1,0 +1,82 @@
+[
+  {
+    "word": "capacity",
+    "syllables": [
+      "ca",
+      "pac",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "kəˈpasədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "capacity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the maximum amount that something can contain.",
+            "examples": [
+              "the capacity of the freezer is 1.1 cubic feet"
+            ],
+            "synonyms": [
+              "volume",
+              "size",
+              "magnitude",
+              "dimensions",
+              "measurements",
+              "proportions \"the capacity of the freezer\""
+            ]
+          },
+          {
+            "definition": "fully occupying the available area or space.",
+            "examples": [
+              "modifier noun: capacity"
+            ]
+          },
+          {
+            "definition": "the amount that something can produce.",
+            "examples": [
+              "plural noun: capacities"
+            ]
+          },
+          {
+            "definition": "the total cylinder volume that is swept by the pistons in an internal combustion engine."
+          },
+          {
+            "definition": "former term for capacitance."
+          },
+          {
+            "definition": "the ability or power to do, experience, or understand something.",
+            "examples": [
+              "I was impressed by her capacity for hard work"
+            ]
+          },
+          {
+            "definition": "a person's legal competence.",
+            "examples": [
+              "cases where a patient's testamentary capacity is in doubt"
+            ]
+          },
+          {
+            "definition": "a specified role or position.",
+            "examples": [
+              "I was engaged in a voluntary capacity"
+            ],
+            "synonyms": [
+              "position",
+              "post",
+              "job",
+              "office; Morerole",
+              "function \"in his capacity as head librarian\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

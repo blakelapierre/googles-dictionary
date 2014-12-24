@@ -1,0 +1,62 @@
+[
+  {
+    "word": "aptitude",
+    "syllables": [
+      "ap",
+      "ti",
+      "tude"
+    ],
+    "pronunciation": "ˈaptəˌt(y)o͞od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "aptitude"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aptitudes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a natural ability to do something.",
+            "examples": [
+              "he had a remarkable aptitude for learning words"
+            ]
+          },
+          {
+            "definition": "a natural tendency.",
+            "examples": [
+              "his natural aptitude for failure"
+            ],
+            "synonyms": [
+              "talent",
+              "gift",
+              "flair",
+              "bent",
+              "skill",
+              "knack",
+              "facility",
+              "ability",
+              "proficiency",
+              "capability",
+              "potential",
+              "capacity",
+              "faculty",
+              "genius \"an aptitude for higher mathematics\""
+            ]
+          },
+          {
+            "definition": "suitability or fitness.",
+            "examples": [
+              "aptitude of expression"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

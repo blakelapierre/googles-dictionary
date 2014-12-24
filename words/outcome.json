@@ -1,0 +1,46 @@
+[
+  {
+    "word": "outcome",
+    "syllables": [
+      "out",
+      "come"
+    ],
+    "pronunciation": "ˈoutˌkəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "outcome"
+          },
+          {
+            "part": "plural noun",
+            "variant": "outcomes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the way a thing turns out; a consequence.",
+            "examples": [
+              "it is the outcome of the vote that counts"
+            ],
+            "synonyms": [
+              "result",
+              "end result",
+              "consequence",
+              "net result",
+              "upshot",
+              "aftereffect",
+              "aftermath",
+              "conclusion",
+              "issue",
+              "end",
+              "end product \"the future of the industry could hinge on the outcome of next month's election\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

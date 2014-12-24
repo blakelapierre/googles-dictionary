@@ -1,0 +1,52 @@
+[
+  {
+    "word": "invite",
+    "syllables": [
+      "in",
+      "vite"
+    ],
+    "pronunciation": "inˈvītˈinvīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "invite"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "invites"
+          },
+          {
+            "part": "past tense",
+            "variant": "invited"
+          },
+          {
+            "part": "past participle",
+            "variant": "invited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "inviting"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "invite"
+          },
+          {
+            "part": "plural noun",
+            "variant": "invites"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

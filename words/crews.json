@@ -1,0 +1,101 @@
+[
+  {
+    "word": "crew",
+    "syllables": [
+      "crew"
+    ],
+    "pronunciation": "kro͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "crews"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a group of people who work on and operate a ship, boat, aircraft, spacecraft, or train."
+          },
+          {
+            "definition": "a group of people working on a ship, aircraft, etc., other than the officers.",
+            "examples": [
+              "the ship's captain and crew may be brought to trial"
+            ],
+            "synonyms": [
+              "sailors",
+              "mariners",
+              "hands",
+              "ship's company",
+              "ship's complement \"the ship's crew\""
+            ]
+          },
+          {
+            "definition": "the sport of rowing a racing shell."
+          },
+          {
+            "definition": "a group of people who work closely together.",
+            "examples": [
+              "an ambulance crew"
+            ],
+            "synonyms": [
+              "team",
+              "group",
+              "company",
+              "unit",
+              "corps",
+              "party",
+              "gang \"a crew of cameramen and sound engineers\""
+            ]
+          },
+          {
+            "definition": "a group of people associated in some way.",
+            "examples": [
+              "a crew of assorted computer geeks"
+            ],
+            "synonyms": [
+              "crowd",
+              "group",
+              "band",
+              "gang",
+              "mob",
+              "pack",
+              "troop",
+              "swarm",
+              "herd",
+              "posse; Moreinformalbunch",
+              "tribe \"they were a motley crew\""
+            ]
+          },
+          {
+            "definition": "a group of rappers, breakdancers, or graffiti artists performing or operating together."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "crews"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide (a craft or vehicle) with a group of people to operate it.",
+            "examples": [
+              "normally the boat is crewed by 5 people"
+            ]
+          },
+          {
+            "definition": "act as a member of a crew, subordinate to a captain.",
+            "examples": [
+              "I've never crewed for a world-famous yachtsman before"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

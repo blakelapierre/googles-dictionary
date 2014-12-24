@@ -1,0 +1,269 @@
+[
+  {
+    "word": "force",
+    "syllables": [
+      "force"
+    ],
+    "pronunciation": "fôrs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "force"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strength or energy as an attribute of physical action or movement.",
+            "examples": [
+              "he was thrown backward by the force of the explosion"
+            ],
+            "synonyms": [
+              "strength",
+              "power",
+              "energy",
+              "might",
+              "effort",
+              "exertion; Moreimpact",
+              "pressure",
+              "weight",
+              "impetus \"he pushed with all his force\""
+            ],
+            "antonyms": [
+              "weakness"
+            ]
+          },
+          {
+            "definition": "an influence tending to change the motion of a body or produce motion or stress in a stationary body. The magnitude of such an influence is often calculated by multiplying the mass of the body by its acceleration."
+          },
+          {
+            "definition": "a person or thing regarded as exerting power or influence.",
+            "examples": [
+              "plural noun: forces"
+            ]
+          },
+          {
+            "definition": "used with a number as a measure of wind strength on the Beaufort scale.",
+            "examples": [
+              "a force-nine gale"
+            ]
+          },
+          {
+            "definition": "coercion or compulsion, especially with the use or threat of violence.",
+            "examples": [
+              "they ruled by law and not by force"
+            ],
+            "synonyms": [
+              "coercion",
+              "compulsion",
+              "constraint",
+              "duress",
+              "oppression",
+              "harassment",
+              "intimidation",
+              "threats; Moreinformalarm-twisting",
+              "bullying tactics \"they used force to achieve their aims\""
+            ]
+          },
+          {
+            "definition": "mental or moral strength or power.",
+            "examples": [
+              "the force of popular opinion"
+            ]
+          },
+          {
+            "definition": "the state of being in effect or valid.",
+            "examples": [
+              "the law came into force in January"
+            ],
+            "synonyms": [
+              "effective",
+              "in operation",
+              "operative",
+              "operational",
+              "in action",
+              "valid \"the law is now in force\""
+            ]
+          },
+          {
+            "definition": "the powerful effect of something.",
+            "examples": [
+              "the force of her writing is undiminished"
+            ],
+            "synonyms": [
+              "cogency",
+              "potency",
+              "weight",
+              "effectiveness",
+              "soundness",
+              "validity",
+              "strength",
+              "power",
+              "significance",
+              "influence",
+              "authority; Moreinformalpunch; formalefficacy \"the force of the argument\""
+            ],
+            "antonyms": [
+              "weakness"
+            ]
+          },
+          {
+            "definition": "an organized body of military personnel or police.",
+            "examples": [
+              "a soldier in a UN peacekeeping force"
+            ],
+            "synonyms": [
+              "body",
+              "body of people",
+              "group",
+              "outfit",
+              "party",
+              "team; Moredetachment",
+              "unit",
+              "squad; border patrol; informalbunch \"a peace-keeping force\""
+            ]
+          },
+          {
+            "definition": "troops and weaponry.",
+            "examples": [
+              "plural noun: forces"
+            ]
+          },
+          {
+            "definition": "a group of people brought together and organized for a particular activity.",
+            "examples": [
+              "a sales force"
+            ]
+          },
+          {
+            "definition": "a police department.",
+            "examples": [
+              "noun: the force"
+            ]
+          },
+          {
+            "definition": "a force-out."
+          },
+          {
+            "definition": "a situation in which a force-out is possible."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "force"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "forces"
+          },
+          {
+            "part": "past tense",
+            "variant": "forced"
+          },
+          {
+            "part": "past participle",
+            "variant": "forced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "forcing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a way through or into by physical strength; break open by force.",
+            "examples": [
+              "they broke into Fred's house and forced every cupboard door with ax or crowbar"
+            ],
+            "synonyms": [
+              "break open",
+              "burst open",
+              "knock down",
+              "smash down",
+              "kick in \"the door had to be forced\""
+            ]
+          },
+          {
+            "definition": "drive or push into a specified position or state using physical strength or against resistance.",
+            "examples": [
+              "she forced her feet into flat leather sandals"
+            ],
+            "synonyms": [
+              "propel",
+              "push",
+              "thrust",
+              "shove",
+              "drive",
+              "press",
+              "pump \"water was forced through a hole\""
+            ]
+          },
+          {
+            "definition": "achieve or bring about (something) by coercion or effort.",
+            "examples": [
+              "Sabine forced a smile"
+            ]
+          },
+          {
+            "definition": "push or strain (something) to the utmost.",
+            "examples": [
+              "she knew if she forced it she would rip it"
+            ]
+          },
+          {
+            "definition": "artificially hasten the development or maturity of (a plant).",
+            "examples": [
+              "extract, elicit, exact, extort, wrest, wring, drag, screw, squeeze they forced a confession out of the kids"
+            ]
+          },
+          {
+            "definition": "make (someone) do something against their will.",
+            "examples": [
+              "she was forced into early retirement"
+            ],
+            "synonyms": [
+              "compel",
+              "coerce",
+              "make",
+              "constrain",
+              "oblige",
+              "impel",
+              "drive",
+              "pressurize",
+              "pressure",
+              "press",
+              "push",
+              "press-gang",
+              "bully",
+              "dragoon",
+              "bludgeon; Moreinformalput the screws on",
+              "lean on",
+              "twist someone's arm \"he was forced to pay\""
+            ]
+          },
+          {
+            "definition": "rape (a woman)."
+          },
+          {
+            "definition": "put out (a runner), or cause (a runner) to be put out, at the base to which they are advancing when they are forced to run on a batted ball.",
+            "examples": [
+              "I was forced at second base as the first half of a double play"
+            ]
+          },
+          {
+            "definition": "(in cards) make a play or bid that compels another player to make (a particular response); make a play or bid that compels (another player) to make such a response.",
+            "examples": [
+              "East could force declarer to ruff another spade"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

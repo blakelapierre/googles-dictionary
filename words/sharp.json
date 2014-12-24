@@ -1,0 +1,411 @@
+[
+  {
+    "word": "sharp",
+    "syllables": [
+      "sharp"
+    ],
+    "pronunciation": "SHärp",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sharp"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "sharper"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "sharpest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an object) having an edge or point that is able to cut or pierce something.",
+            "examples": [
+              "cut the cake with a very sharp knife"
+            ],
+            "synonyms": [
+              "keen",
+              "razor-edged; Moresharpened",
+              "honed \"a sharp knife\""
+            ],
+            "antonyms": [
+              "blunt"
+            ]
+          },
+          {
+            "definition": "producing a sudden, piercing physical sensation or effect.",
+            "examples": [
+              "I suddenly felt a sharp pain in my back"
+            ],
+            "synonyms": [
+              "excruciating",
+              "agonizing",
+              "intense",
+              "stabbing",
+              "shooting",
+              "severe",
+              "acute",
+              "keen",
+              "fierce",
+              "searing; exquisite \"a sharp pain\""
+            ]
+          },
+          {
+            "definition": "(of a food, taste, or smell) acidic and intense.",
+            "examples": [
+              "sharp goats' milk cheese"
+            ],
+            "synonyms": [
+              "tangy",
+              "piquant",
+              "strong; Moreacidic",
+              "acid",
+              "sour",
+              "tart",
+              "pungent",
+              "acrid",
+              "bitter",
+              "acidulous \"a sharp taste\""
+            ],
+            "antonyms": [
+              "mild",
+              "mellow",
+              "bland"
+            ]
+          },
+          {
+            "definition": "(of a sound) sudden and penetrating.",
+            "examples": [
+              "there was a sharp crack of thunder"
+            ],
+            "synonyms": [
+              "loud",
+              "piercing",
+              "shrill",
+              "high-pitched",
+              "penetrating",
+              "harsh",
+              "strident",
+              "ear-splitting",
+              "deafening \"a sharp cry of pain\""
+            ],
+            "antonyms": [
+              "soft",
+              "quiet"
+            ]
+          },
+          {
+            "definition": "(of words or a speaker) intended or intending to criticize or hurt.",
+            "examples": [
+              "she feared his sharp tongue"
+            ],
+            "synonyms": [
+              "harsh",
+              "bitter",
+              "cutting",
+              "scathing",
+              "caustic",
+              "barbed",
+              "trenchant",
+              "acrimonious",
+              "acerbic",
+              "sarcastic",
+              "sardonic",
+              "spiteful",
+              "venomous",
+              "malicious",
+              "vitriolic",
+              "vicious",
+              "hurtful",
+              "nasty",
+              "cruel",
+              "abrasive; Moreinformalbitchy",
+              "catty \"sharp words\""
+            ],
+            "antonyms": [
+              "amicable",
+              "kind"
+            ]
+          },
+          {
+            "definition": "(of an emotion or experience) felt acutely or intensely; painful.",
+            "examples": [
+              "her sharp disappointment was tinged with embarrassment"
+            ],
+            "synonyms": [
+              "intense",
+              "acute",
+              "keen",
+              "strong",
+              "bitter",
+              "fierce",
+              "heartfelt",
+              "overwhelming \"a sharp sense of loss\""
+            ]
+          },
+          {
+            "definition": "tapering to a point or edge.",
+            "examples": [
+              "a sharp pencil"
+            ]
+          },
+          {
+            "definition": "distinct in outline or detail; clearly defined.",
+            "examples": [
+              "the job was a sharp contrast from her past life"
+            ],
+            "synonyms": [
+              "distinct",
+              "clear",
+              "crisp; Morestark",
+              "obvious",
+              "marked",
+              "definite",
+              "pronounced \"the lens brings it into sharp focus\""
+            ],
+            "antonyms": [
+              "blurred",
+              "indistinct"
+            ]
+          },
+          {
+            "definition": "(of clothes or their wearer) neat and stylish.",
+            "examples": [
+              "they were greeted by a young man in a sharp suit"
+            ],
+            "synonyms": [
+              "smart",
+              "stylish",
+              "fashionable",
+              "chic",
+              "modish",
+              "elegant; Moreinformaltrendy",
+              "cool",
+              "hip",
+              "snazzy",
+              "classy",
+              "snappy",
+              "styling/stylin'",
+              "natty",
+              "nifty",
+              "fly",
+              "spiffy \"a sharp suit\""
+            ],
+            "antonyms": [
+              "shabby"
+            ]
+          },
+          {
+            "definition": "(of an action or change) sudden and marked.",
+            "examples": [
+              "there was a sharp increase in interest rates"
+            ],
+            "synonyms": [
+              "sudden",
+              "abrupt",
+              "rapid; Moresteep",
+              "precipitous \"a sharp increase\""
+            ],
+            "antonyms": [
+              "gradual"
+            ]
+          },
+          {
+            "definition": "(of a bend, angle, or turn) making a sudden change of direction.",
+            "examples": [
+              "a sharp turn in the river"
+            ],
+            "synonyms": [
+              "hairpin",
+              "tight \"a sharp corner\""
+            ]
+          },
+          {
+            "definition": "having or showing speed of perception, comprehension, or response.",
+            "examples": [
+              "her sharp eyes missed nothing"
+            ],
+            "synonyms": [
+              "keen",
+              "perceptive",
+              "observant",
+              "acute",
+              "beady",
+              "hawklike More\"sharp eyes\"perceptive",
+              "percipient",
+              "perspicacious",
+              "incisive",
+              "sensitive",
+              "keen",
+              "acute",
+              "quick-witted",
+              "clever",
+              "shrewd",
+              "canny",
+              "astute",
+              "intelligent",
+              "intuitive",
+              "bright",
+              "alert",
+              "smart",
+              "quick off the mark",
+              "insightful",
+              "knowing; informalon the ball",
+              "quick on the uptake",
+              "savvy",
+              "heads-up \"she was sharp and witty\""
+            ],
+            "antonyms": [
+              "weak",
+              "slow",
+              "dull",
+              "stupid"
+            ]
+          },
+          {
+            "definition": "quick to take advantage, especially in an unscrupulous or dishonest way.",
+            "examples": [
+              "Paul's a sharp operator"
+            ]
+          },
+          {
+            "definition": "(of musical sound) above true or normal pitch."
+          },
+          {
+            "definition": "(of a note) a semitone higher than a specified note.",
+            "examples": [
+              "the song sits on E and F-sharp"
+            ]
+          },
+          {
+            "definition": "(of a key) having a sharp or sharps in the key signature.",
+            "examples": [
+              "recorder players are most comfortable in sharp keys"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "sharp"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "precisely (used after an expression of time).",
+            "examples": [
+              "the meeting starts at 7:30 sharp"
+            ],
+            "synonyms": [
+              "precisely",
+              "exactly",
+              "on the dot; Morepromptly",
+              "prompt",
+              "punctually",
+              "dead on; informalon the nose",
+              "on the button \"nine o'clock sharp\""
+            ],
+            "antonyms": [
+              "roughly"
+            ]
+          },
+          {
+            "definition": "in a sudden or abrupt way.",
+            "examples": [
+              "the creek bent sharp left"
+            ],
+            "synonyms": [
+              "abruptly",
+              "suddenly",
+              "sharply",
+              "unexpectedly \"the recession pulled people up sharp\""
+            ]
+          },
+          {
+            "definition": "above the true or normal pitch of musical sound.",
+            "examples": [
+              "he heard him playing a little sharp on the high notes"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sharp"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sharps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a musical note raised a semitone above natural pitch."
+          },
+          {
+            "definition": "the sign (♯) indicating this."
+          },
+          {
+            "definition": "a long, sharply pointed needle used for general sewing."
+          },
+          {
+            "definition": "a thing with a sharp edge or point, such as a hypodermic needle, a blade, or a fragment of glass.",
+            "examples": [
+              "the safe disposal of sharps and clinical waste"
+            ]
+          },
+          {
+            "definition": "a swindler or cheat."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sharp"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sharps"
+          },
+          {
+            "part": "past tense",
+            "variant": "sharped"
+          },
+          {
+            "part": "past participle",
+            "variant": "sharped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sharping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "raise the pitch of (a note)."
+          },
+          {
+            "definition": "cheat or swindle (someone), especially at cards.",
+            "examples": [
+              "the fellow is drunk, let's sharp him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

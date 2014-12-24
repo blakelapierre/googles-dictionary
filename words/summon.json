@@ -1,0 +1,101 @@
+[
+  {
+    "word": "summon",
+    "syllables": [
+      "sum",
+      "mon"
+    ],
+    "pronunciation": "ˈsəmən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "summon"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "summons"
+          },
+          {
+            "part": "past tense",
+            "variant": "summoned"
+          },
+          {
+            "part": "past participle",
+            "variant": "summoned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "summoning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "authoritatively or urgently call on (someone) to be present, especially as a defendant or witness in a law court.",
+            "examples": [
+              "the pope summoned Anselm to Rome"
+            ],
+            "synonyms": [
+              "send for",
+              "call for",
+              "request the presence of; Moreask",
+              "invite \"the embassy summoned her\""
+            ]
+          },
+          {
+            "definition": "urgently demand (help).",
+            "examples": [
+              "she summoned medical assistance"
+            ]
+          },
+          {
+            "definition": "call people to attend (a meeting).",
+            "examples": [
+              "he summoned a meeting of head delegates"
+            ],
+            "synonyms": [
+              "convene",
+              "assemble",
+              "order",
+              "call",
+              "announce; formalconvoke \"the chair summoned a meeting\""
+            ]
+          },
+          {
+            "definition": "bring to the surface (a particular quality or reaction) from within oneself.",
+            "examples": [
+              "she managed to summon up a smile"
+            ],
+            "synonyms": [
+              "muster",
+              "gather",
+              "collect",
+              "rally",
+              "screw up \"he summoned the courage to move closer\""
+            ]
+          },
+          {
+            "definition": "call an image to mind.",
+            "examples": [
+              "names that summon up images of far-off places"
+            ],
+            "synonyms": [
+              "call to mind",
+              "call up/forth",
+              "conjure up",
+              "evoke",
+              "recall",
+              "revive",
+              "arouse",
+              "kindle",
+              "awaken",
+              "spark (off) \"summoning up their memories of home\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "word": "corrupt",
+    "syllables": [
+      "cor",
+      "rupt"
+    ],
+    "pronunciation": "kəˈrəpt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "corrupt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing a willingness to act dishonestly in return for money or personal gain.",
+            "examples": [
+              "unscrupulous logging companies assisted by corrupt officials"
+            ],
+            "synonyms": [
+              "dishonest",
+              "unscrupulous",
+              "dishonorable",
+              "unprincipled",
+              "unethical",
+              "amoral",
+              "untrustworthy",
+              "venal",
+              "underhanded",
+              "double-dealing",
+              "fraudulent",
+              "bribable",
+              "criminal",
+              "illegal",
+              "unlawful",
+              "nefarious; Moreinformalcrooked",
+              "shady",
+              "dirty",
+              "sleazy \"a corrupt official\""
+            ],
+            "antonyms": [
+              "honest",
+              "law-abiding"
+            ]
+          },
+          {
+            "definition": "evil or morally depraved.",
+            "examples": [
+              "the play can do no harm since its audience is already corrupt"
+            ],
+            "synonyms": [
+              "immoral",
+              "depraved",
+              "degenerate",
+              "reprobate",
+              "vice-ridden",
+              "perverted",
+              "debauched",
+              "dissolute",
+              "dissipated",
+              "bad",
+              "wicked",
+              "evil",
+              "base",
+              "sinful",
+              "ungodly",
+              "unholy",
+              "irreligious",
+              "profane",
+              "impious",
+              "impure; informalwarped \"a corrupt society\""
+            ],
+            "antonyms": [
+              "moral"
+            ]
+          },
+          {
+            "definition": "(of organic or inorganic matter) in a state of decay; rotten or putrid.",
+            "examples": [
+              "a corrupt and rotting corpse"
+            ]
+          },
+          {
+            "definition": "(of a text or a computer database or program) made unreliable by errors or alterations."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "corrupt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "corrupts"
+          },
+          {
+            "part": "past tense",
+            "variant": "corrupted"
+          },
+          {
+            "part": "past participle",
+            "variant": "corrupted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "corrupting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to act dishonestly in return for money or personal gain.",
+            "examples": [
+              "there is a continuing fear of firms corrupting politicians in the search for contracts"
+            ]
+          },
+          {
+            "definition": "cause to become morally depraved.",
+            "examples": [
+              "he has corrupted the boy"
+            ],
+            "synonyms": [
+              "deprave",
+              "pervert",
+              "debauch",
+              "degrade",
+              "warp",
+              "lead astray",
+              "defile",
+              "pollute",
+              "sully \"a book that might corrupt its readers\""
+            ]
+          },
+          {
+            "definition": "infect; contaminate.",
+            "examples": [
+              "the corrupting smell of death"
+            ]
+          },
+          {
+            "definition": "change or debase by making errors or unintentional alterations.",
+            "examples": [
+              "Epicurus's teachings have since been much corrupted"
+            ],
+            "synonyms": [
+              "alter",
+              "tamper with",
+              "interfere with",
+              "bastardize",
+              "debase",
+              "adulterate \"the apostolic writings had been corrupted\""
+            ]
+          },
+          {
+            "definition": "cause errors to appear in (a computer program or database).",
+            "examples": [
+              "a program that has somehow corrupted your system files"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

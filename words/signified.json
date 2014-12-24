@@ -1,0 +1,121 @@
+[
+  {
+    "word": "signified",
+    "syllables": [
+      "sig",
+      "ni",
+      "fied"
+    ],
+    "pronunciation": "ˈsiɡnəˌfīd",
+    "parts": [
+      {
+        "part": "nounLinguistics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "signified"
+          },
+          {
+            "part": "plural noun",
+            "variant": "signifieds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the meaning or idea expressed by a sign, as distinct from the physical form in which it is expressed."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "signify",
+    "syllables": [
+      "sig",
+      "ni",
+      "fy"
+    ],
+    "pronunciation": "ˈsiɡnəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "signified"
+          },
+          {
+            "part": "past participle",
+            "variant": "signified"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be an indication of.",
+            "examples": [
+              "this decision signified a fundamental change in their priorities"
+            ],
+            "synonyms": [
+              "be evidence of",
+              "be a sign of",
+              "mark",
+              "signal",
+              "mean",
+              "spell",
+              "be symptomatic of",
+              "herald",
+              "indicate; literarybetoken \"this signified a fundamental change\""
+            ]
+          },
+          {
+            "definition": "be a symbol of; have as meaning.",
+            "examples": [
+              "the church used this image to signify the Holy Trinity"
+            ],
+            "synonyms": [
+              "mean",
+              "denote",
+              "designate",
+              "represent",
+              "symbolize",
+              "stand for; literarybetoken \"the egg signifies life\""
+            ]
+          },
+          {
+            "definition": "(of a person) indicate or declare (a feeling or intention).",
+            "examples": [
+              "signify your agreement by signing the letter below"
+            ],
+            "synonyms": [
+              "express",
+              "indicate",
+              "show",
+              "proclaim",
+              "declare \"signify your agreement by signing below\""
+            ]
+          },
+          {
+            "definition": "be of importance.",
+            "examples": [
+              "the locked door doesn't necessarily signify"
+            ],
+            "synonyms": [
+              "mean anything",
+              "be of importance",
+              "be important",
+              "be significant",
+              "be of significance",
+              "be of account",
+              "count",
+              "matter",
+              "be relevant \"the locked door doesn't signify\""
+            ]
+          },
+          {
+            "definition": "(among black Americans) exchange boasts or insults as a game or ritual."
+          }
+        ]
+      }
+    ]
+  }
+]

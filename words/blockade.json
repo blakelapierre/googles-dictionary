@@ -1,0 +1,75 @@
+[
+  {
+    "word": "blockade",
+    "syllables": [
+      "block",
+      "ade"
+    ],
+    "pronunciation": "bläˈkād",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blockade"
+          },
+          {
+            "part": "plural noun",
+            "variant": "blockades"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act or means of sealing off a place to prevent goods or people from entering or leaving.",
+            "examples": [
+              "there was a blockade of humanitarian aid"
+            ],
+            "synonyms": [
+              "siege; Morerarebesiegement \"a naval blockade of the island\"barricade",
+              "barrier",
+              "roadblock; obstacle",
+              "obstruction \"they erected blockades in the streets\""
+            ]
+          },
+          {
+            "definition": "an obstruction of a physiological or mental function, especially of a biochemical receptor."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "blockade"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "blockades"
+          },
+          {
+            "part": "past tense",
+            "variant": "blockaded"
+          },
+          {
+            "part": "past participle",
+            "variant": "blockaded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "blockading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "seal off (a place) to prevent goods or people from entering or leaving.",
+            "examples": [
+              "barricade, block off, shut off, seal; Morebesiege, surround \"rebels blockaded the capital\"Morebesiege, surround rebels blockaded the capital"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

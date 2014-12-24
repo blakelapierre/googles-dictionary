@@ -1,0 +1,29 @@
+[
+  {
+    "word": "earl",
+    "syllables": [
+      "earl"
+    ],
+    "pronunciation": "ˈər(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "earl"
+          },
+          {
+            "part": "plural noun",
+            "variant": "earls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a British nobleman ranking above a viscount and below a marquess."
+          }
+        ]
+      }
+    ]
+  }
+]

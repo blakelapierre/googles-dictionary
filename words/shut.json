@@ -1,0 +1,96 @@
+[
+  {
+    "word": "shut",
+    "syllables": [
+      "shut"
+    ],
+    "pronunciation": "SHət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "shut"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "shuts"
+          },
+          {
+            "part": "past tense",
+            "variant": "shut"
+          },
+          {
+            "part": "past participle",
+            "variant": "shut"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "shutting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move (something) into position so that it blocks an opening.",
+            "examples": [
+              "shut the window, please"
+            ],
+            "synonyms": [
+              "close",
+              "pull/push to",
+              "slam",
+              "fasten; Moreput the lid on",
+              "bar",
+              "lock",
+              "secure \"please shut the door\""
+            ],
+            "antonyms": [
+              "open",
+              "unlock"
+            ]
+          },
+          {
+            "definition": "(of something that can block an opening) move or be moved into position.",
+            "examples": [
+              "the door shut behind him"
+            ]
+          },
+          {
+            "definition": "block an opening into (something) by moving something into position.",
+            "examples": [
+              "he shut the box and locked it"
+            ]
+          },
+          {
+            "definition": "stop talking; be quiet."
+          },
+          {
+            "definition": "keep (someone or something) in a place by closing something such as a door.",
+            "examples": [
+              "it was his own dog that he had accidentally shut outside"
+            ]
+          },
+          {
+            "definition": "fold or bring together the sides of (something) so as to close it.",
+            "examples": [
+              "he shut his book"
+            ]
+          },
+          {
+            "definition": "prevent access to or along.",
+            "examples": [
+              "they ought to shut the path up to that terrible cliff"
+            ]
+          },
+          {
+            "definition": "make or become unavailable for business or service, either permanently or until due to be open again; close.",
+            "examples": [
+              "we shut the shop for lunch"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "word": "effect",
+  "syllables": [
+    "ef",
+    "fect"
+  ],
+  "pronunciation": "əˈfekt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "effect"
+        },
+        {
+          "part": "plural noun",
+          "variant": "effects"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a change that is a result or consequence of an action or other cause.",
+          "examples": [
+            "the lethal effects of hard drugs"
+          ],
+          "synonyms": [
+            "result",
+            "consequence",
+            "upshot",
+            "outcome",
+            "repercussions",
+            "ramifications; Moreend result",
+            "conclusion",
+            "culmination",
+            "corollary",
+            "concomitant",
+            "aftermath; fruit(s)",
+            "product",
+            "by-product",
+            "payoff; sequela \"the effect of these changes\""
+          ],
+          "antonyms": [
+            "cause"
+          ]
+        },
+        {
+          "definition": "the state of being or becoming operative.",
+          "examples": [
+            "force, operation, enforcement, implementation, effectiveness; Morevalidity, lawfulness, legality, legitimacy \"the new rules come into effect tomorrow\"come into force, come into operation, become operative, begin, become valid, become law, apply, be applied \"these measures will take effect in May\"work, act, be effective, produce results \"the drug started to take effect\"Morevalidity, lawfulness, legality, legitimacy the new rules come into effect tomorrowcome into force, come into operation, become operative, begin, become valid, become law, apply, be applied these measures will take effect in Maywork, act, be effective, produce results the drug started to take effect"
+          ]
+        },
+        {
+          "definition": "the extent to which something succeeds or is operative.",
+          "examples": [
+            "wind power can be used to great effect"
+          ]
+        },
+        {
+          "definition": "a physical phenomenon, typically named after its discoverer.",
+          "examples": [
+            "the Doppler effect"
+          ]
+        },
+        {
+          "definition": "an impression produced in the mind of a person.",
+          "examples": [
+            "gentle music can have a soothing effect"
+          ],
+          "synonyms": [
+            "impact",
+            "action",
+            "effectiveness",
+            "influence; Morepower",
+            "potency",
+            "strength; success; formalefficacy \"the effect of the drug\""
+          ]
+        },
+        {
+          "definition": "the lighting, sound, or scenery used in a play, movie, or broadcast.",
+          "examples": [
+            "the production relied too much on spectacular effects"
+          ]
+        },
+        {
+          "definition": "personal belongings.",
+          "examples": [
+            "the insurance covers personal effects"
+          ],
+          "synonyms": [
+            "belongings",
+            "possessions",
+            "goods",
+            "worldly goods",
+            "chattels",
+            "goods and chattels; Moreproperty",
+            "paraphernalia; informalgear",
+            "tackle",
+            "things",
+            "stuff \"the dead man's effects\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "effect"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "effects"
+        },
+        {
+          "part": "past tense",
+          "variant": "effected"
+        },
+        {
+          "part": "past participle",
+          "variant": "effected"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "effecting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "cause (something) to happen; bring about.",
+          "examples": [
+            "nature always effected a cure"
+          ],
+          "synonyms": [
+            "achieve",
+            "accomplish",
+            "carry out",
+            "realize",
+            "manage",
+            "bring off",
+            "execute",
+            "conduct",
+            "engineer",
+            "perform",
+            "do",
+            "perpetrate",
+            "discharge",
+            "complete",
+            "consummate; Morecause",
+            "bring about",
+            "create",
+            "produce",
+            "make; provoke",
+            "occasion",
+            "generate",
+            "engender",
+            "actuate",
+            "initiate; formaleffectuate \"they effected many changes\""
+          ]
+        }
+      ]
+    }
+  ]
+}

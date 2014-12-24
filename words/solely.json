@@ -1,0 +1,39 @@
+[
+  {
+    "word": "solely",
+    "syllables": [
+      "sole",
+      "ly"
+    ],
+    "pronunciation": "ˈsō(l)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "solely"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not involving anyone or anything else; only.",
+            "examples": [
+              "he is solely responsible for any debts the company may incur"
+            ],
+            "synonyms": [
+              "only",
+              "simply",
+              "just",
+              "merely",
+              "uniquely",
+              "exclusively",
+              "entirely",
+              "wholly; alone \"people are appointed solely on the basis of merit\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

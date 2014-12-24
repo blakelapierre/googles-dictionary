@@ -1,0 +1,161 @@
+{
+  "word": "flight",
+  "syllables": [
+    "flight"
+  ],
+  "pronunciation": "flīt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "flight"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the action or process of flying through the air.",
+          "examples": [
+            "an eagle in flight"
+          ],
+          "synonyms": [
+            "aviation",
+            "flying",
+            "air transport",
+            "aerial navigation",
+            "aeronautics \"the history of flight\""
+          ]
+        },
+        {
+          "definition": "an act of flying; a journey made through the air or in space, especially a scheduled journey made by an airline.",
+          "examples": [
+            "plural noun: flights"
+          ]
+        },
+        {
+          "definition": "the movement or trajectory of a projectile or ball through the air.",
+          "examples": [
+            "trajectory, path through the air, track, orbit the flight of a baseball"
+          ]
+        },
+        {
+          "definition": "relating to or denoting archery in which the main concern is shooting long distances.",
+          "examples": [
+            "modifier noun: flight"
+          ]
+        },
+        {
+          "definition": "swift passage of time.",
+          "examples": [
+            "the never-ending flight of future days"
+          ]
+        },
+        {
+          "definition": "a group of creatures or objects flying together, in particular."
+        },
+        {
+          "definition": "a flock or large body of birds or insects in the air, especially when migrating.",
+          "examples": [
+            "flights of Canada geese"
+          ],
+          "synonyms": [
+            "flock",
+            "skein",
+            "covey",
+            "swarm",
+            "cloud \"a flight of birds\""
+          ]
+        },
+        {
+          "definition": "a group of aircraft operating together, especially an air force unit of about six aircraft.",
+          "examples": [
+            "a refueling mission in which his crew topped off three flights of four F-16A jets"
+          ]
+        },
+        {
+          "definition": "the action of fleeing or attempting to escape.",
+          "examples": [
+            "refugees on the latest stage of their flight from turmoil"
+          ],
+          "synonyms": [
+            "escape",
+            "getaway",
+            "hasty departure",
+            "exit",
+            "exodus",
+            "decamping",
+            "breakout",
+            "bolt",
+            "disappearance \"his headlong flight from home\""
+          ]
+        },
+        {
+          "definition": "a series of steps between floors or levels.",
+          "examples": [
+            "she has to come up four flights of stairs to her apartment"
+          ],
+          "synonyms": [
+            "staircase",
+            "set of steps",
+            "set of stairs \"a flight of stairs\""
+          ]
+        },
+        {
+          "definition": "a series of hurdles across a racetrack."
+        },
+        {
+          "definition": "a closely spaced sequence of locks in a canal."
+        },
+        {
+          "definition": "an extravagant or far-fetched idea or account.",
+          "examples": [
+            "ignoring such ridiculous flights of fancy"
+          ]
+        },
+        {
+          "definition": "the tail of a dart."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "flight"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "flights"
+        },
+        {
+          "part": "past tense",
+          "variant": "flighted"
+        },
+        {
+          "part": "past participle",
+          "variant": "flighted"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "flighting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "shoot (wildfowl) in flight.",
+          "examples": [
+            "duck and geese flighting"
+          ]
+        },
+        {
+          "definition": "(in soccer, cricket, etc.) deliver (a ball) with well-judged trajectory and pace.",
+          "examples": [
+            "he flighted a free kick into the box"
+          ]
+        }
+      ]
+    }
+  ]
+}

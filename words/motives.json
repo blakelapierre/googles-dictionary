@@ -1,0 +1,63 @@
+[
+  {
+    "word": "motive",
+    "syllables": [
+      "mo",
+      "tive"
+    ],
+    "pronunciation": "ˈmōdiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "motives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a reason for doing something, especially one that is hidden or not obvious.",
+            "examples": [
+              "a motive for his murder"
+            ],
+            "synonyms": [
+              "reason",
+              "motivation",
+              "motivating force",
+              "rationale",
+              "grounds",
+              "cause",
+              "basis",
+              "object",
+              "purpose",
+              "intention; Moreincentive",
+              "inducement",
+              "incitement",
+              "lure",
+              "inspiration",
+              "stimulus",
+              "stimulation",
+              "spur \"the motive for the attack\""
+            ]
+          },
+          {
+            "definition": "(in art, literature, or music) a motif.",
+            "examples": [
+              "the entire work grows organically from the opening horn motive"
+            ],
+            "synonyms": [
+              "motif",
+              "theme",
+              "idea",
+              "concept",
+              "subject",
+              "topic",
+              "leitmotif \"religious motives in art\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "word": "like",
+    "syllables": [
+      "like"
+    ],
+    "pronunciation": "līk",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "like"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having the same characteristics or qualities as; similar to.",
+            "examples": [
+              "there were other suits like mine in the shop"
+            ],
+            "synonyms": [
+              "similar to",
+              "the same as",
+              "identical to \"you're just like a teacher\""
+            ]
+          },
+          {
+            "definition": "in the manner of; in the same way or to the same degree as.",
+            "examples": [
+              "he was screaming like a banshee"
+            ],
+            "synonyms": [
+              "in the same way as",
+              "in the same manner as",
+              "in the manner of",
+              "in a similar way to \"the figure landed like a cat\""
+            ]
+          },
+          {
+            "definition": "in a way appropriate to.",
+            "examples": [
+              "students were angry at being treated like children"
+            ]
+          },
+          {
+            "definition": "such as one might expect from; characteristic of.",
+            "examples": [
+              "just like you to put a damper on people's enjoyment"
+            ],
+            "synonyms": [
+              "characteristic of",
+              "typical of",
+              "in character with \"he sounded mean",
+              "which isn't like him\""
+            ]
+          },
+          {
+            "definition": "used in questions to ask about the characteristics or nature of someone or something.",
+            "examples": [
+              "What is it like to be a tuna fisherman?"
+            ]
+          },
+          {
+            "definition": "used to draw attention to the nature of an action or event.",
+            "examples": [
+              "I apologize for coming over unannounced like this"
+            ]
+          },
+          {
+            "definition": "such as; for example.",
+            "examples": [
+              "the cautionary vision of works like Animal Farm and 1984"
+            ],
+            "synonyms": [
+              "such as",
+              "for example",
+              "for instance; Morein particular",
+              "namely \"cities like Joplin\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "conjunctioninformal",
+        "variants": [
+          {
+            "part": "conjunction",
+            "variant": "like"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in the same way that; as.",
+            "examples": [
+              "people who change countries like they change clothes"
+            ]
+          },
+          {
+            "definition": "as though; as if.",
+            "examples": [
+              "I felt like I'd been kicked by a camel"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "like"
+          },
+          {
+            "part": "plural noun",
+            "variant": "likes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used with reference to a person or thing of the same kind as another.",
+            "examples": [
+              "the quotations could be arranged to put like with like"
+            ]
+          },
+          {
+            "definition": "a thing or things of the same kind (often used to express surprise or for emphasis).",
+            "examples": [
+              "noun: the like"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "like"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or thing) having similar qualities or characteristics to another person or thing.",
+            "examples": [
+              "I responded in like manner"
+            ],
+            "synonyms": [
+              "similar",
+              "much the same",
+              "comparable",
+              "corresponding",
+              "resembling",
+              "alike",
+              "analogous",
+              "parallel",
+              "equivalent",
+              "cognate",
+              "related",
+              "kindred; Moreidentical",
+              "same",
+              "matching \"a like situation\""
+            ],
+            "antonyms": [
+              "dissimilar"
+            ]
+          },
+          {
+            "definition": "(of a portrait or other image) having a faithful resemblance to the original.",
+            "examples": [
+              "“Who painted the dog's picture? It's very like.”"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "like"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used in speech as a meaningless filler or to signify the speaker's uncertainty about an expression just used.",
+            "examples": [
+              "there was this funny smell—sort of dusty like"
+            ]
+          },
+          {
+            "definition": "used to convey a person's reported attitude or feelings in the form of direct speech (whether or not representing an actual quotation).",
+            "examples": [
+              "so she comes into the room and she's like “Where is everybody?”"
+            ]
+          },
+          {
+            "definition": "in the manner of.",
+            "examples": [
+              "like as a ship with dreadful storm long tossed"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "syllables": [
+      "like"
+    ],
+    "pronunciation": "līk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "like"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "likes"
+          },
+          {
+            "part": "past tense",
+            "variant": "liked"
+          },
+          {
+            "part": "past participle",
+            "variant": "liked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "liking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "find agreeable, enjoyable, or satisfactory.",
+            "examples": [
+              "I like all Angela Carter's stories"
+            ],
+            "synonyms": [
+              "be fond of",
+              "be attached to",
+              "have a soft spot for",
+              "have a liking for",
+              "have regard for",
+              "think well of",
+              "admire",
+              "respect",
+              "esteem; Morebe attracted to",
+              "fancy",
+              "find attractive",
+              "be keen on",
+              "be taken with; be infatuated with",
+              "carry a torch for; informalbe crazy about",
+              "have a crush on",
+              "have a thing for",
+              "have the hots for",
+              "dig",
+              "take a shine to \"I like Tony\"enjoy",
+              "have a taste for",
+              "have a preference for",
+              "have a liking for",
+              "be partial to",
+              "find/take pleasure in",
+              "be keen on",
+              "find agreeable",
+              "have a penchant for",
+              "have a passion for",
+              "find enjoyable; appreciate",
+              "love",
+              "adore",
+              "relish; informalhave a thing about",
+              "be into",
+              "be mad about",
+              "be hooked on",
+              "get a kick out of \"she likes gardening\""
+            ],
+            "antonyms": [
+              "hate"
+            ]
+          },
+          {
+            "definition": "indicate one's liking or approval of (a web page or posting on a social media website) by activating a particular icon or link.",
+            "examples": [
+              "more than 15,000 Facebook users had liked his page by Monday morning"
+            ]
+          },
+          {
+            "definition": "wish for; want.",
+            "examples": [
+              "would you like a cup of coffee?"
+            ],
+            "synonyms": [
+              "choose",
+              "please",
+              "wish",
+              "want",
+              "see fit",
+              "think fit",
+              "care to",
+              "will \"feel free to say what you like\""
+            ]
+          },
+          {
+            "definition": "used as a polite formula.",
+            "examples": [
+              "we would like to apologize for the late running of this service"
+            ]
+          },
+          {
+            "definition": "feel reluctant to do something.",
+            "examples": [
+              "I don't like leaving her on her own too long"
+            ]
+          },
+          {
+            "definition": "choose to have (something); prefer.",
+            "examples": [
+              "how do you like your coffee?"
+            ],
+            "synonyms": [
+              "choose",
+              "please",
+              "wish",
+              "want",
+              "see fit",
+              "think fit",
+              "care to",
+              "will \"feel free to say what you like\""
+            ]
+          },
+          {
+            "definition": "feel about or regard (something).",
+            "examples": [
+              "how would you like it if it happened to you?"
+            ],
+            "synonyms": [
+              "feel about",
+              "regard",
+              "think about",
+              "consider \"how would she like it if someone did that to her?\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "like"
+          },
+          {
+            "part": "plural noun",
+            "variant": "likes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the things one likes or prefers.",
+            "examples": [
+              "a wide variety of likes, dislikes, tastes, and income levels"
+            ]
+          },
+          {
+            "definition": "an instance of indicating one's liking or approval of a web page or posting on a social media website.",
+            "examples": [
+              "pages that rank well are likely to receive high numbers of likes because they are highly visible in the search engines"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-like",
+    "syllables": [
+      "-like"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-like"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(added to nouns) similar to; characteristic of.",
+            "examples": [
+              "pealike"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

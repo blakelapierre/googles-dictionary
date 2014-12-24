@@ -1,0 +1,105 @@
+{
+  "word": "ebb",
+  "syllables": [
+    "ebb"
+  ],
+  "pronunciation": "eb",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "ebb"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the movement of the tide out to sea.",
+          "examples": [
+            "I knew the tide would be on the ebb"
+          ],
+          "synonyms": [
+            "receding",
+            "retreat",
+            "subsiding \"the ebb of the tide\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "ebb"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "ebbs"
+        },
+        {
+          "part": "past tense",
+          "variant": "ebbed"
+        },
+        {
+          "part": "past participle",
+          "variant": "ebbed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "ebbing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(of tidewater) move away from the land; recede.",
+          "examples": [
+            "the tide began to ebb"
+          ],
+          "synonyms": [
+            "recede",
+            "go out",
+            "retreat",
+            "flow back",
+            "fall back/away",
+            "subside \"the tide ebbed\""
+          ],
+          "antonyms": [
+            "come in"
+          ]
+        },
+        {
+          "definition": "(of an emotion or quality) gradually lessen or reduce.",
+          "examples": [
+            "my enthusiasm was ebbing away"
+          ],
+          "synonyms": [
+            "diminish",
+            "dwindle",
+            "wane",
+            "fade away",
+            "peter out",
+            "decline",
+            "flag",
+            "let up",
+            "decrease",
+            "weaken",
+            "disappear More\"his courage began to ebb\"abatement",
+            "subsiding",
+            "easing",
+            "dying down",
+            "de-escalation",
+            "decrease",
+            "decline",
+            "diminution \"the ebb of the fighting\""
+          ],
+          "antonyms": [
+            "increase",
+            "intensify"
+          ]
+        }
+      ]
+    }
+  ]
+}

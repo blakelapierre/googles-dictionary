@@ -1,0 +1,85 @@
+[
+  {
+    "word": "copy",
+    "syllables": [
+      "cop",
+      "y"
+    ],
+    "pronunciation": "ˈkäpē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "copying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a similar or identical version of; reproduce.",
+            "examples": [
+              "each form had to be copied and sent to a different department"
+            ],
+            "synonyms": [
+              "duplicate",
+              "photocopy",
+              "xerox",
+              "run off",
+              "reproduce",
+              "replicate; Moredatedmimeograph \"each form had to be copied\"reproduce",
+              "replicate; forge",
+              "fake",
+              "counterfeit \"portraits copied from original paintings by Reynolds\""
+            ]
+          },
+          {
+            "definition": "reproduce (data stored in one location) in another location.",
+            "examples": [
+              "the command will copy a file from one disc to another"
+            ]
+          },
+          {
+            "definition": "write out information that one has read or heard.",
+            "examples": [
+              "he copied the details into his notebook"
+            ]
+          },
+          {
+            "definition": "send a copy of a letter to (a third party)."
+          },
+          {
+            "definition": "send someone a copy of an e-mail that is addressed to a third party.",
+            "examples": [
+              "I attached the document and copied him in so he'd know it had been sent"
+            ]
+          },
+          {
+            "definition": "imitate the style or behaviour of.",
+            "examples": [
+              "lifestyles that were copied from Miami and Fifth Avenue"
+            ],
+            "synonyms": [
+              "imitate",
+              "reproduce",
+              "emulate",
+              "follow",
+              "echo",
+              "mirror",
+              "parrot",
+              "mimic",
+              "ape; Moreplagiarize",
+              "steal; informalrip off \"their sound was copied by a lot of jazz players\""
+            ]
+          },
+          {
+            "definition": "hear or understand someone speaking on a radio transmitter.",
+            "examples": [
+              "this is Edwards, do you copy, over"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

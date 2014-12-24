@@ -1,0 +1,69 @@
+[
+  {
+    "word": "chartered",
+    "syllables": [
+      "char",
+      "tered"
+    ],
+    "pronunciation": "ˈCHärdərd",
+    "parts": [
+      {
+        "part": "adjectiveBritish",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "chartered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an accountant, engineer, librarian, etc.) qualified as a member of a professional body that has a royal charter."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "charter",
+    "syllables": [
+      "char",
+      "ter"
+    ],
+    "pronunciation": "ˈCHärdər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "chartered"
+          },
+          {
+            "part": "past participle",
+            "variant": "chartered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grant a charter to (a city, college, or other institution).",
+            "examples": [
+              "the company was chartered in 1553"
+            ]
+          },
+          {
+            "definition": "reserve (an aircraft, boat, or bus) for private use.",
+            "examples": [
+              "he chartered a plane to take him to Paris"
+            ],
+            "synonyms": [
+              "hire",
+              "lease",
+              "rent; Morebook",
+              "reserve \"they chartered a bus\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

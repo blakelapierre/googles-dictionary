@@ -1,0 +1,87 @@
+[
+  {
+    "word": "species",
+    "syllables": [
+      "spe",
+      "cies"
+    ],
+    "pronunciation": "ˈspēsēzˈspēSHēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "species"
+          },
+          {
+            "part": "plural noun",
+            "variant": "species"
+          },
+          {
+            "part": "noun",
+            "variant": "sp."
+          },
+          {
+            "part": "plural noun",
+            "variant": "spp."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding. The species is the principal natural taxonomic unit, ranking below a genus and denoted by a Latin binomial, e.g., Homo sapiens.",
+            "examples": [
+              "type, kind, sort; Moregenus, family, order, breed, strain, variety, class, classification, category, set, bracket; style, manner, form, genre; generation, vintage \"there are several species of spadefoot toad\"Moregenus, family, order, breed, strain, variety, class, classification, category, set, bracket; style, manner, form, genre; generation, vintage there are several species of spadefoot toad"
+            ]
+          },
+          {
+            "definition": "a group subordinate to a genus and containing individuals agreeing in some common attributes and called by a common name.",
+            "examples": [
+              "plural noun: specieses"
+            ]
+          },
+          {
+            "definition": "a kind or sort.",
+            "examples": [
+              "a species of invective at once tough and suave"
+            ],
+            "synonyms": [
+              "type",
+              "kind",
+              "sort; Moregenus",
+              "family",
+              "order",
+              "breed",
+              "strain",
+              "variety",
+              "class",
+              "classification",
+              "category",
+              "set",
+              "bracket; style",
+              "manner",
+              "form",
+              "genre; generation",
+              "vintage \"there are several species of spadefoot toad\""
+            ]
+          },
+          {
+            "definition": "used humorously to refer to people who share a characteristic or occupation.",
+            "examples": [
+              "a political species that is becoming more common, the environmental statesman"
+            ]
+          },
+          {
+            "definition": "a particular kind of atom, molecule, ion, or particle.",
+            "examples": [
+              "a new molecular species"
+            ]
+          },
+          {
+            "definition": "the visible form of each of the elements of consecrated bread and wine in the Eucharist."
+          }
+        ]
+      }
+    ]
+  }
+]

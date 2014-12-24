@@ -1,0 +1,93 @@
+[
+  {
+    "word": "policy",
+    "syllables": [
+      "pol",
+      "i",
+      "cy"
+    ],
+    "pronunciation": "ˈpäləsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "policy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "policies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a course or principle of action adopted or proposed by a government, party, business, or individual.",
+            "examples": [
+              "the administration's controversial economic policies"
+            ],
+            "synonyms": [
+              "plans",
+              "strategy",
+              "stratagem",
+              "approach",
+              "code",
+              "system",
+              "guidelines",
+              "theory; Moreline",
+              "position",
+              "stance",
+              "attitude \"government policy\"practice",
+              "custom",
+              "idea",
+              "procedure",
+              "conduct",
+              "convention \"it's good policy to listen to your elders\""
+            ]
+          },
+          {
+            "definition": "prudent or expedient conduct or action.",
+            "examples": [
+              "a course of policy and wisdom"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "policy",
+    "syllables": [
+      "pol",
+      "i",
+      "cy"
+    ],
+    "pronunciation": "ˈpäləsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "policy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "policies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a contract of insurance.",
+            "examples": [
+              "they took out a joint policy"
+            ]
+          },
+          {
+            "definition": "an illegal lottery or numbers game."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "pledge",
+    "syllables": [
+      "pledge"
+    ],
+    "pronunciation": "plej",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "pledged"
+          },
+          {
+            "part": "past participle",
+            "variant": "pledged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "commit (a person or organization) by a solemn promise.",
+            "examples": [
+              "the government pledged itself to deal with environmental problems"
+            ]
+          },
+          {
+            "definition": "formally declare or promise that something is or will be the case.",
+            "examples": [
+              "the president pledged that 20,000 government buildings would have solar roofs"
+            ],
+            "synonyms": [
+              "promise",
+              "vow",
+              "swear",
+              "undertake",
+              "engage",
+              "commit oneself",
+              "declare",
+              "affirm",
+              "avow \"he pledged to root out corruption\""
+            ]
+          },
+          {
+            "definition": "solemnly undertake to do something.",
+            "examples": [
+              "they pledged to continue the campaign for funding"
+            ]
+          },
+          {
+            "definition": "undertake formally to give.",
+            "examples": [
+              "Japan pledged $100 million in humanitarian aid"
+            ],
+            "synonyms": [
+              "promise (to give)",
+              "donate",
+              "contribute",
+              "give",
+              "put up \"they pledged $10 million\""
+            ]
+          },
+          {
+            "definition": "give as security on a loan.",
+            "examples": [
+              "the creditor to whom the land is pledged"
+            ],
+            "synonyms": [
+              "mortgage",
+              "put up as collateral",
+              "guarantee",
+              "pawn \"his home is pledged as security against the loan\""
+            ]
+          },
+          {
+            "definition": "promise to join (a fraternity or sorority).",
+            "examples": [
+              "Francie and I pledged the same sorority"
+            ]
+          },
+          {
+            "definition": "drink to the health of."
+          }
+        ]
+      }
+    ]
+  }
+]

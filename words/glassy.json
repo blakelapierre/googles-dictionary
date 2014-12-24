@@ -1,0 +1,64 @@
+[
+  {
+    "word": "glassy",
+    "syllables": [
+      "glass",
+      "y"
+    ],
+    "pronunciation": "ˈɡlasē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "glassy"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "glassier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "glassiest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or resembling glass in some way, in particular."
+          },
+          {
+            "definition": "having the physical properties of glass; vitreous.",
+            "examples": [
+              "glassy lavas"
+            ]
+          },
+          {
+            "definition": "(of water) having a smooth surface.",
+            "examples": [
+              "smooth, mirrorlike, gleaming, shiny, glossy, polished, vitreous; Moreslippery, icy; clear, transparent, translucent; calm, still, flat \"the glassy surface of the lake\"Moreslippery, icy; clear, transparent, translucent; calm, still, flat the glassy surface of the lake"
+            ],
+            "antonyms": [
+              "rough"
+            ]
+          },
+          {
+            "definition": "(of sound) resembling the sharp or ringing noise made when glass is struck.",
+            "examples": [
+              "a glassy clink"
+            ]
+          },
+          {
+            "definition": "(of a person's eyes or expression) showing no interest or animation; dull and glazed.",
+            "examples": [
+              "expressionless, glazed, blank, vacant, fixed, motionless; Moreemotionless, impassive, lifeless, wooden, vacuous \"a glassy stare\"Moreemotionless, impassive, lifeless, wooden, vacuous a glassy stare"
+            ],
+            "antonyms": [
+              "expressive"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

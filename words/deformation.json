@@ -1,0 +1,43 @@
+[
+  {
+    "word": "deformation",
+    "syllables": [
+      "de",
+      "for",
+      "ma",
+      "tion"
+    ],
+    "pronunciation": "ˌdēfôrˈmāSH(ə)nˌdefərˈmāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deformation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of changing in shape or distorting, especially through the application of pressure.",
+            "examples": [
+              "solid rock undergoing slow deformation"
+            ]
+          },
+          {
+            "definition": "the result of a distorting process.",
+            "examples": [
+              "the deformation will be temporary"
+            ]
+          },
+          {
+            "definition": "an altered form of a word, especially one used to avoid overt profanity (e.g., dang for damn ).",
+            "examples": [
+              "plural noun: deformations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

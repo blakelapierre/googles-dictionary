@@ -1,0 +1,167 @@
+[
+  {
+    "word": "meant",
+    "syllables": [
+      "meant"
+    ],
+    "pronunciation": "ment",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "mean",
+    "syllables": [
+      "mean"
+    ],
+    "pronunciation": "mēn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "meant"
+          },
+          {
+            "part": "past participle",
+            "variant": "meant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "intend to convey, indicate, or refer to (a particular thing or notion); signify.",
+            "examples": [
+              "I don't know what you mean"
+            ],
+            "synonyms": [
+              "signify",
+              "convey",
+              "denote",
+              "designate",
+              "indicate",
+              "connote",
+              "show",
+              "express",
+              "spell out; Morestand for",
+              "represent",
+              "symbolize; imply",
+              "suggest",
+              "intimate",
+              "hint at",
+              "insinuate",
+              "drive at",
+              "refer to",
+              "allude to",
+              "point to; literarybetoken \"flashing lights mean the road is blocked\""
+            ]
+          },
+          {
+            "definition": "(of a word) have (something) as its signification in the same language or its equivalent in another language.",
+            "examples": [
+              "its name means “painted rock” in Cherokee"
+            ]
+          },
+          {
+            "definition": "genuinely intend to convey or express (something).",
+            "examples": [
+              "when she said that before, she meant it"
+            ]
+          },
+          {
+            "definition": "be of some specified importance to (someone), especially as a source of benefit or object of affection.",
+            "examples": [
+              "animals have always meant more to him than people"
+            ]
+          },
+          {
+            "definition": "intend (something) to occur or be the case.",
+            "examples": [
+              "they mean no harm"
+            ],
+            "synonyms": [
+              "intend",
+              "aim",
+              "plan",
+              "design",
+              "have in mind",
+              "contemplate",
+              "purpose",
+              "propose",
+              "set out",
+              "aspire",
+              "desire",
+              "want",
+              "wish",
+              "expect \"she didn't mean to break it\""
+            ]
+          },
+          {
+            "definition": "be supposed or intended to do something.",
+            "examples": [
+              "we were meant to go over yesterday"
+            ]
+          },
+          {
+            "definition": "design or destine for a particular purpose.",
+            "examples": [
+              "the jacket was meant for a much larger person"
+            ],
+            "synonyms": [
+              "intend",
+              "design; Moredestine",
+              "predestine \"he was hit by a bullet meant for a soldier\""
+            ]
+          },
+          {
+            "definition": "have as a motive or excuse in explanation.",
+            "examples": [
+              "what do you mean by leaving me out here in the cold?"
+            ],
+            "synonyms": [
+              "matter",
+              "be important",
+              "be significant \"this means a lot to me\""
+            ]
+          },
+          {
+            "definition": "have as a consequence or result.",
+            "examples": [
+              "the proposals are likely to mean another hundred closures"
+            ],
+            "synonyms": [
+              "entail",
+              "involve",
+              "necessitate",
+              "lead to",
+              "result in",
+              "give rise to",
+              "bring about",
+              "cause",
+              "engender",
+              "produce More\"the closures will mean a rise in unemployment\"presage",
+              "portend",
+              "foretell",
+              "augur",
+              "promise",
+              "foreshadow",
+              "herald",
+              "signal",
+              "bode; literarybetoken \"a red sky in the morning usually means rain\""
+            ]
+          },
+          {
+            "definition": "necessarily or usually entail or involve.",
+            "examples": [
+              "coal stoves mean a lot of smoke"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

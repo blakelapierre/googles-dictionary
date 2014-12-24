@@ -1,0 +1,66 @@
+[
+  {
+    "word": "envelop",
+    "syllables": [
+      "en",
+      "vel",
+      "op"
+    ],
+    "pronunciation": "ənˈveləp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "envelop"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "envelops"
+          },
+          {
+            "part": "past tense",
+            "variant": "enveloped"
+          },
+          {
+            "part": "past participle",
+            "variant": "enveloped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "enveloping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "wrap up, cover, or surround completely.",
+            "examples": [
+              "a figure enveloped in a black cloak"
+            ],
+            "synonyms": [
+              "surround",
+              "cover",
+              "enfold",
+              "engulf",
+              "encircle",
+              "encompass",
+              "cocoon",
+              "sheathe",
+              "swathe",
+              "enclose; Morecloak",
+              "screen",
+              "shield",
+              "veil",
+              "shroud \"enveloped in a blanket",
+              "safe in his mother's arms\""
+            ]
+          },
+          {
+            "definition": "(of troops) surround (an enemy force)."
+          }
+        ]
+      }
+    ]
+  }
+]

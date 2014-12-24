@@ -1,0 +1,181 @@
+{
+  "word": "number",
+  "syllables": [
+    "num",
+    "ber"
+  ],
+  "pronunciation": "ˈnəmbər",
+  "parts": [
+    {
+      "part": "noun",
+      "letiants": [
+        {
+          "part": "plural noun",
+          "letiant": "numbers"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.",
+          "examples": [
+            "she dialed the number carefully"
+          ],
+          "synonyms": [
+            "numeral",
+            "integer",
+            "figure",
+            "digit; Morecharacter",
+            "symbol; decimal",
+            "unit; cardinal number",
+            "ordinal number \"a whole number\""
+          ]
+        },
+        {
+          "definition": "arithmetic.",
+          "examples": [
+            "the boy was adept at numbers"
+          ]
+        },
+        {
+          "definition": "a quantity or amount.",
+          "examples": [
+            "the company is seeking to increase the number of women on its staff"
+          ],
+          "synonyms": [
+            "amount",
+            "quantity; Moretotal",
+            "aggregate",
+            "tally; quota \"a large number of complaints\""
+          ]
+        },
+        {
+          "definition": "several.",
+          "examples": [
+            "we have discussed the matter on a number of occasions"
+          ],
+          "synonyms": [
+            "several",
+            "various",
+            "quite a few",
+            "sundry \"she's collected a number of ashtrays\""
+          ]
+        },
+        {
+          "definition": "a group or company of people.",
+          "examples": [
+            "there were some distinguished names among our number"
+          ],
+          "synonyms": [
+            "group",
+            "company",
+            "crowd",
+            "circle",
+            "party",
+            "band",
+            "crew",
+            "set",
+            "gang \"the wedding of one of their number\""
+          ]
+        },
+        {
+          "definition": "a large quantity or amount, often in contrast to a smaller one; numerical preponderance.",
+          "examples": [
+            "the weight of numbers turned the battle against them"
+          ]
+        },
+        {
+          "definition": "a single issue of a magazine.",
+          "examples": [
+            "the October number of “Travel.”"
+          ]
+        },
+        {
+          "definition": "a song, dance, piece of music, etc., especially one of several in a performance.",
+          "examples": [
+            "they go from one melodious number to another"
+          ],
+          "synonyms": [
+            "song",
+            "piece (of music)",
+            "tune",
+            "show tune",
+            "track; Moreroutine",
+            "sketch",
+            "dance",
+            "act \"the band performed another number\""
+          ]
+        },
+        {
+          "definition": "a thing, typically an item of clothing, of a particular type, regarded with approval or admiration.",
+          "examples": [
+            "Yvonne was wearing a little black number"
+          ]
+        },
+        {
+          "definition": "a distinction of word form denoting reference to one person or thing or to more than one."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "letiants": [
+        {
+          "part": "3rd person present",
+          "letiant": "numbers"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "amount to (a specified figure or quantity); comprise.",
+          "examples": [
+            "the demonstrators numbered more than 5,000"
+          ],
+          "synonyms": [
+            "add up to",
+            "amount to",
+            "total",
+            "come to \"visitors numbered more than two million\""
+          ]
+        },
+        {
+          "definition": "include or classify as a member of a group.",
+          "examples": [
+            "the orchestra numbers Brahms among its past conductors"
+          ],
+          "synonyms": [
+            "include",
+            "count",
+            "reckon",
+            "deem \"he numbers her among his friends\""
+          ]
+        },
+        {
+          "definition": "mark with a number or assign a number to, typically to indicate position in a series.",
+          "examples": [
+            "each document was numbered consecutively"
+          ],
+          "synonyms": [
+            "assign a number to",
+            "mark with a number; Moreitemize",
+            "enumerate \"each paragraph is numbered\""
+          ]
+        },
+        {
+          "definition": "count.",
+          "examples": [
+            "strategies like ours can be numbered on the fingers of one hand"
+          ],
+          "synonyms": [
+            "calculate",
+            "count",
+            "total",
+            "compute",
+            "reckon",
+            "tally; Moreassess",
+            "tot up; formalenumerate \"he numbers the fleet at a thousand\""
+          ]
+        }
+      ]
+    }
+  ]
+}

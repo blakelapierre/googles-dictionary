@@ -1,0 +1,60 @@
+[
+  {
+    "word": "irritability",
+    "syllables": [
+      "ir",
+      "ri",
+      "ta",
+      "bil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌiridəˈbilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "irritability"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality or state of being irritable.",
+            "examples": [
+              "symptoms include insomnia and irritability"
+            ],
+            "synonyms": [
+              "irascibility",
+              "testiness",
+              "touchiness",
+              "grumpiness",
+              "moodiness",
+              "grouchiness",
+              "(bad) mood",
+              "cantankerousness",
+              "curmudgeonliness",
+              "bad temper",
+              "short temper",
+              "ill humor",
+              "peevishness",
+              "crossness",
+              "fractiousness",
+              "pettishness",
+              "crabbiness",
+              "tetchiness",
+              "waspishness",
+              "prickliness",
+              "crankiness",
+              "orneriness; literarycholer \"she walked in with the irritability of a wounded bear\""
+            ],
+            "antonyms": [
+              "good humor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

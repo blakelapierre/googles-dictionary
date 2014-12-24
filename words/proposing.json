@@ -1,0 +1,68 @@
+[
+  {
+    "word": "propose",
+    "syllables": [
+      "pro",
+      "pose"
+    ],
+    "pronunciation": "prəˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "proposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put forward (an idea or plan) for consideration or discussion by others.",
+            "examples": [
+              "he proposed a new nine-point peace plan"
+            ],
+            "synonyms": [
+              "put forward",
+              "suggest",
+              "submit",
+              "advance",
+              "offer",
+              "present",
+              "move",
+              "come up with",
+              "lodge",
+              "table",
+              "nominate \"he proposed a solution\""
+            ],
+            "antonyms": [
+              "withdraw"
+            ]
+          },
+          {
+            "definition": "nominate (someone) for an elected office or as a member of a society.",
+            "examples": [
+              "Thomson was proposed as chairman"
+            ]
+          },
+          {
+            "definition": "put forward (a motion) to a legislature or committee.",
+            "examples": [
+              "the government put its slim majority to the test by proposing a vote of confidence"
+            ]
+          },
+          {
+            "definition": "make an offer of marriage to someone.",
+            "examples": [
+              "I have already proposed to Sarah"
+            ],
+            "synonyms": [
+              "ask someone to marry you",
+              "make an offer of marriage",
+              "offer marriage; Moreinformalpop the question; datedask for someone's hand in marriage \"you've proposed to her!\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

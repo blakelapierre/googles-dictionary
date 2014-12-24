@@ -1,0 +1,96 @@
+[
+  {
+    "word": "sympathy",
+    "syllables": [
+      "sym",
+      "pa",
+      "thy"
+    ],
+    "pronunciation": "ˈsimpəTHē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sympathy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feelings of pity and sorrow for someone else's misfortune.",
+            "examples": [
+              "they had great sympathy for the flood victims"
+            ],
+            "synonyms": [
+              "compassion",
+              "caring",
+              "concern",
+              "solicitude",
+              "empathy; Morecommiseration",
+              "pity",
+              "condolence",
+              "comfort",
+              "solace",
+              "support",
+              "encouragement; consideration",
+              "kindness \"he shows sympathy for the poor\""
+            ],
+            "antonyms": [
+              "indifference"
+            ]
+          },
+          {
+            "definition": "the formal expression of pity or sorrow for someone else's misfortune; condolences.",
+            "examples": [
+              "plural noun: sympathies; plural noun: one's sympathies"
+            ]
+          },
+          {
+            "definition": "understanding between people; common feeling.",
+            "examples": [
+              "the special sympathy between the two boys was obvious to all"
+            ],
+            "synonyms": [
+              "rapport",
+              "fellow feeling",
+              "affinity",
+              "empathy",
+              "harmony",
+              "accord",
+              "compatibility; Morefellowship",
+              "camaraderie \"sympathy with a fellow journalist\""
+            ],
+            "antonyms": [
+              "hostility"
+            ]
+          },
+          {
+            "definition": "support in the form of shared feelings or opinions.",
+            "examples": [
+              "plural noun: sympathies"
+            ]
+          },
+          {
+            "definition": "agreement with or approval of an opinion or aim; a favorable attitude.",
+            "examples": [
+              "I have some sympathy for this view"
+            ]
+          },
+          {
+            "definition": "relating harmoniously to something else; in keeping.",
+            "examples": [
+              "noun: in sympathy; plural noun: in sympathies"
+            ]
+          },
+          {
+            "definition": "the state or fact of responding in a way similar or corresponding to an action elsewhere.",
+            "examples": [
+              "the magnetic field oscillates in sympathy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

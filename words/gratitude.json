@@ -1,0 +1,39 @@
+[
+  {
+    "word": "gratitude",
+    "syllables": [
+      "grat",
+      "i",
+      "tude"
+    ],
+    "pronunciation": "ˈɡradəˌt(y)o͞od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gratitude"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being thankful; readiness to show appreciation for and to return kindness.",
+            "examples": [
+              "she expressed her gratitude to the committee for their support"
+            ],
+            "synonyms": [
+              "gratefulness",
+              "thankfulness",
+              "thanks",
+              "appreciation",
+              "indebtedness; Morerecognition",
+              "acknowledgment",
+              "credit \"Chip was miffed by his nephew's lack of gratitude\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+{
+  "word": "position",
+  "syllables": [
+    "po",
+    "si",
+    "tion"
+  ],
+  "pronunciation": "pəˈziSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "position"
+        },
+        {
+          "part": "plural noun",
+          "variant": "positions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a place where someone or something is located or has been put.",
+          "examples": [
+            "the distress call had given the ship's position"
+          ],
+          "synonyms": [
+            "location",
+            "place",
+            "situation",
+            "spot",
+            "site",
+            "locality",
+            "setting",
+            "area; Morewhereabouts",
+            "bearings",
+            "orientation; technicallocus \"the aircraft's position\""
+          ]
+        },
+        {
+          "definition": "the location where someone or something should be; the correct place.",
+          "examples": [
+            "the lid was put into position and screwed down"
+          ]
+        },
+        {
+          "definition": "a place where part of a military force is posted for strategic purposes.",
+          "examples": [
+            "the guns were shelling the German positions"
+          ]
+        },
+        {
+          "definition": "a particular way in which someone or something is placed or arranged.",
+          "examples": [
+            "he moved himself into a reclining position"
+          ],
+          "synonyms": [
+            "posture",
+            "stance",
+            "attitude",
+            "pose \"a standing position\""
+          ]
+        },
+        {
+          "definition": "in a game of chess, the configuration of the pieces and pawns on the board at any point."
+        },
+        {
+          "definition": "a particular location of the hand on the fingerboard of a stringed instrument.",
+          "examples": [
+            "be familiar with the first six positions across the four strings"
+          ]
+        },
+        {
+          "definition": "a particular location of the slide of a trombone."
+        },
+        {
+          "definition": "the arrangement of the constituent notes of a chord."
+        },
+        {
+          "definition": "a situation or set of circumstances, especially one that affects one's power to act.",
+          "examples": [
+            "the company's financial position is grim"
+          ],
+          "synonyms": [
+            "situation",
+            "state",
+            "condition",
+            "circumstances; Morepredicament",
+            "plight",
+            "strait(s) \"our financial position\""
+          ]
+        },
+        {
+          "definition": "a job.",
+          "examples": [
+            "she retired from her position as marketing director"
+          ],
+          "synonyms": [
+            "job",
+            "post",
+            "situation",
+            "appointment",
+            "role",
+            "occupation",
+            "employment; Moreoffice",
+            "capacity",
+            "duty",
+            "function; opening",
+            "vacancy",
+            "placement \"a secretarial position\""
+          ]
+        },
+        {
+          "definition": "the state of being placed where one has an advantage over one's rivals in a competitive situation.",
+          "examples": [
+            "his successors were already jockeying for position"
+          ],
+          "synonyms": [
+            "advantage",
+            "the upper hand",
+            "the edge",
+            "the whip hand",
+            "primacy; informalthe catbird seat \"the two parties jockeyed for position\""
+          ]
+        },
+        {
+          "definition": "a person's place or rank in relation to others, especially in a competitive situation.",
+          "examples": [
+            "he made up ground to finish in second position"
+          ]
+        },
+        {
+          "definition": "high rank or social standing.",
+          "examples": [
+            "a woman of supposed wealth and position"
+          ],
+          "synonyms": [
+            "status",
+            "place",
+            "level",
+            "rank",
+            "standing; Morestature",
+            "prestige",
+            "influence",
+            "reputation",
+            "importance",
+            "consequence",
+            "class; datedstation \"their position in society\""
+          ]
+        },
+        {
+          "definition": "(in team games) a set of functions considered as the responsibility of a particular player based on the location in which they play.",
+          "examples": [
+            "it gives every player a chance to play every fielding position"
+          ]
+        },
+        {
+          "definition": "a person's particular point of view or attitude toward something.",
+          "examples": [
+            "I’ll never accept his position on censorship"
+          ],
+          "synonyms": [
+            "viewpoint",
+            "opinion",
+            "outlook",
+            "attitude",
+            "stand",
+            "standpoint",
+            "stance",
+            "perspective",
+            "approach",
+            "slant",
+            "thinking",
+            "policy",
+            "feelings \"the government's position on the matter\""
+          ]
+        },
+        {
+          "definition": "an investor's net holdings in one or more markets at a particular time; the status of an individual or institutional trader's open contracts.",
+          "examples": [
+            "traders were covering short positions"
+          ]
+        },
+        {
+          "definition": "a proposition laid down or asserted; a tenet or assertion."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "position"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "positions"
+        },
+        {
+          "part": "past tense",
+          "variant": "positioned"
+        },
+        {
+          "part": "past participle",
+          "variant": "positioned"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "positioning"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "put or arrange (someone or something) in a particular place or way.",
+          "examples": [
+            "he pulled out a chair and positioned it between them"
+          ],
+          "synonyms": [
+            "put",
+            "place",
+            "locate",
+            "situate",
+            "set",
+            "site",
+            "stand",
+            "station; Moreplant",
+            "stick",
+            "install; arrange",
+            "dispose; informalpark \"he positioned a chair between them\""
+          ]
+        },
+        {
+          "definition": "promote (a product, service, or business) within a particular sector of a market, or as the fulfillment of that sector's specific requirements.",
+          "examples": [
+            "a comprehensive development plan that will position the city as a major economic force in the region"
+          ]
+        },
+        {
+          "definition": "portray or regard (someone) as a particular type of person.",
+          "examples": [
+            "I had positioned her as my antagonist"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "credit",
+    "syllables": [
+      "cred",
+      "it"
+    ],
+    "pronunciation": "ˈkredət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "credited"
+          },
+          {
+            "part": "past participle",
+            "variant": "credited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "publicly acknowledge someone as a participant in the production of (something published or broadcast).",
+            "examples": [
+              "the screenplay is credited to one American and two Japanese writers"
+            ],
+            "synonyms": [
+              "ascribe",
+              "attribute",
+              "assign",
+              "accredit",
+              "chalk up",
+              "put down \"the scheme's success can be credited to the team's frugality\""
+            ]
+          },
+          {
+            "definition": "ascribe (an achievement or good quality) to someone.",
+            "examples": [
+              "he is credited with painting one hundred and twenty-five canvases"
+            ]
+          },
+          {
+            "definition": "add (an amount of money) to an account.",
+            "examples": [
+              "this deferred tax can be credited to the profit and loss account"
+            ]
+          },
+          {
+            "definition": "believe (something surprising or unlikely).",
+            "examples": [
+              "you would hardly credit it—but it was true"
+            ],
+            "synonyms": [
+              "believe",
+              "accept",
+              "give credence to",
+              "trust",
+              "have faith in; Moreinformalbuy",
+              "swallow",
+              "fall for",
+              "take something as gospel (truth) \"the wise will seldom credit all they hear\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

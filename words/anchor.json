@@ -1,0 +1,123 @@
+{
+  "word": "anchor",
+  "syllables": [
+    "an",
+    "chor"
+  ],
+  "pronunciation": "ˈaNGkər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "anchor"
+        },
+        {
+          "part": "plural noun",
+          "variant": "anchors"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a heavy object attached to a rope or chain and used to moor a vessel to the sea bottom, typically one having a metal shank with a ring at one end for the rope and a pair of curved and/or barbed flukes at the other."
+        },
+        {
+          "definition": "a person or thing that provides stability or confidence in an otherwise uncertain situation.",
+          "examples": [
+            "the European Community is the economic anchor of the New Europe"
+          ],
+          "synonyms": [
+            "mainstay",
+            "cornerstone",
+            "linchpin",
+            "bulwark",
+            "foundation \"the anchor of the new coalition\""
+          ]
+        },
+        {
+          "definition": "a store, e.g., a department store, that is the principal tenant of a mall or a shopping center.",
+          "examples": [
+            "noun: anchor store; plural noun: anchor stores"
+          ]
+        },
+        {
+          "definition": "an anchorman or anchorwoman, especially in broadcasting or athletics.",
+          "examples": [
+            "he signed off after nineteen years as CBS news anchor"
+          ],
+          "synonyms": [
+            "presenter",
+            "announcer",
+            "anchorman",
+            "anchorwoman",
+            "broadcaster \"a TV news anchor\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "anchor"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "anchors"
+        },
+        {
+          "part": "past tense",
+          "variant": "anchored"
+        },
+        {
+          "part": "past participle",
+          "variant": "anchored"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "anchoring"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "moor (a ship) to the sea bottom with an anchor.",
+          "examples": [
+            "the ship was anchored in the lee of the island"
+          ],
+          "synonyms": [
+            "moor",
+            "berth",
+            "be at anchor; datedharbor \"the ship was anchored in the bay\""
+          ]
+        },
+        {
+          "definition": "secure firmly in position.",
+          "examples": [
+            "with cords and pitons they anchored him to the rock"
+          ],
+          "synonyms": [
+            "secure",
+            "fasten",
+            "attach",
+            "affix",
+            "fix \"the fish anchors itself to the coral\""
+          ]
+        },
+        {
+          "definition": "provide with a firm basis or foundation.",
+          "examples": [
+            "it is important that policy be anchored to some acceptable theoretical basis"
+          ]
+        },
+        {
+          "definition": "act as an anchor for (a television program or sporting event).",
+          "examples": [
+            "she anchored a television documentary series in the early 1980s"
+          ]
+        }
+      ]
+    }
+  ]
+}

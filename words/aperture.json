@@ -1,0 +1,50 @@
+[
+  {
+    "word": "aperture",
+    "syllables": [
+      "ap",
+      "er",
+      "ture"
+    ],
+    "pronunciation": "ˈapərˌCHərˈapərˌCHo͝or",
+    "parts": [
+      {
+        "part": "nountechnical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "aperture"
+          },
+          {
+            "part": "plural noun",
+            "variant": "apertures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an opening, hole, or gap.",
+            "examples": [
+              "the bell ropes passed through apertures in the ceiling"
+            ],
+            "synonyms": [
+              "opening",
+              "hole",
+              "gap",
+              "slit",
+              "slot",
+              "vent",
+              "crevice",
+              "chink",
+              "crack",
+              "interstice; Moretechnicalorifice",
+              "foramen \"adjusting the aperture of the camera\""
+            ]
+          },
+          {
+            "definition": "a space through which light passes in an optical or photographic instrument, especially the variable opening by which light enters a camera."
+          }
+        ]
+      }
+    ]
+  }
+]

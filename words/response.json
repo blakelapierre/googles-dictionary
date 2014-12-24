@@ -1,0 +1,63 @@
+[
+  {
+    "word": "response",
+    "syllables": [
+      "re",
+      "sponse"
+    ],
+    "pronunciation": "rəˈspäns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "response"
+          },
+          {
+            "part": "plural noun",
+            "variant": "responses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a verbal or written answer.",
+            "examples": [
+              "without waiting for a response, she returned to her newspaper"
+            ]
+          },
+          {
+            "definition": "a written or verbal answer to a question in a test, questionnaire, survey, etc.",
+            "examples": [
+              "answer, reply, rejoinder, retort, riposte; comeback his response to the question"
+            ]
+          },
+          {
+            "definition": "a reaction to something.",
+            "examples": [
+              "an extended, jazzy piano solo drew the biggest response from the crowd"
+            ],
+            "synonyms": [
+              "reaction",
+              "reply",
+              "retaliation",
+              "feedback; informalcomeback \"an angry response\""
+            ]
+          },
+          {
+            "definition": "an excitation of a nerve impulse caused by a change or event; a physical reaction to a specific stimulus or situation."
+          },
+          {
+            "definition": "the way in which a mechanical or electrical device responds to a stimulus or range of stimuli."
+          },
+          {
+            "definition": "a part of a religious liturgy said or sung by a congregation in answer to a minister or cantor."
+          },
+          {
+            "definition": "a bid made in answer to one's partner's preceding bid."
+          }
+        ]
+      }
+    ]
+  }
+]

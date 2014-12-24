@@ -1,0 +1,85 @@
+[
+  {
+    "word": "quite",
+    "syllables": [
+      "quite"
+    ],
+    "pronunciation": "kwīt",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "quite"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to the utmost or most absolute extent or degree; absolutely; completely.",
+            "examples": [
+              "it's quite out of the question"
+            ],
+            "synonyms": [
+              "completely",
+              "entirely",
+              "totally",
+              "wholly",
+              "absolutely",
+              "utterly",
+              "thoroughly",
+              "altogether \"two quite different types\""
+            ]
+          },
+          {
+            "definition": "very; really (used as an intensifier).",
+            "examples": [
+              "“You've no intention of coming back?” “I'm quite sorry, but no, I have not.”"
+            ]
+          },
+          {
+            "definition": "to a certain or fairly significant extent or degree; fairly.",
+            "examples": [
+              "it's quite warm outside"
+            ],
+            "synonyms": [
+              "fairly",
+              "rather",
+              "somewhat",
+              "slightly",
+              "relatively",
+              "comparatively",
+              "moderately",
+              "reasonably",
+              "to a certain extent; Moreinformalpretty",
+              "kind of",
+              "kinda",
+              "sort of \"red hair was quite common in Rita's family\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamationBritish",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "quite"
+          },
+          {
+            "part": "exclamation",
+            "variant": "quite so"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing agreement with or understanding of a remark or statement.",
+            "examples": [
+              "“I don't want to talk about that now.” “Quite.”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

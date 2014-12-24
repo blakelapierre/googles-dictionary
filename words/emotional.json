@@ -1,0 +1,91 @@
+[
+  {
+    "word": "emotional",
+    "syllables": [
+      "e",
+      "mo",
+      "tion",
+      "al"
+    ],
+    "pronunciation": "əˈmōSH(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "emotional"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to a person's emotions.",
+            "examples": [
+              "children with emotional difficulties"
+            ],
+            "synonyms": [
+              "spiritual",
+              "inner",
+              "psychological",
+              "psychic",
+              "of the heart \"their emotional needs are often ignored\""
+            ],
+            "antonyms": [
+              "material"
+            ]
+          },
+          {
+            "definition": "arousing or characterized by intense feeling.",
+            "examples": [
+              "an emotional speech"
+            ],
+            "synonyms": [
+              "poignant",
+              "moving",
+              "touching",
+              "affecting",
+              "powerful",
+              "stirring",
+              "emotive",
+              "heart-rending",
+              "heartwarming",
+              "impassioned",
+              "dramatic; Morehaunting",
+              "pathetic",
+              "sentimental; informaltear-jerking \"he paid an emotional tribute to his wife\""
+            ],
+            "antonyms": [
+              "unfeeling"
+            ]
+          },
+          {
+            "definition": "(of a person) having feelings that are easily excited and openly displayed.",
+            "examples": [
+              "he was a strongly emotional young man"
+            ],
+            "synonyms": [
+              "passionate",
+              "hot-blooded",
+              "ardent",
+              "fervent",
+              "excitable",
+              "temperamental",
+              "melodramatic",
+              "tempestuous; Moredemonstrative",
+              "responsive",
+              "tender",
+              "loving",
+              "feeling",
+              "sentimental",
+              "sensitive \"an emotional young man\""
+            ],
+            "antonyms": [
+              "cold",
+              "apathetic"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

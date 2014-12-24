@@ -1,0 +1,130 @@
+[
+  {
+    "word": "waiting",
+    "syllables": [
+      "wait",
+      "ing"
+    ],
+    "pronunciation": "ˈwādiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "waiting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of staying where one is or delaying action until a particular time or until something else happens."
+          },
+          {
+            "definition": "official attendance at court."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wait",
+    "syllables": [
+      "wait"
+    ],
+    "pronunciation": "wāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "waiting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stay where one is or delay action until a particular time or until something else happens.",
+            "examples": [
+              "he did not wait for a reply"
+            ],
+            "synonyms": [
+              "hold on",
+              "hold back",
+              "bide one's time",
+              "hang fire",
+              "mark time",
+              "stand by",
+              "sit tight",
+              "hold one's horses More\"Joey waited until she nodded\"await; anticipate",
+              "look forward",
+              "long",
+              "pine",
+              "yearn",
+              "expect",
+              "be ready \"they were waiting for the kettle to boil\""
+            ]
+          },
+          {
+            "definition": "stay where one is or delay action until (someone) arrives or is ready.",
+            "examples": [
+              "he sits on the corner waiting for Mary"
+            ]
+          },
+          {
+            "definition": "remain in readiness for some purpose.",
+            "examples": [
+              "he found the train waiting at the platform"
+            ],
+            "synonyms": [
+              "stay (put)",
+              "remain",
+              "rest",
+              "stop",
+              "halt",
+              "pause; Morelinger",
+              "loiter",
+              "dally; informalstick around",
+              "hang out",
+              "hang around",
+              "kill time",
+              "waste time",
+              "kick one's heels",
+              "twiddle one's thumbs; archaictarry \"Jill waited while Jack fetched the water\""
+            ]
+          },
+          {
+            "definition": "be left until a later time before being dealt with.",
+            "examples": [
+              "we shall need a statement later, but that will have to wait"
+            ],
+            "synonyms": [
+              "be postponed",
+              "be delayed",
+              "be put off",
+              "be deferred; Moreinformalbe put on the back burner",
+              "be put on ice \"the movie will have to wait\""
+            ]
+          },
+          {
+            "definition": "defer (a meal) until a person's arrival.",
+            "examples": [
+              "he will wait supper for me"
+            ]
+          },
+          {
+            "definition": "used to indicate that one is eagerly impatient to do something or for something to happen.",
+            "examples": [
+              "I can't wait for tomorrow"
+            ]
+          },
+          {
+            "definition": "act as a waiter or waitress, serving food and drink.",
+            "examples": [
+              "a local man was employed to wait on them at table"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "word": "dowse",
+  "syllables": [
+    "dowse"
+  ],
+  "pronunciation": "douz",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "gerund or present participle",
+          "variant": "dowsing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "practice dowsing.",
+          "examples": [
+            "water is easy to dowse for"
+          ]
+        },
+        {
+          "definition": "search for or discover by dowsing.",
+          "examples": [
+            "he dowsed a spiral of energy on the stone"
+          ]
+        }
+      ]
+    }
+  ]
+}

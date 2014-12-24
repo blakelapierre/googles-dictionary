@@ -1,0 +1,32 @@
+{
+  "word": "in-",
+  "syllables": [
+    "in-"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "prefix",
+      "variants": [
+        {
+          "part": "prefix",
+          "variant": "in-"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(added to adjectives) not.",
+          "examples": [
+            "inanimate"
+          ]
+        },
+        {
+          "definition": "(added to nouns) without; lacking.",
+          "examples": [
+            "inadvertence"
+          ]
+        }
+      ]
+    }
+  ]
+}

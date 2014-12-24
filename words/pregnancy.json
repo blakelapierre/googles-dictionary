@@ -1,0 +1,38 @@
+[
+  {
+    "word": "pregnancy",
+    "syllables": [
+      "preg",
+      "nan",
+      "cy"
+    ],
+    "pronunciation": "ˈpreɡnənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pregnancy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pregnancies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the condition or period of being pregnant.",
+            "examples": [
+              "the first weeks of pregnancy"
+            ],
+            "synonyms": [
+              "gestation; Morerareparturiency",
+              "gravidity \"how far along is she in the pregnancy?\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

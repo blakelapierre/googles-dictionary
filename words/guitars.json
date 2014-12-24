@@ -1,0 +1,26 @@
+[
+  {
+    "word": "guitar",
+    "syllables": [
+      "gui",
+      "tar"
+    ],
+    "pronunciation": "ɡəˈtär",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "guitars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a stringed musical instrument with a fretted fingerboard, typically incurved sides, and six or twelve strings, played by plucking or strumming with the fingers or a plectrum."
+          }
+        ]
+      }
+    ]
+  }
+]

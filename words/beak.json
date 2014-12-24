@@ -1,0 +1,44 @@
+[
+  {
+    "word": "beak",
+    "syllables": [
+      "beak"
+    ],
+    "pronunciation": "bēk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "beak"
+          },
+          {
+            "part": "plural noun",
+            "variant": "beaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a bird's horny projecting jaws; a bill.",
+            "examples": [
+              "bill, nib, mandible a bird's beak"
+            ]
+          },
+          {
+            "definition": "the horny projecting jaw of animals other than birds, for example a turtle or squid."
+          },
+          {
+            "definition": "a person's nose, especially a hooked one.",
+            "examples": [
+              "she can't wait to stick her beak in"
+            ]
+          },
+          {
+            "definition": "a projection at the prow of an ancient warship, typically shaped to resemble the head of a bird or other animal, used to pierce the hulls of enemy ships."
+          }
+        ]
+      }
+    ]
+  }
+]

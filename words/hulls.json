@@ -1,0 +1,85 @@
+[
+  {
+    "word": "hull",
+    "syllables": [
+      "hull"
+    ],
+    "pronunciation": "həl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "hulls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the main body of a ship or other vessel, including the bottom, sides, and deck but not the masts, superstructure, rigging, engines, and other fittings.",
+            "examples": [
+              "framework, body, shell, frame, skeleton, structure; fuselage the ship's hull"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "hulls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hit and pierce the hull of (a ship) with a shell or other missile."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hull",
+    "syllables": [
+      "hull"
+    ],
+    "pronunciation": "həl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "hulls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the outer covering of a fruit or seed, especially the pod of peas and beans, or the husk of grain.",
+            "examples": [
+              "shell, husk, pod, case, covering, integument, calyx, shuck; Morepericarp, legume \"seed hulls\"Morepericarp, legume seed hulls"
+            ]
+          },
+          {
+            "definition": "the green calyx of a strawberry or raspberry."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "hulls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove the hulls from (fruit, seeds, or grain)."
+          }
+        ]
+      }
+    ]
+  }
+]

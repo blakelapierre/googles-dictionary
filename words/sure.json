@@ -1,0 +1,165 @@
+[
+  {
+    "word": "sure",
+    "syllables": [
+      "sure"
+    ],
+    "pronunciation": "SHo͝or",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sure"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "surer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "surest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "confident in what one thinks or knows; having no doubt that one is right.",
+            "examples": [
+              "I'm sure I've seen that dress before"
+            ],
+            "synonyms": [
+              "certain",
+              "positive",
+              "convinced",
+              "confident",
+              "definite",
+              "assured",
+              "satisfied",
+              "persuaded; Moreunhesitating",
+              "unwavering",
+              "unshakable \"I am sure that they didn't know\""
+            ],
+            "antonyms": [
+              "uncertain",
+              "doubtful"
+            ]
+          },
+          {
+            "definition": "having a certain prospect or confident anticipation of.",
+            "examples": [
+              "Ripken can be sure of a place in the Hall of Fame"
+            ]
+          },
+          {
+            "definition": "certain to do something.",
+            "examples": [
+              "it's sure to rain before morning"
+            ],
+            "synonyms": [
+              "bound",
+              "likely",
+              "destined",
+              "fated \"someone was sure to be blamed\""
+            ],
+            "antonyms": [
+              "unlikely"
+            ]
+          },
+          {
+            "definition": "true beyond any doubt.",
+            "examples": [
+              "what is sure is that learning is a complex business"
+            ],
+            "synonyms": [
+              "unquestionable",
+              "indisputable",
+              "irrefutable",
+              "incontrovertible",
+              "undeniable",
+              "indubitable",
+              "undoubted",
+              "absolute",
+              "categorical",
+              "true",
+              "certain; Moreobvious",
+              "evident",
+              "plain",
+              "clear",
+              "conclusive",
+              "definite \"he entered in the sure knowledge that he would win\""
+            ]
+          },
+          {
+            "definition": "able to be relied on or trusted.",
+            "examples": [
+              "her neck was red—a sure sign of agitation"
+            ],
+            "synonyms": [
+              "guaranteed",
+              "unfailing",
+              "infallible",
+              "unerring",
+              "assured",
+              "certain",
+              "inevitable; Moreinformalsure-fire \"a sure winner with the children\"reliable",
+              "dependable",
+              "trustworthy",
+              "unfailing",
+              "infallible",
+              "certain",
+              "unambiguous",
+              "true",
+              "foolproof",
+              "established",
+              "effective; informalsure-fire; formalefficacious \"a sure sign that he's worried\""
+            ],
+            "antonyms": [
+              "uncertain",
+              "unlikely"
+            ]
+          },
+          {
+            "definition": "confident; assured.",
+            "examples": [
+              "the drawings impress by their sure sense of rhythm"
+            ],
+            "synonyms": [
+              "firm",
+              "steady",
+              "stable",
+              "secure",
+              "confident",
+              "steadfast",
+              "unfaltering",
+              "unwavering \"the sure hand of the soloist\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverbNorth Americaninformal",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "sure"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "certainly (used for emphasis).",
+            "examples": [
+              "Texas sure was a great place to grow up"
+            ]
+          },
+          {
+            "definition": "used to show assent.",
+            "examples": [
+              "exclamation: sure"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

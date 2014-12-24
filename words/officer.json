@@ -1,0 +1,103 @@
+[
+  {
+    "word": "officer",
+    "syllables": [
+      "of",
+      "fi",
+      "cer"
+    ],
+    "pronunciation": "ˈôfisərˈäfisər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "officer"
+          },
+          {
+            "part": "plural noun",
+            "variant": "officers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person holding a position of command or authority in the armed services, in the merchant marine, or on a passenger ship.",
+            "examples": [
+              "official, officeholder, committee member, board member; Morepublic servant, administrator, executive, functionary, bureaucrat; derogatoryapparatchik \"the officers of the society\"Morepublic servant, administrator, executive, functionary, bureaucrat; apparatchik the officers of the society"
+            ]
+          },
+          {
+            "definition": "a policeman or policewoman.",
+            "examples": [
+              "police officer, policeman, policewoman, officer of the law, law-enforcement officer/agent, peace officer, patrolman, trooper; Moreinformalcop, copper, flatfoot \"all the officers in this precinct carry guns\"Morecop, copper, flatfoot all the officers in this precinct carry guns"
+            ]
+          },
+          {
+            "definition": "a bailiff."
+          },
+          {
+            "definition": "a holder of a public, civil, or ecclesiastical office.",
+            "examples": [
+              "a probation officer"
+            ],
+            "synonyms": [
+              "representative",
+              "deputy",
+              "agent",
+              "envoy \"officers of the court\""
+            ]
+          },
+          {
+            "definition": "a holder of a post in a society, company, or other organization, especially one who is involved at a senior level in its management.",
+            "examples": [
+              "a chief executive officer"
+            ]
+          },
+          {
+            "definition": "a member of a certain grade in some honorary orders."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "officer"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "officers"
+          },
+          {
+            "part": "past tense",
+            "variant": "officered"
+          },
+          {
+            "part": "past participle",
+            "variant": "officered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "officering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide with military officers.",
+            "examples": [
+              "the aristocracy continued to wield considerable political power, officering the army"
+            ]
+          },
+          {
+            "definition": "act as the commander of (a unit).",
+            "examples": [
+              "foreign mercenaries were hired to officer new regiments"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "address",
+    "syllables": [
+      "ad",
+      "dress"
+    ],
+    "pronunciation": "əˈdresˈaˌdres",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "addressed"
+          },
+          {
+            "part": "past participle",
+            "variant": "addressed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "write the name and address of the intended recipient on (an envelope, letter, or package).",
+            "examples": [
+              "I addressed my letter to him personally"
+            ],
+            "synonyms": [
+              "inscribe",
+              "superscribe More\"I addressed the envelope by hand\"direct",
+              "send",
+              "forward",
+              "communicate",
+              "convey",
+              "route",
+              "remit \"correspondence should be addressed to the Human Resources Department\""
+            ]
+          },
+          {
+            "definition": "speak to (a person or an assembly), typically in a formal way.",
+            "examples": [
+              "she addressed an audience of the most important Shawnee chiefs"
+            ],
+            "synonyms": [
+              "talk to",
+              "give a talk to",
+              "speak to",
+              "make a speech to",
+              "give a lecture to",
+              "lecture",
+              "hold forth to; Morepreach to",
+              "give a sermon to; informalbuttonhole",
+              "collar \"Rev. Lally addressed a crowded congregation\""
+            ]
+          },
+          {
+            "definition": "name someone in a specified way when talking or writing.",
+            "examples": [
+              "she addressed my father as “Mr. Stevens.”"
+            ],
+            "synonyms": [
+              "call",
+              "name",
+              "designate; Morespeak to; formaldenominate \"the question of how to address one's parents-in-law\""
+            ]
+          },
+          {
+            "definition": "say or write remarks or a protest to (someone).",
+            "examples": [
+              "address your complaints to the Board of Review"
+            ]
+          },
+          {
+            "definition": "think about and begin to deal with (an issue or problem).",
+            "examples": [
+              "a fundamental problem has still to be addressed"
+            ],
+            "synonyms": [
+              "attend to",
+              "apply oneself to",
+              "tackle",
+              "see to",
+              "deal with",
+              "confront",
+              "come to grips with",
+              "get down to",
+              "turn one's hand to",
+              "take in hand",
+              "undertake",
+              "concentrate on",
+              "focus on",
+              "devote oneself to \"the selectmen failed to address the issue of subsidies\""
+            ]
+          },
+          {
+            "definition": "take up one's stance and prepare to hit (the ball)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "word": "lens",
+  "syllables": [
+    "lens"
+  ],
+  "pronunciation": "lenz",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "lenses"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a piece of glass or other transparent substance with curved sides for concentrating or dispersing light rays, used singly (as in a magnifying glass) or with other lenses (as in a telescope)."
+        },
+        {
+          "definition": "the light-gathering device of a camera, typically containing a group of compound lenses."
+        },
+        {
+          "definition": "an object or device that focuses or otherwise modifies the direction of movement of light, sound, electrons, etc."
+        },
+        {
+          "definition": "short for crystalline lens."
+        },
+        {
+          "definition": "short for contact lens."
+        }
+      ]
+    }
+  ]
+}

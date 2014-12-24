@@ -1,0 +1,49 @@
+[
+  {
+    "word": "fulfillment",
+    "syllables": [
+      "ful",
+      "fill",
+      "ment"
+    ],
+    "pronunciation": "fo͝olˈfilmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fulfilment"
+          },
+          {
+            "part": "noun",
+            "variant": "fulfillment"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "satisfaction or happiness as a result of fully developing one's abilities or character.",
+            "examples": [
+              "she did not believe that marriage was the key to happiness and fulfillment"
+            ]
+          },
+          {
+            "definition": "the achievement of something desired, promised, or predicted.",
+            "examples": [
+              "winning the championship was the fulfillment of a childhood dream"
+            ]
+          },
+          {
+            "definition": "the meeting of a requirement or condition.",
+            "examples": [
+              "plural noun: fulfilments; plural noun: fulfillments"
+            ]
+          },
+          {
+            "definition": "the performance of a task, duty, or role as required, pledged, or expected."
+          }
+        ]
+      }
+    ]
+  }
+]

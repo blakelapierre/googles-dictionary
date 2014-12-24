@@ -1,0 +1,65 @@
+[
+  {
+    "word": "virtual",
+    "syllables": [
+      "vir",
+      "tu",
+      "al"
+    ],
+    "pronunciation": "ˈvərCH(əw)əl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "virtual"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "almost or nearly as described, but not completely or according to strict definition.",
+            "examples": [
+              "the virtual absence of border controls"
+            ],
+            "synonyms": [
+              "effective",
+              "in effect",
+              "near",
+              "near enough",
+              "essential",
+              "practical",
+              "to all intents and purposes \"a virtual guarantee\""
+            ]
+          },
+          {
+            "definition": "not physically existing as such but made by software to appear to do so.",
+            "examples": [
+              "a virtual computer"
+            ],
+            "synonyms": [
+              "simulated",
+              "artificial",
+              "imitation",
+              "make-believe; Morecomputer-generated",
+              "online",
+              "virtual reality \"a virtual shopping environment\""
+            ]
+          },
+          {
+            "definition": "carried out, accessed, or stored by means of a computer, especially over a network.",
+            "examples": [
+              "a virtual library"
+            ]
+          },
+          {
+            "definition": "relating to the points at which rays would meet if produced backward."
+          },
+          {
+            "definition": "denoting particles or interactions with extremely short lifetimes and (owing to the uncertainty principle) indefinitely great energies, postulated as intermediates in some processes."
+          }
+        ]
+      }
+    ]
+  }
+]

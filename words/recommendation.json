@@ -1,0 +1,58 @@
+[
+  {
+    "word": "recommendation",
+    "syllables": [
+      "rec",
+      "om",
+      "men",
+      "da",
+      "tion"
+    ],
+    "pronunciation": "ˌrekəmənˈdāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "recommendation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "recommendations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a suggestion or proposal as to the best course of action, especially one put forward by an authoritative body.",
+            "examples": [
+              "the committee put forward forty recommendations for change"
+            ],
+            "synonyms": [
+              "advice",
+              "counsel",
+              "guidance",
+              "direction",
+              "suggestion",
+              "proposal \"the advisory group's recommendations\""
+            ]
+          },
+          {
+            "definition": "the action of recommending something or someone.",
+            "examples": [
+              "he selected his staff by personal recommendation"
+            ],
+            "synonyms": [
+              "commendation",
+              "endorsement",
+              "good word",
+              "favorable mention",
+              "testimonial; Moresuggestion",
+              "tip; informalplug \"a personal recommendation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

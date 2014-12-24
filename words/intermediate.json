@@ -1,0 +1,43 @@
+{
+  "word": "intermediate",
+  "syllables": [
+    "in",
+    "ter",
+    "me",
+    "di",
+    "ate"
+  ],
+  "pronunciation": "ˌin(t)ərˈmēdēətˌin(t)ərˈmēdēāt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "intermediates"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an intermediate thing."
+        },
+        {
+          "definition": "a person at an intermediate level of knowledge or skill."
+        },
+        {
+          "definition": "a chemical compound formed by one reaction and then taking part in another, especially during synthesis."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "intermediates"
+        }
+      ],
+      "definitions": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "isospin",
+    "syllables": [
+      "i",
+      "so",
+      "spin"
+    ],
+    "pronunciation": "ˈīsəˌspin",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "isospin"
+          },
+          {
+            "part": "plural noun",
+            "variant": "isospins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vector quantity or quantum number assigned to subatomic particles and atomic nuclei and having values such that similar particles differing only in charge-related properties (independent of the strong interaction between particles) can be treated as different states of a single particle."
+          }
+        ]
+      }
+    ]
+  }
+]

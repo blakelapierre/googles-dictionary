@@ -1,0 +1,69 @@
+[
+  {
+    "word": "derivation",
+    "syllables": [
+      "der",
+      "i",
+      "va",
+      "tion"
+    ],
+    "pronunciation": "ˌderəˈvāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "derivation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "derivations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the obtaining or developing of something from a source or origin.",
+            "examples": [
+              "the derivation of scientific laws from observation"
+            ],
+            "synonyms": [
+              "deriving",
+              "induction",
+              "deduction",
+              "inference; Moreextraction",
+              "eliciting \"the derivation of theories from empirical observation\""
+            ]
+          },
+          {
+            "definition": "the formation of a word from another word or from a root in the same or another language.",
+            "examples": [
+              "origin, etymology, root, etymon, provenance, source; Moreorigination, beginning, foundation, basis, cause; development, evolution \"the derivation of a word\"Moreorigination, beginning, foundation, basis, cause; development, evolution the derivation of a word"
+            ]
+          },
+          {
+            "definition": "origin; extraction.",
+            "examples": [
+              "music of primarily Turkish derivation"
+            ]
+          },
+          {
+            "definition": "something derived; a derivative.",
+            "examples": [
+              "the derivation “sheepish” has six definitions"
+            ]
+          },
+          {
+            "definition": "in generative grammar, the set of stages that link the abstract underlying structure of an expression to its surface form."
+          },
+          {
+            "definition": "the process of deducing a new formula, theorem, etc., from previously accepted statements."
+          },
+          {
+            "definition": "a sequence of statements showing that a formula, theorem, etc., is a consequence of previously accepted statements."
+          }
+        ]
+      }
+    ]
+  }
+]

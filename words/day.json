@@ -1,0 +1,112 @@
+[
+  {
+    "word": "day",
+    "syllables": [
+      "day"
+    ],
+    "pronunciation": "dā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "day"
+          },
+          {
+            "part": "plural noun",
+            "variant": "days"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a period of twenty-four hours as a unit of time, reckoned from one midnight to the next, corresponding to a rotation of the earth on its axis.",
+            "examples": [
+              "a twenty-four-hour period, twenty-four hours I stayed for a day"
+            ]
+          },
+          {
+            "definition": "the part of a day when it is light; the time between sunrise and sunset.",
+            "examples": [
+              "she sleeps all day and goes out at night"
+            ],
+            "synonyms": [
+              "daytime",
+              "daylight; waking hours \"enjoy the beach during the day\""
+            ],
+            "antonyms": [
+              "night"
+            ]
+          },
+          {
+            "definition": "the part of a day spent working.",
+            "examples": [
+              "he works an eight-hour day"
+            ]
+          },
+          {
+            "definition": "a single rotation of a planet in relation to its primary."
+          },
+          {
+            "definition": "the period on a planet when its primary star is above the horizon."
+          },
+          {
+            "definition": "daylight.",
+            "examples": [
+              "by the time they had all gone it was broad day"
+            ]
+          },
+          {
+            "definition": "a particular period of the past; an era.",
+            "examples": [
+              "the laws were very strict in those days"
+            ],
+            "synonyms": [
+              "period",
+              "time",
+              "age",
+              "era",
+              "generation \"the leading architect of the day\""
+            ]
+          },
+          {
+            "definition": "the present time.",
+            "examples": [
+              "noun: the day"
+            ]
+          },
+          {
+            "definition": "a day associated with a particular event or purpose.",
+            "examples": [
+              "graduation day"
+            ]
+          },
+          {
+            "definition": "a day's endeavor, or the period of an endeavor, especially as bringing success.",
+            "examples": [
+              "speed and surprise would win the day"
+            ]
+          },
+          {
+            "definition": "a particular period in a person's life or career.",
+            "examples": [
+              "my student days"
+            ]
+          },
+          {
+            "definition": "the successful, fortunate, or influential period of a person's life or career.",
+            "examples": [
+              "noun: one's day; plural noun: one's days"
+            ]
+          },
+          {
+            "definition": "the span of someone's life.",
+            "examples": [
+              "plural noun: one's days"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

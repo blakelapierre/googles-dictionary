@@ -1,0 +1,53 @@
+{
+  "word": "-a",
+  "syllables": [
+    "-a"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "suffix",
+      "variants": [
+        {
+          "part": "suffix",
+          "variant": "-a"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "forming:"
+        },
+        {
+          "definition": "ancient or Latinized modern names of animals and plants.",
+          "examples": [
+            "primula"
+          ]
+        },
+        {
+          "definition": "names of oxides.",
+          "examples": [
+            "baryta"
+          ]
+        },
+        {
+          "definition": "geographical names.",
+          "examples": [
+            "Africa"
+          ]
+        },
+        {
+          "definition": "ancient or Latinized modern feminine forenames.",
+          "examples": [
+            "Lydia"
+          ]
+        },
+        {
+          "definition": "nouns from Italian, Portuguese, and Spanish.",
+          "examples": [
+            "duenna"
+          ]
+        }
+      ]
+    }
+  ]
+}

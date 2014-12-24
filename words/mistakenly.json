@@ -1,0 +1,56 @@
+[
+  {
+    "word": "mistakenly",
+    "syllables": [
+      "mis",
+      "tak",
+      "en",
+      "ly"
+    ],
+    "pronunciation": "məˈstākənlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "mistakenly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a mistaken way; wrongly.",
+            "examples": [
+              "they mistakenly believed her to be pregnant"
+            ],
+            "synonyms": [
+              "wrongly",
+              "in error",
+              "erroneously",
+              "incorrectly",
+              "falsely",
+              "fallaciously",
+              "inaccurately More\"she mistakenly assumed that she knew him\"by accident",
+              "accidentally",
+              "inadvertently",
+              "unintentionally",
+              "unwittingly",
+              "unconsciously",
+              "by mistake \"Matt mistakenly opened the letter\""
+            ],
+            "antonyms": [
+              "correctly",
+              "intentionally"
+            ]
+          },
+          {
+            "definition": "by accident or oversight; accidentally.",
+            "examples": [
+              "warplanes mistakenly bombed a village"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

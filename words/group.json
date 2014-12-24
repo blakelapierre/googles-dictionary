@@ -1,0 +1,217 @@
+{
+  "word": "group",
+  "syllables": [
+    "group"
+  ],
+  "pronunciation": "ɡro͞op",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "group"
+        },
+        {
+          "part": "plural noun",
+          "variant": "groups"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a number of people or things that are located close together or are considered or classed together.",
+          "examples": [
+            "these bodies fall into four distinct groups"
+          ],
+          "synonyms": [
+            "category",
+            "class",
+            "classification",
+            "grouping",
+            "set",
+            "lot",
+            "batch",
+            "bracket",
+            "type",
+            "sort",
+            "kind",
+            "variety",
+            "family",
+            "species",
+            "genus",
+            "breed; Moregrade",
+            "grading",
+            "rank",
+            "status \"the exhibits were divided into three distinct groups\"crowd",
+            "party",
+            "body",
+            "band",
+            "company",
+            "gathering",
+            "congregation",
+            "assembly",
+            "collection",
+            "cluster",
+            "flock",
+            "pack",
+            "troop",
+            "gang; informalbunch",
+            "pile \"a group of tourists\"cluster",
+            "knot",
+            "collection",
+            "mass",
+            "clump \"a small group of trees\""
+          ]
+        },
+        {
+          "definition": "a number of people who work together or share certain beliefs.",
+          "examples": [
+            "I now belong to my local drama group"
+          ],
+          "synonyms": [
+            "faction",
+            "division",
+            "section",
+            "clique",
+            "coterie",
+            "circle",
+            "set",
+            "ring",
+            "camp",
+            "bloc",
+            "caucus",
+            "cabal",
+            "fringe movement",
+            "splinter group More\"a coup attempt by a group within the legislature\"association",
+            "club",
+            "society",
+            "league",
+            "guild",
+            "circle",
+            "union",
+            "sorority",
+            "fraternity \"the women's group\""
+          ]
+        },
+        {
+          "definition": "a commercial organization consisting of several companies under common ownership.",
+          "examples": [
+            "association, club, society, league, guild, circle, union, sorority, fraternity the women's group"
+          ]
+        },
+        {
+          "definition": "a number of musicians who play popular music together.",
+          "examples": [
+            "band, ensemble, act; Moreinformalcombo, outfit \"a local singing group\"Morecombo, outfit a local singing group"
+          ]
+        },
+        {
+          "definition": "a unit of the US Air Force, consisting of two or more squadrons."
+        },
+        {
+          "definition": "a unit of the US Army, consisting of two or more battalions."
+        },
+        {
+          "definition": "two or more figures or objects forming a design."
+        },
+        {
+          "definition": "a set of elements occupying a column in the periodic table and having broadly similar properties arising from their similar electronic structure."
+        },
+        {
+          "definition": "a combination of atoms having a recognizable identity in a number of compounds."
+        },
+        {
+          "definition": "a set of elements, together with an associative binary operation, that contains an inverse for each element and an identity element."
+        },
+        {
+          "definition": "a stratigraphic division consisting of two or more formations."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "group"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "groups"
+        },
+        {
+          "part": "past tense",
+          "variant": "grouped"
+        },
+        {
+          "part": "past participle",
+          "variant": "grouped"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "grouping"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "put together or place in a group or groups.",
+          "examples": [
+            "three wooden chairs were grouped around a dining table"
+          ],
+          "synonyms": [
+            "place",
+            "arrange",
+            "assemble",
+            "organize",
+            "range",
+            "line up",
+            "dispose \"extra chairs were grouped around the table\""
+          ]
+        },
+        {
+          "definition": "put into categories; classify.",
+          "examples": [
+            "we group them into species merely as a convenience"
+          ],
+          "synonyms": [
+            "categorize",
+            "classify",
+            "class",
+            "catalog",
+            "sort",
+            "bracket",
+            "pigeonhole",
+            "grade",
+            "rate",
+            "rank; Moreprioritize",
+            "triage \"patients were grouped according to their symptoms\""
+          ]
+        },
+        {
+          "definition": "form a group or groups.",
+          "examples": [
+            "many growers began to group together to form cooperatives"
+          ],
+          "synonyms": [
+            "unite",
+            "join together/up",
+            "team up",
+            "gang up",
+            "join forces",
+            "get together",
+            "ally",
+            "form an alliance",
+            "affiliate",
+            "combine",
+            "marry",
+            "merge",
+            "pool resources; Morecollaborate",
+            "work together",
+            "pull together",
+            "cooperate \"the two parties grouped together\""
+          ]
+        }
+      ]
+    }
+  ]
+}

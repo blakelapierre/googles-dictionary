@@ -1,0 +1,477 @@
+[
+  {
+    "word": "line",
+    "syllables": [
+      "line"
+    ],
+    "pronunciation": "līn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "lines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long, narrow mark or band.",
+            "examples": [
+              "a row of closely spaced dots will look like a continuous line"
+            ],
+            "synonyms": [
+              "dash",
+              "rule",
+              "bar",
+              "score; Moreunderline",
+              "underscore",
+              "stroke",
+              "slash; technicalstria",
+              "striation \"he drew a line through the name\""
+            ]
+          },
+          {
+            "definition": "a straight or curved continuous extent of length without breadth."
+          },
+          {
+            "definition": "a positioning or movement of a thing or things that creates or appears to follow a line.",
+            "examples": [
+              "her mouth set in an angry line"
+            ],
+            "synonyms": [
+              "course",
+              "route",
+              "track",
+              "path",
+              "way",
+              "run \"a line of flight\""
+            ]
+          },
+          {
+            "definition": "a furrow or wrinkle in the skin of the face or hands.",
+            "examples": [
+              "wrinkle, furrow, crease, groove, crinkle, crow's foot, laugh line there were lines around her eyes"
+            ]
+          },
+          {
+            "definition": "a contour or outline considered as a feature of design or composition.",
+            "examples": [
+              "crisp architectural lines"
+            ],
+            "synonyms": [
+              "contour",
+              "outline",
+              "configuration",
+              "shape",
+              "figure",
+              "delineation",
+              "profile \"the classic lines of the exterior\""
+            ]
+          },
+          {
+            "definition": "(on a map or graph) a curve connecting all points having a specified common property."
+          },
+          {
+            "definition": "a line marking the starting or finishing point in a race."
+          },
+          {
+            "definition": "a line marked on a field or court that relates to the rules of a game or sport."
+          },
+          {
+            "definition": "the line of scrimmage."
+          },
+          {
+            "definition": "the equator.",
+            "examples": [
+              "noun: Line; noun: the Line"
+            ]
+          },
+          {
+            "definition": "a notional limit or boundary.",
+            "examples": [
+              "the issue of peace cut across class lines"
+            ],
+            "synonyms": [
+              "boundary",
+              "boundary line",
+              "limit",
+              "border",
+              "borderline",
+              "demarcation line",
+              "dividing line",
+              "edge",
+              "margin",
+              "perimeter",
+              "frontier \"the line between Canada and the United States\""
+            ]
+          },
+          {
+            "definition": "each of the very narrow horizontal sections forming a television picture."
+          },
+          {
+            "definition": "a narrow range of the spectrum noticeably brighter or darker than the adjacent parts."
+          },
+          {
+            "definition": "the level of the base of most letters, such as h and x, in printing and writing.",
+            "examples": [
+              "noun: the line"
+            ]
+          },
+          {
+            "definition": "denoting an illustration or graphic consisting of lines and solid areas, with no gradation of tone.",
+            "examples": [
+              "modifier noun: line"
+            ]
+          },
+          {
+            "definition": "each of (usually five) horizontal lines forming a staff in musical notation."
+          },
+          {
+            "definition": "a sequence of notes or tones forming an instrumental or vocal melody.",
+            "examples": [
+              "a powerful melodic line"
+            ]
+          },
+          {
+            "definition": "a dose of a powdered narcotic or hallucinatory drug, especially cocaine or heroin, laid out in a line."
+          },
+          {
+            "definition": "a length of cord, rope, wire, or other material serving a particular purpose.",
+            "examples": [
+              "wring the clothes and hang them on the line"
+            ],
+            "synonyms": [
+              "clothesline; Morecord",
+              "rope",
+              "string",
+              "cable",
+              "wire",
+              "thread",
+              "twine",
+              "strand \"he put the wash on the line\""
+            ]
+          },
+          {
+            "definition": "a telephone connection.",
+            "examples": [
+              "she had a crank on the line"
+            ]
+          },
+          {
+            "definition": "a railroad track."
+          },
+          {
+            "definition": "a branch or route of a railroad system.",
+            "examples": [
+              "the Philadelphia to Baltimore line"
+            ]
+          },
+          {
+            "definition": "a company that provides ships, aircraft, or buses on particular routes on a regular basis.",
+            "examples": [
+              "a major shipping line"
+            ]
+          },
+          {
+            "definition": "a horizontal row of written or printed words."
+          },
+          {
+            "definition": "a part of a poem forming one row of written or printed words.",
+            "examples": [
+              "each stanza has eight lines"
+            ],
+            "synonyms": [
+              "sentence",
+              "phrase",
+              "clause",
+              "utterance; Morepassage",
+              "extract",
+              "quotation",
+              "quote",
+              "citation \"the opening line of the poem\""
+            ]
+          },
+          {
+            "definition": "the words of an actor's part in a play or film.",
+            "examples": [
+              "words, part, script, speech he couldn't remember his lines"
+            ]
+          },
+          {
+            "definition": "an amount of text or number of repetitions of a sentence written out as a school punishment."
+          },
+          {
+            "definition": "a row of people or things.",
+            "examples": [
+              "a line of acolytes proceeded down the aisle"
+            ]
+          },
+          {
+            "definition": "a row or sequence of people or vehicles awaiting their turn to be attended to or to proceed."
+          },
+          {
+            "definition": "a connected series of people following one another in time (used especially of several generations of a family).",
+            "examples": [
+              "we follow the history of a family through the male line"
+            ],
+            "synonyms": [
+              "ancestry",
+              "family",
+              "parentage",
+              "birth",
+              "descent",
+              "lineage",
+              "extraction",
+              "genealogy",
+              "roots",
+              "origin",
+              "background; Morestock",
+              "bloodline",
+              "pedigree \"a noble line\""
+            ]
+          },
+          {
+            "definition": "(in football, hockey, etc.) a set of players in the forwardmost positions for offense or defense."
+          },
+          {
+            "definition": "one of the positions on the line of scrimmage."
+          },
+          {
+            "definition": "a series of related things.",
+            "examples": [
+              "the bill is the latest in a long line of measures to protect society from criminals"
+            ],
+            "synonyms": [
+              "series",
+              "sequence",
+              "succession",
+              "chain",
+              "string",
+              "set",
+              "cycle \"a long line of bad decisions\""
+            ]
+          },
+          {
+            "definition": "a range of commercial goods.",
+            "examples": [
+              "the company intends to hire more people and expand its product line"
+            ],
+            "synonyms": [
+              "brand",
+              "kind",
+              "sort",
+              "type",
+              "variety",
+              "make \"a new line of cologne\""
+            ]
+          },
+          {
+            "definition": "a false or exaggerated account or story.",
+            "examples": [
+              "he feeds me a line about this operation"
+            ],
+            "synonyms": [
+              "story",
+              "piece of fiction",
+              "fabrication; informalspiel \"he fed me a line\""
+            ]
+          },
+          {
+            "definition": "the point spread for sports events on which bets may be made."
+          },
+          {
+            "definition": "an area or branch of activity.",
+            "examples": [
+              "the stresses unique to their line of work"
+            ],
+            "synonyms": [
+              "line of work",
+              "work",
+              "line of business",
+              "business",
+              "field",
+              "trade",
+              "occupation",
+              "employment",
+              "profession",
+              "job",
+              "career",
+              "specialty",
+              "forte",
+              "province",
+              "department",
+              "sphere",
+              "area",
+              "area of expertise \"my line is engineering\""
+            ]
+          },
+          {
+            "definition": "a direction, course, or channel.",
+            "examples": [
+              "lines of communication"
+            ],
+            "synonyms": [
+              "course of action",
+              "course",
+              "procedure",
+              "technique",
+              "tactic",
+              "tack; Morepolicy",
+              "practice",
+              "approach",
+              "plan",
+              "program",
+              "position",
+              "stance",
+              "philosophy \"they took a very tough line with the industry\""
+            ]
+          },
+          {
+            "definition": "a manner of doing or thinking about something.",
+            "examples": [
+              "you can't run a business on these lines"
+            ],
+            "synonyms": [
+              "course of action",
+              "course",
+              "procedure",
+              "technique",
+              "tactic",
+              "tack; Morepolicy",
+              "practice",
+              "approach",
+              "plan",
+              "program",
+              "position",
+              "stance",
+              "philosophy \"they took a very tough line with the industry\"course",
+              "direction",
+              "drift",
+              "tack",
+              "tendency",
+              "trend \"her own line of thought\""
+            ]
+          },
+          {
+            "definition": "an agreed-upon approach; a policy.",
+            "examples": [
+              "the official line is that there were no chemical attacks on allied troops"
+            ]
+          },
+          {
+            "definition": "a connected series of military fieldworks or defenses facing an enemy force.",
+            "examples": [
+              "raids behind enemy lines"
+            ],
+            "synonyms": [
+              "position",
+              "formation",
+              "defense",
+              "fieldwork",
+              "front (line); trenches \"behind enemy lines\""
+            ]
+          },
+          {
+            "definition": "an arrangement of soldiers or ships in a column or line formation; a line of battle.",
+            "examples": [
+              "row, file, lineup, queue they waited in a line"
+            ]
+          },
+          {
+            "definition": "regular army regiments (as opposed to auxiliary forces or household troops).",
+            "examples": [
+              "noun: the line"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "lines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stand or be positioned at intervals along.",
+            "examples": [
+              "a processional route lined by people waving flags"
+            ],
+            "synonyms": [
+              "border",
+              "edge",
+              "fringe",
+              "bound",
+              "rim \"the driveway was lined by poplars\""
+            ]
+          },
+          {
+            "definition": "mark or cover with lines.",
+            "examples": [
+              "a thin woman with a lined face"
+            ],
+            "synonyms": [
+              "furrow",
+              "wrinkle",
+              "crease",
+              "pucker",
+              "mark with lines \"her face was lined with age\""
+            ]
+          },
+          {
+            "definition": "hit a line drive."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "line",
+    "syllables": [
+      "line"
+    ],
+    "pronunciation": "līn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "lines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover the inside surface of (a container or garment) with a layer of different material.",
+            "examples": [
+              "a basket lined with polyethylene"
+            ],
+            "synonyms": [
+              "put a lining in",
+              "interline",
+              "face",
+              "back",
+              "pad \"they lined the handbags with a quilted rayon\""
+            ]
+          },
+          {
+            "definition": "form a layer on the inside surface of (an area); cover as if with a lining.",
+            "examples": [
+              "hundreds of telegrams lined the walls"
+            ],
+            "synonyms": [
+              "put a lining in",
+              "interline",
+              "face",
+              "back",
+              "pad \"they lined the handbags with a quilted rayon\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

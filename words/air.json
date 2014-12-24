@@ -1,0 +1,182 @@
+{
+  "word": "air",
+  "syllables": [
+    "air"
+  ],
+  "pronunciation": "er",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "air"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen."
+        },
+        {
+          "definition": "air regarded as necessary for breathing.",
+          "examples": [
+            "the air was stale"
+          ]
+        },
+        {
+          "definition": "the free or unconfined space above the surface of the earth.",
+          "examples": [
+            "he celebrated by tossing his hat high in the air"
+          ],
+          "synonyms": [
+            "sky",
+            "atmosphere; Moreheavens",
+            "ether \"hundreds of birds hovered in the air\""
+          ]
+        },
+        {
+          "definition": "referring to the use of aircraft.",
+          "examples": [
+            "air traffic"
+          ]
+        },
+        {
+          "definition": "the earth's atmosphere as a medium for transmitting radio waves.",
+          "examples": [
+            "radio stations have successfully sold products over the air"
+          ]
+        },
+        {
+          "definition": "air considered as one of the four elements in ancient philosophy and in astrology (associated with the signs of Gemini, Aquarius, and Libra)."
+        },
+        {
+          "definition": "a breeze or light wind.",
+          "examples": [
+            "plural noun: airs"
+          ],
+          "synonyms": [
+            "breeze",
+            "draft",
+            "wind; Morebreath/blast of air",
+            "gust of wind \"open the windows to get some air into the room\""
+          ]
+        },
+        {
+          "definition": "air conditioning."
+        },
+        {
+          "definition": "a jump off the ground on a snowboard."
+        },
+        {
+          "definition": "an impression of a quality or manner given by someone or something.",
+          "examples": [
+            "she answered with a faint air of boredom"
+          ],
+          "synonyms": [
+            "expression",
+            "appearance",
+            "look",
+            "impression",
+            "aspect",
+            "aura",
+            "mien",
+            "countenance",
+            "manner",
+            "bearing",
+            "tone \"an air of defiance\""
+          ]
+        },
+        {
+          "definition": "an annoyingly affected and condescending manner.",
+          "examples": [
+            "plural noun: airs"
+          ]
+        },
+        {
+          "definition": "a tune or short melodious composition, typically a song.",
+          "examples": [
+            "tune, melody, song; lay a traditional Scottish air"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "air"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "airs"
+        },
+        {
+          "part": "past tense",
+          "variant": "aired"
+        },
+        {
+          "part": "past participle",
+          "variant": "aired"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "airing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "express (an opinion or grievance) publicly.",
+          "examples": [
+            "a meeting in which long-standing grievances were aired"
+          ],
+          "synonyms": [
+            "express",
+            "voice",
+            "make public",
+            "ventilate",
+            "articulate",
+            "state",
+            "declare",
+            "give expression/voice to; have one's say about \"a chance to air your views\""
+          ]
+        },
+        {
+          "definition": "broadcast (a program) on radio or television.",
+          "examples": [
+            "the programs were aired on India's state TV network"
+          ],
+          "synonyms": [
+            "broadcast",
+            "transmit",
+            "screen",
+            "show",
+            "televise",
+            "telecast \"the film was aired nationwide\""
+          ]
+        },
+        {
+          "definition": "parade or show (something) ostentatiously.",
+          "examples": [
+            "airing a snowy hand and signet ring"
+          ]
+        },
+        {
+          "definition": "expose (a room) to the open air in order to ventilate it.",
+          "examples": [
+            "the window sashes were lifted regularly to air the room"
+          ],
+          "synonyms": [
+            "ventilate",
+            "freshen",
+            "refresh",
+            "cool \"the windows were opened to air the room\""
+          ]
+        },
+        {
+          "definition": "go out in the fresh air."
+        }
+      ]
+    }
+  ]
+}

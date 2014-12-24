@@ -1,0 +1,47 @@
+[
+  {
+    "word": "inhabit",
+    "syllables": [
+      "in",
+      "hab",
+      "it"
+    ],
+    "pronunciation": "inˈhabət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "inhabited"
+          },
+          {
+            "part": "past participle",
+            "variant": "inhabited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person, animal, or group) live in or occupy (a place or environment).",
+            "examples": [
+              "a bird that inhabits North America"
+            ],
+            "synonyms": [
+              "live in/on",
+              "occupy; Moresettle (in/on)",
+              "people",
+              "populate",
+              "colonize; dwell in/on",
+              "reside in/on",
+              "tenant",
+              "lodge in/on",
+              "have one's home in/on; formalbe domiciled in/on",
+              "abide in/on \"outside of the research team",
+              "humans do not inhabit this island\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "speaker",
+    "syllables": [
+      "speak",
+      "er"
+    ],
+    "pronunciation": "ˈspēkər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "speaker"
+          },
+          {
+            "part": "plural noun",
+            "variant": "speakers"
+          },
+          {
+            "part": "noun",
+            "variant": "Speaker"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Speakers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who speaks."
+          },
+          {
+            "definition": "a person who delivers a speech or lecture.",
+            "examples": [
+              "speechmaker, lecturer, talker, speechifier, orator, declaimer, rhetorician; Morespokesperson, spokesman, spokeswoman, mouthpiece; reader, lector, commentator, broadcaster, narrator; informalspieler; historicaldemagogue, rhetor \"Reverend Graham is one of the guest speakers\"Morespokesperson, spokesman, spokeswoman, mouthpiece; reader, lector, commentator, broadcaster, narrator; spieler; demagogue, rhetor Reverend Graham is one of the guest speakers"
+            ]
+          },
+          {
+            "definition": "a person who speaks a specified language.",
+            "examples": [
+              "he is a fluent English and French speaker"
+            ]
+          },
+          {
+            "definition": "the presiding officer in a legislative assembly, especially the House of Representatives."
+          },
+          {
+            "definition": "short for loudspeaker.",
+            "examples": [
+              "a cassette player with two speakers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "word": "synthesize",
+  "syllables": [
+    "syn",
+    "the",
+    "size"
+  ],
+  "pronunciation": "ˈsinTHəˌsīz",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "synthesized"
+        },
+        {
+          "part": "past participle",
+          "variant": "synthesized"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make (something) by synthesis, especially chemically.",
+          "examples": [
+            "man synthesizes new chemical poisons and sprays the countryside wholesale"
+          ]
+        },
+        {
+          "definition": "combine (a number of things) into a coherent whole.",
+          "examples": [
+            "pupils should synthesize the data they have gathered"
+          ]
+        },
+        {
+          "definition": "produce (sound) electronically.",
+          "examples": [
+            "trigger chips that synthesize speech"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "depress",
+  "syllables": [
+    "de",
+    "press"
+  ],
+  "pronunciation": "dəˈpres",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "depressed"
+        },
+        {
+          "part": "past participle",
+          "variant": "depressed"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make (someone) feel utterly dispirited or dejected.",
+          "examples": [
+            "that first day at school depressed me"
+          ],
+          "synonyms": [
+            "sadden",
+            "dispirit",
+            "cast down",
+            "get down",
+            "dishearten",
+            "demoralize",
+            "crush",
+            "shake",
+            "desolate",
+            "weigh down",
+            "oppress; Moreupset",
+            "distress",
+            "grieve",
+            "haunt",
+            "harrow; informalgive someone the blues \"the news depressed him\""
+          ],
+          "antonyms": [
+            "cheer (up)"
+          ]
+        },
+        {
+          "definition": "reduce the level or strength of activity in (something, especially an economic or biological system).",
+          "examples": [
+            "fear of inflation in America depressed bond markets"
+          ],
+          "synonyms": [
+            "slow down",
+            "reduce",
+            "lower",
+            "weaken",
+            "impair; Morelimit",
+            "check",
+            "inhibit",
+            "restrict \"new economic policies depressed sales\"reduce",
+            "lower",
+            "cut",
+            "cheapen",
+            "keep down",
+            "discount",
+            "deflate",
+            "depreciate",
+            "devalue",
+            "diminish",
+            "ax",
+            "slash \"foreign imports will depress domestic prices\""
+          ],
+          "antonyms": [
+            "encourage",
+            "raise"
+          ]
+        },
+        {
+          "definition": "push or pull (something) down into a lower position.",
+          "examples": [
+            "depress the lever"
+          ],
+          "synonyms": [
+            "press",
+            "push",
+            "hold down; Morethumb",
+            "tap; operate",
+            "activate \"depress each lever in turn\""
+          ],
+          "antonyms": [
+            "lift"
+          ]
+        }
+      ]
+    }
+  ]
+}

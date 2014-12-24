@@ -1,0 +1,69 @@
+[
+  {
+    "word": "chiefly",
+    "syllables": [
+      "chief",
+      "ly"
+    ],
+    "pronunciation": "ˈCHēflē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "chiefly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "above all; mainly.",
+            "examples": [
+              "he is remembered chiefly for his sonatas"
+            ],
+            "synonyms": [
+              "mainly",
+              "in the main",
+              "primarily",
+              "principally",
+              "predominantly",
+              "mostly",
+              "for the most part; Moreusually",
+              "habitually",
+              "typically",
+              "commonly",
+              "generally",
+              "on the whole",
+              "largely",
+              "by and large",
+              "almost always \"we are interested chiefly in waterfront properties\""
+            ]
+          },
+          {
+            "definition": "for the most part; mostly.",
+            "examples": [
+              "this group has consisted chiefly of conservatives"
+            ],
+            "synonyms": [
+              "mainly",
+              "in the main",
+              "primarily",
+              "principally",
+              "predominantly",
+              "mostly",
+              "for the most part; Moreusually",
+              "habitually",
+              "typically",
+              "commonly",
+              "generally",
+              "on the whole",
+              "largely",
+              "by and large",
+              "almost always \"we are interested chiefly in waterfront properties\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

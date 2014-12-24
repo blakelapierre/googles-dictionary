@@ -1,0 +1,106 @@
+[
+  {
+    "word": "derivative",
+    "syllables": [
+      "de",
+      "riv",
+      "a",
+      "tive"
+    ],
+    "pronunciation": "dəˈrivədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "derivative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(typically of an artist or work of art) imitative of the work of another person, and usually disapproved of for that reason.",
+            "examples": [
+              "an artist who is not in the slightest bit derivative"
+            ],
+            "synonyms": [
+              "imitative",
+              "unoriginal",
+              "uninventive",
+              "unimaginative",
+              "uninspired; Morecopied",
+              "plagiarized",
+              "plagiaristic",
+              "secondhand; trite",
+              "hackneyed",
+              "clichéd",
+              "stale",
+              "stock",
+              "banal; informalcopycat",
+              "cribbed",
+              "old hat \"her poetry was derivative\""
+            ],
+            "antonyms": [
+              "original"
+            ]
+          },
+          {
+            "definition": "originating from, based on, or influenced by.",
+            "examples": [
+              "Darwin's work is derivative of the moral philosophers"
+            ]
+          },
+          {
+            "definition": "(of a financial product) having a value deriving from an underlying variable asset.",
+            "examples": [
+              "equity-based derivative products"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "derivative"
+          },
+          {
+            "part": "plural noun",
+            "variant": "derivatives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "something that is based on another source.",
+            "examples": [
+              "a derivative of the system was chosen for the Marine Corps’ V-22 tilt rotor aircraft"
+            ]
+          },
+          {
+            "definition": "an arrangement or instrument (such as a future, option, or warrant) whose value derives from and is dependent on the value of an underlying asset.",
+            "examples": [
+              "the derivatives market"
+            ]
+          },
+          {
+            "definition": "a word derived from another or from a root in the same or another language."
+          },
+          {
+            "definition": "a substance that is derived chemically from a specified compound.",
+            "examples": [
+              "crack is a highly addictive cocaine derivative"
+            ],
+            "synonyms": [
+              "by-product",
+              "subsidiary product; spin-off \"a derivative of opium\""
+            ]
+          },
+          {
+            "definition": "an expression representing the rate of change of a function with respect to an independent variable."
+          }
+        ]
+      }
+    ]
+  }
+]

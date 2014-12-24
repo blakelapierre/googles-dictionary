@@ -1,0 +1,29 @@
+[
+  {
+    "word": "upon",
+    "syllables": [
+      "up",
+      "on"
+    ],
+    "pronunciation": "əˈpän",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "upon"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "more formal term for on, especially in abstract senses.",
+            "examples": [
+              "it was based upon two principles"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

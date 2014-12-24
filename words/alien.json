@@ -1,0 +1,106 @@
+[
+  {
+    "word": "alien",
+    "syllables": [
+      "a",
+      "li",
+      "en"
+    ],
+    "pronunciation": "ˈālēən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "alien"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "belonging to a foreign country or nation."
+          },
+          {
+            "definition": "unfamiliar and disturbing or distasteful.",
+            "examples": [
+              "bossing anyone around was alien to him"
+            ],
+            "synonyms": [
+              "unfamiliar",
+              "unknown",
+              "strange",
+              "peculiar; Moreexotic",
+              "foreign \"an alien landscape\"incompatible with",
+              "unusual for",
+              "opposed to",
+              "conflicting with",
+              "contrary to",
+              "in conflict with",
+              "at variance with",
+              "out of step with; rareoppugnant to \"a vicious role alien to his nature\""
+            ],
+            "antonyms": [
+              "familiar"
+            ]
+          },
+          {
+            "definition": "relating to or denoting beings supposedly from other worlds; extraterrestrial.",
+            "examples": [
+              "an alien spacecraft"
+            ],
+            "synonyms": [
+              "extraterrestrial",
+              "unearthly",
+              "otherworldly; MoreMartian",
+              "Jovian",
+              "Venutian \"alien beings\""
+            ],
+            "antonyms": [
+              "earthly"
+            ]
+          },
+          {
+            "definition": "(of a plant or animal species) introduced from another country and later naturalized."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "alien"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aliens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a foreigner, especially one who is not a naturalized citizen of the country where they are living.",
+            "examples": [
+              "an illegal alien"
+            ],
+            "synonyms": [
+              "foreigner",
+              "nonnative",
+              "immigrant",
+              "emigrant",
+              "émigré \"an illegal alien\""
+            ]
+          },
+          {
+            "definition": "a hypothetical or fictional being from another world.",
+            "examples": [
+              "extraterrestrial, ET; MoreMartian, Jovian, Venutian; informallittle green man \"the alien's spaceship\"MoreMartian, Jovian, Venutian; little green man the alien's spaceship"
+            ]
+          },
+          {
+            "definition": "a plant or animal species originally introduced from another country and later naturalized."
+          }
+        ]
+      }
+    ]
+  }
+]

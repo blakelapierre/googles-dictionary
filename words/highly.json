@@ -1,0 +1,80 @@
+[
+  {
+    "word": "highly",
+    "syllables": [
+      "high",
+      "ly"
+    ],
+    "pronunciation": "ˈhīlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "highly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to a high degree or level.",
+            "examples": [
+              "a highly dangerous substance"
+            ],
+            "synonyms": [
+              "very",
+              "extremely",
+              "exceedingly",
+              "particularly",
+              "most",
+              "really",
+              "thoroughly",
+              "decidedly",
+              "distinctly",
+              "exceptionally",
+              "immensely",
+              "greatly",
+              "inordinately",
+              "singularly",
+              "extraordinarily; Moreinformalawfully",
+              "terribly",
+              "majorly",
+              "seriously",
+              "supremely",
+              "desperately",
+              "hugely",
+              "ultra",
+              "oh-so",
+              "damn",
+              "damned; real",
+              "mighty",
+              "awful; datedfrightfully \"a highly dangerous substance\""
+            ],
+            "antonyms": [
+              "slightly"
+            ]
+          },
+          {
+            "definition": "favorably.",
+            "examples": [
+              "he was highly regarded by his colleagues"
+            ],
+            "synonyms": [
+              "favorably",
+              "well",
+              "appreciatively",
+              "admiringly",
+              "approvingly",
+              "positively",
+              "glowingly",
+              "enthusiastically \"he was highly regarded\""
+            ],
+            "antonyms": [
+              "unfavorably"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

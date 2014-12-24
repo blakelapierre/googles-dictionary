@@ -1,0 +1,86 @@
+[
+  {
+    "word": "profess",
+    "syllables": [
+      "pro",
+      "fess"
+    ],
+    "pronunciation": "prəˈfes",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "profess"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "professes"
+          },
+          {
+            "part": "past tense",
+            "variant": "professed"
+          },
+          {
+            "part": "past participle",
+            "variant": "professed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "professing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "claim openly but often falsely that one has (a quality or feeling).",
+            "examples": [
+              "he had professed his love for her"
+            ],
+            "synonyms": [
+              "declare",
+              "announce",
+              "proclaim",
+              "assert",
+              "state",
+              "affirm",
+              "avow",
+              "maintain",
+              "protest; Moreformalaver \"he professed his love\"claim",
+              "pretend",
+              "purport",
+              "affect; make out; informallet on \"she professed to loathe publicity\""
+            ]
+          },
+          {
+            "definition": "affirm one's faith in or allegiance to (a religion or set of beliefs).",
+            "examples": [
+              "a people professing Christianity"
+            ],
+            "synonyms": [
+              "affirm one's faith in",
+              "affirm one's allegiance to",
+              "avow",
+              "confess \"the emperor professed Christianity\""
+            ]
+          },
+          {
+            "definition": "be received into a religious order under vows.",
+            "examples": [
+              "she entered St. Margaret's Convent, and was professed in 1943"
+            ]
+          },
+          {
+            "definition": "teach (a subject) as a professor.",
+            "examples": [
+              "a professor—what does he profess?"
+            ]
+          },
+          {
+            "definition": "have or claim knowledge or skill in (a subject or accomplishment)."
+          }
+        ]
+      }
+    ]
+  }
+]

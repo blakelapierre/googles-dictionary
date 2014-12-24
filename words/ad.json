@@ -1,0 +1,184 @@
+[
+  {
+    "word": "ad",
+    "syllables": [
+      "ad"
+    ],
+    "pronunciation": "ad",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ad"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an advertisement."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ad",
+    "syllables": [
+      "ad"
+    ],
+    "pronunciation": "ad",
+    "parts": [
+      {
+        "part": "nounTennisinformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ad"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for advantage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ad-",
+    "syllables": [
+      "ad-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "ad-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting motion or direction to.",
+            "examples": [
+              "advance"
+            ]
+          },
+          {
+            "definition": "reduction or change into.",
+            "examples": [
+              "adapt"
+            ]
+          },
+          {
+            "definition": "addition, increase, or intensification.",
+            "examples": [
+              "adjunct"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-ad",
+    "syllables": [
+      "-ad"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-ad"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming nouns:"
+          },
+          {
+            "definition": "in collective numerals.",
+            "examples": [
+              "pentad"
+            ]
+          },
+          {
+            "definition": "in groups, periods, or aggregates.",
+            "examples": [
+              "Olympiad"
+            ]
+          },
+          {
+            "definition": "in names of females in classical mythology, such as Dryad and Naiad."
+          },
+          {
+            "definition": "in names of districts such as Troad."
+          },
+          {
+            "definition": "in names of poems and similar compositions.",
+            "examples": [
+              "Iliad"
+            ]
+          },
+          {
+            "definition": "forming names of members of some taxonomic groupings.",
+            "examples": [
+              "bromeliad"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-ad",
+    "syllables": [
+      "-ad"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-ad"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming nouns such as ballad, salad."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "AD",
+    "syllables": [
+      "AD"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

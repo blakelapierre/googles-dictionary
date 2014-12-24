@@ -1,0 +1,139 @@
+[
+  {
+    "word": "content",
+    "syllables": [
+      "con",
+      "tent"
+    ],
+    "pronunciation": "kənˈtent",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "contents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "satisfy (someone).",
+            "examples": [
+              "nothing would content her"
+            ],
+            "synonyms": [
+              "satisfy",
+              "please; Moresoothe",
+              "pacify",
+              "placate",
+              "appease",
+              "mollify \"her reply seemed to content him\""
+            ]
+          },
+          {
+            "definition": "accept as adequate despite wanting more or better.",
+            "examples": [
+              "we contented ourselves with a few small purchases"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "contents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a state of satisfaction.",
+            "examples": [
+              "the greater part of the century was a time of content"
+            ]
+          },
+          {
+            "definition": "a member of the British House of Lords who votes for a particular motion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "content",
+    "syllables": [
+      "con",
+      "tent"
+    ],
+    "pronunciation": "ˈkäntent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "contents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the things that are held or included in something.",
+            "examples": [
+              "he unscrewed the top of the flask and drank the contents"
+            ]
+          },
+          {
+            "definition": "the amount of a particular constituent occurring in a substance.",
+            "examples": [
+              "milk with a low-fat content"
+            ],
+            "synonyms": [
+              "amount",
+              "proportion",
+              "quantity \"foods with a high fiber content\""
+            ]
+          },
+          {
+            "definition": "a list of the titles of chapters or sections contained in a book or periodical.",
+            "examples": [
+              "the contents page"
+            ],
+            "synonyms": [
+              "constituents",
+              "ingredients",
+              "components",
+              "elements \"the contents of a vegetarian sausage\""
+            ]
+          },
+          {
+            "definition": "information made available by a website or other electronic medium.",
+            "examples": [
+              "online content providers"
+            ]
+          },
+          {
+            "definition": "the substance or material dealt with in a speech, literary work, etc., as distinct from its form or style.",
+            "examples": [
+              "the outward form and precise content of the messages"
+            ],
+            "synonyms": [
+              "subject matter",
+              "subject",
+              "theme",
+              "argument",
+              "thesis",
+              "message",
+              "thrust",
+              "substance",
+              "matter",
+              "material",
+              "text",
+              "ideas \"the content of the essay\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

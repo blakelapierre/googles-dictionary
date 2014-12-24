@@ -1,0 +1,190 @@
+[
+  {
+    "word": "repeat",
+    "syllables": [
+      "re",
+      "peat"
+    ],
+    "pronunciation": "rəˈpēt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "repeat"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "repeats"
+          },
+          {
+            "part": "past tense",
+            "variant": "repeated"
+          },
+          {
+            "part": "past participle",
+            "variant": "repeated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "repeating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "say again something one has already said.",
+            "examples": [
+              "“Are you hurt?” he repeated"
+            ]
+          },
+          {
+            "definition": "say again (something said or written by someone else).",
+            "examples": [
+              "he repeated the words after me"
+            ],
+            "synonyms": [
+              "say again",
+              "restate",
+              "reiterate",
+              "go/run through again",
+              "recapitulate; Moreinformalrecap \"she repeated her story\"recite",
+              "quote",
+              "parrot",
+              "regurgitate \"children can repeat large chunks of text\""
+            ]
+          },
+          {
+            "definition": "say or do the same thing again."
+          },
+          {
+            "definition": "used for emphasis.",
+            "examples": [
+              "force was not—repeat, not—to be used"
+            ]
+          },
+          {
+            "definition": "do (something) again, either once or a number of times.",
+            "examples": [
+              "earlier experiments were to be repeated on a far larger scale"
+            ],
+            "synonyms": [
+              "do again",
+              "redo",
+              "replicate",
+              "rehash",
+              "duplicate More\"Steele was invited to repeat his work\"recurrent",
+              "recurring",
+              "frequent",
+              "persistent",
+              "continual",
+              "incessant",
+              "constant; regular",
+              "periodic",
+              "numerous",
+              "many",
+              "very many \"his repeated complaints about the noise\""
+            ],
+            "antonyms": [
+              "occasional"
+            ]
+          },
+          {
+            "definition": "broadcast (a television or radio program) again.",
+            "examples": [
+              "rebroadcast, rerun the episodes were repeated"
+            ]
+          },
+          {
+            "definition": "undertake (a course or period of instruction) again.",
+            "examples": [
+              "Mark had to repeat first and second grades"
+            ]
+          },
+          {
+            "definition": "occur again in the same way or form.",
+            "examples": [
+              "I don't intend to let history repeat itself"
+            ],
+            "synonyms": [
+              "reoccur",
+              "recur",
+              "occur again",
+              "happen again \"history is bound to repeat itself\""
+            ]
+          },
+          {
+            "definition": "illegally vote more than once in an election."
+          },
+          {
+            "definition": "attain a particular success or achievement again, especially by winning a championship for the second consecutive time.",
+            "examples": [
+              "the first team in nineteen years to repeat as NBA champions"
+            ]
+          },
+          {
+            "definition": "(of a watch or clock) strike (the last hour or quarter) over again when required."
+          },
+          {
+            "definition": "(of food) be tasted intermittently for some time after being swallowed as a result of belching or indigestion.",
+            "examples": [
+              "it sat rather uncomfortably on my stomach and repeated on me for hours"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "repeat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "repeats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an action, event, or other thing that occurs or is done again.",
+            "examples": [
+              "the final will be a repeat of last year"
+            ],
+            "synonyms": [
+              "repetition",
+              "duplication",
+              "replication",
+              "duplicate",
+              "rehash \"a repeat of the previous year's final\""
+            ]
+          },
+          {
+            "definition": "a repeated broadcast of a television or radio program.",
+            "examples": [
+              "rerun, rebroadcast repeats of the classic sitcom"
+            ]
+          },
+          {
+            "definition": "occurring, done, or used more than once.",
+            "examples": [
+              "modifier noun: repeat"
+            ]
+          },
+          {
+            "definition": "a consignment of goods similar to one already received."
+          },
+          {
+            "definition": "a decorative pattern that is repeated uniformly over a surface."
+          },
+          {
+            "definition": "a passage intended to be repeated."
+          },
+          {
+            "definition": "a mark indicating this."
+          }
+        ]
+      }
+    ]
+  }
+]

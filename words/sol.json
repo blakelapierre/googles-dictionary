@@ -1,0 +1,26 @@
+{
+  "word": "sol",
+  "syllables": [
+    "sol"
+  ],
+  "pronunciation": "sōl",
+  "parts": [
+    {
+      "part": "nounMusic",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "so"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(in solmization) the fifth note of a major scale."
+        },
+        {
+          "definition": "the note G in the fixed-do system."
+        }
+      ]
+    }
+  ]
+}

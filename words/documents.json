@@ -1,0 +1,33 @@
+[
+  {
+    "word": "document",
+    "syllables": [
+      "doc",
+      "u",
+      "ment"
+    ],
+    "pronunciation": "ˈdäkyəməntˈdäkyəˌment",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "documents"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "documents"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "thousand",
+    "syllables": [
+      "thou",
+      "sand"
+    ],
+    "pronunciation": "ˈTHouz(ə)nd",
+    "parts": [
+      {
+        "part": "number",
+        "variants": [
+          {
+            "part": "cardinal number",
+            "variant": "thousand"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the number equivalent to the product of a hundred and ten; 1,000.",
+            "examples": [
+              "a thousand meters"
+            ],
+            "synonyms": [
+              "informalgrand",
+              "K",
+              "thou \"I'll give you four thousand for the lot\""
+            ]
+          },
+          {
+            "definition": "the numbers from one thousand to 9,999.",
+            "examples": [
+              "plural noun: thousands"
+            ]
+          },
+          {
+            "definition": "an unspecified large number.",
+            "examples": [
+              "plural noun: thousands"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

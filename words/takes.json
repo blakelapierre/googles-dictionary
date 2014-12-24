@@ -1,0 +1,706 @@
+[
+  {
+    "word": "take",
+    "syllables": [
+      "take"
+    ],
+    "pronunciation": "tāk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "takes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lay hold of (something) with one's hands; reach for and hold.",
+            "examples": [
+              "he leaned forward to take her hand"
+            ],
+            "synonyms": [
+              "lay hold of",
+              "get hold of; Moregrasp",
+              "grip",
+              "clasp",
+              "clutch",
+              "grab \"she took his hand\""
+            ],
+            "antonyms": [
+              "give"
+            ]
+          },
+          {
+            "definition": "remove (someone or something) from a particular place.",
+            "examples": [
+              "he took an envelope from his inside pocket"
+            ],
+            "synonyms": [
+              "remove",
+              "pull",
+              "draw",
+              "withdraw",
+              "extract",
+              "fish \"he took an envelope from his pocket\""
+            ],
+            "antonyms": [
+              "give"
+            ]
+          },
+          {
+            "definition": "consume as food, drink, medicine, or drugs.",
+            "examples": [
+              "take an aspirin and lie down"
+            ],
+            "synonyms": [
+              "drink",
+              "imbibe; Moreconsume",
+              "swallow",
+              "eat",
+              "ingest \"she took a little wine\""
+            ]
+          },
+          {
+            "definition": "capture or gain possession of by force or military means.",
+            "examples": [
+              "twenty of their ships were sunk or taken"
+            ],
+            "synonyms": [
+              "capture",
+              "seize",
+              "catch",
+              "arrest",
+              "apprehend",
+              "take into custody; Morecarry off",
+              "abduct \"many prisoners were taken\""
+            ],
+            "antonyms": [
+              "liberate",
+              "free"
+            ]
+          },
+          {
+            "definition": "(in bridge, hearts, and similar card games) win (a trick)."
+          },
+          {
+            "definition": "capture (an opposing piece or pawn)."
+          },
+          {
+            "definition": "dispossess someone of (something); steal or illicitly remove.",
+            "examples": [
+              "someone must have sneaked in here and taken it"
+            ],
+            "synonyms": [
+              "steal",
+              "remove",
+              "appropriate",
+              "make off with",
+              "pilfer",
+              "purloin; Moreinformalfilch",
+              "swipe",
+              "snaffle",
+              "pinch \"someone's taken my car\""
+            ],
+            "antonyms": [
+              "give back",
+              "restore"
+            ]
+          },
+          {
+            "definition": "cheat (someone) of something.",
+            "examples": [
+              "can I get taken by buying mutual funds?"
+            ]
+          },
+          {
+            "definition": "subtract.",
+            "examples": [
+              "take two from ten"
+            ],
+            "synonyms": [
+              "subtract",
+              "deduct",
+              "remove; Morediscount; informalknock off",
+              "minus \"take four from the total\""
+            ],
+            "antonyms": [
+              "add"
+            ]
+          },
+          {
+            "definition": "occupy (a place or position).",
+            "examples": [
+              "we found that all the seats were taken"
+            ],
+            "synonyms": [
+              "occupy",
+              "use",
+              "utilize",
+              "fill",
+              "hold; Morereserve",
+              "engage; informalbag \"all the seats had been taken\""
+            ]
+          },
+          {
+            "definition": "buy or rent (a house).",
+            "examples": [
+              "rent, lease, hire, charter; Morereserve, book, engage \"I have taken a room nearby\"Morereserve, book, engage I have taken a room nearby"
+            ]
+          },
+          {
+            "definition": "agree to buy (an item).",
+            "examples": [
+              "I'll take the one on the end"
+            ],
+            "synonyms": [
+              "pick",
+              "choose",
+              "select; Moreprefer",
+              "favor",
+              "opt for",
+              "vote for \"I'd take this over the other option\""
+            ],
+            "antonyms": [
+              "refuse",
+              "turn down"
+            ]
+          },
+          {
+            "definition": "gain or acquire (possession or ownership of something).",
+            "examples": [
+              "he took possession of a unique Picasso ceramic piece"
+            ],
+            "synonyms": [
+              "derive",
+              "get",
+              "obtain",
+              "come by",
+              "acquire",
+              "pick up \"the town takes its name from the lake\""
+            ]
+          },
+          {
+            "definition": "(of a person) already be married or in an emotional relationship."
+          },
+          {
+            "definition": "use or have ready to use.",
+            "examples": [
+              "take half the marzipan and roll out"
+            ]
+          },
+          {
+            "definition": "use as an instance or example in support of an argument.",
+            "examples": [
+              "let's take Napoleon, for instance"
+            ],
+            "synonyms": [
+              "consider",
+              "contemplate",
+              "ponder",
+              "think about",
+              "mull over",
+              "examine",
+              "study",
+              "meditate over",
+              "ruminate about \"take",
+              "for instance",
+              "Altoona\""
+            ]
+          },
+          {
+            "definition": "regularly buy or subscribe to (a particular newspaper or periodical)."
+          },
+          {
+            "definition": "ascertain by measurement or observation.",
+            "examples": [
+              "the nurse takes my blood pressure"
+            ],
+            "synonyms": [
+              "ascertain",
+              "determine",
+              "establish",
+              "measure",
+              "find out",
+              "discover; Morecalculate",
+              "compute",
+              "evaluate",
+              "rate",
+              "assess",
+              "appraise",
+              "gauge \"she took his temperature\""
+            ]
+          },
+          {
+            "definition": "write down.",
+            "examples": [
+              "he was taking notes"
+            ],
+            "synonyms": [
+              "write",
+              "note (down)",
+              "jot (down)",
+              "scribble",
+              "scrawl",
+              "record",
+              "register",
+              "document",
+              "minute \"he took notes\""
+            ]
+          },
+          {
+            "definition": "make (a photograph) with a camera."
+          },
+          {
+            "definition": "(especially of illness) suddenly strike or afflict (someone).",
+            "examples": [
+              "he was taken with a seizure of some kind"
+            ]
+          },
+          {
+            "definition": "have sexual intercourse with."
+          },
+          {
+            "definition": "carry or bring with one; convey.",
+            "examples": [
+              "he took along a portfolio of his drawings"
+            ],
+            "synonyms": [
+              "bring",
+              "carry",
+              "bear",
+              "transport",
+              "convey",
+              "move",
+              "transfer",
+              "ferry; Moreinformalcart",
+              "tote \"I took the package to Wilmington\""
+            ]
+          },
+          {
+            "definition": "accompany or guide (someone) to a specified place.",
+            "examples": [
+              "I'll take you to your room"
+            ],
+            "synonyms": [
+              "escort",
+              "accompany",
+              "help",
+              "assist",
+              "show",
+              "lead",
+              "guide",
+              "see",
+              "usher",
+              "shepherd",
+              "convey \"the police took her home\""
+            ]
+          },
+          {
+            "definition": "bring into a specified state.",
+            "examples": [
+              "the invasion took Europe to the brink of war"
+            ]
+          },
+          {
+            "definition": "use as a route or a means of transportation.",
+            "examples": [
+              "take 95 north to Baltimore"
+            ],
+            "synonyms": [
+              "travel on/by",
+              "journey on",
+              "go via; use \"he took the train\""
+            ]
+          },
+          {
+            "definition": "accept or receive (someone or something).",
+            "examples": [
+              "she was advised to take any job offered"
+            ],
+            "synonyms": [
+              "accept",
+              "undertake",
+              "take on More\"I took the job\"receive",
+              "obtain",
+              "gain",
+              "get",
+              "acquire",
+              "collect",
+              "accept",
+              "be awarded; secure",
+              "come by",
+              "win",
+              "earn",
+              "pick up",
+              "carry off; informalland",
+              "bag",
+              "net",
+              "scoop \"she took the prize for best speaker\""
+            ],
+            "antonyms": [
+              "refuse",
+              "turn down"
+            ]
+          },
+          {
+            "definition": "understand or accept as valid.",
+            "examples": [
+              "I take your point"
+            ],
+            "synonyms": [
+              "understand",
+              "grasp",
+              "get",
+              "comprehend",
+              "apprehend",
+              "see",
+              "follow; Moreaccept",
+              "appreciate",
+              "acknowledge",
+              "sympathize with",
+              "agree with \"I take your point\""
+            ]
+          },
+          {
+            "definition": "acquire or assume (a position, state, or form).",
+            "examples": [
+              "teaching methods will take various forms"
+            ],
+            "synonyms": [
+              "derive",
+              "draw",
+              "acquire",
+              "obtain",
+              "get",
+              "gain",
+              "extract",
+              "procure; Moreexperience",
+              "undergo",
+              "feel \"he took great pleasure in painting\""
+            ]
+          },
+          {
+            "definition": "achieve or attain (a victory or result).",
+            "examples": [
+              "John Martin took the men's title"
+            ]
+          },
+          {
+            "definition": "act on (an opportunity).",
+            "examples": [
+              "he took his chance to get out while the house was quiet"
+            ],
+            "synonyms": [
+              "act on",
+              "take advantage of",
+              "capitalize on",
+              "use",
+              "exploit",
+              "make the most of",
+              "leap at",
+              "jump at",
+              "pounce on",
+              "seize",
+              "grasp",
+              "grab",
+              "accept \"I took the chance to postpone it\""
+            ],
+            "antonyms": [
+              "ignore",
+              "miss"
+            ]
+          },
+          {
+            "definition": "experience or be affected by.",
+            "examples": [
+              "the lad took a savage beating"
+            ]
+          },
+          {
+            "definition": "tolerate, stand.",
+            "examples": [
+              "I can't take the humidity"
+            ]
+          },
+          {
+            "definition": "react to or regard (news or an event) in a specified way.",
+            "examples": [
+              "she took the news well"
+            ],
+            "synonyms": [
+              "receive",
+              "respond to",
+              "react to",
+              "meet",
+              "greet; Moredeal with",
+              "cope with \"Liz took the news badly\""
+            ]
+          },
+          {
+            "definition": "deal with (a physical obstacle or course) in a specified way.",
+            "examples": [
+              "he takes the corners with no concern for his own safety"
+            ]
+          },
+          {
+            "definition": "(of a batter) allow (a pitch) to go by without attempting to hit the ball."
+          },
+          {
+            "definition": "regard or view in a specified way.",
+            "examples": [
+              "he somehow took it as a personal insult"
+            ],
+            "synonyms": [
+              "regard as",
+              "consider to be",
+              "view as",
+              "see as",
+              "believe to be",
+              "reckon to be",
+              "imagine to be",
+              "deem to be \"do you take me for a fool?\""
+            ]
+          },
+          {
+            "definition": "be attracted or charmed by.",
+            "examples": [
+              "Billie was very taken with him"
+            ],
+            "synonyms": [
+              "captivate",
+              "enchant",
+              "charm",
+              "delight",
+              "attract",
+              "beguile",
+              "enthrall",
+              "entrance",
+              "infatuate",
+              "dazzle; Moreamuse",
+              "divert",
+              "entertain; informaltickle someone's fancy \"Shirley was very taken with him\""
+            ]
+          },
+          {
+            "definition": "submit to, tolerate, or endure.",
+            "examples": [
+              "they refused to take it any more"
+            ],
+            "synonyms": [
+              "endure",
+              "bear",
+              "tolerate",
+              "stand",
+              "put up with",
+              "abide",
+              "stomach",
+              "accept",
+              "allow",
+              "countenance",
+              "support",
+              "shoulder; Moreformalbrook; archaicsuffer \"I can't take much more\""
+            ]
+          },
+          {
+            "definition": "assume.",
+            "examples": [
+              "I take it that someone is coming to meet you"
+            ],
+            "synonyms": [
+              "assume",
+              "presume",
+              "suppose",
+              "imagine",
+              "expect",
+              "reckon",
+              "gather",
+              "dare say",
+              "trust",
+              "surmise",
+              "deduce",
+              "guess",
+              "conjecture",
+              "fancy",
+              "suspect \"I take it that you are hungry\""
+            ]
+          },
+          {
+            "definition": "make, undertake, or perform (an action or task).",
+            "examples": [
+              "Lucy took a deep breath"
+            ],
+            "synonyms": [
+              "carry out",
+              "do",
+              "complete",
+              "write",
+              "conduct",
+              "perform",
+              "execute",
+              "discharge",
+              "accomplish",
+              "fulfill \"applicants must take a test\""
+            ]
+          },
+          {
+            "definition": "be taught or examined in (a subject).",
+            "examples": [
+              "some degrees require a student to take a secondary subject"
+            ],
+            "synonyms": [
+              "study",
+              "learn",
+              "have lessons in; Moretake up",
+              "pursue; informaldo \"I took drama",
+              "French",
+              "and art history\""
+            ]
+          },
+          {
+            "definition": "obtain (an academic degree) after fulfilling the required conditions.",
+            "examples": [
+              "she took a degree in English"
+            ]
+          },
+          {
+            "definition": "require or use up (a specified amount of time).",
+            "examples": [
+              "the jury took an hour and a half to find McPherson guilty"
+            ],
+            "synonyms": [
+              "last",
+              "continue for",
+              "go on for",
+              "carry on for; Morerequire",
+              "call for",
+              "need",
+              "necessitate",
+              "entail",
+              "involve \"the journey took six hours\""
+            ]
+          },
+          {
+            "definition": "(of a task or situation) need or call for (a particular person or thing).",
+            "examples": [
+              "it will take an electronics expert to dismantle it"
+            ],
+            "synonyms": [
+              "require",
+              "need",
+              "necessitate",
+              "demand",
+              "call for",
+              "entail",
+              "involve \"it would take an expert to know that\""
+            ]
+          },
+          {
+            "definition": "hold; accommodate.",
+            "examples": [
+              "an exclusive island hideaway that takes just twenty guests"
+            ]
+          },
+          {
+            "definition": "wear or require (a particular size of garment or type of complementary article).",
+            "examples": [
+              "he takes size 5 boots"
+            ],
+            "synonyms": [
+              "wear",
+              "use; Morerequire",
+              "need \"I take size six shoes\""
+            ]
+          },
+          {
+            "definition": "(of a plant or seed) take root or begin to grow; germinate.",
+            "examples": [
+              "the fuchsia cuttings had taken and were looking good"
+            ]
+          },
+          {
+            "definition": "(of an added substance) become successfully established.",
+            "examples": [
+              "be effective, take effect, hold, root, be productive, be effectual, be useful; Morework, operate, succeed, function; formalbe efficacious \"the dye did not take\"Morework, operate, succeed, function; be efficacious the dye did not take"
+            ]
+          },
+          {
+            "definition": "have or require as part of the appropriate construction.",
+            "examples": [
+              "verbs that take both the infinitive and the finite clause as their object"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "takes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a scene or sequence of sound or vision photographed or recorded continuously at one time.",
+            "examples": [
+              "he completed a particularly difficult scene in two takes"
+            ],
+            "synonyms": [
+              "scene",
+              "sequence",
+              "film clip",
+              "clip \"a clapperboard for the start of each take\""
+            ]
+          },
+          {
+            "definition": "a particular version of or approach to something.",
+            "examples": [
+              "his own whimsical take on life"
+            ],
+            "synonyms": [
+              "view of",
+              "reading of",
+              "version of",
+              "interpretation of",
+              "understanding of",
+              "account of",
+              "analysis of",
+              "approach to \"a fresh take on gender issues\""
+            ]
+          },
+          {
+            "definition": "an amount of something gained or acquired from one source or in one session.",
+            "examples": [
+              "the take from commodity taxation"
+            ],
+            "synonyms": [
+              "catch",
+              "haul",
+              "bag",
+              "yield",
+              "net More\"the whalers' commercial take\"revenue",
+              "income",
+              "gain",
+              "profit; takings",
+              "proceeds",
+              "returns",
+              "receipts",
+              "winnings",
+              "pickings",
+              "earnings",
+              "spoils; purse \"the state's tax take\""
+            ]
+          },
+          {
+            "definition": "the money received at a theater, arena, etc., for seats."
+          },
+          {
+            "definition": "an amount of copy set up at one time or by one compositor."
+          }
+        ]
+      }
+    ]
+  }
+]

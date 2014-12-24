@@ -1,0 +1,50 @@
+[
+  {
+    "word": "disclosure",
+    "syllables": [
+      "dis",
+      "clo",
+      "sure"
+    ],
+    "pronunciation": "disˈklōZHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "disclosure"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of making new or secret information known.",
+            "examples": [
+              "a judge ordered the disclosure of the government documents"
+            ],
+            "synonyms": [
+              "revelation",
+              "declaration",
+              "announcement",
+              "news",
+              "report; Moreleak \"she was embarrassed by this unexpected disclosure\"publishing",
+              "broadcasting; revelation",
+              "communication",
+              "release",
+              "uncovering",
+              "unveiling",
+              "exposure",
+              "exposé; leakage \"the disclosure of official information\""
+            ]
+          },
+          {
+            "definition": "a fact, especially a secret, that is made known.",
+            "examples": [
+              "plural noun: disclosures"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

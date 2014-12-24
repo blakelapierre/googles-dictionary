@@ -1,0 +1,118 @@
+[
+  {
+    "word": "discord",
+    "syllables": [
+      "dis",
+      "cord"
+    ],
+    "pronunciation": "ˈdiskôrddisˈkôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "discord"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "disagreement between people.",
+            "examples": [
+              "a prosperous family who showed no signs of discord"
+            ],
+            "synonyms": [
+              "strife",
+              "conflict",
+              "friction",
+              "hostility",
+              "antagonism",
+              "antipathy",
+              "enmity",
+              "bad feeling",
+              "ill feeling",
+              "bad blood",
+              "argument",
+              "quarreling",
+              "squabbling",
+              "bickering",
+              "wrangling",
+              "feuding",
+              "contention",
+              "disagreement",
+              "dissension",
+              "dispute",
+              "difference of opinion",
+              "disunity",
+              "division",
+              "opposition; infighting \"stress resulting from family discord\""
+            ],
+            "antonyms": [
+              "accord",
+              "harmony"
+            ]
+          },
+          {
+            "definition": "lack of agreement or harmony between things.",
+            "examples": [
+              "the discord between indigenous and Western cultures"
+            ]
+          },
+          {
+            "definition": "lack of harmony between notes sounding together.",
+            "examples": [
+              "the music faded in discord"
+            ],
+            "synonyms": [
+              "dissonance",
+              "discordance",
+              "disharmony",
+              "cacophony \"the music faded in discord\""
+            ],
+            "antonyms": [
+              "harmony"
+            ]
+          },
+          {
+            "definition": "a chord that (in conventional harmonic terms) is regarded as unpleasing or requiring resolution by another.",
+            "examples": [
+              "plural noun: discords"
+            ]
+          },
+          {
+            "definition": "any interval except a unison, an octave, a perfect fifth or fourth, a major or minor third and sixth, or their octaves."
+          },
+          {
+            "definition": "a single note dissonant with another."
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "discord"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "discords"
+          },
+          {
+            "part": "past tense",
+            "variant": "discorded"
+          },
+          {
+            "part": "past participle",
+            "variant": "discorded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "discording"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

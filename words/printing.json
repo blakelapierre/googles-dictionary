@@ -1,0 +1,168 @@
+[
+  {
+    "word": "printing",
+    "syllables": [
+      "print",
+      "ing"
+    ],
+    "pronunciation": "ˈprin(t)iNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "printing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the production of books, newspapers, or other printed material.",
+            "examples": [
+              "the invention of printing"
+            ]
+          },
+          {
+            "definition": "a single impression of a book.",
+            "examples": [
+              "plural noun: printings"
+            ]
+          },
+          {
+            "definition": "handwriting in which the letters are written separately rather than being joined together."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "print",
+    "syllables": [
+      "print"
+    ],
+    "pronunciation": "print",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "printing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "produce (books, newspapers, magazines, etc.), especially in large quantities, by a mechanical process involving the transfer of text, images, or designs to paper.",
+            "examples": [
+              "a thousand copies of the book were printed"
+            ],
+            "synonyms": [
+              "send to press",
+              "set in print",
+              "run off",
+              "reprint \"the newspaper is printed just after midnight\""
+            ]
+          },
+          {
+            "definition": "produce (text or a picture) by printing.",
+            "examples": [
+              "the words had been printed in blue type"
+            ],
+            "synonyms": [
+              "send to press",
+              "set in print",
+              "run off",
+              "reprint \"the newspaper is printed just after midnight\""
+            ]
+          },
+          {
+            "definition": "(of a newspaper or magazine) publish (a piece of writing) within its pages.",
+            "examples": [
+              "the article was printed in the first edition"
+            ],
+            "synonyms": [
+              "publish",
+              "issue",
+              "release",
+              "circulate \"they printed 30",
+              "000 copies\""
+            ]
+          },
+          {
+            "definition": "(of a publisher or printer) arrange for (a book, manuscript, etc.) to be reproduced in large quantities.",
+            "examples": [
+              "Harper printed her memoirs in 1930"
+            ]
+          },
+          {
+            "definition": "produce a paper copy of (information stored on a computer).",
+            "examples": [
+              "the results of a search can be printed out"
+            ]
+          },
+          {
+            "definition": "send (a computer file) to a printer or to another, temporary file."
+          },
+          {
+            "definition": "produce (a photographic print) from a negative.",
+            "examples": [
+              "any make of film can be developed and printed"
+            ]
+          },
+          {
+            "definition": "write (text) clearly without joining the letters.",
+            "examples": [
+              "print your name and address on the back of the check"
+            ]
+          },
+          {
+            "definition": "mark (a surface, typically a textile or a garment) with a colored design or pattern.",
+            "examples": [
+              "a delicate fabric printed with roses"
+            ],
+            "synonyms": [
+              "imprint",
+              "impress",
+              "stamp",
+              "mark \"patterns were printed on the cloth\""
+            ]
+          },
+          {
+            "definition": "transfer (a colored design or pattern) to a surface.",
+            "examples": [
+              "patterns of birds, flowers, and trees were printed on the cotton"
+            ]
+          },
+          {
+            "definition": "make (a mark or indentation) on a surface or in a soft substance by pressing something onto it.",
+            "examples": [
+              "he printed a mark on her soft skin"
+            ]
+          },
+          {
+            "definition": "mark or indent (the surface of a soft substance).",
+            "examples": [
+              "we printed the butter with carved wooden butter molds"
+            ]
+          },
+          {
+            "definition": "fix (something) firmly or indelibly in someone's mind.",
+            "examples": [
+              "his face, with its clearly drawn features, was printed on her memory"
+            ],
+            "synonyms": [
+              "register",
+              "record",
+              "impress",
+              "imprint",
+              "engrave",
+              "etch",
+              "stamp",
+              "mark \"the incident is printed on her memory\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

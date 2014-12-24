@@ -1,0 +1,46 @@
+[
+  {
+    "word": "tantrum",
+    "syllables": [
+      "tan",
+      "trum"
+    ],
+    "pronunciation": "ˈtantrəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tantrum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tantrums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an uncontrolled outburst of anger and frustration, typically in a young child.",
+            "examples": [
+              "he has temper tantrums if he can't get his own way"
+            ],
+            "synonyms": [
+              "fit of temper",
+              "fit of rage",
+              "fit",
+              "outburst",
+              "pet",
+              "paroxysm",
+              "frenzy",
+              "bad mood",
+              "mood",
+              "huff",
+              "scene; informalhissy fit \"how can you tolerate his tantrums?\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

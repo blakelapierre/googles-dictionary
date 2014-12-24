@@ -1,0 +1,118 @@
+[
+  {
+    "word": "select",
+    "syllables": [
+      "se",
+      "lect"
+    ],
+    "pronunciation": "səˈlekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "select"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "selects"
+          },
+          {
+            "part": "past tense",
+            "variant": "selected"
+          },
+          {
+            "part": "past participle",
+            "variant": "selected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "selecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carefully choose as being the best or most suitable.",
+            "examples": [
+              "students must select their own program"
+            ],
+            "synonyms": [
+              "choose",
+              "pick (out)",
+              "single out",
+              "sort out",
+              "take; Moreopt for",
+              "decide on",
+              "settle on",
+              "determine",
+              "nominate",
+              "appoint",
+              "elect \"select the correct tool for the job\""
+            ]
+          },
+          {
+            "definition": "(in terms of evolution) determine whether (a characteristic or organism) will survive.",
+            "examples": [
+              "a phenotype can be selected against"
+            ]
+          },
+          {
+            "definition": "use a mouse or keystrokes to mark (something) on a computer screen for a particular operation."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "select"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a group of people or things) carefully chosen from a larger number as being the best or most valuable.",
+            "examples": [
+              "he joined his select team of young Intelligence operatives"
+            ],
+            "synonyms": [
+              "choice",
+              "hand-picked",
+              "prime",
+              "first-rate",
+              "first-class",
+              "superior",
+              "finest",
+              "best",
+              "top-class",
+              "blue-ribbon",
+              "supreme",
+              "superb",
+              "excellent; MoreinformalA1",
+              "top-notch \"a select group of players\""
+            ],
+            "antonyms": [
+              "inferior"
+            ]
+          },
+          {
+            "definition": "(of a place or group of people) only used by or consisting of a wealthy or sophisticated elite; exclusive.",
+            "examples": [
+              "the opera was seen by a small and highly select audience"
+            ],
+            "synonyms": [
+              "exclusive",
+              "elite",
+              "favored",
+              "privileged; Morewealthy; informalposh \"a select clientele\""
+            ],
+            "antonyms": [
+              "common"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

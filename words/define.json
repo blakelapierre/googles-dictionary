@@ -1,0 +1,91 @@
+[
+  {
+    "word": "define",
+    "syllables": [
+      "de",
+      "fine"
+    ],
+    "pronunciation": "dəˈfīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "define"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "defines"
+          },
+          {
+            "part": "past tense",
+            "variant": "defined"
+          },
+          {
+            "part": "past participle",
+            "variant": "defined"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "defining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "state or describe exactly the nature, scope, or meaning of.",
+            "examples": [
+              "the contract will seek to define the client's obligations"
+            ],
+            "synonyms": [
+              "explain",
+              "expound",
+              "interpret",
+              "elucidate",
+              "describe",
+              "clarify; Moregive the meaning of",
+              "put into words \"the dictionary defines it succinctly\""
+            ]
+          },
+          {
+            "definition": "give the meaning of (a word or phrase), especially in a dictionary."
+          },
+          {
+            "definition": "make up or establish the character of.",
+            "examples": [
+              "for some, the football team defines their identity"
+            ]
+          },
+          {
+            "definition": "mark out the boundary or limits of.",
+            "examples": [
+              "clearly defined boundaries"
+            ],
+            "synonyms": [
+              "determine",
+              "establish",
+              "fix",
+              "specify",
+              "designate",
+              "decide",
+              "stipulate",
+              "set out; Moredemarcate",
+              "delineate \"he defined the limits of the law\""
+            ]
+          },
+          {
+            "definition": "make clear the outline of; delineate.",
+            "examples": [
+              "she defined her eyes by applying eyeshadow"
+            ],
+            "synonyms": [
+              "outline",
+              "delineate",
+              "silhouette \"the farm buildings were defined against the fields\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "word": "made",
+  "syllables": [
+    "made"
+  ],
+  "pronunciation": "mād",
+  "parts": [
+    {
+      "part": "",
+      "variants": [],
+      "definitions": []
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "suffix",
+          "variant": "-made"
+        },
+        {
+          "part": "adjective",
+          "variant": "made"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "made or formed in a particular place or by a particular process.",
+          "examples": [
+            "a Japanese-made camera"
+          ]
+        }
+      ]
+    }
+  ]
+}

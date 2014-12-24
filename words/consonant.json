@@ -1,0 +1,70 @@
+{
+  "word": "consonant",
+  "syllables": [
+    "con",
+    "so",
+    "nant"
+  ],
+  "pronunciation": "ˈkänsənənt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "consonant"
+        },
+        {
+          "part": "plural noun",
+          "variant": "consonants"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a basic speech sound in which the breath is at least partly obstructed and which can be combined with a vowel to form a syllable."
+        },
+        {
+          "definition": "a letter representing a consonant."
+        }
+      ]
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "consonant"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "denoting or relating to a consonant sound or letter.",
+          "examples": [
+            "a consonant phoneme"
+          ]
+        },
+        {
+          "definition": "in agreement or harmony with.",
+          "examples": [
+            "the findings are consonant with other research"
+          ],
+          "synonyms": [
+            "in agreement with",
+            "consistent with",
+            "in accordance with",
+            "in harmony with",
+            "compatible with",
+            "congruous with",
+            "in tune with \"these findings are consonant with recent research\""
+          ]
+        },
+        {
+          "definition": "making a harmonious interval or chord.",
+          "examples": [
+            "the bass is consonant with all the upper notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

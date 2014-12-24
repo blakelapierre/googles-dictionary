@@ -1,0 +1,32 @@
+{
+  "word": "OR",
+  "syllables": [
+    "OR"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "abbreviation",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "OR"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "operational research."
+        },
+        {
+          "definition": "Oregon (in official postal use).",
+          "examples": [
+            "symbol: OR"
+          ]
+        },
+        {
+          "definition": "other ranks (as opposed to commissioned officers)."
+        }
+      ]
+    }
+  ]
+}

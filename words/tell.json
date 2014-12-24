@@ -1,0 +1,175 @@
+{
+  "word": "tell",
+  "syllables": [
+    "tell"
+  ],
+  "pronunciation": "tel",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "told"
+        },
+        {
+          "part": "past participle",
+          "variant": "told"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "communicate information, facts, or news to someone in spoken or written words.",
+          "examples": [
+            "I told her you were coming"
+          ],
+          "synonyms": [
+            "inform",
+            "notify",
+            "apprise",
+            "let know",
+            "make aware",
+            "acquaint with",
+            "advise",
+            "put in the picture",
+            "brief",
+            "fill in; Morealert",
+            "warn; informalclue in/up \"why didn't you tell me before?\"relate",
+            "recount",
+            "narrate",
+            "unfold",
+            "report",
+            "recite",
+            "describe",
+            "sketch",
+            "weave",
+            "spin; utter",
+            "voice",
+            "state",
+            "declare",
+            "communicate",
+            "impart",
+            "divulge \"she told the story slowly\""
+          ]
+        },
+        {
+          "definition": "order, instruct, or advise (someone) to do something.",
+          "examples": [
+            "tell him to go away"
+          ],
+          "synonyms": [
+            "instruct",
+            "order",
+            "command",
+            "direct",
+            "charge",
+            "enjoin",
+            "call on",
+            "require; literarybid \"she told him to leave\""
+          ]
+        },
+        {
+          "definition": "narrate or relate (a tale or story)."
+        },
+        {
+          "definition": "reveal (information) to someone in a nonverbal way.",
+          "examples": [
+            "the figures tell a different story"
+          ],
+          "synonyms": [
+            "reveal",
+            "show",
+            "indicate",
+            "be evidence of",
+            "disclose",
+            "convey",
+            "signify \"the figures tell a different story\""
+          ]
+        },
+        {
+          "definition": "divulge confidential or private information.",
+          "examples": [
+            "promise you won't tell"
+          ],
+          "synonyms": [
+            "give the game away",
+            "talk",
+            "tell tales",
+            "tattle; Moreinformalspill the beans",
+            "let the cat out of the bag",
+            "blab \"promise you won't tell?\""
+          ]
+        },
+        {
+          "definition": "inform someone of the misdemeanors of.",
+          "examples": [
+            "friends don't tell on each other"
+          ],
+          "synonyms": [
+            "inform on",
+            "tell tales on",
+            "give away",
+            "denounce",
+            "sell out; Moreinformalblow the whistle on",
+            "rat on",
+            "squeal on",
+            "finger \"she was bound to tell on him\""
+          ]
+        },
+        {
+          "definition": "decide or determine correctly or with certainty.",
+          "examples": [
+            "you can tell they're in love"
+          ],
+          "synonyms": [
+            "ascertain",
+            "determine",
+            "work out",
+            "make out",
+            "deduce",
+            "discern",
+            "perceive",
+            "see",
+            "identify",
+            "recognize",
+            "understand",
+            "comprehend; Moreinformalfigure out; informalsuss out \"it was hard to tell what he said\""
+          ]
+        },
+        {
+          "definition": "distinguish (one person or thing) from another; perceive (the difference) between one person or thing and another.",
+          "examples": [
+            "I can't tell the difference between margarine and butter"
+          ],
+          "synonyms": [
+            "distinguish",
+            "differentiate",
+            "discriminate \"he couldn't tell one from the other\""
+          ]
+        },
+        {
+          "definition": "(of an experience or period of time) have a noticeable, typically harmful, effect on someone.",
+          "examples": [
+            "the strain of supporting the family was beginning to tell on him"
+          ],
+          "synonyms": [
+            "take its toll",
+            "leave its mark; affect \"the strain began to tell on him\""
+          ]
+        },
+        {
+          "definition": "(of a particular factor) play a part in the success or otherwise of someone or something.",
+          "examples": [
+            "lack of fitness told against him on his first run of the season"
+          ]
+        },
+        {
+          "definition": "count (the members of a series or group).",
+          "examples": [
+            "the shepherd had told all his sheep"
+          ]
+        }
+      ]
+    }
+  ]
+}

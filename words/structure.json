@@ -1,0 +1,101 @@
+{
+  "word": "structure",
+  "syllables": [
+    "struc",
+    "ture"
+  ],
+  "pronunciation": "ˈstrək(t)SHər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "structure"
+        },
+        {
+          "part": "plural noun",
+          "variant": "structures"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the arrangement of and relations between the parts or elements of something complex.",
+          "examples": [
+            "flint is extremely hard, like diamond, which has a similar structure"
+          ],
+          "synonyms": [
+            "construction",
+            "form",
+            "formation",
+            "shape",
+            "composition",
+            "anatomy",
+            "makeup",
+            "constitution; Moreorganization",
+            "system",
+            "arrangement",
+            "design",
+            "framework",
+            "configuration",
+            "pattern \"the structure of local government\""
+          ]
+        },
+        {
+          "definition": "a building or other object constructed from several parts.",
+          "examples": [
+            "building, edifice, construction, erection, pile a vast Gothic structure"
+          ]
+        },
+        {
+          "definition": "the quality of being organized.",
+          "examples": [
+            "we shall use three headings to give some structure to the discussion"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "structure"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "structures"
+        },
+        {
+          "part": "past tense",
+          "variant": "structured"
+        },
+        {
+          "part": "past participle",
+          "variant": "structured"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "structuring"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "construct or arrange according to a plan; give a pattern or organization to.",
+          "examples": [
+            "the game is structured so that there are five ways to win"
+          ],
+          "synonyms": [
+            "arrange",
+            "organize",
+            "design",
+            "shape",
+            "construct",
+            "build",
+            "put together \"the program is structured around periods of home study\""
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "word": "count",
+    "syllables": [
+      "count"
+    ],
+    "pronunciation": "kount",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "count"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "counts"
+          },
+          {
+            "part": "past tense",
+            "variant": "counted"
+          },
+          {
+            "part": "past participle",
+            "variant": "counted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "counting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "determine the total number of (a collection of items).",
+            "examples": [
+              "I started to count the stars I could see"
+            ],
+            "synonyms": [
+              "add up",
+              "add together",
+              "reckon up",
+              "total",
+              "tally",
+              "calculate",
+              "compute",
+              "tot up; Morecensus; formalenumerate; datedcast up \"Vern counted the money again\""
+            ]
+          },
+          {
+            "definition": "recite numbers in ascending order, usually starting at the number one.",
+            "examples": [
+              "hold the position as you count to five"
+            ]
+          },
+          {
+            "definition": "recite or display numbers backward to zero to indicate the time remaining before the launch of a rocket or the start of an operation.",
+            "examples": [
+              "the floor manager pointed at the camera and counted down"
+            ]
+          },
+          {
+            "definition": "prepare for a significant event in the short time remaining before it.",
+            "examples": [
+              "with more orders expected, the company is counting down to a bumper Christmas"
+            ]
+          },
+          {
+            "definition": "take into account; include.",
+            "examples": [
+              "the staff has shrunk to four, or five if you count the summer intern"
+            ],
+            "synonyms": [
+              "include",
+              "take into account",
+              "take account of",
+              "take into consideration",
+              "allow for \"a company with 250 employees",
+              "not counting overseas staff\""
+            ]
+          },
+          {
+            "definition": "include someone in an activity or the plans for it.",
+            "examples": [
+              "if the project gets started, count me in"
+            ]
+          },
+          {
+            "definition": "consider (someone or something) to possess a specified quality or fulfill a specified role.",
+            "examples": [
+              "she met some rebuffs from people she had counted as her friends"
+            ],
+            "synonyms": [
+              "consider",
+              "think",
+              "feel",
+              "regard",
+              "look on as",
+              "view as",
+              "hold to be",
+              "judge",
+              "deem",
+              "account \"I count it a privilege to be asked\""
+            ]
+          },
+          {
+            "definition": "be regarded as possessing a specified quality or fulfilling a specified role.",
+            "examples": [
+              "the rebate counts as taxable income"
+            ]
+          },
+          {
+            "definition": "be significant.",
+            "examples": [
+              "it did not matter what the audience thought—it was the critics that counted"
+            ],
+            "synonyms": [
+              "matter",
+              "be of consequence",
+              "be of account",
+              "be significant",
+              "signify",
+              "be important",
+              "carry weight \"it's your mother's feelings that count\""
+            ]
+          },
+          {
+            "definition": "(of a factor) play a part in influencing opinion for or against someone or something.",
+            "examples": [
+              "he hopes his sportsmanlike attitude will count in his favor"
+            ]
+          },
+          {
+            "definition": "be worth (a specified amount).",
+            "examples": [
+              "he has no power base and his views count for little"
+            ]
+          },
+          {
+            "definition": "be included in an assessment of (a final result or amount).",
+            "examples": [
+              "reduced rate contributions do not count toward your pension"
+            ]
+          },
+          {
+            "definition": "rely on.",
+            "examples": [
+              "whatever you're doing, you can count on me"
+            ],
+            "synonyms": [
+              "rely on",
+              "depend on",
+              "bank on",
+              "trust (in)",
+              "be sure of",
+              "have (every) confidence in",
+              "believe in",
+              "put one's faith in",
+              "take for granted",
+              "take as read \"you can count on me\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "count"
+          },
+          {
+            "part": "plural noun",
+            "variant": "counts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of determining the total number of something.",
+            "examples": [
+              "at the last count, fifteen applications were still outstanding"
+            ],
+            "synonyms": [
+              "calculation",
+              "computation",
+              "reckoning",
+              "tally; formalenumeration \"at last count",
+              "the committee had 57 members\""
+            ]
+          },
+          {
+            "definition": "the total determined by counting.",
+            "examples": [
+              "there was a moderate increase in the white cell count in both patients"
+            ],
+            "synonyms": [
+              "amount",
+              "number",
+              "total \"her white blood cell count\""
+            ]
+          },
+          {
+            "definition": "an act of reciting numbers in ascending order, up to the specified number.",
+            "examples": [
+              "hold the position for five counts"
+            ]
+          },
+          {
+            "definition": "an act of reciting numbers up to ten by the referee when a boxer is knocked down, the boxer being considered knocked out if still down when ten is reached."
+          },
+          {
+            "definition": "the number of balls and strikes that have been charged to the batter, as recalculated with each pitch.",
+            "examples": [
+              "the count on Gwynn is 1 ball and 2 strikes"
+            ]
+          },
+          {
+            "definition": "a point for discussion or consideration.",
+            "examples": [
+              "the program remained vulnerable on a number of counts"
+            ]
+          },
+          {
+            "definition": "a separate charge in an indictment.",
+            "examples": [
+              "he pleaded guilty to five counts of murder"
+            ]
+          },
+          {
+            "definition": "the measure of the fineness of a yarn expressed as the weight of a given length or the length of a given weight."
+          },
+          {
+            "definition": "a measure of the fineness of a woven fabric expressed as the number of warp or weft threads in a given length."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "count",
+    "syllables": [
+      "count"
+    ],
+    "pronunciation": "kount",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "count"
+          },
+          {
+            "part": "plural noun",
+            "variant": "counts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a European nobleman whose rank corresponds to that of an English earl."
+          }
+        ]
+      }
+    ]
+  }
+]

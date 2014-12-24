@@ -1,0 +1,63 @@
+[
+  {
+    "word": "significantly",
+    "syllables": [
+      "sig",
+      "nif",
+      "i",
+      "cant",
+      "ly"
+    ],
+    "pronunciation": "səɡˈnifəkən(t)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "significantly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a sufficiently great or important way as to be worthy of attention.",
+            "examples": [
+              "energy bills have increased significantly this year"
+            ],
+            "synonyms": [
+              "notably",
+              "remarkably",
+              "outstandingly",
+              "importantly",
+              "crucially",
+              "materially",
+              "appreciably; Moremarkedly",
+              "considerably",
+              "obviously",
+              "conspicuously",
+              "strikingly",
+              "signally \"significantly better\"meaningfully",
+              "expressively",
+              "eloquently",
+              "revealingly",
+              "suggestively",
+              "knowingly \"he paused significantly\""
+            ]
+          },
+          {
+            "definition": "in a way that has a particular meaning.",
+            "examples": [
+              "significantly, he has refused to give a straight answer to this question"
+            ]
+          },
+          {
+            "definition": "in a manner that suggests a meaning or message that is not explicitly stated.",
+            "examples": [
+              "he paused significantly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

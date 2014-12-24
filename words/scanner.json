@@ -1,0 +1,36 @@
+[
+  {
+    "word": "scanner",
+    "syllables": [
+      "scan",
+      "ner"
+    ],
+    "pronunciation": "ˈskanər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scanner"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scanners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a device for examining, reading, or monitoring something, in particular."
+          },
+          {
+            "definition": "a machine that examines the body through the use of radiation, ultrasound, or magnetic resonance imaging, as a diagnostic aid."
+          },
+          {
+            "definition": "a device that scans documents and converts them into digital data."
+          }
+        ]
+      }
+    ]
+  }
+]

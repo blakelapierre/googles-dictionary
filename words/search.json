@@ -1,0 +1,128 @@
+[
+  {
+    "word": "search",
+    "syllables": [
+      "search"
+    ],
+    "pronunciation": "sərCH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "search"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "searches"
+          },
+          {
+            "part": "past tense",
+            "variant": "searched"
+          },
+          {
+            "part": "past participle",
+            "variant": "searched"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "searching"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "try to find something by looking or otherwise seeking carefully and thoroughly.",
+            "examples": [
+              "I searched among the rocks, but there was nothing"
+            ],
+            "synonyms": [
+              "hunt (for)",
+              "look for",
+              "seek",
+              "forage for",
+              "fish around/about for",
+              "look high and low for",
+              "ferret around/about for",
+              "root around/about for",
+              "rummage around/about for",
+              "cast around/about for \"I searched for the key in my handbag\""
+            ]
+          },
+          {
+            "definition": "examine (a place, vehicle, or person) thoroughly in order to find something or someone.",
+            "examples": [
+              "she searched the house from top to bottom"
+            ],
+            "synonyms": [
+              "look through",
+              "hunt through",
+              "explore",
+              "scour",
+              "rifle through",
+              "go through",
+              "sift through",
+              "comb",
+              "go through with a fine-tooth comb; Moreturn upside down",
+              "turn inside out",
+              "leave no stone unturned in \"he searched every room in the house\"examine",
+              "inspect",
+              "check",
+              "frisk \"the guards searched him for weapons\""
+            ]
+          },
+          {
+            "definition": "look for information in (a database or the World Wide Web) using a search engine.",
+            "examples": [
+              "search our online archive for stories dating back to February 1996"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "search"
+          },
+          {
+            "part": "plural noun",
+            "variant": "searches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of searching for someone or something.",
+            "examples": [
+              "the police carried out a thorough search of the premises"
+            ],
+            "synonyms": [
+              "hunt",
+              "look",
+              "quest; Morepursuit",
+              "manhunt \"the police continued their search\"searching for",
+              "hunting for",
+              "seeking",
+              "looking for",
+              "on the lookout for",
+              "in pursuit of \"they say they are in search of a silver flask with the monogram 'DLR'\""
+            ]
+          },
+          {
+            "definition": "an act or instance of searching a database or the World Wide Web.",
+            "examples": [
+              "time-consuming searches of the Internet"
+            ]
+          },
+          {
+            "definition": "the systematic retrieval of information, or the facility for this."
+          },
+          {
+            "definition": "an investigation of public records to find if a property is subject to any liabilities or encumbrances."
+          }
+        ]
+      }
+    ]
+  }
+]

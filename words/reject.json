@@ -1,0 +1,52 @@
+[
+  {
+    "word": "reject",
+    "syllables": [
+      "re",
+      "ject"
+    ],
+    "pronunciation": "rəˈjektˈrēˌjekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reject"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rejects"
+          },
+          {
+            "part": "past tense",
+            "variant": "rejected"
+          },
+          {
+            "part": "past participle",
+            "variant": "rejected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rejecting"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reject"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rejects"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

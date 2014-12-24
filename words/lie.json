@@ -1,0 +1,273 @@
+[
+  {
+    "word": "lie",
+    "syllables": [
+      "lie"
+    ],
+    "pronunciation": "lī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lie"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lies"
+          },
+          {
+            "part": "past tense",
+            "variant": "lay"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lying"
+          },
+          {
+            "part": "past participle",
+            "variant": "lain"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or animal) be in or assume a horizontal or resting position on a supporting surface.",
+            "examples": [
+              "the man lay face downward on the grass"
+            ],
+            "synonyms": [
+              "recline",
+              "lie down",
+              "lie back",
+              "be recumbent",
+              "be prostrate",
+              "be supine",
+              "be prone",
+              "be stretched out",
+              "sprawl",
+              "rest",
+              "repose",
+              "lounge",
+              "loll \"he was lying on a bed\""
+            ],
+            "antonyms": [
+              "stand"
+            ]
+          },
+          {
+            "definition": "(of a thing) rest flat on a surface.",
+            "examples": [
+              "a book lay open on the table"
+            ],
+            "synonyms": [
+              "be placed",
+              "be situated",
+              "be positioned",
+              "rest \"her handbag lay on a chair\""
+            ]
+          },
+          {
+            "definition": "(of a dead person) be buried in a particular place."
+          },
+          {
+            "definition": "be, remain, or be kept in a specified state.",
+            "examples": [
+              "the church lies in ruins today"
+            ]
+          },
+          {
+            "definition": "(of something abstract) reside or be found.",
+            "examples": [
+              "the solution lies in a return to “traditional family values.”"
+            ],
+            "synonyms": [
+              "consist",
+              "be inherent",
+              "be present",
+              "be contained",
+              "exist",
+              "reside \"the difficulty lies in building real quality into the products\""
+            ]
+          },
+          {
+            "definition": "(of a place) be situated in a specified position or direction.",
+            "examples": [
+              "the small town of Swampscott lies about ten miles north of Boston"
+            ],
+            "synonyms": [
+              "be situated",
+              "be located",
+              "be placed",
+              "be found",
+              "be sited \"lying on the border of Switzerland and Austria\""
+            ]
+          },
+          {
+            "definition": "(of a scene) extend from the observer's viewpoint in a specified direction.",
+            "examples": [
+              "stand here, and all of Amsterdam lies before you"
+            ]
+          },
+          {
+            "definition": "(of an action, charge, or claim) be admissible or sustainable."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lie"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the way, direction, or position in which something lies."
+          },
+          {
+            "definition": "the position in which a golf ball comes to rest, especially as regards the ease of the next shot."
+          },
+          {
+            "definition": "the lair or place of cover of an animal or a bird.",
+            "examples": [
+              "plural noun: lies"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lie",
+    "syllables": [
+      "lie"
+    ],
+    "pronunciation": "lī",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lie"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an intentionally false statement.",
+            "examples": [
+              "Mungo felt a pang of shame at telling Alice a lie"
+            ],
+            "synonyms": [
+              "untruth",
+              "falsehood",
+              "fib",
+              "fabrication",
+              "deception",
+              "invention",
+              "fiction",
+              "piece of fiction",
+              "falsification; More(little) white lie",
+              "half-truth",
+              "exaggeration; informaltall tale",
+              "whopper",
+              "taradiddle \"loyalty had made him tell lies\""
+            ],
+            "antonyms": [
+              "truth"
+            ]
+          },
+          {
+            "definition": "used with reference to a situation involving deception or founded on a mistaken impression.",
+            "examples": [
+              "all their married life she had been living a lie"
+            ],
+            "synonyms": [
+              "untruthfulness",
+              "fabrication",
+              "fibbing",
+              "perjury",
+              "white lies; Morefalseness",
+              "falsity",
+              "dishonesty",
+              "mendacity",
+              "telling stories",
+              "invention",
+              "misrepresentation",
+              "deceit",
+              "duplicity; literaryperfidy \"she was no good at lying\""
+            ],
+            "antonyms": [
+              "honesty"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lie"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lies"
+          },
+          {
+            "part": "past tense",
+            "variant": "lied"
+          },
+          {
+            "part": "past participle",
+            "variant": "lied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tell a lie or lies.",
+            "examples": [
+              "why had Wesley lied about his visit to Philadelphia?"
+            ],
+            "synonyms": [
+              "tell an untruth",
+              "tell a lie",
+              "fib",
+              "dissemble",
+              "dissimulate",
+              "misinform",
+              "mislead",
+              "tell a white lie",
+              "perjure oneself",
+              "commit perjury",
+              "prevaricate; Moreinformallie through one's teeth",
+              "stretch the truth; formalforswear oneself \"he lied to the police\""
+            ]
+          },
+          {
+            "definition": "get oneself into or out of a situation by lying.",
+            "examples": [
+              "you lied your way on to this voyage by implying you were an experienced sailor"
+            ]
+          },
+          {
+            "definition": "(of a thing) present a false impression; be deceptive.",
+            "examples": [
+              "the camera cannot lie"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

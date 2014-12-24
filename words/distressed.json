@@ -1,0 +1,111 @@
+[
+  {
+    "word": "distressed",
+    "syllables": [
+      "dis",
+      "tressed"
+    ],
+    "pronunciation": "dəˈstrest",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "distressed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "suffering from anxiety, sorrow, or pain.",
+            "examples": [
+              "I was distressed at the news of his death"
+            ]
+          },
+          {
+            "definition": "impoverished.",
+            "examples": [
+              "women in distressed circumstances"
+            ]
+          },
+          {
+            "definition": "(of furniture, leather, or clothing) having simulated marks of age and wear.",
+            "examples": [
+              "a distressed leather jacket"
+            ]
+          },
+          {
+            "definition": "(of property) for sale at unusually low prices or at a loss, especially due to mortgage foreclosure or because it is part of an insolvent estate."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "distress",
+    "syllables": [
+      "dis",
+      "tress"
+    ],
+    "pronunciation": "dəˈstres",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "distressed"
+          },
+          {
+            "part": "past participle",
+            "variant": "distressed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) anxiety, sorrow, or pain.",
+            "examples": [
+              "I didn't mean to distress you"
+            ],
+            "synonyms": [
+              "cause anguish to",
+              "cause suffering to",
+              "pain",
+              "upset",
+              "make miserable; Moretrouble",
+              "worry",
+              "bother",
+              "perturb",
+              "disturb",
+              "disquiet",
+              "agitate",
+              "harrow",
+              "torment \"he was distressed by the trial\"upsetting",
+              "worrying",
+              "disturbing",
+              "disquieting",
+              "painful",
+              "traumatic",
+              "agonizing",
+              "harrowing; sad",
+              "saddening",
+              "heartbreaking",
+              "heart-rending; informalgut-wrenching \"the news was terribly distressing\""
+            ],
+            "antonyms": [
+              "calm",
+              "please",
+              "comforting"
+            ]
+          },
+          {
+            "definition": "give (furniture, leather, or clothing) simulated marks of age and wear.",
+            "examples": [
+              "the manner in which leather jackets are industrially distressed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

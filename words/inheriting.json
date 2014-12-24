@@ -1,0 +1,85 @@
+[
+  {
+    "word": "inherit",
+    "syllables": [
+      "in",
+      "her",
+      "it"
+    ],
+    "pronunciation": "inˈherət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "inheriting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "receive (money, property, or a title) as an heir at the death of the previous holder.",
+            "examples": [
+              "she inherited a fortune from her father"
+            ],
+            "synonyms": [
+              "become heir to",
+              "come into/by",
+              "be bequeathed",
+              "be left",
+              "be willed",
+              "receive; Morebe devised \"she inherited his farm\"bequeathed; hereditary",
+              "willed",
+              "handed-down",
+              "passed-down",
+              "passed-on",
+              "transferred; ancestral",
+              "family",
+              "familial \"several shares of inherited stock\""
+            ]
+          },
+          {
+            "definition": "derive (a quality, characteristic, or predisposition) genetically from one's parents or ancestors.",
+            "examples": [
+              "she had inherited the beauty of her grandmother"
+            ],
+            "synonyms": [
+              "genetic",
+              "congenital",
+              "inborn",
+              "hereditary",
+              "inbred",
+              "innate; Morein the family",
+              "in the blood",
+              "in the genes \"an inherited mutation\""
+            ]
+          },
+          {
+            "definition": "receive or be left with (a situation, object, etc.) from a predecessor or former owner.",
+            "examples": [
+              "spending commitments inherited from previous administrations"
+            ],
+            "synonyms": [
+              "succeed to",
+              "assume",
+              "take over",
+              "come into; formalaccede to \"Richard inherited the title\""
+            ]
+          },
+          {
+            "definition": "come into possession of (belongings) from someone else.",
+            "examples": [
+              "she inherits all her clothes from her older sisters"
+            ]
+          },
+          {
+            "definition": "come into possession of (something) as a right (especially in biblical translations and allusions).",
+            "examples": [
+              "master, what must I do to inherit eternal life?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

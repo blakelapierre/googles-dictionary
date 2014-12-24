@@ -1,0 +1,78 @@
+[
+  {
+    "word": "generally",
+    "syllables": [
+      "gen",
+      "er",
+      "al",
+      "ly"
+    ],
+    "pronunciation": "ˈjen(ə)rəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "generally"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in most cases; usually.",
+            "examples": [
+              "the term of a lease is generally 99 years"
+            ],
+            "synonyms": [
+              "normally",
+              "in general",
+              "as a rule",
+              "by and large",
+              "more often than not",
+              "almost always",
+              "mainly",
+              "mostly",
+              "for the most part",
+              "predominantly",
+              "on the whole; Moreusually",
+              "habitually",
+              "customarily",
+              "typically",
+              "ordinarily",
+              "commonly \"summers were generally hot\""
+            ]
+          },
+          {
+            "definition": "in general terms; without regard to particulars or exceptions.",
+            "examples": [
+              "a decade when France was moving generally to the left"
+            ],
+            "synonyms": [
+              "overall",
+              "in general terms",
+              "generally speaking",
+              "all in all",
+              "broadly",
+              "on average",
+              "basically",
+              "effectively \"popular opinion veers generally to the left\""
+            ]
+          },
+          {
+            "definition": "widely.",
+            "examples": [
+              "the best scheme is generally reckoned to be the Canadian one"
+            ],
+            "synonyms": [
+              "widely",
+              "commonly",
+              "extensively",
+              "universally",
+              "popularly \"the method was generally accepted\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "complementary",
+    "syllables": [
+      "com",
+      "ple",
+      "men",
+      "ta",
+      "ry"
+    ],
+    "pronunciation": "ˌkämpləˈment(ə)rē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "complementary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "combining in such a way as to enhance or emphasize the qualities of each other or another.",
+            "examples": [
+              "three guitarists playing interlocking, complementary parts"
+            ],
+            "synonyms": [
+              "harmonious",
+              "compatible",
+              "corresponding",
+              "matching",
+              "twin; Moresupportive",
+              "reciprocal",
+              "interdependent \"decorating in complementary colors and patterns\""
+            ],
+            "antonyms": [
+              "incompatible"
+            ]
+          },
+          {
+            "definition": "(of gene sequences, nucleotides, etc.) related by the rules of base pairing."
+          },
+          {
+            "definition": "of or relating to complementary medicine.",
+            "examples": [
+              "complementary therapies such as aromatherapy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

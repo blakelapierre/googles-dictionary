@@ -1,0 +1,90 @@
+[
+  {
+    "word": "disaster",
+    "syllables": [
+      "dis",
+      "as",
+      "ter"
+    ],
+    "pronunciation": "dəˈzastər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "disaster"
+          },
+          {
+            "part": "plural noun",
+            "variant": "disasters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sudden event, such as an accident or a natural catastrophe, that causes great damage or loss of life.",
+            "examples": [
+              "159 people died in the disaster"
+            ],
+            "synonyms": [
+              "catastrophe",
+              "calamity",
+              "cataclysm",
+              "tragedy",
+              "act of God",
+              "holocaust; accident \"a subway disaster\""
+            ]
+          },
+          {
+            "definition": "denoting a genre of films that use natural or accidental catastrophe as the mainspring of plot and setting.",
+            "examples": [
+              "modifier noun: disaster"
+            ]
+          },
+          {
+            "definition": "an event or fact that has unfortunate consequences.",
+            "examples": [
+              "a string of personal disasters"
+            ],
+            "synonyms": [
+              "misfortune",
+              "mishap",
+              "misadventure",
+              "mischance",
+              "setback",
+              "reversal",
+              "stroke of bad luck",
+              "blow \"a string of personal disasters\""
+            ],
+            "antonyms": [
+              "blessing"
+            ]
+          },
+          {
+            "definition": "a person, act, or thing that is a failure.",
+            "examples": [
+              "my perm is a total disaster"
+            ],
+            "synonyms": [
+              "failure",
+              "fiasco",
+              "catastrophe",
+              "debacle; Moreinformalflop",
+              "megaflop",
+              "dud",
+              "bomb",
+              "washout",
+              "dog",
+              "turkey",
+              "dead loss",
+              "train wreck \"the film was a disaster\""
+            ],
+            "antonyms": [
+              "success"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

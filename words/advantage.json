@@ -1,0 +1,121 @@
+{
+  "word": "advantage",
+  "syllables": [
+    "ad",
+    "van",
+    "tage"
+  ],
+  "pronunciation": "ədˈvan(t)ij",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "advantage"
+        },
+        {
+          "part": "plural noun",
+          "variant": "advantages"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a condition or circumstance that puts one in a favorable or superior position.",
+          "examples": [
+            "companies with a computerized database are at an advantage"
+          ],
+          "synonyms": [
+            "upper hand",
+            "edge",
+            "lead",
+            "whip hand",
+            "trump card; Moresuperiority",
+            "dominance",
+            "ascendancy",
+            "supremacy",
+            "power",
+            "mastery; informalinside track",
+            "catbird seat \"they appeared to be gaining the advantage over their opponents\""
+          ]
+        },
+        {
+          "definition": "the opportunity to gain something; benefit or profit.",
+          "examples": [
+            "you could learn something to your advantage"
+          ],
+          "synonyms": [
+            "benefit",
+            "profit",
+            "gain",
+            "good; informalmileage \"there is no advantage to be gained from delaying the process\""
+          ],
+          "antonyms": [
+            "detriment"
+          ]
+        },
+        {
+          "definition": "a favorable or desirable circumstance or feature; a benefit.",
+          "examples": [
+            "the village's proximity to the town is an advantage"
+          ],
+          "synonyms": [
+            "benefit",
+            "value",
+            "good point",
+            "strong point",
+            "asset",
+            "plus",
+            "bonus",
+            "boon",
+            "blessing",
+            "virtue; Moreattraction",
+            "beauty",
+            "usefulness",
+            "helpfulness",
+            "convenience",
+            "advantageousness",
+            "profit \"the advantages of belonging to a union\""
+          ],
+          "antonyms": [
+            "disadvantage",
+            "drawback"
+          ]
+        },
+        {
+          "definition": "a player's score in a game when they have won the first point after deuce (and will win the game if they win the next point)."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "advantage"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "advantages"
+        },
+        {
+          "part": "past tense",
+          "variant": "advantaged"
+        },
+        {
+          "part": "past participle",
+          "variant": "advantaged"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "advantaging"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "put in a favorable or more favorable position."
+        }
+      ]
+    }
+  ]
+}

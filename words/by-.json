@@ -1,0 +1,30 @@
+{
+  "word": "by-",
+  "syllables": [
+    "by-"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "prefix",
+      "variants": [
+        {
+          "part": "prefix",
+          "variant": "by-"
+        },
+        {
+          "part": "prefix",
+          "variant": "bye-"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "subordinate; incidental; secondary.",
+          "examples": [
+            "by-form"
+          ]
+        }
+      ]
+    }
+  ]
+}

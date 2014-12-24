@@ -1,0 +1,117 @@
+{
+  "word": "possess",
+  "syllables": [
+    "pos",
+    "sess"
+  ],
+  "pronunciation": "pəˈzes",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "possess"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "possesses"
+        },
+        {
+          "part": "past tense",
+          "variant": "possessed"
+        },
+        {
+          "part": "past participle",
+          "variant": "possessed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "possessing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "have as belonging to one; own.",
+          "examples": [
+            "I do not possess a television set"
+          ],
+          "synonyms": [
+            "own",
+            "have (to one's name)",
+            "hold \"the only hat she possessed\""
+          ]
+        },
+        {
+          "definition": "have possession of as distinct from ownership.",
+          "examples": [
+            "a two-year suspended sentence for possessing cocaine"
+          ]
+        },
+        {
+          "definition": "have as an ability, quality, or characteristic.",
+          "examples": [
+            "he did not possess a sense of humor"
+          ],
+          "synonyms": [
+            "have",
+            "be blessed with",
+            "be endowed with; Moreenjoy",
+            "boast \"he does not possess a sense of humor\""
+          ]
+        },
+        {
+          "definition": "take for one's own.",
+          "examples": [
+            "all that the plaintiffs did was to possess themselves of the securities"
+          ]
+        },
+        {
+          "definition": "(of a demon or spirit, especially an evil one) have complete power over (someone) and be manifested through their speech or actions.",
+          "examples": [
+            "she was possessed by the Devil"
+          ],
+          "synonyms": [
+            "take control of",
+            "take over",
+            "control",
+            "dominate",
+            "influence; Morebewitch",
+            "enchant",
+            "enthrall \"a supernatural force possessed him\"mad",
+            "demented",
+            "insane",
+            "crazed",
+            "berserk",
+            "out of one's mind; bewitched",
+            "enchanted",
+            "haunted",
+            "under a spell \"he was like a man possessed\""
+          ]
+        },
+        {
+          "definition": "(of an emotion, idea, etc.) dominate the mind of; have an overpowering influence on.",
+          "examples": [
+            "I was possessed by a desire to tell her everything"
+          ],
+          "synonyms": [
+            "obsess",
+            "haunt",
+            "preoccupy",
+            "consume; Moreeat someone up",
+            "prey on someone's mind \"she was possessed by a need to talk to him\""
+          ]
+        },
+        {
+          "definition": "have sexual intercourse with (a woman)."
+        },
+        {
+          "definition": "maintain (oneself or one's mind or soul) in a state or condition of patience or quiet.",
+          "examples": [
+            "I tried to possess my soul in patience and to forget how hungry I was"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "polymer",
+  "syllables": [
+    "pol",
+    "y",
+    "mer"
+  ],
+  "pronunciation": "ˈpäləmər",
+  "parts": [
+    {
+      "part": "nounChemistry",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "polymer"
+        },
+        {
+          "part": "plural noun",
+          "variant": "polymers"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a substance that has a molecular structure consisting chiefly or entirely of a large number of similar units bonded together, e.g., many synthetic organic materials used as plastics and resins."
+        }
+      ]
+    }
+  ]
+}

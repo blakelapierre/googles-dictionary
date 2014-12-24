@@ -1,0 +1,45 @@
+[
+  {
+    "word": "priest",
+    "syllables": [
+      "priest"
+    ],
+    "pronunciation": "prēst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "priests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an ordained minister of the Catholic, Orthodox, or Anglican Church having the authority to perform certain rites and administer certain sacraments."
+          },
+          {
+            "definition": "a person who performs religious ceremonies and duties in a non-Christian religion."
+          },
+          {
+            "definition": "a mallet used to kill fish caught when angling."
+          }
+        ]
+      },
+      {
+        "part": "verbformal",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "priests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ordain to the priesthood."
+          }
+        ]
+      }
+    ]
+  }
+]

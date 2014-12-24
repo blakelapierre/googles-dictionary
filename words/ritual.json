@@ -1,0 +1,78 @@
+[
+  {
+    "word": "ritual",
+    "syllables": [
+      "rit",
+      "u",
+      "al"
+    ],
+    "pronunciation": "ˈriCH(əw)əl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ritual"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rituals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
+            "examples": [
+              "the ancient rituals of Christian worship"
+            ]
+          },
+          {
+            "definition": "the prescribed order of performing a ceremony, especially one characteristic of a particular religion or church.",
+            "examples": [
+              "ceremony, rite, ceremonial, observance; Moreservice, sacrament, liturgy, worship; act, practice, custom, tradition, convention, formality, procedure, protocol \"an elaborate civic ritual\"Moreservice, sacrament, liturgy, worship; act, practice, custom, tradition, convention, formality, procedure, protocol an elaborate civic ritual"
+            ]
+          },
+          {
+            "definition": "a series of actions or type of behavior regularly and invariably followed by someone.",
+            "examples": [
+              "her visits to Joy became a ritual"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "ritual"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or done as a religious or solemn rite.",
+            "examples": [
+              "ritual burial"
+            ]
+          },
+          {
+            "definition": "(of an action) arising from convention or habit.",
+            "examples": [
+              "the players gathered for the ritual pregame huddle"
+            ],
+            "synonyms": [
+              "ceremonial",
+              "ritualistic",
+              "prescribed",
+              "set",
+              "formal; Moresacramental",
+              "liturgical; traditional",
+              "conventional \"a ritual burial\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

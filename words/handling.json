@@ -1,0 +1,145 @@
+[
+  {
+    "word": "handling",
+    "syllables": [
+      "hand",
+      "ling"
+    ],
+    "pronunciation": "ˈhandliNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "handling"
+          },
+          {
+            "part": "plural noun",
+            "variant": "handlings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the act of taking or holding something in the hands."
+          },
+          {
+            "definition": "the packaging and labeling of something to be shipped."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "handle",
+    "syllables": [
+      "han",
+      "dle"
+    ],
+    "pronunciation": "ˈhandl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "handling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel or manipulate with the hands.",
+            "examples": [
+              "heavy paving slabs can be difficult to handle"
+            ],
+            "synonyms": [
+              "hold",
+              "pick up",
+              "grasp",
+              "grip",
+              "lift; Morefeel",
+              "touch",
+              "finger; informalpaw \"the equipment must be handled with care\""
+            ]
+          },
+          {
+            "definition": "drive or control (a vehicle).",
+            "examples": [
+              "where did you learn to handle a boat?"
+            ],
+            "synonyms": [
+              "control",
+              "drive",
+              "steer",
+              "operate",
+              "maneuver",
+              "manipulate \"a car that is easy to handle\""
+            ]
+          },
+          {
+            "definition": "(of a vehicle) respond in a specified manner when being driven or controlled.",
+            "examples": [
+              "a roadworthy bicycle that also handles well off the pavement"
+            ]
+          },
+          {
+            "definition": "manage (a situation or problem).",
+            "examples": [
+              "a lawyer's ability to handle a case properly"
+            ]
+          },
+          {
+            "definition": "deal with (someone or something).",
+            "examples": [
+              "I don't think I could handle it if they turned me down"
+            ],
+            "synonyms": [
+              "deal with",
+              "manage",
+              "tackle",
+              "take care of",
+              "take charge of",
+              "attend to",
+              "see to",
+              "sort out",
+              "apply oneself to",
+              "take in hand; Morerespond to",
+              "field \"she handled the problems well\""
+            ]
+          },
+          {
+            "definition": "control or manage commercially.",
+            "examples": [
+              "the advertising company that is handling the account"
+            ],
+            "synonyms": [
+              "administer",
+              "manage",
+              "control",
+              "conduct",
+              "direct",
+              "guide",
+              "supervise",
+              "oversee",
+              "be in charge of",
+              "take care of",
+              "look after \"the advertising company that is handling the account\""
+            ]
+          },
+          {
+            "definition": "conduct oneself in a specified manner.",
+            "examples": [
+              "he handled himself with considerable aplomb"
+            ]
+          },
+          {
+            "definition": "defend oneself physically or verbally.",
+            "examples": [
+              "I can handle myself in a fight"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

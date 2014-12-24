@@ -1,0 +1,82 @@
+[
+  {
+    "word": "reality",
+    "syllables": [
+      "re",
+      "al",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "rēˈalədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reality"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the world or the state of things as they actually exist, as opposed to an idealistic or notional idea of them.",
+            "examples": [
+              "he refuses to face reality"
+            ],
+            "synonyms": [
+              "the real world",
+              "real life",
+              "actuality; Moretruth; physical existence \"distinguishing fantasy from reality\""
+            ],
+            "antonyms": [
+              "fantasy"
+            ]
+          },
+          {
+            "definition": "a thing that is actually experienced or seen, especially when this is grim or problematic.",
+            "examples": [
+              "plural noun: realities"
+            ]
+          },
+          {
+            "definition": "a thing that exists in fact, having previously only existed in one's mind.",
+            "examples": [
+              "the paperless office may yet become a reality"
+            ]
+          },
+          {
+            "definition": "the quality of being lifelike or resembling an original.",
+            "examples": [
+              "the reality of Marryat's detail"
+            ],
+            "synonyms": [
+              "verisimilitude",
+              "authenticity",
+              "realism",
+              "fidelity",
+              "faithfulness \"the reality of Steinbeck's detail\""
+            ],
+            "antonyms": [
+              "idealism"
+            ]
+          },
+          {
+            "definition": "relating to reality TV.",
+            "examples": [
+              "modifier noun: reality"
+            ]
+          },
+          {
+            "definition": "the state or quality of having existence or substance.",
+            "examples": [
+              "youth, when death has no reality"
+            ]
+          },
+          {
+            "definition": "existence that is absolute, self-sufficient, or objective, and not subject to human decisions or conventions."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "difficulty",
+    "syllables": [
+      "dif",
+      "fi",
+      "cul",
+      "ty"
+    ],
+    "pronunciation": "ˈdifəkəltē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "difficulty"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or condition of being difficult.",
+            "examples": [
+              "Guy had no difficulty in making friends"
+            ],
+            "synonyms": [
+              "strain",
+              "trouble",
+              "problems",
+              "toil",
+              "struggle",
+              "laboriousness",
+              "arduousness; Moreinformalhassle",
+              "stress \"the difficulty of balancing motherhood with a career\""
+            ],
+            "antonyms": [
+              "ease"
+            ]
+          },
+          {
+            "definition": "a thing that is hard to accomplish, deal with, or understand.",
+            "examples": [
+              "plural noun: difficulties"
+            ]
+          },
+          {
+            "definition": "a situation that is difficult or dangerous.",
+            "examples": [
+              "plural noun: difficulties"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

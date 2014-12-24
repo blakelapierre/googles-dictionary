@@ -1,0 +1,85 @@
+{
+  "word": "characterize",
+  "syllables": [
+    "char",
+    "ac",
+    "ter",
+    "ize"
+  ],
+  "pronunciation": "ˈkerəktəˌrīz",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "characterize"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "characterizes"
+        },
+        {
+          "part": "past tense",
+          "variant": "characterized"
+        },
+        {
+          "part": "past participle",
+          "variant": "characterized"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "characterizing"
+        },
+        {
+          "part": "verb",
+          "variant": "characterise"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "characterises"
+        },
+        {
+          "part": "past tense",
+          "variant": "characterised"
+        },
+        {
+          "part": "past participle",
+          "variant": "characterised"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "characterising"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "describe the distinctive nature or features of.",
+          "examples": [
+            "the historian characterized the period as the decade of revolution"
+          ],
+          "synonyms": [
+            "distinguish",
+            "make distinctive",
+            "mark",
+            "typify",
+            "set apart More\"the period was characterized by scientific advancement\"portray",
+            "depict",
+            "present",
+            "represent",
+            "describe; categorize",
+            "class",
+            "style",
+            "brand \"the women are characterized as prophets of doom\""
+          ]
+        },
+        {
+          "definition": "(of a feature or quality) be typical or characteristic of.",
+          "examples": [
+            "the disease is characterized by weakening of the immune system"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "word": "unfortunate",
+    "syllables": [
+      "un",
+      "for",
+      "tu",
+      "nate"
+    ],
+    "pronunciation": "ˌənˈfôrCH(ə)nət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unfortunate"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or marked by bad fortune; unlucky.",
+            "examples": [
+              "the unfortunate Cunningham was fired"
+            ],
+            "synonyms": [
+              "unlucky",
+              "hapless",
+              "jinxed",
+              "out of luck",
+              "luckless",
+              "wretched",
+              "miserable",
+              "forlorn",
+              "poor",
+              "pitiful; informaldown on one's luck \"unfortunate people\""
+            ],
+            "antonyms": [
+              "lucky"
+            ]
+          },
+          {
+            "definition": "(of a circumstance) unfavorable or inauspicious.",
+            "examples": [
+              "the delay at the airport was an unfortunate start to our vacation"
+            ],
+            "synonyms": [
+              "adverse",
+              "disadvantageous",
+              "unfavorable",
+              "unlucky",
+              "unwelcome",
+              "unpromising",
+              "inauspicious",
+              "unpropitious",
+              "bad; formalgrievous \"an unfortunate start to our vacation\""
+            ],
+            "antonyms": [
+              "auspicious"
+            ]
+          },
+          {
+            "definition": "regrettable or inappropriate.",
+            "examples": [
+              "his unfortunate remark silenced the gathering"
+            ],
+            "synonyms": [
+              "regrettable",
+              "inappropriate",
+              "unsuitable",
+              "infelicitous",
+              "unbecoming",
+              "inopportune",
+              "tactless",
+              "injudicious \"an unfortunate remark\""
+            ],
+            "antonyms": [
+              "tactful",
+              "appropriate"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "unfortunate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "unfortunates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who suffers bad fortune."
+          },
+          {
+            "definition": "a person who is considered immoral or lacking in religious faith or instruction, especially a prostitute."
+          }
+        ]
+      }
+    ]
+  }
+]

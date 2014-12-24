@@ -1,0 +1,133 @@
+[
+  {
+    "word": "vote",
+    "syllables": [
+      "vote"
+    ],
+    "pronunciation": "vōt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vote"
+          },
+          {
+            "part": "plural noun",
+            "variant": "votes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a formal indication of a choice between two or more candidates or courses of action, expressed typically through a ballot or a show of hands or by voice.",
+            "examples": [
+              "ballot, poll, election, referendum, plebiscite; show of hands a rigged vote"
+            ]
+          },
+          {
+            "definition": "an act of expressing a formal indication of choice.",
+            "examples": [
+              "they are ready to put it to a vote"
+            ]
+          },
+          {
+            "definition": "the choice expressed collectively by a body of electors or by a specified group.",
+            "examples": [
+              "noun: the vote"
+            ]
+          },
+          {
+            "definition": "the right to indicate a choice in an election.",
+            "examples": [
+              "noun: the vote"
+            ],
+            "synonyms": [
+              "suffrage",
+              "voting rights",
+              "franchise",
+              "enfranchisement; Morevoice",
+              "say \"women finally got the vote\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "vote"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "votes"
+          },
+          {
+            "part": "past tense",
+            "variant": "voted"
+          },
+          {
+            "part": "past participle",
+            "variant": "voted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "voting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give or register a vote.",
+            "examples": [
+              "they voted against the resolution"
+            ],
+            "synonyms": [
+              "go to the polls",
+              "cast one's vote",
+              "cast one's ballot \"only half of them voted\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to gain or lose a particular post or honor by means of a vote.",
+            "examples": [
+              "incompetent judges are voted out of office"
+            ],
+            "synonyms": [
+              "elect",
+              "return",
+              "select",
+              "choose",
+              "pick",
+              "adopt",
+              "appoint",
+              "designate",
+              "opt for",
+              "decide on \"he was voted in as secretary\""
+            ]
+          },
+          {
+            "definition": "used to express a wish to follow a particular course of action.",
+            "examples": [
+              "I vote we have one more game"
+            ],
+            "synonyms": [
+              "suggest",
+              "propose",
+              "recommend",
+              "advocate",
+              "move",
+              "submit \"I vote we have one more game\""
+            ]
+          },
+          {
+            "definition": "(of a legislature) grant or confer by vote."
+          },
+          {
+            "definition": "reject something by means of a vote."
+          }
+        ]
+      }
+    ]
+  }
+]

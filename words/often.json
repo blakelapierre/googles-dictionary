@@ -1,0 +1,67 @@
+{
+  "word": "often",
+  "syllables": [
+    "of",
+    "ten"
+  ],
+  "pronunciation": "ˈôf(t)ənˈäf(t)ən",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "often"
+        },
+        {
+          "part": "comparative adverb",
+          "variant": "oftener"
+        },
+        {
+          "part": "superlative adverb",
+          "variant": "oftenest"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "frequently; many times.",
+          "examples": [
+            "he often goes for long walks by himself"
+          ],
+          "synonyms": [
+            "frequently",
+            "many times",
+            "many a time",
+            "on many/numerous occasions",
+            "a lot",
+            "as often as not",
+            "repeatedly",
+            "again and again",
+            "time and (time) again; Moreall the time",
+            "regularly",
+            "routinely",
+            "usually",
+            "habitually",
+            "commonly",
+            "generally",
+            "in many cases/instances",
+            "ordinarily",
+            "oftentimes",
+            "recurrently; informallots; literaryoft",
+            "ofttimes \"we go there often\""
+          ],
+          "antonyms": [
+            "seldom",
+            "never"
+          ]
+        },
+        {
+          "definition": "in many instances.",
+          "examples": [
+            "vocabulary often reflects social standing"
+          ]
+        }
+      ]
+    }
+  ]
+}

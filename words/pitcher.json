@@ -1,0 +1,70 @@
+[
+  {
+    "word": "pitcher",
+    "syllables": [
+      "pitch",
+      "er"
+    ],
+    "pronunciation": "ˈpiCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pitcher"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pitchers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large container, typically earthenware, glass, or plastic, with a handle and a lip, used for holding and pouring liquids.",
+            "examples": [
+              "jug, ewer, jar; creamer a pitcher of beer"
+            ]
+          },
+          {
+            "definition": "the contents of a pitcher.",
+            "examples": [
+              "a pitcher of water"
+            ]
+          },
+          {
+            "definition": "the modified leaf of a pitcher plant."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pitcher",
+    "syllables": [
+      "pitch",
+      "er"
+    ],
+    "pronunciation": "ˈpiCHər",
+    "parts": [
+      {
+        "part": "nounBaseball",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pitcher"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pitchers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the player who delivers the ball to the batter."
+          }
+        ]
+      }
+    ]
+  }
+]

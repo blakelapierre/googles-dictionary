@@ -1,0 +1,134 @@
+[
+  {
+    "word": "solo",
+    "syllables": [
+      "so",
+      "lo"
+    ],
+    "pronunciation": "ˈsōlō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "solo"
+          },
+          {
+            "part": "plural noun",
+            "variant": "solos"
+          },
+          {
+            "part": "noun",
+            "variant": "solo whist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "solo whists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing done by one person unaccompanied, in particular."
+          },
+          {
+            "definition": "a piece of vocal or instrumental music or a dance, or a part or passage in one, for one performer.",
+            "examples": [
+              "plural noun: soli"
+            ]
+          },
+          {
+            "definition": "an unaccompanied flight by a pilot in an aircraft."
+          },
+          {
+            "definition": "a card game in which one player plays against the others in an attempt to win a specified number of tricks."
+          }
+        ]
+      },
+      {
+        "part": "adjective & adverb",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "solo"
+          },
+          {
+            "part": "adverb",
+            "variant": "solo"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "for or done by one person alone; unaccompanied.",
+            "examples": [
+              "a solo album"
+            ],
+            "synonyms": [
+              "unaccompanied",
+              "single-handed",
+              "companionless",
+              "unescorted",
+              "unattended",
+              "unchaperoned",
+              "independent",
+              "solitary; Morealone",
+              "on one's own",
+              "by oneself \"a solo flight\"unaccompanied",
+              "alone",
+              "on one's own",
+              "single-handed(ly)",
+              "by oneself",
+              "unescorted",
+              "unattended",
+              "unchaperoned",
+              "unaided",
+              "independently; informalstag \"he went solo to the party\""
+            ],
+            "antonyms": [
+              "accompanied"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "solo"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "soloes"
+          },
+          {
+            "part": "past tense",
+            "variant": "soloed"
+          },
+          {
+            "part": "past participle",
+            "variant": "soloed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "soloing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perform something unaccompanied, in particular."
+          },
+          {
+            "definition": "perform an unaccompanied piece of music or a part or passage in one."
+          },
+          {
+            "definition": "fly an aircraft unaccompanied."
+          },
+          {
+            "definition": "undertake solo climbing."
+          }
+        ]
+      }
+    ]
+  }
+]

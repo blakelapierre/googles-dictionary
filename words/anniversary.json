@@ -1,0 +1,51 @@
+[
+  {
+    "word": "anniversary",
+    "syllables": [
+      "an",
+      "ni",
+      "ver",
+      "sa",
+      "ry"
+    ],
+    "pronunciation": "ˌanəˈvərs(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "anniversary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "anniversaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the date on which an event took place in a previous year.",
+            "examples": [
+              "the 50th anniversary of the start of World War II"
+            ]
+          },
+          {
+            "definition": "the date on which a country or other institution was founded in a previous year.",
+            "examples": [
+              "Canada's 125th anniversary"
+            ]
+          },
+          {
+            "definition": "the date on which a couple was married in a previous year.",
+            "examples": [
+              "he even forgot our tenth anniversary!"
+            ]
+          },
+          {
+            "definition": "the date on which a romance began in a previous month or week."
+          }
+        ]
+      }
+    ]
+  }
+]

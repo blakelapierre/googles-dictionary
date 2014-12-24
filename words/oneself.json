@@ -1,0 +1,43 @@
+{
+  "word": "oneself",
+  "syllables": [
+    "one",
+    "self"
+  ],
+  "pronunciation": "ˌwənˈself",
+  "parts": [
+    {
+      "part": "pronoun",
+      "variants": [
+        {
+          "part": "pronoun",
+          "variant": "oneself"
+        },
+        {
+          "part": "pronoun",
+          "variant": "one's self"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person's own self.",
+          "examples": [
+            "it is difficult to wrest oneself away"
+          ]
+        },
+        {
+          "definition": "used to emphasize that one does something individually or unaided.",
+          "examples": [
+            "the idea of publishing a book oneself"
+          ]
+        },
+        {
+          "definition": "in one's normal and individual state of body or mind; not influenced by others.",
+          "examples": [
+            "freedom to be oneself"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+[
+  {
+    "word": "knock",
+    "syllables": [
+      "knock"
+    ],
+    "pronunciation": "näk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "knock"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "knocks"
+          },
+          {
+            "part": "past tense",
+            "variant": "knocked"
+          },
+          {
+            "part": "past participle",
+            "variant": "knocked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "knocking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strike a surface noisily to attract attention, especially when waiting to be let in through a door.",
+            "examples": [
+              "I knocked on the kitchen door"
+            ],
+            "synonyms": [
+              "bang",
+              "tap",
+              "rap",
+              "thump",
+              "pound",
+              "hammer; Morestrike",
+              "hit",
+              "beat \"he knocked on the door\""
+            ]
+          },
+          {
+            "definition": "strike or thump together or against something.",
+            "examples": [
+              "my knees were knocking and my lips quivering"
+            ]
+          },
+          {
+            "definition": "(of a motor or other engine) make a regular thumping or rattling noise because of improper ignition."
+          },
+          {
+            "definition": "collide with (someone or something), giving them a hard blow.",
+            "examples": [
+              "he deliberately ran into her, knocking her shoulder"
+            ],
+            "synonyms": [
+              "collide with",
+              "bump into",
+              "bang into",
+              "be in collision with",
+              "run into",
+              "crash into",
+              "smash into",
+              "plow into",
+              "bash into \"he knocked into an elderly man\""
+            ]
+          },
+          {
+            "definition": "force to move or fall with a deliberate or accidental blow or collision.",
+            "examples": [
+              "he'd knocked over a glass of water"
+            ]
+          },
+          {
+            "definition": "injure or damage by striking.",
+            "examples": [
+              "she knocked her knee painfully on the table"
+            ],
+            "synonyms": [
+              "bump",
+              "bang",
+              "hit",
+              "strike",
+              "crack; Moreinjure",
+              "hurt",
+              "bruise; informalbash",
+              "thwack \"she knocked her knee on the table\""
+            ]
+          },
+          {
+            "definition": "make (a hole or a dent) in something by striking it forcefully.",
+            "examples": [
+              "he suggests we knock a hole through the wall into the broom closet"
+            ]
+          },
+          {
+            "definition": "demolish the barriers between (rooms or buildings).",
+            "examples": [
+              "two of the downstairs rooms had been knocked into one"
+            ]
+          },
+          {
+            "definition": "talk disparagingly about; criticize."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "knock"
+          },
+          {
+            "part": "plural noun",
+            "variant": "knocks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sudden short sound caused by a blow, especially on a door to attract attention or gain entry.",
+            "examples": [
+              "tap, rap, rat-tat-tat, knocking, bang, banging, pounding, hammering, drumming, thump, thud a sharp knock at the door"
+            ]
+          },
+          {
+            "definition": "a continual thumping or rattling sound made by an engine because of improper ignition."
+          },
+          {
+            "definition": "a blow or collision.",
+            "examples": [
+              "the casing is tough enough to withstand knocks"
+            ],
+            "synonyms": [
+              "bump",
+              "blow",
+              "bang",
+              "jolt",
+              "jar",
+              "shock; Morecollision",
+              "crash",
+              "smash",
+              "impact \"the casing is tough enough to withstand knocks\""
+            ]
+          },
+          {
+            "definition": "an injury caused by a blow or collision."
+          },
+          {
+            "definition": "a discouraging experience; a setback.",
+            "examples": [
+              "the region's industries have taken a severe knock"
+            ],
+            "synonyms": [
+              "setback",
+              "reversal",
+              "defeat",
+              "failure",
+              "difficulty",
+              "misfortune",
+              "bad luck",
+              "mishap",
+              "blow",
+              "disaster",
+              "calamity",
+              "disappointment",
+              "sorrow",
+              "trouble",
+              "hardship; informalkick in the teeth \"life's hard knocks\""
+            ]
+          },
+          {
+            "definition": "a critical comment."
+          }
+        ]
+      }
+    ]
+  }
+]

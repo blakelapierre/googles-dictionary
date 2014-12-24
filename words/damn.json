@@ -1,0 +1,118 @@
+[
+  {
+    "word": "damn",
+    "syllables": [
+      "damn"
+    ],
+    "pronunciation": "dam",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "damned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in Christian belief) be condemned by God to suffer eternal punishment in hell.",
+            "examples": [
+              "be forever damned with Lucifer"
+            ]
+          },
+          {
+            "definition": "be doomed to misfortune or failure.",
+            "examples": [
+              "verb: damn; 3rd person present: damns; past tense: damned; gerund or present participle: damning"
+            ]
+          },
+          {
+            "definition": "condemn, especially by the public expression of disapproval.",
+            "examples": [
+              "intellectuals whom he damns as rigid doctrinaire idealists"
+            ],
+            "synonyms": [
+              "condemn",
+              "censure",
+              "criticize",
+              "attack",
+              "denounce",
+              "revile; Morefind fault with",
+              "deprecate",
+              "disparage; informalslam",
+              "lay into",
+              "blast \"we are not going to damn the new product before we try it\""
+            ],
+            "antonyms": [
+              "acclaim",
+              "praise"
+            ]
+          },
+          {
+            "definition": "curse (someone or something).",
+            "examples": [
+              "she cleared her throat, damning it for its huskiness"
+            ],
+            "synonyms": [
+              "curse",
+              "put the evil eye on",
+              "anathematize",
+              "hex",
+              "jinx \"they were all damning him\""
+            ],
+            "antonyms": [
+              "bless"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamationinformal",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "damn"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing anger, surprise, or frustration.",
+            "examples": [
+              "Damn! I completely forgot!"
+            ],
+            "synonyms": [
+              "darn",
+              "damn it",
+              "dammit",
+              "drat",
+              "shoot",
+              "blast",
+              "doggone (it)",
+              "goddammit",
+              "hell",
+              "rats \"Damn! I forgot the keys\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "damn"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used for emphasis, especially to express anger or frustration.",
+            "examples": [
+              "turn that damn thing off!"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

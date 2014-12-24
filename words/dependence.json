@@ -1,0 +1,42 @@
+[
+  {
+    "word": "dependence",
+    "syllables": [
+      "de",
+      "pend",
+      "ence"
+    ],
+    "pronunciation": "dəˈpendəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dependence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of relying on or being controlled by someone or something else.",
+            "examples": [
+              "Japan's dependence on imported oil"
+            ]
+          },
+          {
+            "definition": "reliance on someone or something for financial support.",
+            "examples": [
+              "the dependence of our medical schools on grant funds"
+            ]
+          },
+          {
+            "definition": "addiction to drink or drugs.",
+            "examples": [
+              "alcohol dependence"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

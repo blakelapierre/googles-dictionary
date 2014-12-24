@@ -1,0 +1,71 @@
+{
+  "word": "diverge",
+  "syllables": [
+    "di",
+    "verge"
+  ],
+  "pronunciation": "dəˈvərjdīˈvərj",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "diverges"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(of a road, route, or line) separate from another route, especially a main one, and go in a different direction.",
+          "examples": [
+            "separate, part, fork, divide, split, bifurcate, go in different directions the two roads diverged"
+          ],
+          "antonyms": [
+            "converge"
+          ]
+        },
+        {
+          "definition": "develop in a different direction.",
+          "examples": [
+            "howler and spider monkeys diverged from a common ancestor"
+          ]
+        },
+        {
+          "definition": "(of an opinion, theory, approach, etc.) differ markedly.",
+          "examples": [
+            "the coverage by the columnists diverged from that in the main news stories"
+          ],
+          "synonyms": [
+            "differ",
+            "be different",
+            "be dissimilar; Moredisagree",
+            "be at variance",
+            "be at odds",
+            "conflict",
+            "clash \"areas where our views diverge\""
+          ],
+          "antonyms": [
+            "agree"
+          ]
+        },
+        {
+          "definition": "deviate from a set course or standard.",
+          "examples": [
+            "suddenly he diverged from his text"
+          ],
+          "synonyms": [
+            "deviate",
+            "digress",
+            "depart",
+            "veer",
+            "stray; Morestray from the point",
+            "get off the subject \"he diverged from his script\""
+          ]
+        },
+        {
+          "definition": "(of a series) increase indefinitely as more terms are added."
+        }
+      ]
+    }
+  ]
+}

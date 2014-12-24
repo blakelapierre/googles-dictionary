@@ -1,0 +1,68 @@
+{
+  "word": "store",
+  "syllables": [
+    "store"
+  ],
+  "pronunciation": "stôr",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "stored"
+        },
+        {
+          "part": "past participle",
+          "variant": "stored"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "keep or accumulate (something) for future use.",
+          "examples": [
+            "a small room used for storing furniture"
+          ],
+          "synonyms": [
+            "keep",
+            "keep in reserve",
+            "stockpile",
+            "lay in",
+            "put/set aside",
+            "put away/by",
+            "put away for a rainy day",
+            "save",
+            "collect",
+            "accumulate",
+            "hoard",
+            "cache; Moreinformalsquirrel away",
+            "salt away",
+            "stash away \"rabbits don't store food\""
+          ],
+          "antonyms": [
+            "use",
+            "discard"
+          ]
+        },
+        {
+          "definition": "retain or enter (information) for future electronic retrieval.",
+          "examples": [
+            "the data is stored on disk"
+          ]
+        },
+        {
+          "definition": "have a supply of (something useful).",
+          "examples": [
+            "a mind well stored with esoteric knowledge"
+          ]
+        },
+        {
+          "definition": "remain fresh while being stored.",
+          "examples": [
+            "they do not ship or store well"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "century",
+    "syllables": [
+      "cen",
+      "tu",
+      "ry"
+    ],
+    "pronunciation": "ˈsen(t)SH(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "centuries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a period of one hundred years.",
+            "examples": [
+              "a century ago most people walked to work"
+            ]
+          },
+          {
+            "definition": "a period of one hundred years reckoned from the traditional date of the birth of Jesus Christ.",
+            "examples": [
+              "adjective: -century"
+            ]
+          },
+          {
+            "definition": "a company in the ancient Roman army, originally of one hundred men."
+          },
+          {
+            "definition": "an ancient Roman political division for voting."
+          },
+          {
+            "definition": "a bicycle race of one hundred miles.",
+            "examples": [
+              "the nation's largest single-day century ride"
+            ]
+          },
+          {
+            "definition": "a score of one hundred in a sporting event, such as a cricket match."
+          }
+        ]
+      }
+    ]
+  }
+]

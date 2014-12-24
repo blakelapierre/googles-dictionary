@@ -1,0 +1,76 @@
+[
+  {
+    "word": "spend",
+    "syllables": [
+      "spend"
+    ],
+    "pronunciation": "spend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "spending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pay out (money) in buying or hiring goods or services.",
+            "examples": [
+              "the firm has spent $100,000 on hardware and software"
+            ]
+          },
+          {
+            "definition": "pay out (money) for a particular person's benefit or for the improvement of something.",
+            "examples": [
+              "the college spent $140 on each of its students"
+            ],
+            "synonyms": [
+              "pay out",
+              "dish out",
+              "expend",
+              "disburse; Moresquander",
+              "waste",
+              "fritter away; lavish; informalfork out",
+              "lay out",
+              "shell out",
+              "cough up",
+              "drop",
+              "blow",
+              "splurge",
+              "pony up \"she spent $185 on shoes\""
+            ]
+          },
+          {
+            "definition": "used to show the activity in which someone is engaged or the place where they are living over a period of time.",
+            "examples": [
+              "she spent a lot of time traveling"
+            ],
+            "synonyms": [
+              "pass",
+              "occupy",
+              "fill",
+              "take up",
+              "while away More\"the morning was spent gardening\"put in",
+              "devote; waste \"I've spent hours on this essay\""
+            ]
+          },
+          {
+            "definition": "use or give out the whole of; exhaust.",
+            "examples": [
+              "she couldn't buy any more because she had already spent her money"
+            ],
+            "synonyms": [
+              "use up",
+              "consume",
+              "exhaust",
+              "deplete",
+              "drain \"the storm had spent its force\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

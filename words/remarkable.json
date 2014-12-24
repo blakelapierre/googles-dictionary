@@ -1,0 +1,58 @@
+[
+  {
+    "word": "remarkable",
+    "syllables": [
+      "re",
+      "mark",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "rəˈmärkəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "remarkable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "worthy of attention; striking.",
+            "examples": [
+              "a remarkable coincidence"
+            ],
+            "synonyms": [
+              "extraordinary",
+              "exceptional",
+              "amazing",
+              "astonishing",
+              "astounding",
+              "marvelous",
+              "wonderful",
+              "sensational",
+              "stunning",
+              "incredible",
+              "unbelievable",
+              "phenomenal",
+              "outstanding",
+              "momentous; Moreout of the ordinary",
+              "unusual",
+              "uncommon",
+              "unique",
+              "surprising; informalfantastic",
+              "terrific",
+              "tremendous",
+              "stupendous",
+              "awesome; literarywondrous \"a remarkable coincidence\""
+            ],
+            "antonyms": [
+              "ordinary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

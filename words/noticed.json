@@ -1,0 +1,61 @@
+[
+  {
+    "word": "notice",
+    "syllables": [
+      "no",
+      "tice"
+    ],
+    "pronunciation": "ˈnōdəs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "noticed"
+          },
+          {
+            "part": "past participle",
+            "variant": "noticed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become aware of.",
+            "examples": [
+              "he noticed the youths behaving suspiciously"
+            ],
+            "synonyms": [
+              "observe",
+              "perceive",
+              "note",
+              "see",
+              "discern",
+              "detect",
+              "spot",
+              "distinguish",
+              "mark",
+              "remark; Moreliterarybehold",
+              "descry \"I noticed that the door was open\""
+            ],
+            "antonyms": [
+              "overlook"
+            ]
+          },
+          {
+            "definition": "treat (someone) with some degree of attention or recognition.",
+            "examples": [
+              "it was only last year that the singer really began to be noticed"
+            ]
+          },
+          {
+            "definition": "remark upon.",
+            "examples": [
+              "she looked so much better that Sir Charles noticed it to Lady Harriet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

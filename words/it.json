@@ -1,0 +1,146 @@
+[
+  {
+    "word": "it",
+    "syllables": [
+      "it"
+    ],
+    "pronunciation": "it",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "it"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to refer to a thing previously mentioned or easily identified.",
+            "examples": [
+              "a room with two beds in it"
+            ]
+          },
+          {
+            "definition": "referring to an animal or child of unspecified sex.",
+            "examples": [
+              "she was holding the baby, cradling it and smiling into its face"
+            ]
+          },
+          {
+            "definition": "referring to a fact or situation previously mentioned, known, or happening.",
+            "examples": [
+              "stop it, you're hurting me"
+            ]
+          },
+          {
+            "definition": "used to identify a person.",
+            "examples": [
+              "it's me"
+            ]
+          },
+          {
+            "definition": "used in the normal subject position in statements about time, distance, or weather.",
+            "examples": [
+              "it's half past five"
+            ]
+          },
+          {
+            "definition": "used in the normal subject or object position when a more specific subject or object is given later in the sentence.",
+            "examples": [
+              "it is impossible to assess the problem"
+            ]
+          },
+          {
+            "definition": "used to emphasize a following part of a sentence.",
+            "examples": [
+              "it is the child who is the victim"
+            ]
+          },
+          {
+            "definition": "the situation or circumstances; things in general.",
+            "examples": [
+              "no one can stay here—it's too dangerous now"
+            ]
+          },
+          {
+            "definition": "exactly what is needed or desired.",
+            "examples": [
+              "they thought they were it"
+            ]
+          },
+          {
+            "definition": "sex appeal.",
+            "examples": [
+              "he's still got “it.”"
+            ]
+          },
+          {
+            "definition": "sexual intercourse."
+          },
+          {
+            "definition": "denoting a person or thing that is exceptionally fashionable, popular, or successful at a particular time.",
+            "examples": [
+              "they were Hollywood's It couple"
+            ]
+          },
+          {
+            "definition": "(in children's games) the player who has to catch the others."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "IT",
+    "syllables": [
+      "IT"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "IT"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "information technology."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "information technology",
+    "syllables": [
+      "in",
+      "for",
+      "ma",
+      "tion tech",
+      "nol",
+      "o",
+      "gy"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "IT"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information."
+          }
+        ]
+      }
+    ]
+  }
+]

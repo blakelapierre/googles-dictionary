@@ -1,0 +1,121 @@
+{
+  "word": "indicate",
+  "syllables": [
+    "in",
+    "di",
+    "cate"
+  ],
+  "pronunciation": "ˈindəˌkāt",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "indicated"
+        },
+        {
+          "part": "past participle",
+          "variant": "indicated"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "point out; show.",
+          "examples": [
+            "dotted lines indicate the text's margins"
+          ],
+          "synonyms": [
+            "specify",
+            "designate",
+            "mark",
+            "stipulate; show \"please indicate your preferences on the form\""
+          ]
+        },
+        {
+          "definition": "be a sign or symptom of; strongly imply.",
+          "examples": [
+            "sales indicate a growing market for such art"
+          ],
+          "synonyms": [
+            "point to",
+            "be a sign of",
+            "be evidence of",
+            "evidence",
+            "demonstrate",
+            "show",
+            "testify to",
+            "bespeak",
+            "be a symptom of",
+            "be symptomatic of",
+            "denote",
+            "connote",
+            "mark",
+            "signal",
+            "signify",
+            "suggest",
+            "imply; Moremanifest",
+            "reveal",
+            "betray",
+            "display",
+            "reflect",
+            "represent; formalevince; literarybetoken \"sales indicate a growing market\""
+          ]
+        },
+        {
+          "definition": "admit to or state briefly.",
+          "examples": [
+            "the president indicated his willingness to use force against the rebels"
+          ],
+          "synonyms": [
+            "state",
+            "declare",
+            "make known",
+            "communicate",
+            "announce",
+            "mention",
+            "express",
+            "reveal",
+            "divulge",
+            "disclose; Moreput it on record; admit \"the president indicated his willingness to use force\""
+          ]
+        },
+        {
+          "definition": "(of a person) direct attention to (someone or something) by means of a gesture.",
+          "examples": [
+            "he indicated Cindy with a brief nod of the head"
+          ],
+          "synonyms": [
+            "point to",
+            "point out",
+            "gesture toward \"he indicated the direction we needed to go\""
+          ]
+        },
+        {
+          "definition": "(of a gauge or meter) register a reading of (a quantity, dimension, etc.)."
+        },
+        {
+          "definition": "suggest as a desirable or necessary course of action.",
+          "examples": [
+            "the treatment is likely to be indicated in severely depressed patients"
+          ],
+          "synonyms": [
+            "advisable",
+            "recommended",
+            "suggested",
+            "desirable",
+            "preferable",
+            "best",
+            "sensible",
+            "wise",
+            "prudent",
+            "in someone's best interests; Morenecessary",
+            "needed",
+            "required",
+            "called for \"in such cases surgery is indicated\""
+          ]
+        }
+      ]
+    }
+  ]
+}

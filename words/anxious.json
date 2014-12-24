@@ -1,0 +1,91 @@
+[
+  {
+    "word": "anxious",
+    "syllables": [
+      "anx",
+      "ious"
+    ],
+    "pronunciation": "ˈaNG(k)SHəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "anxious"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "experiencing worry, unease, or nervousness, typically about an imminent event or something with an uncertain outcome.",
+            "examples": [
+              "she was extremely anxious about her exams"
+            ],
+            "synonyms": [
+              "worried",
+              "concerned",
+              "uneasy",
+              "apprehensive",
+              "fearful",
+              "perturbed",
+              "troubled",
+              "bothered",
+              "disturbed",
+              "distressed",
+              "disquieted",
+              "fretful",
+              "agitated",
+              "nervous",
+              "edgy",
+              "antsy",
+              "unquiet",
+              "on edge",
+              "tense",
+              "overwrought",
+              "worked up",
+              "keyed up",
+              "jumpy",
+              "worried sick",
+              "with one's stomach in knots",
+              "with one's heart in one's mouth; Moreinformaluptight",
+              "on tenterhooks",
+              "with butterflies in one's stomach",
+              "trepidatious",
+              "jittery",
+              "twitchy",
+              "in a dither",
+              "in a lather",
+              "in a tizzy",
+              "het up; strung out",
+              "having kittens; antsy",
+              "spooked",
+              "squirrelly \"her fever has us all a little anxious\""
+            ],
+            "antonyms": [
+              "carefree",
+              "unconcerned"
+            ]
+          },
+          {
+            "definition": "(of a period of time or situation) causing or characterized by worry or nervousness.",
+            "examples": [
+              "there were some anxious moments"
+            ]
+          },
+          {
+            "definition": "wanting something very much, typically with a feeling of unease.",
+            "examples": [
+              "the company was anxious to avoid any trouble"
+            ],
+            "synonyms": [
+              "eager",
+              "keen",
+              "desirous",
+              "impatient \"she was anxious for news\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

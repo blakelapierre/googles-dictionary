@@ -1,0 +1,488 @@
+{
+  "word": "work",
+  "syllables": [
+    "work"
+  ],
+  "pronunciation": "wərk",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "work"
+        },
+        {
+          "part": "plural noun",
+          "variant": "works"
+        },
+        {
+          "part": "plural noun",
+          "variant": "the works"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "activity involving mental or physical effort done in order to achieve a purpose or result.",
+          "examples": [
+            "he was tired after a day's work in the fields"
+          ],
+          "synonyms": [
+            "labor",
+            "toil",
+            "slog",
+            "drudgery",
+            "exertion",
+            "effort",
+            "industry",
+            "service; Moreinformalgrind",
+            "sweat",
+            "elbow grease; literarytravail \"a day's work in the fields\""
+          ],
+          "antonyms": [
+            "leisure",
+            "rest"
+          ]
+        },
+        {
+          "definition": "a place or premises for industrial activity, typically manufacturing.",
+          "examples": [
+            "he found a job in the ironworks"
+          ]
+        },
+        {
+          "definition": "mental or physical activity as a means of earning income; employment.",
+          "examples": [
+            "I'm still looking for work"
+          ],
+          "synonyms": [
+            "employment",
+            "a job",
+            "a position",
+            "a situation",
+            "a post; Morean occupation",
+            "a profession",
+            "a career",
+            "a vocation",
+            "a calling; wage labor; tasks",
+            "jobs",
+            "duties",
+            "assignments",
+            "projects; chores \"I'm looking for work\""
+          ],
+          "antonyms": [
+            "unemployment",
+            "retirement"
+          ]
+        },
+        {
+          "definition": "the place where one works.",
+          "examples": [
+            "I was returning home from work on a packed subway"
+          ]
+        },
+        {
+          "definition": "the period of time spent during the day engaged in such activity.",
+          "examples": [
+            "he was going to the theater after work"
+          ]
+        },
+        {
+          "definition": "a task or tasks to be undertaken; something a person or thing has to do.",
+          "examples": [
+            "they made sure the work was progressing smoothly"
+          ]
+        },
+        {
+          "definition": "the materials for this.",
+          "examples": [
+            "she frequently took work home with her"
+          ]
+        },
+        {
+          "definition": "cosmetic plastic surgery.",
+          "examples": [
+            "between you and me, I think he's had some work done"
+          ]
+        },
+        {
+          "definition": "good or moral deeds.",
+          "examples": [
+            "the Clapham sect was concerned with works rather than with faith"
+          ],
+          "synonyms": [
+            "deeds",
+            "acts",
+            "actions \"a lifetime spent doing good works\""
+          ]
+        },
+        {
+          "definition": "something done or made.",
+          "examples": [
+            "her work hangs in all the main American collections"
+          ],
+          "synonyms": [
+            "handiwork",
+            "doing",
+            "act",
+            "deed \"this is the work of a radical faction\""
+          ]
+        },
+        {
+          "definition": "the result of the action of a specified person or thing.",
+          "examples": [
+            "the bombing had been the work of a German-based cell"
+          ]
+        },
+        {
+          "definition": "a literary or musical composition or other piece of fine art.",
+          "examples": [
+            "a work of fiction"
+          ],
+          "synonyms": [
+            "composition",
+            "piece",
+            "creation; Moreopus",
+            "oeuvre \"works of literature\""
+          ]
+        },
+        {
+          "definition": "all literary or musical pieces by a particular author, composer, or artist, regarded collectively.",
+          "examples": [
+            "the works of Schubert fill several feet of shelf space"
+          ],
+          "synonyms": [
+            "writings",
+            "oeuvre",
+            "canon",
+            "output \"the complete works of Shakespeare\""
+          ]
+        },
+        {
+          "definition": "a piece of embroidery, sewing, or knitting, typically made using a specified stitch or method."
+        },
+        {
+          "definition": "a defensive structure."
+        },
+        {
+          "definition": "an architectural or engineering structure such as a bridge or dam."
+        },
+        {
+          "definition": "the record of the successive calculations made in solving a mathematical problem.",
+          "examples": [
+            "show your work on a separate sheet of paper"
+          ]
+        },
+        {
+          "definition": "the operative part of a clock or other machine.",
+          "examples": [
+            "she could almost hear the tick of its works"
+          ]
+        },
+        {
+          "definition": "the exertion of force overcoming resistance or producing molecular change."
+        },
+        {
+          "definition": "everything needed, desired, or expected.",
+          "examples": [
+            "the heavens put on a show: sheet lightning, hailstones—the works"
+          ],
+          "synonyms": [
+            "everything",
+            "the full treatment; Moreinformalthe lot",
+            "the whole shebang",
+            "the full nine yards",
+            "the whole kit and kaboodle",
+            "the whole ball of wax \"for only $60 you can get the works\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "work"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "works"
+        },
+        {
+          "part": "past tense",
+          "variant": "worked"
+        },
+        {
+          "part": "past participle",
+          "variant": "worked"
+        },
+        {
+          "part": "past tense",
+          "variant": "wrought"
+        },
+        {
+          "part": "past participle",
+          "variant": "wrought"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "working"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "be engaged in physical or mental activity in order to achieve a purpose or result, especially in one's job; do work.",
+          "examples": [
+            "an engineer who had been working on a design for a more efficient wing"
+          ],
+          "synonyms": [
+            "toil",
+            "labor",
+            "exert oneself",
+            "slave (away); Morekeep at it",
+            "put one's nose to the grindstone; informalslog (away)",
+            "plug away",
+            "put one's back into it",
+            "knock oneself out",
+            "sweat blood; literarytravail \"staff worked late into the night\""
+          ],
+          "antonyms": [
+            "rest",
+            "play"
+          ]
+        },
+        {
+          "definition": "be employed, typically in a specified occupation or field.",
+          "examples": [
+            "Taylor has worked in education for 17 years"
+          ],
+          "synonyms": [
+            "be employed",
+            "have a job",
+            "earn one's living",
+            "do business \"he worked in education for years\""
+          ]
+        },
+        {
+          "definition": "(of an artist) produce articles or pictures using (a particular material or medium).",
+          "examples": [
+            "he works in clay over a very strong frame"
+          ]
+        },
+        {
+          "definition": "produce (an article or design) using a specified material or sewing stitch.",
+          "examples": [
+            "the castle itself is worked in tent stitch"
+          ]
+        },
+        {
+          "definition": "set to or keep at work.",
+          "examples": [
+            "Jane is working you too hard"
+          ]
+        },
+        {
+          "definition": "cultivate (land) or extract materials from (a mine or quarry).",
+          "examples": [
+            "contracts and leases to work the mines"
+          ],
+          "synonyms": [
+            "cultivate",
+            "farm",
+            "till",
+            "plow \"farmers worked the land\""
+          ]
+        },
+        {
+          "definition": "solve (a puzzle or mathematical problem).",
+          "examples": [
+            "she spent her days working crosswords"
+          ]
+        },
+        {
+          "definition": "practice one's occupation or operate in or at (a particular place).",
+          "examples": [
+            "I worked a few clubs and so forth"
+          ]
+        },
+        {
+          "definition": "make efforts to achieve something; campaign.",
+          "examples": [
+            "we spend a great deal of our time working for the lacto-vegetarian cause"
+          ]
+        },
+        {
+          "definition": "(of a machine or system) operate or function, especially properly or effectively.",
+          "examples": [
+            "his cell phone doesn't work unless he goes to a high point"
+          ],
+          "synonyms": [
+            "function",
+            "go",
+            "run",
+            "operate; informalbehave \"his car was working perfectly\""
+          ]
+        },
+        {
+          "definition": "(of a machine or a part of it) run; go through regular motions.",
+          "examples": [
+            "it's designed to go into a special “rest” state when it's not working"
+          ]
+        },
+        {
+          "definition": "(especially of a person's features) move violently or convulsively.",
+          "examples": [
+            "hair wild, mouth working furiously"
+          ],
+          "synonyms": [
+            "twitch",
+            "quiver",
+            "convulse \"her mouth worked furiously\""
+          ]
+        },
+        {
+          "definition": "cause (a device or machine) to operate.",
+          "examples": [
+            "teaching customers how to work a VCR"
+          ],
+          "synonyms": [
+            "operate",
+            "use",
+            "handle",
+            "control",
+            "manipulate",
+            "run \"how do I work this machine?\""
+          ]
+        },
+        {
+          "definition": "(of a plan or method) have the desired result or effect.",
+          "examples": [
+            "the desperate ploy had worked"
+          ],
+          "synonyms": [
+            "succeed",
+            "work out",
+            "turn out well",
+            "go as planned",
+            "get results",
+            "be effective; Moreinformalcome off",
+            "pay off",
+            "do/turn the trick \"their ploy worked\""
+          ],
+          "antonyms": [
+            "fail"
+          ]
+        },
+        {
+          "definition": "bring about; produce as a result.",
+          "examples": [
+            "with a dash of blusher here and there, you can work miracles"
+          ],
+          "synonyms": [
+            "bring about",
+            "accomplish",
+            "achieve",
+            "produce",
+            "perform",
+            "create",
+            "engender",
+            "contrive",
+            "effect \"makeup can work miracles\""
+          ]
+        },
+        {
+          "definition": "arrange or contrive.",
+          "examples": [
+            "the chairman was prepared to work it for Phillip if he was interested"
+          ],
+          "synonyms": [
+            "arrange it/things",
+            "manipulate it/things",
+            "contrive it; Morepull strings",
+            "fix it",
+            "swing it",
+            "wangle it \"can you work it so I can get in for free?\""
+          ]
+        },
+        {
+          "definition": "exert influence or use one's persuasive power on (someone or their feelings).",
+          "examples": [
+            "she worked upon the sympathy of her associates"
+          ],
+          "synonyms": [
+            "persuade",
+            "manipulate",
+            "influence; Morecoax",
+            "cajole",
+            "wheedle",
+            "soften up",
+            "sweet-talk; informaltwist someone's arm",
+            "lean on \"leave Hank to me—I'll work on him\""
+          ]
+        },
+        {
+          "definition": "use one's persuasive power to stir the emotions of (a person or group of people).",
+          "examples": [
+            "the born politician's art of working a crowd"
+          ]
+        },
+        {
+          "definition": "bring (a material or mixture) to a desired shape or consistency by hammering, kneading, or some other method.",
+          "examples": [
+            "work the mixture into a paste with your hands"
+          ],
+          "synonyms": [
+            "knead",
+            "squeeze",
+            "form; Moremix",
+            "stir",
+            "blend \"work the mixture into a paste\""
+          ]
+        },
+        {
+          "definition": "bring into a specified state, especially an emotional state.",
+          "examples": [
+            "Harold had worked himself into a minor rage"
+          ],
+          "synonyms": [
+            "stir (up)",
+            "excite",
+            "drive",
+            "move",
+            "rouse",
+            "fire",
+            "galvanize; Morewhip up",
+            "agitate \"he worked the crowd into a frenzy\""
+          ]
+        },
+        {
+          "definition": "move or cause to move gradually or with difficulty into another position, typically by means of constant movement or pressure.",
+          "examples": [
+            "comb from tip to root, working out the knots at the end"
+          ],
+          "synonyms": [
+            "maneuver",
+            "manipulate",
+            "guide",
+            "edge More\"he worked the blade into the padlock\"maneuver",
+            "make",
+            "thread",
+            "wind",
+            "weave",
+            "wend \"he worked his way through the crowd\""
+          ]
+        },
+        {
+          "definition": "(of joints, such as those in a wooden ship) loosen and flex under repeated stress."
+        },
+        {
+          "definition": "make progress to windward, with repeated tacking.",
+          "examples": [
+            "trying to work to windward in light airs"
+          ]
+        }
+      ]
+    }
+  ]
+}

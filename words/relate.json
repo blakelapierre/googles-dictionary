@@ -1,0 +1,116 @@
+[
+  {
+    "word": "relate",
+    "syllables": [
+      "re",
+      "late"
+    ],
+    "pronunciation": "rəˈlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "relate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "relates"
+          },
+          {
+            "part": "past tense",
+            "variant": "related"
+          },
+          {
+            "part": "past participle",
+            "variant": "related"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "relating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give an account of (a sequence of events); narrate.",
+            "examples": [
+              "various versions of the chilling story have been related by the locals"
+            ],
+            "synonyms": [
+              "tell",
+              "recount",
+              "narrate",
+              "report",
+              "chronicle",
+              "outline",
+              "delineate",
+              "retail",
+              "recite",
+              "repeat",
+              "communicate",
+              "impart \"he related many stories\""
+            ]
+          },
+          {
+            "definition": "be connected by blood or marriage.",
+            "examples": [
+              "he was related to my mother"
+            ]
+          },
+          {
+            "definition": "be causally connected.",
+            "examples": [
+              "high unemployment is related to high crime rates"
+            ],
+            "synonyms": [
+              "connect to/with",
+              "associate with",
+              "link to/with",
+              "correlate to/with",
+              "ally with",
+              "couple with \"suicide rates are related to unemployment levels\""
+            ]
+          },
+          {
+            "definition": "discuss something in such a way as to indicate its connections with (something else).",
+            "examples": [
+              "the study examines social change within the city and relates it to wider developments in the country as a whole"
+            ]
+          },
+          {
+            "definition": "have reference to; concern.",
+            "examples": [
+              "the new legislation related to corporate activities"
+            ],
+            "synonyms": [
+              "apply to",
+              "be relevant to",
+              "concern",
+              "pertain to",
+              "be pertinent to",
+              "have a bearing on",
+              "appertain to",
+              "involve \"the charges relate to offenses committed in August\""
+            ]
+          },
+          {
+            "definition": "feel sympathy with; identify with.",
+            "examples": [
+              "kids related to him because he was so anti-establishment"
+            ],
+            "synonyms": [
+              "have a rapport with",
+              "get on (well) with",
+              "sympathize with",
+              "feel for",
+              "identify with",
+              "empathize with",
+              "understand; informalhit it off with \"she cannot relate to her stepfather\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

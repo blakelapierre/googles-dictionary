@@ -1,0 +1,123 @@
+[
+  {
+    "word": "office",
+    "syllables": [
+      "of",
+      "fice"
+    ],
+    "pronunciation": "ˈôfisˈäfis",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "offices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
+            "examples": [
+              "computers first appeared in offices in the late 1970s"
+            ],
+            "synonyms": [
+              "place of work",
+              "place of business",
+              "workplace; Moreheadquarters",
+              "base; workroom",
+              "studio",
+              "workspace",
+              "cubicle; informalsalt mine(s) \"her office on Union Street\""
+            ]
+          },
+          {
+            "definition": "the local center of a large business.",
+            "examples": [
+              "a company that has four U.S. and four European offices"
+            ],
+            "synonyms": [
+              "branch",
+              "division",
+              "section",
+              "bureau",
+              "department; agency \"the newspaper's Paris office\""
+            ]
+          },
+          {
+            "definition": "a room, department, or building used to provide a particular service.",
+            "examples": [
+              "a ticket office"
+            ]
+          },
+          {
+            "definition": "the consulting room of a professional person."
+          },
+          {
+            "definition": "a position of authority, trust, or service, typically one of a public nature.",
+            "examples": [
+              "the office of attorney general"
+            ],
+            "synonyms": [
+              "post",
+              "position",
+              "appointment",
+              "job",
+              "occupation",
+              "role",
+              "situation",
+              "station",
+              "function",
+              "capacity \"he assumed the office of mayor\""
+            ]
+          },
+          {
+            "definition": "tenure of an official position, especially a government position.",
+            "examples": [
+              "a year ago, when the president took office"
+            ]
+          },
+          {
+            "definition": "the quarters, staff, or collective authority of a particular government department or agency.",
+            "examples": [
+              "noun: Office"
+            ]
+          },
+          {
+            "definition": "a service or kindness done for another person or group of people."
+          },
+          {
+            "definition": "a duty attaching to one's position; a task or function.",
+            "examples": [
+              "the offices of a nurse"
+            ],
+            "synonyms": [
+              "assistance",
+              "help",
+              "aid",
+              "services",
+              "intervention",
+              "intercession",
+              "mediation",
+              "agency",
+              "support",
+              "backing",
+              "patronage",
+              "auspices",
+              "aegis \"he was saved by the good offices of his uncle\""
+            ]
+          },
+          {
+            "definition": "the series of services of prayers and psalms said (or chanted) daily by Roman Catholic priests, members of religious orders, and other clergy."
+          },
+          {
+            "definition": "a prayer service conducted daily as part of the Divine Office.",
+            "examples": [
+              "the noon office"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

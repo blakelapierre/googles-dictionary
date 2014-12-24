@@ -1,0 +1,69 @@
+[
+  {
+    "word": "endow",
+    "syllables": [
+      "en",
+      "dow"
+    ],
+    "pronunciation": "inˈdouenˈdou",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "endow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "endows"
+          },
+          {
+            "part": "past tense",
+            "variant": "endowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "endowed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "endowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give or bequeath an income or property to (a person or institution).",
+            "examples": [
+              "he endowed the church with lands"
+            ]
+          },
+          {
+            "definition": "establish (a college post, annual prize, or project) by donating the funds needed to maintain it.",
+            "examples": [
+              "finance, fund, pay for, provide for, subsidize, support financially, put up the money for; Moreestablish, found, set up, institute \"the CEO endowed a hospital for sick kids\"Moreestablish, found, set up, institute the CEO endowed a hospital for sick kids"
+            ]
+          },
+          {
+            "definition": "provide with a quality, ability, or asset.",
+            "examples": [
+              "he was endowed with tremendous physical strength"
+            ],
+            "synonyms": [
+              "provide",
+              "supply",
+              "furnish",
+              "equip",
+              "invest",
+              "favor",
+              "bless",
+              "grace",
+              "gift; Moregive",
+              "bestow; literaryendue \"nature endowed fish with gills\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

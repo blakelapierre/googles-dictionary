@@ -1,0 +1,109 @@
+[
+  {
+    "word": "assent",
+    "syllables": [
+      "as",
+      "sent"
+    ],
+    "pronunciation": "əˈsent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "assent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the expression of approval or agreement.",
+            "examples": [
+              "a loud murmur of assent"
+            ]
+          },
+          {
+            "definition": "official agreement or sanction.",
+            "examples": [
+              "the governor has power to withhold his assent from a bill"
+            ],
+            "synonyms": [
+              "agreement",
+              "acceptance",
+              "approval",
+              "approbation",
+              "consent",
+              "acquiescence",
+              "compliance",
+              "concurrence; Moresanction",
+              "endorsement",
+              "confirmation; permission",
+              "leave",
+              "blessing; informalthe go-ahead",
+              "the nod",
+              "the green light",
+              "the OK",
+              "the thumbs up \"they are likely to give their assent\""
+            ],
+            "antonyms": [
+              "dissent",
+              "refusal"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "assent"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "assents"
+          },
+          {
+            "part": "past tense",
+            "variant": "assented"
+          },
+          {
+            "part": "past participle",
+            "variant": "assented"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "assenting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express approval or agreement, typically officially.",
+            "examples": [
+              "Roosevelt assented to the agreement"
+            ],
+            "synonyms": [
+              "agree to",
+              "accept",
+              "approve",
+              "consent to",
+              "acquiesce in",
+              "concur in",
+              "give one's blessing to; Moresanction",
+              "endorse",
+              "confirm; informalgive the go-ahead to",
+              "give the nod to",
+              "give the green light to",
+              "give the OK to",
+              "OK",
+              "give the thumbs up to; formalaccede to \"he assented to the change\""
+            ],
+            "antonyms": [
+              "refuse"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

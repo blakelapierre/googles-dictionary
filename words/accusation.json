@@ -1,0 +1,55 @@
+[
+  {
+    "word": "accusation",
+    "syllables": [
+      "ac",
+      "cu",
+      "sa",
+      "tion"
+    ],
+    "pronunciation": "ˌakyəˈzāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "accusation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "accusations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a charge or claim that someone has done something illegal or wrong.",
+            "examples": [
+              "accusations of bribery"
+            ],
+            "synonyms": [
+              "allegation",
+              "charge",
+              "claim",
+              "assertion",
+              "imputation; Moreindictment",
+              "arraignment",
+              "incrimination",
+              "recrimination",
+              "inculpation; suit",
+              "lawsuit",
+              "impeachment; informalrap",
+              "blame game \"he denied the accusations of bending the rules to obtain the grants\""
+            ]
+          },
+          {
+            "definition": "the action or process of accusing someone.",
+            "examples": [
+              "there was accusation in Brian's voice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

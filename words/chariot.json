@@ -1,0 +1,67 @@
+[
+  {
+    "word": "chariot",
+    "syllables": [
+      "char",
+      "i",
+      "ot"
+    ],
+    "pronunciation": "ˈCHerēət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chariot"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chariots"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a two-wheeled horse-drawn vehicle used in ancient warfare and racing."
+          },
+          {
+            "definition": "a four-wheeled carriage with back seats and a coachman's seat."
+          },
+          {
+            "definition": "a stately or triumphal carriage."
+          }
+        ]
+      },
+      {
+        "part": "verbliterary",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "chariot"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "chariots"
+          },
+          {
+            "part": "past tense",
+            "variant": "charioted"
+          },
+          {
+            "part": "past participle",
+            "variant": "charioted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "charioting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convey in or as in a chariot."
+          }
+        ]
+      }
+    ]
+  }
+]

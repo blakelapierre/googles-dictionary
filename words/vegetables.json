@@ -1,0 +1,40 @@
+[
+  {
+    "word": "vegetable",
+    "syllables": [
+      "veg",
+      "e",
+      "ta",
+      "ble"
+    ],
+    "pronunciation": "ˈvejtəb(ə)lˈvəjədəb(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "vegetables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plant or part of a plant used as food, typically as accompaniment to meat or fish, such as a cabbage, potato, carrot, or bean.",
+            "examples": [
+              "fresh fruit and vegetables"
+            ]
+          },
+          {
+            "definition": "a person with a dull or inactive life.",
+            "examples": [
+              "I thought I'd sort of flop back and be a vegetable for a bit"
+            ]
+          },
+          {
+            "definition": "a person who is incapable of normal mental or physical activity, especially through brain damage."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "word": "practice",
+    "syllables": [
+      "prac",
+      "tice"
+    ],
+    "pronunciation": "ˈpraktəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "practice"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the actual application or use of an idea, belief, or method as opposed to theories about such application or use.",
+            "examples": [
+              "the principles and practice of teaching"
+            ],
+            "synonyms": [
+              "application",
+              "exercise",
+              "use",
+              "operation",
+              "implementation",
+              "execution More\"the practice of hypnosis\"use",
+              "make use of",
+              "put to use",
+              "utilize",
+              "apply \"it's time you put your teaching degree into practice\""
+            ]
+          },
+          {
+            "definition": "the customary, habitual, or expected procedure of something.",
+            "examples": [
+              "plural noun: practices"
+            ]
+          },
+          {
+            "definition": "the carrying out or exercise of a profession, especially that of a doctor or lawyer.",
+            "examples": [
+              "he abandoned medical practice for the Church"
+            ],
+            "synonyms": [
+              "profession",
+              "career",
+              "business",
+              "work \"the practice of medicine\""
+            ]
+          },
+          {
+            "definition": "the business or premises of a doctor or lawyer.",
+            "examples": [
+              "Dr. Weiss has a practice in Essex"
+            ],
+            "synonyms": [
+              "business",
+              "firm",
+              "office",
+              "company; informaloutfit \"a small legal practice\""
+            ]
+          },
+          {
+            "definition": "an established method of legal procedure."
+          },
+          {
+            "definition": "repeated exercise in or performance of an activity or skill so as to acquire or maintain proficiency in it.",
+            "examples": [
+              "it must have taken a lot of practice to become so fluent"
+            ],
+            "synonyms": [
+              "training",
+              "rehearsal",
+              "repetition",
+              "preparation; Morepractice session",
+              "dummy run",
+              "run-through; informaldry run \"it takes lots of practice\""
+            ]
+          },
+          {
+            "definition": "a period of time spent doing this.",
+            "examples": [
+              "daily choir practices"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "practise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "practises"
+          },
+          {
+            "part": "past tense",
+            "variant": "practised"
+          },
+          {
+            "part": "past participle",
+            "variant": "practised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "practising"
+          },
+          {
+            "part": "verb",
+            "variant": "practice"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "practices"
+          },
+          {
+            "part": "past tense",
+            "variant": "practiced"
+          },
+          {
+            "part": "past participle",
+            "variant": "practiced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "practicing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perform (an activity) or exercise (a skill) repeatedly or regularly in order to improve or maintain one's proficiency.",
+            "examples": [
+              "I need to practice my French"
+            ],
+            "synonyms": [
+              "rehearse",
+              "run through",
+              "go over/through",
+              "work on/at; Morepolish",
+              "perfect \"he practiced the songs every day\"train",
+              "rehearse",
+              "prepare",
+              "go through one's paces \"the performers were practicing\""
+            ]
+          },
+          {
+            "definition": "carry out or perform (a particular activity, method, or custom) habitually or regularly.",
+            "examples": [
+              "we still practice some of these rituals today"
+            ],
+            "synonyms": [
+              "carry out",
+              "perform",
+              "observe \"we still practice these rituals today\""
+            ]
+          },
+          {
+            "definition": "actively pursue or be engaged in (a particular profession or occupation).",
+            "examples": [
+              "he began to practice law"
+            ],
+            "synonyms": [
+              "work at",
+              "pursue a career in \"she practices medicine\""
+            ]
+          },
+          {
+            "definition": "observe the teaching and rules of (a particular religion).",
+            "examples": [
+              "they are free to practice their religion without fear of persecution"
+            ]
+          },
+          {
+            "definition": "scheme or plot for an evil purpose.",
+            "examples": [
+              "what a tangled web we weave when we first practice to deceive"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

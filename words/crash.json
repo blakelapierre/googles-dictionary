@@ -1,0 +1,278 @@
+[
+  {
+    "word": "crash",
+    "syllables": [
+      "crash"
+    ],
+    "pronunciation": "kraSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "crash"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "crashes"
+          },
+          {
+            "part": "past tense",
+            "variant": "crashed"
+          },
+          {
+            "part": "past participle",
+            "variant": "crashed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "crashing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a vehicle) collide violently with an obstacle or another vehicle.",
+            "examples": [
+              "the stolen car she was riding in crashed into a tree"
+            ],
+            "synonyms": [
+              "smash into",
+              "collide with",
+              "be in collision with",
+              "hit",
+              "strike",
+              "ram",
+              "cannon into",
+              "plow into",
+              "meet head-on",
+              "run into",
+              "impact \"the car crashed into a tree\""
+            ]
+          },
+          {
+            "definition": "cause (a moving object) to collide with an obstacle or another vehicle.",
+            "examples": [
+              "smash, wreck; total he crashed his car"
+            ]
+          },
+          {
+            "definition": "(of an aircraft) fall from the sky and violently hit the land or sea.",
+            "examples": [
+              "a jet crashed 200 yards from the school"
+            ]
+          },
+          {
+            "definition": "cause (an aircraft) to fall from the sky and land violently."
+          },
+          {
+            "definition": "move or cause to move with force, speed, and sudden loud noise.",
+            "examples": [
+              "huge waves crashed down on us"
+            ],
+            "synonyms": [
+              "dash against",
+              "batter",
+              "pound",
+              "lash (against)",
+              "slam (against)",
+              "be hurled against \"waves crashed against the shore\""
+            ]
+          },
+          {
+            "definition": "make a sudden loud, deep noise.",
+            "examples": [
+              "the thunder crashed"
+            ],
+            "synonyms": [
+              "boom",
+              "crack",
+              "roll",
+              "clap",
+              "explode",
+              "bang",
+              "blast",
+              "blare",
+              "resound",
+              "reverberate",
+              "rumble",
+              "thunder",
+              "echo \"thunder crashed overhead\""
+            ]
+          },
+          {
+            "definition": "(of a business, a market, or a price) fall suddenly and disastrously in value.",
+            "examples": [
+              "silver prices crashed in early 1980"
+            ],
+            "synonyms": [
+              "collapse",
+              "fold",
+              "fail",
+              "go under",
+              "go bankrupt",
+              "become insolvent",
+              "cease trading",
+              "go into receivership",
+              "go into liquidation; Moreinformalgo broke",
+              "go bust",
+              "go belly up \"his clothing company crashed\""
+            ]
+          },
+          {
+            "definition": "(of a machine, system, or software) fail suddenly.",
+            "examples": [
+              "the project was postponed because the computer crashed"
+            ]
+          },
+          {
+            "definition": "(of a patient) suffer a cardiac arrest."
+          },
+          {
+            "definition": "enter (a party) without an invitation or permission."
+          },
+          {
+            "definition": "go to sleep, especially suddenly or in an improvised setting.",
+            "examples": [
+              "I'll crash in the back of the van for a couple of hours"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "crash"
+          },
+          {
+            "part": "plural noun",
+            "variant": "crashes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a violent collision, typically of one vehicle with another or with an obstacle.",
+            "examples": [
+              "a car crash"
+            ],
+            "synonyms": [
+              "accident",
+              "collision",
+              "road traffic accident",
+              "derailment",
+              "wreck; Moreinformalpileup",
+              "smash-up",
+              "rear-ender \"a crash on the highway\""
+            ]
+          },
+          {
+            "definition": "an instance of an aircraft falling from the sky to hit the land or sea."
+          },
+          {
+            "definition": "a sudden loud noise as of something breaking or hitting another object.",
+            "examples": [
+              "he slammed the phone down with a crash"
+            ],
+            "synonyms": [
+              "bang",
+              "smash",
+              "smack",
+              "crack",
+              "bump",
+              "thud",
+              "clatter",
+              "clunk",
+              "clang; Morereport",
+              "detonation",
+              "explosion; noise",
+              "racket",
+              "clangor",
+              "din \"a loud crash\""
+            ]
+          },
+          {
+            "definition": "a sudden disastrous drop in the value or price of something, especially shares of stock.",
+            "examples": [
+              "a stock market crash"
+            ]
+          },
+          {
+            "definition": "the sudden collapse of a business.",
+            "examples": [
+              "collapse, failure, bankruptcy the stock market crash"
+            ]
+          },
+          {
+            "definition": "a sudden failure which puts a system out of action."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "crash"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "done rapidly or urgently and involving a concentrated effort.",
+            "examples": [
+              "a crash course in Italian"
+            ],
+            "synonyms": [
+              "intensive",
+              "concentrated",
+              "rapid",
+              "short; Moreaccelerated",
+              "immersion \"a crash course\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "crash"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with a sudden loud sound.",
+            "examples": [
+              "crash went the bolt"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "crash",
+    "syllables": [
+      "crash"
+    ],
+    "pronunciation": "kraSH",
+    "parts": [
+      {
+        "part": "noundated",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "crash"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a coarse plain linen, woolen, or cotton fabric, used for curtains and towels."
+          }
+        ]
+      }
+    ]
+  }
+]

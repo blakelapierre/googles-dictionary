@@ -1,0 +1,131 @@
+[
+  {
+    "word": "seed",
+    "syllables": [
+      "seed"
+    ],
+    "pronunciation": "sēd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "seeds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flowering plant's unit of reproduction, capable of developing into another such plant.",
+            "examples": [
+              "pip, stone, kernel; ovule apple seeds"
+            ]
+          },
+          {
+            "definition": "a quantity of these.",
+            "examples": [
+              "grass seed"
+            ]
+          },
+          {
+            "definition": "the cause or latent beginning of a feeling, process, or condition.",
+            "examples": [
+              "the conversation sowed a tiny seed of doubt in his mind"
+            ],
+            "synonyms": [
+              "genesis",
+              "source",
+              "origin",
+              "root",
+              "starting point",
+              "germ",
+              "beginnings",
+              "potential (for); Morecause",
+              "reason",
+              "motivation",
+              "motive",
+              "grounds \"each war contains within it the seeds of a fresh war\""
+            ]
+          },
+          {
+            "definition": "(chiefly in biblical use) a person's offspring or descendants.",
+            "examples": [
+              "descendants, heirs, successors, scions; Moreoffspring, children, sons and daughters, progeny, family; issue; derogatoryspawn; archaicfruit of someone's loins \"Abraham and his seed\"Moreoffspring, children, sons and daughters, progeny, family; issue; spawn; fruit of someone's loins Abraham and his seed"
+            ]
+          },
+          {
+            "definition": "a man's semen."
+          },
+          {
+            "definition": "a small crystal introduced into a liquid to act as a nucleus for crystallization.",
+            "examples": [
+              "noun: seed crystal; plural noun: seed crystals"
+            ]
+          },
+          {
+            "definition": "a small container for radioactive material placed in body tissue during radiotherapy."
+          },
+          {
+            "definition": "any of a number of stronger competitors in a sports tournament who have been assigned a specified position in an ordered list with the aim of ensuring that they do not play each other in the early rounds.",
+            "examples": [
+              "he knocked the top seed out of the championships"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "seeds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sow (land) with seeds.",
+            "examples": [
+              "the shoreline is seeded with a special grass"
+            ]
+          },
+          {
+            "definition": "sow (a particular kind of seed) on or in the ground."
+          },
+          {
+            "definition": "cause (something) to begin to develop or grow.",
+            "examples": [
+              "severance payouts that help seed their new businesses"
+            ]
+          },
+          {
+            "definition": "place a crystal or crystalline substance in (something) in order to cause crystallization or condensation (especially in a cloud to produce rain)."
+          },
+          {
+            "definition": "(of a plant) produce or drop seeds.",
+            "examples": [
+              "mulches encourage many plants to seed freely"
+            ]
+          },
+          {
+            "definition": "(of a plant) reproduce itself by means of its own seeds.",
+            "examples": [
+              "feverfew will seed itself readily"
+            ]
+          },
+          {
+            "definition": "remove the seeds from (vegetables or fruit).",
+            "examples": [
+              "stem and seed the chilies"
+            ]
+          },
+          {
+            "definition": "give (a competitor) the status of seed in a tournament.",
+            "examples": [
+              "Jeff Tarango, seeded five, was defeated by fellow American Todd Witsken"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

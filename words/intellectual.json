@@ -1,0 +1,106 @@
+[
+  {
+    "word": "intellectual",
+    "syllables": [
+      "in",
+      "tel",
+      "lec",
+      "tu",
+      "al"
+    ],
+    "pronunciation": "ˌin(t)əˈlek(t)SH(əw)əl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "intellectual"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to the intellect.",
+            "examples": [
+              "children need intellectual stimulation"
+            ],
+            "synonyms": [
+              "mental",
+              "cerebral",
+              "cognitive",
+              "psychological; Morerational",
+              "abstract",
+              "conceptual",
+              "theoretical",
+              "analytical",
+              "logical; academic \"her intellectual capacity\""
+            ],
+            "antonyms": [
+              "physical"
+            ]
+          },
+          {
+            "definition": "appealing to or requiring use of the intellect.",
+            "examples": [
+              "the movie wasn't very intellectual, but it caught the mood of the times"
+            ]
+          },
+          {
+            "definition": "possessing a highly developed intellect.",
+            "examples": [
+              "you are an intellectual girl, like your mother"
+            ],
+            "synonyms": [
+              "intelligent",
+              "clever",
+              "academic",
+              "educated",
+              "well read",
+              "lettered",
+              "erudite",
+              "cerebral",
+              "learned",
+              "knowledgeable",
+              "literary",
+              "bookish",
+              "highbrow",
+              "scholarly",
+              "studious",
+              "enlightened",
+              "sophisticated",
+              "cultured",
+              "donnish; informalbrainy \"an intellectual man\""
+            ],
+            "antonyms": [
+              "stupid"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intellectual"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intellectuals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person possessing a highly developed intellect.",
+            "examples": [
+              "highbrow, learned person, academic, bookworm, man/woman of letters, bluestocking; Morethinker, brain, scholar, genius, polymath, mastermind; informalegghead, Einstein, brains, brainiac, rocket scientist \"there’s an elitism among intellectuals that turns many “common” folks off\"Morethinker, brain, scholar, genius, polymath, mastermind; egghead, Einstein, brains, brainiac, rocket scientist there’s an elitism among intellectuals that turns many “common” folks off"
+            ],
+            "antonyms": [
+              "dunce"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

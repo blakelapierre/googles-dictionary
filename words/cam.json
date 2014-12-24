@@ -1,0 +1,61 @@
+[
+  {
+    "word": "cam",
+    "syllables": [
+      "cam"
+    ],
+    "pronunciation": "kam",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cam"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cams"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a projection on a rotating part in machinery, designed to make sliding contact with another part while rotating and to impart reciprocal or variable motion to it."
+          },
+          {
+            "definition": "short for camshaft."
+          },
+          {
+            "definition": "short for camera1."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "CAM",
+    "syllables": [
+      "CAM"
+    ],
+    "pronunciation": "kam",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "CAM"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "computer-aided manufacturing."
+          },
+          {
+            "definition": "complementary and alternative medicine."
+          }
+        ]
+      }
+    ]
+  }
+]

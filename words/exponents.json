@@ -1,0 +1,82 @@
+[
+  {
+    "word": "exponent",
+    "syllables": [
+      "ex",
+      "po",
+      "nent"
+    ],
+    "pronunciation": "ikˈspōnəntˈekspōnənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "exponents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who believes in and promotes the truth or benefits of an idea or theory.",
+            "examples": [
+              "an early exponent of the teachings of Thomas Aquinas"
+            ],
+            "synonyms": [
+              "advocate",
+              "supporter",
+              "proponent",
+              "upholder",
+              "backer",
+              "defender",
+              "champion; Morepromoter",
+              "propagandist",
+              "campaigner",
+              "fighter",
+              "crusader",
+              "enthusiast",
+              "apologist; informalcheerleader",
+              "booster \"the new premier is an exponent of free trade\""
+            ],
+            "antonyms": [
+              "critic",
+              "opponent"
+            ]
+          },
+          {
+            "definition": "a person who has and demonstrates a particular skill, especially to a high standard.",
+            "examples": [
+              "he's the world's leading exponent of country rock guitar"
+            ],
+            "synonyms": [
+              "advocate",
+              "supporter",
+              "proponent",
+              "upholder",
+              "backer",
+              "defender",
+              "champion; Morepromoter",
+              "propagandist",
+              "campaigner",
+              "fighter",
+              "crusader",
+              "enthusiast",
+              "apologist; informalcheerleader",
+              "booster \"the new premier is an exponent of free trade\""
+            ],
+            "antonyms": [
+              "critic",
+              "opponent"
+            ]
+          },
+          {
+            "definition": "a quantity representing the power to which a given number or expression is to be raised, usually expressed as a raised symbol beside the number or expression (e.g., 3 in 23 = 2 × 2 × 2)."
+          },
+          {
+            "definition": "a linguistic unit that realizes another, more abstract unit."
+          }
+        ]
+      }
+    ]
+  }
+]

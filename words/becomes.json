@@ -1,0 +1,90 @@
+[
+  {
+    "word": "become",
+    "syllables": [
+      "be",
+      "come"
+    ],
+    "pronunciation": "bəˈkəm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "becomes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "begin to be.",
+            "examples": [
+              "they became angry"
+            ]
+          },
+          {
+            "definition": "grow to be; turn into.",
+            "examples": [
+              "the child will become an adult"
+            ],
+            "synonyms": [
+              "grow",
+              "get",
+              "turn",
+              "come to be",
+              "get to be; literarywax \"she became rich\""
+            ]
+          },
+          {
+            "definition": "(of a person) qualify or be accepted as; acquire the status of.",
+            "examples": [
+              "she wanted to become a doctor"
+            ],
+            "synonyms": [
+              "turn into",
+              "change into",
+              "be transformed into",
+              "be converted into \"he became a tyrant\""
+            ]
+          },
+          {
+            "definition": "(in questions) happen to.",
+            "examples": [
+              "what would become of her now?"
+            ],
+            "synonyms": [
+              "happen to",
+              "be the fate of",
+              "be the lot of",
+              "overtake; Moreliterarybefall",
+              "betide \"whatever became of the guy who designed your terrace?\""
+            ]
+          },
+          {
+            "definition": "(of clothing) look good on or suit (someone).",
+            "examples": [
+              "the dress becomes her"
+            ],
+            "synonyms": [
+              "suit",
+              "flatter",
+              "look good on; Moreset off",
+              "show to advantage; informaldo something for \"the dress becomes her\""
+            ]
+          },
+          {
+            "definition": "be appropriate or suitable to (someone).",
+            "examples": [
+              "minor celebrity status did not become him"
+            ],
+            "synonyms": [
+              "befit",
+              "suit",
+              "behoove \"it ill becomes him to preach the gospel during a board meeting\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

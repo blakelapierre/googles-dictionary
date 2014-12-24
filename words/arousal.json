@@ -1,0 +1,34 @@
+[
+  {
+    "word": "arousal",
+    "syllables": [
+      "a",
+      "rou",
+      "sal"
+    ],
+    "pronunciation": "əˈrouzl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "arousal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "arousals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of arousing or being aroused.",
+            "examples": [
+              "sexual arousal in dreams is common"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

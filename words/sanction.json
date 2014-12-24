@@ -1,0 +1,145 @@
+[
+  {
+    "word": "sanction",
+    "syllables": [
+      "sanc",
+      "tion"
+    ],
+    "pronunciation": "ˈsaNG(k)SH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sanction"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sanctions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a threatened penalty for disobeying a law or rule.",
+            "examples": [
+              "a range of sanctions aimed at deterring insider abuse"
+            ],
+            "synonyms": [
+              "penalty",
+              "punishment",
+              "deterrent; Morepunitive action",
+              "discipline",
+              "restriction; embargo",
+              "ban",
+              "prohibition",
+              "boycott \"trade sanctions\""
+            ],
+            "antonyms": [
+              "reward"
+            ]
+          },
+          {
+            "definition": "measures taken by a nation to coerce another to conform to an international agreement or norms of conduct, typically in the form of restrictions on trade or on participation in official sporting events."
+          },
+          {
+            "definition": "a consideration operating to enforce obedience to any rule of conduct."
+          },
+          {
+            "definition": "official permission or approval for an action.",
+            "examples": [
+              "he appealed to the bishop for his sanction"
+            ],
+            "synonyms": [
+              "authorization",
+              "consent",
+              "leave",
+              "permission",
+              "authority",
+              "warrant",
+              "license",
+              "dispensation",
+              "assent",
+              "acquiescence",
+              "agreement",
+              "approval",
+              "approbation",
+              "endorsement",
+              "accreditation",
+              "ratification",
+              "validation",
+              "blessing",
+              "imprimatur; Moreinformalgo-ahead",
+              "OK",
+              "green light \"the scheme has the sanction of the court\""
+            ],
+            "antonyms": [
+              "prohibition"
+            ]
+          },
+          {
+            "definition": "official confirmation or ratification of a law."
+          },
+          {
+            "definition": "a law or decree, especially an ecclesiastical decree."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sanction"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sanctions"
+          },
+          {
+            "part": "past tense",
+            "variant": "sanctioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "sanctioned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sanctioning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give official permission or approval for (an action).",
+            "examples": [
+              "only two treatments have been sanctioned by the Food and Drug Administration"
+            ],
+            "synonyms": [
+              "authorize",
+              "permit",
+              "allow",
+              "warrant",
+              "accredit",
+              "license",
+              "endorse",
+              "approve",
+              "accept",
+              "back",
+              "support; informalOK \"the rally was sanctioned by the government\""
+            ],
+            "antonyms": [
+              "prohibit"
+            ]
+          },
+          {
+            "definition": "impose a sanction or penalty on.",
+            "examples": [
+              "punish, discipline someone for the penalties available to sanction crime"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

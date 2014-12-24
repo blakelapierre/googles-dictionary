@@ -1,0 +1,28 @@
+{
+  "word": "Angle",
+  "syllables": [
+    "An",
+    "gle"
+  ],
+  "pronunciation": "ˈaNGɡəl",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "Angle"
+        },
+        {
+          "part": "plural noun",
+          "variant": "Angles"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a member of a Germanic people, originally inhabitants of what is now Schleswig-Holstein, who migrated to England in the 5th century AD. The Angles founded kingdoms in Mercia, Northumbria, and East Anglia and gave their name to England and the English."
+        }
+      ]
+    }
+  ]
+}

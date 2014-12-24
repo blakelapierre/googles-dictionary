@@ -1,0 +1,150 @@
+[
+  {
+    "word": "spur",
+    "syllables": [
+      "spur"
+    ],
+    "pronunciation": "spər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spur"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spurs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a device with a small spike or a spiked wheel that is worn on a rider's heel and used for urging a horse forward."
+          },
+          {
+            "definition": "a hard spike on the back of the leg of a cock or male game bird, used in fighting."
+          },
+          {
+            "definition": "a steel point fastened to the leg of a gamecock."
+          },
+          {
+            "definition": "a thing that prompts or encourages someone; an incentive.",
+            "examples": [
+              "profit was both the spur and the reward of enterprise"
+            ],
+            "synonyms": [
+              "stimulus",
+              "incentive",
+              "encouragement",
+              "inducement",
+              "impetus",
+              "prod",
+              "motivation",
+              "inspiration",
+              "catalyst",
+              "springboard; Moreinformalkick up the backside",
+              "shot in the arm \"competition can be a spur\""
+            ],
+            "antonyms": [
+              "disincentive",
+              "discouragement"
+            ]
+          },
+          {
+            "definition": "a thing that projects or branches off from a main body, in particular.",
+            "examples": [
+              "projection, spike, point; process a spur of bone"
+            ]
+          },
+          {
+            "definition": "a projection from a mountain or mountain range."
+          },
+          {
+            "definition": "a short branch road or rail line."
+          },
+          {
+            "definition": "a slender tubular projection from the base of a flower, e.g., a honeysuckle or orchid, typically containing nectar."
+          },
+          {
+            "definition": "a short fruit-bearing side shoot."
+          },
+          {
+            "definition": "a short pointed growth or process on a part of the body."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "spur"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "spurs"
+          },
+          {
+            "part": "past tense",
+            "variant": "spurred"
+          },
+          {
+            "part": "past participle",
+            "variant": "spurred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spurring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "urge (a horse) forward by digging one's spurs into its sides.",
+            "examples": [
+              "she spurred her horse toward the hedge"
+            ]
+          },
+          {
+            "definition": "give an incentive or encouragement to (someone).",
+            "examples": [
+              "her sons' passion for computer games spurred her on to set up a software store"
+            ]
+          },
+          {
+            "definition": "cause or promote the development of; stimulate.",
+            "examples": [
+              "governments cut interest rates to spur demand"
+            ],
+            "synonyms": [
+              "stimulate",
+              "encourage",
+              "prompt",
+              "propel",
+              "prod",
+              "induce",
+              "impel",
+              "motivate",
+              "move",
+              "galvanize",
+              "inspire",
+              "incentivize",
+              "urge",
+              "drive",
+              "egg on",
+              "stir; Moreincite",
+              "goad",
+              "provoke",
+              "prick",
+              "sting",
+              "light a fire under \"the thought spurred him into action\""
+            ],
+            "antonyms": [
+              "discourage"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

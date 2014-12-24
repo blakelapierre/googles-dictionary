@@ -1,0 +1,43 @@
+{
+  "word": "vertebrate",
+  "syllables": [
+    "ver",
+    "te",
+    "brate"
+  ],
+  "pronunciation": "ˈvərdəbrətˈvərdəˌbrāt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "vertebrate"
+        },
+        {
+          "part": "plural noun",
+          "variant": "vertebrates"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an animal of a large group distinguished by the possession of a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes."
+        }
+      ]
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "vertebrate"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "of or relating to the vertebrates."
+        }
+      ]
+    }
+  ]
+}

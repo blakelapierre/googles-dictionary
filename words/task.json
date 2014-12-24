@@ -1,0 +1,49 @@
+{
+  "word": "task",
+  "syllables": [
+    "task"
+  ],
+  "pronunciation": "task",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "tasks"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a piece of work to be done or undertaken.",
+          "examples": [
+            "job, duty, chore, charge, assignment, detail, mission, engagement, occupation, undertaking, exercise, business, responsibility, burden, endeavor, enterprise, venture a daunting task"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "tasks"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "assign a piece of work to.",
+          "examples": [
+            "NATO troops are tasked with separating the warring parties"
+          ]
+        },
+        {
+          "definition": "make great demands on (someone's resources or abilities).",
+          "examples": [
+            "it tasked his diplomatic skill to effect his departure in safety"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "constitute",
+  "syllables": [
+    "con",
+    "sti",
+    "tute"
+  ],
+  "pronunciation": "ˈkänstəˌt(y)o͞ot",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "constitutes"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "be (a part) of a whole.",
+          "examples": [
+            "single parents constitute a great proportion of the poor"
+          ],
+          "synonyms": [
+            "amount to",
+            "add up to",
+            "account for",
+            "form",
+            "make up",
+            "compose \"farmers constituted 10 percent of the population\""
+          ]
+        },
+        {
+          "definition": "(of people or things) combine to form (a whole).",
+          "examples": [
+            "there were enough members present to constitute a quorum"
+          ]
+        },
+        {
+          "definition": "be or be equivalent to (something).",
+          "examples": [
+            "his failure to act constituted a breach of duty"
+          ],
+          "synonyms": [
+            "be equivalent to",
+            "be",
+            "embody",
+            "be tantamount to",
+            "be regarded as \"this constitutes a breach of copyright\""
+          ]
+        },
+        {
+          "definition": "give legal or constitutional form to (an institution); establish by law.",
+          "examples": [
+            "inaugurate, establish, initiate, found, create, set up, start, form, organize, develop; Morecommission, charter, invest, appoint, install, empower \"the courts were constituted in 1875\"Morecommission, charter, invest, appoint, install, empower the courts were constituted in 1875"
+          ]
+        }
+      ]
+    }
+  ]
+}

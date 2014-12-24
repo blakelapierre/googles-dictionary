@@ -1,0 +1,97 @@
+[
+  {
+    "word": "pairing",
+    "syllables": [
+      "pair",
+      "ing"
+    ],
+    "pronunciation": "ˈperiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pairing"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pairings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an arrangement or match resulting from organizing or forming people or things into pairs.",
+            "examples": [
+              "the dancers made a fine pairing"
+            ]
+          },
+          {
+            "definition": "the action of pairing things or people.",
+            "examples": [
+              "the pairing of food and wine"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pair",
+    "syllables": [
+      "pair"
+    ],
+    "pronunciation": "per",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "pairing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join or connect to form a pair.",
+            "examples": [
+              "a cardigan paired with a matching skirt"
+            ],
+            "synonyms": [
+              "match",
+              "put together",
+              "couple",
+              "twin \"a cardigan paired with a matching skirt\""
+            ]
+          },
+          {
+            "definition": "(of animals) mate.",
+            "examples": [
+              "they bought a rooster to pair with the hen"
+            ]
+          },
+          {
+            "definition": "form a couple.",
+            "examples": [
+              "Rachel has paired up with Tommy"
+            ],
+            "synonyms": [
+              "get together",
+              "team up",
+              "form a couple",
+              "make a twosome",
+              "hook up",
+              "marry \"Rachel paired up with Tommy\""
+            ]
+          },
+          {
+            "definition": "give (a member of a legislative assembly) another member as a pair, to allow both to absent themselves from a vote without affecting the result.",
+            "examples": [
+              "an absent member on one side is to be paired with an absentee on the other"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

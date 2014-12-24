@@ -1,0 +1,93 @@
+[
+  {
+    "word": "extinguish",
+    "syllables": [
+      "ex",
+      "tin",
+      "guish"
+    ],
+    "pronunciation": "ikˈstiNGɡwiSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "extinguish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "extinguishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "extinguished"
+          },
+          {
+            "part": "past participle",
+            "variant": "extinguished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "extinguishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (a fire or light) to cease to burn or shine.",
+            "examples": [
+              "firemen were soaking everything to extinguish the blaze"
+            ],
+            "synonyms": [
+              "douse",
+              "put out",
+              "stamp out",
+              "smother",
+              "beat out \"the fire was extinguished\""
+            ],
+            "antonyms": [
+              "light"
+            ]
+          },
+          {
+            "definition": "put an end to; annihilate.",
+            "examples": [
+              "hope is extinguished little by little"
+            ],
+            "synonyms": [
+              "destroy",
+              "end",
+              "finish off",
+              "put an end to",
+              "bring to an end",
+              "terminate",
+              "remove",
+              "annihilate",
+              "wipe out",
+              "erase",
+              "eliminate",
+              "eradicate",
+              "obliterate; Moreinformaltake out",
+              "rub out \"all hope was extinguished\""
+            ],
+            "antonyms": [
+              "start up"
+            ]
+          },
+          {
+            "definition": "cancel (a debt) by full payment.",
+            "examples": [
+              "the debt was absolutely extinguished"
+            ]
+          },
+          {
+            "definition": "render (a right or obligation) void.",
+            "examples": [
+              "rights of common pasture were extinguished"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

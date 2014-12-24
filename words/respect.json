@@ -1,0 +1,169 @@
+[
+  {
+    "word": "respect",
+    "syllables": [
+      "re",
+      "spect"
+    ],
+    "pronunciation": "rəˈspekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "respect"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.",
+            "examples": [
+              "the director had a lot of respect for Douglas as an actor"
+            ],
+            "synonyms": [
+              "esteem",
+              "regard",
+              "high opinion",
+              "admiration",
+              "reverence",
+              "deference",
+              "honor \"the respect due to a great artist\""
+            ],
+            "antonyms": [
+              "contempt"
+            ]
+          },
+          {
+            "definition": "the state of being admired or respected.",
+            "examples": [
+              "his first chance in over fifteen years to regain respect in the business"
+            ]
+          },
+          {
+            "definition": "due regard for the feelings, wishes, rights, or traditions of others.",
+            "examples": [
+              "plural noun: respects"
+            ]
+          },
+          {
+            "definition": "a person's polite greetings.",
+            "examples": [
+              "plural noun: respects"
+            ]
+          },
+          {
+            "definition": "a particular aspect, point, or detail.",
+            "examples": [
+              "the government's record in this respect is a mixed one"
+            ],
+            "synonyms": [
+              "aspect",
+              "regard",
+              "facet",
+              "feature",
+              "way",
+              "sense",
+              "particular",
+              "point",
+              "detail \"the report was accurate in every respect\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "respect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "respects"
+          },
+          {
+            "part": "past tense",
+            "variant": "respected"
+          },
+          {
+            "part": "past participle",
+            "variant": "respected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "respecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "admire (someone or something) deeply, as a result of their abilities, qualities, or achievements.",
+            "examples": [
+              "she was respected by everyone she worked with"
+            ],
+            "synonyms": [
+              "esteem",
+              "admire",
+              "think highly of",
+              "have a high opinion of",
+              "hold in high regard",
+              "hold in (high) esteem",
+              "look up to",
+              "revere",
+              "reverence",
+              "honor \"she is highly respected in the book industry\""
+            ],
+            "antonyms": [
+              "despise"
+            ]
+          },
+          {
+            "definition": "have due regard for the feelings, wishes, rights, or traditions of.",
+            "examples": [
+              "I respected his views"
+            ],
+            "synonyms": [
+              "show consideration for",
+              "have regard for",
+              "observe",
+              "be mindful of",
+              "be heedful of; formaltake cognizance of \"they respected our privacy\""
+            ],
+            "antonyms": [
+              "scorn"
+            ]
+          },
+          {
+            "definition": "avoid harming or interfering with.",
+            "examples": [
+              "it is incumbent upon all boaters to respect the environment"
+            ]
+          },
+          {
+            "definition": "agree to recognize and abide by (a legal requirement).",
+            "examples": [
+              "he urged all foreign nationals to respect the laws of their country of residence"
+            ],
+            "synonyms": [
+              "abide by",
+              "comply with",
+              "follow",
+              "adhere to",
+              "conform to",
+              "act in accordance with",
+              "defer to",
+              "obey",
+              "observe",
+              "keep",
+              "keep to \"her father respected her wishes\""
+            ],
+            "antonyms": [
+              "disregard",
+              "disobey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

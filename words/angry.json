@@ -1,0 +1,94 @@
+[
+  {
+    "word": "angry",
+    "syllables": [
+      "an",
+      "gry"
+    ],
+    "pronunciation": "ˈaNGɡrē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "angry"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "angrier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "angriest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a strong feeling of or showing annoyance, displeasure, or hostility; full of anger.",
+            "examples": [
+              "why are you angry with me?"
+            ],
+            "synonyms": [
+              "irate",
+              "mad",
+              "annoyed",
+              "cross",
+              "vexed",
+              "irritated",
+              "indignant",
+              "irked; Morefurious",
+              "enraged",
+              "infuriated",
+              "in a temper",
+              "incensed",
+              "raging",
+              "fuming",
+              "seething",
+              "beside oneself",
+              "choleric",
+              "outraged; livid",
+              "apoplectic; informalhot under the collar",
+              "up in arms",
+              "in high dudgeon",
+              "foaming at the mouth",
+              "doing a slow burn",
+              "steamed up",
+              "in a lather",
+              "fit to be tied",
+              "seeing red; sore",
+              "bent out of shape",
+              "ticked off",
+              "teed off",
+              "pissed off",
+              "PO'd; literarywrathful; archaicwroth \"Vivienne got angry\"heated",
+              "passionate",
+              "stormy",
+              "“lively”; bad-tempered",
+              "ill-tempered",
+              "ill-natured",
+              "acrimonious",
+              "bitter \"an angry debate\""
+            ],
+            "antonyms": [
+              "pleased",
+              "good-humored"
+            ]
+          },
+          {
+            "definition": "(of the sea or sky) stormy, turbulent, or threatening.",
+            "examples": [
+              "the wild, angry sea"
+            ]
+          },
+          {
+            "definition": "(of a wound or sore) red and inflamed.",
+            "examples": [
+              "her skin was splotched with angry red burns"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

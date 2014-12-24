@@ -1,0 +1,28 @@
+[
+  {
+    "word": "antibody",
+    "syllables": [
+      "an",
+      "ti",
+      "bod",
+      "y"
+    ],
+    "pronunciation": "ˈan(t)əˌbädē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "antibodies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a blood protein produced in response to and counteracting a specific antigen. Antibodies combine chemically with substances that the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood."
+          }
+        ]
+      }
+    ]
+  }
+]

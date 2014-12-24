@@ -1,0 +1,232 @@
+[
+  {
+    "word": "negative",
+    "syllables": [
+      "neg",
+      "a",
+      "tive"
+    ],
+    "pronunciation": "ˈneɡədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "negative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "consisting in or characterized by the absence rather than the presence of distinguishing features."
+          },
+          {
+            "definition": "(of a statement or decision) expressing or implying denial, disagreement, or refusal.",
+            "examples": [
+              "that, I take it, was a negative answer"
+            ],
+            "synonyms": [
+              "opposing",
+              "opposed",
+              "contrary",
+              "anti-",
+              "dissenting",
+              "saying “no”",
+              "in the negative \"a negative reply\""
+            ],
+            "antonyms": [
+              "positive",
+              "affirmative"
+            ]
+          },
+          {
+            "definition": "(of the results of a test or experiment) indicating that a certain substance or condition is not present or does not exist.",
+            "examples": [
+              "a negative test result"
+            ]
+          },
+          {
+            "definition": "(of a person) not having a specified condition or showing traces of a specified substance in their body.",
+            "examples": [
+              "suffix: -negative"
+            ]
+          },
+          {
+            "definition": "denoting a complete lack of something.",
+            "examples": [
+              "they were described as having negative vulnerability to water entry"
+            ]
+          },
+          {
+            "definition": "(of a word, clause, or proposition) expressing denial, negation, or refutation; stating or asserting that something is not the case."
+          },
+          {
+            "definition": "(of a person, attitude, or situation) not desirable or optimistic.",
+            "examples": [
+              "the new tax was having a very negative effect on car sales"
+            ],
+            "synonyms": [
+              "pessimistic",
+              "defeatist",
+              "gloomy",
+              "cynical",
+              "fatalistic",
+              "dismissive",
+              "antipathetic",
+              "critical; Moreunenthusiastic",
+              "uninterested",
+              "unresponsive \"stop being so negative\"harmful",
+              "bad",
+              "adverse",
+              "damaging",
+              "detrimental",
+              "unfavorable",
+              "disadvantageous \"a negative effect on the economy\""
+            ],
+            "antonyms": [
+              "positive",
+              "optimistic",
+              "good",
+              "favorable"
+            ]
+          },
+          {
+            "definition": "(of a quantity) less than zero; to be subtracted from others or from zero."
+          },
+          {
+            "definition": "denoting a direction of decrease or reversal.",
+            "examples": [
+              "the industry suffered negative growth in 1992"
+            ]
+          },
+          {
+            "definition": "of, containing, producing, or denoting the kind of electric charge carried by electrons."
+          },
+          {
+            "definition": "(of a photographic image) showing light and shade or colors reversed from those of the original."
+          },
+          {
+            "definition": "relating to or denoting any of the earth or water signs, considered passive in nature."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "negative"
+          },
+          {
+            "part": "plural noun",
+            "variant": "negatives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a word or statement that expresses denial, disagreement, or refusal.",
+            "examples": [
+              "she replied in the negative"
+            ],
+            "synonyms": [
+              "“no”",
+              "refusal",
+              "rejection",
+              "veto; Moredissension",
+              "contradiction; denial; informalthumbs-down \"he murmured a negative\""
+            ]
+          },
+          {
+            "definition": "a bad, unwelcome, or unpleasant quality, characteristic, or aspect of a situation or person.",
+            "examples": [
+              "noun: the negative"
+            ]
+          },
+          {
+            "definition": "a word, affix, or phrase expressing negation."
+          },
+          {
+            "definition": "another term for negation."
+          },
+          {
+            "definition": "a photographic image made on film or specially prepared glass that shows the light and shade or color values reversed from the original, and from which positive prints can be made."
+          },
+          {
+            "definition": "a result of a test or experiment indicating that a certain substance is not present or a certain condition does not exist.",
+            "examples": [
+              "the percentage of false negatives generated by a cancer test was of great concern"
+            ]
+          },
+          {
+            "definition": "the part of an electric circuit that is at a lower electrical potential than another part designated as having zero electrical potential."
+          },
+          {
+            "definition": "a number less than zero."
+          }
+        ]
+      },
+      {
+        "part": "exclamation",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "negative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "no (usually used in a military context).",
+            "examples": [
+              "“Any snags, Captain?” “Negative, she's running like clockwork.”"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "negative"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "negatives"
+          },
+          {
+            "part": "past tense",
+            "variant": "negatived"
+          },
+          {
+            "part": "past participle",
+            "variant": "negatived"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "negativing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reject; refuse to accept; veto.",
+            "examples": [
+              "the bill was negatived by 130 votes to 129"
+            ]
+          },
+          {
+            "definition": "disprove; contradict.",
+            "examples": [
+              "the insurer's main arguments were negatived by Lawrence"
+            ]
+          },
+          {
+            "definition": "render ineffective; neutralize.",
+            "examples": [
+              "should criminal law allow consent to negative what would otherwise be a crime?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

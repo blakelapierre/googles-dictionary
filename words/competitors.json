@@ -1,0 +1,50 @@
+[
+  {
+    "word": "competitor",
+    "syllables": [
+      "com",
+      "pet",
+      "i",
+      "tor"
+    ],
+    "pronunciation": "kəmˈpedədər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "competitors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an organization or country that is engaged in commercial or economic competition with others.",
+            "examples": [
+              "our main industrial competitors"
+            ],
+            "synonyms": [
+              "rival",
+              "challenger",
+              "opponent",
+              "adversary; Morecompetition",
+              "opposition \"our European competitors\""
+            ],
+            "antonyms": [
+              "ally"
+            ]
+          },
+          {
+            "definition": "a person who takes part in an athletic contest.",
+            "examples": [
+              "contestant, contender, challenger, participant, entrant; Morerunner, player \"the competitors in the race\"Morerunner, player the competitors in the race"
+            ],
+            "antonyms": [
+              "spectator"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

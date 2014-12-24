@@ -1,0 +1,238 @@
+[
+  {
+    "word": "screen",
+    "syllables": [
+      "screen"
+    ],
+    "pronunciation": "skrēn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "screen"
+          },
+          {
+            "part": "plural noun",
+            "variant": "screens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fixed or movable upright partition used to divide a room, to give shelter from drafts, heat, or light, or to provide concealment or privacy.",
+            "examples": [
+              "partition, (room) divider he dressed hurriedly behind the screen"
+            ]
+          },
+          {
+            "definition": "a thing providing concealment or protection.",
+            "examples": [
+              "his jeep was discreetly parked behind a screen of trees"
+            ],
+            "synonyms": [
+              "buffer",
+              "protection",
+              "shield",
+              "shelter",
+              "guard",
+              "windbreak \"the hedge acts as a screen against the wind\""
+            ]
+          },
+          {
+            "definition": "a detachment of troops or ships detailed to cover the movements of the main body."
+          },
+          {
+            "definition": "a partition of carved wood or stone separating the nave of a church from the chancel, choir, or sanctuary."
+          },
+          {
+            "definition": "a frame with fine wire netting used in a window or doorway to keep out mosquitoes and other flying insects.",
+            "examples": [
+              "a screen door"
+            ],
+            "synonyms": [
+              "mesh",
+              "net",
+              "netting \"the screen keeps out mosquitoes\""
+            ]
+          },
+          {
+            "definition": "a part of an electrical or other instrument that protects it or prevents it from causing electromagnetic interference."
+          },
+          {
+            "definition": "a grid placed between the control grid and the anode of a valve to reduce the capacitance between these electrodes."
+          },
+          {
+            "definition": "a flat panel or area on an electronic device such as a television, computer, or smartphone, on which images and data are displayed.",
+            "examples": [
+              "a television screen"
+            ],
+            "synonyms": [
+              "display",
+              "monitor",
+              "flat screen",
+              "video display terminal",
+              "VDT",
+              "cathode ray tube",
+              "CRT \"a computer with a 15-inch screen\""
+            ]
+          },
+          {
+            "definition": "a blank surface on which a movie or photographic image is projected.",
+            "examples": [
+              "the world's largest movie screen"
+            ]
+          },
+          {
+            "definition": "movies or television as a medium, genre, or industry.",
+            "examples": [
+              "noun: the screen"
+            ]
+          },
+          {
+            "definition": "the data or images displayed on a computer screen.",
+            "examples": [
+              "pressing the F1 key at any time will display a help screen"
+            ]
+          },
+          {
+            "definition": "a flat piece of ground glass on which the image formed by a camera lens is focused."
+          },
+          {
+            "definition": "a transparent, finely ruled plate or film used in halftone reproduction."
+          },
+          {
+            "definition": "a large sieve or riddle, especially one for sorting substances such as grain or coal into different sizes.",
+            "examples": [
+              "sieve, riddle, strainer, colander, filter sift the dirt through a screen"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "screen"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "screens"
+          },
+          {
+            "part": "past tense",
+            "variant": "screened"
+          },
+          {
+            "part": "past participle",
+            "variant": "screened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "screening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "conceal, protect, or shelter (someone or something) with a screen or something forming a screen.",
+            "examples": [
+              "her hair swung across to screen her face"
+            ],
+            "synonyms": [
+              "conceal",
+              "hide",
+              "veil; Moreshield",
+              "shelter",
+              "shade",
+              "protect",
+              "guard",
+              "safeguard \"the cottage was screened by the trees\""
+            ]
+          },
+          {
+            "definition": "separate something from something else with or as if with a screen.",
+            "examples": [
+              "an area had been screened off as a waiting room"
+            ],
+            "synonyms": [
+              "partition",
+              "divide",
+              "separate",
+              "curtain \"the end of the hall had been screened off\""
+            ]
+          },
+          {
+            "definition": "protect (someone) from something dangerous or unpleasant.",
+            "examples": [
+              "in my country, a man of my rank would be screened completely from any risk of attack"
+            ]
+          },
+          {
+            "definition": "prevent from causing or protect from electromagnetic interference.",
+            "examples": [
+              "ensure that your microphone leads are properly screened from hum pickup"
+            ]
+          },
+          {
+            "definition": "show (a movie or video) or broadcast (a television program).",
+            "examples": [
+              "the show is to be screened by HBO later this year"
+            ],
+            "synonyms": [
+              "show",
+              "broadcast",
+              "transmit",
+              "air",
+              "televise",
+              "telecast",
+              "put on the air \"the program is screened on Thursday evenings\""
+            ]
+          },
+          {
+            "definition": "test (a person or substance) for the presence or absence of a disease or contaminant.",
+            "examples": [
+              "outpatients were screened for cervical cancer"
+            ]
+          },
+          {
+            "definition": "check on or investigate (someone), typically to ascertain whether they are suitable for or can be trusted in a particular situation or job.",
+            "examples": [
+              "all prospective presidential candidates would have to be screened by the committee"
+            ],
+            "synonyms": [
+              "vet",
+              "check",
+              "check up on",
+              "investigate; Moreinformalcheck out \"the prospective candidates will have to be screened\"check",
+              "test",
+              "examine",
+              "investigate \"all donated blood is screened for the virus\""
+            ]
+          },
+          {
+            "definition": "evaluate or analyze (something) for its suitability for a particular purpose or application.",
+            "examples": [
+              "only one percent of rain forest plants have been screened for medical use"
+            ]
+          },
+          {
+            "definition": "exclude someone or something after evaluation or investigation.",
+            "examples": [
+              "anti-spam software can screen out large amounts of unwanted e-mail"
+            ]
+          },
+          {
+            "definition": "pass (a substance such as grain or coal) through a large sieve or screen, especially so as to sort it into different sizes.",
+            "examples": [
+              "sieve, riddle, sift, strain, filter, winnow coal used to be screened by hand"
+            ]
+          },
+          {
+            "definition": "project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a halftone."
+          }
+        ]
+      }
+    ]
+  }
+]

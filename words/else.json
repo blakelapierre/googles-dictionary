@@ -1,0 +1,35 @@
+{
+  "word": "else",
+  "syllables": [
+    "else"
+  ],
+  "pronunciation": "els",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "else"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "in addition; besides.",
+          "examples": [
+            "anything else you need to know?"
+          ]
+        },
+        {
+          "definition": "different; instead.",
+          "examples": [
+            "isn't there anyone else you could ask?"
+          ]
+        },
+        {
+          "definition": "short for or else."
+        }
+      ]
+    }
+  ]
+}

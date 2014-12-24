@@ -1,0 +1,113 @@
+[
+  {
+    "word": "those",
+    "syllables": [
+      "those"
+    ],
+    "pronunciation": "T͟Hōz",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "that",
+    "syllables": [
+      "that"
+    ],
+    "pronunciation": "T͟HatT͟Hət",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "those"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to identify a specific person or thing observed by the speaker.",
+            "examples": [
+              "that's his wife over there"
+            ]
+          },
+          {
+            "definition": "referring to the more distant of two things near to the speaker (the other, if specified, being identified by “this”).",
+            "examples": [
+              "this is stronger than that"
+            ]
+          },
+          {
+            "definition": "referring to a specific thing previously mentioned, known, or understood.",
+            "examples": [
+              "that's a good idea"
+            ]
+          },
+          {
+            "definition": "used in singling out someone or something and ascribing a distinctive feature to them.",
+            "examples": [
+              "it is part of human nature to be attracted to that which is aesthetically pleasing"
+            ]
+          },
+          {
+            "definition": "used to introduce a defining or restrictive clause, especially one essential to identification."
+          },
+          {
+            "definition": "instead of “which,” “who,” or “whom”",
+            "examples": [
+              "the book that I've just written"
+            ]
+          },
+          {
+            "definition": "instead of “when” after an expression of time.",
+            "examples": [
+              "the year that Anna was born"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "determiner",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "those"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to identify a specific person or thing observed or heard by the speaker.",
+            "examples": [
+              "look at that man there"
+            ]
+          },
+          {
+            "definition": "referring to the more distant of two things near to the speaker (the other, if specified, being identified by “this”)."
+          },
+          {
+            "definition": "referring to a specific thing previously mentioned, known, or understood.",
+            "examples": [
+              "he lived in Mysore at that time"
+            ]
+          },
+          {
+            "definition": "used in singling out someone or something and ascribing a distinctive feature to them.",
+            "examples": [
+              "I have always envied those people who make their own bread"
+            ]
+          },
+          {
+            "definition": "referring to a specific person or thing assumed as understood or familiar to the person being addressed.",
+            "examples": [
+              "where is that son of yours?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "word": "poem",
+    "syllables": [
+      "po",
+      "em"
+    ],
+    "pronunciation": "ˈpōəmpōm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "poem"
+          },
+          {
+            "part": "plural noun",
+            "variant": "poems"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of writing that partakes of the nature of both speech and song that is nearly always rhythmical, usually metaphorical, and often exhibits such formal elements as meter, rhyme, and stanzaic structure.",
+            "examples": [
+              "verse, rhyme, piece of poetry, song Lydia saved every poem that Marshall wrote that year"
+            ]
+          },
+          {
+            "definition": "something that arouses strong emotions because of its beauty.",
+            "examples": [
+              "you make a poem of riding downhill on your bike"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

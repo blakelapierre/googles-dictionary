@@ -1,0 +1,30 @@
+[
+  {
+    "word": "plasmid",
+    "syllables": [
+      "plas",
+      "mid"
+    ],
+    "pronunciation": "ˈplazmid",
+    "parts": [
+      {
+        "part": "nounBiology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "plasmid"
+          },
+          {
+            "part": "plural noun",
+            "variant": "plasmids"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a genetic structure in a cell that can replicate independently of the chromosomes, typically a small circular DNA strand in the cytoplasm of a bacterium or protozoan. Plasmids are much used in the laboratory manipulation of genes."
+          }
+        ]
+      }
+    ]
+  }
+]

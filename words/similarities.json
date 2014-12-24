@@ -1,0 +1,51 @@
+[
+  {
+    "word": "similarity",
+    "syllables": [
+      "sim",
+      "i",
+      "lar",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌsiməˈlerədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "similarities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or fact of being similar.",
+            "examples": [
+              "the similarity of symptoms makes them hard to diagnose"
+            ]
+          },
+          {
+            "definition": "a similar feature or aspect.",
+            "examples": [
+              "the similarities between people of different nationalities"
+            ],
+            "synonyms": [
+              "resemblance",
+              "likeness",
+              "sameness",
+              "similitude",
+              "comparability",
+              "correspondence",
+              "parallel",
+              "equivalence",
+              "homogeneity",
+              "indistinguishability",
+              "uniformity; archaicsemblance \"the similarity between John and his daughter\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

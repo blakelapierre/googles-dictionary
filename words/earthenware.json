@@ -1,0 +1,36 @@
+[
+  {
+    "word": "earthenware",
+    "syllables": [
+      "earth",
+      "en",
+      "ware"
+    ],
+    "pronunciation": "ˈərTHənˌwer",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "earthenware"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pottery made of clay fired to a porous state that can be made impervious to liquids by the use of a glaze.",
+            "examples": [
+              "an earthenware jug"
+            ],
+            "synonyms": [
+              "pottery",
+              "stoneware; Morechina",
+              "porcelain; pots",
+              "crockery \"her original line of earthenware\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

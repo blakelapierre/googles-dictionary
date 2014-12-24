@@ -1,0 +1,66 @@
+{
+  "word": "solution",
+  "syllables": [
+    "so",
+    "lu",
+    "tion"
+  ],
+  "pronunciation": "səˈlo͞oSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "solutions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a means of solving a problem or dealing with a difficult situation.",
+          "examples": [
+            "there are no easy solutions to financial and marital problems"
+          ]
+        },
+        {
+          "definition": "the correct answer to a puzzle.",
+          "examples": [
+            "the solution to this month's crossword"
+          ],
+          "synonyms": [
+            "answer",
+            "result",
+            "resolution",
+            "way out",
+            "fix",
+            "panacea; Morekey",
+            "formula",
+            "explanation",
+            "interpretation \"an easy solution to the problem\""
+          ]
+        },
+        {
+          "definition": "products or services designed to meet a particular need.",
+          "examples": [
+            "we are an Internet marketing firm specializing in e-commerce solutions"
+          ]
+        },
+        {
+          "definition": "a liquid mixture in which the minor component (the solute) is uniformly distributed within the major component (the solvent).",
+          "examples": [
+            "mixture, mix, blend, compound, suspension, tincture, infusion, emulsion a solution of ammonia in water"
+          ]
+        },
+        {
+          "definition": "the process or state of being dissolved in a solvent."
+        },
+        {
+          "definition": "the action of separating or breaking down; dissolution.",
+          "examples": [
+            "the solution of British supremacy in South Africa"
+          ]
+        }
+      ]
+    }
+  ]
+}

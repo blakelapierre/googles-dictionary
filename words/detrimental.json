@@ -1,0 +1,52 @@
+[
+  {
+    "word": "detrimental",
+    "syllables": [
+      "det",
+      "ri",
+      "men",
+      "tal"
+    ],
+    "pronunciation": "ˌdetrəˈmen(t)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "detrimental"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tending to cause harm.",
+            "examples": [
+              "releasing the documents would be detrimental to national security"
+            ],
+            "synonyms": [
+              "harmful",
+              "damaging",
+              "injurious",
+              "hurtful",
+              "inimical",
+              "deleterious",
+              "destructive",
+              "ruinous",
+              "disastrous",
+              "bad",
+              "malign",
+              "adverse",
+              "undesirable",
+              "unfavorable",
+              "unfortunate; Moreunhealthy",
+              "unwholesome \"erosion can have a detrimental effect on our water\""
+            ],
+            "antonyms": [
+              "benign"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

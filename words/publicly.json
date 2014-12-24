@@ -1,0 +1,42 @@
+[
+  {
+    "word": "publicly",
+    "syllables": [
+      "pub",
+      "lic",
+      "ly"
+    ],
+    "pronunciation": "ˈpəblik(ə)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "publicly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "so as to be seen by other people; in public.",
+            "examples": [
+              "some weep publicly"
+            ]
+          },
+          {
+            "definition": "used in reference to views expressed to others and not necessarily genuinely felt.",
+            "examples": [
+              "publicly, officials criticized the resolution, but privately they thought it tolerable"
+            ]
+          },
+          {
+            "definition": "by a government or the public rather than an independent, commercial company.",
+            "examples": [
+              "publicly funded organizations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

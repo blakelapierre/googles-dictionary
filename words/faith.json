@@ -1,0 +1,55 @@
+{
+  "word": "faith",
+  "syllables": [
+    "faith"
+  ],
+  "pronunciation": "fāTH",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "faith"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "complete trust or confidence in someone or something.",
+          "examples": [
+            "this restores one's faith in politicians"
+          ],
+          "synonyms": [
+            "trust",
+            "belief",
+            "confidence",
+            "conviction; Moreoptimism",
+            "hopefulness",
+            "hope \"he justified his boss's faith in him\""
+          ],
+          "antonyms": [
+            "mistrust"
+          ]
+        },
+        {
+          "definition": "strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof.",
+          "examples": [
+            "religion, church, sect, denomination, (religious) persuasion, (religious) belief, ideology, creed, teaching, doctrine she gave her life for her faith"
+          ]
+        },
+        {
+          "definition": "a system of religious belief.",
+          "examples": [
+            "plural noun: faiths"
+          ]
+        },
+        {
+          "definition": "a strongly held belief or theory.",
+          "examples": [
+            "the faith that life will expand until it fills the universe"
+          ]
+        }
+      ]
+    }
+  ]
+}

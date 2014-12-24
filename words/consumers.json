@@ -1,0 +1,46 @@
+[
+  {
+    "word": "consumer",
+    "syllables": [
+      "con",
+      "sum",
+      "er"
+    ],
+    "pronunciation": "kənˈso͞omər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "consumers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who purchases goods and services for personal use.",
+            "examples": [
+              "consumer demand"
+            ],
+            "synonyms": [
+              "purchaser",
+              "buyer",
+              "customer",
+              "shopper; Moreuser",
+              "end user; client",
+              "patron; the public",
+              "the market \"if you're a satisfied consumer",
+              "we've done our job\""
+            ]
+          },
+          {
+            "definition": "a person or thing that eats or uses something.",
+            "examples": [
+              "Scandinavians are the largest consumers of rye"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

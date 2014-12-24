@@ -1,0 +1,99 @@
+[
+  {
+    "word": "cite",
+    "syllables": [
+      "cite"
+    ],
+    "pronunciation": "sīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cite"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cites"
+          },
+          {
+            "part": "past tense",
+            "variant": "cited"
+          },
+          {
+            "part": "past participle",
+            "variant": "cited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "citing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "quote (a passage, book, or author) as evidence for or justification of an argument or statement, especially in a scholarly work.",
+            "examples": [
+              "quote, reproduce More\"cite the passage in full\"refer to, make reference to, mention, allude to, adduce, instance; specify, name \"the Plaintiffs have properly cited the case law in response to this motion\"Morecite the passage in fullrefer to, make reference to, mention, allude to, adduce, instance; specify, name the Plaintiffs have properly cited the case law in response to this motion"
+            ]
+          },
+          {
+            "definition": "mention as an example.",
+            "examples": [
+              "medics have been cited as a key example of a modern breed of technical expert"
+            ],
+            "synonyms": [
+              "refer to",
+              "make reference to",
+              "mention",
+              "allude to",
+              "adduce",
+              "instance; Morespecify",
+              "name \"the Plaintiffs have properly cited the case law in response to this motion\""
+            ]
+          },
+          {
+            "definition": "praise (someone, typically a member of the armed forces) for a courageous act in an official dispatch.",
+            "examples": [
+              "commend, pay tribute to, praise he has been cited many times"
+            ]
+          },
+          {
+            "definition": "adduce a former tried case as a guide to deciding a comparable case or in support of an argument."
+          },
+          {
+            "definition": "summon (someone) to appear in a court of law.",
+            "examples": [
+              "the summons cited four of the defendants"
+            ],
+            "synonyms": [
+              "summon",
+              "summons",
+              "serve with a summons",
+              "serve with a writ",
+              "subpoena \"the writ cited four of the signatories\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounUS",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cite"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cites"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a citation."
+          }
+        ]
+      }
+    ]
+  }
+]

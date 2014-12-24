@@ -1,0 +1,218 @@
+[
+  {
+    "word": "style",
+    "syllables": [
+      "style"
+    ],
+    "pronunciation": "stīl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "style"
+          },
+          {
+            "part": "plural noun",
+            "variant": "styles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a manner of doing something.",
+            "examples": [
+              "different styles of management"
+            ],
+            "synonyms": [
+              "manner",
+              "way",
+              "technique",
+              "method",
+              "methodology",
+              "approach",
+              "system",
+              "mode",
+              "form",
+              "modus operandi; MoreinformalMO \"differing styles of management\"type",
+              "kind",
+              "variety",
+              "sort",
+              "genre",
+              "school",
+              "brand",
+              "pattern",
+              "model \"a nondirective style of counseling\""
+            ]
+          },
+          {
+            "definition": "a way of painting, writing, composing, building, etc., characteristic of a particular period, place, person, or movement."
+          },
+          {
+            "definition": "a way of using language.",
+            "examples": [
+              "he never wrote in a journalistic style"
+            ]
+          },
+          {
+            "definition": "a way of behaving or approaching a situation that is characteristic of or favored by a particular person.",
+            "examples": [
+              "noun: one's style; plural noun: one's styles"
+            ]
+          },
+          {
+            "definition": "an official or legal title.",
+            "examples": [
+              "the partnership traded under the style of Storr and Mortimer"
+            ]
+          },
+          {
+            "definition": "a distinctive appearance, typically determined by the principles according to which something is designed.",
+            "examples": [
+              "the pillars are no exception to the general style"
+            ]
+          },
+          {
+            "definition": "a particular design of clothing.",
+            "examples": [
+              "fashion, trend, vogue, mode modern styles"
+            ]
+          },
+          {
+            "definition": "a way of arranging the hair."
+          },
+          {
+            "definition": "elegance and sophistication.",
+            "examples": [
+              "a sophisticated nightspot with style and taste"
+            ],
+            "synonyms": [
+              "flair",
+              "stylishness",
+              "elegance",
+              "grace",
+              "gracefulness",
+              "poise",
+              "polish",
+              "suaveness",
+              "sophistication",
+              "urbanity",
+              "chic",
+              "dash",
+              "panache",
+              "elan; Moreinformalclass",
+              "pizzazz \"wearing clothes with style\"comfort",
+              "luxury",
+              "elegance",
+              "opulence",
+              "lavishness \"Laura traveled in style\""
+            ]
+          },
+          {
+            "definition": "a rodlike object or part, in particular."
+          },
+          {
+            "definition": "archaic term for stylus (sense 2)."
+          },
+          {
+            "definition": "(in a flower) a narrow, typically elongated extension of the ovary, bearing the stigma."
+          },
+          {
+            "definition": "(in an invertebrate) a small slender pointed appendage; a stylet."
+          },
+          {
+            "definition": "the gnomon of a sundial."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "style"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "styles"
+          },
+          {
+            "part": "past tense",
+            "variant": "styled"
+          },
+          {
+            "part": "past participle",
+            "variant": "styled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "styling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "design or make in a particular form.",
+            "examples": [
+              "the yacht is well proportioned and conservatively styled"
+            ],
+            "synonyms": [
+              "design",
+              "fashion",
+              "tailor \"sportswear styled by Karl\""
+            ]
+          },
+          {
+            "definition": "arrange (hair) in a particular way.",
+            "examples": [
+              "he styled her hair by twisting it up to give it body"
+            ]
+          },
+          {
+            "definition": "designate with a particular name, description, or title.",
+            "examples": [
+              "the official is styled principal and vice chancellor of the university"
+            ],
+            "synonyms": [
+              "call",
+              "name",
+              "title",
+              "entitle",
+              "dub",
+              "designate",
+              "term",
+              "label",
+              "tag",
+              "nickname; formaldenominate \"men who were styled “knight”\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-style",
+    "syllables": [
+      "-style"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-style"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(forming adjectives and adverbs) in a manner characteristic of.",
+            "examples": [
+              "family-style"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

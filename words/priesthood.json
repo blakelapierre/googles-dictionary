@@ -1,0 +1,29 @@
+[
+  {
+    "word": "priesthood",
+    "syllables": [
+      "priest",
+      "hood"
+    ],
+    "pronunciation": "ˈprēstˌho͝od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "priesthood"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the office or position of a priest."
+          },
+          {
+            "definition": "priests in general."
+          }
+        ]
+      }
+    ]
+  }
+]

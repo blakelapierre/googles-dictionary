@@ -1,0 +1,88 @@
+[
+  {
+    "word": "neutralize",
+    "syllables": [
+      "neu",
+      "tral",
+      "ize"
+    ],
+    "pronunciation": "ˈn(y)o͞otrəˌlīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "neutralize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "neutralizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "neutralized"
+          },
+          {
+            "part": "past participle",
+            "variant": "neutralized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "neutralizing"
+          },
+          {
+            "part": "verb",
+            "variant": "neutralise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "neutralises"
+          },
+          {
+            "part": "past tense",
+            "variant": "neutralised"
+          },
+          {
+            "part": "past participle",
+            "variant": "neutralised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "neutralising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "render (something) ineffective or harmless by applying an opposite force or effect.",
+            "examples": [
+              "impatience at his frailty began to neutralize her fear"
+            ],
+            "synonyms": [
+              "counteract",
+              "offset",
+              "counterbalance",
+              "balance",
+              "counterpoise",
+              "countervail",
+              "compensate for",
+              "make up for; Morecancel out",
+              "nullify",
+              "negate; equalize \"if the internal dissension is not neutralized",
+              "we have no hope of moving forward\""
+            ]
+          },
+          {
+            "definition": "make (an acidic or alkaline substance) chemically neutral."
+          },
+          {
+            "definition": "disarm (a bomb or similar weapon)."
+          },
+          {
+            "definition": "a euphemistic way of saying kill or destroy, especially in a covert or military operation."
+          }
+        ]
+      }
+    ]
+  }
+]

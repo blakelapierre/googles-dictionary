@@ -1,0 +1,41 @@
+{
+  "word": "beforehand",
+  "syllables": [
+    "be",
+    "fore",
+    "hand"
+  ],
+  "pronunciation": "bəˈfôrˌhand",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "beforehand"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "before an action or event; in advance.",
+          "examples": [
+            "rooms must be booked beforehand"
+          ],
+          "synonyms": [
+            "in advance",
+            "ahead of time",
+            "in readiness; Morebefore",
+            "before now/then",
+            "earlier (on)",
+            "previously",
+            "already",
+            "sooner \"bring any notes you compiled beforehand\""
+          ],
+          "antonyms": [
+            "afterward"
+          ]
+        }
+      ]
+    }
+  ]
+}

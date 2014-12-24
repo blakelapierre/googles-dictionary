@@ -1,0 +1,91 @@
+[
+  {
+    "word": "transmit",
+    "syllables": [
+      "trans",
+      "mit"
+    ],
+    "pronunciation": "tranzˈmittransˈmit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "transmit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "transmits"
+          },
+          {
+            "part": "past tense",
+            "variant": "transmitted"
+          },
+          {
+            "part": "past participle",
+            "variant": "transmitted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "transmitting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something) to pass on from one place or person to another.",
+            "examples": [
+              "knowledge is transmitted from teacher to student"
+            ],
+            "synonyms": [
+              "transfer",
+              "pass on",
+              "hand on",
+              "communicate",
+              "convey",
+              "impart",
+              "channel",
+              "carry",
+              "relay",
+              "forward",
+              "dispatch; Moredisseminate",
+              "spread",
+              "circulate \"the use of computers to transmit information\""
+            ]
+          },
+          {
+            "definition": "broadcast or send out (an electrical signal or a radio or television program).",
+            "examples": [
+              "the program was transmitted on October 7"
+            ],
+            "synonyms": [
+              "broadcast",
+              "relay",
+              "send out",
+              "air",
+              "televise \"the program will be transmitted on Sunday\""
+            ]
+          },
+          {
+            "definition": "pass on (a disease or trait) to another.",
+            "examples": [
+              "sexually transmitted diseases"
+            ]
+          },
+          {
+            "definition": "allow (heat, light, sound, electricity, or other energy) to pass through a medium.",
+            "examples": [
+              "the three bones transmit sound waves to the inner ear"
+            ]
+          },
+          {
+            "definition": "communicate or be a medium for (an idea or emotion).",
+            "examples": [
+              "the theatrical gift of being able to transmit emotion"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

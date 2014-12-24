@@ -1,0 +1,38 @@
+[
+  {
+    "word": "indefinitely",
+    "syllables": [
+      "in",
+      "def",
+      "i",
+      "nite",
+      "ly"
+    ],
+    "pronunciation": "ˌinˈdef(ə)nətlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "indefinitely"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "for an unlimited or unspecified period of time.",
+            "examples": [
+              "talks cannot go on indefinitely"
+            ]
+          },
+          {
+            "definition": "to an unlimited or unspecified degree or extent.",
+            "examples": [
+              "an indefinitely large number of channels"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

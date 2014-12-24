@@ -1,0 +1,34 @@
+[
+  {
+    "word": "theorem",
+    "syllables": [
+      "the",
+      "o",
+      "rem"
+    ],
+    "pronunciation": "ˈTHēərəmˈTHirəm",
+    "parts": [
+      {
+        "part": "nounPhysicsMathematics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "theorem"
+          },
+          {
+            "part": "plural noun",
+            "variant": "theorems"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a general proposition not self-evident but proved by a chain of reasoning; a truth established by means of accepted truths."
+          },
+          {
+            "definition": "a rule in algebra or other branches of mathematics expressed by symbols or formulae."
+          }
+        ]
+      }
+    ]
+  }
+]

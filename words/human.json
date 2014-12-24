@@ -1,0 +1,94 @@
+[
+  {
+    "word": "human",
+    "syllables": [
+      "hu",
+      "man"
+    ],
+    "pronunciation": "ˈ(h)yo͞omən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "human"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or characteristic of people or human beings.",
+            "examples": [
+              "the human body"
+            ],
+            "synonyms": [
+              "anthropomorphic",
+              "anthropoid",
+              "humanoid",
+              "hominid \"in human form\""
+            ]
+          },
+          {
+            "definition": "of or characteristic of people as opposed to God or animals or machines, especially in being susceptible to weaknesses.",
+            "examples": [
+              "they are only human, and therefore mistakes do occur"
+            ],
+            "synonyms": [
+              "mortal",
+              "flesh and blood; Morefallible",
+              "weak",
+              "frail",
+              "imperfect",
+              "vulnerable",
+              "susceptible",
+              "erring",
+              "error-prone; physical",
+              "bodily",
+              "fleshly \"they're only human\""
+            ]
+          },
+          {
+            "definition": "of or characteristic of people's better qualities, such as kindness or sensitivity.",
+            "examples": [
+              "the human side of politics is getting stronger"
+            ],
+            "synonyms": [
+              "compassionate",
+              "humane",
+              "kind",
+              "considerate",
+              "understanding",
+              "sympathetic",
+              "tolerant; Moreapproachable",
+              "accessible \"the human side of politics\""
+            ]
+          },
+          {
+            "definition": "of or belonging to the genus Homo."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "human"
+          },
+          {
+            "part": "plural noun",
+            "variant": "humans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a human being, especially a person as distinguished from an animal or (in science fiction) an alien.",
+            "examples": [
+              "person, human being, personage, mortal, member of the human race; Moreman, woman; individual, soul, living soul, being; Homo sapiens; earthling \"the link between humans and animals\"Moreman, woman; individual, soul, living soul, being; Homo sapiens; earthling the link between humans and animals"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+{
+  "word": "to",
+  "syllables": [
+    "to"
+  ],
+  "pronunciation": "to͞otə",
+  "parts": [
+    {
+      "part": "preposition",
+      "variants": [
+        {
+          "part": "preposition",
+          "variant": "to"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "expressing motion in the direction of (a particular location).",
+          "examples": [
+            "walking down to the mall"
+          ]
+        },
+        {
+          "definition": "expressing location, typically in relation to a specified point of reference.",
+          "examples": [
+            "forty miles to the south of the site"
+          ]
+        },
+        {
+          "definition": "expressing a point reached at the end of a range or after a period of time.",
+          "examples": [
+            "a drop in profits from $105 million to around $75 million"
+          ]
+        },
+        {
+          "definition": "(in telling the time) before (the hour specified).",
+          "examples": [
+            "it's five to ten"
+          ]
+        },
+        {
+          "definition": "approaching or reaching (a particular condition).",
+          "examples": [
+            "Christopher's expression changed from amazement to joy"
+          ]
+        },
+        {
+          "definition": "expressing the result of a process or action.",
+          "examples": [
+            "smashed to smithereens"
+          ]
+        },
+        {
+          "definition": "identifying the person or thing affected.",
+          "examples": [
+            "you were terribly unkind to her"
+          ]
+        },
+        {
+          "definition": "identifying the recipient or intended recipient of something.",
+          "examples": [
+            "he wrote a heart-rending letter to the parents"
+          ]
+        },
+        {
+          "definition": "identifying a particular relationship between one person and another.",
+          "examples": [
+            "he is married to Jan's cousin"
+          ]
+        },
+        {
+          "definition": "in various phrases indicating how something is related to something else (often followed by a noun without a determiner).",
+          "examples": [
+            "made to order"
+          ]
+        },
+        {
+          "definition": "indicating a rate of return on something, e.g., the distance traveled in exchange for fuel used, or an exchange rate that can be obtained in one currency for another.",
+          "examples": [
+            "it only does ten miles to the gallon"
+          ]
+        },
+        {
+          "definition": "indicating the power (exponent) to which a number is raised.",
+          "examples": [
+            "ten to the minus thirty-three"
+          ]
+        },
+        {
+          "definition": "indicating that two things are attached.",
+          "examples": [
+            "he had left his bike chained to a fence"
+          ]
+        },
+        {
+          "definition": "concerning or likely to concern (something, especially something abstract).",
+          "examples": [
+            "a threat to world peace"
+          ]
+        },
+        {
+          "definition": "governing a phrase expressing someone's reaction to something.",
+          "examples": [
+            "to her astonishment, he smiled"
+          ]
+        },
+        {
+          "definition": "used to introduce the second element in a comparison.",
+          "examples": [
+            "it's nothing to what it once was"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "infinitive marker",
+      "variants": [
+        {
+          "part": "to",
+          "variant": "to"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "used with the base form of a verb to indicate that the verb is in the infinitive, in particular."
+        },
+        {
+          "definition": "expressing purpose or intention.",
+          "examples": [
+            "I set out to buy food"
+          ]
+        },
+        {
+          "definition": "expressing an outcome, result, or consequence.",
+          "examples": [
+            "he was left to die"
+          ]
+        },
+        {
+          "definition": "expressing a cause.",
+          "examples": [
+            "I'm sorry to hear that"
+          ]
+        },
+        {
+          "definition": "indicating a desired or advisable action.",
+          "examples": [
+            "I'd love to go to France this summer"
+          ]
+        },
+        {
+          "definition": "indicating a proposition that is known, believed, or reported about a specified person or thing.",
+          "examples": [
+            "a house that people believed to be haunted"
+          ]
+        },
+        {
+          "definition": "forming a future tense with reference to the immediate future.",
+          "examples": [
+            "he was about to sing"
+          ]
+        },
+        {
+          "definition": "after a noun, indicating its function or purpose.",
+          "examples": [
+            "a chair to sit on"
+          ]
+        },
+        {
+          "definition": "after a phrase containing an ordinal number.",
+          "examples": [
+            "the first person to arrive"
+          ]
+        },
+        {
+          "definition": "used without a verb following when the missing verb is clearly understood.",
+          "examples": [
+            "he asked her to come but she said she didn't want to"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "to"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "so as to be closed or nearly closed.",
+          "examples": [
+            "he pulled the door to behind him"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "word": "event",
+  "syllables": [
+    "e",
+    "vent"
+  ],
+  "pronunciation": "əˈvent",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "event"
+        },
+        {
+          "part": "plural noun",
+          "variant": "events"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a thing that happens, especially one of importance.",
+          "examples": [
+            "one of the main political events of the late 20th century"
+          ]
+        },
+        {
+          "definition": "a planned public or social occasion.",
+          "examples": [
+            "events to raise money for charity"
+          ],
+          "synonyms": [
+            "occurrence",
+            "happening",
+            "proceeding",
+            "incident",
+            "affair",
+            "circumstance",
+            "occasion",
+            "phenomenon; Morefunction",
+            "gathering; informalbash \"an annual event\""
+          ]
+        },
+        {
+          "definition": "each of several particular contests making up a sports competition.",
+          "examples": [
+            "a star sprinter in the 100- and 200-meter events"
+          ],
+          "synonyms": [
+            "competition",
+            "contest",
+            "tournament",
+            "round",
+            "heat",
+            "match",
+            "fixture; Morerace",
+            "game",
+            "bout \"the team lost the event\""
+          ]
+        },
+        {
+          "definition": "a single occurrence of a process, e.g., the ionization of one atom."
+        }
+      ]
+    }
+  ]
+}

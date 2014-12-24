@@ -1,0 +1,187 @@
+[
+  {
+    "word": "wild",
+    "syllables": [
+      "wild"
+    ],
+    "pronunciation": "wīld",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "wild"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an animal or plant) living or growing in the natural environment; not domesticated or cultivated.",
+            "examples": [
+              "untamed, undomesticated, feral; Morefierce, ferocious, savage, untamable \"wild animals\"uncultivated, native, indigenous \"wild flowers\"Morefierce, ferocious, savage, untamable wild animalsuncultivated, native, indigenous wild flowers"
+            ],
+            "antonyms": [
+              "tame",
+              "cultivated"
+            ]
+          },
+          {
+            "definition": "(of people) not civilized; barbarous.",
+            "examples": [
+              "comparative adjective: wilder; superlative adjective: wildest"
+            ]
+          },
+          {
+            "definition": "(of scenery or a region) desolate-looking.",
+            "examples": [
+              "the wild coastline of Cape Wrath"
+            ],
+            "synonyms": [
+              "uninhabited",
+              "unpopulated",
+              "uncultivated; Morerugged",
+              "rough",
+              "inhospitable",
+              "desolate",
+              "barren \"wild country\""
+            ]
+          },
+          {
+            "definition": "uncontrolled or unrestrained, especially in pursuit of pleasure.",
+            "examples": [
+              "she went through a wild phase of drunken parties and desperate affairs"
+            ],
+            "synonyms": [
+              "uncontrolled",
+              "unrestrained",
+              "out of control",
+              "undisciplined",
+              "unruly",
+              "rowdy",
+              "disorderly",
+              "riotous",
+              "corybantic \"wild behavior\""
+            ],
+            "antonyms": [
+              "self-disciplined",
+              "disciplined"
+            ]
+          },
+          {
+            "definition": "not based on sound reasoning or probability.",
+            "examples": [
+              "a wild guess"
+            ],
+            "synonyms": [
+              "madcap",
+              "ridiculous",
+              "ludicrous",
+              "foolish",
+              "rash",
+              "stupid",
+              "foolhardy",
+              "idiotic",
+              "absurd",
+              "silly",
+              "ill-considered",
+              "senseless",
+              "nonsensical",
+              "harebrained; Moreimpractical",
+              "impracticable",
+              "unworkable; informalcrazy",
+              "crackpot",
+              "cockeyed",
+              "cockamamie",
+              "loopy \"Bill's wild schemes\"random",
+              "arbitrary",
+              "haphazard",
+              "hit-or-miss",
+              "uninformed \"a wild guess\""
+            ],
+            "antonyms": [
+              "sensible",
+              "practical",
+              "considered"
+            ]
+          },
+          {
+            "definition": "stormy.",
+            "examples": [
+              "the wild sea"
+            ],
+            "synonyms": [
+              "stormy",
+              "squally",
+              "tempestuous",
+              "turbulent \"wild weather\""
+            ],
+            "antonyms": [
+              "calm"
+            ]
+          },
+          {
+            "definition": "very enthusiastic or excited.",
+            "examples": [
+              "I'm not wild about the music"
+            ],
+            "synonyms": [
+              "very excited",
+              "delirious",
+              "in a frenzy; Moretumultuous",
+              "passionate",
+              "vehement",
+              "unrestrained \"wild with excitement\"enamored of",
+              "(very) enthusiastic about",
+              "(very) keen on",
+              "infatuated with",
+              "smitten with; informalcrazy about",
+              "blown away by",
+              "mad about",
+              "nuts about \"his family wasn't wild about me\""
+            ],
+            "antonyms": [
+              "calm",
+              "indifferent",
+              "unenthusiastic"
+            ]
+          },
+          {
+            "definition": "very angry."
+          },
+          {
+            "definition": "(of looks, appearance, etc.) indicating distraction.",
+            "examples": [
+              "her wild eyes were darting back and forth"
+            ]
+          },
+          {
+            "definition": "(of a playing card) deemed to have any value, suit, color, or other property in a game at the discretion of the player holding it."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wild"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a natural state or uncultivated or uninhabited region.",
+            "examples": [
+              "kiwis are virtually extinct in the wild"
+            ]
+          },
+          {
+            "definition": "a remote uninhabited or sparsely inhabited area.",
+            "examples": [
+              "plural noun: wilds; plural noun: the wilds"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

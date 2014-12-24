@@ -1,0 +1,38 @@
+[
+  {
+    "word": "ballet",
+    "syllables": [
+      "bal",
+      "let"
+    ],
+    "pronunciation": "baˈlāˈbalā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ballet"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an artistic dance form performed to music using precise and highly formalized set steps and gestures. Classical ballet, which originated in Renaissance Italy and established its present form during the 19th century, is characterized by light, graceful, fluid movements and the use of pointe shoes."
+          },
+          {
+            "definition": "a creative work or performance of ballet, or the music written for it.",
+            "examples": [
+              "plural noun: ballets"
+            ]
+          },
+          {
+            "definition": "a group of dancers who regularly perform ballets.",
+            "examples": [
+              "the New York City Ballet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

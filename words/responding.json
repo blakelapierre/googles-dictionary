@@ -1,0 +1,66 @@
+[
+  {
+    "word": "respond",
+    "syllables": [
+      "re",
+      "spond"
+    ],
+    "pronunciation": "rəˈspänd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "responding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "say something in reply.",
+            "examples": [
+              "she could not get Robert to respond to her words"
+            ],
+            "synonyms": [
+              "answer",
+              "reply to",
+              "make a response to",
+              "make a rejoinder to More\"they do not respond to questions\"say in response",
+              "answer",
+              "reply",
+              "rejoin",
+              "retort",
+              "riposte",
+              "counter \"“No",
+              "” she responded\""
+            ]
+          },
+          {
+            "definition": "(of a congregation) say or sing the response in reply to a priest."
+          },
+          {
+            "definition": "(of a person) act or behave in reaction to someone or something.",
+            "examples": [
+              "she turned her head, responding to his grin with a smile"
+            ]
+          },
+          {
+            "definition": "react quickly or positively to a stimulus or treatment.",
+            "examples": [
+              "his back injury has failed to respond to treatment"
+            ],
+            "synonyms": [
+              "react",
+              "make a response",
+              "reciprocate",
+              "retaliate \"they were slow to respond\""
+            ]
+          },
+          {
+            "definition": "make (a bid) in answer to one's partner's preceding bid."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "word": "built",
+    "syllables": [
+      "built"
+    ],
+    "pronunciation": "bilt",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "built"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) having a specified physical size or build.",
+            "examples": [
+              "a slightly built woman"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "build",
+    "syllables": [
+      "build"
+    ],
+    "pronunciation": "bild",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "built"
+          },
+          {
+            "part": "past participle",
+            "variant": "built"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "construct (something, typically something large) by putting parts or material together over a period of time.",
+            "examples": [
+              "the factory was built in 1936"
+            ],
+            "synonyms": [
+              "construct",
+              "erect",
+              "put up",
+              "assemble; Moremake",
+              "form",
+              "create",
+              "fashion",
+              "model",
+              "shape \"they were building a tree house\""
+            ]
+          },
+          {
+            "definition": "commission, finance, and oversee the building of (something).",
+            "examples": [
+              "the city council plans to build a bridge"
+            ]
+          },
+          {
+            "definition": "incorporate (something) and make it a permanent part of a structure, system, or situation.",
+            "examples": [
+              "engineers want to build in extra traction"
+            ],
+            "synonyms": [
+              "incorporate in/into",
+              "include in",
+              "absorb into",
+              "subsume into",
+              "assimilate into \"emergency procedures must be built into every plan\""
+            ]
+          },
+          {
+            "definition": "compile (a program, database, index, etc.)."
+          },
+          {
+            "definition": "establish and develop (a business, relationship, or situation) over a period of time.",
+            "examples": [
+              "he'd built up the store from nothing"
+            ],
+            "synonyms": [
+              "establish",
+              "found",
+              "set up",
+              "institute",
+              "inaugurate",
+              "initiate More\"they are building a business strategy\"establish",
+              "set up",
+              "found",
+              "institute",
+              "start",
+              "create; develop",
+              "expand",
+              "enlarge \"he built up a huge business\""
+            ]
+          },
+          {
+            "definition": "use as a basis for further progress or development.",
+            "examples": [
+              "the nation should build on the talents of its workforce"
+            ],
+            "synonyms": [
+              "expand on",
+              "enlarge on",
+              "develop",
+              "elaborate",
+              "flesh out",
+              "embellish",
+              "amplify; Morerefine",
+              "improve",
+              "perfect \"we are now in a position to build on all the wonderful legwork that our staff has accomplished\""
+            ]
+          },
+          {
+            "definition": "increase the size, intensity, or extent of.",
+            "examples": [
+              "we built up confidence in our abilities"
+            ],
+            "synonyms": [
+              "boost",
+              "strengthen",
+              "increase",
+              "improve",
+              "augment",
+              "raise",
+              "enhance",
+              "swell; informalbeef up \"she built up her stamina\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

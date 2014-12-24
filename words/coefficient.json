@@ -1,0 +1,36 @@
+{
+  "word": "coefficient",
+  "syllables": [
+    "co",
+    "ef",
+    "fi",
+    "cient"
+  ],
+  "pronunciation": "ˌkōəˈfiSHənt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "coefficient"
+        },
+        {
+          "part": "plural noun",
+          "variant": "coefficients"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a numerical or constant quantity placed before and multiplying the variable in an algebraic expression (e.g., 4 in 4x y)."
+        },
+        {
+          "definition": "a multiplier or factor that measures some property.",
+          "examples": [
+            "coefficients of elasticity"
+          ]
+        }
+      ]
+    }
+  ]
+}

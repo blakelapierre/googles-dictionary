@@ -1,0 +1,97 @@
+{
+  "word": "means",
+  "syllables": [
+    "means"
+  ],
+  "pronunciation": "mēnz",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "means"
+        },
+        {
+          "part": "plural noun",
+          "variant": "means"
+        },
+        {
+          "part": "noun",
+          "variant": "means of something"
+        },
+        {
+          "part": "plural noun",
+          "variant": "meanses of something"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an action or system by which a result is brought about; a method.",
+          "examples": [
+            "these pledges are a means to avoid prosecution"
+          ],
+          "synonyms": [
+            "method",
+            "way",
+            "manner",
+            "mode",
+            "measure",
+            "technique",
+            "expedient",
+            "agency",
+            "medium",
+            "instrument",
+            "channel",
+            "vehicle",
+            "avenue",
+            "course",
+            "process",
+            "procedure \"the best means to achieve your goal\""
+          ]
+        },
+        {
+          "definition": "money; financial resources.",
+          "examples": [
+            "a woman of modest but independent means"
+          ],
+          "synonyms": [
+            "money",
+            "resources",
+            "capital",
+            "income",
+            "finance",
+            "funds",
+            "cash",
+            "wherewithal",
+            "assets; Moreinformaldough",
+            "bread",
+            "moola \"she doesn't have the means to support herself\""
+          ]
+        },
+        {
+          "definition": "resources; capability.",
+          "examples": [
+            "every country in the world has the means to make ethanol"
+          ]
+        },
+        {
+          "definition": "wealth.",
+          "examples": [
+            "a man of means"
+          ],
+          "synonyms": [
+            "wealth",
+            "riches",
+            "affluence",
+            "substance",
+            "fortune",
+            "property",
+            "money",
+            "capital \"a man of means\""
+          ]
+        }
+      ]
+    }
+  ]
+}

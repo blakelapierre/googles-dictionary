@@ -1,0 +1,45 @@
+[
+  {
+    "word": "oversee",
+    "syllables": [
+      "o",
+      "ver",
+      "see"
+    ],
+    "pronunciation": "ˌōvərˈsē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "overseeing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "supervise (a person or work), especially in an official capacity.",
+            "examples": [
+              "a trustee appointed to oversee Corrie's finances"
+            ],
+            "synonyms": [
+              "supervise",
+              "superintend",
+              "be in charge/control of",
+              "be responsible for",
+              "look after",
+              "keep an eye on",
+              "inspect",
+              "administer",
+              "organize",
+              "manage",
+              "micromanage",
+              "direct",
+              "preside over \"Fran was hired to oversee the library renovations\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

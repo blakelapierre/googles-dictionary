@@ -1,0 +1,100 @@
+{
+  "word": "area",
+  "syllables": [
+    "ar",
+    "e",
+    "a"
+  ],
+  "pronunciation": "ˈerēə",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "area"
+        },
+        {
+          "part": "plural noun",
+          "variant": "areas"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a region or part of a town, a country, or the world.",
+          "examples": [
+            "rural areas of New Jersey"
+          ],
+          "synonyms": [
+            "district",
+            "region",
+            "zone",
+            "sector",
+            "quarter",
+            "precinct; Morelocality",
+            "locale",
+            "neighborhood",
+            "parish",
+            "patch; tract",
+            "belt; informalneck of the woods",
+            "turf \"an inner-city area\""
+          ]
+        },
+        {
+          "definition": "a space allocated for a specific purpose.",
+          "examples": [
+            "the dining area"
+          ],
+          "synonyms": [
+            "section",
+            "space; Moreplace",
+            "room \"the dining area\""
+          ]
+        },
+        {
+          "definition": "a part of an object or surface.",
+          "examples": [
+            "areas of the body"
+          ]
+        },
+        {
+          "definition": "a subject or range of activity or interest.",
+          "examples": [
+            "the key areas of science"
+          ],
+          "synonyms": [
+            "field",
+            "sphere",
+            "discipline",
+            "realm",
+            "domain",
+            "sector",
+            "province",
+            "territory",
+            "line \"specific areas of scientific knowledge\""
+          ]
+        },
+        {
+          "definition": "a sunken enclosure giving access to the basement of a building.",
+          "examples": [
+            "a bicycle padlocked to the area railing"
+          ]
+        },
+        {
+          "definition": "the extent or measurement of a surface or piece of land.",
+          "examples": [
+            "the area of a triangle"
+          ],
+          "synonyms": [
+            "expanse",
+            "extent",
+            "size",
+            "scope",
+            "compass; Moredimensions",
+            "proportions \"the area of a circle\""
+          ]
+        }
+      ]
+    }
+  ]
+}

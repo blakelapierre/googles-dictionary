@@ -1,0 +1,55 @@
+[
+  {
+    "word": "oversight",
+    "syllables": [
+      "o",
+      "ver",
+      "sight"
+    ],
+    "pronunciation": "ˈōvərˌsīt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "oversight"
+          },
+          {
+            "part": "plural noun",
+            "variant": "oversights"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an unintentional failure to notice or do something.",
+            "examples": [
+              "he said his failure to pay for the tickets was an oversight"
+            ],
+            "synonyms": [
+              "mistake",
+              "error",
+              "omission",
+              "lapse",
+              "slip",
+              "blunder; Moreinformalslip-up",
+              "boo-boo",
+              "goof",
+              "flub \"a stupid oversight\"carelessness",
+              "inattention",
+              "negligence",
+              "forgetfulness",
+              "laxity \"the omission was due to oversight\""
+            ]
+          },
+          {
+            "definition": "the action of overseeing something.",
+            "examples": [
+              "effective oversight of the financial reporting process"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

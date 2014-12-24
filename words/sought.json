@@ -1,0 +1,102 @@
+[
+  {
+    "word": "sought",
+    "syllables": [
+      "sought"
+    ],
+    "pronunciation": "sôt",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "seek",
+    "syllables": [
+      "seek"
+    ],
+    "pronunciation": "sēk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "sought"
+          },
+          {
+            "part": "past participle",
+            "variant": "sought"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attempt to find (something).",
+            "examples": [
+              "they came here to seek shelter from biting winter winds"
+            ],
+            "synonyms": [
+              "search for",
+              "try to find",
+              "look for",
+              "be on the lookout for",
+              "be after",
+              "hunt for",
+              "be in quest of \"they sought shelter from the winter snows\""
+            ]
+          },
+          {
+            "definition": "attempt or desire to obtain or achieve (something).",
+            "examples": [
+              "the new regime sought his extradition"
+            ],
+            "synonyms": [
+              "try to obtain",
+              "work toward",
+              "be intent on",
+              "aim at/for More\"the company is seeking a judicial review of the decision\"try",
+              "attempt",
+              "endeavor",
+              "strive",
+              "work",
+              "do one's best; formalessay \"we constantly seek to improve the service\""
+            ]
+          },
+          {
+            "definition": "ask for (something) from someone.",
+            "examples": [
+              "he sought help from the police"
+            ],
+            "synonyms": [
+              "ask for",
+              "request",
+              "solicit",
+              "call for",
+              "entreat",
+              "beg for",
+              "petition for",
+              "appeal for",
+              "apply for",
+              "put in for \"he sought help from the police\""
+            ]
+          },
+          {
+            "definition": "search for and find someone or something.",
+            "examples": [
+              "it's his job to seek out new customers"
+            ]
+          },
+          {
+            "definition": "go to (a place).",
+            "examples": [
+              "I sought my bedroom each night to brood over it"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

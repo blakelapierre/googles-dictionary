@@ -1,0 +1,119 @@
+[
+  {
+    "word": "stimulate",
+    "syllables": [
+      "stim",
+      "u",
+      "late"
+    ],
+    "pronunciation": "ˈstimyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "stimulate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "stimulates"
+          },
+          {
+            "part": "past tense",
+            "variant": "stimulated"
+          },
+          {
+            "part": "past participle",
+            "variant": "stimulated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "stimulating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "raise levels of physiological or nervous activity in (the body or any biological system).",
+            "examples": [
+              "the women are given fertility drugs to stimulate their ovaries"
+            ],
+            "synonyms": [
+              "restorative",
+              "tonic",
+              "invigorating",
+              "bracing",
+              "energizing",
+              "reviving",
+              "refreshing",
+              "revitalizing",
+              "revivifying",
+              "exhilarating; analeptic \"a stimulating effect on the circulation\""
+            ],
+            "antonyms": [
+              "sedative"
+            ]
+          },
+          {
+            "definition": "encourage interest or activity in (a person or animal).",
+            "examples": [
+              "the reader could not fail to be stimulated by the ideas presented"
+            ],
+            "synonyms": [
+              "encourage",
+              "act as a stimulus/incentive/impetus/spur to",
+              "prompt",
+              "prod",
+              "move",
+              "motivate",
+              "trigger",
+              "spark",
+              "spur on",
+              "galvanize",
+              "activate",
+              "kindle",
+              "fire",
+              "fire with enthusiasm",
+              "fuel",
+              "whet",
+              "nourish; Moreinspire",
+              "incentivize",
+              "inspirit",
+              "rouse",
+              "excite",
+              "animate",
+              "electrify",
+              "jump-start",
+              "light a fire under \"we're looking for ways to stimulate tourism\"thought-provoking",
+              "interesting",
+              "fascinating",
+              "inspiring",
+              "inspirational",
+              "lively",
+              "sparkling",
+              "exciting",
+              "stirring",
+              "rousing",
+              "intriguing",
+              "giving one food for thought",
+              "refreshing; provocative",
+              "challenging; informalbuzzy \"a stimulating lecture\""
+            ],
+            "antonyms": [
+              "discourage",
+              "uninspiring",
+              "uninteresting",
+              "boring"
+            ]
+          },
+          {
+            "definition": "encourage development of or increased activity in (a state or process).",
+            "examples": [
+              "the courses stimulate a passion for learning"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

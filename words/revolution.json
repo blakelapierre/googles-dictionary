@@ -1,0 +1,89 @@
+[
+  {
+    "word": "revolution",
+    "syllables": [
+      "rev",
+      "o",
+      "lu",
+      "tion"
+    ],
+    "pronunciation": "ˌrevəˈlo͞oSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "revolution"
+          },
+          {
+            "part": "plural noun",
+            "variant": "revolutions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a forcible overthrow of a government or social order in favor of a new system.",
+            "examples": [
+              "rebellion, revolt, insurrection, mutiny, uprising, riot, rioting, insurgence, seizure of power, coup (d'état) the French aristocracy was ill-prepared to quell a revolution"
+            ]
+          },
+          {
+            "definition": "the American Revolution."
+          },
+          {
+            "definition": "(in Marxism) the class struggle that is expected to lead to political change and the triumph of communism.",
+            "examples": [
+              "noun: Revolution; noun: the Revolution"
+            ]
+          },
+          {
+            "definition": "a dramatic and wide-reaching change in the way something works or is organized or in people's ideas about it.",
+            "examples": [
+              "marketing underwent a revolution"
+            ],
+            "synonyms": [
+              "dramatic change",
+              "radical alteration",
+              "sea change",
+              "metamorphosis",
+              "transformation",
+              "innovation",
+              "reorganization",
+              "restructuring; Moreinformalshake-up",
+              "shakedown \"a revolution in printing techniques\""
+            ]
+          },
+          {
+            "definition": "an instance of revolving.",
+            "examples": [
+              "one revolution a second"
+            ],
+            "synonyms": [
+              "turn",
+              "single turn",
+              "rotation",
+              "circle",
+              "spin; Morecircuit",
+              "lap \"one revolution of a wheel\""
+            ]
+          },
+          {
+            "definition": "the movement of an object in a circular or elliptical course around another or about an axis or center.",
+            "examples": [
+              "observing the revolution about the axis of rotation"
+            ],
+            "synonyms": [
+              "turning",
+              "rotation",
+              "circling; orbit \"the revolution of the earth\""
+            ]
+          },
+          {
+            "definition": "a single orbit of one object around another or about an axis or center."
+          }
+        ]
+      }
+    ]
+  }
+]

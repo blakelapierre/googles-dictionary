@@ -1,0 +1,208 @@
+[
+  {
+    "word": "guard",
+    "syllables": [
+      "guard"
+    ],
+    "pronunciation": "ɡärd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "guard"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "guards"
+          },
+          {
+            "part": "past tense",
+            "variant": "guarded"
+          },
+          {
+            "part": "past participle",
+            "variant": "guarded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "guarding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "watch over in order to protect or control.",
+            "examples": [
+              "they were sent to guard villagers from attack by bandits"
+            ],
+            "synonyms": [
+              "secured",
+              "secure",
+              "protected",
+              "shielded",
+              "sentineled",
+              "manned",
+              "policed \"there is a guarded barrier in the mountains\""
+            ]
+          },
+          {
+            "definition": "watch over (someone) to prevent them escaping.",
+            "examples": [
+              "his task was to help guard Japanese soldiers"
+            ],
+            "synonyms": [
+              "protect",
+              "stand guard over",
+              "watch over",
+              "keep an eye on; Morecover",
+              "patrol",
+              "police",
+              "defend",
+              "shield",
+              "safeguard",
+              "keep safe",
+              "secure \"infantry guarded the barricaded bridge\""
+            ]
+          },
+          {
+            "definition": "watch over (someone) to prevent them from escaping.",
+            "examples": [
+              "police officers were guarding inmates who could not be accommodated in prison"
+            ],
+            "synonyms": [
+              "keep under surveillance",
+              "keep under guard",
+              "keep watch over",
+              "surveil",
+              "mind \"the prisoners were guarded by armed men\""
+            ]
+          },
+          {
+            "definition": "take precautions against.",
+            "examples": [
+              "farmers must guard against sudden changes in the market"
+            ],
+            "synonyms": [
+              "beware of",
+              "keep watch for",
+              "be alert to",
+              "keep an eye out for",
+              "be on the lookout for",
+              "be on the alert for \"forest wardens must guard against poachers\""
+            ]
+          },
+          {
+            "definition": "protect against damage or harm.",
+            "examples": [
+              "the company fiercely guarded its independence"
+            ]
+          },
+          {
+            "definition": "stay close to (an opponent) in order to prevent a good shot, pass, or drive."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "guard"
+          },
+          {
+            "part": "plural noun",
+            "variant": "guards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who keeps watch, especially a soldier or other person formally assigned to protect a person or to control access to a place.",
+            "examples": [
+              "a security guard"
+            ],
+            "synonyms": [
+              "sentry",
+              "sentinel",
+              "security guard",
+              "watchman",
+              "night watchman; Moreprotector",
+              "defender",
+              "guardian; lookout",
+              "watch; garrison; border patrol \"border guards\""
+            ]
+          },
+          {
+            "definition": "a body of soldiers serving to protect a place or person.",
+            "examples": [
+              "the hound belonged to a member of the castle's guard"
+            ]
+          },
+          {
+            "definition": "the household troops of the British army.",
+            "examples": [
+              "plural noun: Guards"
+            ]
+          },
+          {
+            "definition": "a prison warder.",
+            "examples": [
+              "warden, warder, keeper; Morejailer; informalscrew; archaicturnkey \"her prison guard\"Morejailer; screw; turnkey her prison guard"
+            ]
+          },
+          {
+            "definition": "an official who rides on and is in general charge of a train."
+          },
+          {
+            "definition": "each of two offensive players positioned either side of the center."
+          },
+          {
+            "definition": "each of two backcourt players chiefly responsible for running the team's offense."
+          },
+          {
+            "definition": "a device worn or fitted to prevent injury or damage.",
+            "examples": [
+              "a retractable blade guard"
+            ],
+            "synonyms": [
+              "safety guard",
+              "safety device",
+              "protective device",
+              "shield",
+              "screen",
+              "fender; Morebumper",
+              "buffer \"a metal guard\""
+            ]
+          },
+          {
+            "definition": "a chain attached to a watch or bracelet to prevent loss."
+          },
+          {
+            "definition": "a defensive posture adopted in a boxing, fencing, or martial arts contest or in a fight.",
+            "examples": [
+              "this kick can curl around an otherwise effective guard"
+            ]
+          },
+          {
+            "definition": "a state of caution, vigilance, or preparedness against adverse circumstances.",
+            "examples": [
+              "he let his guard slip enough to make some unwise comments"
+            ],
+            "synonyms": [
+              "vigilance",
+              "vigil",
+              "watch",
+              "surveillance",
+              "watchfulness",
+              "caution",
+              "heed",
+              "attention",
+              "care",
+              "wariness \"he let his guard slip and they escaped\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

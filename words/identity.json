@@ -1,0 +1,83 @@
+[
+  {
+    "word": "identity",
+    "syllables": [
+      "i",
+      "den",
+      "ti",
+      "ty"
+    ],
+    "pronunciation": "ˌīˈden(t)ədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "identity"
+          },
+          {
+            "part": "plural noun",
+            "variant": "identities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fact of being who or what a person or thing is.",
+            "examples": [
+              "he knows the identity of the bombers"
+            ],
+            "synonyms": [
+              "name",
+              "ID; Morespecification \"the identity of the owner\"identification",
+              "recognition",
+              "naming",
+              "singling out \"a case of mistaken identity\""
+            ]
+          },
+          {
+            "definition": "the characteristics determining this.",
+            "examples": [
+              "attempts to define a distinct Canadian identity"
+            ],
+            "synonyms": [
+              "individuality",
+              "self",
+              "selfhood; Morepersonality",
+              "character",
+              "originality",
+              "distinctiveness",
+              "differentness",
+              "singularity",
+              "uniqueness \"she was afraid of losing her identity\""
+            ]
+          },
+          {
+            "definition": "(of an object) serving to establish who the holder, owner, or wearer is by bearing their name and often other details such as a signature or photograph.",
+            "examples": [
+              "modifier noun: identity"
+            ]
+          },
+          {
+            "definition": "a close similarity or affinity.",
+            "examples": [
+              "the initiative created an identity between the city and the suburbs"
+            ]
+          },
+          {
+            "definition": "a transformation that leaves an object unchanged."
+          },
+          {
+            "definition": "an element of a set that, if combined with another element by a specified binary operation, leaves that element unchanged.",
+            "examples": [
+              "noun: identity element; plural noun: identity elements"
+            ]
+          },
+          {
+            "definition": "the equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g., ( x + 1)2 = x 2 + 2 x + 1."
+          }
+        ]
+      }
+    ]
+  }
+]

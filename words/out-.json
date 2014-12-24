@@ -1,0 +1,38 @@
+{
+  "word": "out-",
+  "syllables": [
+    "out-"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "prefix",
+      "variants": [
+        {
+          "part": "prefix",
+          "variant": "out-"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "to the point of surpassing or exceeding.",
+          "examples": [
+            "outfight"
+          ]
+        },
+        {
+          "definition": "external; separate; from outside.",
+          "examples": [
+            "outbuildings"
+          ]
+        },
+        {
+          "definition": "away from; outward.",
+          "examples": [
+            "outbound"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+[
+  {
+    "word": "age",
+    "syllables": [
+      "age"
+    ],
+    "pronunciation": "āj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "ages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the length of time that a person has lived or a thing has existed.",
+            "examples": [
+              "he died from a heart attack at the age of 51"
+            ],
+            "synonyms": [
+              "number of years",
+              "length of life; Morestage of life",
+              "generation",
+              "age group \"he is 35 years of age\""
+            ]
+          },
+          {
+            "definition": "a particular stage in someone's life.",
+            "examples": [
+              "children of primary school age"
+            ]
+          },
+          {
+            "definition": "the latter part of life or existence; old age.",
+            "examples": [
+              "with age this gland can become sluggish"
+            ],
+            "synonyms": [
+              "elderliness",
+              "old age",
+              "oldness",
+              "senescence",
+              "dotage",
+              "seniority",
+              "maturity; Moreone's advancing/advanced/declining years; literaryeld; archaiccaducity \"her hearing had deteriorated with age\""
+            ]
+          },
+          {
+            "definition": "a distinct period of history.",
+            "examples": [
+              "an age of technological growth"
+            ],
+            "synonyms": [
+              "era",
+              "epoch",
+              "period",
+              "time",
+              "eon \"the Elizabethan age\""
+            ]
+          },
+          {
+            "definition": "a division of time that is a subdivision of an epoch, corresponding to a stage in chronostratigraphy."
+          },
+          {
+            "definition": "a lifetime taken as a measure of time; a generation.",
+            "examples": [
+              "Nestor is said to have lived three ages when he was ninety years old"
+            ]
+          },
+          {
+            "definition": "a very long time.",
+            "examples": [
+              "I haven't seen her for ages"
+            ],
+            "synonyms": [
+              "a long time",
+              "days/months/years on end",
+              "an eternity",
+              "an eon; Moreinformalages and ages",
+              "donkey's years",
+              "a coon's age",
+              "a month of Sundays",
+              "forever \"you haven't been in touch with me for ages\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "ages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grow old or older, especially visibly and obviously so.",
+            "examples": [
+              "you haven't aged a lot"
+            ]
+          },
+          {
+            "definition": "cause to grow, feel, or appear older.",
+            "examples": [
+              "he even tried aging the painting with a spoonful of coffee"
+            ]
+          },
+          {
+            "definition": "(especially with reference to an alcoholic drink) mature or allow to mature.",
+            "examples": [
+              "the wine ages in open vats or casks"
+            ],
+            "synonyms": [
+              "grow/become/get old",
+              "mature",
+              "(cause to) decline",
+              "weather",
+              "fade; Moregrow up",
+              "come of age \"Leila has aged a lot since the last time I saw her\""
+            ]
+          },
+          {
+            "definition": "determine how old (something) is.",
+            "examples": [
+              "we didn't have a clue how to age these animals"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

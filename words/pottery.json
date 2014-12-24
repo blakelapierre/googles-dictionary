@@ -1,0 +1,42 @@
+[
+  {
+    "word": "pottery",
+    "syllables": [
+      "pot",
+      "ter",
+      "y"
+    ],
+    "pronunciation": "ˈpädərē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pottery"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pots, dishes, and other articles made of earthenware or baked clay. Pottery can be broadly divided into earthenware, porcelain, and stoneware.",
+            "examples": [
+              "china, crockery, ceramics, earthenware, stoneware a collection of antique pottery"
+            ]
+          },
+          {
+            "definition": "the craft or profession of making pottery.",
+            "examples": [
+              "courses include drawing, painting, and pottery"
+            ]
+          },
+          {
+            "definition": "a factory or workshop where pottery is made.",
+            "examples": [
+              "plural noun: potteries"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

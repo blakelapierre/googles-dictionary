@@ -1,0 +1,116 @@
+{
+  "word": "happen",
+  "syllables": [
+    "hap",
+    "pen"
+  ],
+  "pronunciation": "ˈhapən",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "happen"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "happens"
+        },
+        {
+          "part": "past tense",
+          "variant": "happened"
+        },
+        {
+          "part": "past participle",
+          "variant": "happened"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "happening"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "take place; occur.",
+          "examples": [
+            "the afternoon when the disturbance happened"
+          ],
+          "synonyms": [
+            "occur",
+            "take place",
+            "come about; Moreensue",
+            "result",
+            "transpire",
+            "materialize",
+            "arise",
+            "crop up",
+            "come up",
+            "present itself",
+            "supervene; informalgo down; formaleventuate; literarycome to pass",
+            "betide \"remember what happened last time he was here\""
+          ]
+        },
+        {
+          "definition": "ensue as an effect or result of an action or event.",
+          "examples": [
+            "this is what happens when the mechanism goes wrong"
+          ]
+        },
+        {
+          "definition": "chance to do something or come about.",
+          "examples": [
+            "we just happened to meet Paul"
+          ],
+          "synonyms": [
+            "discover",
+            "find",
+            "find by chance",
+            "come across",
+            "chance on",
+            "stumble on",
+            "hit on \"she happened on a blue jay's nest\""
+          ]
+        },
+        {
+          "definition": "come about by chance.",
+          "examples": [
+            "it just so happened that she turned up that afternoon"
+          ],
+          "synonyms": [
+            "chance",
+            "have the good/bad luck \"they happened to be in\""
+          ]
+        },
+        {
+          "definition": "find or come across by chance.",
+          "examples": [
+            "Mike played football as a boy and happened on cycling by accident"
+          ]
+        },
+        {
+          "definition": "used as a polite formula in questions.",
+          "examples": [
+            "do you happen to know who her doctor is?"
+          ]
+        },
+        {
+          "definition": "be experienced by (someone); befall.",
+          "examples": [
+            "the same thing happened to me"
+          ]
+        },
+        {
+          "definition": "become of.",
+          "examples": [
+            "I don't care what happens to the money"
+          ],
+          "synonyms": [
+            "become of; Moreliterarybefall",
+            "betide \"I wonder what happened to Joe?\""
+          ]
+        }
+      ]
+    }
+  ]
+}

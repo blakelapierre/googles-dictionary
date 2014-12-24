@@ -1,0 +1,105 @@
+[
+  {
+    "word": "evacuate",
+    "syllables": [
+      "e",
+      "vac",
+      "u",
+      "ate"
+    ],
+    "pronunciation": "iˈvakyəˌwāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "evacuate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "evacuates"
+          },
+          {
+            "part": "past tense",
+            "variant": "evacuated"
+          },
+          {
+            "part": "past participle",
+            "variant": "evacuated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "evacuating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove (someone) from a place of danger to a safe place.",
+            "examples": [
+              "several families were evacuated from their homes"
+            ],
+            "synonyms": [
+              "remove",
+              "clear",
+              "move out",
+              "take away",
+              "shift More\"local residents were evacuated\"clear",
+              "empty \"police evacuated the area\""
+            ]
+          },
+          {
+            "definition": "leave or cause the occupants to leave (a place of danger).",
+            "examples": [
+              "fire alarms forced staff to evacuate the building"
+            ],
+            "synonyms": [
+              "leave",
+              "vacate",
+              "abandon",
+              "desert",
+              "move out of",
+              "quit",
+              "withdraw from",
+              "retreat from",
+              "decamp from",
+              "flee",
+              "depart from",
+              "escape from \"they evacuated the bombed town\""
+            ]
+          },
+          {
+            "definition": "(of troops) withdraw from (a place).",
+            "examples": [
+              "the last American troops evacuated the Canal Zone"
+            ]
+          },
+          {
+            "definition": "remove air, water, or other contents from (a container).",
+            "examples": [
+              "when it springs a leak, evacuate the pond"
+            ]
+          },
+          {
+            "definition": "empty (the bowels or another bodily organ).",
+            "examples": [
+              "empty (out), void, open, move, purge; Moredefecate \"patients couldn't evacuate their bowels\"expel, eject, discharge, excrete, void, empty (out), vomit up \"he evacuated the contents of his stomach\"Moredefecate patients couldn't evacuate their bowelsexpel, eject, discharge, excrete, void, empty (out), vomit up he evacuated the contents of his stomach"
+            ]
+          },
+          {
+            "definition": "discharge (feces or other matter) from the body.",
+            "examples": [
+              "expel, eject, discharge, excrete, void, empty (out), vomit up he evacuated the contents of his stomach"
+            ]
+          },
+          {
+            "definition": "deprive (something) of contents, value, or force.",
+            "examples": [
+              "he evacuated time and history of significance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

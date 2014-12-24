@@ -1,0 +1,43 @@
+[
+  {
+    "word": "disapproval",
+    "syllables": [
+      "dis",
+      "ap",
+      "prov",
+      "al"
+    ],
+    "pronunciation": "ˌdisəˈpro͞ov(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "disapproval"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "possession or expression of an unfavorable opinion.",
+            "examples": [
+              "Jill replied with a hint of disapproval in her voice"
+            ],
+            "synonyms": [
+              "disapprobation",
+              "objection",
+              "dislike; Moredissatisfaction",
+              "disfavor",
+              "displeasure",
+              "distaste; criticism",
+              "censure",
+              "condemnation",
+              "denunciation",
+              "deprecation; informalthumbs down \"their strong disapproval of the law\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

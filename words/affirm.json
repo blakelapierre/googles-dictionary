@@ -1,0 +1,96 @@
+[
+  {
+    "word": "affirm",
+    "syllables": [
+      "af",
+      "firm"
+    ],
+    "pronunciation": "əˈfərm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "affirm"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "affirms"
+          },
+          {
+            "part": "past tense",
+            "variant": "affirmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "affirmed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "affirming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "state as a fact; assert strongly and publicly.",
+            "examples": [
+              "he affirmed the country's commitment to peace"
+            ],
+            "synonyms": [
+              "declare",
+              "state",
+              "assert",
+              "proclaim",
+              "pronounce",
+              "attest",
+              "swear",
+              "avow",
+              "guarantee",
+              "pledge",
+              "give an undertaking; formalaver \"he affirmed that they would lend military assistance\""
+            ],
+            "antonyms": [
+              "deny"
+            ]
+          },
+          {
+            "definition": "declare one's support for; uphold or defend.",
+            "examples": [
+              "the referendum affirmed the republic's right to secede"
+            ],
+            "synonyms": [
+              "uphold",
+              "support",
+              "confirm",
+              "ratify",
+              "endorse",
+              "sanction \"the referendum affirmed the republic's right to secede\""
+            ]
+          },
+          {
+            "definition": "accept or confirm the validity of (a judgment or agreement); ratify."
+          },
+          {
+            "definition": "make a formal declaration rather than taking an oath (e.g., to testify truthfully)."
+          },
+          {
+            "definition": "(of a court) uphold (a decision) on appeal."
+          },
+          {
+            "definition": "offer (someone) emotional support or encouragement.",
+            "examples": [
+              "there are five common ways parents fail to affirm their children"
+            ]
+          },
+          {
+            "definition": "give (life) a heightened sense of value, typically through the experience of something emotionally or spiritually uplifting.",
+            "examples": [
+              "it is a rich and challenging motion picture that both affirms life and emphasizes its fragility"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "void",
+    "syllables": [
+      "void"
+    ],
+    "pronunciation": "void",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "void"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not valid or legally binding.",
+            "examples": [
+              "the contract was void"
+            ],
+            "synonyms": [
+              "invalid",
+              "null",
+              "ineffective",
+              "nonviable",
+              "useless",
+              "worthless",
+              "nugatory \"the election was void\""
+            ],
+            "antonyms": [
+              "valid"
+            ]
+          },
+          {
+            "definition": "(of speech or action) ineffectual; useless.",
+            "examples": [
+              "all the stratagems you've worked out are rendered void"
+            ]
+          },
+          {
+            "definition": "completely empty.",
+            "examples": [
+              "void spaces surround the tanks"
+            ],
+            "synonyms": [
+              "empty",
+              "vacant",
+              "blank",
+              "bare",
+              "clear",
+              "free",
+              "unfilled",
+              "unoccupied",
+              "uninhabited \"vast void spaces\""
+            ],
+            "antonyms": [
+              "full"
+            ]
+          },
+          {
+            "definition": "free from; lacking.",
+            "examples": [
+              "what were once the masterpieces of literature are now void of meaning"
+            ],
+            "synonyms": [
+              "devoid of",
+              "empty of",
+              "vacant of",
+              "bereft of",
+              "free from; Morelacking",
+              "wanting",
+              "without",
+              "with nary a \"a country void of man or beast\""
+            ],
+            "antonyms": [
+              "occupied"
+            ]
+          },
+          {
+            "definition": "(of an office or position) vacant."
+          },
+          {
+            "definition": "(in bridge and whist) having been dealt no cards in a particular suit."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "void"
+          },
+          {
+            "part": "plural noun",
+            "variant": "voids"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a completely empty space.",
+            "examples": [
+              "the black void of space"
+            ],
+            "synonyms": [
+              "vacuum",
+              "emptiness",
+              "nothingness",
+              "nullity",
+              "blankness",
+              "vacuity; Moreempty space",
+              "blank space",
+              "space",
+              "gap",
+              "cavity",
+              "chasm",
+              "abyss",
+              "gulf",
+              "pit",
+              "black hole \"the void of space\""
+            ]
+          },
+          {
+            "definition": "an emptiness caused by the loss of something.",
+            "examples": [
+              "the void left by the death of his wife"
+            ]
+          },
+          {
+            "definition": "an unfilled space in a wall, building, or structure."
+          },
+          {
+            "definition": "(in bridge and whist) a suit in which a player is dealt no cards."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "void"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "voids"
+          },
+          {
+            "part": "past tense",
+            "variant": "voided"
+          },
+          {
+            "part": "past participle",
+            "variant": "voided"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "voiding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "declare that (something) is not valid or legally binding.",
+            "examples": [
+              "the Supreme Court voided the statute"
+            ],
+            "synonyms": [
+              "invalidate",
+              "annul",
+              "nullify; Morenegate",
+              "quash",
+              "cancel",
+              "countermand",
+              "repeal",
+              "revoke",
+              "rescind",
+              "retract",
+              "withdraw",
+              "reverse",
+              "undo",
+              "abolish; vacate; formalabrogate \"the contract was voided\""
+            ],
+            "antonyms": [
+              "validate"
+            ]
+          },
+          {
+            "definition": "discharge or drain away (water, gases, etc.)."
+          },
+          {
+            "definition": "excrete (waste matter)."
+          },
+          {
+            "definition": "empty or evacuate (a container or space)."
+          }
+        ]
+      }
+    ]
+  }
+]

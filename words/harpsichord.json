@@ -1,0 +1,31 @@
+[
+  {
+    "word": "harpsichord",
+    "syllables": [
+      "harp",
+      "si",
+      "chord"
+    ],
+    "pronunciation": "ˈhärpsəˌkôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "harpsichord"
+          },
+          {
+            "part": "plural noun",
+            "variant": "harpsichords"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a keyboard instrument with horizontal strings that run perpendicular to the keyboard in a long tapering case and are plucked by points of quill, leather, or plastic operated by depressing the keys. It is used chiefly in European classical music of the 16th to 18th centuries."
+          }
+        ]
+      }
+    ]
+  }
+]

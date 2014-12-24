@@ -1,0 +1,188 @@
+[
+  {
+    "word": "image",
+    "syllables": [
+      "im",
+      "age"
+    ],
+    "pronunciation": "ˈimij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "image"
+          },
+          {
+            "part": "plural noun",
+            "variant": "images"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a representation of the external form of a person or thing in art.",
+            "examples": [
+              "likeness, resemblance; Moredepiction, portrayal, representation; statue, statuette, sculpture, bust, effigy; painting, picture, portrait, drawing, sketch \"an image of St. Bartholomew\"Moredepiction, portrayal, representation; statue, statuette, sculpture, bust, effigy; painting, picture, portrait, drawing, sketch an image of St. Bartholomew"
+            ]
+          },
+          {
+            "definition": "a visible impression obtained by a camera, telescope, microscope, or other device, or displayed on a computer or video screen.",
+            "examples": [
+              "picture, photograph, snapshot, photo images of the planet Neptune"
+            ]
+          },
+          {
+            "definition": "an optical appearance or counterpart produced by light or other radiation from an object reflected in a mirror or refracted through a lens.",
+            "examples": [
+              "reflection, mirror image, likeness he contemplated his image in the mirror"
+            ]
+          },
+          {
+            "definition": "a point or set formed by mapping from another point or set."
+          },
+          {
+            "definition": "an exact copy of a computer's hard disk, made for backing up data or setting up new machines."
+          },
+          {
+            "definition": "a mental representation or idea.",
+            "examples": [
+              "he had an image of Uncle Walter throwing his crutches away"
+            ],
+            "synonyms": [
+              "conception",
+              "impression",
+              "idea",
+              "perception",
+              "notion; Moremental picture",
+              "vision; character",
+              "reputation; appearance",
+              "semblance \"the image of this country as democratic\""
+            ]
+          },
+          {
+            "definition": "a person or thing that closely resembles another.",
+            "examples": [
+              "he's the image of his father"
+            ],
+            "synonyms": [
+              "double",
+              "living image",
+              "look-alike",
+              "clone",
+              "copy",
+              "twin",
+              "duplicate",
+              "exact likeness",
+              "mirror image",
+              "doppelgänger; Moreinformalspitting image",
+              "dead ringer",
+              "carbon copy; archaicsimilitude \"I'm the image of my grandfather\""
+            ]
+          },
+          {
+            "definition": "a simile or metaphor.",
+            "examples": [
+              "he uses the image of a hole to describe emotional emptiness"
+            ],
+            "synonyms": [
+              "simile",
+              "metaphor",
+              "metonymy; Morefigure of speech",
+              "trope",
+              "turn of phrase; imagery \"biblical images\""
+            ]
+          },
+          {
+            "definition": "the general impression that a person, organization, or product presents to the public.",
+            "examples": [
+              "she strives to project an image of youth"
+            ],
+            "synonyms": [
+              "public perception",
+              "persona",
+              "profile",
+              "reputation",
+              "stature",
+              "standing; Moreface",
+              "front",
+              "facade",
+              "mask",
+              "guise \"his heartthrob image\""
+            ]
+          },
+          {
+            "definition": "semblance or likeness.",
+            "examples": [
+              "we are made in the image of God"
+            ]
+          },
+          {
+            "definition": "(in biblical use) an idol.",
+            "examples": [
+              "idol, icon, fetish, totem a graven image"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "image"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "images"
+          },
+          {
+            "part": "past tense",
+            "variant": "imaged"
+          },
+          {
+            "part": "past participle",
+            "variant": "imaged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "imaging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a representation of the external form of.",
+            "examples": [
+              "artworks that imaged women's bodies"
+            ]
+          },
+          {
+            "definition": "make a visual representation of (something) by scanning it with a detector or electromagnetic beam.",
+            "examples": [
+              "every point on the Earth's surface was imaged by the satellite"
+            ]
+          },
+          {
+            "definition": "make an exact copy of (a computer's hard disk).",
+            "examples": [
+              "the hard disk drive should be imaged using a specialized bitstream backup product"
+            ]
+          },
+          {
+            "definition": "form a mental picture or idea of.",
+            "examples": [
+              "it is possible for us to image a society in which no one committed crime"
+            ],
+            "synonyms": [
+              "envisage",
+              "envision",
+              "imagine",
+              "picture",
+              "see in one's mind's eye \"she imaged imposing castles\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

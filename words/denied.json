@@ -1,0 +1,85 @@
+[
+  {
+    "word": "deny",
+    "syllables": [
+      "de",
+      "ny"
+    ],
+    "pronunciation": "dəˈnī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "denied"
+          },
+          {
+            "part": "past participle",
+            "variant": "denied"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "state that one refuses to admit the truth or existence of.",
+            "examples": [
+              "they deny any responsibility for the tragedy"
+            ],
+            "synonyms": [
+              "contradict",
+              "controvert",
+              "repudiate",
+              "challenge",
+              "counter",
+              "contest",
+              "oppose",
+              "rebut; Moreinformalpoke holes in; formalgainsay \"the report was denied by witnesses\""
+            ],
+            "antonyms": [
+              "confirm"
+            ]
+          },
+          {
+            "definition": "refuse to admit the truth of (a concept or proposition that is supported by the majority of scientific or historical evidence).",
+            "examples": [
+              "an anti-environmentalist campaign group that denies climate change"
+            ]
+          },
+          {
+            "definition": "refuse to give or grant (something requested or desired) to (someone).",
+            "examples": [
+              "the inquiry was denied access to intelligence sources"
+            ],
+            "synonyms": [
+              "refuse",
+              "turn down",
+              "reject",
+              "rebuff",
+              "repulse",
+              "decline",
+              "veto",
+              "dismiss; Moreinformalgive the thumbs down to",
+              "give the red light to",
+              "nix \"he denied the request\""
+            ],
+            "antonyms": [
+              "accept"
+            ]
+          },
+          {
+            "definition": "refrain from satisfying oneself.",
+            "examples": [
+              "he had denied himself sexually for years"
+            ]
+          },
+          {
+            "definition": "refuse access to (someone).",
+            "examples": [
+              "the servants are ordered to deny him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

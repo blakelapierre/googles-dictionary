@@ -1,0 +1,42 @@
+[
+  {
+    "word": "salad",
+    "syllables": [
+      "sal",
+      "ad"
+    ],
+    "pronunciation": "ˈsaləd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "salad"
+          },
+          {
+            "part": "plural noun",
+            "variant": "salads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing and sometimes accompanied by meat, fish, or other ingredients.",
+            "examples": [
+              "a green salad"
+            ]
+          },
+          {
+            "definition": "a mixture containing a specified ingredient served with a dressing.",
+            "examples": [
+              "a red pepper filled with tuna salad"
+            ]
+          },
+          {
+            "definition": "a vegetable suitable for eating raw."
+          }
+        ]
+      }
+    ]
+  }
+]

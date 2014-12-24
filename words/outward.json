@@ -1,0 +1,75 @@
+{
+  "word": "outward",
+  "syllables": [
+    "out",
+    "ward"
+  ],
+  "pronunciation": "ˈoutwərd",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "outward"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "of, on, or from the outside.",
+          "examples": [
+            "the vehicle's outward and interior appearance"
+          ]
+        },
+        {
+          "definition": "relating to the external appearance of something rather than its true nature or substance.",
+          "examples": [
+            "an outward display of friendliness"
+          ],
+          "synonyms": [
+            "external",
+            "outer",
+            "outside",
+            "exterior; Moresurface",
+            "superficial",
+            "seeming",
+            "apparent",
+            "ostensible \"his outward demeanor hides the pain he feels inside\""
+          ],
+          "antonyms": [
+            "inward"
+          ]
+        },
+        {
+          "definition": "outer.",
+          "examples": [
+            "the outward physical body"
+          ]
+        },
+        {
+          "definition": "going out or away from a place.",
+          "examples": [
+            "the outward voyage"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "outward"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "away from the center or a particular point; toward the outside.",
+          "examples": [
+            "a window that opens outward"
+          ]
+        }
+      ]
+    }
+  ]
+}

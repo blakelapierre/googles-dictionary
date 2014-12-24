@@ -1,0 +1,116 @@
+{
+  "word": "this",
+  "syllables": [
+    "this"
+  ],
+  "pronunciation": "T͟His",
+  "parts": [
+    {
+      "part": "pronoun",
+      "variants": [
+        {
+          "part": "pronoun",
+          "variant": "this"
+        },
+        {
+          "part": "pronoun",
+          "variant": "these"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "used to identify a specific person or thing close at hand or being indicated or experienced.",
+          "examples": [
+            "is this your bag?"
+          ]
+        },
+        {
+          "definition": "used to introduce someone or something.",
+          "examples": [
+            "this is the captain speaking"
+          ]
+        },
+        {
+          "definition": "referring to the nearer of two things close to the speaker (the other, if specified, being identified by “that”).",
+          "examples": [
+            "this is different from that"
+          ]
+        },
+        {
+          "definition": "referring to a specific thing or situation just mentioned.",
+          "examples": [
+            "the company was transformed, and Ward had played a vital role in bringing this about"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "determiner",
+      "variants": [
+        {
+          "part": "determiner",
+          "variant": "this"
+        },
+        {
+          "part": "determiner",
+          "variant": "these"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "used to identify a specific person or thing close at hand or being indicated or experienced.",
+          "examples": [
+            "don't listen to this guy"
+          ]
+        },
+        {
+          "definition": "referring to the nearer of two things close to the speaker (the other, if specified, being identified by “that”).",
+          "examples": [
+            "this one or that one?"
+          ]
+        },
+        {
+          "definition": "referring to a specific thing or situation just mentioned.",
+          "examples": [
+            "there was a court case resulting from this incident"
+          ]
+        },
+        {
+          "definition": "used with periods of time related to the present.",
+          "examples": [
+            "I thought you were busy all this week"
+          ]
+        },
+        {
+          "definition": "referring to a period of time that has just passed.",
+          "examples": [
+            "I haven't left my bed these three days"
+          ]
+        },
+        {
+          "definition": "used (chiefly in narrative) to refer to a person or thing previously unspecified.",
+          "examples": [
+            "I turned around, and there was this big mummy standing next to us!"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "this"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "to the degree or extent indicated.",
+          "examples": [
+            "they can't handle a job this big"
+          ]
+        }
+      ]
+    }
+  ]
+}

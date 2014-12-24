@@ -1,0 +1,49 @@
+[
+  {
+    "word": "trait",
+    "syllables": [
+      "trait"
+    ],
+    "pronunciation": "trāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "trait"
+          },
+          {
+            "part": "plural noun",
+            "variant": "traits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a distinguishing quality or characteristic, typically one belonging to a person.",
+            "examples": [
+              "he was a letter-of-the-law man, a common trait among coaches"
+            ],
+            "synonyms": [
+              "characteristic",
+              "attribute",
+              "feature",
+              "quality",
+              "property; Morehabit",
+              "custom",
+              "mannerism",
+              "idiosyncrasy",
+              "peculiarity",
+              "quirk",
+              "oddity",
+              "foible \"elaborating on the truth is just one of her personality traits\""
+            ]
+          },
+          {
+            "definition": "a genetically determined characteristic."
+          }
+        ]
+      }
+    ]
+  }
+]

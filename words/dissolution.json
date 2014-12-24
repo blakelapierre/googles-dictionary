@@ -1,0 +1,83 @@
+[
+  {
+    "word": "dissolution",
+    "syllables": [
+      "dis",
+      "so",
+      "lu",
+      "tion"
+    ],
+    "pronunciation": "ˌdisəˈlo͞oSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dissolution"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dissolutions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the closing down or dismissal of an assembly, partnership, or official body.",
+            "examples": [
+              "the dissolution of their marriage"
+            ],
+            "synonyms": [
+              "cessation",
+              "conclusion",
+              "end",
+              "ending",
+              "termination",
+              "winding up/down",
+              "discontinuation",
+              "suspension",
+              "disbanding; Moreprorogation",
+              "recess \"the dissolution of the legislative session\""
+            ]
+          },
+          {
+            "definition": "the action or process of dissolving or being dissolved.",
+            "examples": [
+              "minerals susceptible to dissolution"
+            ],
+            "synonyms": [
+              "dissolving",
+              "liquefaction",
+              "melting",
+              "deliquescence; Morebreaking up",
+              "decomposition",
+              "disintegration \"the dissolution of a polymer in a solvent\""
+            ]
+          },
+          {
+            "definition": "disintegration; decomposition.",
+            "examples": [
+              "the dissolution of the flesh"
+            ],
+            "synonyms": [
+              "disintegration",
+              "breaking up; Moredecay",
+              "collapse",
+              "demise",
+              "extinction \"the dissolution of the empire\""
+            ]
+          },
+          {
+            "definition": "death."
+          },
+          {
+            "definition": "debauched living; dissipation.",
+            "examples": [
+              "an advanced state of dissolution"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

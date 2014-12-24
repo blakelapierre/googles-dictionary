@@ -1,0 +1,138 @@
+{
+  "word": "action",
+  "syllables": [
+    "ac",
+    "tion"
+  ],
+  "pronunciation": "ˈakSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "action"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the fact or process of doing something, typically to achieve an aim.",
+          "examples": [
+            "he vowed to take tougher action against persistent offenders"
+          ],
+          "synonyms": [
+            "measures",
+            "steps",
+            "activity",
+            "movement",
+            "work",
+            "operation \"the need for local community action\""
+          ]
+        },
+        {
+          "definition": "the way in which something such as a chemical has an effect or influence.",
+          "examples": [
+            "the seeds require the catalytic action of water to release hotness"
+          ],
+          "synonyms": [
+            "effect",
+            "influence",
+            "working; power \"the action of hormones on the pancreas\""
+          ]
+        },
+        {
+          "definition": "armed conflict.",
+          "examples": [
+            "plural noun: actions"
+          ]
+        },
+        {
+          "definition": "a military engagement.",
+          "examples": [
+            "a rearguard action"
+          ]
+        },
+        {
+          "definition": "the events represented in a story or play.",
+          "examples": [
+            "the action is set in the country"
+          ]
+        },
+        {
+          "definition": "exciting or notable activity.",
+          "examples": [
+            "the nonstop action of mountain biking"
+          ],
+          "synonyms": [
+            "excitement",
+            "activity",
+            "happenings",
+            "events",
+            "incidents; informalgoings-on \"he missed all the action while he was away\""
+          ]
+        },
+        {
+          "definition": "betting."
+        },
+        {
+          "definition": "used by a movie director as a command to begin.",
+          "examples": [
+            "exclamation: action"
+          ]
+        },
+        {
+          "definition": "a thing done; an act.",
+          "examples": [
+            "she frequently questioned his actions"
+          ],
+          "synonyms": [
+            "deed",
+            "act",
+            "move",
+            "undertaking",
+            "exploit",
+            "maneuver",
+            "endeavor",
+            "effort",
+            "exertion; Morebehavior",
+            "conduct",
+            "activity \"there can be no excuse for their actions\""
+          ]
+        },
+        {
+          "definition": "a legal process; a lawsuit.",
+          "examples": [
+            "an action for damages"
+          ],
+          "synonyms": [
+            "lawsuit",
+            "legal action",
+            "suit",
+            "case",
+            "prosecution",
+            "litigation",
+            "proceedings \"a civil action for damages\""
+          ]
+        },
+        {
+          "definition": "a gesture or movement.",
+          "examples": [
+            "his actions emphasized his words"
+          ]
+        },
+        {
+          "definition": "a manner or style of doing something, typically the way in which a mechanism works or a person moves.",
+          "examples": [
+            "a high paddle action in canoeing"
+          ]
+        },
+        {
+          "definition": "the mechanism that makes a machine or instrument work.",
+          "examples": [
+            "a piano with an escapement action"
+          ]
+        }
+      ]
+    }
+  ]
+}

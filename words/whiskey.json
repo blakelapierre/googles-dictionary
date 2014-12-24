@@ -1,0 +1,39 @@
+{
+  "word": "whiskey",
+  "syllables": [
+    "whis",
+    "key"
+  ],
+  "pronunciation": "ˈ(h)wiskē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "whisky"
+        },
+        {
+          "part": "plural noun",
+          "variant": "whiskies"
+        },
+        {
+          "part": "noun",
+          "variant": "whiskey"
+        },
+        {
+          "part": "plural noun",
+          "variant": "whiskeys"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a spirit distilled from malted grain, especially barley or rye."
+        },
+        {
+          "definition": "a code word representing the letter W, used in radio communication."
+        }
+      ]
+    }
+  ]
+}

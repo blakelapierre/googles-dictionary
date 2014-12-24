@@ -1,0 +1,92 @@
+[
+  {
+    "word": "impose",
+    "syllables": [
+      "im",
+      "pose"
+    ],
+    "pronunciation": "imˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "impose"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "imposes"
+          },
+          {
+            "part": "past tense",
+            "variant": "imposed"
+          },
+          {
+            "part": "past participle",
+            "variant": "imposed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "imposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "force (something unwelcome or unfamiliar) to be accepted or put in place.",
+            "examples": [
+              "the decision was theirs and was not imposed on them by others"
+            ],
+            "synonyms": [
+              "foist",
+              "force",
+              "inflict",
+              "press",
+              "urge; Moreinformalsaddle someone with",
+              "land someone with \"he imposed his ideas on the art director\""
+            ]
+          },
+          {
+            "definition": "forcibly put (a restriction) in place.",
+            "examples": [
+              "sanctions imposed on South Africa"
+            ]
+          },
+          {
+            "definition": "require (a duty, charge, or penalty) to be undertaken or paid.",
+            "examples": [
+              "levy, charge, apply, enforce; Moreset, establish, institute, introduce, bring into effect \"new taxes will be imposed\"Moreset, establish, institute, introduce, bring into effect new taxes will be imposed"
+            ]
+          },
+          {
+            "definition": "exert firm control over something.",
+            "examples": [
+              "the director was unable to impose himself on the production"
+            ]
+          },
+          {
+            "definition": "take advantage of someone by demanding their attention or commitment.",
+            "examples": [
+              "she realized that she had imposed on Miss Hatherby's kindness"
+            ],
+            "synonyms": [
+              "take advantage of",
+              "exploit",
+              "take liberties with",
+              "treat unfairly; Morebother",
+              "trouble",
+              "disturb",
+              "inconvenience",
+              "put out",
+              "put to trouble",
+              "be a burden on; informalwalk all over \"it was never my intention to impose on you\""
+            ]
+          },
+          {
+            "definition": "arrange (pages of type) so that they will be in the correct order after printing and folding."
+          }
+        ]
+      }
+    ]
+  }
+]

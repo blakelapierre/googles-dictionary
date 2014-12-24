@@ -1,0 +1,43 @@
+[
+  {
+    "word": "towel",
+    "syllables": [
+      "tow",
+      "el"
+    ],
+    "pronunciation": "ˈtou(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "towels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of thick absorbent cloth or paper used for drying oneself or wiping things dry."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "towels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "wipe or dry (a person or thing) with a towel.",
+            "examples": [
+              "she toweled her hair dry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

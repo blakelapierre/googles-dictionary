@@ -1,0 +1,109 @@
+[
+  {
+    "word": "husky",
+    "syllables": [
+      "husk",
+      "y"
+    ],
+    "pronunciation": "ˈhəskē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "husky"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "huskier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "huskiest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a voice or utterance) sounding low-pitched and slightly hoarse.",
+            "examples": [
+              "throaty, gruff, gravelly, hoarse, croaky, rough, guttural, harsh, rasping, raspy; deep a husky voice"
+            ],
+            "antonyms": [
+              "shrill",
+              "soft"
+            ]
+          },
+          {
+            "definition": "strong; hefty.",
+            "examples": [
+              "Patrick looked a husky, strong guy"
+            ],
+            "synonyms": [
+              "strong",
+              "muscular",
+              "muscly",
+              "muscle-bound",
+              "big",
+              "brawny",
+              "hefty",
+              "burly",
+              "hulking",
+              "strapping",
+              "thickset",
+              "solid",
+              "powerful",
+              "heavy",
+              "robust",
+              "sturdy",
+              "stalwart",
+              "blocky",
+              "Herculean",
+              "heavily built",
+              "well built; Moreinformalbeefy",
+              "hunky; literarythewy \"Paddy was a husky guy\""
+            ],
+            "antonyms": [
+              "puny"
+            ]
+          },
+          {
+            "definition": "like or consisting of a husk or husks."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "husky",
+    "syllables": [
+      "husk",
+      "y"
+    ],
+    "pronunciation": "ˈhəskē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "husky"
+          },
+          {
+            "part": "plural noun",
+            "variant": "huskies"
+          },
+          {
+            "part": "noun",
+            "variant": "huskie"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a powerful dog of a breed with a thick double coat that is typically gray, used in the Arctic for pulling sleds."
+          }
+        ]
+      }
+    ]
+  }
+]

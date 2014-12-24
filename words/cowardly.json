@@ -1,0 +1,53 @@
+[
+  {
+    "word": "cowardly",
+    "syllables": [
+      "cow",
+      "ard",
+      "ly"
+    ],
+    "pronunciation": "ˈkouərdlē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "cowardly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking courage.",
+            "examples": [
+              "faint-hearted, lily-livered, spineless, chicken-hearted, craven, timid, timorous, fearful, pusillanimous; Moreinformalyellow, chicken, weak-kneed, gutless, yellow-bellied, wimpish, wimpy \"he made a cowardly dash for the exit, leaving everyone else behind\"Moreyellow, chicken, weak-kneed, gutless, yellow-bellied, wimpish, wimpy he made a cowardly dash for the exit, leaving everyone else behind"
+            ],
+            "antonyms": [
+              "brave"
+            ]
+          },
+          {
+            "definition": "(of an action) carried out against a person who is unable to retaliate.",
+            "examples": [
+              "a cowardly attack on a helpless victim"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverbarchaic",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "cowardly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a way that shows a lack of courage."
+          }
+        ]
+      }
+    ]
+  }
+]

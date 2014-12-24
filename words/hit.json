@@ -1,0 +1,350 @@
+[
+  {
+    "word": "hit",
+    "syllables": [
+      "hit"
+    ],
+    "pronunciation": "hit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hits"
+          },
+          {
+            "part": "past tense",
+            "variant": "hit"
+          },
+          {
+            "part": "past participle",
+            "variant": "hit"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hitting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully.",
+            "examples": [
+              "the woman hit the mugger with her umbrella"
+            ],
+            "synonyms": [
+              "strike",
+              "slap",
+              "smack",
+              "spank",
+              "cuff",
+              "punch",
+              "thump",
+              "swat; Morebeat",
+              "thrash",
+              "batter",
+              "pound",
+              "pummel",
+              "box someone's ears; whip",
+              "flog",
+              "cane; informalwhack",
+              "wallop",
+              "bash",
+              "bop",
+              "clout",
+              "clip",
+              "clobber",
+              "sock",
+              "swipe",
+              "crown",
+              "beat the living daylights out of",
+              "knock someone around",
+              "belt",
+              "tan",
+              "lay into",
+              "let someone have it",
+              "deck",
+              "floor",
+              "slug; literarysmite \"she hit her child\""
+            ]
+          },
+          {
+            "definition": "accidentally strike (part of one's body) against something, often causing injury.",
+            "examples": [
+              "she fainted and hit her head on the metal bedstead"
+            ]
+          },
+          {
+            "definition": "(of a moving object or body) come into contact with (someone or something stationary) quickly and forcefully.",
+            "examples": [
+              "a car hit the barrier"
+            ],
+            "synonyms": [
+              "crash into",
+              "run into",
+              "smash into",
+              "smack into",
+              "knock into",
+              "bump into",
+              "plow into",
+              "collide with",
+              "meet head-on",
+              "impact \"a car hit the barrier\""
+            ]
+          },
+          {
+            "definition": "touch or press (part of a machine or other device) in order to work it.",
+            "examples": [
+              "he picked up the phone and hit several buttons"
+            ]
+          },
+          {
+            "definition": "cause harm or distress to.",
+            "examples": [
+              "the area has been badly hit by business closures"
+            ]
+          },
+          {
+            "definition": "make a strongly worded criticism or attack.",
+            "examples": [
+              "he hit out at suppliers for hyping their products"
+            ],
+            "synonyms": [
+              "retaliate",
+              "respond",
+              "reply",
+              "react",
+              "counter",
+              "defend oneself \"if you're gonna come after me with lies and innuendo",
+              "I'm gonna hit back\""
+            ]
+          },
+          {
+            "definition": "(of a disaster) occur in and cause damage to (an area) suddenly.",
+            "examples": [
+              "the country was hit by a major earthquake"
+            ]
+          },
+          {
+            "definition": "attack and rob or kill.",
+            "examples": [
+              "if they're cops, maybe it's not a good idea to have them hit"
+            ]
+          },
+          {
+            "definition": "be affected by (an unfortunate and unexpected circumstance or event).",
+            "examples": [
+              "the opening of the town center hit a snag"
+            ]
+          },
+          {
+            "definition": "(of a missile or a person aiming one) strike (a target).",
+            "examples": [
+              "the sniper fired and hit a third man"
+            ]
+          },
+          {
+            "definition": "reach (a particular level, point, or figure).",
+            "examples": [
+              "his career hit rock bottom"
+            ],
+            "synonyms": [
+              "reach",
+              "touch",
+              "arrive at",
+              "rise to",
+              "climb to \"spending will hit $180 million\""
+            ]
+          },
+          {
+            "definition": "arrive at or go to (a place).",
+            "examples": [
+              "we hit a diner for coffee and doughnuts"
+            ]
+          },
+          {
+            "definition": "be suddenly and vividly realized by.",
+            "examples": [
+              "it hit her that I wanted to settle down here"
+            ],
+            "synonyms": [
+              "occur to",
+              "strike",
+              "dawn on",
+              "come to; Moreenter one's head",
+              "cross one's mind",
+              "come to mind",
+              "spring to one's mind \"it hit me that I had forgotten\""
+            ]
+          },
+          {
+            "definition": "(of a piece of music, film, or play) be successful.",
+            "examples": [
+              "actors are promised a pay increase if a show hits"
+            ]
+          },
+          {
+            "definition": "take effect.",
+            "examples": [
+              "we sat waiting for the caffeine to hit"
+            ]
+          },
+          {
+            "definition": "give (someone) a dose of a drug or an alcoholic drink."
+          },
+          {
+            "definition": "(of a product) become available and make an impact on.",
+            "examples": [
+              "the latest board game to hit the market"
+            ]
+          },
+          {
+            "definition": "used to express the idea that someone is taking up a pursuit or taking it seriously.",
+            "examples": [
+              "more and more teenagers are hitting the books"
+            ]
+          },
+          {
+            "definition": "ask someone for.",
+            "examples": [
+              "she was waiting for the right moment to hit her mother for some cash"
+            ]
+          },
+          {
+            "definition": "propel (a ball) with a bat, racket, stick, etc., to score or attempt to score runs or points in a game."
+          },
+          {
+            "definition": "score (runs or points) by hitting a ball with a bat, racket, or stick.",
+            "examples": [
+              "he had hit 25 home runs"
+            ]
+          },
+          {
+            "definition": "(of a batter) make a base hit."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an instance of striking or being struck.",
+            "examples": [
+              "few structures can withstand a hit from a speeding car"
+            ],
+            "synonyms": [
+              "blow",
+              "thump",
+              "punch",
+              "knock",
+              "bang",
+              "cuff",
+              "slap",
+              "smack",
+              "spank",
+              "tap",
+              "crack",
+              "stroke",
+              "welt",
+              "karate chop; Moreimpact",
+              "collision",
+              "bump",
+              "crash; informalwhack",
+              "thwack",
+              "wallop",
+              "bash",
+              "belt",
+              "clout",
+              "sock",
+              "swipe",
+              "clip",
+              "slug \"he received a hit from behind\""
+            ]
+          },
+          {
+            "definition": "a verbal attack.",
+            "examples": [
+              "he could not resist a hit at his friend's religiosity"
+            ]
+          },
+          {
+            "definition": "a murder, typically one planned and carried out by a criminal organization."
+          },
+          {
+            "definition": "short for base hit."
+          },
+          {
+            "definition": "an instance of striking the target aimed at.",
+            "examples": [
+              "one of the bombers had scored a direct hit"
+            ]
+          },
+          {
+            "definition": "a successful venture, especially in entertainment.",
+            "examples": [
+              "he was the director of many big hits"
+            ],
+            "synonyms": [
+              "success",
+              "box-office success",
+              "sellout",
+              "winner",
+              "triumph",
+              "sensation; Morebestseller; informalsmash",
+              "smash hit",
+              "megahit",
+              "knockout",
+              "crowd-pleaser",
+              "chart-topper",
+              "chart-buster",
+              "wow",
+              "biggie",
+              "number one \"he directed many big hits\""
+            ],
+            "antonyms": [
+              "failure"
+            ]
+          },
+          {
+            "definition": "a successful film, pop record, or song.",
+            "examples": [
+              "he was the director of many big hits"
+            ]
+          },
+          {
+            "definition": "a successful and popular person or thing.",
+            "examples": [
+              "handsome, smiling, and smart, he was an immediate hit"
+            ]
+          },
+          {
+            "definition": "an instance of identifying an item of data that matches the requirements of a search."
+          },
+          {
+            "definition": "an instance of a particular website being accessed by a user.",
+            "examples": [
+              "the site gets an average 350,000 hits per day"
+            ]
+          },
+          {
+            "definition": "a dose of a psychoactive drug."
+          }
+        ]
+      }
+    ]
+  }
+]

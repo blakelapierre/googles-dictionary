@@ -1,0 +1,148 @@
+{
+  "word": "dispute",
+  "syllables": [
+    "dis",
+    "pute"
+  ],
+  "pronunciation": "diˈspyo͞ot",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "dispute"
+        },
+        {
+          "part": "plural noun",
+          "variant": "disputes"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a disagreement, argument, or debate.",
+          "examples": [
+            "a territorial dispute between the two countries"
+          ],
+          "synonyms": [
+            "debate",
+            "discussion",
+            "disputation",
+            "argument",
+            "controversy",
+            "disagreement",
+            "quarreling",
+            "dissension",
+            "conflict",
+            "friction",
+            "strife",
+            "discord More\"a subject of dispute\"quarrel",
+            "argument",
+            "altercation",
+            "squabble",
+            "falling-out",
+            "disagreement",
+            "difference of opinion",
+            "clash",
+            "wrangle; informaltiff",
+            "spat",
+            "blowup",
+            "scrap",
+            "row",
+            "rhubarb; vulgar slangshitstorm \"they have settled their dispute\""
+          ],
+          "antonyms": [
+            "agreement"
+          ]
+        },
+        {
+          "definition": "a disagreement between management and employees that leads to an action of protest by the employees.",
+          "examples": [
+            "if this dispute cannot be resolved quickly, a formal strike is inevitable"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "dispute"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "disputes"
+        },
+        {
+          "part": "past tense",
+          "variant": "disputed"
+        },
+        {
+          "part": "past participle",
+          "variant": "disputed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "disputing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "argue about (something); discuss heatedly.",
+          "examples": [
+            "I disputed the charge on the bill"
+          ],
+          "synonyms": [
+            "debate",
+            "discuss",
+            "exchange views; Morequarrel",
+            "argue",
+            "disagree",
+            "clash",
+            "fall out",
+            "wrangle",
+            "bicker",
+            "squabble; informalhave words",
+            "have a tiff",
+            "have a spat \"George disputed with him\""
+          ]
+        },
+        {
+          "definition": "question whether (a statement or alleged fact) is true or valid.",
+          "examples": [
+            "the accusations are not disputed"
+          ],
+          "synonyms": [
+            "challenge",
+            "contest",
+            "question",
+            "call into question",
+            "impugn",
+            "quibble over",
+            "contradict",
+            "controvert",
+            "argue about",
+            "disagree with",
+            "take issue with; formalgainsay \"they disputed his proposals\""
+          ],
+          "antonyms": [
+            "accept"
+          ]
+        },
+        {
+          "definition": "compete for; strive to win.",
+          "examples": [
+            "the two drivers crashed while disputing the lead"
+          ]
+        },
+        {
+          "definition": "resist (a landing or advance).",
+          "examples": [
+            "I formed my line and prepared to dispute the advance of the foe"
+          ]
+        }
+      ]
+    }
+  ]
+}

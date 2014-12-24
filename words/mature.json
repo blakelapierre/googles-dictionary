@@ -1,0 +1,163 @@
+[
+  {
+    "word": "mature",
+    "syllables": [
+      "ma",
+      "ture"
+    ],
+    "pronunciation": "məˈCHo͝orməˈto͝or",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "mature"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fully developed physically; full-grown.",
+            "examples": [
+              "she was now a mature woman"
+            ],
+            "synonyms": [
+              "adult",
+              "grown-up",
+              "grown",
+              "fully grown",
+              "full-grown",
+              "of age",
+              "fully developed",
+              "in one's prime",
+              "middle-aged \"a mature woman\""
+            ],
+            "antonyms": [
+              "adolescent"
+            ]
+          },
+          {
+            "definition": "having reached an advanced stage of mental or emotional development characteristic of an adult.",
+            "examples": [
+              "comparative adjective: maturer; superlative adjective: maturest"
+            ]
+          },
+          {
+            "definition": "(of thought or planning) careful and thorough.",
+            "examples": [
+              "on mature reflection he decided they should not go"
+            ],
+            "synonyms": [
+              "careful",
+              "thorough",
+              "deep",
+              "considered \"on mature reflection",
+              "he decided not to go\""
+            ],
+            "antonyms": [
+              "impulsive",
+              "unthinking"
+            ]
+          },
+          {
+            "definition": "used euphemistically to describe someone as being middle-aged or old.",
+            "examples": [
+              "Miss Walker was a mature lady when she married"
+            ]
+          },
+          {
+            "definition": "(of a style) fully developed.",
+            "examples": [
+              "Van Gogh's mature work"
+            ]
+          },
+          {
+            "definition": "(of certain foodstuffs or drinks) ready for consumption.",
+            "examples": [
+              "ripe, ripened, mellow; ready to eat/drink mature cheese"
+            ],
+            "antonyms": [
+              "fresh",
+              "unripe"
+            ]
+          },
+          {
+            "definition": "denoting an economy, industry, or market that has developed to a point where substantial expansion and investment no longer takes place."
+          },
+          {
+            "definition": "(of a bill) due for payment."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "mature"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "matures"
+          },
+          {
+            "part": "past tense",
+            "variant": "matured"
+          },
+          {
+            "part": "past participle",
+            "variant": "matured"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "maturing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an organism) become physically mature.",
+            "examples": [
+              "children mature at different ages"
+            ],
+            "synonyms": [
+              "be fully grown",
+              "be full-grown; Morecome of age",
+              "reach adulthood",
+              "reach maturity \"kittens mature when they are about a year old\"develop",
+              "grow",
+              "evolve",
+              "bloom",
+              "blossom",
+              "flourish",
+              "thrive \"their friendship didn't have time to mature\""
+            ]
+          },
+          {
+            "definition": "(of a person) reach an advanced stage of mental or emotional development.",
+            "examples": [
+              "men mature as they grow older"
+            ],
+            "synonyms": [
+              "grow up",
+              "become more sensible",
+              "become more adult; blossom \"he's matured since he left home\""
+            ]
+          },
+          {
+            "definition": "(with reference to certain foodstuffs or drinks) become or cause to become ready for consumption.",
+            "examples": [
+              "leave the cheese to mature"
+            ],
+            "synonyms": [
+              "ripen",
+              "mellow; age \"leave the cheese to mature\""
+            ]
+          },
+          {
+            "definition": "(of an insurance policy, security, etc.) reach the end of its term and hence become payable."
+          }
+        ]
+      }
+    ]
+  }
+]

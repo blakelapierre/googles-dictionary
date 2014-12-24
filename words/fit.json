@@ -1,0 +1,367 @@
+[
+  {
+    "word": "fit",
+    "syllables": [
+      "fit"
+    ],
+    "pronunciation": "fit",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "fit"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "fitter"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "fittest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a thing) of a suitable quality, standard, or type to meet the required purpose.",
+            "examples": [
+              "the meat is fit for human consumption"
+            ],
+            "synonyms": [
+              "suitable",
+              "good enough; Morerelevant",
+              "pertinent",
+              "apt",
+              "appropriate",
+              "suited",
+              "apposite",
+              "fitting; archaicmeet \"fit for human habitation\""
+            ],
+            "antonyms": [
+              "unsuitable"
+            ]
+          },
+          {
+            "definition": "(of a person) having the requisite qualities or skills to undertake something competently.",
+            "examples": [
+              "he felt himself quite fit for battle"
+            ],
+            "synonyms": [
+              "competent",
+              "able",
+              "capable; Moreready",
+              "prepared",
+              "qualified",
+              "trained",
+              "equipped \"is he fit to look after a child?\""
+            ],
+            "antonyms": [
+              "incapable"
+            ]
+          },
+          {
+            "definition": "suitable and correct according to accepted social standards.",
+            "examples": [
+              "a fit subject on which to correspond"
+            ]
+          },
+          {
+            "definition": "(of a person or thing) having reached such an extreme condition as to be on the point of doing the thing specified.",
+            "examples": [
+              "he baited even his close companions until they were fit to kill him"
+            ],
+            "synonyms": [
+              "ready",
+              "prepared",
+              "all set",
+              "in a fit state",
+              "likely",
+              "about; informalpsyched up \"you look fit to commit murder!\""
+            ]
+          },
+          {
+            "definition": "ready.",
+            "examples": [
+              "well, are you fit?"
+            ]
+          },
+          {
+            "definition": "in good health, especially because of regular physical exercise.",
+            "examples": [
+              "I swim regularly to keep fit"
+            ],
+            "synonyms": [
+              "healthy",
+              "well",
+              "in good health",
+              "in (good) shape",
+              "in (good) trim",
+              "in good condition",
+              "fighting fit",
+              "as fit as a fiddle; Moreathletic",
+              "muscular",
+              "well built",
+              "strong",
+              "robust",
+              "hale and hearty",
+              "in the pink \"he looked tanned and fit\""
+            ],
+            "antonyms": [
+              "unwell"
+            ]
+          },
+          {
+            "definition": "sexually attractive; good-looking."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fits"
+          },
+          {
+            "part": "past tense",
+            "variant": "fitted"
+          },
+          {
+            "part": "past participle",
+            "variant": "fitted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fitting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be of the right shape and size for.",
+            "examples": [
+              "those jeans still fit me"
+            ]
+          },
+          {
+            "definition": "try clothing on (someone) in order to make or alter it to the correct size.",
+            "examples": [
+              "she was about to be fitted for her costume"
+            ]
+          },
+          {
+            "definition": "be of the right size, shape, or number to occupy a particular position or place.",
+            "examples": [
+              "Angela says we can all fit in her car"
+            ]
+          },
+          {
+            "definition": "fix or put (something) into place.",
+            "examples": [
+              "they fitted smoke alarms to their home"
+            ],
+            "synonyms": [
+              "lay",
+              "position",
+              "place",
+              "put in place/position",
+              "fix \"have your carpets fitted professionally\""
+            ]
+          },
+          {
+            "definition": "provide (something) with a particular component or article.",
+            "examples": [
+              "most tools can be fitted with a new handle"
+            ],
+            "synonyms": [
+              "equip",
+              "provide",
+              "supply",
+              "fit out",
+              "furnish \"cameras fitted with a backlight button\""
+            ]
+          },
+          {
+            "definition": "join or cause to join together to form a whole.",
+            "examples": [
+              "it took a while to figure out how the confounded things fit together"
+            ],
+            "synonyms": [
+              "join",
+              "connect",
+              "put together",
+              "piece together",
+              "attach",
+              "unite",
+              "link (together)",
+              "slot together \"concrete slabs were fitted together\""
+            ]
+          },
+          {
+            "definition": "be in agreement or harmony with; match.",
+            "examples": [
+              "the punishment should fit the crime"
+            ],
+            "synonyms": [
+              "match",
+              "suit",
+              "be appropriate to",
+              "correspond to",
+              "tally with",
+              "go with",
+              "accord with",
+              "correlate to",
+              "be congruous with",
+              "be congruent with",
+              "be consonant with \"a sentence that fits her crimes\""
+            ]
+          },
+          {
+            "definition": "(of an attribute, qualification, or skill) make (someone) suitable to fulfill a particular role or undertake a particular task.",
+            "examples": [
+              "an MS fits the student for a professional career"
+            ],
+            "synonyms": [
+              "qualify",
+              "prepare",
+              "make ready",
+              "train",
+              "groom \"an MA fits you for a professional career\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the particular way in which something, especially a garment or component, fits around or into something.",
+            "examples": [
+              "the dress was a perfect fit"
+            ]
+          },
+          {
+            "definition": "the particular way in which a thing matches something else.",
+            "examples": [
+              "a close fit between teachers' qualifications and their teaching responsibilities"
+            ],
+            "synonyms": [
+              "correlation",
+              "correspondence",
+              "agreement",
+              "consistency",
+              "equivalence",
+              "match",
+              "similarity",
+              "compatibility",
+              "concurrence \"the degree of fit between a school's philosophy and practice\""
+            ]
+          },
+          {
+            "definition": "the correspondence between observed data and the values expected by theory."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fit",
+    "syllables": [
+      "fit"
+    ],
+    "pronunciation": "fit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sudden uncontrollable outbreak of intense emotion, laughter, coughing, or other action or activity.",
+            "examples": [
+              "in a fit of temper"
+            ],
+            "synonyms": [
+              "tantrum",
+              "fit of temper",
+              "outburst of anger/rage",
+              "frenzy; Moreinformalblowout",
+              "hissy fit",
+              "conniption (fit) \"my mother would have a fit if she knew\""
+            ]
+          },
+          {
+            "definition": "a sudden attack of convulsions and/or loss of consciousness, typical of epilepsy and some other medical conditions.",
+            "examples": [
+              "he thought she was having a fit"
+            ],
+            "synonyms": [
+              "convulsion",
+              "spasm",
+              "paroxysm",
+              "seizure",
+              "attack; ictus \"an epileptic fit\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fit",
+    "syllables": [
+      "fit"
+    ],
+    "pronunciation": "fit",
+    "parts": [
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fits"
+          },
+          {
+            "part": "noun",
+            "variant": "fytte"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fyttes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a section of a poem."
+          }
+        ]
+      }
+    ]
+  }
+]

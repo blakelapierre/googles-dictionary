@@ -1,0 +1,159 @@
+[
+  {
+    "word": "craft",
+    "syllables": [
+      "craft"
+    ],
+    "pronunciation": "kraft",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "craft"
+          },
+          {
+            "part": "plural noun",
+            "variant": "crafts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an activity involving skill in making things by hand.",
+            "examples": [
+              "the craft of bookbinding"
+            ],
+            "synonyms": [
+              "activity",
+              "occupation",
+              "profession",
+              "work",
+              "line of work",
+              "pursuit \"the historian's craft\""
+            ]
+          },
+          {
+            "definition": "work or objects made by hand.",
+            "examples": [
+              "modifier noun: craft"
+            ]
+          },
+          {
+            "definition": "skill in carrying out one's work.",
+            "examples": [
+              "a player with plenty of craft"
+            ],
+            "synonyms": [
+              "skill",
+              "skillfulness",
+              "ability",
+              "capability",
+              "competence",
+              "art",
+              "talent",
+              "flair",
+              "artistry",
+              "dexterity",
+              "craftsmanship",
+              "expertise",
+              "proficiency",
+              "adroitness",
+              "adeptness",
+              "deftness",
+              "virtuosity \"a player with plenty of craft\""
+            ]
+          },
+          {
+            "definition": "denoting or relating to food or drink made in a traditional or non-mechanized way by an individual or a small company.",
+            "examples": [
+              "craft brewing"
+            ]
+          },
+          {
+            "definition": "skill used in deceiving others.",
+            "examples": [
+              "her cousin was not her equal in guile and evasive craft"
+            ],
+            "synonyms": [
+              "cunning",
+              "craftiness",
+              "guile",
+              "wiliness",
+              "artfulness",
+              "deviousness",
+              "slyness",
+              "trickery",
+              "duplicity",
+              "dishonesty",
+              "deceit",
+              "deceitfulness",
+              "deception",
+              "intrigue",
+              "subterfuge; Morewiles",
+              "ploys",
+              "ruses",
+              "schemes",
+              "stratagems",
+              "tricks \"she used craft to get what she wanted\""
+            ]
+          },
+          {
+            "definition": "the members of a skilled profession."
+          },
+          {
+            "definition": "the brotherhood of Freemasons.",
+            "examples": [
+              "noun: Craft; noun: the Craft"
+            ]
+          },
+          {
+            "definition": "a boat or ship.",
+            "examples": [
+              "sailing craft"
+            ]
+          },
+          {
+            "definition": "an airplane or spaceship.",
+            "examples": [
+              "vessel, ship, boat; bark/barque a sailing craft"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "craft"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "crafts"
+          },
+          {
+            "part": "past tense",
+            "variant": "crafted"
+          },
+          {
+            "part": "past participle",
+            "variant": "crafted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "crafting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exercise skill in making (something).",
+            "examples": [
+              "he crafted the chair lovingly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

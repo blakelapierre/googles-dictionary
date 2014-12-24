@@ -1,0 +1,77 @@
+[
+  {
+    "word": "cabinet",
+    "syllables": [
+      "cab",
+      "i",
+      "net"
+    ],
+    "pronunciation": "ˈkab(ə)nət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cabinet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cabinets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cupboard with drawers or shelves for storing or displaying articles.",
+            "examples": [
+              "a medicine cabinet"
+            ],
+            "synonyms": [
+              "cupboard",
+              "bureau",
+              "bookcase",
+              "chest of drawers",
+              "sideboard",
+              "buffet",
+              "dresser",
+              "credenza",
+              "highboy",
+              "tallboy",
+              "wardrobe",
+              "chiffonier",
+              "armoire",
+              "wall unit; Morechina cabinet",
+              "file cabinet",
+              "medicine cabinet \"a walnut cabinet\""
+            ]
+          },
+          {
+            "definition": "a wooden box, container, or piece of furniture housing a radio, television set, or speaker."
+          },
+          {
+            "definition": "(in the US) a body of advisers to the president, composed of the heads of the executive departments of the government.",
+            "examples": [
+              "a cabinet meeting"
+            ],
+            "synonyms": [
+              "council",
+              "administration",
+              "ministry",
+              "executive",
+              "senate \"a meeting of the new cabinet\""
+            ]
+          },
+          {
+            "definition": "(in the UK, Canada, and other Commonwealth countries) the committee of senior ministers responsible for controlling government policy.",
+            "examples": [
+              "noun: Cabinet"
+            ]
+          },
+          {
+            "definition": "a small private room."
+          }
+        ]
+      }
+    ]
+  }
+]

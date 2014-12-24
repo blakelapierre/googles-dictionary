@@ -1,0 +1,126 @@
+{
+  "word": "comment",
+  "syllables": [
+    "com",
+    "ment"
+  ],
+  "pronunciation": "ˈkäment",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "comment"
+        },
+        {
+          "part": "plural noun",
+          "variant": "comments"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a verbal or written remark expressing an opinion or reaction.",
+          "examples": [
+            "you asked for comments on the new proposals"
+          ],
+          "synonyms": [
+            "remark",
+            "observation",
+            "statement",
+            "utterance; Morepronouncement",
+            "judgment",
+            "reflection",
+            "opinion",
+            "view; criticism \"their comments on her appearance\""
+          ]
+        },
+        {
+          "definition": "discussion, especially of a critical nature, of an issue or event.",
+          "examples": [
+            "the plans were not sent to the council for comment"
+          ],
+          "synonyms": [
+            "discussion",
+            "debate; interest \"a great deal of comment\""
+          ]
+        },
+        {
+          "definition": "an indirect expression of the views of the creator of an artistic work.",
+          "examples": [
+            "their second single is a comment on the commercial nature of raves"
+          ]
+        },
+        {
+          "definition": "an explanatory note in a book or other written text.",
+          "examples": [
+            "note, annotation, footnote, gloss, commentary, explanation a comment in the margin"
+          ]
+        },
+        {
+          "definition": "a written explanation or commentary."
+        },
+        {
+          "definition": "a piece of specially tagged text placed within a program to help other users to understand it, which the computer ignores when running the program."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "comment"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "comments"
+        },
+        {
+          "part": "past tense",
+          "variant": "commented"
+        },
+        {
+          "part": "past participle",
+          "variant": "commented"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "commenting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "express (an opinion or reaction).",
+          "examples": [
+            "the review commented that the book was agreeably written"
+          ],
+          "synonyms": [
+            "remark on",
+            "speak about",
+            "talk about",
+            "discuss",
+            "mention More\"they commented on the food\"remark",
+            "observe",
+            "reflect",
+            "say",
+            "state",
+            "declare",
+            "announce; interpose",
+            "interject \"“It will soon be night",
+            "” he commented\""
+          ]
+        },
+        {
+          "definition": "place a piece of specially tagged explanatory text within (a program) to assist other users."
+        },
+        {
+          "definition": "turn (part of a program) into a comment so that the computer ignores it when running the program.",
+          "examples": [
+            "you could try commenting out that line"
+          ]
+        }
+      ]
+    }
+  ]
+}

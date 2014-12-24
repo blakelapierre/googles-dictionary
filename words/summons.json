@@ -1,0 +1,177 @@
+[
+  {
+    "word": "summons",
+    "syllables": [
+      "sum",
+      "mons"
+    ],
+    "pronunciation": "ˈsəmənz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "summons"
+          },
+          {
+            "part": "plural noun",
+            "variant": "summonses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an order to appear before a judge or magistrate, or the writ containing it.",
+            "examples": [
+              "a summons for nonpayment of a parking ticket"
+            ],
+            "synonyms": [
+              "writ",
+              "subpoena",
+              "warrant",
+              "court order; Morecitation \"the court issued a summons\"order",
+              "directive",
+              "command",
+              "instruction",
+              "demand",
+              "decree",
+              "injunction",
+              "edict",
+              "call",
+              "request \"a summons to go to the boss's office\""
+            ]
+          },
+          {
+            "definition": "an authoritative or urgent call to someone to be present or to do something.",
+            "examples": [
+              "they might receive a summons to fly to France next day"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbLaw",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "summons"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "summonses"
+          },
+          {
+            "part": "past tense",
+            "variant": "summonsed"
+          },
+          {
+            "part": "past participle",
+            "variant": "summonsed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "summonsing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "serve (someone) with a summons.",
+            "examples": [
+              "he has been summonsed to appear in court next month"
+            ],
+            "synonyms": [
+              "serve with a summons",
+              "summon",
+              "subpoena",
+              "cite",
+              "serve with a citation \"he was summonsed to appear in court\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "summon",
+    "syllables": [
+      "sum",
+      "mon"
+    ],
+    "pronunciation": "ˈsəmən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "summons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "authoritatively or urgently call on (someone) to be present, especially as a defendant or witness in a law court.",
+            "examples": [
+              "the pope summoned Anselm to Rome"
+            ],
+            "synonyms": [
+              "send for",
+              "call for",
+              "request the presence of; Moreask",
+              "invite \"the embassy summoned her\""
+            ]
+          },
+          {
+            "definition": "urgently demand (help).",
+            "examples": [
+              "she summoned medical assistance"
+            ]
+          },
+          {
+            "definition": "call people to attend (a meeting).",
+            "examples": [
+              "he summoned a meeting of head delegates"
+            ],
+            "synonyms": [
+              "convene",
+              "assemble",
+              "order",
+              "call",
+              "announce; formalconvoke \"the chair summoned a meeting\""
+            ]
+          },
+          {
+            "definition": "bring to the surface (a particular quality or reaction) from within oneself.",
+            "examples": [
+              "she managed to summon up a smile"
+            ],
+            "synonyms": [
+              "muster",
+              "gather",
+              "collect",
+              "rally",
+              "screw up \"he summoned the courage to move closer\""
+            ]
+          },
+          {
+            "definition": "call an image to mind.",
+            "examples": [
+              "names that summon up images of far-off places"
+            ],
+            "synonyms": [
+              "call to mind",
+              "call up/forth",
+              "conjure up",
+              "evoke",
+              "recall",
+              "revive",
+              "arouse",
+              "kindle",
+              "awaken",
+              "spark (off) \"summoning up their memories of home\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

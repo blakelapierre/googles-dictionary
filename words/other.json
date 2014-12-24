@@ -1,0 +1,82 @@
+{
+  "word": "other",
+  "syllables": [
+    "oth",
+    "er"
+  ],
+  "pronunciation": "ˈəT͟Hər",
+  "parts": [
+    {
+      "part": "adjective & pronoun",
+      "variants": [
+        {
+          "part": "pronoun",
+          "variant": "others"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "used to refer to a person or thing that is different or distinct from one already mentioned or known about.",
+          "examples": [
+            "stick the camera on a tripod or some other means of support"
+          ]
+        },
+        {
+          "definition": "the alternative of two.",
+          "examples": [
+            "the other side of the page"
+          ],
+          "synonyms": [
+            "alternative",
+            "different",
+            "dissimilar",
+            "disparate",
+            "distinct",
+            "separate",
+            "contrasting \"these homes use other fuels\""
+          ]
+        },
+        {
+          "definition": "those remaining in a group; those not already mentioned.",
+          "examples": [
+            "they took the other three away in an ambulance"
+          ]
+        },
+        {
+          "definition": "further; additional.",
+          "examples": [
+            "one other word of advice"
+          ],
+          "synonyms": [
+            "more",
+            "further",
+            "additional",
+            "extra",
+            "added",
+            "supplementary \"are there any other questions?\""
+          ]
+        },
+        {
+          "definition": "that which is distinct from, different from, or opposite to something or oneself."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "others"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "view or treat (a person or group of people) as intrinsically different from and alien to oneself.",
+          "examples": [
+            "a critique of the ways in which the elderly are othered by society"
+          ]
+        }
+      ]
+    }
+  ]
+}

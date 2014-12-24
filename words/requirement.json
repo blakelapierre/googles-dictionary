@@ -1,0 +1,50 @@
+[
+  {
+    "word": "requirement",
+    "syllables": [
+      "re",
+      "quire",
+      "ment"
+    ],
+    "pronunciation": "rəˈkwī(ə)rmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "requirement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "requirements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is needed or wanted.",
+            "examples": [
+              "choose the type of window that suits your requirements best"
+            ]
+          },
+          {
+            "definition": "a thing that is compulsory; a necessary condition.",
+            "examples": [
+              "applicants must satisfy the normal entry requirements"
+            ],
+            "synonyms": [
+              "need",
+              "wish",
+              "demand",
+              "want",
+              "necessity",
+              "essential",
+              "prerequisite",
+              "stipulation \"good spelling is a requirement of the job\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

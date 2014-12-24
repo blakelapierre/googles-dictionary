@@ -1,0 +1,92 @@
+[
+  {
+    "word": "estate",
+    "syllables": [
+      "es",
+      "tate"
+    ],
+    "pronunciation": "iˈstāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "estate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "estates"
+          },
+          {
+            "part": "noun",
+            "variant": "estate of the realm"
+          },
+          {
+            "part": "plural noun",
+            "variant": "estates of the realm"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area or amount of land or property, in particular.",
+            "examples": [
+              "property, grounds, garden(s), park, parkland, land(s), landholding, manor, territory; seigneury the Knowltons' estate"
+            ]
+          },
+          {
+            "definition": "an extensive area of land in the country, usually with a large house, owned by one person or organization."
+          },
+          {
+            "definition": "all the money and property owned by a particular person, especially at death.",
+            "examples": [
+              "in his will, he divided his estate between his wife and daughter"
+            ],
+            "synonyms": [
+              "assets",
+              "capital",
+              "wealth",
+              "riches",
+              "holdings",
+              "fortune; Moreproperty",
+              "effects",
+              "possessions",
+              "belongings; goods and chattels \"he left an estate worth $610",
+              "000\""
+            ]
+          },
+          {
+            "definition": "a property where coffee, rubber, grapes, or other crops are cultivated.",
+            "examples": [
+              "plantation, farm, holding; Moreforest, vineyard; ranch \"a coffee estate\"Moreforest, vineyard; ranch a coffee estate"
+            ]
+          },
+          {
+            "definition": "a housing or commercial development."
+          },
+          {
+            "definition": "a class or order regarded as forming part of the body politic, in particular (in Britain), one of the three groups constituting Parliament, now the Lords Spiritual (the heads of the Church), the Lords Temporal (the peerage), and the Commons. They are also known as the three estates."
+          },
+          {
+            "definition": "a particular class or category of people in society.",
+            "examples": [
+              "the spiritual welfare of all estates of men"
+            ]
+          },
+          {
+            "definition": "a particular state, period, or condition in life.",
+            "examples": [
+              "programs for the improvement of man's estate"
+            ]
+          },
+          {
+            "definition": "grandeur, pomp, or state.",
+            "examples": [
+              "a chamber without a chair of estate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

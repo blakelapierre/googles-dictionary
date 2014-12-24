@@ -1,0 +1,56 @@
+[
+  {
+    "word": "pomp",
+    "syllables": [
+      "pomp"
+    ],
+    "pronunciation": "pämp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pomp"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ceremony and splendid display, especially at a public event.",
+            "examples": [
+              "St. Paul's was perfectly adapted to pomp and circumstance"
+            ],
+            "synonyms": [
+              "ceremony",
+              "ceremonial",
+              "solemnity",
+              "ritual",
+              "display",
+              "spectacle",
+              "pageantry; Moreshow",
+              "showiness",
+              "ostentation",
+              "splendor",
+              "grandeur",
+              "magnificence",
+              "majesty",
+              "stateliness",
+              "glory",
+              "opulence",
+              "brilliance",
+              "drama",
+              "resplendence",
+              "splendidness; informalrazzmatazz \"the pomp of a royal wedding\""
+            ]
+          },
+          {
+            "definition": "ostentatious boastfulness or vanity.",
+            "examples": [
+              "plural noun: pomps"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

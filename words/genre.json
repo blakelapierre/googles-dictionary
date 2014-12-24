@@ -1,0 +1,33 @@
+[
+  {
+    "word": "genre",
+    "syllables": [
+      "gen",
+      "re"
+    ],
+    "pronunciation": "ˈZHänrə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "genre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "genres"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
+            "examples": [
+              "category, class, classification, group, set, list; Moretype, sort, kind, breed, variety, style, model, school, stamp, cast, ilk \"historical fiction is my favorite genre of literature\"Moretype, sort, kind, breed, variety, style, model, school, stamp, cast, ilk historical fiction is my favorite genre of literature"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

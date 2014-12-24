@@ -1,0 +1,223 @@
+[
+  {
+    "word": "ride",
+    "syllables": [
+      "ride"
+    ],
+    "pronunciation": "rīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ride"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rides"
+          },
+          {
+            "part": "past tense",
+            "variant": "rode"
+          },
+          {
+            "part": "past participle",
+            "variant": "ridden"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "riding"
+          },
+          {
+            "part": "suffix",
+            "variant": "-ridden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sit on and control the movement of (an animal, especially a horse), typically as a recreation or sport.",
+            "examples": [
+              "Diana went to watch him ride his horse"
+            ],
+            "synonyms": [
+              "sit on",
+              "mount",
+              "bestride; Moremanage",
+              "handle",
+              "control \"she can ride a horse\""
+            ]
+          },
+          {
+            "definition": "travel on a horse or other animal.",
+            "examples": [
+              "we rode on horseback"
+            ],
+            "synonyms": [
+              "travel",
+              "move",
+              "proceed",
+              "make one's way; Moredrive",
+              "cycle; trot",
+              "canter",
+              "gallop \"they rode through the city streets in a triumphant motorcade\""
+            ]
+          },
+          {
+            "definition": "sit on and control (a bicycle or motorcycle) for recreation or as a means of transport.",
+            "examples": [
+              "he rode a Harley Davidson across the U.S"
+            ]
+          },
+          {
+            "definition": "travel in or on (a vehicle) as a passenger.",
+            "examples": [
+              "I started riding on the buses"
+            ]
+          },
+          {
+            "definition": "travel in (a vehicle) or on (a public transport system) as a passenger.",
+            "examples": [
+              "she rides the bus across 42nd Street"
+            ]
+          },
+          {
+            "definition": "go through or over (an area) on horseback, a bicycle, etc.",
+            "examples": [
+              "ride the full length of the Ridgeway"
+            ]
+          },
+          {
+            "definition": "compete in (a race) on horseback or on a bicycle or motorcycle.",
+            "examples": [
+              "I rode a good race"
+            ]
+          },
+          {
+            "definition": "(of a vehicle, animal, etc.) be of a particular character for riding on or in.",
+            "examples": [
+              "the van rode as well as some cars of twice the price"
+            ]
+          },
+          {
+            "definition": "transport (someone) in a vehicle.",
+            "examples": [
+              "the taxi driver who rode Kelly into the airport not long ago"
+            ]
+          },
+          {
+            "definition": "be carried or supported by (something with a great deal of momentum).",
+            "examples": [
+              "a stream of young surfers fighting the elements to ride the waves"
+            ]
+          },
+          {
+            "definition": "project or overlap.",
+            "examples": [
+              "when two lithospheric plates collide, one tends to ride over the other"
+            ]
+          },
+          {
+            "definition": "(of a vessel) sail or float.",
+            "examples": [
+              "a large cedar barque rode at anchor"
+            ]
+          },
+          {
+            "definition": "be full of or dominated by.",
+            "examples": [
+              "you must not think him ridden with angst"
+            ]
+          },
+          {
+            "definition": "yield to (a blow) so as to reduce its impact.",
+            "examples": [
+              "Harrison drew back his jaw as if riding the blow"
+            ]
+          },
+          {
+            "definition": "have sexual intercourse with."
+          },
+          {
+            "definition": "annoy, pester, or tease.",
+            "examples": [
+              "if you don't give all the kids a chance to play, the parents ride you"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ride"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rides"
+          },
+          {
+            "part": "noun",
+            "variant": "ride cymbal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ride cymbals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a journey made on horseback, on a bicycle or motorcycle, or in a vehicle.",
+            "examples": [
+              "did you enjoy your ride?"
+            ],
+            "synonyms": [
+              "trip",
+              "journey",
+              "drive",
+              "run",
+              "excursion",
+              "outing",
+              "jaunt",
+              "road trip; Morelift; informalspin \"a ride in the new car\""
+            ]
+          },
+          {
+            "definition": "a person giving someone a lift in their vehicle.",
+            "examples": [
+              "their ride into town had dropped them off near the bridge"
+            ]
+          },
+          {
+            "definition": "a motor vehicle.",
+            "examples": [
+              "that green Chevy over there, that's my ride"
+            ]
+          },
+          {
+            "definition": "the quality of comfort or smoothness offered by a vehicle while it is being driven, as perceived by the driver or passenger.",
+            "examples": [
+              "the ride is comfortable, though there is a slight roll when cornering"
+            ]
+          },
+          {
+            "definition": "a path, typically one through woods, for riding horses."
+          },
+          {
+            "definition": "a demonstration of horse riding as an entertainment."
+          },
+          {
+            "definition": "a roller coaster, merry-go-round, or other amusement ridden at a fair or amusement park."
+          },
+          {
+            "definition": "an act of sexual intercourse."
+          },
+          {
+            "definition": "a cymbal used for keeping up a continuous rhythm."
+          }
+        ]
+      }
+    ]
+  }
+]

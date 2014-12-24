@@ -1,0 +1,89 @@
+{
+  "word": "interrupt",
+  "syllables": [
+    "in",
+    "ter",
+    "rupt"
+  ],
+  "pronunciation": "ˌin(t)əˈrəpt",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "interrupt"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "interrupts"
+        },
+        {
+          "part": "past tense",
+          "variant": "interrupted"
+        },
+        {
+          "part": "past participle",
+          "variant": "interrupted"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "interrupting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "stop the continuous progress of (an activity or process).",
+          "examples": [
+            "the buzzer interrupted his thoughts"
+          ],
+          "synonyms": [
+            "cut in (on)",
+            "break in (on)",
+            "barge in (on)",
+            "intervene (in)",
+            "put one's oar in",
+            "put one's two cents in",
+            "interject; Moreinformalbutt in (on)",
+            "chime in (with) \"she opened her mouth to interrupt\"suspend",
+            "adjourn",
+            "discontinue",
+            "break off",
+            "put on hold; stop",
+            "halt",
+            "cease",
+            "end",
+            "bring to an end/close; informalput on ice",
+            "put on the back burner \"the band had to interrupt their tour\""
+          ]
+        },
+        {
+          "definition": "stop (someone speaking) by saying or doing something.",
+          "examples": [
+            "“Of course …” Shepherd began, but his son interrupted him"
+          ]
+        },
+        {
+          "definition": "break the continuity of (a line or surface).",
+          "examples": [
+            "the coastal plain is interrupted by chains of large lagoons"
+          ],
+          "synonyms": [
+            "break (up) by",
+            "punctuate by/with; Morepepper with",
+            "strew with",
+            "dot with",
+            "scatter with",
+            "sprinkle with \"the coastal plain is interrupted by large lagoons\""
+          ]
+        },
+        {
+          "definition": "obstruct (something, especially a view).",
+          "examples": [
+            "obstruct, impede, block, restrict, hamper their view was interrupted by houses"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "denote",
+    "syllables": [
+      "de",
+      "note"
+    ],
+    "pronunciation": "dəˈnōt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "denoted"
+          },
+          {
+            "part": "past participle",
+            "variant": "denoted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be a sign of; indicate.",
+            "examples": [
+              "this mark denotes purity and quality"
+            ],
+            "synonyms": [
+              "designate",
+              "indicate",
+              "be a mark of",
+              "signify",
+              "signal",
+              "symbolize",
+              "represent",
+              "mean; Moretypify",
+              "characterize",
+              "distinguish",
+              "mark",
+              "identify \"the headdresses denoted warriors\"suggest",
+              "point to",
+              "smack of",
+              "indicate",
+              "show",
+              "reveal",
+              "intimate",
+              "imply",
+              "convey",
+              "betray",
+              "bespeak",
+              "spell \"his manner denoted an inner strength\""
+            ]
+          },
+          {
+            "definition": "stand as a name or symbol for.",
+            "examples": [
+              "the level of output per firm, denoted by X"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

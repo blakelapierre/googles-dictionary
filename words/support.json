@@ -1,0 +1,297 @@
+[
+  {
+    "word": "support",
+    "syllables": [
+      "sup",
+      "port"
+    ],
+    "pronunciation": "səˈpôrt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "support"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "supports"
+          },
+          {
+            "part": "past tense",
+            "variant": "supported"
+          },
+          {
+            "part": "past participle",
+            "variant": "supported"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "supporting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bear all or part of the weight of; hold up.",
+            "examples": [
+              "the dome was supported by a hundred white columns"
+            ],
+            "synonyms": [
+              "hold up",
+              "bear",
+              "carry",
+              "prop up",
+              "keep up",
+              "brace",
+              "shore up",
+              "underpin",
+              "buttress",
+              "reinforce",
+              "undergird \"a roof supported by pillars\""
+            ]
+          },
+          {
+            "definition": "produce enough food and water for; be capable of sustaining.",
+            "examples": [
+              "the land had lost its capacity to support life"
+            ]
+          },
+          {
+            "definition": "be capable of fulfilling (a role) adequately.",
+            "examples": [
+              "tutors gain practical experience that helps them support their tutoring role"
+            ]
+          },
+          {
+            "definition": "endure; tolerate.",
+            "examples": [
+              "at work during the day I could support the grief"
+            ]
+          },
+          {
+            "definition": "give assistance to, especially financially; enable to function or act.",
+            "examples": [
+              "the government gives $2.5 billion a year to support the activities of the voluntary sector"
+            ],
+            "synonyms": [
+              "help",
+              "aid",
+              "assist; Morecontribute to",
+              "back",
+              "subsidize",
+              "fund",
+              "finance; informalbankroll \"the money supports charitable projects\"back",
+              "champion",
+              "help",
+              "assist",
+              "aid",
+              "abet",
+              "favor",
+              "encourage; vote for",
+              "stand behind",
+              "defend; sponsor",
+              "second",
+              "promote",
+              "endorse",
+              "sanction; informalthrow one's weight behind \"an independent candidate supported by locals\""
+            ],
+            "antonyms": [
+              "oppose"
+            ]
+          },
+          {
+            "definition": "provide with a home and the necessities of life.",
+            "examples": [
+              "my main concern was to support my family"
+            ],
+            "synonyms": [
+              "provide for",
+              "maintain",
+              "sustain",
+              "keep",
+              "take care of",
+              "look after \"he struggled to support his family\""
+            ]
+          },
+          {
+            "definition": "give approval, comfort, or encouragement to.",
+            "examples": [
+              "I like to visit her to support her"
+            ],
+            "synonyms": [
+              "comfort",
+              "encourage",
+              "sustain",
+              "buoy up",
+              "hearten",
+              "fortify",
+              "console",
+              "solace",
+              "reassure; Moreinformalbuck up \"she supported him to the end\"advocate",
+              "promote",
+              "champion",
+              "back",
+              "espouse",
+              "be in favor of",
+              "recommend",
+              "defend",
+              "subscribe to \"they support human rights\""
+            ],
+            "antonyms": [
+              "neglect",
+              "abandon"
+            ]
+          },
+          {
+            "definition": "suggest the truth of; corroborate.",
+            "examples": [
+              "the studies support our findings"
+            ],
+            "synonyms": [
+              "substantiate",
+              "back up",
+              "bear out",
+              "corroborate",
+              "confirm",
+              "attest to",
+              "verify",
+              "prove",
+              "validate",
+              "authenticate",
+              "endorse",
+              "ratify",
+              "undergird \"evidence to support the argument\""
+            ],
+            "antonyms": [
+              "contradict",
+              "undermine"
+            ]
+          },
+          {
+            "definition": "be actively interested in and concerned for the success of (a particular sports team)."
+          },
+          {
+            "definition": "(of an actor or a role) important in a play or film but subordinate to the leading parts.",
+            "examples": [
+              "adjective: supporting"
+            ]
+          },
+          {
+            "definition": "(of a pop or rock group or performer) function as a secondary act to (another) at a concert."
+          },
+          {
+            "definition": "(of a computer or operating system) allow the use or operation of (a program, language, or device).",
+            "examples": [
+              "the new versions do not support the graphical user interface standard"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "support"
+          },
+          {
+            "part": "plural noun",
+            "variant": "supports"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that bears the weight of something or keeps it upright.",
+            "examples": [
+              "the best support for a camera is a tripod"
+            ],
+            "synonyms": [
+              "pillar",
+              "post",
+              "prop",
+              "upright",
+              "crutch",
+              "plinth",
+              "brace",
+              "buttress; Morebase",
+              "substructure",
+              "foundation",
+              "underpinning \"bridge supports\""
+            ]
+          },
+          {
+            "definition": "the action or state of bearing the weight of something or someone or of being so supported.",
+            "examples": [
+              "she clutched the sideboard for support"
+            ]
+          },
+          {
+            "definition": "material assistance.",
+            "examples": [
+              "he urged that military support be sent to protect humanitarian convoys"
+            ],
+            "synonyms": [
+              "maintenance",
+              "keep",
+              "sustenance",
+              "subsistence; Morealimony \"she pays support for her ex-husband\"contributions",
+              "backing",
+              "donations",
+              "money",
+              "subsidy",
+              "funding",
+              "funds",
+              "finance",
+              "capital \"support for community services\"backing",
+              "help",
+              "assistance",
+              "aid",
+              "endorsement",
+              "approval; votes",
+              "patronage \"they voiced their support for him\"advocacy",
+              "backing",
+              "promotion",
+              "championship",
+              "espousal",
+              "defense",
+              "recommendation \"a surge in support for decentralization\""
+            ]
+          },
+          {
+            "definition": "comfort and emotional help offered to someone in distress.",
+            "examples": [
+              "she's been through a bad time and needs our support"
+            ],
+            "synonyms": [
+              "encouragement",
+              "friendship",
+              "strength",
+              "consolation",
+              "solace",
+              "succor",
+              "relief More\"I was lucky to have their support\"comfort",
+              "help",
+              "assistance",
+              "tower of strength",
+              "prop",
+              "mainstay \"he was a great support\""
+            ]
+          },
+          {
+            "definition": "approval and encouragement.",
+            "examples": [
+              "the policies of reform enjoy widespread support"
+            ]
+          },
+          {
+            "definition": "a secondary act at a pop or rock concert."
+          },
+          {
+            "definition": "technical help given to the user of a computer or other product."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "equation",
+    "syllables": [
+      "e",
+      "qua",
+      "tion"
+    ],
+    "pronunciation": "əˈkwāZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "equation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "equations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a statement that the values of two mathematical expressions are equal (indicated by the sign =).",
+            "examples": [
+              "mathematical problem, sum, calculation, question a quadratic equation"
+            ]
+          },
+          {
+            "definition": "the process of equating one thing with another.",
+            "examples": [
+              "the equation of science with objectivity"
+            ],
+            "synonyms": [
+              "identification",
+              "association",
+              "connection",
+              "matching; Moreequivalence",
+              "correspondence",
+              "agreement",
+              "comparison \"the equation of success with riches\""
+            ]
+          },
+          {
+            "definition": "a situation or problem in which several factors must be taken into account.",
+            "examples": [
+              "noun: the equation"
+            ]
+          },
+          {
+            "definition": "a symbolic representation of the changes that occur in a chemical reaction, expressed in terms of the formulae of the molecules or other species involved."
+          }
+        ]
+      }
+    ]
+  }
+]

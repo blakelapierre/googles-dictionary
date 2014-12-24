@@ -1,0 +1,132 @@
+[
+  {
+    "word": "allow",
+    "syllables": [
+      "al",
+      "low"
+    ],
+    "pronunciation": "əˈlou",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "allows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "admit (an event or activity) as legal or acceptable.",
+            "examples": [
+              "a plan to allow Sunday shopping"
+            ]
+          },
+          {
+            "definition": "give (someone) permission to do something.",
+            "examples": [
+              "the dissident was allowed to leave the country"
+            ],
+            "synonyms": [
+              "permit",
+              "let",
+              "authorize",
+              "give permission for",
+              "give authorization for",
+              "sanction",
+              "license",
+              "enable",
+              "entitle; Moreconsent to",
+              "assent to",
+              "give one's consent to/for",
+              "give one's assent to/for",
+              "give one's blessing to/for",
+              "give the nod to",
+              "acquiesce to",
+              "agree to",
+              "approve; tolerate",
+              "brook; informalgive the go-ahead to/for",
+              "give the thumbs up to/for",
+              "OK",
+              "give the OK to/for",
+              "give the green light to/for; formalaccede to \"we don't allow open fires at this campground\""
+            ],
+            "antonyms": [
+              "prevent",
+              "forbid"
+            ]
+          },
+          {
+            "definition": "permit (someone) to have (something).",
+            "examples": [
+              "he was allowed his first sip of Scotch and soda"
+            ]
+          },
+          {
+            "definition": "permit (someone) to enter a place or go in a particular direction.",
+            "examples": [
+              "the river was patrolled and few people were allowed across"
+            ]
+          },
+          {
+            "definition": "give the necessary time or opportunity for.",
+            "examples": [
+              "they agreed to a ceasefire to allow talks with the government"
+            ]
+          },
+          {
+            "definition": "make provision or provide scope for (something).",
+            "examples": [
+              "the house was demolished to allow for road widening"
+            ]
+          },
+          {
+            "definition": "take (something) into consideration when making plans or calculations.",
+            "examples": [
+              "income rose by 11 percent allowing for inflation"
+            ]
+          },
+          {
+            "definition": "provide or set aside (a specified amount of something) for a specific purpose.",
+            "examples": [
+              "allow an hour or so for driving"
+            ],
+            "synonyms": [
+              "set aside",
+              "allocate",
+              "allot",
+              "earmark",
+              "designate",
+              "assign",
+              "leave \"allow an hour or so for driving\""
+            ]
+          },
+          {
+            "definition": "admit the truth of; concede.",
+            "examples": [
+              "he allowed that the penalty appeared too harsh for the crime"
+            ],
+            "synonyms": [
+              "admit",
+              "acknowledge",
+              "recognize",
+              "agree",
+              "accept",
+              "concede",
+              "grant \"she allowed that all people had their funny little ways\""
+            ],
+            "antonyms": [
+              "deny"
+            ]
+          },
+          {
+            "definition": "assert; be of the opinion.",
+            "examples": [
+              "Lincoln allowed that he himself could never support the man"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

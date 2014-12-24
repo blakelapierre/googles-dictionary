@@ -1,0 +1,64 @@
+{
+  "word": "afford",
+  "syllables": [
+    "af",
+    "ford"
+  ],
+  "pronunciation": "əˈfôrd",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "afforded"
+        },
+        {
+          "part": "past participle",
+          "variant": "afforded"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "have enough money to pay for.",
+          "examples": [
+            "the best that I could afford was a first-floor room"
+          ],
+          "synonyms": [
+            "pay for",
+            "bear the expense of",
+            "have the money for",
+            "spare the price of \"I can't afford a new car\""
+          ]
+        },
+        {
+          "definition": "have (a certain amount of something, especially money or time) available or to spare.",
+          "examples": [
+            "it was taking up more time than he could afford"
+          ]
+        },
+        {
+          "definition": "be able to do something without risk of adverse consequences.",
+          "examples": [
+            "kings could afford to be wrathful"
+          ]
+        },
+        {
+          "definition": "provide or supply (an opportunity or facility).",
+          "examples": [
+            "the rooftop terrace affords beautiful views"
+          ],
+          "synonyms": [
+            "provide",
+            "supply",
+            "furnish",
+            "offer",
+            "give",
+            "make available",
+            "yield \"the rooftop terrace affords beautiful views\""
+          ]
+        }
+      ]
+    }
+  ]
+}

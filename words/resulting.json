@@ -1,0 +1,67 @@
+[
+  {
+    "word": "result",
+    "syllables": [
+      "re",
+      "sult"
+    ],
+    "pronunciation": "rəˈzəlt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "resulting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "occur or follow as the consequence of something.",
+            "examples": [
+              "government unpopularity resulting from the state of the economy"
+            ],
+            "synonyms": [
+              "follow from",
+              "ensue from",
+              "develop from",
+              "stem from",
+              "spring from",
+              "arise from",
+              "derive from",
+              "evolve from",
+              "proceed from; Moreoccur from",
+              "happen from",
+              "take place from",
+              "come about from; be caused by",
+              "be brought about by",
+              "be produced by",
+              "originate in",
+              "be consequent on \"differences between species could result from their habitat\"end in",
+              "culminate in",
+              "finish in",
+              "terminate in",
+              "lead to",
+              "prompt",
+              "precipitate",
+              "trigger; cause",
+              "bring about",
+              "occasion",
+              "effect",
+              "give rise to",
+              "produce",
+              "engender",
+              "generate; literarybeget \"the shooting resulted in five deaths\""
+            ]
+          },
+          {
+            "definition": "have (a specified end or outcome).",
+            "examples": [
+              "talks in July had resulted in stalemate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

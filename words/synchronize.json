@@ -1,0 +1,96 @@
+[
+  {
+    "word": "synchronize",
+    "syllables": [
+      "syn",
+      "chro",
+      "nize"
+    ],
+    "pronunciation": "ˈsiNGkrəˌnīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "synchronize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "synchronizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "synchronized"
+          },
+          {
+            "part": "past participle",
+            "variant": "synchronized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "synchronizing"
+          },
+          {
+            "part": "verb",
+            "variant": "synchronise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "synchronises"
+          },
+          {
+            "part": "past tense",
+            "variant": "synchronised"
+          },
+          {
+            "part": "past participle",
+            "variant": "synchronised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "synchronising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to occur or operate at the same time or rate.",
+            "examples": [
+              "soldiers used watches to synchronize movements"
+            ]
+          },
+          {
+            "definition": "occur at the same time or rate.",
+            "examples": [
+              "sometimes converging swells will synchronize to produce a peak"
+            ]
+          },
+          {
+            "definition": "adjust (a clock or watch) to show the same time as another.",
+            "examples": [
+              "It is now 5:48. Synchronize watches"
+            ]
+          },
+          {
+            "definition": "tally; agree.",
+            "examples": [
+              "their version failed to synchronize with the police view"
+            ]
+          },
+          {
+            "definition": "cause (a set of data or files) to remain identical in more than one location.",
+            "examples": [
+              "you can synchronize your calendar with your GPS device and be alerted when you need to leave for an appointment"
+            ]
+          },
+          {
+            "definition": "coordinate; combine.",
+            "examples": [
+              "both media synchronize national interests with multinational scope"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "widely",
+    "syllables": [
+      "wide",
+      "ly"
+    ],
+    "pronunciation": "ˈwīdlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "widely"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "over a wide area or at a wide interval.",
+            "examples": [
+              "he smiled widely and held out a hand"
+            ]
+          },
+          {
+            "definition": "to a large degree in nature or character (used to describe considerable variation or difference).",
+            "examples": [
+              "lending policies vary widely between different banks"
+            ]
+          },
+          {
+            "definition": "over a large area or range; extensively.",
+            "examples": [
+              "Deborah has traveled widely"
+            ]
+          },
+          {
+            "definition": "by many people or in many places.",
+            "examples": [
+              "credit cards are widely accepted"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

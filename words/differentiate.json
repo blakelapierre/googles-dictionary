@@ -1,0 +1,66 @@
+{
+  "word": "differentiate",
+  "syllables": [
+    "dif",
+    "fer",
+    "en",
+    "ti",
+    "ate"
+  ],
+  "pronunciation": "ˌdifəˈren(t)SHēˌāt",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "gerund or present participle",
+          "variant": "differentiating"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "recognize or ascertain what makes (someone or something) different.",
+          "examples": [
+            "children can differentiate the past from the present"
+          ]
+        },
+        {
+          "definition": "identify differences between (two or more things or people).",
+          "examples": [
+            "he is unable to differentiate between fantasy and reality"
+          ],
+          "synonyms": [
+            "distinguish",
+            "discriminate",
+            "make/draw a distinction",
+            "tell the difference",
+            "tell apart \"he was unable to differentiate between fantasy and reality\""
+          ]
+        },
+        {
+          "definition": "make (someone or something) appear different or distinct.",
+          "examples": [
+            "Twain was careful to differentiate Huck's speech from that of other white people"
+          ],
+          "synonyms": [
+            "make different",
+            "distinguish",
+            "set apart",
+            "single out",
+            "separate",
+            "mark off \"this differentiates their business from all other booksellers\""
+          ]
+        },
+        {
+          "definition": "make or become different in the process of growth or development.",
+          "examples": [
+            "the receptors are developed and differentiated into sense organs"
+          ]
+        },
+        {
+          "definition": "transform (a function) into its derivative."
+        }
+      ]
+    }
+  ]
+}

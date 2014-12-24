@@ -1,0 +1,74 @@
+[
+  {
+    "word": "salary",
+    "syllables": [
+      "sal",
+      "a",
+      "ry"
+    ],
+    "pronunciation": "ˈsal(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "salary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "salaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fixed regular payment, typically paid on a monthly or biweekly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker.",
+            "examples": [
+              "he received a salary of $29,000"
+            ],
+            "synonyms": [
+              "pay",
+              "wages",
+              "earnings",
+              "payment",
+              "remuneration",
+              "fee(s)",
+              "stipend",
+              "income; Moreinformaltake-home; formalemolument \"an annual raise in his salary\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "salary"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "salaries"
+          },
+          {
+            "part": "past tense",
+            "variant": "salaried"
+          },
+          {
+            "part": "past participle",
+            "variant": "salaried"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "salarying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pay a salary to."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "illustrate",
+    "syllables": [
+      "il",
+      "lus",
+      "trate"
+    ],
+    "pronunciation": "ˈiləˌstrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "illustrate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "illustrates"
+          },
+          {
+            "part": "past tense",
+            "variant": "illustrated"
+          },
+          {
+            "part": "past participle",
+            "variant": "illustrated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "illustrating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide (a book, newspaper, etc.) with pictures.",
+            "examples": [
+              "the guide is illustrated with full-color photographs"
+            ],
+            "synonyms": [
+              "decorate",
+              "adorn",
+              "ornament",
+              "accompany",
+              "embellish; Moreadd pictures/drawings to",
+              "provide artwork for \"the photographs that illustrate the book\"with illustrations",
+              "with pictures",
+              "with drawings",
+              "pictorial \"an illustrated collection of poems\""
+            ]
+          },
+          {
+            "definition": "explain or make (something) clear by using examples, charts, pictures, etc.",
+            "examples": [
+              "the results are illustrated in Figure 7"
+            ],
+            "synonyms": [
+              "explain",
+              "explicate",
+              "elucidate",
+              "clarify",
+              "make plain",
+              "demonstrate",
+              "show",
+              "emphasize; informalget across \"this can be illustrated through a brief example\""
+            ]
+          },
+          {
+            "definition": "serve as an example of.",
+            "examples": [
+              "a collection of pieces that illustrate Bach's techniques"
+            ],
+            "synonyms": [
+              "exemplify",
+              "typify",
+              "epitomize",
+              "show",
+              "demonstrate",
+              "display",
+              "represent",
+              "encapsulate \"his sense of humor was illustrated by his screen saver\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

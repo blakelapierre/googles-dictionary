@@ -1,0 +1,113 @@
+[
+  {
+    "word": "bred",
+    "syllables": [
+      "bred"
+    ],
+    "pronunciation": "bred",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bred"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or animal) reared in a specified environment or way.",
+            "examples": [
+              "a city-bred man"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "breed",
+    "syllables": [
+      "breed"
+    ],
+    "pronunciation": "brēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "bred"
+          },
+          {
+            "part": "past participle",
+            "variant": "bred"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (an animal) to produce offspring, typically in a controlled and organized way.",
+            "examples": [
+              "he wants to see the animals his new stock has been bred from"
+            ]
+          },
+          {
+            "definition": "(of animals) mate and then produce offspring.",
+            "examples": [
+              "toads are said to return to the pond of their birth to breed"
+            ],
+            "synonyms": [
+              "reproduce",
+              "produce/bear/generate offspring",
+              "procreate",
+              "multiply",
+              "propagate; mate \"elephants breed readily in captivity\""
+            ]
+          },
+          {
+            "definition": "develop (a kind of animal or plant) for a particular purpose or quality.",
+            "examples": [
+              "these horses are bred for this sport"
+            ]
+          },
+          {
+            "definition": "rear and train (someone) to behave in a particular way or have certain qualities.",
+            "examples": [
+              "Theresa had been beautifully bred"
+            ],
+            "synonyms": [
+              "bring up",
+              "rear",
+              "raise",
+              "nurture \"she was born and bred in the village\""
+            ]
+          },
+          {
+            "definition": "cause (something) to happen or occur, typically over a period of time.",
+            "examples": [
+              "success breeds confidence"
+            ],
+            "synonyms": [
+              "cause",
+              "bring about",
+              "give rise to",
+              "lead to",
+              "produce",
+              "generate",
+              "foster",
+              "result in; Morestir up; literarybeget \"the political system bred discontent\""
+            ]
+          },
+          {
+            "definition": "create (fissile material) by nuclear reaction."
+          }
+        ]
+      }
+    ]
+  }
+]

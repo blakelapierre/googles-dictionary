@@ -1,0 +1,109 @@
+[
+  {
+    "word": "believe",
+    "syllables": [
+      "be",
+      "lieve"
+    ],
+    "pronunciation": "bəˈlēv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "believe"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "believes"
+          },
+          {
+            "part": "past tense",
+            "variant": "believed"
+          },
+          {
+            "part": "past participle",
+            "variant": "believed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "believing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "accept (something) as true; feel sure of the truth of.",
+            "examples": [
+              "the superintendent believed Lancaster's story"
+            ],
+            "synonyms": [
+              "be convinced by",
+              "trust",
+              "have confidence in",
+              "consider honest",
+              "consider truthful More\"I don't believe you\"regard as true",
+              "accept",
+              "be convinced by",
+              "give credence to",
+              "credit",
+              "trust",
+              "put confidence in; informalswallow",
+              "buy",
+              "go for \"do you believe that story?\""
+            ]
+          },
+          {
+            "definition": "accept the statement of (someone) as true.",
+            "examples": [
+              "he didn't believe her or didn't want to know"
+            ]
+          },
+          {
+            "definition": "have faith, especially religious faith.",
+            "examples": [
+              "there are those on the fringes of the Church who do not really believe"
+            ]
+          },
+          {
+            "definition": "feel sure that (someone) is capable of a particular action.",
+            "examples": [
+              "I wouldn't have believed it of Lois—what an extraordinary woman!"
+            ]
+          },
+          {
+            "definition": "hold (something) as an opinion; think or suppose.",
+            "examples": [
+              "I believe we've already met"
+            ],
+            "synonyms": [
+              "think",
+              "be of the opinion that",
+              "have an idea that",
+              "imagine",
+              "suspect",
+              "suppose",
+              "assume",
+              "presume",
+              "take it",
+              "conjecture",
+              "surmise",
+              "conclude",
+              "deduce",
+              "understand",
+              "be given to understand",
+              "gather",
+              "fancy",
+              "guess",
+              "dare say; Moreinformalreckon",
+              "figure; archaicween \"I believe he worked for you\""
+            ],
+            "antonyms": [
+              "doubt"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

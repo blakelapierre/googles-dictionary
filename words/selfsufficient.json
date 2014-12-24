@@ -1,0 +1,43 @@
+[
+  {
+    "word": "self-sufficient",
+    "syllables": [
+      "self-suf",
+      "fi",
+      "cient"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "self-sufficient"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "needing no outside help in satisfying one's basic needs, especially with regard to the production of food.",
+            "examples": [
+              "I don't think Botswana, due to the climate, could ever be self-sufficient in food"
+            ]
+          },
+          {
+            "definition": "emotionally and intellectually independent.",
+            "examples": [
+              "their son was a little bit of a loner and very self-sufficient"
+            ],
+            "synonyms": [
+              "self-supporting",
+              "self-reliant",
+              "self-sustaining",
+              "able to stand on one's own two feet; Moreindependent",
+              "autarkic \"you'll need to be more self-sufficient once you get to college\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

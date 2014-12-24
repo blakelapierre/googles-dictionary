@@ -1,0 +1,51 @@
+[
+  {
+    "word": "consignment",
+    "syllables": [
+      "con",
+      "sign",
+      "ment"
+    ],
+    "pronunciation": "kənˈsīnmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "consignment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "consignments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a batch of goods destined for or delivered to someone.",
+            "examples": [
+              "a consignment of beef"
+            ],
+            "synonyms": [
+              "delivery",
+              "shipment",
+              "load",
+              "boatload",
+              "truckload",
+              "cargo; Morebatch; goods \"Dexter has to initial the paperwork for any consignment\""
+            ]
+          },
+          {
+            "definition": "the action of consigning or delivering something."
+          },
+          {
+            "definition": "agreement to pay a supplier of goods after the goods are sold.",
+            "examples": [
+              "new and used children's clothing on consignment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

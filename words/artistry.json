@@ -1,0 +1,45 @@
+[
+  {
+    "word": "artistry",
+    "syllables": [
+      "art",
+      "ist",
+      "ry"
+    ],
+    "pronunciation": "ˈärdəstrē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "artistry"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "creative skill or ability.",
+            "examples": [
+              "the artistry of the pianist"
+            ],
+            "synonyms": [
+              "creative skill",
+              "creativity",
+              "art",
+              "skill",
+              "talent",
+              "genius",
+              "brilliance",
+              "flair",
+              "proficiency",
+              "virtuosity",
+              "finesse",
+              "style; Morecraftsmanship",
+              "workmanship \"one immediately notices the sheer artistry in her music\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

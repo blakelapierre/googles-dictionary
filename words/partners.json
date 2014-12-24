@@ -1,0 +1,76 @@
+[
+  {
+    "word": "partner",
+    "syllables": [
+      "part",
+      "ner"
+    ],
+    "pronunciation": "ˈpärtnər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "partners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who takes part in an undertaking with another or others, especially in a business or company with shared risks and profits.",
+            "examples": [
+              "colleague, associate, coworker, fellow worker, collaborator, comrade, teammate; compeer business partners"
+            ]
+          },
+          {
+            "definition": "either of two people dancing together or playing a game or sport on the same side."
+          },
+          {
+            "definition": "either member of a married couple or of an established unmarried couple.",
+            "examples": [
+              "she lived with her partner"
+            ]
+          },
+          {
+            "definition": "a person with whom one has sex; a lover.",
+            "examples": [
+              "spouse, husband, wife, consort, life partner; Morelover, girlfriend, boyfriend, fiancé, fiancée, significant other, live-in lover, common-law husband/wife, man, woman, mate; informalhubby, missus, old man, old lady/woman, better half, intended, other half, (main) squeeze \"your relationship with your partner\"Morelover, girlfriend, boyfriend, fiancé, fiancée, significant other, live-in lover, common-law husband/wife, man, woman, mate; hubby, missus, old man, old lady/woman, better half, intended, other half, (main) squeeze your relationship with your partner"
+            ]
+          },
+          {
+            "definition": "a friendly form of address by one man to another.",
+            "examples": [
+              "how you doing, partner?"
+            ]
+          },
+          {
+            "definition": "a timber framework secured to and strengthening the deck of a wooden ship around a hole for a mast."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "partners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be the partner of.",
+            "examples": [
+              "young farmers who partnered Isabel to the village dance"
+            ]
+          },
+          {
+            "definition": "associate as partners.",
+            "examples": [
+              "I never expected to partner with a man like you"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

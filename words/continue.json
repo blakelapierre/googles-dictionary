@@ -1,0 +1,166 @@
+[
+  {
+    "word": "continue",
+    "syllables": [
+      "con",
+      "tin",
+      "ue"
+    ],
+    "pronunciation": "kənˈtinyo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "continue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "continues"
+          },
+          {
+            "part": "past tense",
+            "variant": "continued"
+          },
+          {
+            "part": "past participle",
+            "variant": "continued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "continuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "persist in an activity or process.",
+            "examples": [
+              "he was unable to continue with his job"
+            ],
+            "synonyms": [
+              "ongoing",
+              "continuous",
+              "sustained",
+              "persistent",
+              "steady",
+              "relentless",
+              "rolling",
+              "uninterrupted",
+              "unabating",
+              "unremitting",
+              "unrelieved",
+              "unceasing \"our continuing commitment to customer satisfaction\""
+            ],
+            "antonyms": [
+              "sporadic"
+            ]
+          },
+          {
+            "definition": "remain in existence or operation.",
+            "examples": [
+              "discussions continued throughout the year"
+            ],
+            "synonyms": [
+              "go on",
+              "carry on",
+              "last",
+              "extend",
+              "be prolonged",
+              "run on",
+              "drag on \"discussions continued throughout the night\""
+            ],
+            "antonyms": [
+              "stop",
+              "cease"
+            ]
+          },
+          {
+            "definition": "carry on with (something that one has begun).",
+            "examples": [
+              "I continued my stroll"
+            ],
+            "synonyms": [
+              "maintain",
+              "keep up",
+              "sustain",
+              "keep going",
+              "keep alive",
+              "preserve \"we are keen to continue this relationship\""
+            ],
+            "antonyms": [
+              "suspend",
+              "break off"
+            ]
+          },
+          {
+            "definition": "remain in a specified position or state.",
+            "examples": [
+              "they have indicated their willingness to continue in office"
+            ],
+            "synonyms": [
+              "remain",
+              "stay",
+              "carry on",
+              "keep going \"his willingness to continue in office\""
+            ]
+          },
+          {
+            "definition": "carry on traveling in the same direction.",
+            "examples": [
+              "he hummed to himself as they continued northward"
+            ]
+          },
+          {
+            "definition": "(of a road, river, etc.) extend farther in the same direction.",
+            "examples": [
+              "the main path continued through a tunnel"
+            ]
+          },
+          {
+            "definition": "recommence or resume after interruption.",
+            "examples": [
+              "we continue the story from the point reached in Chapter 1"
+            ],
+            "synonyms": [
+              "resume",
+              "pick up",
+              "take up",
+              "carry on with",
+              "return to",
+              "recommence \"we continued our conversation after supper\""
+            ],
+            "antonyms": [
+              "end"
+            ]
+          },
+          {
+            "definition": "carry on speaking after a pause or interruption.",
+            "examples": [
+              "I told him he was obstructing the inquiry and he let me continue"
+            ],
+            "synonyms": [
+              "carry on",
+              "proceed",
+              "go on",
+              "keep on",
+              "persist",
+              "press on",
+              "persevere; Moreinformalstick",
+              "soldier on \"he was unable to continue with his job\""
+            ],
+            "antonyms": [
+              "stop"
+            ]
+          },
+          {
+            "definition": "postpone or adjourn (a legal proceeding).",
+            "examples": [
+              "the case was continued without a finding until August 2"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

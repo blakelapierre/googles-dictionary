@@ -1,0 +1,57 @@
+{
+  "word": "atom",
+  "syllables": [
+    "at",
+    "om"
+  ],
+  "pronunciation": "ˈadəm",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "atom"
+        },
+        {
+          "part": "plural noun",
+          "variant": "atoms"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the basic unit of a chemical element.",
+          "examples": [
+            "grain, iota, jot, whit, mite, scrap, shred, ounce, scintilla, trace, smidgen, modicum there wasn't an atom of truth in the allegations"
+          ]
+        },
+        {
+          "definition": "atoms as a source of nuclear energy.",
+          "examples": [
+            "noun: the atom"
+          ]
+        },
+        {
+          "definition": "an extremely small amount of a thing or quality.",
+          "examples": [
+            "I shall not have one atom of strength left"
+          ],
+          "synonyms": [
+            "grain",
+            "iota",
+            "jot",
+            "whit",
+            "mite",
+            "scrap",
+            "shred",
+            "ounce",
+            "scintilla",
+            "trace",
+            "smidgen",
+            "modicum \"there wasn't an atom of truth in the allegations\""
+          ]
+        }
+      ]
+    }
+  ]
+}

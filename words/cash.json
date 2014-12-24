@@ -1,0 +1,124 @@
+[
+  {
+    "word": "cash",
+    "syllables": [
+      "cash"
+    ],
+    "pronunciation": "kaSH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cash"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "money in coins or notes, as distinct from checks, money orders, or credit.",
+            "examples": [
+              "the staff were paid in cash"
+            ],
+            "synonyms": [
+              "money",
+              "currency",
+              "hard cash; Morenotes",
+              "bank notes",
+              "bills; coins",
+              "change; informaldough",
+              "bread",
+              "loot",
+              "moolah",
+              "bucks",
+              "dinero",
+              "lucre \"a wallet stuffed with cash\""
+            ],
+            "antonyms": [
+              "check",
+              "credit"
+            ]
+          },
+          {
+            "definition": "money in any form, especially that which is immediately available.",
+            "examples": [
+              "she was always short of cash"
+            ],
+            "synonyms": [
+              "finance(s)",
+              "money",
+              "resources",
+              "funds",
+              "assets",
+              "the means",
+              "the wherewithal \"a lack of cash\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cash"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cashes"
+          },
+          {
+            "part": "past tense",
+            "variant": "cashed"
+          },
+          {
+            "part": "past participle",
+            "variant": "cashed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cashing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give or obtain notes or coins for (a check or money order).",
+            "examples": [
+              "exchange, change, convert into cash/money; Morehonor, pay, accept \"the bank cashed her check\"Morehonor, pay, accept the bank cashed her check"
+            ]
+          },
+          {
+            "definition": "lead (a high card) so as to take the opportunity to win a trick."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "syllables": [
+      "cash"
+    ],
+    "pronunciation": "kaSH",
+    "parts": [
+      {
+        "part": "nounhistorical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cash"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cash"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a coin of low value from China, southern India, or Southeast Asia."
+          }
+        ]
+      }
+    ]
+  }
+]

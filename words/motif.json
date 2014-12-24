@@ -1,0 +1,79 @@
+[
+  {
+    "word": "motif",
+    "syllables": [
+      "mo",
+      "tif"
+    ],
+    "pronunciation": "mōˈtēf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "motif"
+          },
+          {
+            "part": "plural noun",
+            "variant": "motifs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a decorative design or pattern.",
+            "examples": [
+              "T-shirts featuring spiral motifs"
+            ],
+            "synonyms": [
+              "design",
+              "pattern",
+              "decoration",
+              "figure",
+              "shape",
+              "device",
+              "emblem",
+              "ornament \"a colorful tulip motif\""
+            ]
+          },
+          {
+            "definition": "a distinctive feature or dominant idea in an artistic or literary composition.",
+            "examples": [
+              "the nautical motif of his latest novel"
+            ],
+            "synonyms": [
+              "theme",
+              "idea",
+              "concept",
+              "subject",
+              "topic",
+              "leitmotif",
+              "element; through line \"a recurring motif in her work\""
+            ]
+          },
+          {
+            "definition": "a short succession of notes producing a single impression; a brief melodic or rhythmic formula out of which longer passages are developed.",
+            "examples": [
+              "the motif in the second violin is submerged by the first violin's countermelody"
+            ],
+            "synonyms": [
+              "theme",
+              "idea",
+              "concept",
+              "subject",
+              "topic",
+              "leitmotif",
+              "element; through line \"a recurring motif in her work\""
+            ]
+          },
+          {
+            "definition": "an ornament of lace, braid, etc., sewn separately on a garment."
+          },
+          {
+            "definition": "a distinctive sequence on a protein or DNA, having a three-dimensional structure that allows binding interactions to occur."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "word": "divine",
+    "syllables": [
+      "di",
+      "vine"
+    ],
+    "pronunciation": "dəˈvīn",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "divine"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "diviner"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "divinest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, from, or like God or a god.",
+            "examples": [
+              "heroes with divine powers"
+            ],
+            "synonyms": [
+              "godly",
+              "angelic",
+              "seraphic",
+              "saintly",
+              "beatific; Moreheavenly",
+              "celestial",
+              "supernal",
+              "holy \"a divine being\""
+            ],
+            "antonyms": [
+              "mortal"
+            ]
+          },
+          {
+            "definition": "devoted to God; sacred.",
+            "examples": [
+              "divine liturgy"
+            ],
+            "synonyms": [
+              "religious",
+              "holy",
+              "sacred",
+              "sanctified",
+              "consecrated",
+              "blessed",
+              "devotional \"divine worship\""
+            ]
+          },
+          {
+            "definition": "excellent; delightful.",
+            "examples": [
+              "that succulent clementine tasted divine"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "divine"
+          },
+          {
+            "part": "plural noun",
+            "variant": "divines"
+          },
+          {
+            "part": "noun",
+            "variant": "Divine"
+          },
+          {
+            "part": "noun",
+            "variant": "the Divine"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cleric or theologian.",
+            "examples": [
+              "theologian, clergyman, clergywoman, member of the clergy, churchman, churchwoman, cleric, minister, man/woman of the cloth, preacher, priest; reverend puritan divines"
+            ]
+          },
+          {
+            "definition": "providence or God."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "divine",
+    "syllables": [
+      "di",
+      "vine"
+    ],
+    "pronunciation": "dəˈvīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "divine"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "divines"
+          },
+          {
+            "part": "past tense",
+            "variant": "divined"
+          },
+          {
+            "part": "past participle",
+            "variant": "divined"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "divining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "discover (something) by guesswork or intuition.",
+            "examples": [
+              "his brother usually divined his ulterior motives"
+            ],
+            "synonyms": [
+              "guess",
+              "surmise",
+              "conjecture",
+              "deduce",
+              "infer; Morediscern",
+              "intuit",
+              "perceive",
+              "recognize",
+              "see",
+              "realize",
+              "appreciate",
+              "understand",
+              "grasp",
+              "comprehend; informalfigure (out)",
+              "savvy \"Fergus divined how afraid she was\""
+            ]
+          },
+          {
+            "definition": "have supernatural or magical insight into (future events).",
+            "examples": [
+              "frauds who claimed to divine the future in chickens' entrails"
+            ],
+            "synonyms": [
+              "foretell",
+              "predict",
+              "prophesy",
+              "forecast",
+              "foresee",
+              "prognosticate \"they divined that this was an auspicious day\""
+            ]
+          },
+          {
+            "definition": "discover (water) by dowsing."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "word": "rock",
+    "syllables": [
+      "rock"
+    ],
+    "pronunciation": "räk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rock"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rocks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil or oceans."
+          },
+          {
+            "definition": "a mass of rock projecting above the earth's surface or out of the sea.",
+            "examples": [
+              "there are dangerous rocks around the island"
+            ],
+            "synonyms": [
+              "crag",
+              "cliff",
+              "outcrop \"a castle built on a rock\""
+            ]
+          },
+          {
+            "definition": "any natural material, hard or soft (e.g., clay), having a distinctive mineral composition."
+          },
+          {
+            "definition": "Gibraltar.",
+            "examples": [
+              "singular proper noun: Rock; noun: the Rock"
+            ]
+          },
+          {
+            "definition": "informal name for Newfoundland1."
+          },
+          {
+            "definition": "a large piece of rock that has become detached from a cliff or mountain; a boulder.",
+            "examples": [
+              "the stream flowed through a jumble of rocks"
+            ]
+          },
+          {
+            "definition": "a stone of any size, especially one small enough to be picked up and used as a projectile.",
+            "examples": [
+              "boulder, stone, pebble a gully strewn with rocks"
+            ]
+          },
+          {
+            "definition": "a kind of hard confectionery in the form of cylindrical peppermint-flavored sticks."
+          },
+          {
+            "definition": "a precious stone, especially a diamond.",
+            "examples": [
+              "diamond, jewel, precious stone she wore a massive rock on her finger"
+            ]
+          },
+          {
+            "definition": "a small piece of crack cocaine."
+          },
+          {
+            "definition": "testicles."
+          },
+          {
+            "definition": "used in similes and metaphors to refer to someone or something that is extremely strong, reliable, or hard.",
+            "examples": [
+              "imagining himself as the last rock of civilization being swept over by a wave of barbarism"
+            ],
+            "synonyms": [
+              "foundation",
+              "cornerstone",
+              "support",
+              "prop",
+              "mainstay; Moretower of strength",
+              "bulwark",
+              "anchor \"Toni was the rock on which they relied\""
+            ]
+          },
+          {
+            "definition": "(especially with allusion to shipwrecks) a source of danger or destruction.",
+            "examples": [
+              "the new system is heading for the rocks"
+            ]
+          },
+          {
+            "definition": "money."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rock",
+    "syllables": [
+      "rock"
+    ],
+    "pronunciation": "räk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rock"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rocks"
+          },
+          {
+            "part": "past tense",
+            "variant": "rocked"
+          },
+          {
+            "part": "past participle",
+            "variant": "rocked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rocking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move gently to and fro or from side to side.",
+            "examples": [
+              "she rocked the baby in her arms"
+            ],
+            "synonyms": [
+              "move to and fro",
+              "move back and forth",
+              "sway",
+              "seesaw; Moreroll",
+              "pitch",
+              "plunge",
+              "toss",
+              "lurch",
+              "reel",
+              "list; wobble",
+              "oscillate \"the ship rocked on the water\""
+            ]
+          },
+          {
+            "definition": "(with reference to a building or region) shake or cause to shake or vibrate, especially because of an impact, earthquake, or explosion.",
+            "examples": [
+              "another blast rocked the ship and threw him from his chair"
+            ],
+            "synonyms": [
+              "shake",
+              "vibrate",
+              "quake",
+              "tremble \"the building began to rock\""
+            ]
+          },
+          {
+            "definition": "cause great shock or distress to (someone or something), especially so as to weaken or destabilize them or it.",
+            "examples": [
+              "diplomatic upheavals that rocked the British Empire"
+            ],
+            "synonyms": [
+              "stun",
+              "shock",
+              "stagger",
+              "astonish",
+              "startle",
+              "surprise",
+              "shake",
+              "shake up",
+              "take aback",
+              "throw",
+              "unnerve",
+              "disconcert \"Wall Street was rocked by the news\""
+            ]
+          },
+          {
+            "definition": "dance to or play rock music."
+          },
+          {
+            "definition": "(of a place) have an atmosphere of excitement or much social activity.",
+            "examples": [
+              "the new town really rocks"
+            ]
+          },
+          {
+            "definition": "wear (a garment) or affect (an attitude or style), especially in a confident or flamboyant way.",
+            "examples": [
+              "she was rocking a clingy little leopard-skin number"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rock"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "rock music.",
+            "examples": [
+              "a rock star"
+            ]
+          },
+          {
+            "definition": "rock and roll."
+          },
+          {
+            "definition": "a gentle movement to and fro or from side to side.",
+            "examples": [
+              "she placed the baby in the cradle and gave it a rock"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

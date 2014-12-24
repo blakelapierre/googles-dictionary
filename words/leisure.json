@@ -1,0 +1,56 @@
+[
+  {
+    "word": "leisure",
+    "syllables": [
+      "lei",
+      "sure"
+    ],
+    "pronunciation": "ˈlēZHərˈleZHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "leisure"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "free time.",
+            "examples": [
+              "free time, spare time, time off; Morerecreation, relaxation, inactivity, pleasure; informalR and R, downtime \"the balance between leisure and work\"Morerecreation, relaxation, inactivity, pleasure; R and R, downtime the balance between leisure and work"
+            ],
+            "antonyms": [
+              "work"
+            ]
+          },
+          {
+            "definition": "use of free time for enjoyment.",
+            "examples": [
+              "increased opportunities for leisure"
+            ],
+            "synonyms": [
+              "free time",
+              "spare time",
+              "time off; Morerecreation",
+              "relaxation",
+              "inactivity",
+              "pleasure; informalR and R",
+              "downtime \"the balance between leisure and work\""
+            ],
+            "antonyms": [
+              "work"
+            ]
+          },
+          {
+            "definition": "opportunity afforded by free time to do something.",
+            "examples": [
+              "writers with enough leisure to practice their art"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "misrepresent",
+    "syllables": [
+      "mis",
+      "rep",
+      "re",
+      "sent"
+    ],
+    "pronunciation": "ˌmisˌreprəˈzent",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "misrepresenting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give a false or misleading account of the nature of.",
+            "examples": [
+              "you are misrepresenting the views of the government"
+            ],
+            "synonyms": [
+              "give a false account",
+              "misreport",
+              "misquote",
+              "quote/take out of context",
+              "misinterpret",
+              "put a spin on",
+              "skew",
+              "warp",
+              "falsify",
+              "distort",
+              "misstate",
+              "exaggerate \"you are misrepresenting the views of the government\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

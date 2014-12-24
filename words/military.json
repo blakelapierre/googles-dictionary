@@ -1,0 +1,71 @@
+[
+  {
+    "word": "military",
+    "syllables": [
+      "mil",
+      "i",
+      "tar",
+      "y"
+    ],
+    "pronunciation": "ˈmiləˌterē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "military"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or characteristic of soldiers or armed forces.",
+            "examples": [
+              "both leaders condemned the buildup of military activity"
+            ],
+            "synonyms": [
+              "fighting",
+              "service",
+              "army",
+              "armed",
+              "defense",
+              "martial \"military activity\""
+            ],
+            "antonyms": [
+              "civilian"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "military"
+          },
+          {
+            "part": "plural noun",
+            "variant": "militaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the armed forces of a country.",
+            "examples": [
+              "as a young man he joined the military and pursued a career in the Army"
+            ],
+            "synonyms": [
+              "(armed) forces",
+              "services",
+              "militia; Morearmy",
+              "navy",
+              "air force",
+              "marines \"the military took power\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

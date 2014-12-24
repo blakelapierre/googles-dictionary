@@ -1,0 +1,32 @@
+{
+  "word": "inhabitant",
+  "syllables": [
+    "in",
+    "hab",
+    "it",
+    "ant"
+  ],
+  "pronunciation": "inˈhabədnt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "inhabitants"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person or animal that lives in or occupies a place.",
+          "examples": [
+            "resident, occupant, occupier, dweller, squatter, settler; Morelocal, native; formaldenizen; population, populace, people, public, community, citizenry, townsfolk, townspeople \"the inhabitants have organized a protest\"Morelocal, native; denizen; population, populace, people, public, community, citizenry, townsfolk, townspeople the inhabitants have organized a protest"
+          ]
+        },
+        {
+          "definition": "a person who fulfills the requirements for legal residency."
+        }
+      ]
+    }
+  ]
+}

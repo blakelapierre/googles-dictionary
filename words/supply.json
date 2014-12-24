@@ -1,0 +1,95 @@
+{
+  "word": "supply",
+  "syllables": [
+    "sup",
+    "ply"
+  ],
+  "pronunciation": "səˈplī",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "supplied"
+        },
+        {
+          "part": "past participle",
+          "variant": "supplied"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make (something needed or wanted) available to someone; provide.",
+          "examples": [
+            "the farm supplies apples to cider makers"
+          ],
+          "synonyms": [
+            "give",
+            "contribute",
+            "provide",
+            "furnish",
+            "donate",
+            "bestow",
+            "grant",
+            "endow",
+            "impart; Moredispense",
+            "disburse",
+            "allocate",
+            "assign; informalfork out",
+            "shell out \"they supplied money to rebels\"provide",
+            "furnish",
+            "endow",
+            "serve",
+            "confer; equip",
+            "arm \"the lake supplies the city with water\""
+          ]
+        },
+        {
+          "definition": "provide (someone) with something needed or wanted.",
+          "examples": [
+            "they struggled to supply the besieged island with aircraft"
+          ],
+          "synonyms": [
+            "give",
+            "contribute",
+            "provide",
+            "furnish",
+            "donate",
+            "bestow",
+            "grant",
+            "endow",
+            "impart; Moredispense",
+            "disburse",
+            "allocate",
+            "assign; informalfork out",
+            "shell out \"they supplied money to rebels\"provide",
+            "furnish",
+            "endow",
+            "serve",
+            "confer; equip",
+            "arm \"the lake supplies the city with water\""
+          ]
+        },
+        {
+          "definition": "be adequate to satisfy (a requirement or demand).",
+          "examples": [
+            "the two reservoirs supply about 1% of the city's needs"
+          ],
+          "synonyms": [
+            "satisfy",
+            "meet",
+            "fulfill",
+            "cater for \"windmills supply their power needs\""
+          ]
+        },
+        {
+          "definition": "take over (a place or role left by someone else).",
+          "examples": [
+            "when she died, no one could supply her place"
+          ]
+        }
+      ]
+    }
+  ]
+}

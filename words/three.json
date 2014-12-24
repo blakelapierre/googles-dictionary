@@ -1,0 +1,50 @@
+{
+  "word": "three",
+  "syllables": [
+    "three"
+  ],
+  "pronunciation": "THrē",
+  "parts": [
+    {
+      "part": "number",
+      "variants": [
+        {
+          "part": "cardinal number",
+          "variant": "three"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "equivalent to the sum of one and two; one more than two; 3.",
+          "examples": [
+            "her three children"
+          ]
+        },
+        {
+          "definition": "a group or unit of three people or things.",
+          "examples": [
+            "noun: three; plural noun: threes"
+          ]
+        },
+        {
+          "definition": "three years old.",
+          "examples": [
+            "she is only three"
+          ]
+        },
+        {
+          "definition": "three o'clock.",
+          "examples": [
+            "I'll come at three"
+          ]
+        },
+        {
+          "definition": "a size of garment or other merchandise denoted by three."
+        },
+        {
+          "definition": "a playing card or domino with three pips."
+        }
+      ]
+    }
+  ]
+}

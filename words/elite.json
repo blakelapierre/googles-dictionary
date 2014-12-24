@@ -1,0 +1,61 @@
+[
+  {
+    "word": "elite",
+    "syllables": [
+      "e",
+      "lite"
+    ],
+    "pronunciation": "əˈlētāˈlēt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "elite"
+          },
+          {
+            "part": "plural noun",
+            "variant": "elites"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a select part of a group that is superior to the rest in terms of ability or qualities.",
+            "examples": [
+              "the elite of Britain's armed forces"
+            ],
+            "synonyms": [
+              "best",
+              "pick",
+              "cream",
+              "crème de la crème",
+              "flower",
+              "nonpareil",
+              "elect; Morehigh society",
+              "jet set",
+              "beautiful people",
+              "beau monde",
+              "haut monde",
+              "glitterati; aristocracy",
+              "nobility",
+              "upper class \"hobnobbing with Southport's elite\""
+            ],
+            "antonyms": [
+              "dregs"
+            ]
+          },
+          {
+            "definition": "a group or class of people seen as having the greatest power and influence within a society, especially because of their wealth or privilege.",
+            "examples": [
+              "the country's governing elite"
+            ]
+          },
+          {
+            "definition": "a size of letter in typewriting, with 12 characters to the inch (about 4.7 to the centimeter)."
+          }
+        ]
+      }
+    ]
+  }
+]

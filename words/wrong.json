@@ -1,0 +1,238 @@
+[
+  {
+    "word": "wrong",
+    "syllables": [
+      "wrong"
+    ],
+    "pronunciation": "rôNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "wrong"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not correct or true.",
+            "examples": [
+              "that is the wrong answer"
+            ],
+            "synonyms": [
+              "incorrect",
+              "mistaken",
+              "in error",
+              "erroneous",
+              "inaccurate",
+              "inexact",
+              "imprecise",
+              "fallacious",
+              "wide of the mark",
+              "off target",
+              "unsound",
+              "faulty; informalout \"the wrong answer\""
+            ],
+            "antonyms": [
+              "right",
+              "correct"
+            ]
+          },
+          {
+            "definition": "mistaken.",
+            "examples": [
+              "I was wrong about him being on the yacht that evening"
+            ]
+          },
+          {
+            "definition": "unsuitable or undesirable.",
+            "examples": [
+              "they asked all the wrong questions"
+            ],
+            "synonyms": [
+              "inappropriate",
+              "unsuitable",
+              "inapt",
+              "inapposite",
+              "undesirable; Moreill-advised",
+              "ill-considered",
+              "ill-judged",
+              "impolitic",
+              "injudicious",
+              "infelicitous",
+              "unfitting",
+              "out of keeping",
+              "improper; informalout of order \"he knew he had said the wrong thing\""
+            ],
+            "antonyms": [
+              "appropriate"
+            ]
+          },
+          {
+            "definition": "in a bad or abnormal condition; amiss.",
+            "examples": [
+              "something was wrong with the pump"
+            ],
+            "synonyms": [
+              "amiss",
+              "awry",
+              "out of order",
+              "not right",
+              "faulty",
+              "flawed",
+              "defective \"there's something wrong with the engine\""
+            ]
+          },
+          {
+            "definition": "unjust, dishonest, or immoral.",
+            "examples": [
+              "they were wrong to take the law into their own hands"
+            ],
+            "synonyms": [
+              "illegal",
+              "unlawful",
+              "illicit",
+              "criminal",
+              "dishonest",
+              "dishonorable",
+              "corrupt; Moreunethical",
+              "immoral",
+              "bad",
+              "wicked",
+              "sinful",
+              "iniquitous",
+              "nefarious",
+              "blameworthy",
+              "reprehensible; informalcrooked \"I've done nothing wrong\""
+            ],
+            "antonyms": [
+              "ethical",
+              "legal"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "wrong"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in an unsuitable or undesirable manner or direction.",
+            "examples": [
+              "what am I doing wrong?"
+            ]
+          },
+          {
+            "definition": "with an incorrect result.",
+            "examples": [
+              "she guessed wrong"
+            ],
+            "synonyms": [
+              "incorrectly",
+              "wrongly",
+              "inaccurately",
+              "erroneously",
+              "mistakenly",
+              "in error \"she guessed wrong\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wrong"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wrongs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an unjust, dishonest, or immoral action.",
+            "examples": [
+              "I have done you a great wrong"
+            ],
+            "synonyms": [
+              "misdeed",
+              "offense",
+              "injury",
+              "crime",
+              "transgression",
+              "violation",
+              "peccadillo",
+              "sin; Moreinjustice",
+              "outrage",
+              "atrocity; tort; archaictrespass \"an attempt to make up for past wrongs\""
+            ]
+          },
+          {
+            "definition": "a breach, by commission or omission, of one's legal duty."
+          },
+          {
+            "definition": "an invasion of right to the damage or prejudice of another."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "wrong"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wrongs"
+          },
+          {
+            "part": "past tense",
+            "variant": "wronged"
+          },
+          {
+            "part": "past participle",
+            "variant": "wronged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "wronging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "act unjustly or dishonestly toward (someone).",
+            "examples": [
+              "please forgive me these things and the people I have wronged"
+            ]
+          },
+          {
+            "definition": "mistakenly attribute bad motives to; misrepresent.",
+            "examples": [
+              "perhaps I wrong him"
+            ],
+            "synonyms": [
+              "ill-use",
+              "mistreat",
+              "do an injustice to",
+              "do wrong to",
+              "ill-treat",
+              "abuse",
+              "harm",
+              "hurt",
+              "injure \"she was determined to forget the man who had wronged her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

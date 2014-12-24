@@ -1,0 +1,64 @@
+[
+  {
+    "word": "mast",
+    "syllables": [
+      "mast"
+    ],
+    "pronunciation": "mast",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "masts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.",
+            "examples": [
+              "spar, boom, yard, gaff, foremast, mainmast, topmast, mizzen-mast, mizzen, royal mast a ship's mast"
+            ]
+          },
+          {
+            "definition": "a tall upright structure on land, especially a flagpole or a television or radio transmitter.",
+            "examples": [
+              "flagpole, flagstaff, pole, post, rod, upright; Moreaerial, transmitter, pylon \"the mast on top of the building\"Moreaerial, transmitter, pylon the mast on top of the building"
+            ]
+          },
+          {
+            "definition": "(in the US Navy) a session of court presided over by the captain of a ship, especially to hear cases of minor offenses."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mast",
+    "syllables": [
+      "mast"
+    ],
+    "pronunciation": "mast",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mast"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fruit of beech, oak, chestnut, and other forest trees, especially as food for pigs and wild animals."
+          }
+        ]
+      }
+    ]
+  }
+]

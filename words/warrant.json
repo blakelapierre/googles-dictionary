@@ -1,0 +1,142 @@
+[
+  {
+    "word": "warrant",
+    "syllables": [
+      "war",
+      "rant"
+    ],
+    "pronunciation": "ˈwôrəntˈwärənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "warrant"
+          },
+          {
+            "part": "plural noun",
+            "variant": "warrants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a document issued by a legal or government official authorizing the police or some other body to make an arrest, search premises, or carry out some other action relating to the administration of justice.",
+            "examples": [
+              "magistrates issued a warrant for his arrest"
+            ],
+            "synonyms": [
+              "authorization",
+              "order",
+              "license",
+              "permit",
+              "document; Morewrit",
+              "summons",
+              "subpoena; mandate",
+              "decree",
+              "fiat",
+              "edict \"a warrant for his arrest\""
+            ]
+          },
+          {
+            "definition": "a document that entitles the holder to receive goods, money, or services.",
+            "examples": [
+              "we'll issue you with a travel warrant"
+            ],
+            "synonyms": [
+              "voucher",
+              "slip",
+              "ticket",
+              "coupon",
+              "pass \"a travel warrant\""
+            ]
+          },
+          {
+            "definition": "a negotiable security allowing the holder to buy shares at a specified price at or before some future date."
+          },
+          {
+            "definition": "justification or authority for an action, belief, or feeling.",
+            "examples": [
+              "there is no warrant for this assumption"
+            ]
+          },
+          {
+            "definition": "an official certificate of appointment issued to an officer of lower rank than a commissioned officer."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "warrant"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "warrants"
+          },
+          {
+            "part": "past tense",
+            "variant": "warranted"
+          },
+          {
+            "part": "past participle",
+            "variant": "warranted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "warranting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "justify or necessitate (a certain course of action).",
+            "examples": [
+              "that offense is serious enough to warrant a court marshal"
+            ],
+            "synonyms": [
+              "justify",
+              "vindicate",
+              "call for",
+              "sanction",
+              "validate; Morepermit",
+              "authorize; deserve",
+              "excuse",
+              "account for",
+              "legitimize; support",
+              "license",
+              "approve of; merit",
+              "qualify for",
+              "rate",
+              "be worthy of",
+              "be deserving of \"the charges warranted a severe sentence\""
+            ]
+          },
+          {
+            "definition": "officially affirm or guarantee.",
+            "examples": [
+              "the vendor warrants the accuracy of the report"
+            ],
+            "synonyms": [
+              "guarantee",
+              "affirm",
+              "swear",
+              "promise",
+              "vow",
+              "pledge",
+              "undertake",
+              "state",
+              "assert",
+              "declare",
+              "profess",
+              "attest; Morevouch",
+              "testify",
+              "bear witness; formalaver \"we warrant that the texts do not infringe copyright\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "clutter",
+  "syllables": [
+    "clut",
+    "ter"
+  ],
+  "pronunciation": "ˈklədər",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "cluttered"
+        },
+        {
+          "part": "past participle",
+          "variant": "cluttered"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "crowd (something) untidily; fill with clutter.",
+          "examples": [
+            "his apartment was cluttered with paintings and antiques"
+          ],
+          "synonyms": [
+            "litter",
+            "mess up",
+            "disarrange; Morebe strewn",
+            "be scattered; literarybestrew \"the garden was cluttered with tools\""
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "citation",
+    "syllables": [
+      "ci",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "sīˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "citation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "citations"
+          },
+          {
+            "part": "noun",
+            "variant": "cit."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quotation from or reference to a book, paper, or author, especially in a scholarly work.",
+            "examples": [
+              "there were dozens of citations from the works of Byron"
+            ],
+            "synonyms": [
+              "quotation",
+              "quote",
+              "extract",
+              "excerpt",
+              "passage",
+              "line; Morereference",
+              "allusion \"a citation from an eighteenth-century text\""
+            ]
+          },
+          {
+            "definition": "a mention of a praiseworthy act or achievement in an official report, especially that of a member of the armed forces in wartime.",
+            "examples": [
+              "commendation, mention, honorable mention a citation for gallantry"
+            ]
+          },
+          {
+            "definition": "a note accompanying an award, describing the reasons for it.",
+            "examples": [
+              "the Nobel citation noted that his discovery would be useful for energy conversion technology"
+            ]
+          },
+          {
+            "definition": "a reference to a former tried case, used as guidance in the trying of comparable cases or in support of an argument."
+          },
+          {
+            "definition": "a summons.",
+            "examples": [
+              "a traffic citation"
+            ],
+            "synonyms": [
+              "summons",
+              "ticket",
+              "subpoena",
+              "writ",
+              "court order \"a traffic citation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "genuine",
+    "syllables": [
+      "gen",
+      "u",
+      "ine"
+    ],
+    "pronunciation": "ˈjenyəwən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "genuine"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "truly what something is said to be; authentic.",
+            "examples": [
+              "each book is bound in genuine leather"
+            ],
+            "synonyms": [
+              "authentic",
+              "real",
+              "actual",
+              "original",
+              "bona fide",
+              "true",
+              "veritable; Moreattested",
+              "undisputed; informalthe real McCoy",
+              "honest-to-goodness",
+              "honest-to-God",
+              "the real thing",
+              "kosher \"a genuine Picasso\""
+            ],
+            "antonyms": [
+              "bogus"
+            ]
+          },
+          {
+            "definition": "(of a person, emotion, or action) sincere.",
+            "examples": [
+              "she had no doubts as to whether Tom was genuine"
+            ],
+            "synonyms": [
+              "sincere",
+              "honest",
+              "truthful",
+              "straightforward",
+              "direct",
+              "frank",
+              "candid",
+              "open; Moreartless",
+              "natural",
+              "unaffected; informalstraight",
+              "upfront",
+              "on the level",
+              "on the up and up \"a genuine person\""
+            ],
+            "antonyms": [
+              "insincere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

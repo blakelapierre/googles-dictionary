@@ -1,0 +1,162 @@
+[
+  {
+    "word": "witness",
+    "syllables": [
+      "wit",
+      "ness"
+    ],
+    "pronunciation": "ˈwitnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "witness"
+          },
+          {
+            "part": "plural noun",
+            "variant": "witnesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who sees an event, typically a crime or accident, take place.",
+            "examples": [
+              "police are appealing for witnesses to the accident"
+            ],
+            "synonyms": [
+              "observer",
+              "onlooker",
+              "eyewitness",
+              "spectator",
+              "viewer",
+              "watcher; Morebystander",
+              "passerby \"witnesses claimed that he started the fight\""
+            ]
+          },
+          {
+            "definition": "a person giving sworn testimony to a court of law or the police.",
+            "examples": [
+              "deponent, testifier she cross-examined the witness"
+            ]
+          },
+          {
+            "definition": "a person who is present at the signing of a document and signs it themselves to confirm this."
+          },
+          {
+            "definition": "evidence; proof.",
+            "examples": [
+              "the memorial service was witness to the wide circle of his interest"
+            ]
+          },
+          {
+            "definition": "used to refer to confirmation or evidence given by signature, under oath, or otherwise.",
+            "examples": [
+              "in witness thereof, the parties sign this document"
+            ]
+          },
+          {
+            "definition": "open profession of one's religious faith through words or actions.",
+            "examples": [
+              "faithful Christian witness"
+            ]
+          },
+          {
+            "definition": "a member of the Jehovah's Witnesses."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "witness"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "witnesses"
+          },
+          {
+            "part": "past tense",
+            "variant": "witnessed"
+          },
+          {
+            "part": "past participle",
+            "variant": "witnessed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "witnessing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "see (an event, typically a crime or accident) take place.",
+            "examples": [
+              "a bartender who witnessed the murder"
+            ],
+            "synonyms": [
+              "see",
+              "observe",
+              "watch",
+              "view",
+              "notice",
+              "spot; Morebe present at",
+              "attend; literarybehold; informalget a look at \"who witnessed the incident?\""
+            ]
+          },
+          {
+            "definition": "have knowledge of (an event or change) from personal observation or experience.",
+            "examples": [
+              "what we are witnessing is the birth of a dangerously liberal orthodoxy"
+            ],
+            "synonyms": [
+              "undergo",
+              "experience",
+              "go through",
+              "see; Moreenjoy; suffer \"Canada witnessed a cultural explosion\""
+            ]
+          },
+          {
+            "definition": "(of a time, place, or other context) be the setting in which (an event or development) takes place.",
+            "examples": [
+              "the 1980s witnessed an unprecedented increase in the scope of the electronic media"
+            ]
+          },
+          {
+            "definition": "be present as someone signs (a document) or gives (their signature) to a document and sign it oneself to confirm this.",
+            "examples": [
+              "the clerk witnessed her signature"
+            ],
+            "synonyms": [
+              "countersign",
+              "sign",
+              "endorse",
+              "validate; notarize \"the will is correctly witnessed\""
+            ]
+          },
+          {
+            "definition": "look at (used to introduce a fact illustrating a preceding statement).",
+            "examples": [
+              "the nuclear family is a vulnerable institution—witness the rates of marital breakdown"
+            ]
+          },
+          {
+            "definition": "give or serve as evidence of; testify to.",
+            "examples": [
+              "his writings witness to an inner toughness"
+            ]
+          },
+          {
+            "definition": "(of a person) openly profess one's religious faith.",
+            "examples": [
+              "our duty is to witness to God"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

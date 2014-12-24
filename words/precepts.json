@@ -1,0 +1,49 @@
+[
+  {
+    "word": "precept",
+    "syllables": [
+      "pre",
+      "cept"
+    ],
+    "pronunciation": "ˈprēˌsept",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "precepts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a general rule intended to regulate behavior or thought.",
+            "examples": [
+              "moral precepts"
+            ],
+            "synonyms": [
+              "principle",
+              "rule",
+              "tenet",
+              "canon",
+              "doctrine",
+              "command",
+              "order",
+              "decree",
+              "dictate",
+              "dictum",
+              "injunction",
+              "commandment; Moremitzvah; formalprescript \"the precepts of Orthodox Judaism\""
+            ]
+          },
+          {
+            "definition": "a writ or warrant.",
+            "examples": [
+              "the Commissioner issued precepts requiring the companies to provide information"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

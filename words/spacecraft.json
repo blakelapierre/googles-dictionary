@@ -1,0 +1,34 @@
+[
+  {
+    "word": "spacecraft",
+    "syllables": [
+      "space",
+      "craft"
+    ],
+    "pronunciation": "ˈspāsˌkraft",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spacecraft"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spacecraft"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spacecrafts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vehicle used for traveling in space."
+          }
+        ]
+      }
+    ]
+  }
+]

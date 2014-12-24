@@ -1,0 +1,57 @@
+{
+  "word": "specification",
+  "syllables": [
+    "spec",
+    "i",
+    "fi",
+    "ca",
+    "tion"
+  ],
+  "pronunciation": "ˌspesəfəˈkāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "specifications"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an act of describing or identifying something precisely or of stating a precise requirement.",
+          "examples": [
+            "give a full specification of the job advertised"
+          ],
+          "synonyms": [
+            "statement",
+            "identification",
+            "definition",
+            "description",
+            "setting out",
+            "framing",
+            "designation",
+            "detailing",
+            "enumeration; Morestipulation",
+            "prescription \"the clear specification of objectives\""
+          ]
+        },
+        {
+          "definition": "a detailed description of the design and materials used to make something.",
+          "examples": [
+            "instructions, guidelines, parameters, stipulations, requirements, conditions, provisions, restrictions, order; Moredescription, details; informalspecs \"a shelter built to their specifications\"Moredescription, details; specs a shelter built to their specifications"
+          ]
+        },
+        {
+          "definition": "a standard of workmanship, materials, etc., required to be met in a piece of work.",
+          "examples": [
+            "everything was built to a higher specification"
+          ]
+        },
+        {
+          "definition": "a description of an invention accompanying an application for a patent."
+        }
+      ]
+    }
+  ]
+}

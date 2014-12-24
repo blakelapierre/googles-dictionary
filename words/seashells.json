@@ -1,0 +1,26 @@
+[
+  {
+    "word": "seashell",
+    "syllables": [
+      "sea",
+      "shell"
+    ],
+    "pronunciation": "ˈsēˌSHel",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "seashells"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the shell of a marine mollusk."
+          }
+        ]
+      }
+    ]
+  }
+]

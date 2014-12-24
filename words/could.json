@@ -1,0 +1,49 @@
+[
+  {
+    "word": "could",
+    "syllables": [
+      "could"
+    ],
+    "pronunciation": "ko͝odkəd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "modal verb",
+            "variant": "could"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "past of can1."
+          },
+          {
+            "definition": "used to indicate possibility.",
+            "examples": [
+              "they could be right"
+            ]
+          },
+          {
+            "definition": "used in making polite requests.",
+            "examples": [
+              "could I use the phone?"
+            ]
+          },
+          {
+            "definition": "used to indicate annoyance because of something that has not been done.",
+            "examples": [
+              "they could have told me!"
+            ]
+          },
+          {
+            "definition": "used to indicate a strong inclination to do something.",
+            "examples": [
+              "he irritates me so much that I could scream"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

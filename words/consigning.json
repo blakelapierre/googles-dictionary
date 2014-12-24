@@ -1,0 +1,65 @@
+[
+  {
+    "word": "consign",
+    "syllables": [
+      "con",
+      "sign"
+    ],
+    "pronunciation": "kənˈsīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "consigning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deliver (something) to a person's custody, typically in order for it to be sold.",
+            "examples": [
+              "he consigned three paintings to Sotheby's"
+            ],
+            "synonyms": [
+              "assign",
+              "allocate",
+              "place",
+              "put",
+              "remit",
+              "commit \"the picture was consigned to the gallery\""
+            ]
+          },
+          {
+            "definition": "send (goods) by a public carrier.",
+            "examples": [
+              "send (off), courier, dispatch, transmit, convey, mail, post, ship the package was consigned by a local company"
+            ]
+          },
+          {
+            "definition": "assign; commit decisively or permanently.",
+            "examples": [
+              "she consigned the letter to the wastebasket"
+            ],
+            "synonyms": [
+              "send to",
+              "deliver to",
+              "hand over to",
+              "turn over to",
+              "sentence to; Moreconfine in",
+              "imprison in",
+              "incarcerate in",
+              "lock up in; informalput away",
+              "put behind bars",
+              "send up the river \"he was consigned to a small",
+              "dark dungeon\"deposit",
+              "commit",
+              "banish",
+              "relegate \"I consigned her picture to the garbage can\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

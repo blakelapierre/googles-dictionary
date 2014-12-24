@@ -1,0 +1,128 @@
+[
+  {
+    "word": "mild",
+    "syllables": [
+      "mild"
+    ],
+    "pronunciation": "mīld",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "mild"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "milder"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "mildest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gentle and not easily provoked.",
+            "examples": [
+              "she was implacable, despite her mild exterior"
+            ],
+            "synonyms": [
+              "gentle",
+              "tender",
+              "softhearted",
+              "tenderhearted",
+              "sensitive",
+              "sympathetic",
+              "warm",
+              "placid",
+              "calm",
+              "tranquil",
+              "serene",
+              "peaceable",
+              "good-natured",
+              "mild-mannered",
+              "amiable",
+              "affable",
+              "genial",
+              "easygoing \"a mild tone of voice\""
+            ],
+            "antonyms": [
+              "harsh"
+            ]
+          },
+          {
+            "definition": "(of a rule or punishment) of only moderate severity.",
+            "examples": [
+              "he received a mild sentence"
+            ]
+          },
+          {
+            "definition": "not keenly felt or seriously intended.",
+            "examples": [
+              "she looked at him in mild surprise"
+            ],
+            "synonyms": [
+              "slight",
+              "faint",
+              "vague",
+              "minimal",
+              "nominal",
+              "moderate",
+              "token",
+              "feeble \"he was eyeing her with mild interest\""
+            ],
+            "antonyms": [
+              "strong"
+            ]
+          },
+          {
+            "definition": "(of an illness or pain) not serious or dangerous.",
+            "examples": [
+              "lenient, light; Morecompassionate, merciful, humane \"a mild punishment\"Morecompassionate, merciful, humane a mild punishment"
+            ],
+            "antonyms": [
+              "harsh",
+              "cruel"
+            ]
+          },
+          {
+            "definition": "(of weather) moderately warm, especially less cold than expected.",
+            "examples": [
+              "it is still mild enough to work outdoors"
+            ],
+            "synonyms": [
+              "warm",
+              "balmy",
+              "temperate",
+              "clement \"mild weather\""
+            ],
+            "antonyms": [
+              "cold",
+              "severe"
+            ]
+          },
+          {
+            "definition": "(of a medicine or cosmetic) acting gently and without causing harm."
+          },
+          {
+            "definition": "(of food, drink, or tobacco) not sharp or strong in flavor.",
+            "examples": [
+              "a mild Italian cheese"
+            ],
+            "synonyms": [
+              "bland",
+              "insipid",
+              "tame \"a mild curry\""
+            ],
+            "antonyms": [
+              "spicy",
+              "piquant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

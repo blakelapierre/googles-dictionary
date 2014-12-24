@@ -1,0 +1,127 @@
+[
+  {
+    "word": "orbit",
+    "syllables": [
+      "or",
+      "bit"
+    ],
+    "pronunciation": "ˈôrbət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "orbit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "orbits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the curved path of a celestial object or spacecraft around a star, planet, or moon, especially a periodic elliptical revolution.",
+            "examples": [
+              "course, path, circuit, track, trajectory, rotation, revolution, circle; circumgyration the monthly orbit of the Moon"
+            ]
+          },
+          {
+            "definition": "one complete circuit around an orbited body."
+          },
+          {
+            "definition": "the state of being on or moving in an orbit.",
+            "examples": [
+              "planets in orbit around the sun"
+            ]
+          },
+          {
+            "definition": "the path of an electron around an atomic nucleus."
+          },
+          {
+            "definition": "a sphere of activity, interest, or application.",
+            "examples": [
+              "a radical filmmaker outside the Hollywood orbit"
+            ],
+            "synonyms": [
+              "sphere",
+              "sphere of influence",
+              "area of activity",
+              "range",
+              "scope",
+              "ambit",
+              "compass",
+              "jurisdiction",
+              "authority",
+              "domain",
+              "realm",
+              "province",
+              "territory",
+              "turf; informalbailiwick \"the problem comes outside our orbit\""
+            ]
+          },
+          {
+            "definition": "the cavity in the skull of a vertebrate that contains the eye; the eye socket."
+          },
+          {
+            "definition": "the area around the eye of a bird or other animal."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "orbit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "orbits"
+          },
+          {
+            "part": "past tense",
+            "variant": "orbited"
+          },
+          {
+            "part": "past participle",
+            "variant": "orbited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "orbiting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a celestial object or spacecraft) move in orbit around (a star, planet, or moon).",
+            "examples": [
+              "Mercury orbits the Sun"
+            ],
+            "synonyms": [
+              "revolve around",
+              "circle around",
+              "go around",
+              "travel around \"Mercury orbits the Sun\""
+            ]
+          },
+          {
+            "definition": "fly or move around in a circle.",
+            "examples": [
+              "the mobile's disks spun and orbited slowly"
+            ],
+            "synonyms": [
+              "revolve around",
+              "circle around",
+              "go around",
+              "travel around \"Mercury orbits the Sun\""
+            ]
+          },
+          {
+            "definition": "put (a satellite) into orbit."
+          }
+        ]
+      }
+    ]
+  }
+]

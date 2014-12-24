@@ -1,0 +1,163 @@
+[
+  {
+    "word": "attend",
+    "syllables": [
+      "at",
+      "tend"
+    ],
+    "pronunciation": "əˈtend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "attend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "attends"
+          },
+          {
+            "part": "past tense",
+            "variant": "attended"
+          },
+          {
+            "part": "past participle",
+            "variant": "attended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "attending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be present at (an event, meeting, or function).",
+            "examples": [
+              "the entire sales force attended the conference"
+            ],
+            "synonyms": [
+              "be present at",
+              "sit in on",
+              "take part in; Moreappear at",
+              "present oneself at",
+              "turn up at",
+              "visit",
+              "go to; informalshow up at",
+              "show one's face at \"they attended a carol service\""
+            ],
+            "antonyms": [
+              "miss"
+            ]
+          },
+          {
+            "definition": "go regularly to (an educational, religious, social, or clinical institution).",
+            "examples": [
+              "all children are required to attend school"
+            ]
+          },
+          {
+            "definition": "deal with.",
+            "examples": [
+              "he muttered that he had business to attend to"
+            ],
+            "synonyms": [
+              "deal with",
+              "see to",
+              "manage",
+              "organize",
+              "sort out",
+              "handle",
+              "take care of",
+              "take charge of",
+              "take in hand",
+              "tackle \"he attended to the boy's education\""
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "give practical help and care to; look after.",
+            "examples": [
+              "the severely wounded had two medics to attend to their wounds"
+            ],
+            "synonyms": [
+              "care for",
+              "look after",
+              "minister to",
+              "see to; Moretend (to)",
+              "treat",
+              "nurse",
+              "help",
+              "aid",
+              "assist",
+              "succor; informaldoctor \"the wounded were attended to nearby\""
+            ]
+          },
+          {
+            "definition": "pay attention to.",
+            "examples": [
+              "Alice hadn't attended to a word of his sermon"
+            ],
+            "synonyms": [
+              "pay attention to",
+              "pay heed to",
+              "be attentive to",
+              "listen to; Moreconcentrate on",
+              "take note of",
+              "bear in mind",
+              "take into consideration",
+              "heed",
+              "observe",
+              "mark \"he had not attended to the regulations\""
+            ],
+            "antonyms": [
+              "disregard",
+              "ignore"
+            ]
+          },
+          {
+            "definition": "occur with or as a result of.",
+            "examples": [
+              "people feared that the switch to a peacetime economy would be attended by a severe slump"
+            ],
+            "synonyms": [
+              "be accompanied by",
+              "occur with",
+              "coexist with",
+              "be associated with",
+              "connected with",
+              "be linked with; Morebe produced by",
+              "originate from/in",
+              "stem from",
+              "result from",
+              "arise from \"her weakness was attended with a fever\""
+            ]
+          },
+          {
+            "definition": "escort or accompany (a member of royalty or other important personage) so as to assist them; wait on.",
+            "examples": [
+              "Her Royal Highness was attended by two capable women"
+            ],
+            "synonyms": [
+              "escort",
+              "accompany",
+              "chaperone",
+              "squire",
+              "guide",
+              "lead",
+              "conduct",
+              "usher",
+              "shepherd; Moreassist",
+              "help",
+              "serve",
+              "wait on \"the princess was attended by an usher\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

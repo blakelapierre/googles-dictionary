@@ -1,0 +1,59 @@
+{
+  "word": "corps",
+  "syllables": [
+    "corps"
+  ],
+  "pronunciation": "kôr",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "corps"
+        },
+        {
+          "part": "plural noun",
+          "variant": "corps"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a main subdivision of an armed force in the field, consisting of two or more divisions.",
+          "examples": [
+            "the 5th Army Corps"
+          ]
+        },
+        {
+          "definition": "a branch of a military organization assigned to a particular kind of work.",
+          "examples": [
+            "the U.S. Army Medical Corps"
+          ]
+        },
+        {
+          "definition": "a body of people engaged in a particular activity.",
+          "examples": [
+            "the press corps"
+          ],
+          "synonyms": [
+            "unit",
+            "division",
+            "detachment",
+            "section",
+            "company",
+            "contingent",
+            "squad",
+            "squadron",
+            "regiment",
+            "battalion",
+            "brigade",
+            "platoon \"an army corps\""
+          ]
+        },
+        {
+          "definition": "short for corps de ballet."
+        }
+      ]
+    }
+  ]
+}

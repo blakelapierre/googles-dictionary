@@ -1,0 +1,48 @@
+{
+  "word": "splay",
+  "syllables": [
+    "splay"
+  ],
+  "pronunciation": "splā",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "splayed"
+        },
+        {
+          "part": "past participle",
+          "variant": "splayed"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "thrust or spread (things, especially limbs or fingers) out and apart.",
+          "examples": [
+            "her hands were splayed across his broad shoulders"
+          ]
+        },
+        {
+          "definition": "(especially of limbs or fingers) be thrust or spread out and apart.",
+          "examples": [
+            "his legs splayed out in front of him"
+          ]
+        },
+        {
+          "definition": "(of a thing) diverge in shape or position; become wider or more separated.",
+          "examples": [
+            "the river splayed out, deepening to become an estuary"
+          ]
+        },
+        {
+          "definition": "construct (a window, doorway, or aperture) so that it diverges or is wider at one side of the wall than the other.",
+          "examples": [
+            "the walls are pierced by splayed window openings"
+          ]
+        }
+      ]
+    }
+  ]
+}

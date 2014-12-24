@@ -1,0 +1,96 @@
+[
+  {
+    "word": "accurate",
+    "syllables": [
+      "ac",
+      "cu",
+      "rate"
+    ],
+    "pronunciation": "ˈakyərət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "accurate"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of information, measurements, statistics, etc.) correct in all details; exact.",
+            "examples": [
+              "accurate information about the illness is essential"
+            ],
+            "synonyms": [
+              "correct",
+              "precise",
+              "exact",
+              "right",
+              "error-free",
+              "perfect; Morefactual",
+              "fact-based",
+              "literal",
+              "faithful",
+              "true",
+              "truthful",
+              "true to life",
+              "authentic",
+              "realistic; informalon the mark",
+              "bang on",
+              "on the money",
+              "on the button; formalveracious \"accurate information\""
+            ]
+          },
+          {
+            "definition": "(of an instrument or method) capable of giving accurate information.",
+            "examples": [
+              "an accurate thermometer"
+            ]
+          },
+          {
+            "definition": "faithfully or fairly representing the truth about someone or something.",
+            "examples": [
+              "the portrait is an accurate likeness of Mozart"
+            ],
+            "synonyms": [
+              "correct",
+              "precise",
+              "exact",
+              "right",
+              "error-free",
+              "perfect; Morefactual",
+              "fact-based",
+              "literal",
+              "faithful",
+              "true",
+              "truthful",
+              "true to life",
+              "authentic",
+              "realistic; informalon the mark",
+              "bang on",
+              "on the money",
+              "on the button; formalveracious \"accurate information\""
+            ]
+          },
+          {
+            "definition": "(with reference to a weapon, missile, or shot) capable of or successful in reaching the intended target.",
+            "examples": [
+              "reliable, accurate rifles"
+            ],
+            "synonyms": [
+              "well aimed",
+              "on target",
+              "unerring",
+              "deadly",
+              "lethal",
+              "sure",
+              "true",
+              "on the mark \"an accurate shot\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

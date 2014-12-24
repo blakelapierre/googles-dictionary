@@ -1,0 +1,98 @@
+{
+  "word": "communication",
+  "syllables": [
+    "com",
+    "mu",
+    "ni",
+    "ca",
+    "tion"
+  ],
+  "pronunciation": "kəˌmyo͞onəˈkāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "communication"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the imparting or exchanging of information or news.",
+          "examples": [
+            "direct communication between the two countries will produce greater understanding"
+          ],
+          "synonyms": [
+            "transmission",
+            "conveyance",
+            "divulgence",
+            "disclosure; Moredissemination",
+            "promulgation",
+            "broadcasting \"the communication of news\""
+          ]
+        },
+        {
+          "definition": "a letter or message containing information or news.",
+          "examples": [
+            "plural noun: communications"
+          ],
+          "synonyms": [
+            "message",
+            "statement",
+            "announcement",
+            "report",
+            "dispatch",
+            "communiqué",
+            "letter",
+            "bulletin",
+            "correspondence \"an official communication\""
+          ]
+        },
+        {
+          "definition": "the successful conveying or sharing of ideas and feelings.",
+          "examples": [
+            "there was a lack of communication between Pamela and her parents"
+          ]
+        },
+        {
+          "definition": "social contact.",
+          "examples": [
+            "she gave him some hope of her return, or at least of their future communication"
+          ],
+          "synonyms": [
+            "contact",
+            "dealings",
+            "relations",
+            "connection",
+            "association",
+            "socializing",
+            "intercourse; Morecorrespondence",
+            "dialogue",
+            "talk",
+            "conversation",
+            "discussion \"there was no communication between them\""
+          ]
+        },
+        {
+          "definition": "means of connection between people or places, in particular."
+        },
+        {
+          "definition": "the means of sending or receiving information, such as telephone lines or computers.",
+          "examples": [
+            "plural noun: communications"
+          ]
+        },
+        {
+          "definition": "the means of traveling or of transporting goods, such as roads or railroads.",
+          "examples": [
+            "a city providing excellent road and rail communications"
+          ]
+        },
+        {
+          "definition": "the field of study concerned with the transmission of information by various means."
+        }
+      ]
+    }
+  ]
+}

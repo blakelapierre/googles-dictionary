@@ -1,0 +1,57 @@
+[
+  {
+    "word": "entirely",
+    "syllables": [
+      "en",
+      "tire",
+      "ly"
+    ],
+    "pronunciation": "ənˈtī(ə)rlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "entirely"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "completely (often used for emphasis).",
+            "examples": [
+              "the juries were made up entirely of men"
+            ],
+            "synonyms": [
+              "absolutely",
+              "completely",
+              "totally",
+              "wholly",
+              "utterly",
+              "quite; Morealtogether",
+              "in every respect",
+              "thoroughly",
+              "downright",
+              "one hundred percent \"that's entirely out of the question\""
+            ]
+          },
+          {
+            "definition": "solely.",
+            "examples": [
+              "eight coaches entirely for passenger transport"
+            ],
+            "synonyms": [
+              "solely",
+              "only",
+              "exclusively",
+              "purely",
+              "merely",
+              "just",
+              "alone \"a gift entirely for charitable purposes\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

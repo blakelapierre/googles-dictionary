@@ -1,0 +1,32 @@
+[
+  {
+    "word": "motorcycle",
+    "syllables": [
+      "mo",
+      "tor",
+      "cy",
+      "cle"
+    ],
+    "pronunciation": "ˈmōdərˌsīk(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "motorcycle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "motorcycles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a two-wheeled vehicle that is powered by a motor and has no pedals."
+          }
+        ]
+      }
+    ]
+  }
+]

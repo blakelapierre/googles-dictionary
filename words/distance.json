@@ -1,0 +1,130 @@
+{
+  "word": "distance",
+  "syllables": [
+    "dis",
+    "tance"
+  ],
+  "pronunciation": "ˈdistəns",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "distances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an amount of space between two things or people.",
+          "examples": [
+            "I bicycled the short distance home"
+          ],
+          "synonyms": [
+            "interval",
+            "space",
+            "span",
+            "gap",
+            "extent; Morelength",
+            "width",
+            "breadth",
+            "depth; range",
+            "reach \"they measured the distance\""
+          ]
+        },
+        {
+          "definition": "the condition of being far off; remoteness.",
+          "examples": [
+            "distance makes things look small"
+          ],
+          "synonyms": [
+            "remoteness; closeness \"our perception of distance\""
+          ]
+        },
+        {
+          "definition": "a far-off point or place.",
+          "examples": [
+            "watching them from a distance"
+          ]
+        },
+        {
+          "definition": "the more remote part of what is visible or discernible.",
+          "examples": [
+            "noun: the distance"
+          ]
+        },
+        {
+          "definition": "an interval of time.",
+          "examples": [
+            "a distance of more than twenty years"
+          ]
+        },
+        {
+          "definition": "the full length of a race.",
+          "examples": [
+            "he claimed the 10,000 meter title in only his second race over the distance"
+          ]
+        },
+        {
+          "definition": "the distance from the winning post that a horse must have reached when the winner finishes in order to qualify for a subsequent heat."
+        },
+        {
+          "definition": "the scheduled length of a fight.",
+          "examples": [
+            "noun: the distance"
+          ]
+        },
+        {
+          "definition": "the avoidance of familiarity; aloofness or reserve.",
+          "examples": [
+            "a mix of warmth and distance makes a good neighbor"
+          ],
+          "synonyms": [
+            "aloofness",
+            "remoteness",
+            "detachment",
+            "unfriendliness; Morereserve",
+            "reticence",
+            "restraint",
+            "formality; informalstandoffishness \"there is a distance between them\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "distances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make (someone or something) far off or remote in position or nature.",
+          "examples": [
+            "her mother wished to distance her from the rough village children"
+          ],
+          "synonyms": [
+            "withdraw",
+            "detach",
+            "separate",
+            "dissociate",
+            "disassociate",
+            "isolate",
+            "put at a distance \"he distanced himself from her\""
+          ]
+        },
+        {
+          "definition": "declare that one is not connected with or a supporter of (someone or something).",
+          "examples": [
+            "he sought to distance himself from the proposals"
+          ]
+        },
+        {
+          "definition": "beat (a horse) by a distance."
+        }
+      ]
+    }
+  ]
+}

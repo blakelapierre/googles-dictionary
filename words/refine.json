@@ -1,0 +1,45 @@
+{
+  "word": "refine",
+  "syllables": [
+    "re",
+    "fine"
+  ],
+  "pronunciation": "rəˈfīn",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "gerund or present participle",
+          "variant": "refining"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "remove impurities or unwanted elements from (a substance), typically as part of an industrial process.",
+          "examples": [
+            "sugar was refined by boiling it in huge iron vats"
+          ],
+          "synonyms": [
+            "purify",
+            "process",
+            "treat \"refining our cereal foods\""
+          ]
+        },
+        {
+          "definition": "improve (something) by making small changes, in particular make (an idea, theory, or method) more subtle and accurate.",
+          "examples": [
+            "ease of access to computers has refined analysis and presentation of data"
+          ],
+          "synonyms": [
+            "improve",
+            "perfect",
+            "polish (up)",
+            "hone",
+            "fine-tune \"helping students to refine their language skills\""
+          ]
+        }
+      ]
+    }
+  ]
+}

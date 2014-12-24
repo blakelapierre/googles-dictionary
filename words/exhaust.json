@@ -1,0 +1,135 @@
+[
+  {
+    "word": "exhaust",
+    "syllables": [
+      "ex",
+      "haust"
+    ],
+    "pronunciation": "iɡˈzôst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "exhaust"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "exhausts"
+          },
+          {
+            "part": "past tense",
+            "variant": "exhausted"
+          },
+          {
+            "part": "past participle",
+            "variant": "exhausted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "exhausting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "drain (someone) of their physical or mental resources; tire out.",
+            "examples": [
+              "her day trip had exhausted her"
+            ],
+            "synonyms": [
+              "tire out",
+              "wear out",
+              "overtire",
+              "fatigue",
+              "weary",
+              "tire",
+              "drain",
+              "run someone into the ground; Moreinformaldo in",
+              "take it out of one",
+              "wipe out",
+              "knock out",
+              "burn out",
+              "poop",
+              "tucker out \"the effort had exhausted him\"tiring",
+              "wearying",
+              "taxing",
+              "fatiguing",
+              "wearing",
+              "enervating",
+              "draining; arduous",
+              "strenuous",
+              "onerous",
+              "demanding",
+              "grueling; informalkilling",
+              "murderous \"an exhausting day of moving furniture\""
+            ],
+            "antonyms": [
+              "invigorate",
+              "refresh"
+            ]
+          },
+          {
+            "definition": "use up (resources or reserves) completely.",
+            "examples": [
+              "the country has exhausted its treasury reserves"
+            ],
+            "synonyms": [
+              "use up",
+              "run through",
+              "go through",
+              "consume",
+              "finish",
+              "deplete",
+              "spend",
+              "empty",
+              "drain",
+              "run out of; informalblow \"the country has exhausted its reserves\""
+            ],
+            "antonyms": [
+              "replenish"
+            ]
+          },
+          {
+            "definition": "expound on, write about, or explore (a subject or options) so fully that there is nothing further to be said or discovered.",
+            "examples": [
+              "she seemed to have exhausted all permissible topics of conversation"
+            ],
+            "synonyms": [
+              "treat thoroughly",
+              "say all there is to say about",
+              "do to death",
+              "overwork \"we've exhausted the subject\""
+            ]
+          },
+          {
+            "definition": "expel (gas or steam) from or into a particular place."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exhaust"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "waste gases or air expelled from an engine, turbine, or other machine in the course of its operation.",
+            "examples": [
+              "buses spewing out black clouds of exhaust"
+            ]
+          },
+          {
+            "definition": "the system through which waste gases are expelled.",
+            "examples": [
+              "plural noun: exhausts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

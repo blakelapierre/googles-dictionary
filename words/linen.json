@@ -1,0 +1,33 @@
+[
+  {
+    "word": "linen",
+    "syllables": [
+      "lin",
+      "en"
+    ],
+    "pronunciation": "ˈlinin",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "linen"
+          },
+          {
+            "part": "plural noun",
+            "variant": "linens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cloth woven from flax."
+          },
+          {
+            "definition": "garments or other household articles such as sheets made, or originally made, of linen."
+          }
+        ]
+      }
+    ]
+  }
+]

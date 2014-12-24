@@ -1,0 +1,71 @@
+[
+  {
+    "word": "obtain",
+    "syllables": [
+      "ob",
+      "tain"
+    ],
+    "pronunciation": "əbˈtānäbˈtān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "obtained"
+          },
+          {
+            "part": "past participle",
+            "variant": "obtained"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "get, acquire, or secure (something).",
+            "examples": [
+              "an opportunity to obtain advanced degrees"
+            ],
+            "synonyms": [
+              "get",
+              "acquire",
+              "come by",
+              "secure",
+              "procure",
+              "come into the possession of",
+              "pick up",
+              "be given; Moregain",
+              "earn",
+              "achieve",
+              "attain; informalget hold of",
+              "get/lay one's hands on",
+              "get one's mitts on",
+              "land",
+              "net \"the newspaper obtained a copy of the letter\""
+            ],
+            "antonyms": [
+              "relinquish",
+              "lose"
+            ]
+          },
+          {
+            "definition": "be prevalent, customary, or established.",
+            "examples": [
+              "the price of silver fell to that obtaining elsewhere in the ancient world"
+            ],
+            "synonyms": [
+              "prevail",
+              "be in force",
+              "apply",
+              "exist",
+              "be in use",
+              "be in effect",
+              "stand",
+              "hold",
+              "be the case \"rules obtaining in other jurisdictions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

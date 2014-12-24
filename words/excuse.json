@@ -1,0 +1,52 @@
+[
+  {
+    "word": "excuse",
+    "syllables": [
+      "ex",
+      "cuse"
+    ],
+    "pronunciation": "ikˈskyo͞ozikˈskyo͞os",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "excuse"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "excuses"
+          },
+          {
+            "part": "past tense",
+            "variant": "excused"
+          },
+          {
+            "part": "past participle",
+            "variant": "excused"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "excusing"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "excuse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "excuses"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

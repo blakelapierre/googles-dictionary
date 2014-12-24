@@ -1,0 +1,41 @@
+[
+  {
+    "word": "nightclub",
+    "syllables": [
+      "night",
+      "club"
+    ],
+    "pronunciation": "ˈnītˌkləb",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nightclub"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nightclubs"
+          },
+          {
+            "part": "noun",
+            "variant": "night-club"
+          },
+          {
+            "part": "plural noun",
+            "variant": "night-clubs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an establishment for nighttime entertainment, typically serving drinks and offering music, dancing, etc.",
+            "examples": [
+              "club, nightspot, disco, discotheque, bar, lounge; strip club we hit all the hot nightclubs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

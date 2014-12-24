@@ -1,0 +1,55 @@
+[
+  {
+    "word": "lattice",
+    "syllables": [
+      "lat",
+      "tice"
+    ],
+    "pronunciation": "ˈladəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lattice"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lattices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a structure consisting of strips of wood or metal crossed and fastened together with square or diamond-shaped spaces left between, used typically as a screen or fence or as a support for climbing plants.",
+            "examples": [
+              "grid, latticework, fretwork, open framework, openwork, trellis, trelliswork, espalier, grille, network, mesh the ivy-covered lattice"
+            ]
+          },
+          {
+            "definition": "an interlaced structure or pattern resembling this.",
+            "examples": [
+              "the lattice of branches above her"
+            ],
+            "synonyms": [
+              "grid",
+              "latticework",
+              "fretwork",
+              "open framework",
+              "openwork",
+              "trellis",
+              "trelliswork",
+              "espalier",
+              "grille",
+              "network",
+              "mesh \"the ivy-covered lattice\""
+            ]
+          },
+          {
+            "definition": "a regular repeated three-dimensional arrangement of atoms, ions, or molecules in a metal or other crystalline solid."
+          }
+        ]
+      }
+    ]
+  }
+]

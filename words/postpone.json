@@ -1,0 +1,60 @@
+[
+  {
+    "word": "postpone",
+    "syllables": [
+      "post",
+      "pone"
+    ],
+    "pronunciation": "pōˈspōnpōstˈpōn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "postpone"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "postpones"
+          },
+          {
+            "part": "past tense",
+            "variant": "postponed"
+          },
+          {
+            "part": "past participle",
+            "variant": "postponed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "postponing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause or arrange for (something) to take place at a time later than that first scheduled.",
+            "examples": [
+              "the visit had to be postponed for some time"
+            ],
+            "synonyms": [
+              "put off/back",
+              "delay",
+              "defer",
+              "reschedule",
+              "adjourn",
+              "shelve",
+              "put over",
+              "take a rain check on; Moreinformalput on ice",
+              "put on the back burner; rareremit \"sorry",
+              "we'll have to postpone the relay race\""
+            ],
+            "antonyms": [
+              "bring forward"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

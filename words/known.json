@@ -1,0 +1,58 @@
+{
+  "word": "known",
+  "syllables": [
+    "known"
+  ],
+  "pronunciation": "nōn",
+  "parts": [
+    {
+      "part": "",
+      "variants": [],
+      "definitions": []
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "known"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "recognized, familiar, or within the scope of knowledge.",
+          "examples": [
+            "bivalved crustaceans little known to nonprofessionals"
+          ],
+          "synonyms": [
+            "familiar",
+            "known about",
+            "well known; Morestudied",
+            "investigated \"the known world\""
+          ]
+        },
+        {
+          "definition": "publicly acknowledged to be.",
+          "examples": [
+            "a known criminal"
+          ],
+          "synonyms": [
+            "recognized",
+            "well known",
+            "widely known",
+            "noted",
+            "celebrated",
+            "notable",
+            "notorious; Moreacknowledged",
+            "self-confessed",
+            "declared",
+            "overt \"a known criminal\""
+          ]
+        },
+        {
+          "definition": "(of a quantity or variable) having a value that can be stated."
+        }
+      ]
+    }
+  ]
+}

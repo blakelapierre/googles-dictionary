@@ -1,0 +1,194 @@
+{
+  "word": "sense",
+  "syllables": [
+    "sense"
+  ],
+  "pronunciation": "sens",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "senses"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a faculty by which the body perceives an external stimulus; one of the faculties of sight, smell, hearing, taste, and touch.",
+          "examples": [
+            "the bear has a keen sense of smell that enables it to hunt at dusk"
+          ],
+          "synonyms": [
+            "sensory faculty",
+            "feeling",
+            "sensation",
+            "perception; Moresight",
+            "hearing",
+            "touch",
+            "taste",
+            "smell \"the sense of touch\""
+          ]
+        },
+        {
+          "definition": "a feeling that something is the case.",
+          "examples": [
+            "she had the sense of being a political outsider"
+          ],
+          "synonyms": [
+            "feeling",
+            "awareness",
+            "sensation",
+            "consciousness",
+            "recognition \"a sense of guilt\""
+          ]
+        },
+        {
+          "definition": "an awareness or feeling that one is in a specified state.",
+          "examples": [
+            "you can improve your general health and sense of well-being"
+          ]
+        },
+        {
+          "definition": "a keen intuitive awareness of or sensitivity to the presence or importance of something.",
+          "examples": [
+            "she had a fine sense of comic timing"
+          ],
+          "synonyms": [
+            "appreciation",
+            "awareness",
+            "understanding",
+            "comprehension",
+            "discernment; informalnose \"a sense of humor\""
+          ]
+        },
+        {
+          "definition": "a sane and realistic attitude to situations and problems.",
+          "examples": [
+            "he earned respect by the good sense he showed at meetings"
+          ],
+          "synonyms": [
+            "wisdom",
+            "common sense",
+            "sagacity",
+            "discernment",
+            "perception; Morewit",
+            "intelligence",
+            "cleverness",
+            "shrewdness",
+            "judgment",
+            "reason",
+            "logic",
+            "brain(s); informalgumption",
+            "horse sense",
+            "savvy",
+            "(street) smarts \"she had the sense to press the panic button\""
+          ],
+          "antonyms": [
+            "stupidity"
+          ]
+        },
+        {
+          "definition": "a reasonable or comprehensible rationale.",
+          "examples": [
+            "I can't see the sense in leaving all the work to you"
+          ],
+          "synonyms": [
+            "purpose",
+            "point",
+            "reason",
+            "object",
+            "motive; Moreuse",
+            "value",
+            "advantage",
+            "benefit \"I can't see the sense in this\""
+          ]
+        },
+        {
+          "definition": "a way in which an expression or a situation can be interpreted; a meaning.",
+          "examples": [
+            "it is not clear which sense of the word “characters” is intended in this passage"
+          ],
+          "synonyms": [
+            "meaning",
+            "definition",
+            "import",
+            "signification",
+            "significance",
+            "purport",
+            "implication",
+            "nuance; Moredrift",
+            "gist",
+            "thrust",
+            "tenor",
+            "message \"the different senses of “well”\""
+          ]
+        },
+        {
+          "definition": "a property, e.g., direction of motion, distinguishing a pair of objects, quantities, effects, etc., that differ only in that each is the reverse of the other."
+        },
+        {
+          "definition": "relating to or denoting a coding sequence of nucleotides, complementary to an antisense sequence.",
+          "examples": [
+            "modifier noun: sense"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "senses"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "perceive by a sense or senses.",
+          "examples": [
+            "with the first frost, they could sense a change in the days"
+          ],
+          "synonyms": [
+            "discern",
+            "feel",
+            "observe",
+            "notice",
+            "recognize",
+            "pick up (on)",
+            "be aware of",
+            "distinguish",
+            "make out",
+            "identify; Morecomprehend",
+            "apprehend",
+            "see",
+            "appreciate",
+            "realize; suspect",
+            "have a funny feeling about",
+            "have a hunch about",
+            "divine",
+            "intuit; informalcatch on to \"she sensed their hostility\""
+          ]
+        },
+        {
+          "definition": "be aware of.",
+          "examples": [
+            "she could sense her father's anger rising"
+          ]
+        },
+        {
+          "definition": "be aware that something is the case without being able to define exactly how one knows.",
+          "examples": [
+            "he could sense that he wasn't liked"
+          ]
+        },
+        {
+          "definition": "(of a machine or similar device) detect.",
+          "examples": [
+            "an optical fiber senses a current flowing in a conductor"
+          ]
+        }
+      ]
+    }
+  ]
+}

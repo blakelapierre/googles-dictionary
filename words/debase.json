@@ -1,0 +1,76 @@
+[
+  {
+    "word": "debase",
+    "syllables": [
+      "de",
+      "base"
+    ],
+    "pronunciation": "dəˈbās",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "debase"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "debases"
+          },
+          {
+            "part": "past tense",
+            "variant": "debased"
+          },
+          {
+            "part": "past participle",
+            "variant": "debased"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "debasing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reduce (something) in quality or value; degrade.",
+            "examples": [
+              "the love episodes debase the dignity of the drama"
+            ],
+            "synonyms": [
+              "degrade",
+              "devalue",
+              "demean",
+              "cheapen",
+              "prostitute",
+              "discredit",
+              "drag down",
+              "tarnish",
+              "blacken",
+              "blemish; Moredisgrace",
+              "dishonor",
+              "shame; damage",
+              "harm",
+              "undermine \"the moral code has been debased\""
+            ],
+            "antonyms": [
+              "enhance"
+            ]
+          },
+          {
+            "definition": "lower the moral character of (someone).",
+            "examples": [
+              "war debases people"
+            ]
+          },
+          {
+            "definition": "lower the value of (coinage) by reducing the content of precious metal.",
+            "examples": [
+              "reduce in value, reduce in quality, depreciate; Morecontaminate, adulterate, pollute, taint, sully, corrupt; dilute, alloy \"the added copper debases the silver\"Morecontaminate, adulterate, pollute, taint, sully, corrupt; dilute, alloy the added copper debases the silver"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

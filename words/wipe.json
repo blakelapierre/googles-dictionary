@@ -1,0 +1,122 @@
+[
+  {
+    "word": "wipe",
+    "syllables": [
+      "wipe"
+    ],
+    "pronunciation": "wīp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "wipe"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wipes"
+          },
+          {
+            "part": "past tense",
+            "variant": "wiped"
+          },
+          {
+            "part": "past participle",
+            "variant": "wiped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "wiping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clean or dry (something) by rubbing its surface with a cloth, a piece of paper, or one's hand.",
+            "examples": [
+              "Paul wiped his face with a handkerchief"
+            ],
+            "synonyms": [
+              "rub",
+              "mop",
+              "sponge",
+              "swab; Moreclean",
+              "dry",
+              "polish",
+              "towel \"Beth wiped the table\""
+            ]
+          },
+          {
+            "definition": "remove (dirt or moisture) from something by rubbing its surface with a cloth, a piece of paper, or one's hand.",
+            "examples": [
+              "she wiped away a tear"
+            ],
+            "synonyms": [
+              "rub off",
+              "clean off",
+              "remove from",
+              "get rid of from",
+              "take off from",
+              "erase from",
+              "efface from \"he wiped the marks off the window\""
+            ]
+          },
+          {
+            "definition": "clean (something) by rubbing it against a surface.",
+            "examples": [
+              "the man wiped his hands on his hips"
+            ]
+          },
+          {
+            "definition": "spread (a liquid) over a surface by rubbing.",
+            "examples": [
+              "gently wipe the lotion over the eyelids"
+            ]
+          },
+          {
+            "definition": "remove or eliminate (something) completely.",
+            "examples": [
+              "things have happened to wipe the smile off Kate's face"
+            ],
+            "synonyms": [
+              "obliterate",
+              "expunge",
+              "erase",
+              "blot out \"she wiped the memory from her mind\""
+            ]
+          },
+          {
+            "definition": "erase (data) from a magnetic medium."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wipe"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wipes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of wiping.",
+            "examples": [
+              "rub, mop, sponge, swab; Moreclean, polish \"he gave the table a wipe\"Moreclean, polish he gave the table a wipe"
+            ]
+          },
+          {
+            "definition": "a disposable cloth treated with a cleansing agent, for wiping things clean."
+          },
+          {
+            "definition": "a cinematographic effect in which an existing picture seems to be wiped out by a new one as the boundary between them moves across the screen."
+          }
+        ]
+      }
+    ]
+  }
+]

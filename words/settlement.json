@@ -1,0 +1,105 @@
+[
+  {
+    "word": "settlement",
+    "syllables": [
+      "set",
+      "tle",
+      "ment"
+    ],
+    "pronunciation": "ˈsedlmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "settlement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "settlements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an official agreement intended to resolve a dispute or conflict.",
+            "examples": [
+              "unions succeeded in reaching a pay settlement"
+            ],
+            "synonyms": [
+              "agreement",
+              "deal",
+              "arrangement",
+              "resolution",
+              "bargain",
+              "understanding",
+              "pact \"a pay settlement\""
+            ]
+          },
+          {
+            "definition": "a formal arrangement made between the parties to a lawsuit in order to resolve it, especially out of court.",
+            "examples": [
+              "the owner reached an out-of-court settlement with the plaintiffs"
+            ],
+            "synonyms": [
+              "resolution",
+              "settling",
+              "solution",
+              "reconciliation \"the settlement of the dispute\""
+            ]
+          },
+          {
+            "definition": "a place, typically one that has hitherto been uninhabited, where people establish a community.",
+            "examples": [
+              "the little settlement of Buttermere"
+            ],
+            "synonyms": [
+              "community",
+              "colony",
+              "outpost",
+              "encampment",
+              "post; Morevillage",
+              "commune; ecovillage; historicalplantation",
+              "clearing \"a frontier settlement\""
+            ]
+          },
+          {
+            "definition": "the process of settling in a new community.",
+            "examples": [
+              "the early settlement of Queensland"
+            ],
+            "synonyms": [
+              "colonization",
+              "settling",
+              "populating; historicalplantation \"the settlement of the area\""
+            ]
+          },
+          {
+            "definition": "the action of allowing or helping people to do this.",
+            "examples": [
+              "he was involved in the sale and settlement of Crown land"
+            ]
+          },
+          {
+            "definition": "an arrangement whereby property passes to a succession of people as dictated by the settlor."
+          },
+          {
+            "definition": "the amount or property given."
+          },
+          {
+            "definition": "the action or process of settling an account.",
+            "examples": [
+              "payment, discharge, liquidation, clearance the settlement of their debts"
+            ]
+          },
+          {
+            "definition": "subsidence of the ground or a structure built on it.",
+            "examples": [
+              "a boundary wall, which has cracked due to settlement, is to be replaced"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

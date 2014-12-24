@@ -1,0 +1,45 @@
+[
+  {
+    "word": "also",
+    "syllables": [
+      "al",
+      "so"
+    ],
+    "pronunciation": "ˈôlsō",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "also"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in addition; too.",
+            "examples": [
+              "a brilliant linguist, he was also interested in botany"
+            ],
+            "synonyms": [
+              "too",
+              "as well",
+              "besides",
+              "in addition",
+              "additionally",
+              "furthermore",
+              "further",
+              "moreover",
+              "into the bargain",
+              "on top (of that)",
+              "what's more",
+              "to boot",
+              "equally; Moreinformaland all",
+              "likewise; archaicwithal \"she plays basketball also\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

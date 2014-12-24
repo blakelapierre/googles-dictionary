@@ -1,0 +1,70 @@
+[
+  {
+    "word": "certainly",
+    "syllables": [
+      "cer",
+      "tain",
+      "ly"
+    ],
+    "pronunciation": "ˈsərtnlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "certainly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "undoubtedly; definitely; surely.",
+            "examples": [
+              "the prestigious address certainly adds to the firm's appeal"
+            ],
+            "synonyms": [
+              "unquestionably",
+              "surely",
+              "assuredly",
+              "definitely",
+              "beyond/without question",
+              "without doubt",
+              "indubitably",
+              "undeniably",
+              "irrefutably",
+              "indisputably; Moreobviously",
+              "patently",
+              "evidently",
+              "plainly",
+              "clearly",
+              "unmistakably",
+              "undisputedly",
+              "undoubtedly; informalsure as shootin'",
+              "for sure \"this is certainly a forgery\""
+            ],
+            "antonyms": [
+              "possibly"
+            ]
+          },
+          {
+            "definition": "(in answer to a question or command) yes; by all means.",
+            "examples": [
+              "“A good idea,” she agreed. “Certainly!”"
+            ],
+            "synonyms": [
+              "yes",
+              "definitely",
+              "absolutely",
+              "sure",
+              "by all means",
+              "indeed",
+              "of course",
+              "naturally; Moreaffirmative; informalOK",
+              "okay \"“May I have one?” “Certainly.”\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

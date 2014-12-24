@@ -1,0 +1,118 @@
+[
+  {
+    "word": "embed",
+    "syllables": [
+      "em",
+      "bed"
+    ],
+    "pronunciation": "əmˈbedˈembed",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "embed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "embeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "embedded"
+          },
+          {
+            "part": "past participle",
+            "variant": "embedded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "embedding"
+          },
+          {
+            "part": "verb",
+            "variant": "imbed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "imbeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "imbedded"
+          },
+          {
+            "part": "past participle",
+            "variant": "imbedded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "imbedding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fix (an object) firmly and deeply in a surrounding mass.",
+            "examples": [
+              "he had an operation to remove a nail embedded in his chest"
+            ],
+            "synonyms": [
+              "implant",
+              "plant",
+              "set",
+              "fix",
+              "lodge",
+              "root",
+              "insert",
+              "place; Moresink",
+              "drive",
+              "hammer",
+              "ram \"rhinestones are then embedded in the leather trim\""
+            ]
+          },
+          {
+            "definition": "implant (an idea or feeling) within something else so it becomes an ingrained or essential characteristic of it.",
+            "examples": [
+              "the Victorian values embedded in Tennyson's poetry"
+            ]
+          },
+          {
+            "definition": "place (a phrase or clause) within another clause or sentence."
+          },
+          {
+            "definition": "incorporate (a text or code) within the body of a file or document."
+          },
+          {
+            "definition": "design and build (a microprocessor) as an integral part of a system or device."
+          },
+          {
+            "definition": "attach (a journalist) to a military unit during a conflict."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "embed"
+          },
+          {
+            "part": "plural noun",
+            "variant": "embeds"
+          },
+          {
+            "part": "noun",
+            "variant": "imbed"
+          },
+          {
+            "part": "plural noun",
+            "variant": "imbeds"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

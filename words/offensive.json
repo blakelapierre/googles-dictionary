@@ -1,0 +1,141 @@
+[
+  {
+    "word": "offensive",
+    "syllables": [
+      "of",
+      "fen",
+      "sive"
+    ],
+    "pronunciation": "əˈfensiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "offensive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing someone to feel deeply hurt, upset, or angry.",
+            "examples": [
+              "the allegations made are deeply offensive to us"
+            ],
+            "synonyms": [
+              "insulting",
+              "insolent",
+              "derogatory",
+              "disrespectful",
+              "hurtful",
+              "wounding",
+              "abusive; Moreannoying",
+              "exasperating",
+              "irritating",
+              "galling",
+              "provocative",
+              "outrageous; rude",
+              "impertinent",
+              "discourteous",
+              "uncivil",
+              "impolite; crude",
+              "vulgar",
+              "coarse",
+              "improper",
+              "indecent; formalexceptionable \"offensive remarks\""
+            ],
+            "antonyms": [
+              "complimentary",
+              "polite",
+              "courteous"
+            ]
+          },
+          {
+            "definition": "(of a sight or smell) disgusting; repulsive.",
+            "examples": [
+              "an offensive odor"
+            ],
+            "synonyms": [
+              "unpleasant",
+              "disagreeable",
+              "nasty",
+              "distasteful",
+              "displeasing",
+              "objectionable",
+              "off-putting",
+              "awful",
+              "terrible",
+              "dreadful",
+              "frightful",
+              "obnoxious",
+              "abominable",
+              "disgusting",
+              "repulsive",
+              "repellent",
+              "repugnant",
+              "revolting",
+              "abhorrent",
+              "loathsome",
+              "detestable",
+              "odious",
+              "vile",
+              "foul",
+              "sickening",
+              "nauseating; Moreinformalghastly",
+              "horrible",
+              "horrid",
+              "gross",
+              "putrid",
+              "godawful",
+              "beastly; literarynoisome",
+              "mephitic \"an offensive smell\""
+            ],
+            "antonyms": [
+              "pleasant",
+              "delightful"
+            ]
+          },
+          {
+            "definition": "actively aggressive; attacking.",
+            "examples": [
+              "offensive operations against the insurgents"
+            ],
+            "synonyms": [
+              "hostile",
+              "attacking",
+              "aggressive",
+              "invading",
+              "incursive",
+              "combative",
+              "belligerent",
+              "on the attack \"an offensive air strike\""
+            ],
+            "antonyms": [
+              "defensive"
+            ]
+          },
+          {
+            "definition": "(of a weapon) meant for use in attack."
+          },
+          {
+            "definition": "(in a game) of or relating to the team or player who is seeking to score."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "offensive"
+          },
+          {
+            "part": "plural noun",
+            "variant": "offensives"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

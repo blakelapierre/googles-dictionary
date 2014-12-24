@@ -1,0 +1,89 @@
+[
+  {
+    "word": "execution",
+    "syllables": [
+      "ex",
+      "e",
+      "cu",
+      "tion"
+    ],
+    "pronunciation": "ˌeksəˈkyo͞oSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "execution"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the carrying out or putting into effect of a plan, order, or course of action.",
+            "examples": [
+              "he was fascinated by the entire operation and its execution"
+            ],
+            "synonyms": [
+              "implementation",
+              "carrying out",
+              "accomplishment",
+              "bringing off/about",
+              "engineering",
+              "attainment",
+              "realization \"the execution of the plan\""
+            ]
+          },
+          {
+            "definition": "the technique or style with which an artistic work is produced or carried out.",
+            "examples": [
+              "the opera's creative execution"
+            ],
+            "synonyms": [
+              "performance",
+              "presentation",
+              "rendition",
+              "rendering",
+              "staging \"the execution of the play\""
+            ]
+          },
+          {
+            "definition": "the putting into effect of a legal instrument or order."
+          },
+          {
+            "definition": "seizure of the property or person of a debtor in default of payment.",
+            "examples": [
+              "plural noun: executions"
+            ]
+          },
+          {
+            "definition": "short for writ of execution."
+          },
+          {
+            "definition": "the performance of an instruction or program."
+          },
+          {
+            "definition": "the carrying out of a sentence of death on a condemned person.",
+            "examples": [
+              "the execution of juveniles is prohibited by international law"
+            ],
+            "synonyms": [
+              "capital punishment",
+              "the death penalty; Morethe gibbet",
+              "the gallows",
+              "the noose",
+              "the rope",
+              "the scaffold",
+              "the guillotine",
+              "the firing squad",
+              "the electric chair",
+              "the chair; honor killing \"thousands were sentenced to execution\""
+            ]
+          },
+          {
+            "definition": "the killing of someone as a political act."
+          }
+        ]
+      }
+    ]
+  }
+]

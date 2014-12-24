@@ -1,0 +1,94 @@
+[
+  {
+    "word": "beauty",
+    "syllables": [
+      "beau",
+      "ty"
+    ],
+    "pronunciation": "ˈbyo͞odē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "beauty"
+          },
+          {
+            "part": "plural noun",
+            "variant": "beauties"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses, especially the sight.",
+            "examples": [
+              "I was struck by her beauty"
+            ]
+          },
+          {
+            "definition": "a combination of qualities that pleases the intellect or moral sense.",
+            "examples": [
+              "attractiveness, prettiness, good looks, comeliness, allure; Moreloveliness, charm, appeal, eye-appeal, heavenliness; winsomeness, grace, elegance, exquisiteness; splendor, magnificence, grandeur, impressiveness, decorativeness; gorgeousness, glamour; literarybeauteousness, pulchritude \"the beauty of the scenery\"Moreloveliness, charm, appeal, eye-appeal, heavenliness; winsomeness, grace, elegance, exquisiteness; splendor, magnificence, grandeur, impressiveness, decorativeness; gorgeousness, glamour; beauteousness, pulchritude the beauty of the scenery"
+            ],
+            "antonyms": [
+              "ugliness"
+            ]
+          },
+          {
+            "definition": "denoting something intended to make a woman more attractive.",
+            "examples": [
+              "modifier noun: beauty"
+            ]
+          },
+          {
+            "definition": "a beautiful or pleasing thing or person, in particular."
+          },
+          {
+            "definition": "a beautiful woman.",
+            "examples": [
+              "beautiful woman, belle, vision, Venus, goddess, beauty queen, picture; Moreinformalbabe, hottie, looker, good looker, beaut, siren, doll, arm candy, lovely, stunner, knockout, bombshell, dish, peach, eyeful, fox \"she is a beauty\"Morebabe, hottie, looker, good looker, beaut, siren, doll, arm candy, lovely, stunner, knockout, bombshell, dish, peach, eyeful, fox she is a beauty"
+            ],
+            "antonyms": [
+              "hag"
+            ]
+          },
+          {
+            "definition": "an excellent specimen or example of something.",
+            "examples": [
+              "the fish was a beauty, around 14 pounds"
+            ]
+          },
+          {
+            "definition": "the pleasing or attractive features of something.",
+            "examples": [
+              "the beauties of the Pennsylvania mountains"
+            ]
+          },
+          {
+            "definition": "the best feature or advantage of something.",
+            "examples": [
+              "the beauty of keeping cats is that they don't tie you down"
+            ],
+            "synonyms": [
+              "advantage",
+              "attraction",
+              "strength",
+              "benefit",
+              "boon",
+              "blessing",
+              "good thing",
+              "strong point",
+              "virtue",
+              "merit",
+              "selling point \"the beauty of this plan\""
+            ],
+            "antonyms": [
+              "drawback"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

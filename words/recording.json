@@ -1,0 +1,59 @@
+[
+  {
+    "word": "recording",
+    "syllables": [
+      "re",
+      "cord",
+      "ing"
+    ],
+    "pronunciation": "rəˈkôrdiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "recording"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of recording sound or a performance for subsequent reproduction or broadcast.",
+            "examples": [
+              "a recording studio"
+            ]
+          },
+          {
+            "definition": "a recorded broadcast or performance.",
+            "examples": [
+              "plural noun: recordings"
+            ]
+          },
+          {
+            "definition": "a disc or tape on which sounds or visual images have been recorded."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "record",
+    "syllables": [
+      "rec",
+      "ord"
+    ],
+    "pronunciation": "rəˈkôrd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "recording"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

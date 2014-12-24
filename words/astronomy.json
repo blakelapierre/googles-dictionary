@@ -1,0 +1,28 @@
+[
+  {
+    "word": "astronomy",
+    "syllables": [
+      "as",
+      "tron",
+      "o",
+      "my"
+    ],
+    "pronunciation": "əˈstränəmē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "astronomy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the branch of science that deals with celestial objects, space, and the physical universe as a whole."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "word": "surprising",
+    "syllables": [
+      "sur",
+      "pris",
+      "ing"
+    ],
+    "pronunciation": "sərˈprīziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "surprising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing surprise; unexpected.",
+            "examples": [
+              "a surprising sequence of events"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "surprise",
+    "syllables": [
+      "sur",
+      "prise"
+    ],
+    "pronunciation": "sə(r)ˈprīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "surprising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of something unexpected) cause (someone) to feel mild astonishment or shock.",
+            "examples": [
+              "I was surprised at his statement"
+            ],
+            "synonyms": [
+              "astonish",
+              "amaze",
+              "startle",
+              "astound",
+              "stun",
+              "stagger",
+              "shock; Moreleave open-mouthed",
+              "take someone's breath away",
+              "dumbfound",
+              "stupefy",
+              "daze",
+              "take aback",
+              "shake up; informalbowl over",
+              "floor",
+              "flabbergast \"I was so surprised that I dropped it\"astonished",
+              "amazed",
+              "astounded",
+              "startled",
+              "stunned",
+              "staggered",
+              "nonplussed",
+              "shocked",
+              "taken aback",
+              "stupefied",
+              "dumbfounded",
+              "dumbstruck",
+              "speechless",
+              "thunderstruck",
+              "confounded",
+              "shaken up; informalbowled over",
+              "flabbergasted",
+              "floored",
+              "flummoxed \"Lenore's unexpected return surprised everyone\"unexpected",
+              "unforeseen",
+              "unpredictable; astonishing",
+              "amazing",
+              "startling",
+              "astounding",
+              "staggering",
+              "incredible",
+              "extraordinary",
+              "breathtaking",
+              "remarkable; informalmind-blowing \"the results of the study were surprising\""
+            ]
+          },
+          {
+            "definition": "capture, attack, or discover suddenly and unexpectedly; catch unawares.",
+            "examples": [
+              "he surprised a gang stealing scrap metal"
+            ],
+            "synonyms": [
+              "take by surprise",
+              "catch unawares",
+              "catch off guard",
+              "catch red-handed",
+              "catch in the act \"she surprised a burglar\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

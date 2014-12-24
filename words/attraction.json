@@ -1,0 +1,84 @@
+[
+  {
+    "word": "attraction",
+    "syllables": [
+      "at",
+      "trac",
+      "tion"
+    ],
+    "pronunciation": "əˈtrakSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "attraction"
+          },
+          {
+            "part": "plural noun",
+            "variant": "attractions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or power of evoking interest, pleasure, or liking for someone or something.",
+            "examples": [
+              "she has romantic ideas about sexual attraction"
+            ],
+            "synonyms": [
+              "appeal",
+              "attractiveness",
+              "desirability",
+              "seductiveness",
+              "seduction",
+              "allure",
+              "animal magnetism; Morecharisma",
+              "charm",
+              "beauty",
+              "good looks",
+              "eye-appeal \"she had lost whatever attraction she once had\""
+            ],
+            "antonyms": [
+              "repulsion"
+            ]
+          },
+          {
+            "definition": "a quality or feature of something or someone that evokes interest, liking, or desire.",
+            "examples": [
+              "this reform has many attractions for those on the left"
+            ]
+          },
+          {
+            "definition": "a thing or place that draws visitors by providing something of interest or pleasure.",
+            "examples": [
+              "the church is the town's main tourist attraction"
+            ],
+            "synonyms": [
+              "entertainment",
+              "activity",
+              "diversion",
+              "interest \"the fair offers sideshows and other attractions\""
+            ]
+          },
+          {
+            "definition": "a force under the influence of which objects tend to move toward each other.",
+            "examples": [
+              "gravitational attraction"
+            ],
+            "synonyms": [
+              "pull",
+              "draw; magnetism \"the stars are held together by gravitational attraction\""
+            ],
+            "antonyms": [
+              "repulsion"
+            ]
+          },
+          {
+            "definition": "the influence exerted by one word on another that causes it to change to an incorrect form, e.g., the wages of sin is (for are ) death."
+          }
+        ]
+      }
+    ]
+  }
+]

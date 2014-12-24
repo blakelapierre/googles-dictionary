@@ -1,0 +1,87 @@
+[
+  {
+    "word": "valuable",
+    "syllables": [
+      "val",
+      "u",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "ˈvaly(əw)əb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "valuable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "worth a great deal of money.",
+            "examples": [
+              "a valuable antique"
+            ]
+          },
+          {
+            "definition": "extremely useful or important.",
+            "examples": [
+              "my time is valuable"
+            ],
+            "synonyms": [
+              "precious",
+              "costly",
+              "pricey",
+              "expensive",
+              "dear",
+              "high-priced",
+              "high-cost",
+              "high-end",
+              "upscale",
+              "big-ticket; Moreworth its weight in gold",
+              "priceless \"a valuable watch\"useful",
+              "helpful",
+              "beneficial",
+              "invaluable",
+              "crucial",
+              "productive",
+              "constructive",
+              "effective",
+              "advantageous",
+              "worthwhile",
+              "worthy",
+              "important \"a valuable contribution\""
+            ],
+            "antonyms": [
+              "cheap",
+              "worthless",
+              "useless"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "valuable"
+          },
+          {
+            "part": "plural noun",
+            "variant": "valuables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is of great worth, especially a small item of personal property.",
+            "examples": [
+              "put all your valuables in the hotel safe"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

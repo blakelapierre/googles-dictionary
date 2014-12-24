@@ -1,0 +1,68 @@
+[
+  {
+    "word": "preparation",
+    "syllables": [
+      "prep",
+      "a",
+      "ra",
+      "tion"
+    ],
+    "pronunciation": "ˌprepəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "preparation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of making ready or being made ready for use or consideration.",
+            "examples": [
+              "the preparation of a draft contract"
+            ],
+            "synonyms": [
+              "devising",
+              "putting together",
+              "drawing up",
+              "construction",
+              "composition",
+              "production",
+              "getting ready",
+              "development More\"the preparation of contingency plans\"instruction",
+              "teaching",
+              "coaching",
+              "training",
+              "tutoring",
+              "drilling",
+              "priming \"preparation for exams\""
+            ]
+          },
+          {
+            "definition": "something done to get ready for an event or undertaking.",
+            "examples": [
+              "plural noun: preparations"
+            ]
+          },
+          {
+            "definition": "a substance that is specially made up and usually sold, especially a medicine or food.",
+            "examples": [
+              "mixture, compound, concoction, solution, tincture, medicine, potion, cream, ointment, lotion a preparation to kill off mites"
+            ]
+          },
+          {
+            "definition": "a specimen that has been prepared for scientific or medical examination.",
+            "examples": [
+              "a microscope preparation"
+            ]
+          },
+          {
+            "definition": "(in conventional harmony) the sounding of the discordant note in a chord in the preceding chord where it is not discordant, lessening the effect of the discord."
+          }
+        ]
+      }
+    ]
+  }
+]

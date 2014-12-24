@@ -1,0 +1,66 @@
+[
+  {
+    "word": "capability",
+    "syllables": [
+      "ca",
+      "pa",
+      "bil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌkāpəˈbilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "capability"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "power or ability.",
+            "examples": [
+              "he had an intuitive capability of bringing the best out in people"
+            ],
+            "synonyms": [
+              "ability",
+              "capacity",
+              "power",
+              "potential; Morecompetence",
+              "proficiency",
+              "adeptness",
+              "aptitude",
+              "faculty",
+              "wherewithal",
+              "experience",
+              "skill",
+              "skillfulness",
+              "talent",
+              "flair; informalknow-how \"her professional capabilities\""
+            ]
+          },
+          {
+            "definition": "the extent of someone's or something's ability.",
+            "examples": [
+              "plural noun: capabilities"
+            ]
+          },
+          {
+            "definition": "a facility on a computer for performing a specified task.",
+            "examples": [
+              "a graphics capability"
+            ]
+          },
+          {
+            "definition": "forces or resources giving a country or state the ability to undertake a particular kind of military action.",
+            "examples": [
+              "their nuclear weapons capability"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

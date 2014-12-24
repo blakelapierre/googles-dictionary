@@ -1,0 +1,97 @@
+{
+  "word": "money",
+  "syllables": [
+    "mon",
+    "ey"
+  ],
+  "pronunciation": "ˈmənē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "money"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
+          "examples": [
+            "I counted the money before putting it in my wallet"
+          ],
+          "synonyms": [
+            "cash",
+            "hard cash",
+            "ready money; Morethe means",
+            "the wherewithal",
+            "funds",
+            "capital",
+            "finances",
+            "(filthy) lucre; coins",
+            "change",
+            "specie",
+            "silver",
+            "currency",
+            "bills",
+            "(bank) notes; informaldough",
+            "bread",
+            "bucks",
+            "loot",
+            "greenbacks",
+            "moola",
+            "dinero",
+            "shekels",
+            "mazuma; archaicpelf \"have you got money for the train fare?\""
+          ]
+        },
+        {
+          "definition": "sums of money.",
+          "examples": [
+            "plural noun: moneys; plural noun: monies"
+          ]
+        },
+        {
+          "definition": "the assets, property, and resources owned by someone or something; wealth.",
+          "examples": [
+            "the college is very short of money"
+          ],
+          "synonyms": [
+            "wealth",
+            "riches",
+            "fortune",
+            "affluence",
+            "assets",
+            "liquid assets",
+            "resources",
+            "means \"she married him for his money\""
+          ]
+        },
+        {
+          "definition": "financial gain.",
+          "examples": [
+            "the main aim of a commercial organization is to make money"
+          ]
+        },
+        {
+          "definition": "payment for work; wages.",
+          "examples": [
+            "she accepted the job at the public school since the money was better"
+          ],
+          "synonyms": [
+            "pay",
+            "salary",
+            "wages",
+            "remuneration; formalemolument \"the money here is better\""
+          ]
+        },
+        {
+          "definition": "a wealthy person or group.",
+          "examples": [
+            "her aunt had married money"
+          ]
+        }
+      ]
+    }
+  ]
+}

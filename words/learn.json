@@ -1,0 +1,105 @@
+[
+  {
+    "word": "learn",
+    "syllables": [
+      "learn"
+    ],
+    "pronunciation": "lərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "learn"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "learns"
+          },
+          {
+            "part": "past tense",
+            "variant": "learned"
+          },
+          {
+            "part": "past participle",
+            "variant": "learned"
+          },
+          {
+            "part": "past tense",
+            "variant": "learnt"
+          },
+          {
+            "part": "past participle",
+            "variant": "learnt"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "learning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+            "examples": [
+              "they'd started learning French"
+            ],
+            "synonyms": [
+              "acquire a knowledge of",
+              "acquire skill in",
+              "become competent in",
+              "become proficient in",
+              "grasp",
+              "master",
+              "take in",
+              "absorb",
+              "assimilate",
+              "digest",
+              "familiarize oneself with; Morestudy",
+              "read up on",
+              "be taught",
+              "have lessons in; upskill; informalget the hang of",
+              "bone up on \"learning a foreign language\""
+            ]
+          },
+          {
+            "definition": "commit to memory.",
+            "examples": [
+              "I'd learned too many grim poems in school"
+            ],
+            "synonyms": [
+              "memorize",
+              "learn by heart",
+              "commit to memory",
+              "get down pat; archaiccon \"she learned the poem in just a few minutes\""
+            ]
+          },
+          {
+            "definition": "become aware of (something) by information or from observation.",
+            "examples": [
+              "I learned that they had eaten already"
+            ],
+            "synonyms": [
+              "discover",
+              "find out",
+              "become aware",
+              "be informed",
+              "hear",
+              "hear tell; Moregather",
+              "understand",
+              "ascertain",
+              "establish; informalget wind of the fact",
+              "get wise to the fact; informalsuss out \"he learned that the school would shortly be closing\""
+            ]
+          },
+          {
+            "definition": "teach (someone).",
+            "examples": [
+              "“That'll learn you,” he chuckled"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

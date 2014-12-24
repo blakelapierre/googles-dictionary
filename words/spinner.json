@@ -1,0 +1,46 @@
+[
+  {
+    "word": "spinner",
+    "syllables": [
+      "spin",
+      "ner"
+    ],
+    "pronunciation": "ˈspinər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spinner"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spinners"
+          },
+          {
+            "part": "noun",
+            "variant": "spinnerbait"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person occupied in making thread by spinning."
+          },
+          {
+            "definition": "a person or thing that spins."
+          },
+          {
+            "definition": "a lure designed to revolve when pulled through the water."
+          },
+          {
+            "definition": "a type of fishing fly, used chiefly for trout."
+          },
+          {
+            "definition": "a metal fairing that is attached to and revolves with the propeller boss of an aircraft in order to streamline it."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "unlucky",
+    "syllables": [
+      "un",
+      "luck",
+      "y"
+    ],
+    "pronunciation": "ˌənˈləkē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unlucky"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "unluckier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "unluckiest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having, bringing, or resulting from bad luck.",
+            "examples": [
+              "an unlucky defeat"
+            ],
+            "synonyms": [
+              "unfortunate",
+              "luckless",
+              "out of luck",
+              "jinxed",
+              "hapless",
+              "ill-fated",
+              "ill-starred",
+              "unhappy; Moreinformaldown on one's luck; literarystar-crossed \"he was unlucky not to score\"unfavorable",
+              "inauspicious",
+              "unpropitious",
+              "ominous",
+              "cursed",
+              "ill-fated",
+              "ill-omened",
+              "disadvantageous",
+              "unfortunate \"an unlucky number\""
+            ],
+            "antonyms": [
+              "fortunate",
+              "favorable"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+{
+  "word": "crazy",
+  "syllables": [
+    "cra",
+    "zy"
+  ],
+  "pronunciation": "ˈkrāzē",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "crazy"
+        },
+        {
+          "part": "comparative adjective",
+          "variant": "crazier"
+        },
+        {
+          "part": "superlative adjective",
+          "variant": "craziest"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "mentally deranged, especially as manifested in a wild or aggressive way.",
+          "examples": [
+            "Stella went crazy and assaulted a visitor"
+          ],
+          "synonyms": [
+            "mad",
+            "insane",
+            "out of one's mind",
+            "deranged",
+            "demented",
+            "not in one's right mind",
+            "crazed",
+            "lunatic",
+            "non compos mentis",
+            "unhinged",
+            "mad as a hatter",
+            "mad as a March hare; Moreinformalmental",
+            "nutty",
+            "nutty as a fruitcake",
+            "off one's rocker",
+            "not right in the head",
+            "round/around the bend",
+            "raving mad",
+            "batty",
+            "bonkers",
+            "cuckoo",
+            "loopy",
+            "ditzy",
+            "loony",
+            "bananas",
+            "loco",
+            "with a screw loose",
+            "touched",
+            "gaga",
+            "not all there",
+            "out to lunch",
+            "crackers",
+            "nutso",
+            "out of one's tree",
+            "wacko",
+            "gonzo; vulgar slangbatshit \"he was acting like a crazy person\""
+          ],
+          "antonyms": [
+            "sane"
+          ]
+        },
+        {
+          "definition": "extremely annoyed or angry.",
+          "examples": [
+            "the noise they made was driving me crazy"
+          ]
+        },
+        {
+          "definition": "foolish.",
+          "examples": [
+            "it was crazy to hope that good might come out of this mess"
+          ],
+          "synonyms": [
+            "stupid",
+            "foolish",
+            "idiotic",
+            "silly",
+            "absurd",
+            "ridiculous",
+            "ludicrous",
+            "preposterous",
+            "farcical",
+            "laughable",
+            "risible",
+            "nonsensical",
+            "imbecilic",
+            "harebrained",
+            "cockamamie",
+            "half-baked",
+            "impracticable",
+            "unworkable",
+            "ill-conceived",
+            "senseless; Moreinformalcockeyed",
+            "daft",
+            "kooky \"Andrea had a crazy idea\""
+          ],
+          "antonyms": [
+            "sensible"
+          ]
+        },
+        {
+          "definition": "extremely enthusiastic.",
+          "examples": [
+            "I'm crazy about Cindy"
+          ],
+          "synonyms": [
+            "passionate about",
+            "(very) keen on",
+            "enamored of",
+            "infatuated with",
+            "smitten with",
+            "devoted to; More(very) enthusiastic about",
+            "fanatical about; informalwild about",
+            "mad about",
+            "nuts about",
+            "hog-wild about",
+            "gone on \"he's crazy about her\""
+          ],
+          "antonyms": [
+            "indifferent",
+            "apathetic"
+          ]
+        },
+        {
+          "definition": "(of an angle) appearing absurdly out of place or in an unlikely position.",
+          "examples": [
+            "the monument leaned at a crazy angle"
+          ]
+        },
+        {
+          "definition": "(of a ship or building) full of cracks or flaws; unsound or shaky."
+        }
+      ]
+    },
+    {
+      "part": "adverbNorth American",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "crazy"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "extremely.",
+          "examples": [
+            "I've been crazy busy"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "nounNorth American",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "crazy"
+        },
+        {
+          "part": "plural noun",
+          "variant": "crazies"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a mentally deranged person."
+        }
+      ]
+    }
+  ]
+}

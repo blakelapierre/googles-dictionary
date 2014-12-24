@@ -1,0 +1,116 @@
+[
+  {
+    "word": "remark",
+    "syllables": [
+      "re",
+      "mark"
+    ],
+    "pronunciation": "rəˈmärk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "remark"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "remarks"
+          },
+          {
+            "part": "past tense",
+            "variant": "remarked"
+          },
+          {
+            "part": "past participle",
+            "variant": "remarked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "remarking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "say something as a comment; mention.",
+            "examples": [
+              "“Tom's looking peaked,” she remarked"
+            ],
+            "synonyms": [
+              "comment",
+              "say",
+              "observe",
+              "mention",
+              "reflect",
+              "state",
+              "declare",
+              "announce",
+              "pronounce",
+              "assert; Moreformalopine \"“You're quiet",
+              "” he remarked\"comment on",
+              "mention",
+              "refer to",
+              "speak of",
+              "pass comment on \"many critics remarked on their rapport\""
+            ]
+          },
+          {
+            "definition": "regard with attention; notice.",
+            "examples": [
+              "he remarked the man's inflamed eyelids"
+            ],
+            "synonyms": [
+              "note",
+              "notice",
+              "observe",
+              "take note of",
+              "perceive",
+              "discern \"she remarked the absence of policemen\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "remark"
+          },
+          {
+            "part": "plural noun",
+            "variant": "remarks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a written or spoken comment.",
+            "examples": [
+              "I decided to ignore his rude remarks"
+            ]
+          },
+          {
+            "definition": "notice or comment.",
+            "examples": [
+              "the landscape was not worthy of remark"
+            ],
+            "synonyms": [
+              "comment",
+              "statement",
+              "utterance",
+              "observation",
+              "declaration",
+              "pronouncement More\"his remarks have been misinterpreted\"attention",
+              "notice",
+              "comment",
+              "mention",
+              "observation",
+              "acknowledgment \"worthy of remark\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

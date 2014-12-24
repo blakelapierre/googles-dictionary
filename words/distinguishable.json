@@ -1,0 +1,44 @@
+[
+  {
+    "word": "distinguishable",
+    "syllables": [
+      "dis",
+      "tin",
+      "guish",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "dəˈstiNGɡwiSHəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "distinguishable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clear enough to be recognized or identified as different; discernible.",
+            "examples": [
+              "distinguishable features"
+            ],
+            "synonyms": [
+              "discernible",
+              "recognizable",
+              "identifiable",
+              "detectable \"the differences between the original and the copy were only slightly distinguishable\""
+            ]
+          },
+          {
+            "definition": "clear enough to be discerned or perceived.",
+            "examples": [
+              "his words were barely distinguishable"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

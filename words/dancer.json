@@ -1,0 +1,27 @@
+{
+  "word": "dancer",
+  "syllables": [
+    "danc",
+    "er"
+  ],
+  "pronunciation": "ˈdansər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "dancers"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person who dances or whose profession is dancing.",
+          "examples": [
+            "danseur, danseuse, ballerina, prima ballerina, premier danseur, danseur noble; hoofer she trained as a dancer and ballet teacher"
+          ]
+        }
+      ]
+    }
+  ]
+}

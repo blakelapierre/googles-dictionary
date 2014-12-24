@@ -1,0 +1,93 @@
+[
+  {
+    "word": "harness",
+    "syllables": [
+      "har",
+      "ness"
+    ],
+    "pronunciation": "ˈhärnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "harness"
+          },
+          {
+            "part": "plural noun",
+            "variant": "harnesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of straps and fittings by which a horse or other draft animal is fastened to a cart, plow, etc., and is controlled by its driver.",
+            "examples": [
+              "tack, tackle, equipment; Moretrappings; yoke; archaicequipage \"a horse's harness\"Moretrappings; yoke; equipage a horse's harness"
+            ]
+          },
+          {
+            "definition": "an arrangement of straps for fastening something to a person's body, such as a parachute, or for restraining a young child."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "harness"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "harnesses"
+          },
+          {
+            "part": "past tense",
+            "variant": "harnessed"
+          },
+          {
+            "part": "past participle",
+            "variant": "harnessed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "harnessing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put a harness on (a horse or other draft animal).",
+            "examples": [
+              "hitch up, put in harness, yoke, couple he harnessed his horse"
+            ]
+          },
+          {
+            "definition": "attach a draft animal to (something) by a harness.",
+            "examples": [
+              "the horse was harnessed to two long shafts"
+            ]
+          },
+          {
+            "definition": "control and make use of (natural resources), especially to produce energy.",
+            "examples": [
+              "attempts to harness solar energy"
+            ],
+            "synonyms": [
+              "control",
+              "exploit",
+              "utilize",
+              "use",
+              "employ",
+              "make use of",
+              "put to use; Morechannel",
+              "mobilize",
+              "apply",
+              "capitalize on \"attempts to harness solar energy\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

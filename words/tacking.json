@@ -1,0 +1,80 @@
+[
+  {
+    "word": "tack",
+    "syllables": [
+      "tack"
+    ],
+    "pronunciation": "tak",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "tacking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten or fix in place with tacks.",
+            "examples": [
+              "he used the tool to tack down sheets of fiberboard"
+            ],
+            "synonyms": [
+              "pin",
+              "nail",
+              "staple",
+              "fix",
+              "fasten",
+              "attach",
+              "secure",
+              "affix \"a photo tacked to the wall\""
+            ]
+          },
+          {
+            "definition": "fasten (pieces of cloth) together temporarily with long stitches.",
+            "examples": [
+              "stitch, baste, sew, bind the dress was roughly tacked together"
+            ]
+          },
+          {
+            "definition": "add or append something to something already existing.",
+            "examples": [
+              "long-term savings plans with some life insurance tacked on"
+            ],
+            "synonyms": [
+              "add (on)",
+              "append",
+              "join",
+              "stick (on) \"poems tacked on at the end of the book\""
+            ]
+          },
+          {
+            "definition": "change course by turning a boat's head into and through the wind.",
+            "examples": [
+              "zigzag, change direction, change course, swerve, veer; Morego about, come about, beat \"the yachts tacked back and forth\"Morego about, come about, beat the yachts tacked back and forth"
+            ]
+          },
+          {
+            "definition": "alter the course of (a sailboat)."
+          },
+          {
+            "definition": "make a series of changes of course while sailing.",
+            "examples": [
+              "she spent the entire night tacking back and forth"
+            ],
+            "synonyms": [
+              "zigzag",
+              "change direction",
+              "change course",
+              "swerve",
+              "veer; Morego about",
+              "come about",
+              "beat \"the yachts tacked back and forth\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

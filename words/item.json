@@ -1,0 +1,50 @@
+{
+  "word": "item",
+  "syllables": [
+    "i",
+    "tem"
+  ],
+  "pronunciation": "ˈīdəm",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "items"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an individual article or unit, especially one that is part of a list, collection, or set.",
+          "examples": [
+            "the items on the agenda"
+          ],
+          "synonyms": [
+            "thing",
+            "article",
+            "object",
+            "artifact",
+            "piece",
+            "product; Moreelement",
+            "constituent",
+            "component",
+            "ingredient \"an item of farm equipment\""
+          ]
+        },
+        {
+          "definition": "a piece of news or information.",
+          "examples": [
+            "report, story, account, article, piece, write-up, bulletin, feature a news item"
+          ]
+        },
+        {
+          "definition": "an entry in an account.",
+          "examples": [
+            "couple, twosome, partners, lovers; thing I hear they are an item"
+          ]
+        }
+      ]
+    }
+  ]
+}

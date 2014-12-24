@@ -1,0 +1,76 @@
+[
+  {
+    "word": "vanity",
+    "syllables": [
+      "van",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˈvanədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vanity"
+          },
+          {
+            "part": "plural noun",
+            "variant": "vanities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "excessive pride in or admiration of one's own appearance or achievements.",
+            "examples": [
+              "it flattered his vanity to think I was in love with him"
+            ],
+            "synonyms": [
+              "conceit",
+              "narcissism",
+              "self-love",
+              "self-admiration",
+              "self-absorption",
+              "self-regard",
+              "egotism; Morepride",
+              "arrogance",
+              "boastfulness",
+              "cockiness",
+              "swagger",
+              "rodomontade; informalbig-headedness; literaryvainglory \"she had none of the vanity often associated with beautiful women\""
+            ],
+            "antonyms": [
+              "modesty"
+            ]
+          },
+          {
+            "definition": "denoting a person or company that publishes works at the author's expense.",
+            "examples": [
+              "modifier noun: vanity"
+            ]
+          },
+          {
+            "definition": "the quality of being worthless or futile.",
+            "examples": [
+              "the vanity of human wishes"
+            ],
+            "synonyms": [
+              "futility",
+              "uselessness",
+              "pointlessness",
+              "worthlessness",
+              "fruitlessness \"the vanity of all desires of the will\""
+            ]
+          },
+          {
+            "definition": "a dressing table."
+          },
+          {
+            "definition": "a bathroom unit consisting of a washbasin typically set into a counter with a cabinet beneath."
+          }
+        ]
+      }
+    ]
+  }
+]

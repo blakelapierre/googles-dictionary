@@ -1,0 +1,42 @@
+[
+  {
+    "word": "station",
+    "syllables": [
+      "sta",
+      "tion"
+    ],
+    "pronunciation": "ˈstāSH(ə)n",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "stationed"
+          },
+          {
+            "part": "past participle",
+            "variant": "stationed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put in or assign to a specified place for a particular purpose, especially a military one.",
+            "examples": [
+              "troops were stationed in the town"
+            ],
+            "synonyms": [
+              "put on duty",
+              "post",
+              "position",
+              "place; Moreestablish",
+              "install; deploy",
+              "base",
+              "garrison \"the regiment was stationed at Camp Pendleton\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

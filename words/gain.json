@@ -1,0 +1,201 @@
+[
+  {
+    "word": "gain",
+    "syllables": [
+      "gain"
+    ],
+    "pronunciation": "ɡān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "gain"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "gains"
+          },
+          {
+            "part": "past tense",
+            "variant": "gained"
+          },
+          {
+            "part": "past participle",
+            "variant": "gained"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "gaining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "obtain or secure (something desired, favorable, or profitable).",
+            "examples": [
+              "a process that has gained the confidence of the industry"
+            ],
+            "synonyms": [
+              "obtain",
+              "get",
+              "secure",
+              "acquire",
+              "come by",
+              "procure",
+              "attain",
+              "achieve",
+              "earn",
+              "win",
+              "garner",
+              "capture",
+              "clinch",
+              "pick up",
+              "carry off",
+              "reap; Moreinformalland",
+              "net",
+              "bag",
+              "scoop",
+              "wangle",
+              "swing",
+              "walk away/off with \"he gained a scholarship to the college\""
+            ],
+            "antonyms": [
+              "lose"
+            ]
+          },
+          {
+            "definition": "reach or arrive at (a desired destination).",
+            "examples": [
+              "we gained the ridge"
+            ],
+            "synonyms": [
+              "reach",
+              "arrive at",
+              "get to",
+              "come to",
+              "make",
+              "attain",
+              "set foot on; Moreinformalhit",
+              "wind up at \"we finally gained the ridge\""
+            ]
+          },
+          {
+            "definition": "come closer to (a person or thing pursued).",
+            "examples": [
+              "a huge bear gaining on him with every stride"
+            ],
+            "synonyms": [
+              "catch up with/on",
+              "catch someone up",
+              "catch",
+              "close (in) on",
+              "near \"the others were gaining on us\""
+            ]
+          },
+          {
+            "definition": "bring over to one's interest or views; win over.",
+            "examples": [
+              "to gratify the queen and gain the court"
+            ]
+          },
+          {
+            "definition": "increase the amount or rate of (something, typically weight or speed).",
+            "examples": [
+              "she had gradually gained weight since her wedding"
+            ],
+            "synonyms": [
+              "put on",
+              "increase in \"the dog gained weight\""
+            ],
+            "antonyms": [
+              "lose"
+            ]
+          },
+          {
+            "definition": "increase in value.",
+            "examples": [
+              "stocks also gained for the third day in a row"
+            ]
+          },
+          {
+            "definition": "improve or advance in some respect.",
+            "examples": [
+              "canoeing is gaining in popularity"
+            ],
+            "synonyms": [
+              "catch up with/on",
+              "catch someone up",
+              "catch",
+              "close (in) on",
+              "near \"the others were gaining on us\""
+            ]
+          },
+          {
+            "definition": "(of a clock or watch) become fast by (a specific amount of time).",
+            "examples": [
+              "this atomic clock will neither gain nor lose a second in the next 1 million years"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gain"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gains"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an increase in wealth or resources.",
+            "examples": [
+              "the mayor was accused of using municipal funds for personal gain"
+            ],
+            "synonyms": [
+              "profit",
+              "advantage",
+              "benefit",
+              "reward; Morepercentage",
+              "takings",
+              "yield",
+              "return",
+              "winnings",
+              "receipts",
+              "proceeds",
+              "dividend",
+              "interest; informalpickings",
+              "cut",
+              "take",
+              "divvy",
+              "slice",
+              "piece of the pie \"his gain from the deal\"increase",
+              "rise",
+              "increment",
+              "augmentation",
+              "addition \"a price gain of 7.5 percent\""
+            ],
+            "antonyms": [
+              "loss",
+              "decrease"
+            ]
+          },
+          {
+            "definition": "a thing that is achieved or acquired.",
+            "examples": [
+              "a balance between water loss and water gain"
+            ]
+          },
+          {
+            "definition": "the factor by which power or voltage is increased in an amplifier or other electronic device, usually expressed as a logarithm."
+          }
+        ]
+      }
+    ]
+  }
+]

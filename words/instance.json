@@ -1,0 +1,74 @@
+{
+  "word": "instance",
+  "syllables": [
+    "in",
+    "stance"
+  ],
+  "pronunciation": "ˈinstəns",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "instances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an example or single occurrence of something.",
+          "examples": [
+            "a serious instance of corruption"
+          ],
+          "synonyms": [
+            "example",
+            "exemplar",
+            "occasion",
+            "occurrence",
+            "case; illustration \"an instance of racism\""
+          ]
+        },
+        {
+          "definition": "a particular case.",
+          "examples": [
+            "in this instance it mattered little"
+          ]
+        },
+        {
+          "definition": "the institution of a legal suit."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "instances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "cite (a fact, case, etc.) as an instance or example.",
+          "examples": [
+            "here he instances in particular the work of Bach"
+          ],
+          "synonyms": [
+            "cite",
+            "quote",
+            "refer to",
+            "mention",
+            "allude to",
+            "give; Morespecify",
+            "name",
+            "identify",
+            "draw attention to",
+            "put forward",
+            "offer",
+            "advance \"they instanced the previous case as an example\""
+          ]
+        }
+      ]
+    }
+  ]
+}

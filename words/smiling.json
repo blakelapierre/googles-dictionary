@@ -1,0 +1,56 @@
+[
+  {
+    "word": "smile",
+    "syllables": [
+      "smile"
+    ],
+    "pronunciation": "smīl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "smiling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form one's features into a pleased, kind, or amused expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+            "examples": [
+              "she was smiling"
+            ],
+            "synonyms": [
+              "beam",
+              "grin (from ear to ear)",
+              "dimple",
+              "twinkle; Moresmirk",
+              "simper; leer \"he smiled at her\""
+            ],
+            "antonyms": [
+              "frown"
+            ]
+          },
+          {
+            "definition": "express (a feeling) by smiling.",
+            "examples": [
+              "he smiled his admiration of the great stone circle"
+            ]
+          },
+          {
+            "definition": "regard favorably or indulgently.",
+            "examples": [
+              "at first fortune smiled on him"
+            ]
+          },
+          {
+            "definition": "(especially of a landscape) have a bright or pleasing aspect.",
+            "examples": [
+              "smiling groves and terraces"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "originally",
+    "syllables": [
+      "o",
+      "rig",
+      "i",
+      "nal",
+      "ly"
+    ],
+    "pronunciation": "əˈrij(ə)nəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "originally"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "from or in the beginning; at first.",
+            "examples": [
+              "potatoes originally came from South America"
+            ],
+            "synonyms": [
+              "(at) first",
+              "in/at the beginning",
+              "to begin with",
+              "initially",
+              "in the first place",
+              "at the outset \"the conference was originally scheduled for November\""
+            ]
+          },
+          {
+            "definition": "in a novel and inventive way.",
+            "examples": [
+              "suggestions so originally and persuasively outlined"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

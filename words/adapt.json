@@ -1,0 +1,100 @@
+[
+  {
+    "word": "adapt",
+    "syllables": [
+      "a",
+      "dapt"
+    ],
+    "pronunciation": "əˈdapt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "adapt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "adapts"
+          },
+          {
+            "part": "past tense",
+            "variant": "adapted"
+          },
+          {
+            "part": "past participle",
+            "variant": "adapted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "adapting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) suitable for a new use or purpose; modify.",
+            "examples": [
+              "hospitals have had to be adapted for modern medical practice"
+            ],
+            "synonyms": [
+              "modify",
+              "alter",
+              "change",
+              "adjust",
+              "readjust",
+              "convert",
+              "redesign",
+              "restyle",
+              "refashion",
+              "remodel",
+              "reshape",
+              "revamp",
+              "rework",
+              "rejig",
+              "redo",
+              "reconstruct",
+              "reorganize; Morecustomize",
+              "tailor; improve",
+              "amend",
+              "refine",
+              "tweak \"we've adapted the procedures to suit their needs\""
+            ]
+          },
+          {
+            "definition": "become adjusted to new conditions.",
+            "examples": [
+              "a large organization can be slow to adapt to change"
+            ],
+            "synonyms": [
+              "adjust to",
+              "acclimatize oneself to",
+              "acclimate to",
+              "accommodate oneself to",
+              "attune to",
+              "conform to",
+              "habituate oneself to",
+              "become habituated to",
+              "get used to",
+              "orient oneself in",
+              "reconcile oneself to",
+              "come to terms with",
+              "get one's bearings in",
+              "find one's feet in",
+              "acculturate to",
+              "assimilate to",
+              "blend in to",
+              "fit in to \"he has adapted well to his new home\""
+            ]
+          },
+          {
+            "definition": "alter (a text) to make it suitable for filming, broadcasting, or the stage.",
+            "examples": [
+              "the miniseries was adapted from Wouk's novel"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

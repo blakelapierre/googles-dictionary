@@ -1,0 +1,70 @@
+[
+  {
+    "word": "diagnostic",
+    "syllables": [
+      "di",
+      "ag",
+      "nos",
+      "tic"
+    ],
+    "pronunciation": "ˌdīəɡˈnästik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "diagnostic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "concerned with the diagnosis of illness or other problems.",
+            "examples": [
+              "a diagnostic tool"
+            ]
+          },
+          {
+            "definition": "(of a symptom) distinctive, and so indicating the nature of an illness.",
+            "examples": [
+              "there are fifteen infections that are diagnostic of AIDS"
+            ]
+          },
+          {
+            "definition": "characteristic of a particular species, genus, or phenomenon.",
+            "examples": [
+              "the diagnostic character of having not one but two pairs of antennae"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "diagnostic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "diagnostics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a distinctive symptom or characteristic."
+          },
+          {
+            "definition": "a program or routine that helps a user to identify errors."
+          },
+          {
+            "definition": "the practice or techniques of diagnosis.",
+            "examples": [
+              "advanced medical diagnostics"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

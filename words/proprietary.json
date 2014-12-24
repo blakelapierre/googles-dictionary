@@ -1,0 +1,74 @@
+[
+  {
+    "word": "proprietary",
+    "syllables": [
+      "pro",
+      "pri",
+      "e",
+      "tar",
+      "y"
+    ],
+    "pronunciation": "p(r)əˈprīəˌterē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "proprietary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to an owner or ownership.",
+            "examples": [
+              "the company has a proprietary right to the property"
+            ]
+          },
+          {
+            "definition": "(of a product) marketed under and protected by a registered trade name.",
+            "examples": [
+              "proprietary brands of insecticide"
+            ],
+            "synonyms": [
+              "copyrighted",
+              "trademarked",
+              "owned",
+              "private",
+              "registered",
+              "patented",
+              "exclusive \"'Kleenex' is a proprietary name\""
+            ]
+          },
+          {
+            "definition": "behaving as if one were the owner of someone or something.",
+            "examples": [
+              "he looked about him with a proprietary air"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "proprietary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "proprietaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an owner; proprietor."
+          },
+          {
+            "definition": "especially in North America, a grantee or owner of a colony who has been granted, as an individual or as part of a group, the full rights of self-government."
+          }
+        ]
+      }
+    ]
+  }
+]

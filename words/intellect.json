@@ -1,0 +1,64 @@
+[
+  {
+    "word": "intellect",
+    "syllables": [
+      "in",
+      "tel",
+      "lect"
+    ],
+    "pronunciation": "ˈin(t)lˌekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intellect"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the faculty of reasoning and understanding objectively, especially with regard to abstract or academic matters.",
+            "examples": [
+              "he was a man of action rather than of intellect"
+            ],
+            "synonyms": [
+              "mind",
+              "brain(s)",
+              "intelligence",
+              "reason",
+              "understanding",
+              "thought",
+              "brainpower",
+              "sense",
+              "judgment",
+              "wisdom",
+              "wits; Moreinformalgray matter",
+              "IQ",
+              "brain cells",
+              "smarts \"a film that appeals to one's intellect\""
+            ]
+          },
+          {
+            "definition": "the understanding or mental powers of a particular person.",
+            "examples": [
+              "plural noun: intellects"
+            ]
+          },
+          {
+            "definition": "an intelligent or intellectual person.",
+            "examples": [
+              "sapping our country of some of its brightest intellects"
+            ],
+            "synonyms": [
+              "thinker",
+              "intellectual",
+              "sage; Moremind",
+              "brain \"one of the finest intellects\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

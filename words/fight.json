@@ -1,0 +1,309 @@
+[
+  {
+    "word": "fight",
+    "syllables": [
+      "fight"
+    ],
+    "pronunciation": "fīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fight"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fights"
+          },
+          {
+            "part": "past tense",
+            "variant": "fought"
+          },
+          {
+            "part": "past participle",
+            "variant": "fought"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fighting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take part in a violent struggle involving the exchange of physical blows or the use of weapons.",
+            "examples": [
+              "the men were fighting"
+            ],
+            "synonyms": [
+              "brawl",
+              "exchange blows",
+              "attack each other",
+              "assault each other",
+              "hit each other",
+              "punch each other; Morestruggle",
+              "grapple",
+              "wrestle; informalscrap",
+              "have a set-to",
+              "roughhouse",
+              "engage in fisticuffs \"two men were fighting\"violent",
+              "combative",
+              "aggressive",
+              "pugnacious",
+              "truculent",
+              "belligerent",
+              "bellicose",
+              "scrappy \"a fighting man\""
+            ],
+            "antonyms": [
+              "peaceful"
+            ]
+          },
+          {
+            "definition": "engage in (a war or battle).",
+            "examples": [
+              "there was another war to fight"
+            ],
+            "synonyms": [
+              "(do) battle",
+              "go to war",
+              "take up arms",
+              "be a soldier; Moreengage",
+              "meet",
+              "clash",
+              "skirmish \"they fought in the First World War\"engage in",
+              "wage",
+              "conduct",
+              "prosecute",
+              "undertake \"a war fought for freedom\""
+            ]
+          },
+          {
+            "definition": "quarrel or argue.",
+            "examples": [
+              "she didn't want to fight with her mother all the time"
+            ],
+            "synonyms": [
+              "quarrel",
+              "argue",
+              "bicker",
+              "squabble",
+              "fall out",
+              "have a fight",
+              "have a row",
+              "wrangle",
+              "be at odds",
+              "disagree",
+              "differ",
+              "have words",
+              "bandy words",
+              "be at each other's throats",
+              "be at loggerheads; informalscrap \"they are always fighting\""
+            ]
+          },
+          {
+            "definition": "struggle to put out (a fire, especially a large one).",
+            "examples": [
+              "two fire trucks raced to the scene to fight the blaze"
+            ]
+          },
+          {
+            "definition": "endeavor vigorously to win (an election or other contest)."
+          },
+          {
+            "definition": "campaign determinedly for or against something, especially to put right what one considers unfair or unjust.",
+            "examples": [
+              "I will fight for more equitable laws"
+            ],
+            "synonyms": [
+              "campaign",
+              "strive",
+              "battle",
+              "struggle",
+              "contend",
+              "crusade",
+              "agitate",
+              "lobby",
+              "push",
+              "press \"fighting against wage reductions\""
+            ]
+          },
+          {
+            "definition": "struggle or campaign against (something).",
+            "examples": [
+              "the best way to fight fascism abroad and racism at home"
+            ],
+            "synonyms": [
+              "oppose",
+              "contest",
+              "contend with",
+              "confront",
+              "challenge",
+              "combat",
+              "dispute",
+              "quarrel with",
+              "argue against/with",
+              "strive against",
+              "struggle against \"they will fight the decision\""
+            ]
+          },
+          {
+            "definition": "attempt to repress (a feeling or an expression of a feeling).",
+            "examples": [
+              "she had to fight back tears of frustration"
+            ],
+            "synonyms": [
+              "repress",
+              "restrain",
+              "suppress",
+              "stifle",
+              "smother",
+              "hold back",
+              "fight back",
+              "keep in check",
+              "curb",
+              "control",
+              "rein in",
+              "choke back; informalkeep the lid on \"Tyler fought the urge to stick his tongue out\""
+            ]
+          },
+          {
+            "definition": "take part in a boxing match against (an opponent)."
+          },
+          {
+            "definition": "move forward with difficulty, especially by pushing through a crowd or overcoming physical obstacles.",
+            "examples": [
+              "she watched him fight his way across the room"
+            ]
+          },
+          {
+            "definition": "command, manage, or maneuver (troops, a ship, or military equipment) in battle.",
+            "examples": [
+              "General Hill fights his troops well"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fight"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fights"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a violent confrontation or struggle.",
+            "examples": [
+              "we'll get into a fight and wind up with bloody noses"
+            ],
+            "synonyms": [
+              "brawl",
+              "fracas",
+              "melee",
+              "rumpus",
+              "skirmish",
+              "sparring match",
+              "struggle",
+              "scuffle",
+              "altercation",
+              "clash",
+              "disturbance; Morefisticuffs; informalscrap",
+              "set-to",
+              "donnybrook \"a fight outside a club\""
+            ]
+          },
+          {
+            "definition": "a boxing match.",
+            "examples": [
+              "boxing match, bout, match a heavyweight fight"
+            ]
+          },
+          {
+            "definition": "a battle or war.",
+            "examples": [
+              "the country was not eager for a fight with the US"
+            ],
+            "synonyms": [
+              "battle",
+              "engagement",
+              "clash",
+              "conflict",
+              "struggle; Morewar",
+              "campaign",
+              "crusade",
+              "action",
+              "hostilities \"Richard the Lionheart's fight against the French\""
+            ]
+          },
+          {
+            "definition": "a vigorous struggle or campaign for or against something.",
+            "examples": [
+              "a long fight against cancer"
+            ],
+            "synonyms": [
+              "struggle",
+              "battle",
+              "campaign",
+              "push",
+              "effort \"their fight for control of the company\""
+            ]
+          },
+          {
+            "definition": "an argument or quarrel.",
+            "examples": [
+              "she had a fight with her husband"
+            ],
+            "synonyms": [
+              "argument",
+              "quarrel",
+              "squabble",
+              "row",
+              "wrangle",
+              "disagreement",
+              "falling-out",
+              "contretemps",
+              "altercation",
+              "dispute; Moreinformaltiff",
+              "spat",
+              "scrap",
+              "cat fight",
+              "blowup; vulgar slangshitstorm \"a fight with my girlfriend\""
+            ]
+          },
+          {
+            "definition": "the inclination or ability to fight or struggle.",
+            "examples": [
+              "Ginny felt the fight trickle out of her"
+            ],
+            "synonyms": [
+              "will to resist",
+              "resistance",
+              "spirit",
+              "courage",
+              "pluck",
+              "pluckiness",
+              "grit",
+              "strength",
+              "backbone",
+              "determination",
+              "resolution",
+              "resolve",
+              "resoluteness",
+              "aggression",
+              "aggressiveness; Moreinformalguts",
+              "spunk",
+              "moxie \"she had no fight left in her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "word": "figure",
+    "syllables": [
+      "fig",
+      "ure"
+    ],
+    "pronunciation": "ˈfiɡyər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "figure"
+          },
+          {
+            "part": "plural noun",
+            "variant": "figures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a number, especially one that forms part of official statistics or relates to the financial performance of a company.",
+            "examples": [
+              "official census figures"
+            ],
+            "synonyms": [
+              "statistic",
+              "number",
+              "quantity",
+              "amount",
+              "level",
+              "total",
+              "sum; Moredata",
+              "information \"the production figure\""
+            ]
+          },
+          {
+            "definition": "a numerical symbol, especially any of the ten in Arabic notation.",
+            "examples": [
+              "the figure 7"
+            ],
+            "synonyms": [
+              "digit",
+              "numeral",
+              "numerical symbol \"the second figure was 9\""
+            ]
+          },
+          {
+            "definition": "one of a specified number of digits making up a larger number, used to give a rough idea of the order of magnitude.",
+            "examples": [
+              "their market price runs into five figures"
+            ]
+          },
+          {
+            "definition": "an amount of money.",
+            "examples": [
+              "a figure of two thousand dollars"
+            ],
+            "synonyms": [
+              "price",
+              "cost",
+              "amount",
+              "value",
+              "valuation \"he can't put a figure on it\""
+            ]
+          },
+          {
+            "definition": "arithmetical calculations.",
+            "examples": [
+              "she has no head for figures"
+            ],
+            "synonyms": [
+              "arithmetic",
+              "mathematics",
+              "math",
+              "calculations",
+              "computation",
+              "numbers \"I'm good with figures\""
+            ]
+          },
+          {
+            "definition": "a person's bodily shape, especially that of a woman and when considered to be attractive.",
+            "examples": [
+              "she had always been so proud of her figure"
+            ],
+            "synonyms": [
+              "physique",
+              "build",
+              "frame",
+              "body",
+              "proportions",
+              "shape",
+              "form \"her petite figure\""
+            ]
+          },
+          {
+            "definition": "a person seen indistinctly, especially at a distance.",
+            "examples": [
+              "a backpacked figure appeared in the distance"
+            ],
+            "synonyms": [
+              "silhouette",
+              "outline",
+              "shape",
+              "form \"a dark figure emerged\""
+            ]
+          },
+          {
+            "definition": "a person of a particular kind, especially one who is important or distinctive in some way.",
+            "examples": [
+              "Williams became something of a cult figure"
+            ],
+            "synonyms": [
+              "person",
+              "personage",
+              "individual",
+              "man",
+              "woman",
+              "character",
+              "personality; Morerepresentative",
+              "embodiment",
+              "personification",
+              "epitome \"a figure of authority\""
+            ]
+          },
+          {
+            "definition": "a representation of a human or animal form in drawing or sculpture.",
+            "examples": [
+              "starkly painted figures"
+            ],
+            "synonyms": [
+              "human representation",
+              "effigy",
+              "model",
+              "statue \"life-size figures\""
+            ]
+          },
+          {
+            "definition": "a shape defined by one or more lines in two dimensions (such as a circle or a triangle), or one or more surfaces in three dimensions (such as a sphere or a cuboid), either considered mathematically in geometry or used as a decorative design.",
+            "examples": [
+              "a red ground with white and blue geometric figures"
+            ],
+            "synonyms": [
+              "shape",
+              "pattern",
+              "design",
+              "motif \"geometrical figures\""
+            ]
+          },
+          {
+            "definition": "a diagram or illustrative drawing, especially in a book or magazine.",
+            "examples": [
+              "figure 1 shows an ignition circuit"
+            ],
+            "synonyms": [
+              "diagram",
+              "illustration",
+              "drawing",
+              "picture",
+              "plate \"see figure 4\""
+            ]
+          },
+          {
+            "definition": "a movement or series of movements following a prescribed pattern and often beginning and ending at the same point."
+          },
+          {
+            "definition": "a pattern formed by the movements of a group of people, for example in square dancing or synchronized swimming, as part of a longer dance or display."
+          },
+          {
+            "definition": "the external form or shape of a thing."
+          },
+          {
+            "definition": "a short succession of notes producing a single impression."
+          },
+          {
+            "definition": "the form of a syllogism, classified according to the position of the middle term."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "figure"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "figures"
+          },
+          {
+            "part": "past tense",
+            "variant": "figured"
+          },
+          {
+            "part": "past participle",
+            "variant": "figured"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "figuring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be a significant and noticeable part of something.",
+            "examples": [
+              "the issue of nuclear policy figured prominently in the talks"
+            ],
+            "synonyms": [
+              "feature",
+              "appear",
+              "be featured",
+              "be mentioned",
+              "be referred to",
+              "have prominence",
+              "crop up \"a beast figuring in Egyptian legend\""
+            ]
+          },
+          {
+            "definition": "(of a person) play a significant role in a situation or event.",
+            "examples": [
+              "he figured largely in opposition to the bill"
+            ]
+          },
+          {
+            "definition": "(of a fictional character) play a part in a novel, play, or movie.",
+            "examples": [
+              "the four characters who figure in Ridley's play"
+            ]
+          },
+          {
+            "definition": "calculate or work out (an amount or value) arithmetically.",
+            "examples": [
+              "calculate, work out, total, reckon, compute, determine, assess, put a figure on, crunch the numbers, tot up a way to figure the values"
+            ]
+          },
+          {
+            "definition": "think, consider, or expect to be the case.",
+            "examples": [
+              "I figure that wearing a suit makes you look like a bank clerk"
+            ],
+            "synonyms": [
+              "suppose",
+              "think",
+              "believe",
+              "consider",
+              "expect",
+              "take it",
+              "suspect",
+              "sense; Moreassume",
+              "dare say",
+              "conclude",
+              "take it as read",
+              "presume",
+              "deduce",
+              "infer",
+              "extrapolate",
+              "gather",
+              "guess \"I figured that I didn't have a chance\""
+            ]
+          },
+          {
+            "definition": "(of a recent event or newly discovered fact) be logical and unsurprising.",
+            "examples": [
+              "well, she supposed that figured"
+            ],
+            "synonyms": [
+              "make sense",
+              "seem reasonable",
+              "stand to reason",
+              "be to be expected",
+              "be logical",
+              "follow",
+              "ring true \"“Charlotte's late.” “That figures.”\""
+            ]
+          },
+          {
+            "definition": "represent (something) in a diagram or picture.",
+            "examples": [
+              "varieties of this Cape genus are figured from drawings made there"
+            ]
+          },
+          {
+            "definition": "embellish (something) with a pattern.",
+            "examples": [
+              "the floors were covered with figured linoleum"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

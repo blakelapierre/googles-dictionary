@@ -1,0 +1,115 @@
+[
+  {
+    "word": "swindle",
+    "syllables": [
+      "swin",
+      "dle"
+    ],
+    "pronunciation": "ˈswindl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "swindle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "swindles"
+          },
+          {
+            "part": "past tense",
+            "variant": "swindled"
+          },
+          {
+            "part": "past participle",
+            "variant": "swindled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "swindling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "use deception to deprive (someone) of money or possessions.",
+            "examples": [
+              "a businessman swindled investors out of millions of dollars"
+            ]
+          },
+          {
+            "definition": "obtain (money) fraudulently.",
+            "examples": [
+              "he was said to have swindled $62.5 million from the pension fund"
+            ],
+            "synonyms": [
+              "defraud",
+              "cheat",
+              "trick",
+              "dupe",
+              "deceive",
+              "fool",
+              "hoax",
+              "hoodwink",
+              "bamboozle; Moreinformalfleece",
+              "con",
+              "bilk",
+              "sting",
+              "hose",
+              "diddle",
+              "rip off",
+              "take for a ride",
+              "pull a fast one on",
+              "put one over on",
+              "take to the cleaners",
+              "gull",
+              "stiff",
+              "euchre",
+              "hornswoggle; literarycozen \"I was swindled out of money\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "swindle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "swindles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fraudulent scheme or action.",
+            "examples": [
+              "he is mixed up in a $10 million insurance swindle"
+            ],
+            "synonyms": [
+              "fraud",
+              "trick",
+              "deception",
+              "deceit",
+              "cheat",
+              "sham",
+              "artifice",
+              "ruse",
+              "dodge",
+              "racket",
+              "wile; Moresharp practice; informalcon",
+              "fiddle",
+              "diddle",
+              "rip-off",
+              "flimflam",
+              "bunco \"an insurance swindle\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

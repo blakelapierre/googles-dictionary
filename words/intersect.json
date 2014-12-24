@@ -1,0 +1,64 @@
+[
+  {
+    "word": "intersect",
+    "syllables": [
+      "in",
+      "ter",
+      "sect"
+    ],
+    "pronunciation": "ˌin(t)ərˈsekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "intersect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "intersects"
+          },
+          {
+            "part": "past tense",
+            "variant": "intersected"
+          },
+          {
+            "part": "past participle",
+            "variant": "intersected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "intersecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "divide (something) by passing or lying across it.",
+            "examples": [
+              "occasionally the water table intersects the earth's surface, forming streams and lakes"
+            ],
+            "synonyms": [
+              "bisect",
+              "divide",
+              "cut in two/half",
+              "cut across/through",
+              "crosscut; Morecross",
+              "traverse \"the cornfield is intersected by a track\""
+            ]
+          },
+          {
+            "definition": "(of two or more things) pass or lie across each other.",
+            "examples": [
+              "lines of latitude and longitude intersect at right angles"
+            ],
+            "synonyms": [
+              "cross",
+              "crisscross; technicaldecussate \"the lines intersect at right angles\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

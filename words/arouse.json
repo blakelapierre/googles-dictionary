@@ -1,0 +1,92 @@
+{
+  "word": "arouse",
+  "syllables": [
+    "a",
+    "rouse"
+  ],
+  "pronunciation": "əˈrouz",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "gerund or present participle",
+          "variant": "arousing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "evoke or awaken (a feeling, emotion, or response).",
+          "examples": [
+            "something about the man aroused the guard's suspicions"
+          ],
+          "synonyms": [
+            "induce",
+            "prompt",
+            "trigger",
+            "stir up",
+            "bring out",
+            "kindle",
+            "fire",
+            "spark off",
+            "provoke",
+            "engender",
+            "cause",
+            "foster; literaryenkindle \"they had aroused his suspicion\""
+          ],
+          "antonyms": [
+            "allay"
+          ]
+        },
+        {
+          "definition": "excite or provoke (someone) to anger or strong emotions.",
+          "examples": [
+            "an ability to influence the audience and to arouse the masses"
+          ],
+          "synonyms": [
+            "stir up",
+            "rouse",
+            "galvanize",
+            "excite",
+            "electrify",
+            "stimulate",
+            "inspire",
+            "inspirit",
+            "move",
+            "fire up",
+            "whip up",
+            "get going",
+            "inflame",
+            "agitate",
+            "goad",
+            "incite; rareinspirit \"his ability to arouse the masses\""
+          ],
+          "antonyms": [
+            "pacify"
+          ]
+        },
+        {
+          "definition": "excite (someone) sexually.",
+          "examples": [
+            "excite, stimulate, titillate; Moreinformalturn on, get going, give a thrill to, light someone's fire \"his touch aroused her\"Moreturn on, get going, give a thrill to, light someone's fire his touch aroused her"
+          ],
+          "antonyms": [
+            "turn off"
+          ]
+        },
+        {
+          "definition": "awaken (someone) from sleep.",
+          "examples": [
+            "she had been aroused by the telephone"
+          ],
+          "synonyms": [
+            "wake (up)",
+            "awaken",
+            "bring to",
+            "rouse; literarywaken \"she was aroused from her sleep\""
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "word": "function",
+  "syllables": [
+    "func",
+    "tion"
+  ],
+  "pronunciation": "ˈfəNG(k)SH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "functions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an activity or purpose natural to or intended for a person or thing.",
+          "examples": [
+            "bridges perform the function of providing access across water"
+          ],
+          "synonyms": [
+            "purpose",
+            "task",
+            "use",
+            "role More\"the main function of the machine\"responsibility",
+            "duty",
+            "role",
+            "concern",
+            "province",
+            "activity",
+            "assignment",
+            "obligation",
+            "charge; task",
+            "job",
+            "mission",
+            "undertaking",
+            "commission; capacity",
+            "post",
+            "situation",
+            "office",
+            "occupation",
+            "employment",
+            "business \"my function was to select and train the recruits\""
+          ]
+        },
+        {
+          "definition": "practical use or purpose in design.",
+          "examples": [
+            "building designs that prioritize style over function"
+          ]
+        },
+        {
+          "definition": "a basic task of a computer, especially one that corresponds to a single instruction from the user."
+        },
+        {
+          "definition": "a relationship or expression involving one or more variables.",
+          "examples": [
+            "the function (bx + c)"
+          ]
+        },
+        {
+          "definition": "a variable quantity regarded in relation to one or more other variables in terms of which it may be expressed or on which its value depends."
+        },
+        {
+          "definition": "a functional group."
+        },
+        {
+          "definition": "a thing dependent on another factor or factors.",
+          "examples": [
+            "class shame is a function of social power"
+          ]
+        },
+        {
+          "definition": "a large or formal social event or ceremony.",
+          "examples": [
+            "he was obliged to attend party functions"
+          ],
+          "synonyms": [
+            "social event",
+            "party",
+            "social occasion",
+            "affair",
+            "gathering",
+            "reception",
+            "soirée",
+            "after-party",
+            "jamboree",
+            "gala",
+            "meet-and-greet; Moreinformaldo",
+            "bash",
+            "shindig \"a function attended by local dignitaries\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "functions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "work or operate in a proper or particular way.",
+          "examples": [
+            "her liver is functioning normally"
+          ],
+          "synonyms": [
+            "work",
+            "go",
+            "run",
+            "be in working/running order",
+            "operate",
+            "be operative \"the electrical system had ceased to function\""
+          ]
+        },
+        {
+          "definition": "fulfill the purpose or task of (a specified thing).",
+          "examples": [
+            "the museum intends to function as an educational and study center"
+          ],
+          "synonyms": [
+            "act as",
+            "serve as",
+            "operate as; Moreperform as",
+            "work as",
+            "play the role of",
+            "do duty as \"the museum functions as an educational center\""
+          ]
+        }
+      ]
+    }
+  ]
+}

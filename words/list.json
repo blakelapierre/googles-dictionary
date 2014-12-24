@@ -1,0 +1,138 @@
+{
+  "word": "list",
+  "syllables": [
+    "list"
+  ],
+  "pronunciation": "list",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "list"
+        },
+        {
+          "part": "plural noun",
+          "variant": "lists"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a number of connected items or names written or printed consecutively, typically one below the other.",
+          "examples": [
+            "consult the list of drugs on page 326"
+          ],
+          "synonyms": [
+            "catalog",
+            "inventory",
+            "record",
+            "register",
+            "address book",
+            "roll",
+            "file",
+            "index",
+            "directory",
+            "listing",
+            "checklist",
+            "enumeration; blogroll \"a list of the world's wealthiest people\""
+          ]
+        },
+        {
+          "definition": "a formal structure analogous to a list by which items of data can be stored or processed in a definite order."
+        },
+        {
+          "definition": "barriers enclosing an area for a jousting tournament."
+        },
+        {
+          "definition": "the scene of a contest or combat."
+        },
+        {
+          "definition": "a selvage of a piece of fabric."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "list"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "lists"
+        },
+        {
+          "part": "past tense",
+          "variant": "listed"
+        },
+        {
+          "part": "past participle",
+          "variant": "listed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "listing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make a list of.",
+          "examples": [
+            "I have listed four reasons below"
+          ],
+          "synonyms": [
+            "record",
+            "register",
+            "make a list of",
+            "enter; Moreitemize",
+            "enumerate",
+            "catalog",
+            "file",
+            "log",
+            "categorize",
+            "inventory; classify",
+            "group",
+            "sort",
+            "rank",
+            "alphabetize",
+            "index \"the accounts are listed alphabetically\""
+          ]
+        },
+        {
+          "definition": "include or enter in a list.",
+          "examples": [
+            "93 men were still listed as missing"
+          ],
+          "synonyms": [
+            "record",
+            "register",
+            "make a list of",
+            "enter; Moreitemize",
+            "enumerate",
+            "catalog",
+            "file",
+            "log",
+            "categorize",
+            "inventory; classify",
+            "group",
+            "sort",
+            "rank",
+            "alphabetize",
+            "index \"the accounts are listed alphabetically\""
+          ]
+        },
+        {
+          "definition": "be on a list of products at (a specified price).",
+          "examples": [
+            "the bottom-of-the-line Mercedes lists for $52,050"
+          ]
+        },
+        {
+          "definition": "enlist for military service."
+        }
+      ]
+    }
+  ]
+}

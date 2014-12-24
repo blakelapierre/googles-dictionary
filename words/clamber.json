@@ -1,0 +1,72 @@
+[
+  {
+    "word": "clamber",
+    "syllables": [
+      "clam",
+      "ber"
+    ],
+    "pronunciation": "ˈklambər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "clamber"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "clambers"
+          },
+          {
+            "part": "past tense",
+            "variant": "clambered"
+          },
+          {
+            "part": "past participle",
+            "variant": "clambered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "clambering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet.",
+            "examples": [
+              "I clambered out of the trench"
+            ],
+            "synonyms": [
+              "scramble",
+              "climb",
+              "scrabble",
+              "claw one's way \"Frankie clambered up to the top bunk\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "clamber"
+          },
+          {
+            "part": "plural noun",
+            "variant": "clambers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an awkward and laborious climb or movement.",
+            "examples": [
+              "a clamber up the cliff path"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

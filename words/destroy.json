@@ -1,0 +1,151 @@
+[
+  {
+    "word": "destroy",
+    "syllables": [
+      "de",
+      "stroy"
+    ],
+    "pronunciation": "dəˈstroi",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "destroy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "destroys"
+          },
+          {
+            "part": "past tense",
+            "variant": "destroyed"
+          },
+          {
+            "part": "past participle",
+            "variant": "destroyed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "destroying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put an end to the existence of (something) by damaging or attacking it.",
+            "examples": [
+              "the room had been destroyed by fire"
+            ],
+            "synonyms": [
+              "demolish",
+              "knock down",
+              "level",
+              "raze (to the ground)",
+              "fell; Morewreck",
+              "ruin",
+              "shatter; blast",
+              "blow up",
+              "dynamite",
+              "explode",
+              "bomb \"their offices were destroyed by bombing\"spoil",
+              "ruin",
+              "wreck",
+              "disfigure",
+              "blight",
+              "mar",
+              "impair",
+              "deface",
+              "scar",
+              "injure",
+              "harm",
+              "devastate",
+              "damage",
+              "wreak havoc on; informaltotal \"the new highway would destroy the conservation area\"wreck",
+              "ruin",
+              "spoil",
+              "disrupt",
+              "undo",
+              "upset",
+              "put an end to",
+              "put a stop to",
+              "terminate",
+              "frustrate",
+              "blight",
+              "crush",
+              "quash",
+              "dash",
+              "scotch; devastate",
+              "demolish",
+              "scuttle",
+              "sabotage; informalmess up",
+              "foul up",
+              "put the kibosh on",
+              "fry",
+              "do for",
+              "blow a hole in; archaicbring to naught \"illness destroyed his career\""
+            ],
+            "antonyms": [
+              "build",
+              "reconstruct",
+              "restore",
+              "preserve",
+              "bolster",
+              "help"
+            ]
+          },
+          {
+            "definition": "ruin (someone) emotionally or spiritually.",
+            "examples": [
+              "he has been determined to destroy her"
+            ]
+          },
+          {
+            "definition": "defeat (someone) utterly.",
+            "examples": [
+              "the Tigers destroyed the Padres in five games"
+            ],
+            "synonyms": [
+              "annihilate",
+              "wipe out",
+              "obliterate",
+              "wipe off the face of the earth",
+              "eliminate",
+              "eradicate",
+              "liquidate",
+              "finish off",
+              "erase; Morekill",
+              "slaughter",
+              "massacre",
+              "exterminate; informaltake out",
+              "rub out",
+              "snuff out",
+              "waste",
+              "fry",
+              "nuke",
+              "zap \"we will destroy the enemy\""
+            ],
+            "antonyms": [
+              "spare"
+            ]
+          },
+          {
+            "definition": "kill (a sick, savage, or unwanted animal) by humane means.",
+            "examples": [
+              "their terrier was destroyed after the attack"
+            ],
+            "synonyms": [
+              "kill",
+              "put down",
+              "put to sleep",
+              "slaughter",
+              "terminate",
+              "exterminate",
+              "euthanize \"the horse had to be destroyed\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

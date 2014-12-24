@@ -1,0 +1,58 @@
+{
+  "word": "threat",
+  "syllables": [
+    "threat"
+  ],
+  "pronunciation": "THret",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "threats"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",
+          "examples": [
+            "members of her family have received death threats"
+          ],
+          "synonyms": [
+            "threatening remark",
+            "warning",
+            "ultimatum \"Maggie ignored his threats\""
+          ]
+        },
+        {
+          "definition": "a menace of bodily harm, such as may restrain a person's freedom of action."
+        },
+        {
+          "definition": "a person or thing likely to cause damage or danger.",
+          "examples": [
+            "hurricane damage poses a major threat to many coastal communities"
+          ]
+        },
+        {
+          "definition": "the possibility of trouble, danger, or ruin.",
+          "examples": [
+            "the company faces the threat of bankruptcy"
+          ],
+          "synonyms": [
+            "danger",
+            "peril",
+            "hazard",
+            "menace",
+            "risk More\"a possible threat to aircraft\"possibility",
+            "prospect",
+            "chance",
+            "probability",
+            "likelihood",
+            "risk \"the company faces the threat of liquidation proceedings\""
+          ]
+        }
+      ]
+    }
+  ]
+}

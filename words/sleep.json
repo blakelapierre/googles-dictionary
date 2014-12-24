@@ -1,0 +1,124 @@
+[
+  {
+    "word": "sleep",
+    "syllables": [
+      "sleep"
+    ],
+    "pronunciation": "slēp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sleep"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a condition of body and mind such as that which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+            "examples": [
+              "I was on the verge of sleep"
+            ],
+            "synonyms": [
+              "nap",
+              "doze",
+              "siesta",
+              "power nap",
+              "catnap",
+              "beauty sleep; Moreinformalsnooze",
+              "forty winks",
+              "bit of shut-eye",
+              "power nap; literaryslumber \"go and have a sleep\""
+            ]
+          },
+          {
+            "definition": "a state compared to or resembling sleep, such as death or complete silence or stillness.",
+            "examples": [
+              "a photograph of the poet in his last sleep"
+            ]
+          },
+          {
+            "definition": "a gummy or gritty secretion found in the corners of the eyes after sleep.",
+            "examples": [
+              "she sat up, rubbing the sleep from her eyes"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sleep"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sleeps"
+          },
+          {
+            "part": "past tense",
+            "variant": "slept"
+          },
+          {
+            "part": "past participle",
+            "variant": "slept"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sleeping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "rest by sleeping; be asleep.",
+            "examples": [
+              "she slept for half an hour"
+            ],
+            "synonyms": [
+              "be asleep",
+              "doze",
+              "take a siesta",
+              "take a nap",
+              "catnap",
+              "sleep like a log; Moreinformalsnooze",
+              "catch/snatch forty winks",
+              "get some shut-eye",
+              "put one's head down",
+              "catch some Zs; humorousbe in the land of Nod",
+              "be in the arms of Morpheus; literaryslumber \"she slept for about an hour\""
+            ],
+            "antonyms": [
+              "wake up"
+            ]
+          },
+          {
+            "definition": "be inactive or dormant.",
+            "examples": [
+              "Copenhagen likes to be known as the city that never sleeps"
+            ]
+          },
+          {
+            "definition": "be at peace in death; lie buried.",
+            "examples": [
+              "he sleeps beneath the silver birches"
+            ]
+          },
+          {
+            "definition": "provide (a specified number of people) with beds, rooms, or places to stay the night.",
+            "examples": [
+              "studios sleeping two people cost $70 a night"
+            ]
+          },
+          {
+            "definition": "have sexual intercourse or be involved in a sexual relationship.",
+            "examples": [
+              "I won't sleep with a man who doesn't respect me"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

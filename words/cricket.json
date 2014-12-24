@@ -1,0 +1,82 @@
+[
+  {
+    "word": "cricket",
+    "syllables": [
+      "crick",
+      "et"
+    ],
+    "pronunciation": "ˈkrikit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cricket"
+          },
+          {
+            "part": "plural noun",
+            "variant": "crickets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an insect related to the grasshoppers. The male produces a characteristic rhythmical chirping sound."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cricket",
+    "syllables": [
+      "crick",
+      "et"
+    ],
+    "pronunciation": "ˈkrikit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cricket"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an open-air game played on a large grass field with ball, bats, and two wickets, between teams of eleven players, the object of the game being to score more runs than the opposition."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cricket",
+    "syllables": [
+      "crick",
+      "et"
+    ],
+    "pronunciation": "ˈkrikit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cricket"
+          },
+          {
+            "part": "plural noun",
+            "variant": "crickets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a low stool, typically with a rectangular or oval seat and four legs splayed out."
+          }
+        ]
+      }
+    ]
+  }
+]

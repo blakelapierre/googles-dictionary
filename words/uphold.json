@@ -1,0 +1,82 @@
+[
+  {
+    "word": "uphold",
+    "syllables": [
+      "up",
+      "hold"
+    ],
+    "pronunciation": "ˌəpˈhōld",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "uphold"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "upholds"
+          },
+          {
+            "part": "past tense",
+            "variant": "upheld"
+          },
+          {
+            "part": "past participle",
+            "variant": "upheld"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "upholding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "confirm or support (something that has been questioned).",
+            "examples": [
+              "the court upheld his claim for damages"
+            ],
+            "synonyms": [
+              "confirm",
+              "endorse",
+              "sustain",
+              "approve",
+              "agree to",
+              "support; Morechampion",
+              "defend \"the court upheld his claim for damages\""
+            ],
+            "antonyms": [
+              "overturn",
+              "oppose"
+            ]
+          },
+          {
+            "definition": "maintain (a custom or practice).",
+            "examples": [
+              "many furniture makers uphold the tradition of fine design"
+            ],
+            "synonyms": [
+              "maintain",
+              "sustain",
+              "continue",
+              "preserve",
+              "protect",
+              "champion",
+              "defend",
+              "keep",
+              "hold to",
+              "keep alive",
+              "keep going",
+              "back (up)",
+              "stand by \"they've a tradition to uphold\""
+            ],
+            "antonyms": [
+              "abandon"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

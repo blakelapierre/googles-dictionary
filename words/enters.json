@@ -1,0 +1,178 @@
+[
+  {
+    "word": "enter",
+    "syllables": [
+      "en",
+      "ter"
+    ],
+    "pronunciation": "ˈen(t)ər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "entered"
+          },
+          {
+            "part": "past participle",
+            "variant": "entered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come or go into (a place).",
+            "examples": [
+              "she entered the kitchen"
+            ],
+            "synonyms": [
+              "go in/into",
+              "come in/into",
+              "get in/into",
+              "set foot in",
+              "cross the threshold of",
+              "gain access to",
+              "infiltrate",
+              "access \"police entered the house from the side\""
+            ],
+            "antonyms": [
+              "leave"
+            ]
+          },
+          {
+            "definition": "used as a stage direction to indicate when a character comes on stage.",
+            "examples": [
+              "enter Hamlet"
+            ]
+          },
+          {
+            "definition": "penetrate (something).",
+            "examples": [
+              "the bullet entered his stomach"
+            ],
+            "synonyms": [
+              "penetrate",
+              "pierce",
+              "puncture",
+              "perforate; literarytranspierce \"a bullet entered his chest\""
+            ],
+            "antonyms": [
+              "leave"
+            ]
+          },
+          {
+            "definition": "(of a man) insert the penis into the vagina of (a woman)."
+          },
+          {
+            "definition": "come or be introduced into.",
+            "examples": [
+              "the thought never entered my head"
+            ]
+          },
+          {
+            "definition": "begin to be involved in.",
+            "examples": [
+              "in 1941 America entered the war"
+            ],
+            "synonyms": [
+              "get involved in",
+              "join",
+              "throw oneself into",
+              "engage in",
+              "embark on",
+              "take up; Moreparticipate in",
+              "take part in",
+              "play a part/role in",
+              "contribute to \"he entered politics in 1979\""
+            ],
+            "antonyms": [
+              "leave"
+            ]
+          },
+          {
+            "definition": "become a member of or start working in (an institution or profession).",
+            "examples": [
+              "that autumn, he entered college"
+            ],
+            "synonyms": [
+              "join",
+              "become a member of",
+              "enroll in/for",
+              "enlist in",
+              "volunteer for",
+              "sign up for; take up \"they entered the military at eighteen\""
+            ],
+            "antonyms": [
+              "leave"
+            ]
+          },
+          {
+            "definition": "register as a competitor or participant in (a tournament, race, or examination).",
+            "examples": [
+              "sign on/up for, put one's name down for, register for, enroll in/for, go in for; Morecompete in, take part in, participate in \"she entered a cooking competition\"Morecompete in, take part in, participate in she entered a cooking competition"
+            ]
+          },
+          {
+            "definition": "start or reach (a stage or period of time) in an activity or situation.",
+            "examples": [
+              "the election campaign entered its final phase"
+            ],
+            "synonyms": [
+              "reach",
+              "move into",
+              "get to",
+              "begin",
+              "start",
+              "commence \"the planning entered a new phase\""
+            ],
+            "antonyms": [
+              "finish"
+            ]
+          },
+          {
+            "definition": "(of a particular performer in an ensemble) start or resume playing or singing."
+          },
+          {
+            "definition": "write or key (information) in a book, computer, etc., so as to record it.",
+            "examples": [
+              "children can enter the data into the computer"
+            ],
+            "synonyms": [
+              "record",
+              "write",
+              "set down",
+              "put down",
+              "take down",
+              "note",
+              "jot down; Moreput on record",
+              "minute",
+              "register",
+              "log \"the cashier entered the details in a ledger\""
+            ],
+            "antonyms": [
+              "erase"
+            ]
+          },
+          {
+            "definition": "submit (a statement) in an official capacity, usually in a court of law.",
+            "examples": [
+              "an attorney entered a plea of guilty on her behalf"
+            ],
+            "synonyms": [
+              "submit",
+              "register",
+              "lodge",
+              "record",
+              "file",
+              "put forward",
+              "present \"he entered a plea of guilty\""
+            ],
+            "antonyms": [
+              "withdraw"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

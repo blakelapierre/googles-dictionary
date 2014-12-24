@@ -1,0 +1,105 @@
+[
+  {
+    "word": "patent",
+    "syllables": [
+      "pat",
+      "ent"
+    ],
+    "pronunciation": "ˈpatntˈpatnt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "patent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "patents"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "patent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "easily recognizable; obvious.",
+            "examples": [
+              "she was smiling with patent insincerity"
+            ],
+            "synonyms": [
+              "obvious",
+              "clear",
+              "plain",
+              "evident",
+              "manifest",
+              "self-evident",
+              "transparent",
+              "overt",
+              "conspicuous",
+              "blatant",
+              "downright",
+              "barefaced",
+              "flagrant",
+              "undisguised",
+              "unconcealed",
+              "unmistakable \"patent nonsense\""
+            ]
+          },
+          {
+            "definition": "(of a vessel, duct, or aperture) open and unobstructed; failing to close."
+          },
+          {
+            "definition": "(of a parasitic infection) showing detectable parasites in the tissues or feces."
+          },
+          {
+            "definition": "made and marketed under a patent; proprietary.",
+            "examples": [
+              "patent milk powder"
+            ],
+            "synonyms": [
+              "proprietary",
+              "patented",
+              "licensed",
+              "branded \"patent medicines\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "patent"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "patents"
+          },
+          {
+            "part": "past tense",
+            "variant": "patented"
+          },
+          {
+            "part": "past participle",
+            "variant": "patented"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "patenting"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "word": "activity",
+  "syllables": [
+    "ac",
+    "tiv",
+    "i",
+    "ty"
+  ],
+  "pronunciation": "akˈtivədē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "activity"
+        },
+        {
+          "part": "plural noun",
+          "variant": "activities"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the condition in which things are happening or being done.",
+          "examples": [
+            "there has been a sustained level of activity in the economy"
+          ]
+        },
+        {
+          "definition": "busy or vigorous action or movement.",
+          "examples": [
+            "the room was a hive of activity"
+          ],
+          "synonyms": [
+            "bustle",
+            "hustle and bustle",
+            "busyness",
+            "action",
+            "liveliness",
+            "movement",
+            "life",
+            "stir",
+            "flurry; Morehappenings",
+            "occurrences",
+            "proceedings",
+            "events",
+            "incidents; informaltoing and froing",
+            "comings and goings \"there was a lot of activity in the area\""
+          ]
+        },
+        {
+          "definition": "a thing that a person or group does or has done.",
+          "examples": [
+            "the firm's marketing activities"
+          ],
+          "synonyms": [
+            "pursuit",
+            "occupation",
+            "interest",
+            "hobby",
+            "pastime",
+            "recreation",
+            "diversion; Moreventure",
+            "undertaking",
+            "enterprise",
+            "project",
+            "scheme",
+            "business",
+            "entertainment; act",
+            "action",
+            "deed",
+            "exploit \"a wide range of activities\""
+          ]
+        },
+        {
+          "definition": "a recreational pursuit or pastime.",
+          "examples": [
+            "a range of sports activities"
+          ]
+        },
+        {
+          "definition": "actions taken by a group in order to achieve their aims.",
+          "examples": [
+            "the police were investigating anarchist activities"
+          ]
+        },
+        {
+          "definition": "the degree to which something displays its characteristic property or behavior.",
+          "examples": [
+            "abnormal liver enzyme activities"
+          ]
+        },
+        {
+          "definition": "a thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient."
+        }
+      ]
+    }
+  ]
+}

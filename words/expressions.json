@@ -1,0 +1,126 @@
+[
+  {
+    "word": "expression",
+    "syllables": [
+      "ex",
+      "pres",
+      "sion"
+    ],
+    "pronunciation": "ikˈspreSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "expressions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of making known one's thoughts or feelings.",
+            "examples": [
+              "his views found expression in his moral sermons"
+            ],
+            "synonyms": [
+              "utterance",
+              "uttering",
+              "voicing",
+              "pronouncement",
+              "declaration",
+              "articulation",
+              "assertion",
+              "setting forth; Moredissemination",
+              "circulation",
+              "communication",
+              "spreading",
+              "promulgation \"the free expression of opposition views\"indication",
+              "demonstration",
+              "show",
+              "exhibition",
+              "token; communication",
+              "illustration",
+              "revelation \"an expression of sympathy\""
+            ]
+          },
+          {
+            "definition": "the conveying of feeling in the face or voice, in a work of art, or in the performance of a piece of music.",
+            "examples": [
+              "eyes empty of expression"
+            ],
+            "synonyms": [
+              "emotion",
+              "feeling",
+              "spirit",
+              "passion",
+              "intensity; Morestyle",
+              "intonation",
+              "tone \"these pieces are very different in expression\""
+            ]
+          },
+          {
+            "definition": "the look on someone's face that conveys a particular emotion.",
+            "examples": [
+              "a sad expression"
+            ],
+            "synonyms": [
+              "look",
+              "appearance",
+              "air",
+              "manner",
+              "countenance",
+              "mien \"an expression of harassed fatigue\""
+            ]
+          },
+          {
+            "definition": "a word or phrase, especially an idiomatic one, used to convey an idea.",
+            "examples": [
+              "nowhere is the expression “garbage in, garbage out” any truer"
+            ],
+            "synonyms": [
+              "idiom",
+              "phrase",
+              "idiomatic expression; Moreproverb",
+              "saying",
+              "adage",
+              "maxim",
+              "axiom",
+              "aphorism",
+              "saw",
+              "motto",
+              "platitude",
+              "cliché \"a timeworn expression\""
+            ]
+          },
+          {
+            "definition": "a collection of symbols that jointly express a quantity.",
+            "examples": [
+              "the expression for the circumference of a circle is 2πr"
+            ]
+          },
+          {
+            "definition": "the production of something, especially by pressing or squeezing it out.",
+            "examples": [
+              "essential oils obtained by distillation or expression"
+            ],
+            "synonyms": [
+              "squeezing",
+              "pressing",
+              "extraction",
+              "extracting \"essential oils obtained by expression\""
+            ]
+          },
+          {
+            "definition": "the appearance in a phenotype of a characteristic or effect attributed to a particular gene."
+          },
+          {
+            "definition": "the process by which possession of a gene leads to the appearance in the phenotype of the corresponding character.",
+            "examples": [
+              "noun: gene expression; plural noun: gene expressions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

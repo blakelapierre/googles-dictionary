@@ -1,0 +1,69 @@
+{
+  "word": "theory",
+  "syllables": [
+    "the",
+    "o",
+    "ry"
+  ],
+  "pronunciation": "ˈTHēərē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "theory"
+        },
+        {
+          "part": "plural noun",
+          "variant": "theories"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+          "examples": [
+            "Darwin's theory of evolution"
+          ],
+          "synonyms": [
+            "hypothesis",
+            "thesis",
+            "conjecture",
+            "supposition",
+            "speculation",
+            "postulation",
+            "postulate",
+            "proposition",
+            "premise",
+            "surmise",
+            "assumption",
+            "presupposition; Moreopinion",
+            "view",
+            "belief",
+            "contention \"I reckon that confirms my theory\"principles",
+            "ideas",
+            "concepts; philosophy",
+            "ideology",
+            "system of ideas",
+            "science \"modern economic theory\""
+          ]
+        },
+        {
+          "definition": "a set of principles on which the practice of an activity is based.",
+          "examples": [
+            "a theory of education"
+          ]
+        },
+        {
+          "definition": "an idea used to account for a situation or justify a course of action.",
+          "examples": [
+            "my theory would be that the place has been seriously mismanaged"
+          ]
+        },
+        {
+          "definition": "a collection of propositions to illustrate the principles of a subject."
+        }
+      ]
+    }
+  ]
+}

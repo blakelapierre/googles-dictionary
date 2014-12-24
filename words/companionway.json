@@ -1,0 +1,32 @@
+[
+  {
+    "word": "companionway",
+    "syllables": [
+      "com",
+      "pan",
+      "ion",
+      "way"
+    ],
+    "pronunciation": "kəmˈpanyənˌwā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "companionway"
+          },
+          {
+            "part": "plural noun",
+            "variant": "companionways"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of steps leading from a ship's deck down to a cabin or lower deck."
+          }
+        ]
+      }
+    ]
+  }
+]

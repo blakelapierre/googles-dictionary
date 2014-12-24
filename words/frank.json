@@ -1,0 +1,213 @@
+[
+  {
+    "word": "frank",
+    "syllables": [
+      "frank"
+    ],
+    "pronunciation": "fraNGk",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "frank"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "franker"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "frankest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "open, honest, and direct in speech or writing, especially when dealing with unpalatable matters.",
+            "examples": [
+              "a long and frank discussion"
+            ],
+            "synonyms": [
+              "candid",
+              "direct",
+              "forthright",
+              "plain",
+              "plain-spoken",
+              "straight",
+              "straightforward",
+              "explicit",
+              "to the point",
+              "matter-of-fact; Moreopen",
+              "honest",
+              "truthful",
+              "sincere; outspoken",
+              "bluff",
+              "blunt",
+              "unsparing",
+              "not afraid to call a spade a spade; informalupfront \"he was quite frank with me\""
+            ],
+            "antonyms": [
+              "evasive"
+            ]
+          },
+          {
+            "definition": "open, sincere, or undisguised in manner or appearance.",
+            "examples": [
+              "Katherine saw her look at Sam with frank admiration"
+            ],
+            "synonyms": [
+              "open",
+              "undisguised",
+              "unconcealed",
+              "naked",
+              "unmistakable",
+              "clear",
+              "obvious",
+              "transparent",
+              "patent",
+              "manifest",
+              "evident",
+              "perceptible",
+              "palpable; Moreblatant",
+              "barefaced",
+              "flagrant \"she looked at the child with frank admiration\""
+            ],
+            "antonyms": [
+              "concealed"
+            ]
+          },
+          {
+            "definition": "unmistakable; obvious.",
+            "examples": [
+              "frank ulceration"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "syllables": [
+      "frank"
+    ],
+    "pronunciation": "fraNGk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "frank"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "franks"
+          },
+          {
+            "part": "past tense",
+            "variant": "franked"
+          },
+          {
+            "part": "past participle",
+            "variant": "franked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "franking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stamp an official mark on (a letter or parcel), especially to indicate that postage has been paid or does not need to be paid."
+          },
+          {
+            "definition": "sign (a letter or parcel) to ensure delivery free of charge."
+          },
+          {
+            "definition": "facilitate or pay the passage of (someone).",
+            "examples": [
+              "English will frank the traveler through most of North America"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "frank"
+          },
+          {
+            "part": "plural noun",
+            "variant": "franks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an official mark or signature on a letter or parcel, especially to indicate that postage has been paid or does not need to be paid."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "syllables": [
+      "frank"
+    ],
+    "pronunciation": "fraNGk",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "frank"
+          },
+          {
+            "part": "plural noun",
+            "variant": "franks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for frankfurter."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Frank",
+    "syllables": [
+      "Frank"
+    ],
+    "pronunciation": "fraNGk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Frank"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Franks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of a Germanic people that conquered Gaul in the 6th century and controlled much of western Europe for several centuries afterward."
+          },
+          {
+            "definition": "(in the eastern Mediterranean region) a person of western European nationality or descent."
+          }
+        ]
+      }
+    ]
+  }
+]

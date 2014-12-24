@@ -1,0 +1,163 @@
+[
+  {
+    "word": "deliver",
+    "syllables": [
+      "de",
+      "liv",
+      "er"
+    ],
+    "pronunciation": "dəˈlivər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "delivers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring and hand over (a letter, parcel, or ordered goods) to the proper recipient or address.",
+            "examples": [
+              "the products should be delivered on time"
+            ],
+            "synonyms": [
+              "bring",
+              "take",
+              "convey",
+              "carry",
+              "transport",
+              "courier; Moresend",
+              "dispatch",
+              "remit \"the parcel was delivered to his house\"hand over",
+              "turn over",
+              "make over",
+              "sign over; surrender",
+              "give up",
+              "yield",
+              "cede; consign",
+              "commit",
+              "entrust",
+              "trust \"the money was delivered up to the official\""
+            ]
+          },
+          {
+            "definition": "formally hand over (someone).",
+            "examples": [
+              "they would have delivered him to the Germans for vengeance"
+            ]
+          },
+          {
+            "definition": "launch or aim (a blow, a ball, or an attack).",
+            "examples": [
+              "the pitcher winds up to deliver the ball"
+            ],
+            "synonyms": [
+              "administer",
+              "deal",
+              "inflict",
+              "give; Moreinformalland \"she delivered a deadly blow to his head\"throw",
+              "pitch",
+              "hurl",
+              "launch",
+              "cast",
+              "lob",
+              "aim \"he delivered the ball\""
+            ]
+          },
+          {
+            "definition": "provide (something promised or expected).",
+            "examples": [
+              "he had been able to deliver votes in huge numbers"
+            ],
+            "synonyms": [
+              "provide",
+              "supply",
+              "furnish More\"the trip delivered everything she wanted\"fulfill",
+              "live up to",
+              "carry out",
+              "carry through",
+              "make good on \"we must deliver on our commitments\""
+            ]
+          },
+          {
+            "definition": "save, rescue, or set free from.",
+            "examples": [
+              "deliver us from misery"
+            ],
+            "synonyms": [
+              "save",
+              "rescue",
+              "free",
+              "liberate",
+              "release",
+              "extricate",
+              "emancipate",
+              "redeem \"he was delivered from his enemies\""
+            ]
+          },
+          {
+            "definition": "surrender someone or something.",
+            "examples": [
+              "to deliver up to justice a member of his own family"
+            ]
+          },
+          {
+            "definition": "acknowledge that one intends to be bound by (a deed), either explicitly by declaration or implicitly by formal handover."
+          },
+          {
+            "definition": "state in a formal manner.",
+            "examples": [
+              "the President will deliver a speech"
+            ],
+            "synonyms": [
+              "utter",
+              "give",
+              "make",
+              "read",
+              "broadcast; Morepronounce",
+              "announce",
+              "declare",
+              "proclaim",
+              "hand down",
+              "return",
+              "set forth \"the court delivered its verdict\""
+            ]
+          },
+          {
+            "definition": "(of a judge or court) give (a judgment or verdict).",
+            "examples": [
+              "the judge delivered his verdict"
+            ]
+          },
+          {
+            "definition": "assist in the birth of.",
+            "examples": [
+              "the village midwife delivered the baby"
+            ]
+          },
+          {
+            "definition": "give birth to.",
+            "examples": [
+              "the number of women delivering their babies in hospitals increased"
+            ],
+            "synonyms": [
+              "give birth to",
+              "bear",
+              "have",
+              "bring into the world",
+              "birth; Moreinformaldrop; datedbe delivered of \"she returned home to deliver her child\""
+            ]
+          },
+          {
+            "definition": "assist (a woman) in giving birth.",
+            "examples": [
+              "she was delivered of her second child"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

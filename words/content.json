@@ -1,0 +1,61 @@
+{
+  "word": "content",
+  "syllables": [
+    "con",
+    "tent"
+  ],
+  "pronunciation": "kənˈtent",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "contents"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "satisfy (someone).",
+          "examples": [
+            "nothing would content her"
+          ],
+          "synonyms": [
+            "satisfy",
+            "please; Moresoothe",
+            "pacify",
+            "placate",
+            "appease",
+            "mollify \"her reply seemed to content him\""
+          ]
+        },
+        {
+          "definition": "accept as adequate despite wanting more or better.",
+          "examples": [
+            "we contented ourselves with a few small purchases"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "contents"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a state of satisfaction.",
+          "examples": [
+            "the greater part of the century was a time of content"
+          ]
+        },
+        {
+          "definition": "a member of the British House of Lords who votes for a particular motion."
+        }
+      ]
+    }
+  ]
+}

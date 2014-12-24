@@ -1,0 +1,75 @@
+[
+  {
+    "word": "reaction",
+    "syllables": [
+      "re",
+      "ac",
+      "tion"
+    ],
+    "pronunciation": "rēˈakSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "reactions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an action performed or a feeling experienced in response to a situation or event.",
+            "examples": [
+              "Carrie's immediate reaction was one of relief"
+            ],
+            "synonyms": [
+              "response",
+              "answer",
+              "reply",
+              "rejoinder",
+              "retort",
+              "riposte; informalcomeback \"his reaction had bewildered her\""
+            ]
+          },
+          {
+            "definition": "a person's ability to respond physically and mentally to external stimuli.",
+            "examples": [
+              "a skilled driver with quick reactions"
+            ]
+          },
+          {
+            "definition": "an adverse physiological response to a substance that has been breathed in, ingested, or touched.",
+            "examples": [
+              "such allergic reactions as hay fever and asthma"
+            ]
+          },
+          {
+            "definition": "a chemical process in which two or more substances act mutually on each other and are changed into different substances, or one substance changes into two or more other substances."
+          },
+          {
+            "definition": "an analogous transformation of atomic nuclei or other particles."
+          },
+          {
+            "definition": "a mode of thinking or behaving that is deliberately different from previous modes of thought and behavior.",
+            "examples": [
+              "the work of these painters was a reaction against fauvism"
+            ],
+            "synonyms": [
+              "backlash",
+              "counteraction \"a reaction against modernism\""
+            ]
+          },
+          {
+            "definition": "opposition to political or social progress or reform.",
+            "examples": [
+              "the institution is under threat from the forces of reaction"
+            ]
+          },
+          {
+            "definition": "repulsion or resistance exerted in opposition to the impact or pressure of another body; a force equal and opposite to the force giving rise to it."
+          }
+        ]
+      }
+    ]
+  }
+]

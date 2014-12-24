@@ -1,0 +1,136 @@
+{
+  "word": "early",
+  "syllables": [
+    "ear",
+    "ly"
+  ],
+  "pronunciation": "ˈərlē",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "comparative adjective",
+          "variant": "earlier"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "happening or done before the usual or expected time.",
+          "examples": [
+            "we ate an early lunch"
+          ],
+          "synonyms": [
+            "untimely",
+            "premature",
+            "unseasonable",
+            "before time More\"an early death\"prompt",
+            "timely",
+            "quick",
+            "speedy",
+            "rapid",
+            "fast \"an early official statement\""
+          ],
+          "antonyms": [
+            "overdue"
+          ]
+        },
+        {
+          "definition": "(of a plant or crop) flowering or ripening before other varieties.",
+          "examples": [
+            "early potatoes"
+          ]
+        },
+        {
+          "definition": "happening, belonging to, or done near the beginning of a particular time or period.",
+          "examples": [
+            "an early goal secured victory"
+          ],
+          "synonyms": [
+            "advance",
+            "forward; Moreinitial",
+            "preliminary",
+            "first; pilot",
+            "trial \"early copies of the book\""
+          ],
+          "antonyms": [
+            "late"
+          ]
+        },
+        {
+          "definition": "done or occurring near the beginning of the day.",
+          "examples": [
+            "we agreed to meet at 6 a.m. to get an early start"
+          ]
+        },
+        {
+          "definition": "denoting or belonging to the beginning or opening stages of a historical period, cultural movement, or sphere of activity.",
+          "examples": [
+            "early Impressionism"
+          ],
+          "synonyms": [
+            "primitive",
+            "ancient",
+            "prehistoric",
+            "primeval; literaryof yore \"early man\""
+          ],
+          "antonyms": [
+            "modern"
+          ]
+        },
+        {
+          "definition": "occurring at the beginning of a sequence.",
+          "examples": [
+            "the earlier chapters of the book"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "comparative adverb",
+          "variant": "earlier"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "before the usual or expected time.",
+          "examples": [
+            "I was planning to finish work early today"
+          ],
+          "synonyms": [
+            "in the early morning; Moreat dawn",
+            "at daybreak",
+            "at first light \"Rachel has to get up early\"before the usual time; prematurely",
+            "too soon",
+            "ahead of time",
+            "ahead of schedule; literarybetimes \"they hoped to leave school early\""
+          ],
+          "antonyms": [
+            "late"
+          ]
+        },
+        {
+          "definition": "near the beginning of a particular time or period.",
+          "examples": [
+            "we lost a couple of games early in the season"
+          ]
+        },
+        {
+          "definition": "near the beginning of the day.",
+          "examples": [
+            "I wrote this piece early one morning"
+          ]
+        },
+        {
+          "definition": "before the present time or before the time one is referring to.",
+          "examples": [
+            "adverb: earlier"
+          ]
+        }
+      ]
+    }
+  ]
+}

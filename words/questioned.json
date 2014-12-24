@@ -1,0 +1,61 @@
+[
+  {
+    "word": "question",
+    "syllables": [
+      "ques",
+      "tion"
+    ],
+    "pronunciation": "ˈkwesCH(ə)n",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "questioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "questioned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ask questions of (someone), especially in an official context.",
+            "examples": [
+              "four men were being questioned about the killings"
+            ],
+            "synonyms": [
+              "interrogate",
+              "cross-examine",
+              "cross-question",
+              "quiz",
+              "catechize; Moreinterview",
+              "debrief",
+              "examine",
+              "give the third degree to; informalgrill",
+              "pump \"the lieutenant questions the suspect\""
+            ]
+          },
+          {
+            "definition": "feel or express doubt about; raise objections to.",
+            "examples": [
+              "members had questioned the cost of the scheme"
+            ],
+            "synonyms": [
+              "query",
+              "call into question",
+              "challenge",
+              "dispute",
+              "cast aspersions on",
+              "doubt",
+              "suspect",
+              "have suspicions about",
+              "have reservations about \"she questioned his motives\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

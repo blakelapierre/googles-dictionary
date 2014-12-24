@@ -1,0 +1,84 @@
+[
+  {
+    "word": "customary",
+    "syllables": [
+      "cus",
+      "tom",
+      "ar",
+      "y"
+    ],
+    "pronunciation": "ˈkəstəˌmerē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "customary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "according to the customs or usual practices associated with a particular society, place, or set of circumstances.",
+            "examples": [
+              "it is customary to mark an occasion like this with a toast"
+            ],
+            "synonyms": [
+              "usual",
+              "traditional",
+              "normal",
+              "conventional",
+              "familiar",
+              "accepted",
+              "routine",
+              "established",
+              "well established",
+              "time-honored",
+              "regular",
+              "prevailing \"customary social practices\""
+            ],
+            "antonyms": [
+              "unusual"
+            ]
+          },
+          {
+            "definition": "according to a person's habitual practice.",
+            "examples": [
+              "I put the kettle on for our customary cup of tea"
+            ],
+            "synonyms": [
+              "usual",
+              "accustomed",
+              "habitual",
+              "wonted \"her customary good sense\""
+            ],
+            "antonyms": [
+              "unusual"
+            ]
+          },
+          {
+            "definition": "established by or based on custom rather than common law or statute."
+          }
+        ]
+      },
+      {
+        "part": "nounhistorical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "customary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "customaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "another term for custumal."
+          }
+        ]
+      }
+    ]
+  }
+]

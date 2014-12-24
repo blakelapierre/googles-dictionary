@@ -1,0 +1,45 @@
+[
+  {
+    "word": "nuclear",
+    "syllables": [
+      "nu",
+      "cle",
+      "ar"
+    ],
+    "pronunciation": "ˈn(y)o͞oklēər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "nuclear"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to the nucleus of an atom."
+          },
+          {
+            "definition": "denoting, relating to, or powered by the energy released in nuclear fission or fusion.",
+            "examples": [
+              "nuclear energy"
+            ]
+          },
+          {
+            "definition": "denoting, possessing, or involving weapons using nuclear energy.",
+            "examples": [
+              "a nuclear bomb"
+            ]
+          },
+          {
+            "definition": "of or relating to the nucleus of a cell.",
+            "examples": [
+              "nuclear DNA"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

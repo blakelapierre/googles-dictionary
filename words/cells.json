@@ -1,0 +1,76 @@
+[
+  {
+    "word": "cell",
+    "syllables": [
+      "cell"
+    ],
+    "pronunciation": "sel",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "cells"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small room in which a prisoner is locked up or in which a monk or nun sleeps.",
+            "examples": [
+              "room, cubicle, chamber; Moredungeon, oubliette, lockup \"a prison cell\"Moredungeon, oubliette, lockup a prison cell"
+            ]
+          },
+          {
+            "definition": "a small monastery or nunnery dependent on a larger one."
+          },
+          {
+            "definition": "the smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane. Microscopic organisms typically consist of a single cell, which is either eukaryotic or prokaryotic."
+          },
+          {
+            "definition": "an enclosed cavity in an organism.",
+            "examples": [
+              "compartment, cavity, hole, hollow, section each cell of the honeycomb"
+            ]
+          },
+          {
+            "definition": "a small compartment in a larger structure such as a honeycomb.",
+            "examples": [
+              "compartment, cavity, hole, hollow, section each cell of the honeycomb"
+            ]
+          },
+          {
+            "definition": "a small group forming a nucleus of political activity, typically a secret, subversive one.",
+            "examples": [
+              "the weapons may be used to arm terrorist cells"
+            ],
+            "synonyms": [
+              "unit",
+              "faction",
+              "arm",
+              "section",
+              "ring",
+              "coterie",
+              "group \"terrorist cells\""
+            ]
+          },
+          {
+            "definition": "the local area covered by one of the short-range transmitters in a cellular telephone system."
+          },
+          {
+            "definition": "a cellular phone.",
+            "examples": [
+              "I'll just call him on his cell"
+            ]
+          },
+          {
+            "definition": "a device containing electrodes immersed in an electrolyte, used for current-generation or electrolysis."
+          },
+          {
+            "definition": "a unit in a device for converting chemical or solar energy into electricity."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "word": "accomplishment",
+    "syllables": [
+      "ac",
+      "com",
+      "plish",
+      "ment"
+    ],
+    "pronunciation": "əˈkämpliSHmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "accomplishments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "something that has been achieved successfully.",
+            "examples": [
+              "the reduction of inflation was a remarkable accomplishment"
+            ],
+            "synonyms": [
+              "achievement",
+              "act",
+              "deed",
+              "exploit",
+              "performance",
+              "attainment",
+              "effort",
+              "feat",
+              "move",
+              "coup \"the reduction of inflation was a remarkable accomplishment\""
+            ]
+          },
+          {
+            "definition": "the successful achievement of a task.",
+            "examples": [
+              "the accomplishment of planned objectives"
+            ]
+          },
+          {
+            "definition": "an activity that a person can do well, typically as a result of study or practice.",
+            "examples": [
+              "long-distance running was another of her accomplishments"
+            ]
+          },
+          {
+            "definition": "skill or ability in an activity.",
+            "examples": [
+              "a poet of considerable accomplishment"
+            ],
+            "synonyms": [
+              "expertise",
+              "skill",
+              "skillfulness",
+              "talent",
+              "adeptness",
+              "adroitness",
+              "deftness",
+              "dexterity",
+              "ability",
+              "prowess",
+              "mastery",
+              "competence",
+              "capability",
+              "proficiency",
+              "aptitude",
+              "artistry",
+              "art; informalknow-how \"a poet of considerable accomplishment\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "excitement",
+    "syllables": [
+      "ex",
+      "cite",
+      "ment"
+    ],
+    "pronunciation": "ikˈsītmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "excitement"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of great enthusiasm and eagerness.",
+            "examples": [
+              "her cheeks were flushed with excitement"
+            ],
+            "synonyms": [
+              "exhilaration",
+              "elation",
+              "animation",
+              "enthusiasm",
+              "eagerness",
+              "anticipation",
+              "feverishness; Moreinformalpep",
+              "vim",
+              "zing \"excitement in her eyes\""
+            ]
+          },
+          {
+            "definition": "something that arouses enthusiasm and eagerness; an exciting incident.",
+            "examples": [
+              "plural noun: excitements"
+            ]
+          },
+          {
+            "definition": "sexual arousal.",
+            "examples": [
+              "arousal, sexual arousal, passion, stimulation, titillation their excitement was mutual"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

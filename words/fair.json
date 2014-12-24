@@ -1,0 +1,318 @@
+[
+  {
+    "word": "fair",
+    "syllables": [
+      "fair"
+    ],
+    "pronunciation": "fer",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "fair"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "fairer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "fairest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in accordance with the rules or standards; legitimate.",
+            "examples": [
+              "the group has achieved fair and equal representation for all its members"
+            ],
+            "synonyms": [
+              "just",
+              "equitable",
+              "honest",
+              "upright",
+              "honorable",
+              "trustworthy; Moreimpartial",
+              "unbiased",
+              "unprejudiced",
+              "nonpartisan",
+              "neutral",
+              "even-handed; lawful",
+              "legal",
+              "legitimate; informallegit",
+              "on the level; on the up and up \"the courts were generally fair\""
+            ],
+            "antonyms": [
+              "unjust",
+              "biased"
+            ]
+          },
+          {
+            "definition": "just or appropriate in the circumstances.",
+            "examples": [
+              "to be fair, this subject poses special problems"
+            ]
+          },
+          {
+            "definition": "(of a means or procedure) gentle; not violent."
+          },
+          {
+            "definition": "(of a batted ball) within the field of play marked by the first and third baselines."
+          },
+          {
+            "definition": "pertaining to the fair part of the field.",
+            "examples": [
+              "the ball was hit into fair territory"
+            ]
+          },
+          {
+            "definition": "(of hair or complexion) light; blond.",
+            "examples": [
+              "blond/blonde, yellowish, golden, flaxen, light, light brown, ash blond More\"fair hair\"pale, light, light-colored, white, creamy \"Hermione's fair skin\"Morefair hairpale, light, light-colored, white, creamy Hermione's fair skin"
+            ],
+            "antonyms": [
+              "dark"
+            ]
+          },
+          {
+            "definition": "(of a person) having a light complexion or blond hair."
+          },
+          {
+            "definition": "considerable though not outstanding in size or amount.",
+            "examples": [
+              "he did a fair bit of coaching"
+            ],
+            "synonyms": [
+              "reasonable",
+              "passable",
+              "tolerable",
+              "satisfactory",
+              "acceptable",
+              "respectable",
+              "decent",
+              "all right",
+              "good enough",
+              "pretty good",
+              "not bad",
+              "average",
+              "middling; MoreinformalOK",
+              "so-so",
+              "‘comme ci",
+              "comme ça’ \"the restaurant was fair\""
+            ]
+          },
+          {
+            "definition": "moderately good though not outstandingly so.",
+            "examples": [
+              "he believes he has a fair chance of success"
+            ]
+          },
+          {
+            "definition": "(of weather) fine and dry.",
+            "examples": [
+              "fine, dry, bright, clear, sunny, cloudless; Morewarm, balmy, clement, benign, pleasant \"fair weather\"Morewarm, balmy, clement, benign, pleasant fair weather"
+            ],
+            "antonyms": [
+              "inclement"
+            ]
+          },
+          {
+            "definition": "(of the wind) favorable.",
+            "examples": [
+              "they set sail with a fair wind"
+            ],
+            "synonyms": [
+              "favorable",
+              "advantageous",
+              "benign; Moreon one's side",
+              "in one's favor \"fair winds\""
+            ],
+            "antonyms": [
+              "unfavorable"
+            ]
+          },
+          {
+            "definition": "beautiful: attractive.",
+            "examples": [
+              "the fairest of her daughters"
+            ]
+          },
+          {
+            "definition": "(of words, a speech, or a promise) false, despite being initially attractive or pleasing; specious."
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "fair"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "without cheating or trying to achieve unjust advantage.",
+            "examples": [
+              "no one could say he played fair"
+            ]
+          },
+          {
+            "definition": "to a high degree.",
+            "examples": [
+              "she'll be fair delighted to see you"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fair"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fairs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a beautiful woman."
+          }
+        ]
+      },
+      {
+        "part": "verbdialect",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fair"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fairs"
+          },
+          {
+            "part": "past tense",
+            "variant": "faired"
+          },
+          {
+            "part": "past participle",
+            "variant": "faired"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fairing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of the weather) become fine.",
+            "examples": [
+              "looks like it's fairing off some"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fair",
+    "syllables": [
+      "fair"
+    ],
+    "pronunciation": "fer",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fair"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fairs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gathering of stalls and amusements for public entertainment.",
+            "examples": [
+              "carnival, festival, exhibition; midway a country fair"
+            ]
+          },
+          {
+            "definition": "a competitive exhibition of livestock, agricultural products, and household skills held annually by a town, county, or state and also featuring entertainment and educational displays.",
+            "examples": [
+              "noun: agricultural fair; plural noun: agricultural fairs"
+            ]
+          },
+          {
+            "definition": "a periodic gathering for the sale of goods.",
+            "examples": [
+              "market, bazaar, flea market, exchange, sale; emporium an antiques fair"
+            ]
+          },
+          {
+            "definition": "an exhibition to promote particular products.",
+            "examples": [
+              "the Contemporary Art Fair"
+            ],
+            "synonyms": [
+              "exhibition",
+              "exhibit",
+              "display",
+              "show",
+              "presentation",
+              "exposition \"a new art fair\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fair",
+    "syllables": [
+      "fair"
+    ],
+    "pronunciation": "fer",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fair"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fairs"
+          },
+          {
+            "part": "past tense",
+            "variant": "faired"
+          },
+          {
+            "part": "past participle",
+            "variant": "faired"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fairing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "streamline (a vehicle, boat, or aircraft) by adding fairings."
+          }
+        ]
+      }
+    ]
+  }
+]

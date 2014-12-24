@@ -1,0 +1,134 @@
+[
+  {
+    "word": "local",
+    "syllables": [
+      "lo",
+      "cal"
+    ],
+    "pronunciation": "ˈlōk(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "local"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "belonging or relating to a particular area or neighborhood, typically exclusively so.",
+            "examples": [
+              "researching local history"
+            ],
+            "synonyms": [
+              "community",
+              "district",
+              "neighborhood",
+              "regional",
+              "city",
+              "town",
+              "municipal",
+              "county More\"local government\"neighborhood",
+              "nearby",
+              "near",
+              "at hand",
+              "close by; accessible",
+              "handy",
+              "convenient \"a local restaurant\""
+            ],
+            "antonyms": [
+              "national",
+              "global"
+            ]
+          },
+          {
+            "definition": "denoting a telephone call made to a nearby place and charged at a relatively low rate."
+          },
+          {
+            "definition": "denoting a train or bus serving a particular district, with frequent stops.",
+            "examples": [
+              "the town has an excellent local bus service"
+            ]
+          },
+          {
+            "definition": "(in technical use) relating to a particular region or part, or to each of any number of these.",
+            "examples": [
+              "a local infection"
+            ],
+            "synonyms": [
+              "confined",
+              "restricted",
+              "contained",
+              "localized \"a local infection\""
+            ],
+            "antonyms": [
+              "general",
+              "widespread"
+            ]
+          },
+          {
+            "definition": "denoting a variable or other entity that is only available for use in one part of a program."
+          },
+          {
+            "definition": "denoting a device that can be accessed without the use of a network."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "local"
+          },
+          {
+            "part": "plural noun",
+            "variant": "locals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a local person or thing, in particular."
+          },
+          {
+            "definition": "an inhabitant of a particular area or neighborhood.",
+            "examples": [
+              "the street was full of locals and tourists"
+            ],
+            "synonyms": [
+              "local person",
+              "native",
+              "inhabitant",
+              "resident \"complaints from the locals\""
+            ],
+            "antonyms": [
+              "outsider"
+            ]
+          },
+          {
+            "definition": "a pub convenient to a person's home.",
+            "examples": [
+              "a pint in the local"
+            ]
+          },
+          {
+            "definition": "a local train or bus service.",
+            "examples": [
+              "catch the local into New Delhi"
+            ]
+          },
+          {
+            "definition": "a local branch of an organization, especially a labor union."
+          },
+          {
+            "definition": "short for local anesthesia."
+          },
+          {
+            "definition": "a floor trader who trades on their own account, rather than on behalf of other investors."
+          }
+        ]
+      }
+    ]
+  }
+]

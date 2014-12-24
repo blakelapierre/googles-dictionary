@@ -1,0 +1,27 @@
+[
+  {
+    "word": "vitamin",
+    "syllables": [
+      "vi",
+      "ta",
+      "min"
+    ],
+    "pronunciation": "ˈvīdəmən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "vitamins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of a group of organic compounds that are essential for normal growth and nutrition and are required in small quantities in the diet because they cannot be synthesized by the body."
+          }
+        ]
+      }
+    ]
+  }
+]

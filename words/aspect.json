@@ -1,0 +1,124 @@
+[
+  {
+    "word": "aspect",
+    "syllables": [
+      "as",
+      "pect"
+    ],
+    "pronunciation": "ˈaspekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "aspect"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aspects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a particular part or feature of something.",
+            "examples": [
+              "the financial aspect can be overstressed"
+            ],
+            "synonyms": [
+              "feature",
+              "facet",
+              "side",
+              "characteristic",
+              "particular",
+              "detail; Moreangle",
+              "slant \"the photos depict every aspect of life\""
+            ]
+          },
+          {
+            "definition": "a specific way in which something can be considered.",
+            "examples": [
+              "from every aspect, theirs was a changing world"
+            ]
+          },
+          {
+            "definition": "a particular appearance or quality.",
+            "examples": [
+              "the air of desertion lent the place a sinister aspect"
+            ],
+            "synonyms": [
+              "appearance",
+              "look",
+              "air",
+              "cast",
+              "mien",
+              "demeanor",
+              "expression; Moreatmosphere",
+              "mood",
+              "quality",
+              "ambience",
+              "feeling \"his face had a sinister aspect\""
+            ]
+          },
+          {
+            "definition": "the positioning of a building or thing in a specified direction.",
+            "examples": [
+              "a greenhouse with a southern aspect"
+            ]
+          },
+          {
+            "definition": "the side of a building facing a particular direction.",
+            "examples": [
+              "the front aspect of the hotel was unremarkable"
+            ]
+          },
+          {
+            "definition": "a particular position of a planet or other celestial body relative to another, as measured by angular distance.",
+            "examples": [
+              "the sun in Aries formed an adverse aspect with Uranus in Capricorn"
+            ]
+          },
+          {
+            "definition": "a grammatical category or form that expresses the way in which time is denoted by the verb.",
+            "examples": [
+              "the semantics of tense and aspect"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbAstrology",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "aspect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "aspects"
+          },
+          {
+            "part": "past tense",
+            "variant": "aspected"
+          },
+          {
+            "part": "past participle",
+            "variant": "aspected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "aspecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a planet) form an aspect with (another celestial body).",
+            "examples": [
+              "the sun is superbly aspected by your ruler Mars on the 19th"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "skillful",
+    "syllables": [
+      "skill",
+      "ful"
+    ],
+    "pronunciation": "ˈskilfəl",
+    "parts": [
+      {
+        "part": "adjectiveNorth American",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "skilful"
+          },
+          {
+            "part": "adjective",
+            "variant": "skillful"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing skill.",
+            "examples": [
+              "a skillful infielder"
+            ],
+            "synonyms": [
+              "expert",
+              "accomplished",
+              "skilled",
+              "masterly",
+              "master",
+              "virtuoso",
+              "consummate",
+              "proficient",
+              "talented",
+              "gifted",
+              "adept",
+              "adroit",
+              "deft",
+              "dexterous",
+              "able",
+              "good",
+              "competent",
+              "capable",
+              "brilliant",
+              "handy; Moreinformalmean",
+              "wicked",
+              "crack",
+              "ace",
+              "wizard",
+              "crackerjack",
+              "pro \"the work of a skillful shoemaker\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

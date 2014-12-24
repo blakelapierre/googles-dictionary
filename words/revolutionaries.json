@@ -1,0 +1,33 @@
+[
+  {
+    "word": "revolutionary",
+    "syllables": [
+      "rev",
+      "o",
+      "lu",
+      "tion",
+      "ar",
+      "y"
+    ],
+    "pronunciation": "ˌrevəˈlo͞oSHəˌnerē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "revolutionaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who works for or engages in political revolution.",
+            "examples": [
+              "rebel, insurgent, revolutionist, mutineer, insurrectionist, agitator, subversive political revolutionaries"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

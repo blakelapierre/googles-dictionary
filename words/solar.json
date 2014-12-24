@@ -1,0 +1,63 @@
+[
+  {
+    "word": "solar",
+    "syllables": [
+      "so",
+      "lar"
+    ],
+    "pronunciation": "ˈsōlər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "solar"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or determined by the sun.",
+            "examples": [
+              "solar radiation"
+            ]
+          },
+          {
+            "definition": "relating to or denoting energy derived from the sun's rays.",
+            "examples": [
+              "solar heating"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "solar",
+    "syllables": [
+      "so",
+      "lar"
+    ],
+    "pronunciation": "ˈsōlər",
+    "parts": [
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "solar"
+          },
+          {
+            "part": "plural noun",
+            "variant": "solars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an upper chamber in a medieval house."
+          }
+        ]
+      }
+    ]
+  }
+]

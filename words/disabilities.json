@@ -1,0 +1,38 @@
+[
+  {
+    "word": "disability",
+    "syllables": [
+      "dis",
+      "a",
+      "bil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌdisəˈbilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "disabilities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a physical or mental condition that limits a person's movements, senses, or activities.",
+            "examples": [
+              "handicap, disablement, incapacity, impairment, infirmity, defect, abnormality; Morecondition, disorder, affliction \"my disability makes getting into bed a slow process\"Morecondition, disorder, affliction my disability makes getting into bed a slow process"
+            ]
+          },
+          {
+            "definition": "a disadvantage or handicap, especially one imposed or recognized by the law.",
+            "examples": [
+              "he had to quit his job and go on disability"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

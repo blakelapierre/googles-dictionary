@@ -1,0 +1,100 @@
+[
+  {
+    "word": "defend",
+    "syllables": [
+      "de",
+      "fend"
+    ],
+    "pronunciation": "dəˈfend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "defend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "defends"
+          },
+          {
+            "part": "past tense",
+            "variant": "defended"
+          },
+          {
+            "part": "past participle",
+            "variant": "defended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "defending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "resist an attack made on (someone or something); protect from harm or danger.",
+            "examples": [
+              "we shall defend our country, whatever the cost"
+            ],
+            "synonyms": [
+              "protect",
+              "guard",
+              "safeguard",
+              "secure",
+              "shield; Morefortify",
+              "garrison",
+              "barricade; uphold",
+              "support",
+              "watch over \"a fort built to defend the border\""
+            ],
+            "antonyms": [
+              "attack"
+            ]
+          },
+          {
+            "definition": "speak or write in favor of (an action or person); attempt to justify.",
+            "examples": [
+              "he defended his policy of imposing high taxes"
+            ],
+            "synonyms": [
+              "justify",
+              "vindicate",
+              "argue for",
+              "support",
+              "make a case for",
+              "plead for; Moreexcuse",
+              "explain \"he defended his policy\"support",
+              "back",
+              "stand by",
+              "stick up for",
+              "stand up for",
+              "argue for",
+              "champion",
+              "endorse; informalthrow one's weight behind \"the manager defended his players\""
+            ],
+            "antonyms": [
+              "attack",
+              "criticize"
+            ]
+          },
+          {
+            "definition": "conduct the case for (the party being accused or sued) in a lawsuit.",
+            "examples": [
+              "the lawyer had defended the dissidents"
+            ]
+          },
+          {
+            "definition": "compete to retain (a title or seat) in a contest or election.",
+            "examples": [
+              "he successfully defended his congressional seat in new elections"
+            ]
+          },
+          {
+            "definition": "(in sports) protect one's goal rather than attempt to score against one's opponents."
+          }
+        ]
+      }
+    ]
+  }
+]

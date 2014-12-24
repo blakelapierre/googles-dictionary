@@ -1,0 +1,148 @@
+[
+  {
+    "word": "curse",
+    "syllables": [
+      "curse"
+    ],
+    "pronunciation": "kərs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "curse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "curses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a solemn utterance intended to invoke a supernatural power to inflict harm or punishment on someone or something.",
+            "examples": [
+              "she'd put a curse on him"
+            ],
+            "synonyms": [
+              "malediction",
+              "hex",
+              "jinx; Moreformalimprecation; literaryanathema; the evil eye \"she put a curse on him\""
+            ]
+          },
+          {
+            "definition": "a cause of harm or misery.",
+            "examples": [
+              "impatience is the curse of our day and age"
+            ],
+            "synonyms": [
+              "evil",
+              "blight",
+              "scourge",
+              "plague",
+              "cancer",
+              "canker",
+              "poison More\"the curse of racism\"affliction",
+              "burden",
+              "cross to bear",
+              "bane \"the curse of unemployment\""
+            ]
+          },
+          {
+            "definition": "menstruation.",
+            "examples": [
+              "noun: the curse"
+            ]
+          },
+          {
+            "definition": "an offensive word or phrase used to express anger or annoyance.",
+            "examples": [
+              "his mouth was spitting vile oaths and curses"
+            ],
+            "synonyms": [
+              "obscenity",
+              "swear word",
+              "expletive",
+              "oath",
+              "profanity",
+              "four-letter word",
+              "dirty word",
+              "blasphemy; Moreinformalcuss",
+              "cuss word; formalimprecation \"muffled curses\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "curse"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "curses"
+          },
+          {
+            "part": "past tense",
+            "variant": "cursed"
+          },
+          {
+            "part": "past participle",
+            "variant": "cursed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cursing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "invoke or use a curse against.",
+            "examples": [
+              "it often seemed as if the family had been cursed"
+            ],
+            "synonyms": [
+              "put a curse on",
+              "put the evil eye on",
+              "anathematize",
+              "damn",
+              "hex",
+              "jinx; archaicimprecate \"it seemed as if the family had been cursed\""
+            ]
+          },
+          {
+            "definition": "be afflicted with.",
+            "examples": [
+              "many owners have been cursed with a series of bankruptcies"
+            ],
+            "synonyms": [
+              "afflict",
+              "trouble",
+              "plague",
+              "bedevil \"she was cursed with feelings of inadequacy\""
+            ]
+          },
+          {
+            "definition": "utter offensive words in anger or annoyance.",
+            "examples": [
+              "drivers were cursing and sounding their horns"
+            ],
+            "synonyms": [
+              "swear",
+              "blaspheme",
+              "take the Lord's name in vain; Moreinformalcuss; archaicexecrate \"drivers cursed and honked their horns\""
+            ]
+          },
+          {
+            "definition": "address with offensive words.",
+            "examples": [
+              "I cursed myself for my carelessness"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

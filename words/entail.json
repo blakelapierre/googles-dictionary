@@ -1,0 +1,52 @@
+[
+  {
+    "word": "entail",
+    "syllables": [
+      "en",
+      "tail"
+    ],
+    "pronunciation": "inˈtālenˈtālˈenˌtāl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "entail"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "entails"
+          },
+          {
+            "part": "past tense",
+            "variant": "entailed"
+          },
+          {
+            "part": "past participle",
+            "variant": "entailed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "entailing"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "nounLaw",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "entail"
+          },
+          {
+            "part": "plural noun",
+            "variant": "entails"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

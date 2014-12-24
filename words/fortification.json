@@ -1,0 +1,55 @@
+[
+  {
+    "word": "fortification",
+    "syllables": [
+      "for",
+      "ti",
+      "fi",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "ˌfôrdəfəˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fortification"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fortifications"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a defensive wall or other reinforcement built to strengthen a place against attack.",
+            "examples": [
+              "rampart, wall, defense, bulwark, palisade, stockade, redoubt, earthwork, bastion, parapet, barricade fortifications loomed ominously along the high banks of the river"
+            ]
+          },
+          {
+            "definition": "the action of fortifying or process of being fortified.",
+            "examples": [
+              "the fortification of the frontiers"
+            ],
+            "synonyms": [
+              "rampart",
+              "wall",
+              "defense",
+              "bulwark",
+              "palisade",
+              "stockade",
+              "redoubt",
+              "earthwork",
+              "bastion",
+              "parapet",
+              "barricade \"fortifications loomed ominously along the high banks of the river\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

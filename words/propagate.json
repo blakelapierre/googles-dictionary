@@ -1,0 +1,91 @@
+[
+  {
+    "word": "propagate",
+    "syllables": [
+      "prop",
+      "a",
+      "gate"
+    ],
+    "pronunciation": "ˈpräpəˌɡāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "propagate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "propagates"
+          },
+          {
+            "part": "past tense",
+            "variant": "propagated"
+          },
+          {
+            "part": "past participle",
+            "variant": "propagated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "propagating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "breed specimens of (a plant, animal, etc.) by natural processes from the parent stock.",
+            "examples": [
+              "try propagating your own houseplants from cuttings"
+            ],
+            "synonyms": [
+              "breed",
+              "grow",
+              "cultivate \"an easy plant to propagate\""
+            ]
+          },
+          {
+            "definition": "(of a plant, animal, etc.) reproduce by natural processes.",
+            "examples": [
+              "the plant propagates freely from stem cuttings"
+            ],
+            "synonyms": [
+              "reproduce",
+              "multiply",
+              "proliferate",
+              "increase",
+              "spread",
+              "self-seed",
+              "self-sow \"these shrubs propagate easily\""
+            ]
+          },
+          {
+            "definition": "spread and promote (an idea, theory, etc.) widely.",
+            "examples": [
+              "the French propagated the idea that the English were violent and gluttonous drunkards"
+            ],
+            "synonyms": [
+              "spread",
+              "disseminate",
+              "communicate",
+              "make known",
+              "promulgate",
+              "circulate",
+              "broadcast",
+              "publicize",
+              "proclaim",
+              "preach",
+              "promote; literarybruit abroad \"a group that propagated extremist ideas\""
+            ]
+          },
+          {
+            "definition": "(with reference to motion, light, sound, etc.) transmit or be transmitted in a particular direction or through a medium.",
+            "examples": [
+              "electromagnetic effects can be propagated at a finite velocity only through material substances"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

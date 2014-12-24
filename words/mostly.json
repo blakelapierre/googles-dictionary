@@ -1,0 +1,61 @@
+[
+  {
+    "word": "mostly",
+    "syllables": [
+      "most",
+      "ly"
+    ],
+    "pronunciation": "ˈmōs(t)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "mostly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "as regards the greater part or number.",
+            "examples": [
+              "I grow mostly annuals"
+            ],
+            "synonyms": [
+              "mainly",
+              "for the most part",
+              "on the whole",
+              "in the main",
+              "largely",
+              "chiefly",
+              "predominantly",
+              "principally",
+              "primarily \"the other passengers were mostly businessmen\""
+            ]
+          },
+          {
+            "definition": "usually; generally.",
+            "examples": [
+              "the weekends were spent mostly alone"
+            ],
+            "synonyms": [
+              "usually",
+              "generally",
+              "in general",
+              "for the most part",
+              "as a rule",
+              "ordinarily",
+              "normally",
+              "customarily",
+              "typically",
+              "most of the time",
+              "almost always",
+              "on average",
+              "on balance \"I mostly wear jeans\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

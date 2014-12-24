@@ -1,0 +1,116 @@
+[
+  {
+    "word": "glaze",
+    "syllables": [
+      "glaze"
+    ],
+    "pronunciation": "ɡlāz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "glaze"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "glazes"
+          },
+          {
+            "part": "past tense",
+            "variant": "glazed"
+          },
+          {
+            "part": "past participle",
+            "variant": "glazed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "glazing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fit panes of glass into (a window or doorframe or similar structure).",
+            "examples": [
+              "windows can be glazed using laminated glass"
+            ]
+          },
+          {
+            "definition": "enclose or cover with glass.",
+            "examples": [
+              "the verandas were glazed in"
+            ]
+          },
+          {
+            "definition": "overlay or cover (food, fabric, etc.) with a smooth, shiny coating or finish.",
+            "examples": [
+              "new potatoes that had been glazed in mint-flavored butter"
+            ],
+            "synonyms": [
+              "varnish",
+              "enamel",
+              "lacquer",
+              "japan",
+              "shellac",
+              "paint; Moregloss \"the pots are glazed when dry\"cover",
+              "coat; ice",
+              "frost \"pastry glazed with caramel\""
+            ]
+          },
+          {
+            "definition": "lose brightness and animation.",
+            "examples": [
+              "the prospect makes my eyes glaze over with boredom"
+            ],
+            "synonyms": [
+              "become glassy",
+              "go blank; Moremist over",
+              "film over \"his eyes glazed over\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "glaze"
+          },
+          {
+            "part": "plural noun",
+            "variant": "glazes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vitreous substance fused on to the surface of pottery to form a hard, impervious decorative coating.",
+            "examples": [
+              "varnish, enamel, lacquer, finish, coating; Moreluster, shine, gloss \"pottery with a blue glaze\"Moreluster, shine, gloss pottery with a blue glaze"
+            ]
+          },
+          {
+            "definition": "a smooth, shiny surface formed by glazing.",
+            "examples": [
+              "the glaze of the white cups"
+            ]
+          },
+          {
+            "definition": "a thin topcoat of transparent paint used to modify the tone of an underlying color."
+          },
+          {
+            "definition": "a liquid such as milk or beaten egg, used to form a smooth shiny coating on food.",
+            "examples": [
+              "coating, topping; Moreicing, frosting \"a cake with an apricot glaze\"Moreicing, frosting a cake with an apricot glaze"
+            ]
+          },
+          {
+            "definition": "a thin, glassy coating of ice on the ground or the surface of water."
+          }
+        ]
+      }
+    ]
+  }
+]

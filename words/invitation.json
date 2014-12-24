@@ -1,0 +1,62 @@
+{
+  "word": "invitation",
+  "syllables": [
+    "in",
+    "vi",
+    "ta",
+    "tion"
+  ],
+  "pronunciation": "ˌinvəˈtāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "invitation"
+        },
+        {
+          "part": "plural noun",
+          "variant": "invitations"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a written or verbal request inviting someone to go somewhere or to do something.",
+          "examples": [
+            "a wedding invitation"
+          ],
+          "synonyms": [
+            "request to attend",
+            "call",
+            "summons; Moreoffer; card",
+            "note; informalinvite \"an invitation to dinner\""
+          ]
+        },
+        {
+          "definition": "the action of inviting someone to go somewhere or to do something.",
+          "examples": [
+            "a club with membership by invitation only"
+          ]
+        },
+        {
+          "definition": "a situation or action that tempts someone to do something or makes a particular outcome likely.",
+          "examples": [
+            "tactics like those of the colonel would have been an invitation to disaster"
+          ],
+          "synonyms": [
+            "encouragement",
+            "provocation",
+            "temptation",
+            "lure",
+            "magnet",
+            "bait",
+            "enticement",
+            "attraction",
+            "allure; informalcome-on \"an open door is an invitation to a thief\""
+          ]
+        }
+      ]
+    }
+  ]
+}

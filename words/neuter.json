@@ -1,0 +1,123 @@
+[
+  {
+    "word": "neuter",
+    "syllables": [
+      "neu",
+      "ter"
+    ],
+    "pronunciation": "ˈn(y)o͞odər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "neuter"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or denoting a gender of nouns in some languages, typically contrasting with masculine and feminine or common.",
+            "examples": [
+              "it is a neuter word in Greek"
+            ]
+          },
+          {
+            "definition": "(of an animal) lacking developed sexual organs, or having had them removed."
+          },
+          {
+            "definition": "(of a plant or flower) having neither functional pistils nor functional stamens."
+          },
+          {
+            "definition": "(of a person) apparently having no sexual characteristics; asexual.",
+            "examples": [
+              "asexual, sexless, unsexed; Moreandrogynous, epicene \"the traumatic abuses of his childhood left him feeling more neuter than masculine\"Moreandrogynous, epicene the traumatic abuses of his childhood left him feeling more neuter than masculine"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "neuter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "neuters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a neuter word."
+          },
+          {
+            "definition": "the neuter gender.",
+            "examples": [
+              "noun: the neuter"
+            ]
+          },
+          {
+            "definition": "a nonfertile caste of social insect, especially a worker bee or ant."
+          },
+          {
+            "definition": "a castrated or spayed domestic animal."
+          },
+          {
+            "definition": "a person who appears to lack sexual characteristics."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "neuter"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "neuters"
+          },
+          {
+            "part": "past tense",
+            "variant": "neutered"
+          },
+          {
+            "part": "past participle",
+            "variant": "neutered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "neutering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "castrate or spay (a domestic animal).",
+            "examples": [
+              "a neutered tomcat"
+            ],
+            "synonyms": [
+              "sterilize",
+              "castrate",
+              "spay",
+              "geld",
+              "fix",
+              "desex",
+              "alter",
+              "doctor; archaicemasculate \"have your pets neutered\""
+            ]
+          },
+          {
+            "definition": "render ineffective; deprive of vigor or force.",
+            "examples": [
+              "disarmament negotiations that will neuter their military power"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

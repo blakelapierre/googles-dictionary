@@ -1,0 +1,92 @@
+{
+  "word": "decide",
+  "syllables": [
+    "de",
+    "cide"
+  ],
+  "pronunciation": "dəˈsīd",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "decided"
+        },
+        {
+          "part": "past participle",
+          "variant": "decided"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "come to a resolution in the mind as a result of consideration.",
+          "examples": [
+            "they decided to appoint someone else"
+          ]
+        },
+        {
+          "definition": "cause to come to a resolution.",
+          "examples": [
+            "this business about the letter decided me"
+          ]
+        },
+        {
+          "definition": "make a choice from a number of alternatives.",
+          "examples": [
+            "she had decided on her plan of action"
+          ],
+          "synonyms": [
+            "resolve",
+            "determine",
+            "make up one's mind",
+            "make a decision; Moreelect",
+            "choose",
+            "opt",
+            "plan",
+            "aim",
+            "have the intention",
+            "have in mind \"she decided to become a writer\""
+          ]
+        },
+        {
+          "definition": "give a judgment concerning a matter or legal case.",
+          "examples": [
+            "the courts decided in favor of the New York claimants"
+          ]
+        },
+        {
+          "definition": "come to a decision about (something).",
+          "examples": [
+            "we must decide the fates of the people who headed the coup"
+          ],
+          "synonyms": [
+            "adjudicate",
+            "arbitrate",
+            "adjudge",
+            "judge; Morehear",
+            "try",
+            "examine; sit in judgment on",
+            "pronounce on",
+            "give a verdict on",
+            "rule on \"the court is to decide the case\""
+          ]
+        },
+        {
+          "definition": "resolve or settle (a question or contest).",
+          "examples": [
+            "an exciting game was decided in a sudden-death overtime"
+          ],
+          "synonyms": [
+            "settle",
+            "resolve",
+            "determine",
+            "work out",
+            "answer; Moreinformalsort out",
+            "figure out \"research to decide a variety of questions\""
+          ]
+        }
+      ]
+    }
+  ]
+}

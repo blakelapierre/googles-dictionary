@@ -1,0 +1,124 @@
+[
+  {
+    "word": "tape",
+    "syllables": [
+      "tape"
+    ],
+    "pronunciation": "tāp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tape"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tapes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a narrow strip of material, typically used to hold or fasten something.",
+            "examples": [
+              "a roll of tape"
+            ],
+            "synonyms": [
+              "binding",
+              "ribbon",
+              "string",
+              "braid \"a package tied with tape\""
+            ]
+          },
+          {
+            "definition": "long narrow flexible material with magnetic properties, used for recording sound, pictures, or computer data."
+          },
+          {
+            "definition": "a cassette or reel containing recorded material.",
+            "examples": [
+              "audiocassette/videocassette, (a) reel, (a) spool; Morevideo, VHS \"they recorded the interview on tape\"Morevideo, VHS they recorded the interview on tape"
+            ]
+          },
+          {
+            "definition": "a recording on a cassette or reel."
+          },
+          {
+            "definition": "a strip of paper or plastic coated with adhesive, used to stick things together.",
+            "examples": [
+              "noun: adhesive tape; plural noun: adhesive tapes"
+            ],
+            "synonyms": [
+              "adhesive tape",
+              "sticky tape",
+              "masking tape",
+              "duct tape; trademarkScotch Tape \"secure the bandage with tape\""
+            ]
+          },
+          {
+            "definition": "a strip of material stretched across the finish line of a race, to be broken by the winner."
+          },
+          {
+            "definition": "a strip of white material at the top of a tennis net."
+          },
+          {
+            "definition": "a strip of material used to mark off an area."
+          },
+          {
+            "definition": "a tape measure."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tape"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tapes"
+          },
+          {
+            "part": "past tense",
+            "variant": "taped"
+          },
+          {
+            "part": "past participle",
+            "variant": "taped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "taping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "record (sound or pictures) on audio or videotape.",
+            "examples": [
+              "it is not known who taped the conversation"
+            ],
+            "synonyms": [
+              "record",
+              "tape-record",
+              "capture on tape; video \"police taped his confession\""
+            ]
+          },
+          {
+            "definition": "fasten or attach (something) with adhesive tape.",
+            "examples": [
+              "bind, stick, fix, fasten, secure, attach; Moretie, strap \"a card was taped to the box\"Moretie, strap a card was taped to the box"
+            ]
+          },
+          {
+            "definition": "seal or mark off an area or thing with tape.",
+            "examples": [
+              "cordon (off), seal (off), close (off), shut (off), mark (off), fence (off); Moreisolate, segregate \"they taped off the area\"Moreisolate, segregate they taped off the area"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

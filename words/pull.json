@@ -1,0 +1,274 @@
+[
+  {
+    "word": "pull",
+    "syllables": [
+      "pull"
+    ],
+    "pronunciation": "po͝ol",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pull"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pulls"
+          },
+          {
+            "part": "past tense",
+            "variant": "pulled"
+          },
+          {
+            "part": "past participle",
+            "variant": "pulled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pulling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exert force on (someone or something), typically by taking hold of them, in order to move or try to move them toward oneself or the origin of the force.",
+            "examples": [
+              "he pulled them down onto the couch"
+            ],
+            "synonyms": [
+              "tug",
+              "haul",
+              "drag",
+              "draw",
+              "tow",
+              "heave",
+              "lug",
+              "jerk",
+              "wrench; informalyank \"he pulled the box toward him\""
+            ],
+            "antonyms": [
+              "push"
+            ]
+          },
+          {
+            "definition": "(of an animal or vehicle) be attached to the front and be the source of forward movement of (a vehicle).",
+            "examples": [
+              "the carriage was pulled by four horses"
+            ]
+          },
+          {
+            "definition": "take hold of and exert force on (something) so as to move it from a specified position or in a specified direction.",
+            "examples": [
+              "she pulled a handkerchief out of her pocket"
+            ],
+            "synonyms": [
+              "extract",
+              "take out",
+              "remove \"he pulled the bad tooth out\""
+            ]
+          },
+          {
+            "definition": "bring out (a weapon) to attack or threaten someone.",
+            "examples": [
+              "it's not every day a young woman pulls a gun on a burglar"
+            ]
+          },
+          {
+            "definition": "inhale deeply while smoking (a pipe or cigar)."
+          },
+          {
+            "definition": "damage (a muscle, ligament, etc.) by abnormal strain.",
+            "examples": [
+              "strain, sprain, wrench, turn, tear; damage she pulled a muscle"
+            ]
+          },
+          {
+            "definition": "print (a proof)."
+          },
+          {
+            "definition": "retrieve (an item of data) from the top of a stack."
+          },
+          {
+            "definition": "(of a vehicle or person) move steadily in a specified direction or to reach a specified point.",
+            "examples": [
+              "the bus was about to pull away"
+            ]
+          },
+          {
+            "definition": "move in a specified direction with effort, especially by taking hold of something and exerting force.",
+            "examples": [
+              "he pulled himself into the saddle"
+            ]
+          },
+          {
+            "definition": "move one's body in a specified direction, especially against resistance.",
+            "examples": [
+              "she tried to pull away from him"
+            ]
+          },
+          {
+            "definition": "(of an engine) exert propulsive force; deliver power.",
+            "examples": [
+              "the engine warmed up quickly and pulled well"
+            ]
+          },
+          {
+            "definition": "work oars to cause a boat to move.",
+            "examples": [
+              "he pulled at the oars, and the boat moved swiftly through the water"
+            ]
+          },
+          {
+            "definition": "cause (someone) to patronize, buy, or show interest in something; attract.",
+            "examples": [
+              "tourist attractions that pull in millions of foreign visitors"
+            ],
+            "synonyms": [
+              "attract",
+              "draw",
+              "bring in",
+              "pull in",
+              "lure",
+              "seduce",
+              "entice",
+              "tempt",
+              "beckon",
+              "interest",
+              "fascinate \"race day pulled big crowds\""
+            ],
+            "antonyms": [
+              "repel"
+            ]
+          },
+          {
+            "definition": "carry out or achieve (something requiring skill, luck, or planning).",
+            "examples": [
+              "the magazine pulled its trick of producing the right issue at the right time"
+            ]
+          },
+          {
+            "definition": "cancel or withdraw (an entertainment or advertisement).",
+            "examples": [
+              "the gig was pulled at the first sign of difficulty"
+            ]
+          },
+          {
+            "definition": "withdraw (a player) from a game.",
+            "examples": [
+              "four of the leading eight runners were pulled"
+            ]
+          },
+          {
+            "definition": "check the speed of (a horse), especially so as to make it lose a race."
+          },
+          {
+            "definition": "strike (a ball) in the direction of one's follow-through so that it travels to the left or, with a left-handed player, to the right.",
+            "examples": [
+              "he pulled the ball every time he hit a grounder"
+            ]
+          },
+          {
+            "definition": "(of a lineman) withdraw from position and cross parallel to and behind the line of scrimmage to block opposing players for a runner."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pull"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pulls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of taking hold of something and exerting force to draw it toward one.",
+            "examples": [
+              "give the hair a quick pull, and it comes out by the roots"
+            ],
+            "synonyms": [
+              "tug",
+              "jerk",
+              "heave; informalyank \"give the chain a pull\""
+            ]
+          },
+          {
+            "definition": "a handle to hold while pulling.",
+            "examples": [
+              "the Cowboy Collection offers hand-forged iron drawer pulls"
+            ]
+          },
+          {
+            "definition": "a deep draft of a drink.",
+            "examples": [
+              "he unscrewed the cap from the flask and took another pull"
+            ]
+          },
+          {
+            "definition": "an act of sucking at a cigar or pipe.",
+            "examples": [
+              "he took a pull on his cheroot"
+            ]
+          },
+          {
+            "definition": "an injury to a muscle or ligament caused by abnormal strain.",
+            "examples": [
+              "he was taken out of the game with a hamstring pull"
+            ]
+          },
+          {
+            "definition": "a printer's proof."
+          },
+          {
+            "definition": "a force drawing someone or something in a particular direction or course of action.",
+            "examples": [
+              "the pull of the water tore her away"
+            ]
+          },
+          {
+            "definition": "something exerting an influence or attraction.",
+            "examples": [
+              "one of the pulls of urban life is the opportunity of finding work"
+            ],
+            "synonyms": [
+              "attraction",
+              "draw",
+              "lure",
+              "allurement",
+              "enticement",
+              "magnetism",
+              "temptation",
+              "fascination",
+              "appeal \"she felt the pull of the sea\""
+            ]
+          },
+          {
+            "definition": "the condition of being able to exercise influence.",
+            "examples": [
+              "they were hamstrung without the political pull of the mayor's office"
+            ],
+            "synonyms": [
+              "influence",
+              "sway",
+              "power",
+              "authority",
+              "say",
+              "prestige",
+              "standing",
+              "weight",
+              "leverage",
+              "muscle",
+              "teeth",
+              "clout \"he has a lot of pull in finance\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

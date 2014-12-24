@@ -1,0 +1,129 @@
+[
+  {
+    "word": "middle",
+    "syllables": [
+      "mid",
+      "dle"
+    ],
+    "pronunciation": "ˈmidl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "middle"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "at an equal distance from the extremities of something; central.",
+            "examples": [
+              "the early and middle part of life"
+            ],
+            "synonyms": [
+              "central",
+              "mid",
+              "mean",
+              "medium",
+              "medial",
+              "median",
+              "midway",
+              "halfway \"the middle point\""
+            ]
+          },
+          {
+            "definition": "(of a member of a group, series, or sequence) so placed as to have the same number of members on each side.",
+            "examples": [
+              "the woman was in her middle forties"
+            ]
+          },
+          {
+            "definition": "intermediate in rank, quality, or ability.",
+            "examples": [
+              "there is a dearth of talent at the middle level"
+            ],
+            "synonyms": [
+              "intermediate",
+              "intermediary \"the middle level\""
+            ]
+          },
+          {
+            "definition": "(of a language) of the period between the old and modern forms.",
+            "examples": [
+              "Middle High German"
+            ]
+          },
+          {
+            "definition": "denoting a voice of verbs in some languages, such as Greek, that expresses reciprocal or reflexive action."
+          },
+          {
+            "definition": "denoting a transitive or intransitive verb in English with a passive sense, e.g., cuts in this meat cuts well."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "middle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "middles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the point or position at an equal distance from the sides, edges, or ends of something.",
+            "examples": [
+              "she stood alone in the middle of the street"
+            ]
+          },
+          {
+            "definition": "the point at or around the center of a process or activity, period of time, etc.",
+            "examples": [
+              "we were married in the middle of December"
+            ],
+            "synonyms": [
+              "center",
+              "midpoint",
+              "halfway point",
+              "dead center",
+              "focus",
+              "hub; Moreeye",
+              "heart",
+              "core",
+              "kernel \"a shallow dish with a spike in the middle\""
+            ],
+            "antonyms": [
+              "outside"
+            ]
+          },
+          {
+            "definition": "a person's waist or waist and stomach.",
+            "examples": [
+              "he had a towel around his middle"
+            ],
+            "synonyms": [
+              "midriff",
+              "waist",
+              "belly",
+              "stomach",
+              "abdomen; Moreinformaltummy",
+              "tum",
+              "gut \"he had a towel around his middle\""
+            ]
+          },
+          {
+            "definition": "the form or voice of a verb expressing reflexive or reciprocal action, or a passive sense for a transitive or intransitive verb."
+          },
+          {
+            "definition": "short for middle term."
+          }
+        ]
+      }
+    ]
+  }
+]

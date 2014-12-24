@@ -1,0 +1,61 @@
+[
+  {
+    "word": "elsewhere",
+    "syllables": [
+      "else",
+      "where"
+    ],
+    "pronunciation": "ˌelsˈ(h)wer",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "elsewhere"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in, at, or to some other place or other places.",
+            "examples": [
+              "he is seeking employment elsewhere"
+            ],
+            "synonyms": [
+              "somewhere else",
+              "in/at/to another place",
+              "in/at/to a different place",
+              "hence; Morenot here",
+              "not present",
+              "absent",
+              "away",
+              "abroad",
+              "out \"the negatives are stored in one place",
+              "and the prints are stored elsewhere\""
+            ],
+            "antonyms": [
+              "here"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "elsewhere"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "some other place.",
+            "examples": [
+              "all Hawaiian plants originally came from elsewhere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

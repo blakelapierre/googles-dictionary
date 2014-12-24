@@ -1,0 +1,72 @@
+[
+  {
+    "word": "embellish",
+    "syllables": [
+      "em",
+      "bel",
+      "lish"
+    ],
+    "pronunciation": "əmˈbeliSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "embellish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "embellishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "embellished"
+          },
+          {
+            "part": "past participle",
+            "variant": "embellished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "embellishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) more attractive by the addition of decorative details or features.",
+            "examples": [
+              "blue silk embellished with golden embroidery"
+            ],
+            "synonyms": [
+              "decorate",
+              "adorn",
+              "ornament; Morebeautify",
+              "enhance",
+              "grace; trim",
+              "garnish",
+              "gild; deck",
+              "bedeck",
+              "festoon",
+              "emblazon; informaltart up",
+              "pimp; literarybejewel",
+              "bedizen \"weapons embellished with precious metal\""
+            ]
+          },
+          {
+            "definition": "make (a statement or story) more interesting or entertaining by adding extra details, especially ones that are not true.",
+            "examples": [
+              "she had real difficulty telling the truth because she liked to embellish things"
+            ],
+            "synonyms": [
+              "elaborate",
+              "embroider",
+              "expand on",
+              "exaggerate \"the legend was embellished in later retellings\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

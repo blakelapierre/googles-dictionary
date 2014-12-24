@@ -1,0 +1,149 @@
+{
+  "word": "dance",
+  "syllables": [
+    "dance"
+  ],
+  "pronunciation": "dans",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "dances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "move rhythmically to music, typically following a set sequence of steps.",
+          "examples": [
+            "their cheeks were pressed together as they danced"
+          ],
+          "synonyms": [
+            "sway",
+            "trip",
+            "twirl",
+            "whirl",
+            "pirouette",
+            "gyrate; Moreinformalbop",
+            "disco",
+            "rock",
+            "boogie",
+            "shake a leg",
+            "hoof it",
+            "cut a/the rug",
+            "trip the light fantastic",
+            "get down",
+            "mosh",
+            "groove \"he danced with Katherine\""
+          ]
+        },
+        {
+          "definition": "perform (a particular dance or a role in a ballet).",
+          "examples": [
+            "they danced a tango"
+          ]
+        },
+        {
+          "definition": "lead (someone) in a particular direction while dancing.",
+          "examples": [
+            "I danced her out of the room"
+          ]
+        },
+        {
+          "definition": "(of a person) move in a quick and lively way.",
+          "examples": [
+            "Sheila danced in gaily"
+          ],
+          "synonyms": [
+            "caper",
+            "cavort",
+            "frisk",
+            "frolic",
+            "skip",
+            "prance",
+            "gambol",
+            "jig; Moreleap",
+            "jump",
+            "hop",
+            "bounce \"little girls danced around me\""
+          ]
+        },
+        {
+          "definition": "move up and down lightly and quickly.",
+          "examples": [
+            "midges danced over the stream"
+          ],
+          "synonyms": [
+            "flicker",
+            "leap",
+            "dart",
+            "play",
+            "flit",
+            "quiver; Moretwinkle",
+            "shimmer \"flames danced in the fireplace\""
+          ]
+        },
+        {
+          "definition": "(of someone's eyes) sparkle brightly with pleasure or excitement."
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "dances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a series of movements that match the speed and rhythm of a piece of music."
+        },
+        {
+          "definition": "a particular sequence of steps and movements constituting a particular form of dancing."
+        },
+        {
+          "definition": "dance steps and movements considered as an activity or art form.",
+          "examples": [
+            "she has studied dance with Martha Graham"
+          ]
+        },
+        {
+          "definition": "a social gathering at which people dance.",
+          "examples": [
+            "she met her husband at a dance"
+          ],
+          "synonyms": [
+            "ball",
+            "masquerade",
+            "prom",
+            "hoedown",
+            "baile",
+            "disco; Moredatedhop",
+            "sock hop \"they met at a dance\""
+          ]
+        },
+        {
+          "definition": "a set of lively movements resembling a dance.",
+          "examples": [
+            "he gesticulated comically and did a little dance"
+          ]
+        },
+        {
+          "definition": "a piece of music for dancing to.",
+          "examples": [
+            "the last dance had been played"
+          ]
+        },
+        {
+          "definition": "music for dancing to, especially in a nightclub.",
+          "examples": [
+            "noun: dance music; plural noun: dance musics"
+          ]
+        }
+      ]
+    }
+  ]
+}

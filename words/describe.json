@@ -1,0 +1,80 @@
+[
+  {
+    "word": "describe",
+    "syllables": [
+      "de",
+      "scribe"
+    ],
+    "pronunciation": "dəˈskrīb",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "describe"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "describes"
+          },
+          {
+            "part": "past tense",
+            "variant": "described"
+          },
+          {
+            "part": "past participle",
+            "variant": "described"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "describing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give an account in words of (someone or something), including all the relevant characteristics, qualities, or events.",
+            "examples": [
+              "the police said the man was described as white, 6 ft. tall, with mousy, cropped hair"
+            ],
+            "synonyms": [
+              "report",
+              "recount",
+              "relate",
+              "tell of",
+              "set out",
+              "chronicle; Moredetail",
+              "catalog",
+              "give a rundown of; explain",
+              "illustrate",
+              "discuss",
+              "comment on; literarylimn \"he described his experiences\"designate",
+              "pronounce",
+              "call",
+              "label",
+              "style",
+              "dub; characterize",
+              "class; portray",
+              "depict",
+              "brand",
+              "paint \"she described him as a pathetic figure\""
+            ]
+          },
+          {
+            "definition": "mark out or draw (a geometric figure).",
+            "examples": [
+              "on the diameter of a circle an equilateral triangle is described"
+            ],
+            "synonyms": [
+              "delineate",
+              "mark out",
+              "outline",
+              "trace",
+              "draw \"the pen described a circle\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

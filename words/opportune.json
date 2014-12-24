@@ -1,0 +1,53 @@
+[
+  {
+    "word": "opportune",
+    "syllables": [
+      "op",
+      "por",
+      "tune"
+    ],
+    "pronunciation": "ˌäpərˈt(y)o͞on",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "opportune"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a time) well-chosen or particularly favorable or appropriate.",
+            "examples": [
+              "he couldn't have arrived at a less opportune moment"
+            ],
+            "synonyms": [
+              "auspicious",
+              "propitious",
+              "favorable",
+              "advantageous",
+              "golden",
+              "felicitous; Moretimely",
+              "convenient",
+              "suitable",
+              "appropriate",
+              "apt",
+              "fitting \"it seemed like the most opportune occasion to make our announcement\""
+            ],
+            "antonyms": [
+              "inopportune",
+              "disadvantageous"
+            ]
+          },
+          {
+            "definition": "done or occurring at a favorable or useful time; well-timed.",
+            "examples": [
+              "the opportune use of humor to lower tension"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "commitment",
+    "syllables": [
+      "com",
+      "mit",
+      "ment"
+    ],
+    "pronunciation": "kəˈmitmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "commitment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "commitments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or quality of being dedicated to a cause, activity, etc.",
+            "examples": [
+              "the company's commitment to quality"
+            ],
+            "synonyms": [
+              "dedication",
+              "devotion",
+              "allegiance",
+              "loyalty",
+              "faithfulness",
+              "fidelity \"her commitment to her students\""
+            ]
+          },
+          {
+            "definition": "a pledge or undertaking.",
+            "examples": [
+              "I cannot make such a commitment at the moment"
+            ],
+            "synonyms": [
+              "vow",
+              "promise",
+              "pledge",
+              "oath; Morecontract",
+              "pact",
+              "deal; decision",
+              "resolution \"he made a commitment\""
+            ]
+          },
+          {
+            "definition": "an engagement or obligation that restricts freedom of action.",
+            "examples": [
+              "business commitments"
+            ],
+            "synonyms": [
+              "responsibility",
+              "obligation",
+              "duty",
+              "tie",
+              "liability; Moretask; engagement",
+              "arrangement \"the pressure of his commitments\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

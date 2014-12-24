@@ -1,0 +1,153 @@
+{
+  "word": "case",
+  "syllables": [
+    "case"
+  ],
+  "pronunciation": "kās",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "case"
+        },
+        {
+          "part": "plural noun",
+          "variant": "cases"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an instance of a particular situation; an example of something occurring.",
+          "examples": [
+            "a case of mistaken identity"
+          ],
+          "synonyms": [
+            "instance",
+            "occurrence",
+            "manifestation",
+            "demonstration",
+            "exposition",
+            "exhibition; Moreexample",
+            "illustration",
+            "specimen",
+            "sample",
+            "exemplification \"a classic case of overreaction\""
+          ]
+        },
+        {
+          "definition": "the situation affecting or relating to a particular person or thing; one's circumstances or position.",
+          "examples": [
+            "I'll make an exception in your case"
+          ],
+          "synonyms": [
+            "situation",
+            "position",
+            "state of affairs",
+            "lay of the land; Morecircumstances",
+            "conditions",
+            "facts; way things stand; informalscore \"if that is the case",
+            "I will have to find somebody else\""
+          ]
+        },
+        {
+          "definition": "an incident or set of circumstances under police investigation.",
+          "examples": [
+            "a murder case"
+          ],
+          "synonyms": [
+            "investigation",
+            "inquiry",
+            "examination",
+            "exploration",
+            "probe",
+            "search",
+            "inquest \"the officers on the case\""
+          ]
+        },
+        {
+          "definition": "an instance of a disease or problem.",
+          "examples": [
+            "200,000 cases of hepatitis B"
+          ],
+          "synonyms": [
+            "patient",
+            "sick person",
+            "invalid",
+            "sufferer",
+            "victim \"only urgent cases were admitted for immediate examination\""
+          ]
+        },
+        {
+          "definition": "a person or their particular problem requiring or receiving medical or welfare attention.",
+          "examples": [
+            "most breast cancer cases were older women"
+          ]
+        },
+        {
+          "definition": "a person whose situation is regarded as pitiable or as having no chance of improvement.",
+          "examples": [
+            "Vicky was a very sad case"
+          ]
+        },
+        {
+          "definition": "an amusing or eccentric person."
+        },
+        {
+          "definition": "a legal action, especially one to be decided in a court of law.",
+          "examples": [
+            "a libel case"
+          ],
+          "synonyms": [
+            "lawsuit",
+            "(legal) action",
+            "legal dispute",
+            "suit",
+            "trial",
+            "legal/judicial proceedings",
+            "litigation \"she lost her case\""
+          ]
+        },
+        {
+          "definition": "a set of facts or arguments supporting one side in a legal action.",
+          "examples": [
+            "the case for the defense"
+          ]
+        },
+        {
+          "definition": "a legal action that has been decided and may be cited as a precedent."
+        },
+        {
+          "definition": "a set of facts or arguments supporting one side of a debate or controversy.",
+          "examples": [
+            "the case against tobacco advertising"
+          ],
+          "synonyms": [
+            "argument",
+            "contention",
+            "reasoning",
+            "logic",
+            "defense",
+            "justification",
+            "vindication",
+            "exposition",
+            "thesis \"a strong case\""
+          ]
+        },
+        {
+          "definition": "any of the inflected forms of a noun, adjective, or pronoun that express the semantic relation of the word to other words in the sentence.",
+          "examples": [
+            "the accusative case"
+          ]
+        },
+        {
+          "definition": "the relation of a grammatical case to other words in the sentence, whether indicated by inflection or not.",
+          "examples": [
+            "English normally expresses case by the use of prepositions"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "word": "constitutional",
+    "syllables": [
+      "con",
+      "sti",
+      "tu",
+      "tion",
+      "al"
+    ],
+    "pronunciation": "ˌkänstəˈt(y)o͞oSH(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "constitutional"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to an established set of principles governing a state.",
+            "examples": [
+              "a constitutional amendment"
+            ]
+          },
+          {
+            "definition": "in accordance with or allowed by an established set of principles governing a state.",
+            "examples": [
+              "a constitutional monarchy"
+            ],
+            "synonyms": [
+              "legal",
+              "lawful",
+              "legitimate",
+              "authorized",
+              "permitted; Moresanctioned",
+              "ratified",
+              "warranted",
+              "constituted",
+              "statutory",
+              "chartered",
+              "vested",
+              "official; by law \"constitutional powers\""
+            ]
+          },
+          {
+            "definition": "of or relating to someone's physical or mental condition.",
+            "examples": [
+              "a constitutional weakness"
+            ],
+            "synonyms": [
+              "inherent",
+              "intrinsic",
+              "innate",
+              "fundamental",
+              "essential",
+              "organic; Morecongenital",
+              "inborn",
+              "inbred \"a constitutional weakness\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noundated",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "constitutional"
+          },
+          {
+            "part": "plural noun",
+            "variant": "constitutionals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a walk, typically one taken regularly to maintain or restore good health."
+          }
+        ]
+      }
+    ]
+  }
+]

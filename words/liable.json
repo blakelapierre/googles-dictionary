@@ -1,0 +1,72 @@
+[
+  {
+    "word": "liable",
+    "syllables": [
+      "li",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "ˈlī(ə)b(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "liable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "responsible by law; legally answerable.",
+            "examples": [
+              "the supplier of goods or services can become liable for breach of contract in a variety of ways"
+            ],
+            "synonyms": [
+              "responsible",
+              "legally responsible",
+              "accountable",
+              "answerable",
+              "chargeable",
+              "blameworthy",
+              "at fault",
+              "culpable",
+              "guilty \"they are liable for negligence\""
+            ]
+          },
+          {
+            "definition": "likely to do or to be something.",
+            "examples": [
+              "patients were liable to faint if they stood up too suddenly"
+            ],
+            "synonyms": [
+              "likely",
+              "inclined",
+              "tending",
+              "disposed",
+              "apt",
+              "predisposed",
+              "prone",
+              "given \"my income is liable to fluctuate wildly\""
+            ]
+          },
+          {
+            "definition": "likely to experience (something undesirable).",
+            "examples": [
+              "areas liable to flooding"
+            ],
+            "synonyms": [
+              "exposed to",
+              "prone to",
+              "subject to",
+              "susceptible to",
+              "vulnerable to",
+              "in danger of",
+              "at risk of \"areas liable to flooding\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

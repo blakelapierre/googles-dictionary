@@ -1,0 +1,63 @@
+{
+  "word": "delineate",
+  "syllables": [
+    "de",
+    "lin",
+    "e",
+    "ate"
+  ],
+  "pronunciation": "dəˈlinēˌāt",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "delineate"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "delineates"
+        },
+        {
+          "part": "past tense",
+          "variant": "delineated"
+        },
+        {
+          "part": "past participle",
+          "variant": "delineated"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "delineating"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "describe or portray (something) precisely.",
+          "examples": [
+            "the law should delineate and prohibit behavior that is socially abhorrent"
+          ],
+          "synonyms": [
+            "describe",
+            "set forth/out",
+            "present",
+            "outline",
+            "sketch",
+            "depict",
+            "represent; Moremap out",
+            "define",
+            "specify",
+            "identify \"the aims of the study as delineated by the boss\""
+          ]
+        },
+        {
+          "definition": "indicate the exact position of (a border or boundary).",
+          "examples": [
+            "outline, trace, block in, mark (out/off), delimit a section delineated in red pen"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "word": "cymbal",
+    "syllables": [
+      "cym",
+      "bal"
+    ],
+    "pronunciation": "ˈsimbəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cymbal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cymbals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a musical instrument consisting of a slightly concave round brass plate that is either struck against another one or struck with a stick to make a ringing or clashing sound."
+          }
+        ]
+      }
+    ]
+  }
+]

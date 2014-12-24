@@ -1,0 +1,56 @@
+[
+  {
+    "word": "phenomenon",
+    "syllables": [
+      "phe",
+      "nom",
+      "e",
+      "non"
+    ],
+    "pronunciation": "fəˈnäməˌnänfəˈnäməˌnən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "phenomenon"
+          },
+          {
+            "part": "plural noun",
+            "variant": "phenomena"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.",
+            "examples": [
+              "glaciers are unique and interesting natural phenomena"
+            ],
+            "synonyms": [
+              "occurrence",
+              "event",
+              "happening",
+              "fact",
+              "situation",
+              "circumstance",
+              "experience",
+              "case",
+              "incident",
+              "episode \"a rare phenomenon\""
+            ]
+          },
+          {
+            "definition": "a remarkable person, thing, or event.",
+            "examples": [
+              "marvel, sensation, wonder, prodigy, miracle, rarity, nonpareil; Moreinformalhumdinger, phenom, stunner, doozy, ripsnorter \"the band was a pop phenomenon\"Morehumdinger, phenom, stunner, doozy, ripsnorter the band was a pop phenomenon"
+            ]
+          },
+          {
+            "definition": "the object of a person's perception; what the senses or the mind notice."
+          }
+        ]
+      }
+    ]
+  }
+]

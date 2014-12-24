@@ -1,0 +1,105 @@
+[
+  {
+    "word": "lac",
+    "syllables": [
+      "lac"
+    ],
+    "pronunciation": "lak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lac"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lacs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a resinous substance secreted as a protective covering by the lac insect, used to make varnish, shellac, sealing wax, dyes, etc."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lac",
+    "syllables": [
+      "lac"
+    ],
+    "pronunciation": "lak",
+    "parts": [
+      {
+        "part": "adjectiveBiology",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "lac"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting the ability of normal strains of the bacterium E. coli to metabolize lactose, or the genetic factors involved in this ability (which is lost in some mutant strains)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lac",
+    "syllables": [
+      "lac"
+    ],
+    "pronunciation": "lak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lac"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lacs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "variant spelling of lakh."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lakh",
+    "syllables": [
+      "lakh"
+    ],
+    "pronunciation": "läklak",
+    "parts": [
+      {
+        "part": "nounIndian",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lac"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hundred thousand.",
+            "examples": [
+              "they fixed the price at five lakhs of rupees"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "word": "elaborate",
+  "syllables": [
+    "e",
+    "lab",
+    "o",
+    "rate"
+  ],
+  "pronunciation": "əˈlab(ə)rətəˈlabəˌrāt",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "elaborate"
+        }
+      ],
+      "definitions": []
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "elaborate"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "elaborates"
+        },
+        {
+          "part": "past tense",
+          "variant": "elaborated"
+        },
+        {
+          "part": "past participle",
+          "variant": "elaborated"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "elaborating"
+        }
+      ],
+      "definitions": []
+    }
+  ]
+}

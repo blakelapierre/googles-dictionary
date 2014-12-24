@@ -1,0 +1,42 @@
+[
+  {
+    "word": "intensifier",
+    "syllables": [
+      "in",
+      "ten",
+      "si",
+      "fi",
+      "er"
+    ],
+    "pronunciation": "inˈtensəˌfī(ə)r",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intensifier"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intensifiers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that intensifies, in particular."
+          },
+          {
+            "definition": "a chemical used to intensify a negative."
+          },
+          {
+            "definition": "an adverb used to give force or emphasis, for example, really in my feet are really cold."
+          },
+          {
+            "definition": "short for image intensifier."
+          }
+        ]
+      }
+    ]
+  }
+]

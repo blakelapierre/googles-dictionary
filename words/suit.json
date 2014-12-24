@@ -1,0 +1,162 @@
+[
+  {
+    "word": "suit",
+    "syllables": [
+      "suit"
+    ],
+    "pronunciation": "so͞ot",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "suit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "suits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of outer clothes made of the same fabric and designed to be worn together, typically consisting of a jacket and trousers or a jacket and skirt.",
+            "examples": [
+              "outfit, set of clothes, ensemble a pinstriped suit"
+            ]
+          },
+          {
+            "definition": "a set of clothes to be worn on a particular occasion or for a particular activity.",
+            "examples": [
+              "a jogging suit"
+            ]
+          },
+          {
+            "definition": "a complete set of pieces of armor for covering the whole body."
+          },
+          {
+            "definition": "a complete set of sails required for a ship or for a set of spars."
+          },
+          {
+            "definition": "an executive in a business or organization, typically one regarded as exercising influence in an impersonal way.",
+            "examples": [
+              "maybe now the suits in Washington will listen"
+            ],
+            "synonyms": [
+              "businessman",
+              "businesswoman",
+              "executive",
+              "bureaucrat",
+              "administrator",
+              "manager \"suits in faraway boardrooms\""
+            ]
+          },
+          {
+            "definition": "any of the sets distinguished by their pictorial symbols into which a deck of playing cards is divided, in conventional decks comprising spades, hearts, diamonds, and clubs."
+          },
+          {
+            "definition": "short for lawsuit.",
+            "examples": [
+              "legal action, lawsuit, (court) case, action, (legal/judicial) proceedings, litigation a medical malpractice suit"
+            ]
+          },
+          {
+            "definition": "the process of trying to win a woman's affection, typically with a view to marriage.",
+            "examples": [
+              "he could not compete with John's charms in Marian's eyes and his suit came to nothing"
+            ],
+            "synonyms": [
+              "courtship",
+              "wooing",
+              "attentions \"his suit came to nothing\""
+            ]
+          },
+          {
+            "definition": "a petition or entreaty made to a person in authority.",
+            "examples": [
+              "entreaty, request, plea, appeal, petition, supplication, application they spurned his suit"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "suit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "suits"
+          },
+          {
+            "part": "past tense",
+            "variant": "suited"
+          },
+          {
+            "part": "past participle",
+            "variant": "suited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "suiting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be convenient for or acceptable to.",
+            "examples": [
+              "he lied whenever it suited him"
+            ],
+            "synonyms": [
+              "be convenient for",
+              "be acceptable to",
+              "be suitable for",
+              "meet the requirements of; Moreinformalfit the bill for \"savings plans to suit all customers\"make appropriate to/for",
+              "tailor",
+              "fashion",
+              "adjust",
+              "adapt",
+              "modify",
+              "fit",
+              "gear",
+              "design \"recipes ideally suited to students\""
+            ]
+          },
+          {
+            "definition": "act entirely according to one's own wishes (often used to express the speaker's annoyance).",
+            "examples": [
+              "“I'm not going to help you.” “Suit yourself.”"
+            ]
+          },
+          {
+            "definition": "go well with or enhance the features, figure, or character of (someone).",
+            "examples": [
+              "the dress didn't suit her"
+            ],
+            "synonyms": [
+              "become",
+              "work for",
+              "look good on",
+              "look attractive on",
+              "flatter \"blue really suits you\""
+            ]
+          },
+          {
+            "definition": "adapt or make appropriate for (something).",
+            "examples": [
+              "they took care to suit their answers to the questions put to them"
+            ]
+          },
+          {
+            "definition": "put on clothes, typically for a particular activity.",
+            "examples": [
+              "I suited up and entered the water"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

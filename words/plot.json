@@ -1,0 +1,142 @@
+[
+  {
+    "word": "plot",
+    "syllables": [
+      "plot"
+    ],
+    "pronunciation": "plät",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "plot"
+          },
+          {
+            "part": "plural noun",
+            "variant": "plots"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plan made in secret by a group of people to do something illegal or harmful.",
+            "examples": [
+              "there's a plot to overthrow the government"
+            ],
+            "synonyms": [
+              "conspiracy",
+              "intrigue",
+              "secret plan; machinations \"a plot to overthrow him\""
+            ]
+          },
+          {
+            "definition": "the main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
+            "examples": [
+              "storyline, story, scenario, action, thread; diegesis the plot of her novel"
+            ]
+          },
+          {
+            "definition": "a small piece of ground marked out for a purpose such as building or gardening.",
+            "examples": [
+              "a vegetable plot"
+            ],
+            "synonyms": [
+              "piece of ground",
+              "patch",
+              "area",
+              "tract",
+              "acreage",
+              "allotment",
+              "lot",
+              "plat",
+              "homesite \"a three-acre plot\""
+            ]
+          },
+          {
+            "definition": "a graph showing the relation between two variables."
+          },
+          {
+            "definition": "a diagram, chart, or map."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "plot"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "plots"
+          },
+          {
+            "part": "past tense",
+            "variant": "plotted"
+          },
+          {
+            "part": "past participle",
+            "variant": "plotted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "plotting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "secretly make plans to carry out (an illegal or harmful action).",
+            "examples": [
+              "the two men are serving sentences for plotting a bomb campaign"
+            ],
+            "synonyms": [
+              "plan",
+              "scheme",
+              "arrange",
+              "organize",
+              "hatch",
+              "concoct",
+              "devise",
+              "dream up; Moreinformalcook up \"he plotted their downfall\"conspire",
+              "scheme",
+              "intrigue",
+              "collude",
+              "connive",
+              "machinate \"his brother was plotting against him\""
+            ]
+          },
+          {
+            "definition": "devise the sequence of events in (a play, novel, movie, or similar work)."
+          },
+          {
+            "definition": "mark (a route or position) on a chart.",
+            "examples": [
+              "he started to plot lines of ancient sites"
+            ],
+            "synonyms": [
+              "mark",
+              "chart",
+              "map",
+              "represent",
+              "graph \"the fifty-three sites were plotted\""
+            ]
+          },
+          {
+            "definition": "mark out or allocate (points) on a graph."
+          },
+          {
+            "definition": "make (a curve) by marking out a number of points on a graph."
+          },
+          {
+            "definition": "illustrate by use of a graph.",
+            "examples": [
+              "it is possible to plot fairly closely the rate at which recruitment of girls increased"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

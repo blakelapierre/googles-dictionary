@@ -1,0 +1,84 @@
+[
+  {
+    "word": "competence",
+    "syllables": [
+      "com",
+      "pe",
+      "tence"
+    ],
+    "pronunciation": "ˈkämpədəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "competence"
+          },
+          {
+            "part": "noun",
+            "variant": "competency"
+          },
+          {
+            "part": "plural noun",
+            "variant": "competences"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the ability to do something successfully or efficiently.",
+            "examples": [
+              "the players displayed varying degrees of competence"
+            ],
+            "synonyms": [
+              "capability",
+              "ability",
+              "competency",
+              "proficiency",
+              "accomplishment",
+              "expertise",
+              "adeptness",
+              "skill",
+              "prowess",
+              "mastery",
+              "talent; Moreinformalsavvy",
+              "know-how \"my technical competence\""
+            ]
+          },
+          {
+            "definition": "the legal authority of a court or other body to deal with a particular matter.",
+            "examples": [
+              "the court's competence has been accepted"
+            ],
+            "synonyms": [
+              "authority",
+              "power",
+              "control",
+              "jurisdiction",
+              "ambit",
+              "scope \"matters within the competence of the courts\""
+            ]
+          },
+          {
+            "definition": "the ability of a criminal defendant to stand trial, as gauged by their mental ability to understand the proceedings and to assist defense lawyers."
+          },
+          {
+            "definition": "a speaker's subconscious, intuitive knowledge of the rules of their language."
+          },
+          {
+            "definition": "effective performance of the normal function.",
+            "examples": [
+              "adequacy, appropriateness, suitability, fitness; Moreeffectiveness; formalefficacy \"the competence of the system\"Moreeffectiveness; efficacy the competence of the system"
+            ]
+          },
+          {
+            "definition": "an income large enough to live on, typically unearned.",
+            "examples": [
+              "he found himself with an ample competence and no obligations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

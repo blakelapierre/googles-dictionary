@@ -1,0 +1,67 @@
+[
+  {
+    "word": "achievement",
+    "syllables": [
+      "a",
+      "chieve",
+      "ment"
+    ],
+    "pronunciation": "əˈCHēvmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "achievement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "achievements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing done successfully, typically by effort, courage, or skill.",
+            "examples": [
+              "to reach this stage is a great achievement"
+            ],
+            "synonyms": [
+              "attainment",
+              "realization",
+              "accomplishment",
+              "fulfillment",
+              "implementation",
+              "execution",
+              "performance; Moreconclusion",
+              "completion",
+              "close",
+              "consummation \"the achievement of a high rate of economic growth\"accomplishment",
+              "attainment",
+              "feat",
+              "performance",
+              "undertaking",
+              "act",
+              "action",
+              "deed",
+              "effort",
+              "exploit",
+              "success",
+              "triumph; work",
+              "handiwork \"they felt justifiably proud of their achievement\""
+            ]
+          },
+          {
+            "definition": "the process or fact of achieving something.",
+            "examples": [
+              "the achievement of professional recognition"
+            ]
+          },
+          {
+            "definition": "a representation of a coat of arms with all the adjuncts to which a bearer of arms is entitled."
+          }
+        ]
+      }
+    ]
+  }
+]

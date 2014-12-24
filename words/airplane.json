@@ -1,0 +1,33 @@
+[
+  {
+    "word": "airplane",
+    "syllables": [
+      "air",
+      "plane"
+    ],
+    "pronunciation": "ˈerˌplān",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "airplane"
+          },
+          {
+            "part": "plural noun",
+            "variant": "airplanes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+            "examples": [
+              "aircraft, plane, airliner, jet, jumbo jet, jetliner; Moredatedflying machine, kite \"the airplane took off\"Moreflying machine, kite the airplane took off"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

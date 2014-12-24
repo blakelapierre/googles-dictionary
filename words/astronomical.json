@@ -1,0 +1,58 @@
+[
+  {
+    "word": "astronomical",
+    "syllables": [
+      "as",
+      "tro",
+      "nom",
+      "i",
+      "cal"
+    ],
+    "pronunciation": "ˌastrəˈnämək(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "astronomical"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to astronomy.",
+            "examples": [
+              "planetary, stellar; Morecelestial, astral \"astronomical alignments\"Morecelestial, astral astronomical alignments"
+            ]
+          },
+          {
+            "definition": "(of an amount) extremely large.",
+            "examples": [
+              "he wanted an astronomical fee"
+            ],
+            "synonyms": [
+              "huge",
+              "enormous",
+              "very large",
+              "prodigious",
+              "monumental",
+              "colossal",
+              "vast",
+              "gigantic",
+              "massive; Moresubstantial",
+              "considerable",
+              "sizable",
+              "hefty; inordinate; informalastronomic",
+              "whopping",
+              "humongous",
+              "ginormous \"the sums he has paid are astronomical\""
+            ],
+            "antonyms": [
+              "tiny"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

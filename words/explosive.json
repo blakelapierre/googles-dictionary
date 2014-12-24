@@ -1,0 +1,109 @@
+[
+  {
+    "word": "explosive",
+    "syllables": [
+      "ex",
+      "plo",
+      "sive"
+    ],
+    "pronunciation": "ikˈsplōsivikˈsplōziv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "explosive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "able or likely to shatter violently or burst apart, as when a bomb explodes.",
+            "examples": [
+              "an explosive device"
+            ],
+            "synonyms": [
+              "volatile",
+              "inflammable",
+              "flammable",
+              "combustible",
+              "incendiary \"explosive gases\""
+            ]
+          },
+          {
+            "definition": "likely to cause an eruption of anger or controversy.",
+            "examples": [
+              "Marco's explosive temper"
+            ],
+            "synonyms": [
+              "fiery",
+              "stormy",
+              "violent",
+              "volatile",
+              "angry",
+              "passionate",
+              "tempestuous",
+              "turbulent",
+              "touchy",
+              "irascible",
+              "hotheaded",
+              "short-tempered More\"Biff's explosive temper\"tense",
+              "charged",
+              "highly charged",
+              "overwrought; dangerous",
+              "perilous",
+              "hazardous",
+              "sensitive",
+              "delicate",
+              "unstable",
+              "volatile \"an explosive situation\""
+            ]
+          },
+          {
+            "definition": "of or relating to a sudden and dramatic increase in amount or extent.",
+            "examples": [
+              "the explosive growth of personal computers in the 1980s"
+            ],
+            "synonyms": [
+              "sudden",
+              "dramatic",
+              "rapid; Moremushrooming",
+              "snowballing",
+              "escalating",
+              "rocketing",
+              "skyrocketing",
+              "accelerating \"explosive population growth\""
+            ]
+          },
+          {
+            "definition": "(of a vocal sound) produced with a sharp release of air."
+          },
+          {
+            "definition": "another term for plosive."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "explosive"
+          },
+          {
+            "part": "plural noun",
+            "variant": "explosives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance that can be made to explode, especially any of those used in bombs or shells.",
+            "examples": [
+              "bomb, incendiary (device) stocks of explosives"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

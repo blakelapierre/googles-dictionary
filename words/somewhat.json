@@ -1,0 +1,50 @@
+{
+  "word": "somewhat",
+  "syllables": [
+    "some",
+    "what"
+  ],
+  "pronunciation": "ˈsəmˌ(h)wätˈsəmˌ(h)wət",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "somewhat"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "to a moderate extent or by a moderate amount.",
+          "examples": [
+            "matters have improved somewhat since then"
+          ],
+          "synonyms": [
+            "a little",
+            "a bit",
+            "to some extent",
+            "(up) to a point",
+            "in some measure",
+            "rather",
+            "quite",
+            "some; Moreinformalkind of",
+            "kinda",
+            "sort of",
+            "sorta \"matters have improved somewhat\"slightly",
+            "relatively",
+            "comparatively",
+            "moderately",
+            "fairly",
+            "rather",
+            "quite",
+            "marginally \"a somewhat thicker book\""
+          ],
+          "antonyms": [
+            "greatly"
+          ]
+        }
+      ]
+    }
+  ]
+}

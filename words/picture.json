@@ -1,0 +1,200 @@
+[
+  {
+    "word": "picture",
+    "syllables": [
+      "pic",
+      "ture"
+    ],
+    "pronunciation": "ˈpik(t)SHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "picture"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pictures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a painting or drawing.",
+            "examples": [
+              "draw a picture of a tree"
+            ],
+            "synonyms": [
+              "painting",
+              "drawing",
+              "sketch",
+              "oil painting",
+              "watercolor",
+              "print",
+              "canvas",
+              "portrait",
+              "portrayal",
+              "illustration",
+              "artwork",
+              "depiction",
+              "likeness",
+              "representation",
+              "image",
+              "icon",
+              "miniature",
+              "landscape; Morefresco",
+              "mural",
+              "wall painting; informaloil \"pictures in an art gallery\""
+            ]
+          },
+          {
+            "definition": "a photograph.",
+            "examples": [
+              "we were warned not to take pictures"
+            ],
+            "synonyms": [
+              "photograph",
+              "photo",
+              "snap",
+              "snapshot",
+              "shot",
+              "print",
+              "slide",
+              "transparency",
+              "exposure",
+              "still",
+              "enlargement \"we were told not to take pictures\""
+            ]
+          },
+          {
+            "definition": "a portrait.",
+            "examples": [
+              "have her picture painted"
+            ]
+          },
+          {
+            "definition": "a person or thing resembling another closely.",
+            "examples": [
+              "she is the very picture of her mother"
+            ],
+            "synonyms": [
+              "personification",
+              "embodiment",
+              "epitome",
+              "essence",
+              "quintessence",
+              "perfect example",
+              "soul",
+              "model \"the picture of health\""
+            ]
+          },
+          {
+            "definition": "an impression of something formed from an account or description.",
+            "examples": [
+              "a full picture of the disaster had not yet emerged"
+            ],
+            "synonyms": [
+              "concept",
+              "idea",
+              "impression",
+              "view",
+              "(mental) image",
+              "vision",
+              "visualization",
+              "notion \"do you have a picture of what your ideal home might look like?\""
+            ]
+          },
+          {
+            "definition": "an image on a television screen."
+          },
+          {
+            "definition": "a movie.",
+            "examples": [
+              "it took five honors, including best picture"
+            ],
+            "synonyms": [
+              "movie",
+              "film",
+              "motion picture",
+              "feature film; Moredirector's cut; informalflick; datedmoving picture \"a picture starring Robert de Niro\""
+            ]
+          },
+          {
+            "definition": "the movies.",
+            "examples": [
+              "plural noun: the pictures"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "picture"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pictures"
+          },
+          {
+            "part": "past tense",
+            "variant": "pictured"
+          },
+          {
+            "part": "past participle",
+            "variant": "pictured"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "picturing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "represent (someone or something) in a photograph or picture.",
+            "examples": [
+              "he is pictured with party guests"
+            ],
+            "synonyms": [
+              "photograph",
+              "take a photograph/photo of",
+              "snap",
+              "shoot",
+              "film More\"he was pictured with his guests\"paint",
+              "draw",
+              "sketch",
+              "depict",
+              "delineate",
+              "portray",
+              "show",
+              "illustrate \"in the drawing they were pictured against a snowy background\""
+            ]
+          },
+          {
+            "definition": "describe (someone or something) in a certain way.",
+            "examples": [
+              "the markets in London and New York are usually pictured in contrasting terms"
+            ]
+          },
+          {
+            "definition": "form a mental image of.",
+            "examples": [
+              "she pictured Benjamin waiting"
+            ],
+            "synonyms": [
+              "visualize",
+              "see in one's mind's eye",
+              "conjure up a picture/image of",
+              "imagine",
+              "see",
+              "evoke \"Anne still pictured Richard as he had been\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

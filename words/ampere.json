@@ -1,0 +1,24 @@
+{
+  "word": "ampere",
+  "syllables": [
+    "am",
+    "pere"
+  ],
+  "pronunciation": "ˈamˌpirˈamˌper",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "symbol",
+          "variant": "A"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a unit of electric current equal to a flow of one coulomb per second."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+[
+  {
+    "word": "brief",
+    "syllables": [
+      "brief"
+    ],
+    "pronunciation": "brēf",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "brief"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "briefer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "briefest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of short duration.",
+            "examples": [
+              "the president made a brief visit to Moscow"
+            ],
+            "synonyms": [
+              "short",
+              "flying",
+              "fleeting",
+              "hasty",
+              "hurried",
+              "quick",
+              "cursory",
+              "perfunctory; Moretemporary",
+              "short-lived",
+              "momentary",
+              "transient; informalquickie \"a brief visit\""
+            ],
+            "antonyms": [
+              "long",
+              "lengthy"
+            ]
+          },
+          {
+            "definition": "concise in expression; using few words.",
+            "examples": [
+              "introductions were brief and polite"
+            ],
+            "synonyms": [
+              "concise",
+              "succinct",
+              "short",
+              "pithy",
+              "incisive",
+              "abridged",
+              "condensed",
+              "compressed",
+              "abbreviated",
+              "compact",
+              "thumbnail",
+              "capsule",
+              "potted; formalcompendious \"a brief account\""
+            ],
+            "antonyms": [
+              "lengthy",
+              "long-winded"
+            ]
+          },
+          {
+            "definition": "(of a piece of clothing) not covering much of the body; scanty.",
+            "examples": [
+              "Alice sported a pair of extremely brief black shorts"
+            ],
+            "synonyms": [
+              "skimpy",
+              "scanty",
+              "short; revealing \"a pair of brief shorts\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "brief"
+          },
+          {
+            "part": "plural noun",
+            "variant": "briefs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a concise statement or summary.",
+            "examples": [
+              "their comments were cribbed right from industry briefs"
+            ],
+            "synonyms": [
+              "outline",
+              "summary",
+              "synopsis",
+              "précis",
+              "sketch",
+              "digest \"a brief of our requirements\""
+            ]
+          },
+          {
+            "definition": "a set of instructions given to a person about a job or task.",
+            "examples": [
+              "his brief is to turn around the country's economy"
+            ]
+          },
+          {
+            "definition": "a written summary of the facts and legal points supporting one side of a case, for presentation to a court."
+          },
+          {
+            "definition": "a letter from the pope to a person or community on a matter of discipline."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "brief"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "briefs"
+          },
+          {
+            "part": "past tense",
+            "variant": "briefed"
+          },
+          {
+            "part": "past participle",
+            "variant": "briefed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "briefing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "instruct or inform (someone) thoroughly, especially in preparation for a task.",
+            "examples": [
+              "she briefed him on last week's decisions"
+            ],
+            "synonyms": [
+              "inform",
+              "tell",
+              "update",
+              "notify",
+              "advise",
+              "apprise; Moreprepare",
+              "prime",
+              "instruct; informalfill in",
+              "clue in",
+              "put in the picture \"employees were briefed about the decision\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "owe",
+    "syllables": [
+      "owe"
+    ],
+    "pronunciation": "ō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "owed"
+          },
+          {
+            "part": "past participle",
+            "variant": "owed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have an obligation to pay or repay (something, especially money) in return for something received.",
+            "examples": [
+              "they have denied they owe money to the company"
+            ],
+            "synonyms": [
+              "be in debt to",
+              "be indebted to",
+              "be in arrears to",
+              "be under an obligation to \"I don't want to owe anyone\""
+            ]
+          },
+          {
+            "definition": "owe something, especially money, to (someone).",
+            "examples": [
+              "I owe you for the taxi"
+            ]
+          },
+          {
+            "definition": "be under a moral obligation to give someone (gratitude, respect, etc.).",
+            "examples": [
+              "I owe it to him to explain what's happened"
+            ]
+          },
+          {
+            "definition": "have something because of (someone or something).",
+            "examples": [
+              "he owed his success not to chance but to insight"
+            ]
+          },
+          {
+            "definition": "be indebted to someone or something for (something).",
+            "examples": [
+              "I owe my life to you"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

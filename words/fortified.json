@@ -1,0 +1,85 @@
+[
+  {
+    "word": "fortify",
+    "syllables": [
+      "for",
+      "ti",
+      "fy"
+    ],
+    "pronunciation": "ˈfôrdəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "fortified"
+          },
+          {
+            "part": "past participle",
+            "variant": "fortified"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strengthen (a place) with defensive works so as to protect it against attack.",
+            "examples": [
+              "the whole town was heavily fortified"
+            ],
+            "synonyms": [
+              "build defenses around",
+              "strengthen",
+              "secure",
+              "protect More\"the knights fortified their citadel\"strengthen",
+              "reinforce",
+              "toughen",
+              "consolidate",
+              "bolster",
+              "shore up",
+              "brace",
+              "buttress \"the wall had been fortified\""
+            ],
+            "antonyms": [
+              "weaken",
+              "expose"
+            ]
+          },
+          {
+            "definition": "strengthen or invigorate (someone) mentally or physically.",
+            "examples": [
+              "I was fortified by the knowledge that I was in a sympathetic house"
+            ],
+            "synonyms": [
+              "invigorate",
+              "strengthen",
+              "energize",
+              "enliven",
+              "liven up",
+              "animate",
+              "vitalize",
+              "rejuvenate",
+              "restore",
+              "revive",
+              "refresh; Moreinformalpep up",
+              "buck up",
+              "give a shot in the arm to \"I'll have a drink to fortify me\""
+            ],
+            "antonyms": [
+              "sedate",
+              "subdue"
+            ]
+          },
+          {
+            "definition": "strengthen (a drink) with alcohol.",
+            "examples": [
+              "fortified wine"
+            ]
+          },
+          {
+            "definition": "increase the nutritive value of (food), especially with vitamins."
+          }
+        ]
+      }
+    ]
+  }
+]

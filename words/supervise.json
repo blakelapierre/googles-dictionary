@@ -1,0 +1,81 @@
+[
+  {
+    "word": "supervise",
+    "syllables": [
+      "su",
+      "per",
+      "vise"
+    ],
+    "pronunciation": "ˈso͞opərˌvīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "supervise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "supervises"
+          },
+          {
+            "part": "past tense",
+            "variant": "supervised"
+          },
+          {
+            "part": "past participle",
+            "variant": "supervised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "supervising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "observe and direct the execution of (a task, project, or activity).",
+            "examples": [
+              "the sergeant left to supervise the loading of the trucks"
+            ],
+            "synonyms": [
+              "oversee",
+              "superintend",
+              "be in charge of",
+              "preside over",
+              "direct",
+              "manage",
+              "run",
+              "look after",
+              "be responsible for",
+              "govern",
+              "organize",
+              "handle",
+              "micromanage \"he had to supervise the loading\""
+            ]
+          },
+          {
+            "definition": "observe and direct the work of (someone).",
+            "examples": [
+              "nurses were supervised by a consulting psychiatrist"
+            ]
+          },
+          {
+            "definition": "keep watch over (someone) in the interest of their or others' security.",
+            "examples": [
+              "prisoners were supervised by two officers"
+            ],
+            "synonyms": [
+              "watch",
+              "oversee",
+              "keep an eye on",
+              "observe",
+              "monitor",
+              "mind; invigilate \"you may need to supervise the patient\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

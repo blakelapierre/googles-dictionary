@@ -1,0 +1,80 @@
+[
+  {
+    "word": "otherwise",
+    "syllables": [
+      "oth",
+      "er",
+      "wise"
+    ],
+    "pronunciation": "ˈəT͟Hərˌwīz",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "otherwise"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in circumstances different from those present or considered; or else.",
+            "examples": [
+              "the collection brings visitors who might not come to the college otherwise"
+            ],
+            "synonyms": [
+              "or",
+              "or else",
+              "if not \"hurry up",
+              "otherwise we'll be late\""
+            ]
+          },
+          {
+            "definition": "in other respects; apart from that.",
+            "examples": [
+              "an otherwise totally black cat with a single white whisker"
+            ],
+            "synonyms": [
+              "in other respects",
+              "apart from that \"she's exhausted",
+              "but otherwise she's fine\""
+            ]
+          },
+          {
+            "definition": "in a different way.",
+            "examples": [
+              "he means mischief—it's no good pretending otherwise"
+            ],
+            "synonyms": [
+              "in any other way",
+              "differently \"he could not have acted otherwise\""
+            ]
+          },
+          {
+            "definition": "as an alternative.",
+            "examples": [
+              "pre-Renaissance mathematician Leonardo Pisano, otherwise known as Fibonacci"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "otherwise"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a different state or situation.",
+            "examples": [
+              "if it were otherwise, we would be unable to acquire knowledge"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

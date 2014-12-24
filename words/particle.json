@@ -1,0 +1,84 @@
+[
+  {
+    "word": "particle",
+    "syllables": [
+      "par",
+      "ti",
+      "cle"
+    ],
+    "pronunciation": "ˈpärdək(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "particle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "particles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a minute portion of matter.",
+            "examples": [
+              "tiny particles of dust"
+            ],
+            "synonyms": [
+              "(tiny) bit",
+              "(tiny) piece",
+              "speck",
+              "spot",
+              "fleck; Morefragment",
+              "sliver",
+              "splinter \"minute particles of rock\""
+            ]
+          },
+          {
+            "definition": "the least possible amount.",
+            "examples": [
+              "he agrees without hearing the least particle of evidence"
+            ],
+            "synonyms": [
+              "iota",
+              "jot",
+              "whit",
+              "bit",
+              "scrap",
+              "shred",
+              "crumb",
+              "drop",
+              "hint",
+              "touch",
+              "trace",
+              "suggestion",
+              "whisper",
+              "suspicion",
+              "scintilla; informalsmidgen \"he never showed a particle of sympathy\""
+            ]
+          },
+          {
+            "definition": "another term for elementary particle."
+          },
+          {
+            "definition": "another term for subatomic particle."
+          },
+          {
+            "definition": "a hypothetical object having mass but no physical size."
+          },
+          {
+            "definition": "a minor function word that has comparatively little meaning and does not inflect, in particular."
+          },
+          {
+            "definition": "(in English) any of the class of words such as in, up, off, over, used with verbs to make phrasal verbs."
+          },
+          {
+            "definition": "(in ancient Greek) any of the class of words such as de and ge, used for contrast and emphasis."
+          }
+        ]
+      }
+    ]
+  }
+]

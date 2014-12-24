@@ -1,0 +1,55 @@
+[
+  {
+    "word": "unawares",
+    "syllables": [
+      "un",
+      "a",
+      "wares"
+    ],
+    "pronunciation": "ˌənəˈwerz",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "unawares"
+          },
+          {
+            "part": "adverb",
+            "variant": "unaware"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "without being aware of a situation.",
+            "examples": [
+              "it will be flagged so that people don't stumble on it unawares"
+            ],
+            "synonyms": [
+              "by surprise",
+              "unexpectedly",
+              "without warning",
+              "suddenly",
+              "abruptly",
+              "unprepared",
+              "off-guard; Moreinformalwith one's pants down",
+              "napping \"brigands caught them unawares\"unknowingly",
+              "unwittingly",
+              "unconsciously; unintentionally",
+              "inadvertently",
+              "accidentally",
+              "by mistake \"the chipmunk",
+              "unawares",
+              "approached the waiting cat\""
+            ],
+            "antonyms": [
+              "prepared",
+              "knowingly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

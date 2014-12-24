@@ -1,0 +1,71 @@
+[
+  {
+    "word": "representative",
+    "syllables": [
+      "rep",
+      "re",
+      "sen",
+      "ta",
+      "tive"
+    ],
+    "pronunciation": "ˌreprəˈzen(t)ədiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "representatives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person chosen or appointed to act or speak for another or others, in particular.",
+            "examples": [
+              "spokesperson, spokesman, spokeswoman, agent, official, mouthpiece a representative of the medical profession"
+            ]
+          },
+          {
+            "definition": "an agent of a firm who travels to potential clients to sell its products.",
+            "examples": [
+              "salesperson, salesman, saleswoman, agent; rep one of our representatives will show you our new line of pop-up books"
+            ]
+          },
+          {
+            "definition": "an employee of a travel company who looks after the needs of its vacationing clients."
+          },
+          {
+            "definition": "a person chosen or elected to speak and act on behalf of others in a legislative assembly or deliberative body.",
+            "examples": [
+              "legislator, lawmaker; Moresenator, congressman, congresswoman, member of Congress, alderman, alderwoman, alderperson, selectman, selectwoman, lawmaker; voice \"contact your representatives and urge them to protect our wetlands\"Moresenator, congressman, congresswoman, member of Congress, alderman, alderwoman, alderperson, selectman, selectwoman, lawmaker; voice contact your representatives and urge them to protect our wetlands"
+            ]
+          },
+          {
+            "definition": "a delegate who attends a conference, negotiations, legal hearing, etc., so as to represent the interests of another person or group.",
+            "examples": [
+              "delegate, commissioner, ambassador, attaché, envoy, emissary, chargé d'affaires, deputy the Cambodian representative at the UN"
+            ]
+          },
+          {
+            "definition": "a person who takes the place of another on a ceremonial or official occasion.",
+            "examples": [
+              "deputy, substitute, stand-in, proxy he acted as his father's representative"
+            ]
+          },
+          {
+            "definition": "an example of a class or group.",
+            "examples": [
+              "fossil representatives of lampreys and hagfishes"
+            ],
+            "synonyms": [
+              "example",
+              "specimen",
+              "exemplar",
+              "exemplification \"fossil representatives of lampreys\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

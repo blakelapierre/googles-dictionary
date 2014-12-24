@@ -1,0 +1,134 @@
+[
+  {
+    "word": "table",
+    "syllables": [
+      "ta",
+      "ble"
+    ],
+    "pronunciation": "ˈtābəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "tables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed, and that can be used for such purposes as eating, writing, working, or playing games.",
+            "examples": [
+              "stand, dining table, kitchen table, coffee table; Morecounter, work surface, worktable, workbench; bar, buffet; desk; nightstand \"put the plates on the table\"Morecounter, work surface, worktable, workbench; bar, buffet; desk; nightstand put the plates on the table"
+            ]
+          },
+          {
+            "definition": "food provided in a restaurant or household.",
+            "examples": [
+              "he was reputed to have the finest French table of the time"
+            ],
+            "synonyms": [
+              "meal",
+              "food",
+              "fare",
+              "menu",
+              "nourishment; Moreeatables",
+              "provisions; informalspread",
+              "grub",
+              "chow",
+              "eats",
+              "nosh; literaryviands; datedvictuals \"he provides an excellent table\""
+            ]
+          },
+          {
+            "definition": "a group seated at a table for a meal.",
+            "examples": [
+              "the whole table was in gales of laughter"
+            ]
+          },
+          {
+            "definition": "a meeting place or forum for formal discussions held to settle an issue or dispute.",
+            "examples": [
+              "noun: the table"
+            ]
+          },
+          {
+            "definition": "the dummy hand (which is exposed on the table).",
+            "examples": [
+              "they made the hand easily with the aid of a club ruff on the table"
+            ]
+          },
+          {
+            "definition": "a set of facts or figures systematically displayed, especially in columns.",
+            "examples": [
+              "the population has grown, as shown in table 1"
+            ],
+            "synonyms": [
+              "chart",
+              "diagram",
+              "figure",
+              "graph",
+              "plan; Morelist",
+              "tabulation",
+              "index \"the report has numerous tables\""
+            ]
+          },
+          {
+            "definition": "a collection of data stored in memory as a series of records, each defined by a unique key stored with it."
+          },
+          {
+            "definition": "a flat surface, in particular."
+          },
+          {
+            "definition": "a flat, typically rectangular, vertical surface."
+          },
+          {
+            "definition": "a horizontal molding, especially a cornice."
+          },
+          {
+            "definition": "a slab of wood or stone bearing an inscription."
+          },
+          {
+            "definition": "a flat surface of a gem."
+          },
+          {
+            "definition": "a cut gem with two flat faces."
+          },
+          {
+            "definition": "each half or quarter of a folding board for backgammon."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "postpone consideration of.",
+            "examples": [
+              "I'd like the issue to be tabled for the next few months"
+            ],
+            "synonyms": [
+              "postpone",
+              "delay",
+              "defer",
+              "sideline",
+              "put on the back burner \"the council tabled the rezoning issue until April\""
+            ]
+          },
+          {
+            "definition": "present formally for discussion or consideration at a meeting.",
+            "examples": [
+              "an MP tabled an amendment to the bill"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

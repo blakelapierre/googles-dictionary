@@ -1,0 +1,65 @@
+[
+  {
+    "word": "climate",
+    "syllables": [
+      "cli",
+      "mate"
+    ],
+    "pronunciation": "ˈklīmit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "climate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "climates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the weather conditions prevailing in an area in general or over a long period.",
+            "examples": [
+              "our cold, wet climate"
+            ],
+            "synonyms": [
+              "weather conditions",
+              "weather; atmospheric conditions \"the mild climate\""
+            ]
+          },
+          {
+            "definition": "a region with particular prevailing weather conditions.",
+            "examples": [
+              "vacationing in a warm climate"
+            ],
+            "synonyms": [
+              "region",
+              "area",
+              "zone",
+              "country",
+              "place; literaryclime \"they come from a colder climate\""
+            ]
+          },
+          {
+            "definition": "the prevailing trend of public opinion or of another aspect of public life.",
+            "examples": [
+              "the current economic climate"
+            ],
+            "synonyms": [
+              "atmosphere",
+              "mood",
+              "feeling",
+              "ambience",
+              "tenor; Moretendency",
+              "ethos",
+              "attitude; milieu; informalvibe(s) \"the political climate\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

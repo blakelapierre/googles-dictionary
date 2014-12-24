@@ -1,0 +1,93 @@
+{
+  "word": "horse",
+  "syllables": [
+    "horse"
+  ],
+  "pronunciation": "hôrs",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "horse"
+        },
+        {
+          "part": "plural noun",
+          "variant": "horses"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads.",
+          "examples": [
+            "mount, charger, cob, nag; Morepony; foal, yearling, colt, stallion, gelding, mare, filly; bronco; datedstepper; archaicsteed \"Nadine boards and grooms horses\"Morepony; foal, yearling, colt, stallion, gelding, mare, filly; bronco; stepper; steed Nadine boards and grooms horses"
+          ]
+        },
+        {
+          "definition": "an adult male horse; a stallion or gelding."
+        },
+        {
+          "definition": "a wild mammal of the horse family."
+        },
+        {
+          "definition": "cavalry.",
+          "examples": [
+            "plural noun: horse"
+          ]
+        },
+        {
+          "definition": "a frame or structure on which something is mounted or supported, especially a sawhorse."
+        },
+        {
+          "definition": "a horizontal bar, rail, or rope in the rigging of a sailing ship for supporting something."
+        },
+        {
+          "definition": "short for pommel horse or vaulting horse."
+        },
+        {
+          "definition": "heroin."
+        },
+        {
+          "definition": "a unit of horsepower.",
+          "examples": [
+            "the huge 63-horse 701-cc engine"
+          ]
+        },
+        {
+          "definition": "an obstruction in a vein."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "horse"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "horses"
+        },
+        {
+          "part": "past tense",
+          "variant": "horsed"
+        },
+        {
+          "part": "past participle",
+          "variant": "horsed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "horsing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "provide (a person or vehicle) with a horse or horses."
+        }
+      ]
+    }
+  ]
+}

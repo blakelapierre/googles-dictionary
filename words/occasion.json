@@ -1,0 +1,152 @@
+[
+  {
+    "word": "occasion",
+    "syllables": [
+      "oc",
+      "ca",
+      "sion"
+    ],
+    "pronunciation": "əˈkāZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "occasion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "occasions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a particular time or instance of an event.",
+            "examples": [
+              "on one occasion I stayed up until two in the morning"
+            ],
+            "synonyms": [
+              "time",
+              "instance",
+              "moment",
+              "juncture",
+              "point; Moreevent",
+              "occurrence",
+              "affair",
+              "incident",
+              "episode",
+              "experience; situation",
+              "case",
+              "circumstance \"a previous occasion\""
+            ]
+          },
+          {
+            "definition": "a special or noteworthy event, ceremony, or celebration.",
+            "examples": [
+              "she was presented with a gold watch to mark the occasion"
+            ],
+            "synonyms": [
+              "social event",
+              "event",
+              "affair",
+              "function",
+              "celebration",
+              "party",
+              "get-together",
+              "gathering",
+              "after-party; Moreinformaldo",
+              "bash \"a family occasion\""
+            ]
+          },
+          {
+            "definition": "a suitable or opportune time for doing something.",
+            "examples": [
+              "elections are an occasion for registering protest votes"
+            ],
+            "synonyms": [
+              "opportunity",
+              "right moment",
+              "opportune time",
+              "chance",
+              "opening",
+              "window \"I doubt if the occasion will arise\""
+            ]
+          },
+          {
+            "definition": "reason; cause.",
+            "examples": [
+              "it's the first time that I've had occasion to complain"
+            ],
+            "synonyms": [
+              "reason",
+              "cause",
+              "call",
+              "grounds",
+              "justification",
+              "need",
+              "motive",
+              "inducement \"it's the first time I've had occasion to complain\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "occasion"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "occasions"
+          },
+          {
+            "part": "past tense",
+            "variant": "occasioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "occasioned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "occasioning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something).",
+            "examples": [
+              "something vital must have occasioned this visit"
+            ],
+            "synonyms": [
+              "cause",
+              "give rise to",
+              "bring about",
+              "result in",
+              "lead to",
+              "prompt",
+              "elicit",
+              "call forth",
+              "evoke",
+              "make for",
+              "produce",
+              "create",
+              "arouse",
+              "generate",
+              "engender",
+              "precipitate",
+              "provoke",
+              "stir up",
+              "inspire",
+              "spark (off)",
+              "trigger; literarybeget \"her situation occasioned a good deal of sympathy\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "word": "rank",
+    "syllables": [
+      "rank"
+    ],
+    "pronunciation": "raNGk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rank"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ranks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a position in the hierarchy of the armed forces.",
+            "examples": [
+              "an army officer of fairly high rank"
+            ]
+          },
+          {
+            "definition": "a position within the hierarchy of an organization or society.",
+            "examples": [
+              "only two cabinet members had held ministerial rank before"
+            ],
+            "synonyms": [
+              "position",
+              "level",
+              "grade",
+              "echelon; Moreclass",
+              "status",
+              "standing; datedstation \"she was elevated to an administrative rank\""
+            ]
+          },
+          {
+            "definition": "high social position.",
+            "examples": [
+              "persons of rank and breeding"
+            ],
+            "synonyms": [
+              "high standing",
+              "blue blood",
+              "high birth",
+              "nobility",
+              "aristocracy; Moreeminence",
+              "distinction",
+              "prestige; prominence",
+              "influence",
+              "consequence",
+              "power \"a family of rank\""
+            ]
+          },
+          {
+            "definition": "a number specifying position in a numerically ordered series."
+          },
+          {
+            "definition": "a single line of soldiers or police officers drawn up abreast.",
+            "examples": [
+              "row, line, file, column, string, train, procession a rank of riflemen"
+            ]
+          },
+          {
+            "definition": "common soldiers as opposed to officers.",
+            "examples": [
+              "plural noun: the ranks"
+            ]
+          },
+          {
+            "definition": "the people belonging to or constituting a group or class.",
+            "examples": [
+              "the ranks of the unemployed"
+            ]
+          },
+          {
+            "definition": "a regular row or line of things or people.",
+            "examples": [
+              "conifer plantations growing in serried ranks"
+            ]
+          },
+          {
+            "definition": "each of the eight rows of eight squares running from side to side across a chessboard."
+          },
+          {
+            "definition": "the value or the order of the largest nonzero determinant of a given matrix."
+          },
+          {
+            "definition": "an analogous quantity in other kinds of groups."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rank"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ranks"
+          },
+          {
+            "part": "past tense",
+            "variant": "ranked"
+          },
+          {
+            "part": "past participle",
+            "variant": "ranked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "ranking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give (someone or something) a rank or place within a grading system.",
+            "examples": [
+              "rank them in order of preference"
+            ],
+            "synonyms": [
+              "classify",
+              "class",
+              "categorize",
+              "rate",
+              "grade",
+              "bracket",
+              "group",
+              "pigeonhole",
+              "designate; Morecatalog",
+              "file",
+              "list \"this orchid is ranked as endangered\""
+            ]
+          },
+          {
+            "definition": "have a specified rank or place within a grading system.",
+            "examples": [
+              "he ranks with Newman as one of the outstanding English theologians"
+            ],
+            "synonyms": [
+              "have a rank",
+              "be graded",
+              "have a status",
+              "be classed",
+              "be classified",
+              "be categorized; belong \"she ranked below the others\""
+            ]
+          },
+          {
+            "definition": "take precedence over (someone) in respect to rank; outrank.",
+            "examples": [
+              "the Secretary of State ranks all the other members of the cabinet"
+            ]
+          },
+          {
+            "definition": "arrange in a rank or ranks.",
+            "examples": [
+              "the tents were ranked in orderly rows"
+            ],
+            "synonyms": [
+              "prioritize",
+              "order",
+              "organize",
+              "arrange",
+              "list; triage \"he ranked them in order of experience\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rank",
+    "syllables": [
+      "rank"
+    ],
+    "pronunciation": "raNGk",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "rank"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "ranker"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "rankest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of vegetation) growing too thickly and coarsely.",
+            "examples": [
+              "abundant, lush, luxuriant, dense, profuse, vigorous, overgrown; jungly rank vegetation"
+            ],
+            "antonyms": [
+              "sparse"
+            ]
+          },
+          {
+            "definition": "(especially of air or water) having a foul or offensive smell.",
+            "examples": [
+              "offensive, unpleasant, nasty, revolting, sickening, obnoxious, noxious; Morefoul, fetid, smelly, stinking, reeking, high, off, rancid, putrid, malodorous; literarynoisome; informalminging, pongy \"a rank smell\"Morefoul, fetid, smelly, stinking, reeking, high, off, rancid, putrid, malodorous; noisome; minging, pongy a rank smell"
+            ],
+            "antonyms": [
+              "pleasant"
+            ]
+          },
+          {
+            "definition": "very unpleasant.",
+            "examples": [
+              "the tea at work is nice but the coffee's pretty rank"
+            ]
+          },
+          {
+            "definition": "(especially of something bad or deficient) complete and utter (used for emphasis).",
+            "examples": [
+              "rank stupidity"
+            ],
+            "synonyms": [
+              "downright",
+              "utter",
+              "outright",
+              "out-and-out",
+              "absolute",
+              "complete",
+              "sheer",
+              "arrant",
+              "thoroughgoing",
+              "unqualified",
+              "unmitigated",
+              "positive",
+              "perfect",
+              "patent",
+              "pure",
+              "total; archaicarrant \"rank stupidity\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

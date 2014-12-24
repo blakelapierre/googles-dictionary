@@ -1,0 +1,82 @@
+[
+  {
+    "word": "identical",
+    "syllables": [
+      "i",
+      "den",
+      "ti",
+      "cal"
+    ],
+    "pronunciation": "ˌīˈden(t)ək(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "identical"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "similar in every detail; exactly alike.",
+            "examples": [
+              "four girls in identical green outfits"
+            ],
+            "synonyms": [
+              "indistinguishable",
+              "(exactly) the same",
+              "uniform",
+              "twin",
+              "duplicate",
+              "interchangeable",
+              "synonymous",
+              "undifferentiated",
+              "equivalent",
+              "homogeneous",
+              "of a piece",
+              "cut from the same cloth; Morealike",
+              "like",
+              "matching",
+              "like (two) peas in a pod; similar \"wearing identical badges\""
+            ],
+            "antonyms": [
+              "different",
+              "unlike"
+            ]
+          },
+          {
+            "definition": "(of twins) developed from a single fertilized ovum, and therefore of the same sex and usually very similar in appearance."
+          },
+          {
+            "definition": "(of something encountered on separate occasions) the same.",
+            "examples": [
+              "she stole a suitcase from the identical station at which she had been arrested before"
+            ],
+            "synonyms": [
+              "same",
+              "very same",
+              "selfsame",
+              "very",
+              "one and the same; Moreaforementioned",
+              "aforesaid",
+              "aforenamed",
+              "above",
+              "above-stated; foregoing",
+              "preceding \"I used the identical technique\""
+            ],
+            "antonyms": [
+              "different"
+            ]
+          },
+          {
+            "definition": "expressing an identity.",
+            "examples": [
+              "an identical proposition"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

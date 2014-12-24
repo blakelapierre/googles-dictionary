@@ -1,0 +1,57 @@
+[
+  {
+    "word": "progression",
+    "syllables": [
+      "pro",
+      "gres",
+      "sion"
+    ],
+    "pronunciation": "prəˈɡreSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "progression"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a movement or development toward a destination or a more advanced state, especially gradually or in stages.",
+            "examples": [
+              "the normal progression from junior to senior status"
+            ],
+            "synonyms": [
+              "progress",
+              "advancement",
+              "movement",
+              "passage",
+              "march; Moredevelopment",
+              "evolution",
+              "growth \"progression to the next stage\""
+            ]
+          },
+          {
+            "definition": "a succession; a series.",
+            "examples": [
+              "plural noun: progressions"
+            ]
+          },
+          {
+            "definition": "a passage or movement from one note or chord to another.",
+            "examples": [
+              "a blues progression"
+            ]
+          },
+          {
+            "definition": "short for arithmetic progression, geometric progression, or harmonic progression."
+          },
+          {
+            "definition": "a predictive technique in which the daily movement of the planets, starting from the day of birth, represents a year in the subject's life."
+          }
+        ]
+      }
+    ]
+  }
+]

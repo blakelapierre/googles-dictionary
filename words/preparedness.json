@@ -1,0 +1,31 @@
+[
+  {
+    "word": "preparedness",
+    "syllables": [
+      "pre",
+      "par",
+      "ed",
+      "ness"
+    ],
+    "pronunciation": "prəˈper(ə)dnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "preparedness"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a state of readiness, especially for war.",
+            "examples": [
+              "the country maintained a high level of military preparedness"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

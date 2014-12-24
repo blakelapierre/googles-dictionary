@@ -1,0 +1,141 @@
+[
+  {
+    "word": "individual",
+    "syllables": [
+      "in",
+      "di",
+      "vid",
+      "u",
+      "al"
+    ],
+    "pronunciation": "ˌindəˈvij(o͞o)əl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "individual"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "single; separate.",
+            "examples": [
+              "individual tiny flowers"
+            ],
+            "synonyms": [
+              "single",
+              "separate",
+              "discrete",
+              "independent",
+              "solo; Moresole",
+              "lone",
+              "solitary",
+              "isolated \"exhibitions devoted to individual artists\""
+            ]
+          },
+          {
+            "definition": "of or for a particular person.",
+            "examples": [
+              "the individual needs of the children"
+            ]
+          },
+          {
+            "definition": "designed for use by one person.",
+            "examples": [
+              "individual serving dishes"
+            ]
+          },
+          {
+            "definition": "characteristic of a particular person or thing.",
+            "examples": [
+              "individual traits of style"
+            ],
+            "synonyms": [
+              "characteristic",
+              "distinctive",
+              "distinct",
+              "typical",
+              "particular",
+              "peculiar",
+              "personal",
+              "personalized",
+              "special; Moreoriginal",
+              "unique",
+              "exclusive",
+              "singular",
+              "idiosyncratic",
+              "different",
+              "unusual",
+              "novel",
+              "unorthodox",
+              "atypical",
+              "out of the ordinary",
+              "one of a kind \"the fashion world was eager to be rocked by her individual style\""
+            ]
+          },
+          {
+            "definition": "having a striking or unusual character; original.",
+            "examples": [
+              "she creates her own, highly individual, landscapes"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "individual"
+          },
+          {
+            "part": "plural noun",
+            "variant": "individuals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a single human being as distinct from a group, class, or family.",
+            "examples": [
+              "boat trips for parties and individuals"
+            ]
+          },
+          {
+            "definition": "a single member of a class.",
+            "examples": [
+              "they live in a group or as individuals, depending on the species"
+            ]
+          },
+          {
+            "definition": "a person of a specified kind.",
+            "examples": [
+              "the most selfish, egotistical individual I have ever met"
+            ],
+            "synonyms": [
+              "person",
+              "human being",
+              "mortal",
+              "soul",
+              "creature; Moreman",
+              "boy",
+              "woman",
+              "girl; character",
+              "personage; informaltype",
+              "sort",
+              "customer",
+              "guy \"Ed was never a particularly happy individual\""
+            ]
+          },
+          {
+            "definition": "a distinctive or original person.",
+            "examples": [
+              "individualist, free spirit, nonconformist, original, eccentric, character, maverick, rare bird, something else the anthology is dedicated to the math professor who most encouraged her to be an individual"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "word": "something",
+  "syllables": [
+    "some",
+    "thing"
+  ],
+  "pronunciation": "ˈsəmˌTHiNG",
+  "parts": [
+    {
+      "part": "pronoun",
+      "variants": [
+        {
+          "part": "pronoun",
+          "variant": "something"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a thing that is unspecified or unknown.",
+          "examples": [
+            "we stopped for something to eat"
+          ]
+        },
+        {
+          "definition": "used in various expressions indicating that a description or amount being stated is not exact.",
+          "examples": [
+            "a wry look, something between amusement and regret"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "something"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "used for emphasis with a following adjective functioning as an adverb.",
+          "examples": [
+            "my back hurts something terrible"
+          ]
+        },
+        {
+          "definition": "to some extent; somewhat.",
+          "examples": [
+            "the people were something scared"
+          ]
+        }
+      ]
+    }
+  ]
+}

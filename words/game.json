@@ -1,0 +1,192 @@
+[
+  {
+    "word": "game",
+    "syllables": [
+      "game"
+    ],
+    "pronunciation": "ɡām",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "game"
+          },
+          {
+            "part": "plural noun",
+            "variant": "games"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+            "examples": [
+              "pastime, diversion, entertainment, amusement, distraction, divertissement, recreation, sport, activity More\"Andrew and his friends invented a new game\"match, contest, tournament, meet; final, playoff; deathmatch \"the team hasn't lost a game all season\"MoreAndrew and his friends invented a new gamematch, contest, tournament, meet; final, playoff; deathmatch the team hasn't lost a game all season"
+            ]
+          },
+          {
+            "definition": "a complete episode or period of play, typically ending in a definite result.",
+            "examples": [
+              "a baseball game"
+            ]
+          },
+          {
+            "definition": "a single portion of play forming a scoring unit in a match, especially in tennis."
+          },
+          {
+            "definition": "a score of 100 points for tricks bid and made (the best of three games constituting a rubber)."
+          },
+          {
+            "definition": "a person's performance in a game; a person's standard or method of play.",
+            "examples": [
+              "he will attempt to raise his game to another level"
+            ]
+          },
+          {
+            "definition": "a meeting for sporting contests, especially track and field.",
+            "examples": [
+              "the Olympic Games"
+            ]
+          },
+          {
+            "definition": "sports and athletic activities as organized in a school."
+          },
+          {
+            "definition": "the equipment for a game, especially a board game or a computer game."
+          },
+          {
+            "definition": "a type of activity or business, especially when regarded as a game.",
+            "examples": [
+              "this was a game of shuttle diplomacy at which I had become adept"
+            ]
+          },
+          {
+            "definition": "a secret and clever plan or trick.",
+            "examples": [
+              "I was on to his little game, but I didn't want him to know"
+            ],
+            "synonyms": [
+              "scheme",
+              "plot",
+              "ploy",
+              "stratagem",
+              "strategy",
+              "gambit",
+              "tactics; Moretrick",
+              "device",
+              "maneuver",
+              "wile",
+              "dodge",
+              "ruse",
+              "machination",
+              "contrivance",
+              "subterfuge; prank",
+              "practical joke; informalscam; archaicshift \"I spoiled his little game\""
+            ]
+          },
+          {
+            "definition": "wild mammals or birds hunted for sport or food."
+          },
+          {
+            "definition": "the flesh of mammals or birds, used as food.",
+            "examples": [
+              "wild animals, wild fowl, big game she lived off fish and game"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "game"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "gamer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "gamest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "eager and willing to do something new or challenging.",
+            "examples": [
+              "they were game for anything after the traumas of Monday"
+            ],
+            "synonyms": [
+              "brave",
+              "courageous",
+              "plucky",
+              "bold",
+              "daring",
+              "intrepid",
+              "valiant",
+              "stouthearted",
+              "mettlesome; Morefearless",
+              "dauntless",
+              "undaunted",
+              "unflinching; informalgutsy",
+              "gutty",
+              "spunky",
+              "skookum \"they weren't game enough to join in\"willing",
+              "prepared",
+              "ready",
+              "disposed",
+              "of a mind; eager",
+              "keen",
+              "enthusiastic",
+              "up for it \"I need a bit of help—are you game?\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "game"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "games"
+          },
+          {
+            "part": "past tense",
+            "variant": "gamed"
+          },
+          {
+            "part": "past participle",
+            "variant": "gamed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "gaming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "play games of chance for money.",
+            "examples": [
+              "gamble, bet, place/lay bets they were drinking and gaming all evening"
+            ]
+          },
+          {
+            "definition": "play video or computer games."
+          },
+          {
+            "definition": "manipulate (a situation), typically in a way that is unfair or unscrupulous.",
+            "examples": [
+              "it was very easy for a few big companies to game the system"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

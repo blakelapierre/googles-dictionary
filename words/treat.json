@@ -1,0 +1,183 @@
+[
+  {
+    "word": "treat",
+    "syllables": [
+      "treat"
+    ],
+    "pronunciation": "trēt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "treat"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "treats"
+          },
+          {
+            "part": "past tense",
+            "variant": "treated"
+          },
+          {
+            "part": "past participle",
+            "variant": "treated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "treating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "behave toward or deal with in a certain way.",
+            "examples": [
+              "she had been brutally treated"
+            ],
+            "synonyms": [
+              "behave toward",
+              "act toward; Moredeal with",
+              "handle; literaryuse \"Charlotte treated him very badly\""
+            ]
+          },
+          {
+            "definition": "regard something as being of a specified nature with implications for one's actions concerning it.",
+            "examples": [
+              "the names are being treated as classified information"
+            ],
+            "synonyms": [
+              "regard",
+              "consider",
+              "view",
+              "look upon",
+              "think of \"police are treating the fires as arson\""
+            ]
+          },
+          {
+            "definition": "give medical care or attention to; try to heal or cure.",
+            "examples": [
+              "the two were treated for cuts and bruises"
+            ],
+            "synonyms": [
+              "give medical care (to)",
+              "nurse",
+              "care for",
+              "tend (to)",
+              "help",
+              "give treatment (to)",
+              "attend (to)",
+              "administer (to); Moremedicate \"she was treated at St. Paul's Hospital\"cure",
+              "heal",
+              "remedy; fight",
+              "combat \"the plants may prove useful in treating cancer\""
+            ]
+          },
+          {
+            "definition": "apply a process or a substance to (something) to protect or preserve it or to give it particular properties.",
+            "examples": [
+              "linen creases badly unless it is treated with the appropriate finish"
+            ]
+          },
+          {
+            "definition": "present or discuss (a subject).",
+            "examples": [
+              "the lectures show a striking variation in the level at which subjects are treated"
+            ],
+            "synonyms": [
+              "tackle",
+              "deal with",
+              "handle",
+              "discuss",
+              "present",
+              "explore",
+              "investigate",
+              "approach; Moreconsider",
+              "study",
+              "analyze \"the book treats its subject with insight and responsibility\""
+            ]
+          },
+          {
+            "definition": "provide someone with (food, drink, or entertainment) at one's own expense.",
+            "examples": [
+              "the old man had treated him to a drink or two"
+            ],
+            "synonyms": [
+              "buy (for) someone",
+              "take someone out for",
+              "give (to) someone; Morepay for (for someone); foot the bill for",
+              "pick up the tab for \"she treated him to an expensive meal\"regale with",
+              "entertain with/by",
+              "fête with",
+              "amuse with",
+              "divert with \"delegates were treated to an Indonesian dance show\""
+            ]
+          },
+          {
+            "definition": "give someone (something) as a favor.",
+            "examples": [
+              "he treated her to one of his smiles"
+            ]
+          },
+          {
+            "definition": "do or have something that gives one great pleasure.",
+            "examples": [
+              "treat yourself—you can diet tomorrow"
+            ]
+          },
+          {
+            "definition": "negotiate terms with someone, especially an opponent.",
+            "examples": [
+              "propagandists claimed that he was treating with the enemy"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "treat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "treats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an event or item that is out of the ordinary and gives great pleasure.",
+            "examples": [
+              "he wanted to take her to the movies as a treat"
+            ],
+            "synonyms": [
+              "celebration",
+              "entertainment",
+              "amusement; Moresurprise; party",
+              "excursion",
+              "outing",
+              "special event \"a birthday treat\"present",
+              "gift; delicacy",
+              "luxury",
+              "indulgence",
+              "extravagance",
+              "guilty pleasure; informalgoodie \"I bought you some chocolate as a treat\"pleasure",
+              "delight",
+              "boon",
+              "thrill",
+              "joy \"it was a real treat to see them\""
+            ]
+          },
+          {
+            "definition": "used with a possessive adjective to indicate that the person specified is paying for food, entertainment, etc., for someone else.",
+            "examples": [
+              "noun: one's treat; plural noun: one's treats"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

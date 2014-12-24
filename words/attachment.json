@@ -1,0 +1,84 @@
+[
+  {
+    "word": "attachment",
+    "syllables": [
+      "at",
+      "tach",
+      "ment"
+    ],
+    "pronunciation": "əˈtaCHmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "attachment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "attachments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an extra part or extension that is or can be attached to something to perform a particular function.",
+            "examples": [
+              "the food processor comes with a blender attachment"
+            ],
+            "synonyms": [
+              "accessory",
+              "fitting",
+              "extension",
+              "add-on",
+              "appendage \"the shower had a massage attachment\""
+            ]
+          },
+          {
+            "definition": "a computer file appended to an e-mail."
+          },
+          {
+            "definition": "the condition of being attached to something or someone, in particular."
+          },
+          {
+            "definition": "affection, fondness, or sympathy for someone or something.",
+            "examples": [
+              "she felt a sentimental attachment to the place"
+            ],
+            "synonyms": [
+              "bond with",
+              "closeness to/with",
+              "devotion to",
+              "loyalty to; Morefondness for",
+              "love for",
+              "affection for",
+              "feeling for; relationship with \"he has a strong attachment to his mother\""
+            ]
+          },
+          {
+            "definition": "an affectionate relationship between two people.",
+            "examples": [
+              "he formed an attachment with a young widow"
+            ]
+          },
+          {
+            "definition": "the action of attaching something.",
+            "examples": [
+              "the case has a loop for attachment to your belt"
+            ],
+            "synonyms": [
+              "fixing",
+              "fastening",
+              "linking",
+              "coupling",
+              "connection \"the attachment of safety restraints\""
+            ]
+          },
+          {
+            "definition": "legal seizure of property."
+          }
+        ]
+      }
+    ]
+  }
+]

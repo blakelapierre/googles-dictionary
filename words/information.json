@@ -1,0 +1,68 @@
+{
+  "word": "information",
+  "syllables": [
+    "in",
+    "for",
+    "ma",
+    "tion"
+  ],
+  "pronunciation": "ˌinfərˈmāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "information"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "facts provided or learned about something or someone.",
+          "examples": [
+            "a vital piece of information"
+          ],
+          "synonyms": [
+            "details",
+            "particulars",
+            "facts",
+            "figures",
+            "statistics",
+            "data; Moreknowledge",
+            "intelligence; instruction",
+            "advice",
+            "guidance",
+            "direction",
+            "counsel",
+            "enlightenment; news",
+            "word; hot tip; informalinfo",
+            "lowdown",
+            "dope",
+            "dirt",
+            "inside story",
+            "scoop",
+            "poop \"we'll give you the latest information\""
+          ]
+        },
+        {
+          "definition": "a formal criminal charge lodged with a court or magistrate by a prosecutor without the aid of a grand jury.",
+          "examples": [
+            "plural noun: informations"
+          ]
+        },
+        {
+          "definition": "what is conveyed or represented by a particular arrangement or sequence of things.",
+          "examples": [
+            "genetically transmitted information"
+          ]
+        },
+        {
+          "definition": "data as processed, stored, or transmitted by a computer."
+        },
+        {
+          "definition": "(in information theory) a mathematical quantity expressing the probability of occurrence of a particular sequence of symbols, impulses, etc., as contrasted with that of alternative sequences."
+        }
+      ]
+    }
+  ]
+}

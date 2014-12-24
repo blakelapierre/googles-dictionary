@@ -1,0 +1,183 @@
+[
+  {
+    "word": "slight",
+    "syllables": [
+      "slight"
+    ],
+    "pronunciation": "slīt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "slight"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "slighter"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "slightest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "small in degree; inconsiderable.",
+            "examples": [
+              "a slight increase"
+            ],
+            "synonyms": [
+              "small",
+              "modest",
+              "tiny",
+              "minute",
+              "inappreciable",
+              "negligible",
+              "insignificant",
+              "minimal",
+              "remote",
+              "slim",
+              "faint",
+              "razor-thin; Moreinformalminuscule; de minimis; formalexiguous \"the chance of success is slight\""
+            ],
+            "antonyms": [
+              "considerable"
+            ]
+          },
+          {
+            "definition": "(especially of a creative work) not profound or substantial; somewhat trivial or superficial.",
+            "examples": [
+              "a slight plot"
+            ],
+            "synonyms": [
+              "minor",
+              "inconsequential",
+              "trivial",
+              "unimportant",
+              "lightweight",
+              "superficial",
+              "shallow; de minimis \"the book is of slight consequence\""
+            ],
+            "antonyms": [
+              "substantial"
+            ]
+          },
+          {
+            "definition": "(of a person or their build) not sturdy and strongly built.",
+            "examples": [
+              "she was slight and delicate-looking"
+            ],
+            "synonyms": [
+              "slim",
+              "slender",
+              "petite",
+              "diminutive",
+              "small",
+              "delicate",
+              "dainty \"Elizabeth's slight figure\""
+            ],
+            "antonyms": [
+              "burly"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "slight"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "slights"
+          },
+          {
+            "part": "past tense",
+            "variant": "slighted"
+          },
+          {
+            "part": "past participle",
+            "variant": "slighted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "slighting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "insult (someone) by treating or speaking of them without proper respect or attention.",
+            "examples": [
+              "he was careful not to slight a guest"
+            ],
+            "synonyms": [
+              "insult",
+              "snub",
+              "rebuff",
+              "repulse",
+              "spurn",
+              "treat disrespectfully",
+              "give someone the cold shoulder",
+              "scorn; Moreinformalgive someone the brush-off",
+              "freeze out \"he had been slighted\"insulting",
+              "disparaging",
+              "derogatory",
+              "disrespectful",
+              "denigratory",
+              "pejorative",
+              "abusive",
+              "offensive",
+              "defamatory",
+              "slanderous",
+              "scurrilous; disdainful",
+              "scornful",
+              "contemptuous; archaiccontumelious \"one more slighting remark from you and I'm walking out that door\""
+            ],
+            "antonyms": [
+              "respect"
+            ]
+          },
+          {
+            "definition": "raze or destroy (a fortification)."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "slight"
+          },
+          {
+            "part": "plural noun",
+            "variant": "slights"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an insult caused by a failure to show someone proper respect or attention.",
+            "examples": [
+              "an unintended slight can create grudges"
+            ],
+            "synonyms": [
+              "insult",
+              "affront",
+              "snub",
+              "rebuff; Moreinformalput-down",
+              "brush-off",
+              "dig \"an unintended slight\""
+            ],
+            "antonyms": [
+              "compliment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+{
+  "word": "close",
+  "syllables": [
+    "close"
+  ],
+  "pronunciation": "klōz",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "closed"
+        },
+        {
+          "part": "past participle",
+          "variant": "closed"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "move or cause to move so as to cover an opening.",
+          "examples": [
+            "she jumped into the train just as the doors were closing"
+          ],
+          "synonyms": [
+            "shut",
+            "pull (shut)",
+            "push (shut)",
+            "slam; Morefasten",
+            "secure \"she closed the door\""
+          ],
+          "antonyms": [
+            "open"
+          ]
+        },
+        {
+          "definition": "block up (a hole or opening).",
+          "examples": [
+            "glass doors close off the living room from the hall"
+          ],
+          "synonyms": [
+            "block (up/off)",
+            "stop up",
+            "plug",
+            "seal (up/off)",
+            "shut up/off",
+            "cork",
+            "stopper",
+            "bung (up); Moreclog (up)",
+            "choke",
+            "obstruct \"close the hole\""
+          ],
+          "antonyms": [
+            "open",
+            "unblock"
+          ]
+        },
+        {
+          "definition": "bring two parts of (something) together so as to block its opening or bring it into a folded state.",
+          "examples": [
+            "Loretta closed her mouth"
+          ]
+        },
+        {
+          "definition": "gradually get nearer to someone or something.",
+          "examples": [
+            "they plotted a large group of aircraft about 130 miles away and closing fast"
+          ],
+          "synonyms": [
+            "catch up",
+            "close in",
+            "creep up",
+            "near",
+            "approach",
+            "gain on someone More\"the enemy was closing fast\"narrow",
+            "reduce",
+            "shrink",
+            "lessen",
+            "get smaller",
+            "diminish",
+            "contract \"the gap is closing\""
+          ],
+          "antonyms": [
+            "widen"
+          ]
+        },
+        {
+          "definition": "come into contact with (something) so as to encircle and hold it.",
+          "examples": [
+            "my fist closed around the weapon"
+          ],
+          "synonyms": [
+            "meet",
+            "join",
+            "connect; form a circle \"his arms closed around her\""
+          ]
+        },
+        {
+          "definition": "make (an electric circuit) continuous.",
+          "examples": [
+            "this will cause a relay to operate and close the circuit"
+          ]
+        },
+        {
+          "definition": "bring or come to an end.",
+          "examples": [
+            "the members were thanked for attending, and the meeting was closed"
+          ],
+          "synonyms": [
+            "end",
+            "conclude",
+            "finish",
+            "terminate",
+            "wind up",
+            "break off",
+            "halt",
+            "discontinue",
+            "dissolve; Moreadjourn",
+            "suspend \"he closed the meeting\""
+          ],
+          "antonyms": [
+            "open",
+            "begin"
+          ]
+        },
+        {
+          "definition": "(of a business, organization, or institution) cease to be in operation or accessible to the public, either permanently or at the end of a working day or other period of time.",
+          "examples": [
+            "the factory is to close with the loss of 150 jobs"
+          ],
+          "synonyms": [
+            "shut down",
+            "close down",
+            "cease production",
+            "cease trading",
+            "go out of business",
+            "go bankrupt",
+            "go into receivership",
+            "go into liquidation; Moreinformalfold",
+            "go bust \"the factory is to close\""
+          ],
+          "antonyms": [
+            "open"
+          ]
+        },
+        {
+          "definition": "finish speaking or writing.",
+          "examples": [
+            "we close with a point about truth"
+          ]
+        },
+        {
+          "definition": "bring (a business transaction) to a satisfactory conclusion.",
+          "examples": [
+            "he closed a deal with a metal dealer"
+          ],
+          "synonyms": [
+            "clinch",
+            "settle",
+            "secure",
+            "seal",
+            "confirm",
+            "establish; Moretransact",
+            "pull off; complete",
+            "conclude",
+            "fix",
+            "agree",
+            "finalize; informalwrap up \"he closed a deal\""
+          ]
+        },
+        {
+          "definition": "remove all the funds from (a bank account) and cease to use it."
+        },
+        {
+          "definition": "make (a data file) inaccessible after use, so that it is securely stored until required again."
+        }
+      ]
+    }
+  ]
+}

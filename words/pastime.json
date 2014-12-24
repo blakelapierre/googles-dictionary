@@ -1,0 +1,46 @@
+[
+  {
+    "word": "pastime",
+    "syllables": [
+      "pas",
+      "time"
+    ],
+    "pronunciation": "ˈpasˌtīm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pastime"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pastimes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an activity that someone does regularly for enjoyment rather than work; a hobby.",
+            "examples": [
+              "his favorite pastimes were shooting and golf"
+            ],
+            "synonyms": [
+              "hobby",
+              "leisure activity/pursuit",
+              "sport",
+              "game",
+              "recreation",
+              "amusement",
+              "diversion",
+              "avocation",
+              "entertainment",
+              "interest",
+              "sideline \"two of my favorite pastimes are softball and street hockey\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

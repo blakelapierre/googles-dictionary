@@ -1,0 +1,26 @@
+{
+  "word": "bye",
+  "syllables": [
+    "bye"
+  ],
+  "pronunciation": "bī",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "by"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the transfer of a competitor directly to the next round of a competition in the absence of an assigned opponent."
+        },
+        {
+          "definition": "one or more holes remaining unplayed after the match has been decided."
+        }
+      ]
+    }
+  ]
+}

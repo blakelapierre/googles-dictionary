@@ -1,0 +1,69 @@
+[
+  {
+    "word": "pervade",
+    "syllables": [
+      "per",
+      "vade"
+    ],
+    "pronunciation": "pərˈvād",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pervade"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pervades"
+          },
+          {
+            "part": "past tense",
+            "variant": "pervaded"
+          },
+          {
+            "part": "past participle",
+            "variant": "pervaded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pervading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of a smell) spread through and be perceived in every part of.",
+            "examples": [
+              "a smell of stale cabbage pervaded the air"
+            ],
+            "synonyms": [
+              "permeate",
+              "spread through",
+              "fill",
+              "suffuse",
+              "be diffused through",
+              "imbue",
+              "penetrate",
+              "filter through",
+              "percolate through",
+              "infuse",
+              "perfuse",
+              "flow through; Morecharge",
+              "steep",
+              "saturate",
+              "impregnate",
+              "inform \"the smell of floor polish pervaded the house\""
+            ]
+          },
+          {
+            "definition": "(of an influence, feeling, or quality) be present and apparent throughout.",
+            "examples": [
+              "the sense of crisis that pervaded Europe in the 1930s"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

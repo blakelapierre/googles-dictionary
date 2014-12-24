@@ -1,0 +1,172 @@
+[
+  {
+    "word": "flow",
+    "syllables": [
+      "flow"
+    ],
+    "pronunciation": "flō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "flow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "flows"
+          },
+          {
+            "part": "past tense",
+            "variant": "flowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "flowed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "flowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a fluid, gas, or electricity) move along or out steadily and continuously in a current or stream.",
+            "examples": [
+              "from here the river flows north"
+            ],
+            "synonyms": [
+              "run",
+              "course",
+              "glide",
+              "drift",
+              "circulate; Moretrickle",
+              "seep",
+              "ooze",
+              "dribble",
+              "drip",
+              "drizzle",
+              "spill; stream",
+              "swirl",
+              "surge",
+              "sweep",
+              "gush",
+              "cascade",
+              "pour",
+              "roll",
+              "rush \"the water flowed down the channel\""
+            ]
+          },
+          {
+            "definition": "(of the sea or a tidal river) move toward the land; rise."
+          },
+          {
+            "definition": "go from one place to another in a steady stream, typically in large numbers.",
+            "examples": [
+              "the firm is hoping the orders will keep flowing in"
+            ]
+          },
+          {
+            "definition": "(of clothing or hair) hang loosely in an easy and graceful manner.",
+            "examples": [
+              "her red hair flowed over her shoulders"
+            ]
+          },
+          {
+            "definition": "proceed or be produced smoothly, continuously, and effortlessly.",
+            "examples": [
+              "talk flowed freely around the table"
+            ],
+            "synonyms": [
+              "result",
+              "proceed",
+              "arise",
+              "follow",
+              "ensue",
+              "derive",
+              "stem",
+              "accrue; Moreoriginate",
+              "emanate",
+              "spring",
+              "emerge; be caused by",
+              "be brought about by",
+              "be produced by",
+              "be consequent on \"many questions flow from today's announcement\""
+            ]
+          },
+          {
+            "definition": "be available in copious quantities.",
+            "examples": [
+              "their talk and laughter grew louder as the excellent brandy flowed"
+            ]
+          },
+          {
+            "definition": "result from; be caused by.",
+            "examples": [
+              "there are certain advantages that may flow from that decision"
+            ]
+          },
+          {
+            "definition": "(of a solid) undergo a permanent change of shape under stress, without melting."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "flow"
+          },
+          {
+            "part": "plural noun",
+            "variant": "flows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of moving along in a steady, continuous stream.",
+            "examples": [
+              "the flow of water into the pond"
+            ]
+          },
+          {
+            "definition": "the rate or speed at which something flows.",
+            "examples": [
+              "under the ford the river backs up, giving a deep sluggish flow"
+            ]
+          },
+          {
+            "definition": "the rise of a tide or a river."
+          },
+          {
+            "definition": "a steady, continuous stream of something.",
+            "examples": [
+              "she eased the car into the flow of traffic"
+            ],
+            "synonyms": [
+              "movement",
+              "motion",
+              "current",
+              "flux",
+              "circulation; Moretrickle",
+              "ooze",
+              "percolation",
+              "drip; stream",
+              "swirl",
+              "surge",
+              "gush",
+              "rush",
+              "spate",
+              "tide \"a good flow of water\""
+            ]
+          },
+          {
+            "definition": "the gradual permanent deformation of a solid under stress, without melting."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "word": "original",
+    "syllables": [
+      "o",
+      "rig",
+      "i",
+      "nal"
+    ],
+    "pronunciation": "əˈrijənl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "original"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "present or existing from the beginning; first or earliest.",
+            "examples": [
+              "the original owner of the house"
+            ],
+            "synonyms": [
+              "indigenous",
+              "native",
+              "aboriginal",
+              "autochthonous; Morefirst",
+              "earliest",
+              "early \"the original inhabitants\""
+            ]
+          },
+          {
+            "definition": "created directly and personally by a particular artist; not a copy or imitation.",
+            "examples": [
+              "original Rembrandts"
+            ],
+            "synonyms": [
+              "first",
+              "earliest; Moreprimary; untouched",
+              "unedited",
+              "uncut \"I prefer the original version of the story\"authentic",
+              "genuine",
+              "actual",
+              "true",
+              "bona fide; informalkosher \"original Rembrandts\""
+            ]
+          },
+          {
+            "definition": "not dependent on other people's ideas; inventive and unusual.",
+            "examples": [
+              "a subtle and original thinker"
+            ],
+            "synonyms": [
+              "innovative",
+              "creative",
+              "imaginative",
+              "inventive; Morenew",
+              "novel",
+              "fresh",
+              "refreshing; unusual",
+              "unconventional",
+              "unorthodox",
+              "groundbreaking",
+              "pioneering",
+              "avant-garde",
+              "cutting-edge",
+              "unique",
+              "distinctive \"the film is highly original\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "original"
+          },
+          {
+            "part": "plural noun",
+            "variant": "originals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "something serving as a model or basis for imitations or copies.",
+            "examples": [
+              "the portrait may be a copy of the original"
+            ]
+          },
+          {
+            "definition": "the form or language in which something was first produced or created.",
+            "examples": [
+              "noun: the original"
+            ]
+          },
+          {
+            "definition": "a person or place on which a character or location in a literary work is based.",
+            "examples": [
+              "the paper where the original of the play's Walter Burns worked"
+            ]
+          },
+          {
+            "definition": "a book or recording that has not been previously made available in a different form.",
+            "examples": [
+              "paperback originals"
+            ]
+          },
+          {
+            "definition": "a garment made to order from a design specially prepared for a fashion collection."
+          },
+          {
+            "definition": "an eccentric or unusual person.",
+            "examples": [
+              "he was one of the true originals"
+            ],
+            "synonyms": [
+              "individualist",
+              "individual",
+              "eccentric",
+              "nonconformist",
+              "free spirit",
+              "maverick; Moreinformalcharacter",
+              "oddball \"he really is an original\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

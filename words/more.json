@@ -1,0 +1,101 @@
+{
+  "word": "more",
+  "syllables": [
+    "more"
+  ],
+  "pronunciation": "môr",
+  "parts": [
+    {
+      "part": "determiner & pronoun",
+      "variants": [
+        {
+          "part": "determiner",
+          "variant": "more"
+        },
+        {
+          "part": "pronoun",
+          "variant": "more"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "comparative of many, much."
+        },
+        {
+          "definition": "a greater or additional amount or degree.",
+          "examples": [
+            "I poured myself more coffee"
+          ],
+          "synonyms": [
+            "additional",
+            "further",
+            "added",
+            "extra",
+            "increased",
+            "new",
+            "other",
+            "supplementary More\"I could do with some more clothes\"extra",
+            "an additional amount",
+            "an additional amount",
+            "an addition",
+            "an increase \"we're going to need more\""
+          ],
+          "antonyms": [
+            "less",
+            "fewer"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "more"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "comparative of much."
+        },
+        {
+          "definition": "forming the comparative of adjectives and adverbs, especially those of more than one syllable.",
+          "examples": [
+            "for them, enthusiasm is more important than talent"
+          ]
+        },
+        {
+          "definition": "to a greater extent.",
+          "examples": [
+            "I like chicken more than turkey"
+          ],
+          "synonyms": [
+            "to a greater extent",
+            "further",
+            "some more",
+            "better \"he was able to concentrate more on his writing\""
+          ]
+        },
+        {
+          "definition": "extremely (used before an adjective conveying a positive feeling or attitude).",
+          "examples": [
+            "she is more than happy to oblige"
+          ]
+        },
+        {
+          "definition": "again.",
+          "examples": [
+            "repeat once more"
+          ]
+        },
+        {
+          "definition": "moreover.",
+          "examples": [
+            "he was rich, and more, he was handsome"
+          ]
+        }
+      ]
+    }
+  ]
+}

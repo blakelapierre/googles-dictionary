@@ -1,0 +1,142 @@
+{
+  "word": "angle",
+  "syllables": [
+    "an",
+    "gle"
+  ],
+  "pronunciation": "ˈaNGɡəl",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "angle"
+        },
+        {
+          "part": "plural noun",
+          "variant": "angles"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet."
+        },
+        {
+          "definition": "a corner, especially an external projection or an internal recess of a part of a building or other structure.",
+          "examples": [
+            "a skylight in the angle of the roof"
+          ],
+          "synonyms": [
+            "corner",
+            "intersection",
+            "point",
+            "apex \"the angle of the roof\""
+          ]
+        },
+        {
+          "definition": "slope; a measure of the inclination of two lines or surfaces with respect to each other, equal to the amount that one would have to be turned in order to point in the same direction as the other.",
+          "examples": [
+            "sloping at an angle of 33° to the horizontal"
+          ],
+          "synonyms": [
+            "gradient",
+            "slant",
+            "inclination \"the wall is sloping at an angle of 33°\""
+          ]
+        },
+        {
+          "definition": "a position from which something is viewed or along which it travels or acts, often as measured by its inclination from an implicit horizontal or vertical baseline.",
+          "examples": [
+            "from this angle, Maggie could not see Naomi's face"
+          ]
+        },
+        {
+          "definition": "a particular way of approaching or considering an issue or problem.",
+          "examples": [
+            "discussing the problems from every conceivable angle"
+          ],
+          "synonyms": [
+            "perspective",
+            "point of view",
+            "viewpoint",
+            "standpoint",
+            "position",
+            "aspect",
+            "slant",
+            "direction \"consider the problem from a different angle\""
+          ]
+        },
+        {
+          "definition": "one part of a larger subject, event, or problem.",
+          "examples": [
+            "a black prosecutor who downplayed the racial angle"
+          ]
+        },
+        {
+          "definition": "a bias or point of view.",
+          "examples": [
+            "Zimmer saw the world from an angle that few could understand"
+          ]
+        },
+        {
+          "definition": "each of the four mundane houses (the first, fourth, seventh, and tenth of the twelve divisions of the heavens) that extend counterclockwise from the cardinal points of the compass."
+        },
+        {
+          "definition": "angle iron or a similar construction material made of another metal."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "angle"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "angles"
+        },
+        {
+          "part": "past tense",
+          "variant": "angled"
+        },
+        {
+          "part": "past participle",
+          "variant": "angled"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "angling"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "direct or incline at an angle.",
+          "examples": [
+            "Anna angled her camera toward the tree"
+          ],
+          "synonyms": [
+            "tilt",
+            "slant",
+            "direct",
+            "turn \"Anna angled her camera toward the tree\""
+          ]
+        },
+        {
+          "definition": "move or be inclined at an angle.",
+          "examples": [
+            "the cab angled across two lanes and skidded to a stop"
+          ]
+        },
+        {
+          "definition": "present (information) to reflect a particular view or have a particular focus.",
+          "examples": [
+            "present, slant, orient, twist, bias angle your answer so that it is relevant"
+          ]
+        }
+      ]
+    }
+  ]
+}

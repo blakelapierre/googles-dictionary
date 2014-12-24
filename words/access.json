@@ -1,0 +1,127 @@
+[
+  {
+    "word": "access",
+    "syllables": [
+      "ac",
+      "cess"
+    ],
+    "pronunciation": "ˈakˌses",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "access"
+          },
+          {
+            "part": "plural noun",
+            "variant": "accesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a means of approaching or entering a place.",
+            "examples": [
+              "the staircase gives access to the top floor"
+            ],
+            "synonyms": [
+              "entrance",
+              "entry",
+              "way in",
+              "means of entry; Moreapproach",
+              "means of approach \"the building has a side access\""
+            ]
+          },
+          {
+            "definition": "the right or opportunity to use or benefit from something.",
+            "examples": [
+              "do you have access to a computer?"
+            ],
+            "synonyms": [
+              "(the) use of",
+              "permission to use/visit \"students have access to a photocopier\""
+            ]
+          },
+          {
+            "definition": "the right or opportunity to approach or see someone.",
+            "examples": [
+              "we were denied access to our grandson"
+            ],
+            "synonyms": [
+              "admission",
+              "admittance",
+              "entry",
+              "entrée",
+              "ingress",
+              "right of entry \"they were denied access to the stadium\""
+            ]
+          },
+          {
+            "definition": "the action or process of obtaining or retrieving information stored in a computer's memory.",
+            "examples": [
+              "this prevents unauthorized access or inadvertent deletion of the file"
+            ]
+          },
+          {
+            "definition": "denoting noncommercial broadcasting produced by local independent groups, rather than by professionals.",
+            "examples": [
+              "modifier noun: access"
+            ]
+          },
+          {
+            "definition": "an attack or outburst of an emotion.",
+            "examples": [
+              "I was suddenly overcome with an access of rage"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "access"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "accesses"
+          },
+          {
+            "part": "past tense",
+            "variant": "accessed"
+          },
+          {
+            "part": "past participle",
+            "variant": "accessed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "accessing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "approach or enter (a place).",
+            "examples": [
+              "single rooms have private baths accessed via the balcony"
+            ],
+            "synonyms": [
+              "enter",
+              "approach",
+              "gain entry to",
+              "gain access to \"you access the building from the south side\""
+            ]
+          },
+          {
+            "definition": "obtain, examine, or retrieve (data or a file).",
+            "examples": [
+              "retrieve, gain access to, obtain; read the program is used to access data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "word": "scheduled",
+    "syllables": [
+      "sched",
+      "uled"
+    ],
+    "pronunciation": "ˈskeˌjo͞old-əld",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "scheduled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "included in or planned according to a schedule.",
+            "examples": [
+              "the bus makes one scheduled thirty-minute stop"
+            ]
+          },
+          {
+            "definition": "(especially of an airline or flight) relating to or forming part of a regular service rather than specially chartered."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "schedule",
+    "syllables": [
+      "sched",
+      "ule"
+    ],
+    "pronunciation": "ˈskejəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "scheduled"
+          },
+          {
+            "part": "past participle",
+            "variant": "scheduled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arrange or plan (an event) to take place at a particular time.",
+            "examples": [
+              "the release of the single is scheduled for April"
+            ],
+            "synonyms": [
+              "arrange",
+              "organize",
+              "plan",
+              "program",
+              "timetable",
+              "set up",
+              "calendarize",
+              "line up",
+              "slate \"another meeting was scheduled for April 20\""
+            ]
+          },
+          {
+            "definition": "make arrangements for (someone or something) to do something.",
+            "examples": [
+              "he is scheduled to be released from prison this spring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

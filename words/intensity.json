@@ -1,0 +1,90 @@
+[
+  {
+    "word": "intensity",
+    "syllables": [
+      "in",
+      "ten",
+      "si",
+      "ty"
+    ],
+    "pronunciation": "inˈtensədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intensity"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intensities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being intense.",
+            "examples": [
+              "gazing into her face with disconcerting intensity"
+            ],
+            "synonyms": [
+              "strength",
+              "power",
+              "potency",
+              "force; Moreseverity",
+              "ferocity",
+              "vehemence",
+              "fierceness",
+              "harshness; magnitude",
+              "greatness",
+              "acuteness",
+              "extremity \"the intensity of the sun\"passion",
+              "ardor",
+              "fervor",
+              "fervency",
+              "zeal",
+              "vehemence",
+              "fire",
+              "heat",
+              "emotion; eagerness",
+              "animation",
+              "spirit",
+              "vigor",
+              "strength",
+              "energy; fanaticism \"many here today remember the intensity in Dr. King's voice\""
+            ],
+            "antonyms": [
+              "apathy",
+              "indifference"
+            ]
+          },
+          {
+            "definition": "an instance or degree of this.",
+            "examples": [
+              "an intensity that frightened her"
+            ]
+          },
+          {
+            "definition": "the measurable amount of a property, such as force, brightness, or a magnetic field.",
+            "examples": [
+              "hydrothermal processes of low intensity"
+            ],
+            "synonyms": [
+              "strength",
+              "power",
+              "potency",
+              "force; Moreseverity",
+              "ferocity",
+              "vehemence",
+              "fierceness",
+              "harshness; magnitude",
+              "greatness",
+              "acuteness",
+              "extremity \"the intensity of the sun\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

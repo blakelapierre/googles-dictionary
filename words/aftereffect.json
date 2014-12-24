@@ -1,0 +1,43 @@
+[
+  {
+    "word": "aftereffect",
+    "syllables": [
+      "af",
+      "ter",
+      "ef",
+      "fect"
+    ],
+    "pronunciation": "ˈaftərəˌfekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "after-effect"
+          },
+          {
+            "part": "plural noun",
+            "variant": "after-effects"
+          },
+          {
+            "part": "noun",
+            "variant": "aftereffect"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aftereffects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an effect that follows after the primary action of something.",
+            "examples": [
+              "he was suffering the aftereffects of the drug"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

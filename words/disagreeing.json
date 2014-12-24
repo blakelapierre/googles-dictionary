@@ -1,0 +1,84 @@
+[
+  {
+    "word": "disagree",
+    "syllables": [
+      "dis",
+      "a",
+      "gree"
+    ],
+    "pronunciation": "ˌdisəˈɡrē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "disagreeing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have or express a different opinion.",
+            "examples": [
+              "no one was willing to disagree with him"
+            ],
+            "synonyms": [
+              "take issue with",
+              "challenge",
+              "contradict",
+              "oppose; Morebe at variance with",
+              "be at odds with",
+              "not see eye to eye with",
+              "differ with",
+              "dissent from",
+              "be in dispute with",
+              "debate with",
+              "argue with",
+              "quarrel with",
+              "wrangle with",
+              "clash with",
+              "be at loggerheads with",
+              "cross swords with",
+              "lock horns with; formalgainsay \"no one was willing to disagree with him\""
+            ]
+          },
+          {
+            "definition": "disapprove of.",
+            "examples": [
+              "she disagreed with the system of apartheid"
+            ]
+          },
+          {
+            "definition": "(of statements or accounts) be inconsistent or fail to correspond.",
+            "examples": [
+              "results that disagree with the findings reported so far"
+            ],
+            "synonyms": [
+              "differ",
+              "be dissimilar",
+              "be different",
+              "vary",
+              "diverge; Morecontradict each other",
+              "conflict",
+              "clash",
+              "contrast \"their accounts disagree on details\""
+            ]
+          },
+          {
+            "definition": "(of food, climate, or an experience) have an adverse effect on (someone).",
+            "examples": [
+              "the North Sea crossing seemed to have disagreed with her"
+            ],
+            "synonyms": [
+              "make ill",
+              "make unwell",
+              "nauseate",
+              "sicken",
+              "upset \"the spicy food disagreed with her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

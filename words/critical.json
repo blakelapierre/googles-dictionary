@@ -1,0 +1,137 @@
+[
+  {
+    "word": "critical",
+    "syllables": [
+      "crit",
+      "i",
+      "cal"
+    ],
+    "pronunciation": "ˈkridək(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "critical"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing adverse or disapproving comments or judgments.",
+            "examples": [
+              "he was critical of many U.S. welfare programs"
+            ],
+            "synonyms": [
+              "censorious",
+              "condemnatory",
+              "condemning",
+              "denunciatory",
+              "disparaging",
+              "disapproving",
+              "scathing",
+              "fault-finding",
+              "judgmental",
+              "accusatory",
+              "negative",
+              "unfavorable; Moreinformalnitpicking",
+              "picky \"a highly critical report\""
+            ],
+            "antonyms": [
+              "complimentary"
+            ]
+          },
+          {
+            "definition": "expressing or involving an analysis of the merits and faults of a work of literature, music, or art.",
+            "examples": [
+              "she never won the critical acclaim she sought"
+            ],
+            "synonyms": [
+              "evaluative",
+              "analytical",
+              "interpretative",
+              "expository",
+              "explanatory \"a critical essay\""
+            ]
+          },
+          {
+            "definition": "(of a published literary or musical text) incorporating a detailed and scholarly analysis and commentary.",
+            "examples": [
+              "a critical edition of a Bach sonata"
+            ]
+          },
+          {
+            "definition": "involving the objective analysis and evaluation of an issue in order to form a judgement.",
+            "examples": [
+              "professors often find it difficult to encourage critical thinking in their students"
+            ]
+          },
+          {
+            "definition": "(of a situation or problem) having the potential to become disastrous; at a point of crisis.",
+            "examples": [
+              "the flood waters had not receded, and the situation was still critical"
+            ],
+            "synonyms": [
+              "grave",
+              "serious",
+              "dangerous",
+              "risky",
+              "perilous",
+              "hazardous",
+              "precarious",
+              "touch-and-go",
+              "in the balance",
+              "uncertain",
+              "parlous",
+              "desperate",
+              "dire",
+              "acute",
+              "life-and-death \"the situation is critical\""
+            ],
+            "antonyms": [
+              "safe"
+            ]
+          },
+          {
+            "definition": "(of a person) extremely ill and at risk of death.",
+            "examples": [
+              "he had been in critical condition since undergoing surgery"
+            ]
+          },
+          {
+            "definition": "having a decisive or crucial importance in the success, failure, or existence of something.",
+            "examples": [
+              "temperature is a critical factor in successful fruit storage"
+            ],
+            "synonyms": [
+              "crucial",
+              "vital",
+              "essential",
+              "of the essence",
+              "all-important",
+              "paramount",
+              "fundamental",
+              "key",
+              "pivotal",
+              "decisive",
+              "deciding",
+              "climacteric \"the choice of materials is critical for product safety\""
+            ],
+            "antonyms": [
+              "unimportant"
+            ]
+          },
+          {
+            "definition": "relating to or denoting a point of transition from one state to another."
+          },
+          {
+            "definition": "(of a nuclear reactor or fuel) maintaining a self-sustaining chain reaction.",
+            "examples": [
+              "the reactor is due to go critical in October"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

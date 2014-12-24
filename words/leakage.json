@@ -1,0 +1,39 @@
+[
+  {
+    "word": "leakage",
+    "syllables": [
+      "leak",
+      "age"
+    ],
+    "pronunciation": "ˈlēkij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "leakage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "leakages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the accidental admission or escape of a fluid or gas through a hole or crack.",
+            "examples": [
+              "we're saving water by reducing leakage"
+            ]
+          },
+          {
+            "definition": "the gradual escape of an electric charge or current, or magnetic flux."
+          },
+          {
+            "definition": "deliberate disclosure of confidential information."
+          }
+        ]
+      }
+    ]
+  }
+]

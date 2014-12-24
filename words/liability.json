@@ -1,0 +1,75 @@
+[
+  {
+    "word": "liability",
+    "syllables": [
+      "li",
+      "a",
+      "bil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌlīəˈbilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "liability"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being responsible for something, especially by law.",
+            "examples": [
+              "the partners accept unlimited liability for any risks they undertake"
+            ],
+            "synonyms": [
+              "accountability",
+              "responsibility",
+              "legal responsibility",
+              "answerability; Moreblame",
+              "culpability",
+              "guilt",
+              "fault \"journalists' liability for defamation\""
+            ],
+            "antonyms": [
+              "immunity"
+            ]
+          },
+          {
+            "definition": "a thing for which someone is responsible, especially a debt or financial obligation.",
+            "examples": [
+              "plural noun: liabilities"
+            ]
+          },
+          {
+            "definition": "a person or thing whose presence or behavior is likely to cause embarrassment or put one at a disadvantage.",
+            "examples": [
+              "he has become a political liability"
+            ],
+            "synonyms": [
+              "hindrance",
+              "encumbrance",
+              "burden",
+              "handicap",
+              "nuisance",
+              "inconvenience; Moreobstacle",
+              "impediment",
+              "disadvantage",
+              "weakness",
+              "weak link",
+              "shortcoming; millstone around one's neck",
+              "albatross",
+              "Achilles heel \"she was proving to be a liability\""
+            ],
+            "antonyms": [
+              "advantage",
+              "asset"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

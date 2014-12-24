@@ -1,0 +1,29 @@
+[
+  {
+    "word": "livestock",
+    "syllables": [
+      "live",
+      "stock"
+    ],
+    "pronunciation": "ˈlīvˌstäk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "livestock"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "farm animals regarded as an asset.",
+            "examples": [
+              "markets for the trading of livestock"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

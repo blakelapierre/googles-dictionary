@@ -1,0 +1,116 @@
+[
+  {
+    "word": "descent",
+    "syllables": [
+      "de",
+      "scent"
+    ],
+    "pronunciation": "dəˈsent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "descent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "descents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an action of moving downward, dropping, or falling.",
+            "examples": [
+              "the plane had gone into a steep descent"
+            ],
+            "synonyms": [
+              "dive",
+              "drop; Morefall",
+              "pitch",
+              "nosedive \"the plane began its descent\"downward climb \"their descent of the mountain\""
+            ]
+          },
+          {
+            "definition": "a downward slope, especially a path or track.",
+            "examples": [
+              "a steep, badly eroded descent"
+            ],
+            "synonyms": [
+              "slope",
+              "incline",
+              "dip",
+              "drop",
+              "gradient",
+              "declivity",
+              "slant; hill \"a steep descent\""
+            ]
+          },
+          {
+            "definition": "a moral, social, or psychological decline into a specified undesirable state.",
+            "examples": [
+              "the ancient empire's slow descent into barbarism"
+            ],
+            "synonyms": [
+              "decline",
+              "slide",
+              "fall",
+              "degeneration",
+              "deterioration",
+              "regression \"his descent into alcoholism\""
+            ]
+          },
+          {
+            "definition": "the origin or background of a person in terms of family or nationality.",
+            "examples": [
+              "American families of Hungarian descent"
+            ],
+            "synonyms": [
+              "ancestry",
+              "parentage",
+              "ancestors",
+              "family",
+              "antecedents; Moreextraction",
+              "origin",
+              "derivation",
+              "birth; lineage",
+              "line",
+              "genealogy",
+              "heredity",
+              "stock",
+              "pedigree",
+              "blood",
+              "bloodline; roots",
+              "origins \"she is of Italian descent\""
+            ]
+          },
+          {
+            "definition": "the transmission of qualities, property, or privileges by inheritance.",
+            "examples": [
+              "inheritance, succession the descent of property"
+            ]
+          },
+          {
+            "definition": "a sudden, violent attack.",
+            "examples": [
+              "a descent on the enemy airstrip"
+            ],
+            "synonyms": [
+              "attack",
+              "assault",
+              "raid",
+              "onslaught",
+              "charge",
+              "thrust",
+              "push",
+              "drive",
+              "incursion",
+              "foray \"the sudden descent of the cavalry\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

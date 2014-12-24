@@ -1,0 +1,75 @@
+[
+  {
+    "word": "deceit",
+    "syllables": [
+      "de",
+      "ceit"
+    ],
+    "pronunciation": "dəˈsēt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deceit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "deceits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or practice of deceiving someone by concealing or misrepresenting the truth.",
+            "examples": [
+              "a web of deceit"
+            ],
+            "synonyms": [
+              "deception",
+              "deceitfulness",
+              "duplicity",
+              "double-dealing",
+              "fraud",
+              "cheating",
+              "trickery",
+              "chicanery",
+              "deviousness",
+              "slyness",
+              "wiliness",
+              "guile",
+              "bluff",
+              "lying",
+              "pretense",
+              "treachery; Moreinformalcrookedness",
+              "monkey business",
+              "monkeyshines \"her endless deceit\"sham",
+              "fraud",
+              "pretense",
+              "hoax",
+              "fake",
+              "blind",
+              "artifice; trick",
+              "stratagem",
+              "device",
+              "ruse",
+              "scheme",
+              "dodge",
+              "machination",
+              "deception",
+              "subterfuge; cheat",
+              "swindle; informalcon",
+              "setup",
+              "scam",
+              "flimflam",
+              "bunco \"their life is a deceit\""
+            ],
+            "antonyms": [
+              "honesty"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

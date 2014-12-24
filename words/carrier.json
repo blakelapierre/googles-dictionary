@@ -1,0 +1,78 @@
+[
+  {
+    "word": "carrier",
+    "syllables": [
+      "car",
+      "ri",
+      "er"
+    ],
+    "pronunciation": "ˈkerēər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "carrier"
+          },
+          {
+            "part": "plural noun",
+            "variant": "carriers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that carries, holds, or conveys something.",
+            "examples": [
+              "water carriers"
+            ],
+            "synonyms": [
+              "bearer",
+              "conveyor",
+              "transporter",
+              "shipper; Morecourier",
+              "hauler",
+              "porter \"our private carrier delivers more than ten thousand packages a month\""
+            ]
+          },
+          {
+            "definition": "a person or company that undertakes the professional conveyance of goods or people.",
+            "examples": [
+              "Pan Am was the third US carrier to cease operations in 1991"
+            ]
+          },
+          {
+            "definition": "a vessel or vehicle for transporting people or things, especially goods in bulk.",
+            "examples": [
+              "the largest timber carrier ever to dock at a Malaysian port"
+            ]
+          },
+          {
+            "definition": "an aircraft carrier."
+          },
+          {
+            "definition": "a company that provides facilities for conveying telecommunications messages."
+          },
+          {
+            "definition": "a person or animal that transmits a disease-causing organism to others. Typically, the carrier suffers no symptoms of the disease.",
+            "examples": [
+              "the black rat, best known as carrier of bubonic plague"
+            ]
+          },
+          {
+            "definition": "a person or other organism that possesses a particular gene, especially as a single copy whose effect is masked by a dominant allele, so that the associated characteristic (such as a hereditary disease) is not displayed but may be passed to offspring."
+          },
+          {
+            "definition": "a substance used to support or convey another substance such as a pigment, catalyst, or radioactive material."
+          },
+          {
+            "definition": "short for charge carrier."
+          },
+          {
+            "definition": "a molecule that transfers a specified molecule or ion within the body, especially across a cell membrane."
+          }
+        ]
+      }
+    ]
+  }
+]

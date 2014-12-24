@@ -1,0 +1,93 @@
+[
+  {
+    "word": "assert",
+    "syllables": [
+      "as",
+      "sert"
+    ],
+    "pronunciation": "əˈsərt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "assert"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "asserts"
+          },
+          {
+            "part": "past tense",
+            "variant": "asserted"
+          },
+          {
+            "part": "past participle",
+            "variant": "asserted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "asserting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "state a fact or belief confidently and forcefully.",
+            "examples": [
+              "the company asserts that the cuts will not affect development"
+            ],
+            "synonyms": [
+              "declare",
+              "maintain",
+              "contend",
+              "argue",
+              "state",
+              "claim",
+              "propound",
+              "proclaim",
+              "announce",
+              "pronounce",
+              "swear",
+              "insist",
+              "avow; Moreformalaver",
+              "opine; rareasseverate \"they asserted that all aboard were safe\""
+            ]
+          },
+          {
+            "definition": "cause others to recognize (one's authority or a right) by confident and forceful behavior.",
+            "examples": [
+              "the good librarian is able to assert authority when required"
+            ],
+            "synonyms": [
+              "insist on",
+              "stand up for",
+              "uphold",
+              "defend",
+              "contend",
+              "establish",
+              "press for",
+              "push for",
+              "stress \"we find it difficult to assert our rights\""
+            ]
+          },
+          {
+            "definition": "behave or speak in a confident and forceful manner.",
+            "examples": [
+              "it was time to assert himself"
+            ],
+            "synonyms": [
+              "behave confidently",
+              "speak confidently",
+              "be assertive",
+              "put oneself forward",
+              "take a stand",
+              "make one's presence felt; informalput one's foot down \"she was finally asserting herself",
+              "just like everyone told her to\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "word": "consequence",
+  "syllables": [
+    "con",
+    "se",
+    "quence"
+  ],
+  "pronunciation": "ˈkänsikwəns",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "consequences"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a result or effect of an action or condition.",
+          "examples": [
+            "many have been laid off from work as a consequence of the administration's policies"
+          ],
+          "synonyms": [
+            "result",
+            "upshot",
+            "outcome",
+            "effect",
+            "repercussion",
+            "ramification",
+            "corollary",
+            "concomitant",
+            "aftermath",
+            "aftereffect; Morefruit(s)",
+            "product",
+            "by-product",
+            "end result; informalpayoff; sequela \"a consequence of inflation\""
+          ],
+          "antonyms": [
+            "cause"
+          ]
+        },
+        {
+          "definition": "importance or relevance.",
+          "examples": [
+            "the past is of no consequence"
+          ],
+          "synonyms": [
+            "importance",
+            "import",
+            "significance",
+            "account",
+            "substance",
+            "note",
+            "mark",
+            "prominence",
+            "value",
+            "concern",
+            "interest; formalmoment \"the past is of no consequence\""
+          ]
+        },
+        {
+          "definition": "social distinction.",
+          "examples": [
+            "a woman of consequence"
+          ]
+        }
+      ]
+    }
+  ]
+}

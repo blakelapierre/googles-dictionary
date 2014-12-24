@@ -1,0 +1,71 @@
+{
+  "word": "player",
+  "syllables": [
+    "play",
+    "er"
+  ],
+  "pronunciation": "ˈplāər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "players"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person taking part in a sport or game.",
+          "examples": [
+            "a tennis player"
+          ],
+          "synonyms": [
+            "participant",
+            "contestant",
+            "competitor",
+            "contender; Moresportsman/woman",
+            "athlete \"a tournament for young players\""
+          ]
+        },
+        {
+          "definition": "a person or body that is involved and influential in an area or activity.",
+          "examples": [
+            "the country's isolationism made it a secondary player in world political events"
+          ]
+        },
+        {
+          "definition": "a confident, successful man with many sexual partners.",
+          "examples": [
+            "noun: playa"
+          ]
+        },
+        {
+          "definition": "a person who plays a musical instrument.",
+          "examples": [
+            "a guitar player"
+          ],
+          "synonyms": [
+            "musician",
+            "performer",
+            "instrumentalist",
+            "soloist",
+            "virtuoso \"the players in the orchestra\""
+          ]
+        },
+        {
+          "definition": "a device for playing recorded music.",
+          "examples": [
+            "an MP3 player"
+          ]
+        },
+        {
+          "definition": "an actor.",
+          "examples": [
+            "actor, actress, performer, thespian, entertainer, artist/artiste, trouper the players at the Shaw Festival"
+          ]
+        }
+      ]
+    }
+  ]
+}

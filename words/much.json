@@ -1,0 +1,52 @@
+{
+  "word": "much",
+  "syllables": [
+    "much"
+  ],
+  "pronunciation": "məCH",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "comparative adverb",
+          "variant": "more"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "to a great extent; a great deal.",
+          "examples": [
+            "did it hurt much?"
+          ],
+          "synonyms": [
+            "greatly",
+            "to a great extent/degree",
+            "a great deal",
+            "a lot",
+            "considerably",
+            "appreciably \"it didn't hurt much\""
+          ]
+        },
+        {
+          "definition": "for a large part of one's time; often.",
+          "examples": [
+            "I'm not there much"
+          ],
+          "synonyms": [
+            "often",
+            "frequently",
+            "many times",
+            "repeatedly",
+            "regularly",
+            "habitually",
+            "routinely",
+            "usually",
+            "normally",
+            "commonly; informala lot \"does he come here much?\""
+          ]
+        }
+      ]
+    }
+  ]
+}

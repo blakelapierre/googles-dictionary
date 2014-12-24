@@ -1,0 +1,155 @@
+{
+  "word": "shell",
+  "syllables": [
+    "shell"
+  ],
+  "pronunciation": "SHel",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "shells"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the hard protective outer case of a mollusk or crustacean.",
+          "examples": [
+            "cowrie shells"
+          ],
+          "synonyms": [
+            "carapace",
+            "exterior; Morearmor; exoskeleton \"a crab shell\""
+          ]
+        },
+        {
+          "definition": "the thin outer covering of an animal's egg, which is hard and fragile in that of a bird but leathery in that of a reptile."
+        },
+        {
+          "definition": "the outer case of a nut kernel or seed.",
+          "examples": [
+            "pod, husk, hull, casing, case, covering, integument, shuck peanut shells"
+          ]
+        },
+        {
+          "definition": "the carapace of a tortoise, turtle, or terrapin."
+        },
+        {
+          "definition": "the wing cases of a beetle."
+        },
+        {
+          "definition": "the integument of an insect pupa or chrysalis."
+        },
+        {
+          "definition": "used with reference to a state of shyness or introversion.",
+          "examples": [
+            "noun: one's shell; plural noun: one's shells"
+          ]
+        },
+        {
+          "definition": "something resembling or likened to a shell because of its shape or its function as an outer case.",
+          "examples": [
+            "pasta shells"
+          ]
+        },
+        {
+          "definition": "the walls of an unfinished or gutted building or other structure.",
+          "examples": [
+            "the hotel was a shell, the roof having collapsed completely"
+          ]
+        },
+        {
+          "definition": "an outer form without substance.",
+          "examples": [
+            "he was a shell of the man he had been previously"
+          ]
+        },
+        {
+          "definition": "a light racing boat used in the sport of crew."
+        },
+        {
+          "definition": "the metal framework of a vehicle body.",
+          "examples": [
+            "framework, frame, chassis, skeleton; Morehull, exterior \"the metal shell of the car\"Morehull, exterior the metal shell of the car"
+          ]
+        },
+        {
+          "definition": "an inner or roughly made coffin."
+        },
+        {
+          "definition": "the hand guard of a sword."
+        },
+        {
+          "definition": "each of a set of orbitals around the nucleus of an atom, occupied or able to be occupied by electrons of similar energies."
+        },
+        {
+          "definition": "an explosive artillery projectile or bomb.",
+          "examples": [
+            "the sound of the shell passing over, followed by the explosion"
+          ],
+          "synonyms": [
+            "projectile",
+            "bomb",
+            "explosive; Moregrenade; bullet",
+            "cartridge \"shells passing overhead\""
+          ]
+        },
+        {
+          "definition": "a hollow metal or paper case used as a container for fireworks, explosives, or cartridges."
+        },
+        {
+          "definition": "a cartridge."
+        },
+        {
+          "definition": "short for shell program."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "shells"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "bombard with shells.",
+          "examples": [
+            "the guns started shelling their positions"
+          ],
+          "synonyms": [
+            "bombard",
+            "fire on",
+            "shoot at",
+            "attack",
+            "bomb",
+            "blitz",
+            "strafe \"rebel artillery shelled the city\""
+          ]
+        },
+        {
+          "definition": "remove the shell or pod from (a nut or seed).",
+          "examples": [
+            "they were shelling peas"
+          ],
+          "synonyms": [
+            "hull",
+            "pod",
+            "husk",
+            "shuck \"they were shelling peas\""
+          ]
+        },
+        {
+          "definition": "gather seashells.",
+          "examples": [
+            "there was nothing to do except swim or go shelling on the beaches"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "word": "drug",
+    "syllables": [
+      "drug"
+    ],
+    "pronunciation": "drəɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "drugs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a medicine or other substance which has a physiological effect when ingested or otherwise introduced into the body.",
+            "examples": [
+              "a new drug aimed at sufferers from Parkinson's disease"
+            ],
+            "synonyms": [
+              "medicine",
+              "medication",
+              "medicament",
+              "pharmaceutical; Moreremedy",
+              "cure",
+              "antidote \"drugs prescribed by doctors\""
+            ]
+          },
+          {
+            "definition": "a substance taken for its narcotic or stimulant effects, often illegally.",
+            "examples": [
+              "a drug addict"
+            ],
+            "synonyms": [
+              "narcotic",
+              "stimulant",
+              "hallucinogen; informaldope \"she was under the influence of drugs\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "drugs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "administer a drug to (someone) in order to induce stupor or insensibility.",
+            "examples": [
+              "they were drugged to keep them quiet"
+            ],
+            "synonyms": [
+              "anesthetize",
+              "narcotize; Morepoison; knock out",
+              "stupefy; informaldope \"he was drugged\"add drugs to",
+              "tamper with",
+              "adulterate",
+              "contaminate",
+              "lace",
+              "poison; informaldope",
+              "spike",
+              "doctor \"she drugged his coffee\"stupefied",
+              "insensible",
+              "befuddled; delirious",
+              "hallucinating",
+              "narcotized; anesthetized",
+              "knocked out; informalstoned",
+              "coked",
+              "high (as a kite)",
+              "doped",
+              "tripping",
+              "spaced out",
+              "wasted",
+              "wrecked",
+              "blitzed",
+              "baked \"they found Tom and his drugged friends camped out in the living room\""
+            ],
+            "antonyms": [
+              "sober"
+            ]
+          },
+          {
+            "definition": "add a drug to (food or drink).",
+            "examples": [
+              "he drugged their coffee"
+            ]
+          },
+          {
+            "definition": "take illegally obtained drugs.",
+            "examples": [
+              "fifteen years of drinking and drugging"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

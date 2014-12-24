@@ -1,0 +1,37 @@
+{
+  "word": "ago",
+  "syllables": [
+    "a",
+    "go"
+  ],
+  "pronunciation": "əˈɡō",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "ago"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(used after a measurement of time) before the present; earlier.",
+          "examples": [
+            "he went five minutes ago"
+          ],
+          "synonyms": [
+            "in the past",
+            "before",
+            "earlier",
+            "back",
+            "since",
+            "previously; formalheretofore \"years ago",
+            "on this very site",
+            "was a small stone cottage\""
+          ]
+        }
+      ]
+    }
+  ]
+}

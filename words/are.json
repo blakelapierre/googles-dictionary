@@ -1,0 +1,194 @@
+[
+  {
+    "word": "are",
+    "syllables": [
+      "are"
+    ],
+    "pronunciation": "ärər",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "are",
+    "syllables": [
+      "are"
+    ],
+    "pronunciation": "erär",
+    "parts": [
+      {
+        "part": "nounhistorical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "are"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ares"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a metric unit of measure, equal to 100 square meters (about 119.6 square yards)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "be",
+    "syllables": [
+      "be"
+    ],
+    "pronunciation": "bē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "are"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exist.",
+            "examples": [
+              "there are no easy answers"
+            ],
+            "synonyms": [
+              "exist",
+              "have being",
+              "have existence; Morelive",
+              "be alive",
+              "have life",
+              "breathe",
+              "draw breath",
+              "be extant \"there was once a king\""
+            ]
+          },
+          {
+            "definition": "be present.",
+            "examples": [
+              "there is a boy sitting on the step"
+            ]
+          },
+          {
+            "definition": "occur; take place.",
+            "examples": [
+              "the exhibition will be in November"
+            ],
+            "synonyms": [
+              "occur",
+              "happen",
+              "take place",
+              "come about",
+              "arise",
+              "crop up",
+              "transpire",
+              "fall",
+              "materialize",
+              "ensue; Moreliterarycome to pass",
+              "befall",
+              "betide \"the trial is tomorrow at half past one\""
+            ]
+          },
+          {
+            "definition": "occupy a position in space.",
+            "examples": [
+              "the Salvation Army store was on his left"
+            ],
+            "synonyms": [
+              "be situated",
+              "be located",
+              "be found",
+              "be present",
+              "be set",
+              "be positioned",
+              "be placed",
+              "be installed \"the bed is over there\""
+            ]
+          },
+          {
+            "definition": "stay in the same place or condition.",
+            "examples": [
+              "she was here until about ten-thirty"
+            ],
+            "synonyms": [
+              "remain",
+              "stay",
+              "last",
+              "continue",
+              "survive",
+              "endure",
+              "persist",
+              "prevail; Morewait",
+              "linger",
+              "hold on",
+              "hang on \"it has been like this for hours\""
+            ]
+          },
+          {
+            "definition": "attend.",
+            "examples": [
+              "the days when she was in school"
+            ]
+          },
+          {
+            "definition": "come; go; visit.",
+            "examples": [
+              "he's from Missouri"
+            ]
+          },
+          {
+            "definition": "having the state, quality, identity, nature, role, etc., specified.",
+            "examples": [
+              "Amy was 91"
+            ]
+          },
+          {
+            "definition": "cost.",
+            "examples": [
+              "the tickets were $25"
+            ]
+          },
+          {
+            "definition": "amount to.",
+            "examples": [
+              "one and one is two"
+            ]
+          },
+          {
+            "definition": "represent.",
+            "examples": [
+              "let A be a square matrix of order n"
+            ]
+          },
+          {
+            "definition": "signify.",
+            "examples": [
+              "we were everything to each other"
+            ]
+          },
+          {
+            "definition": "consist of; constitute.",
+            "examples": [
+              "the monastery was several three-story buildings"
+            ]
+          },
+          {
+            "definition": "say.",
+            "examples": [
+              "when I got there, they were like “What are you doing here?”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

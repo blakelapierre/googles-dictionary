@@ -1,0 +1,97 @@
+{
+  "word": "sequences",
+  "syllables": [
+    "se",
+    "quence"
+  ],
+  "pronunciation": "ˈsēkwəns",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "sequences"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a particular order in which related events, movements, or things follow each other.",
+          "examples": [
+            "the content of the program should follow a logical sequence"
+          ],
+          "synonyms": [
+            "succession",
+            "order",
+            "course",
+            "series",
+            "chain",
+            "train",
+            "string",
+            "progression",
+            "chronology",
+            "timeline; Morepattern",
+            "flow; formalconcatenation \"the sequence of events\""
+          ]
+        },
+        {
+          "definition": "a repetition of a phrase or melody at a higher or lower pitch."
+        },
+        {
+          "definition": "the order in which amino acid or nucleotide residues are arranged in a protein, DNA, etc."
+        },
+        {
+          "definition": "a set of related events, movements, or things that follow each other in a particular order.",
+          "examples": [
+            "a grueling sequence of exercises"
+          ]
+        },
+        {
+          "definition": "a set of three or more playing cards of the same suit next to each other in value, for example 10, 9, 8."
+        },
+        {
+          "definition": "an infinite ordered series of numerical quantities."
+        },
+        {
+          "definition": "a part of a film dealing with one particular event or topic.",
+          "examples": [
+            "the famous underwater sequence"
+          ],
+          "synonyms": [
+            "excerpt",
+            "clip",
+            "extract",
+            "episode",
+            "section \"a sequence from his film\""
+          ]
+        },
+        {
+          "definition": "(in the Eucharist) a hymn said or sung after the Gradual or Alleluia that precedes the Gospel."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "sequences"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "arrange in a particular order.",
+          "examples": [
+            "trainee librarians decide how a set of misfiled cards could be sequenced"
+          ]
+        },
+        {
+          "definition": "ascertain the sequence of amino acid or nucleotide residues in (a protein, DNA, etc.)."
+        },
+        {
+          "definition": "play or record (music) with a sequencer."
+        }
+      ]
+    }
+  ]
+}

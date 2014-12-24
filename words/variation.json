@@ -1,0 +1,89 @@
+[
+  {
+    "word": "variation",
+    "syllables": [
+      "var",
+      "i",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "ˌverēˈāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "variation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "variations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a change or difference in condition, amount, or level, typically with certain limits.",
+            "examples": [
+              "regional variations in house prices"
+            ],
+            "synonyms": [
+              "difference",
+              "dissimilarity; Moredisparity",
+              "contrast",
+              "discrepancy",
+              "imbalance; technicaldifferential \"regional variations in farming practice\"change",
+              "alteration",
+              "modification; diversification \"opening times are subject to variation\"deviation",
+              "variance",
+              "divergence",
+              "departure",
+              "fluctuation \"there was very little variation from an understood pattern\""
+            ]
+          },
+          {
+            "definition": "a deviation of a celestial body from its mean orbit or motion."
+          },
+          {
+            "definition": "a change in the value of a function due to small changes in the values of its argument or arguments."
+          },
+          {
+            "definition": "the angular difference between true north and magnetic north at a particular place.",
+            "examples": [
+              "noun: magnetic variation; plural noun: magnetic variations"
+            ]
+          },
+          {
+            "definition": "the occurrence of an organism in more than one distinct color or form."
+          },
+          {
+            "definition": "a different or distinct form or version of something.",
+            "examples": [
+              "hurling is an Irish variation of field hockey"
+            ],
+            "synonyms": [
+              "variant",
+              "form",
+              "alternative form; Moredevelopment",
+              "adaptation",
+              "alteration",
+              "mutation",
+              "transformation",
+              "diversification",
+              "modification \"hurling is an Irish variation of field hockey\""
+            ]
+          },
+          {
+            "definition": "a version of a theme, modified in melody, rhythm, harmony, or ornamentation, so as to present it in a new but still recognizable form.",
+            "examples": [
+              "there is an eleven-bar theme followed by seven variations and a coda"
+            ]
+          },
+          {
+            "definition": "a solo dance as part of a performance."
+          }
+        ]
+      }
+    ]
+  }
+]

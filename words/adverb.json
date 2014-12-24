@@ -1,0 +1,30 @@
+[
+  {
+    "word": "adverb",
+    "syllables": [
+      "ad",
+      "verb"
+    ],
+    "pronunciation": "ˈadˌvərb",
+    "parts": [
+      {
+        "part": "nounGrammar",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "adverb"
+          },
+          {
+            "part": "plural noun",
+            "variant": "adverbs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there )."
+          }
+        ]
+      }
+    ]
+  }
+]

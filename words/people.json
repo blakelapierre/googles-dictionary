@@ -1,0 +1,144 @@
+{
+  "word": "people",
+  "syllables": [
+    "peo",
+    "ple"
+  ],
+  "pronunciation": "ˈpēpəl",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "people"
+        },
+        {
+          "part": "noun",
+          "variant": "people"
+        },
+        {
+          "part": "plural noun",
+          "variant": "peoples"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "human beings in general or considered collectively.",
+          "examples": [
+            "the earthquake killed 30,000 people"
+          ],
+          "synonyms": [
+            "human beings",
+            "persons",
+            "individuals",
+            "humans",
+            "mortals",
+            "(living) souls",
+            "personages",
+            "men",
+            "women",
+            "and children; informalfolks \"crowds of people\""
+          ]
+        },
+        {
+          "definition": "the citizens of a country, especially when considered in relation to those who govern them.",
+          "examples": [
+            "noun: the people"
+          ]
+        },
+        {
+          "definition": "those without special rank or position in society; the populace.",
+          "examples": [
+            "noun: the people"
+          ]
+        },
+        {
+          "definition": "a person's parents or relatives.",
+          "examples": [
+            "noun: one's people; plural noun: one's peoples"
+          ]
+        },
+        {
+          "definition": "the supporters or employees of a person in a position of power or authority.",
+          "examples": [
+            "noun: one's people; plural noun: one's peoples"
+          ]
+        },
+        {
+          "definition": "the state prosecution in a trial.",
+          "examples": [
+            "plural noun: People; noun: the People"
+          ]
+        },
+        {
+          "definition": "the men, women, and children of a particular nation, community, or ethnic group.",
+          "examples": [
+            "the native peoples of Canada"
+          ],
+          "synonyms": [
+            "race",
+            "(ethnic) group",
+            "tribe",
+            "clan \"the peoples of Africa\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "people"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "peoples"
+        },
+        {
+          "part": "past tense",
+          "variant": "peopled"
+        },
+        {
+          "part": "past participle",
+          "variant": "peopled"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "peopling"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(of a particular group of people) inhabit (an area or place).",
+          "examples": [
+            "an arid mountain region peopled by warring clans"
+          ],
+          "synonyms": [
+            "populate",
+            "settle (in)",
+            "colonize",
+            "inhabit",
+            "live in",
+            "occupy; Moreformalreside in",
+            "be domiciled in",
+            "dwell in \"the Beothuk who once peopled Newfoundland\""
+          ]
+        },
+        {
+          "definition": "fill or be present in (a place, environment, or domain).",
+          "examples": [
+            "the street is peopled with ragamuffin hippies"
+          ]
+        },
+        {
+          "definition": "fill (an area or place) with a particular group of inhabitants.",
+          "examples": [
+            "it was his intention to people the town with English colonists"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "word": "marquess",
+    "syllables": [
+      "mar",
+      "quess"
+    ],
+    "pronunciation": "ˈmärkwəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "marquess"
+          },
+          {
+            "part": "plural noun",
+            "variant": "marquesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a British nobleman ranking above an earl and below a duke."
+          }
+        ]
+      }
+    ]
+  }
+]

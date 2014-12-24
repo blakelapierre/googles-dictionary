@@ -1,0 +1,116 @@
+[
+  {
+    "word": "maintain",
+    "syllables": [
+      "main",
+      "tain"
+    ],
+    "pronunciation": "mānˈtān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "maintained"
+          },
+          {
+            "part": "past participle",
+            "variant": "maintained"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause or enable (a condition or state of affairs) to continue.",
+            "examples": [
+              "the need to maintain close links between industry and schools"
+            ],
+            "synonyms": [
+              "preserve",
+              "conserve",
+              "keep",
+              "retain",
+              "keep going",
+              "keep alive",
+              "keep up",
+              "prolong",
+              "perpetuate",
+              "sustain",
+              "carry on",
+              "continue \"they wanted to maintain peace\""
+            ],
+            "antonyms": [
+              "break (off)",
+              "discontinue"
+            ]
+          },
+          {
+            "definition": "keep (something) at the same level or rate.",
+            "examples": [
+              "agricultural prices will have to be maintained"
+            ]
+          },
+          {
+            "definition": "keep (a building, machine, or road) in good condition or in working order by checking or repairing it regularly.",
+            "examples": [
+              "keep in good condition, keep in (good) repair, keep up, service, care for, take good care of, look after the association maintains its private roads"
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "provide with necessities for life or existence.",
+            "examples": [
+              "the allowance covers the basic costs of maintaining a child"
+            ],
+            "synonyms": [
+              "support",
+              "provide for",
+              "keep",
+              "sustain; Morenurture",
+              "feed",
+              "nourish \"the cost of maintaining a dog\""
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "keep (a military unit) supplied with equipment and other requirements."
+          },
+          {
+            "definition": "give one's support to; uphold.",
+            "examples": [
+              "the king swears he will maintain the laws of God"
+            ]
+          },
+          {
+            "definition": "state something strongly to be the case; assert.",
+            "examples": [
+              "he has always maintained his innocence"
+            ],
+            "synonyms": [
+              "insist (on)",
+              "declare",
+              "assert",
+              "protest",
+              "affirm",
+              "avow",
+              "profess",
+              "claim",
+              "allege",
+              "contend",
+              "argue",
+              "swear (to)",
+              "hold to; formalaver \"he always maintained his innocence\""
+            ],
+            "antonyms": [
+              "deny"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

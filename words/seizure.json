@@ -1,0 +1,63 @@
+[
+  {
+    "word": "seizure",
+    "syllables": [
+      "sei",
+      "zure"
+    ],
+    "pronunciation": "ˈsēZHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "seizure"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of capturing someone or something using force.",
+            "examples": [
+              "the seizure of the Assembly building"
+            ],
+            "synonyms": [
+              "capture",
+              "takeover",
+              "annexation",
+              "invasion",
+              "occupation",
+              "colonization More\"Napoleon's seizure of Spain\"kidnapping",
+              "kidnap",
+              "abduction \"the seizure of UN staff by rebels\""
+            ]
+          },
+          {
+            "definition": "the action of confiscating or impounding property by warrant of legal right.",
+            "examples": [
+              "plural noun: seizures"
+            ],
+            "synonyms": [
+              "confiscation",
+              "appropriation",
+              "expropriation",
+              "sequestration; distraint \"the seizure of property\""
+            ]
+          },
+          {
+            "definition": "a sudden attack of illness, especially a stroke or an epileptic fit.",
+            "examples": [
+              "the patient had a seizure"
+            ],
+            "synonyms": [
+              "convulsion",
+              "fit",
+              "spasm",
+              "paroxysm; Moreictus; datedapoplexy \"the baby suffered a seizure\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

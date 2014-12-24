@@ -1,0 +1,92 @@
+[
+  {
+    "word": "liberty",
+    "syllables": [
+      "lib",
+      "er",
+      "ty"
+    ],
+    "pronunciation": "ˈlibərdē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "liberty"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+            "examples": [
+              "compulsory retirement would interfere with individual liberty"
+            ],
+            "synonyms": [
+              "independence",
+              "freedom",
+              "autonomy",
+              "sovereignty",
+              "self-government",
+              "self-rule",
+              "self-determination; Morecivil liberties",
+              "human rights \"the fight for liberty\""
+            ],
+            "antonyms": [
+              "tyranny"
+            ]
+          },
+          {
+            "definition": "an instance of this; a right or privilege, especially a statutory one.",
+            "examples": [
+              "plural noun: liberties"
+            ]
+          },
+          {
+            "definition": "the state of not being imprisoned or enslaved.",
+            "examples": [
+              "people who have lost property or liberty without due process"
+            ]
+          },
+          {
+            "definition": "the personification of liberty as a female figure.",
+            "examples": [
+              "noun: Liberty"
+            ]
+          },
+          {
+            "definition": "the power or scope to act as one pleases.",
+            "examples": [
+              "individuals should enjoy the liberty to pursue their own interests and preferences"
+            ],
+            "synonyms": [
+              "freedom",
+              "independence",
+              "free rein",
+              "license",
+              "self-determination",
+              "free will",
+              "latitude \"personal liberty\""
+            ],
+            "antonyms": [
+              "constraint",
+              "slavery"
+            ]
+          },
+          {
+            "definition": "a person's freedom from control by fate or necessity."
+          },
+          {
+            "definition": "a presumptuous remark or action.",
+            "examples": [
+              "how did he know what she was thinking?—it was a liberty!"
+            ]
+          },
+          {
+            "definition": "shore leave granted to a sailor."
+          }
+        ]
+      }
+    ]
+  }
+]

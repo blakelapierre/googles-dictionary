@@ -1,0 +1,51 @@
+[
+  {
+    "word": "acquaint",
+    "syllables": [
+      "ac",
+      "quaint"
+    ],
+    "pronunciation": "əˈkwānt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "acquainted"
+          },
+          {
+            "part": "past participle",
+            "variant": "acquainted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make someone aware of or familiar with.",
+            "examples": [
+              "new staff should be acquainted with fire exit routes"
+            ],
+            "synonyms": [
+              "familiarize with",
+              "make familiar with",
+              "make aware of",
+              "inform of",
+              "advise of",
+              "apprise of",
+              "let know",
+              "get up to date on; Morebrief on",
+              "prime on; informalfill in on",
+              "clue in on \"this exercise will acquaint you with the food groups\""
+            ]
+          },
+          {
+            "definition": "be an acquaintance.",
+            "examples": [
+              "I am not acquainted with any young lady of that name"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "word": "bury",
+    "syllables": [
+      "bur",
+      "y"
+    ],
+    "pronunciation": "ˈberē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "buried"
+          },
+          {
+            "part": "past participle",
+            "variant": "buried"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put or hide under ground.",
+            "examples": [
+              "he buried the box in the back garden"
+            ]
+          },
+          {
+            "definition": "place (a dead body) in the earth, in a tomb, or in the sea, typically with funeral rites.",
+            "examples": [
+              "he was buried in Arlington National Cemetery"
+            ],
+            "synonyms": [
+              "inter",
+              "lay to rest",
+              "entomb; Moreinformalput six feet under; literaryinhume \"the dead were buried\""
+            ],
+            "antonyms": [
+              "exhume"
+            ]
+          },
+          {
+            "definition": "lose (someone, typically a relative) through death.",
+            "examples": [
+              "she buried her sixty-year-old husband"
+            ]
+          },
+          {
+            "definition": "completely cover; cause to disappear or become inconspicuous.",
+            "examples": [
+              "the countryside has been buried under layers of concrete"
+            ],
+            "synonyms": [
+              "hide",
+              "conceal",
+              "cover",
+              "enfold",
+              "engulf",
+              "tuck",
+              "cup",
+              "sink; literaryenshroud \"she buried her face in her hands\""
+            ],
+            "antonyms": [
+              "reveal"
+            ]
+          },
+          {
+            "definition": "move or put out of sight.",
+            "examples": [
+              "she buried her face in her hands"
+            ]
+          },
+          {
+            "definition": "deliberately forget; conceal from oneself.",
+            "examples": [
+              "they had buried their feelings of embarrassment and fear"
+            ]
+          },
+          {
+            "definition": "overwhelm (an opponent) beyond hope of recovery.",
+            "examples": [
+              "losses that would bury multiple businesses"
+            ]
+          },
+          {
+            "definition": "involve oneself deeply in something to the exclusion of other concerns.",
+            "examples": [
+              "he buried himself in work"
+            ],
+            "synonyms": [
+              "absorb",
+              "engross",
+              "immerse",
+              "occupy",
+              "engage",
+              "busy",
+              "involve \"he buried himself in his work\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

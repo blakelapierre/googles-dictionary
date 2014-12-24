@@ -1,0 +1,34 @@
+[
+  {
+    "word": "receptor",
+    "syllables": [
+      "re",
+      "cep",
+      "tor"
+    ],
+    "pronunciation": "rēˈseptər",
+    "parts": [
+      {
+        "part": "nounPhysiology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "receptor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "receptors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an organ or cell able to respond to light, heat, or other external stimulus and transmit a signal to a sensory nerve."
+          },
+          {
+            "definition": "a region of tissue, or a molecule in a cell membrane, that responds specifically to a particular neurotransmitter, hormone, antigen, or other substance."
+          }
+        ]
+      }
+    ]
+  }
+]

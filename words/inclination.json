@@ -1,0 +1,99 @@
+[
+  {
+    "word": "inclination",
+    "syllables": [
+      "in",
+      "cli",
+      "na",
+      "tion"
+    ],
+    "pronunciation": "ˌinkləˈnāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inclination"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inclinations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person's natural tendency or urge to act or feel in a particular way; a disposition or propensity.",
+            "examples": [
+              "John was a scientist by training and inclination"
+            ],
+            "synonyms": [
+              "tendency",
+              "propensity",
+              "proclivity",
+              "leaning",
+              "predisposition",
+              "disposition",
+              "predilection",
+              "desire",
+              "wish",
+              "impulse",
+              "bent",
+              "bias; Moreliking",
+              "affection",
+              "penchant",
+              "partiality",
+              "preference",
+              "appetite",
+              "fancy",
+              "interest",
+              "affinity; stomach",
+              "taste; informalyen \"his political inclination\""
+            ],
+            "antonyms": [
+              "aversion"
+            ]
+          },
+          {
+            "definition": "an interest in or liking for (something).",
+            "examples": [
+              "Burger King and Wendy's didn't show any inclination to jump into a price war with McDonald's"
+            ]
+          },
+          {
+            "definition": "a slope or slant.",
+            "examples": [
+              "changes in inclination of the line on the graph"
+            ]
+          },
+          {
+            "definition": "a bending of the body or head in a bow.",
+            "examples": [
+              "the questioner's inclination of his head"
+            ],
+            "synonyms": [
+              "bowing",
+              "bow",
+              "bending",
+              "nod",
+              "nodding",
+              "lowering \"an inclination of his head\""
+            ]
+          },
+          {
+            "definition": "the dip of a magnetic needle."
+          },
+          {
+            "definition": "the angle at which a straight line or plane is inclined to another."
+          },
+          {
+            "definition": "the angle between the orbital plane of a planet, comet, etc., and the ecliptic, or between the orbital plane of a satellite and the equatorial plane of its primary."
+          },
+          {
+            "definition": "the angle between the axis of an astronomical object and a fixed reference angle."
+          }
+        ]
+      }
+    ]
+  }
+]

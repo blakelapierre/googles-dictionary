@@ -1,0 +1,32 @@
+{
+  "word": "sequencer",
+  "syllables": [
+    "se",
+    "quenc",
+    "er"
+  ],
+  "pronunciation": "ˈsēkwənsər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "sequencer"
+        },
+        {
+          "part": "plural noun",
+          "variant": "sequencers"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a programmable electronic device for storing sequences of musical notes, chords, or rhythms and transmitting them when required to an electronic musical instrument."
+        },
+        {
+          "definition": "an apparatus for determining the sequence of amino acids or other monomers in a biological polymer."
+        }
+      ]
+    }
+  ]
+}

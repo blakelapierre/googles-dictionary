@@ -1,0 +1,70 @@
+[
+  {
+    "word": "professional",
+    "syllables": [
+      "pro",
+      "fes",
+      "sion",
+      "al"
+    ],
+    "pronunciation": "prəˈfeSH(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "professionals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person engaged or qualified in a profession.",
+            "examples": [
+              "professionals such as lawyers and surveyors"
+            ],
+            "synonyms": [
+              "white-collar worker",
+              "office worker \"affluent young professionals\""
+            ],
+            "antonyms": [
+              "blue-collar worker"
+            ]
+          },
+          {
+            "definition": "a person engaged in a specified activity, especially a sport or branch of the performing arts, as a main paid occupation rather than as a pastime.",
+            "examples": [
+              "professional player, paid player, salaried player; pro his first season as a professional"
+            ],
+            "antonyms": [
+              "amateur"
+            ]
+          },
+          {
+            "definition": "a person competent or skilled in a particular activity.",
+            "examples": [
+              "she was a real professional on stage"
+            ],
+            "synonyms": [
+              "expert",
+              "virtuoso",
+              "old hand",
+              "master",
+              "maestro",
+              "past master; Moreinformalpro",
+              "ace",
+              "wizard",
+              "whiz",
+              "hotshot",
+              "maven",
+              "crackerjack \"she was a real professional on stage\""
+            ],
+            "antonyms": [
+              "amateur"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "word": "tongue",
+    "syllables": [
+      "tongue"
+    ],
+    "pronunciation": "təNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tongue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tongues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fleshy muscular organ in the mouth of a mammal, used for tasting, licking, swallowing, and (in humans) articulating speech."
+          },
+          {
+            "definition": "the equivalent organ in other vertebrates, sometimes used (in snakes) as a scent organ or (in chameleons) for catching food."
+          },
+          {
+            "definition": "an analogous organ in insects, formed from some of the mouthparts and used in feeding."
+          },
+          {
+            "definition": "the tongue of a hoofed mammal, in particular an ox or lamb, as food."
+          },
+          {
+            "definition": "used in reference to a person's style or manner of speaking.",
+            "examples": [
+              "he was a redoubtable debater with a caustic tongue"
+            ],
+            "synonyms": [
+              "way/manner of speaking",
+              "speech",
+              "choice of words",
+              "parlance \"her sharp tongue\""
+            ]
+          },
+          {
+            "definition": "a particular language.",
+            "examples": [
+              "the prioress chatted to the peddler in a strange tongue"
+            ],
+            "synonyms": [
+              "language",
+              "dialect",
+              "patois",
+              "vernacular",
+              "mother tongue",
+              "native tongue",
+              "heritage language",
+              "lingua franca; informallingo \"a foreign tongue\""
+            ]
+          },
+          {
+            "definition": "see the gift of tongues below."
+          },
+          {
+            "definition": "a thing resembling or likened to a tongue, in particular."
+          },
+          {
+            "definition": "a long, low promontory of land."
+          },
+          {
+            "definition": "a strip of leather or fabric under the laces in a shoe, attached only at the front end."
+          },
+          {
+            "definition": "the pin of a buckle."
+          },
+          {
+            "definition": "a projecting strip on a wooden board fitting into a groove on another."
+          },
+          {
+            "definition": "the vibrating reed of a musical instrument or organ pipe."
+          },
+          {
+            "definition": "a jet of flame.",
+            "examples": [
+              "a tongue of flame flashes four feet from the gun"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tongue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tongues"
+          },
+          {
+            "part": "past tense",
+            "variant": "tongued"
+          },
+          {
+            "part": "past participle",
+            "variant": "tongued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tonguing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sound (a note) distinctly on a wind instrument by interrupting the air flow with the tongue."
+          },
+          {
+            "definition": "lick or caress with the tongue.",
+            "examples": [
+              "the other horse tongued every part of the colt's mane"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

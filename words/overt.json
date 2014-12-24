@@ -1,0 +1,46 @@
+[
+  {
+    "word": "overt",
+    "syllables": [
+      "o",
+      "vert"
+    ],
+    "pronunciation": "ōˈvərtˈōvərt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "overt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "done or shown openly; plainly or readily apparent, not secret or hidden.",
+            "examples": [
+              "an overt act of aggression"
+            ],
+            "synonyms": [
+              "undisguised",
+              "unconcealed",
+              "plain (to see)",
+              "clear",
+              "apparent",
+              "conspicuous",
+              "obvious",
+              "noticeable",
+              "manifest",
+              "patent",
+              "open",
+              "blatant \"an overt attempt to sidestep the truth\""
+            ],
+            "antonyms": [
+              "covert"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

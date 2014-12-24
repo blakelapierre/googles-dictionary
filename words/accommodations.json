@@ -1,0 +1,103 @@
+[
+  {
+    "word": "accommodation",
+    "syllables": [
+      "ac",
+      "com",
+      "mo",
+      "da",
+      "tion"
+    ],
+    "pronunciation": "əˌkäməˈdāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "accommodations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a room, group of rooms, or building in which someone may live or stay.",
+            "examples": [
+              "the cost includes airfare and hotel accommodations"
+            ],
+            "synonyms": [
+              "housing",
+              "lodging(s)",
+              "living quarters",
+              "quarters",
+              "rooms; Moreplace to stay",
+              "billet; shelter",
+              "roof over one's head; informaldigs",
+              "pad; formalabode",
+              "residence",
+              "place of residence",
+              "dwelling",
+              "dwelling place",
+              "habitation \"temporary accommodations\""
+            ]
+          },
+          {
+            "definition": "lodging; room and board.",
+            "examples": [
+              "the company offers a number of guesthouse accommodations in Cape Cod"
+            ]
+          },
+          {
+            "definition": "the available space for occupants in a building, vehicle, or vessel.",
+            "examples": [
+              "there was lifeboat accommodation for 1,178 people"
+            ],
+            "synonyms": [
+              "space",
+              "room",
+              "seating; places \"lifeboat accommodations for 1",
+              "178 people\""
+            ]
+          },
+          {
+            "definition": "the provision of a room or lodging.",
+            "examples": [
+              "the building is used exclusively for the accommodation of guests"
+            ]
+          },
+          {
+            "definition": "a convenient arrangement; a settlement or compromise.",
+            "examples": [
+              "management was seeking an accommodation with labor"
+            ],
+            "synonyms": [
+              "arrangement",
+              "understanding",
+              "settlement",
+              "accord",
+              "deal",
+              "bargain",
+              "compromise \"an accommodation between the two parties was reached\""
+            ]
+          },
+          {
+            "definition": "the process of adapting or adjusting to someone or something.",
+            "examples": [
+              "accommodation to a separate political entity was not possible"
+            ],
+            "synonyms": [
+              "adjustment",
+              "adaptation",
+              "habituation",
+              "acclimatization",
+              "acclimation",
+              "acculturation; inurement \"their accommodations to changing economic circumstances\""
+            ]
+          },
+          {
+            "definition": "the automatic adjustment of the focus of the eye by flattening or thickening of the lens."
+          }
+        ]
+      }
+    ]
+  }
+]

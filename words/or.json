@@ -1,0 +1,242 @@
+[
+  {
+    "word": "or",
+    "syllables": [
+      "or"
+    ],
+    "pronunciation": "ôr",
+    "parts": [
+      {
+        "part": "conjunction",
+        "variants": [
+          {
+            "part": "conjunction",
+            "variant": "or"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to link alternatives.",
+            "examples": [
+              "a cup of tea or coffee"
+            ]
+          },
+          {
+            "definition": "introducing a synonym or explanation of a preceding word or phrase.",
+            "examples": [
+              "the espionage novel, or, as it is known in the trade, the thriller"
+            ]
+          },
+          {
+            "definition": "otherwise (used to introduce the consequences of something not being done or not being the case).",
+            "examples": [
+              "hurry up, or you'll miss it all"
+            ]
+          },
+          {
+            "definition": "introducing an afterthought, usually in the form of a question.",
+            "examples": [
+              "John's indifference—or was it?—left her unsettled"
+            ]
+          },
+          {
+            "definition": "either.",
+            "examples": [
+              "to love is the one way to know or God or man"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounElectronics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "OR"
+          },
+          {
+            "part": "noun",
+            "variant": "or"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a Boolean operator that gives the value one if at least one operand (or input) has a value of one, and otherwise has a value of zero."
+          },
+          {
+            "definition": "a circuit that gives an output signal if there is a signal on any of its inputs.",
+            "examples": [
+              "modifier noun: OR; noun: OR gate; plural noun: OR gates"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "or",
+    "syllables": [
+      "or"
+    ],
+    "pronunciation": "ôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "or"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gold or yellow, as a heraldic tincture.",
+            "examples": [
+              "a bend or"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-or",
+    "syllables": [
+      "-or"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-or"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(forming nouns) denoting a person or thing performing the action of a verb, or denoting another agent.",
+            "examples": [
+              "escalator"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-or",
+    "syllables": [
+      "-or"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-or"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming adjectives expressing a comparative sense.",
+            "examples": [
+              "minor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-or",
+    "syllables": [
+      "-or"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-or"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming nouns denoting a state or condition.",
+            "examples": [
+              "error"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "OR",
+    "syllables": [
+      "OR"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "OR"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "operational research."
+          },
+          {
+            "definition": "Oregon (in official postal use).",
+            "examples": [
+              "symbol: OR"
+            ]
+          },
+          {
+            "definition": "other ranks (as opposed to commissioned officers)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "operating room",
+    "syllables": [
+      "op",
+      "er",
+      "at",
+      "ing room"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "OR"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a room in a hospital specially equipped for surgical operations."
+          }
+        ]
+      }
+    ]
+  }
+]

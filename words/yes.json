@@ -1,0 +1,123 @@
+[
+  {
+    "word": "yes",
+    "syllables": [
+      "yes"
+    ],
+    "pronunciation": "yes",
+    "parts": [
+      {
+        "part": "exclamation",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "yes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to give an affirmative response.",
+            "examples": [
+              "“Do you understand?” “Yes.”"
+            ],
+            "synonyms": [
+              "all right",
+              "very well",
+              "of course",
+              "by all means",
+              "sure",
+              "certainly",
+              "absolutely",
+              "indeed",
+              "right",
+              "affirmative",
+              "in the affirmative",
+              "agreed",
+              "roger; Moreaye aye; informalyeah",
+              "yep",
+              "yup",
+              "ya",
+              "uh-huh",
+              "okay",
+              "OK",
+              "okey-dokey",
+              "okey-doke; archaicyea",
+              "aye \"yes",
+              "I'll come to your party\""
+            ],
+            "antonyms": [
+              "no"
+            ]
+          },
+          {
+            "definition": "expressing agreement with a positive statement just made.",
+            "examples": [
+              "“That was a grand evening.” “Yes, it was.”"
+            ]
+          },
+          {
+            "definition": "expressing contradiction of a negative statement.",
+            "examples": [
+              "“You don't want to go.” “Yes, I do.”"
+            ]
+          },
+          {
+            "definition": "used as a response to someone addressing one or otherwise trying to attract one's attention.",
+            "examples": [
+              "“Oh, Mr. Lawrence.” “Yes?”"
+            ]
+          },
+          {
+            "definition": "used to question a remark or ask for more detail about it.",
+            "examples": [
+              "“It should be easy to check.” “Oh yes? How?”"
+            ]
+          },
+          {
+            "definition": "asked at the end of a statement to indicate the expectation of agreement.",
+            "examples": [
+              "you think I perhaps killed Westbourne, yes?"
+            ]
+          },
+          {
+            "definition": "encouraging someone to continue speaking.",
+            "examples": [
+              "“When you bought those photographs …” “Yes?”"
+            ]
+          },
+          {
+            "definition": "expressing delight.",
+            "examples": [
+              "plenty to eat, including hot roast beef sandwiches (yes!)"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "yes"
+          },
+          {
+            "part": "plural noun",
+            "variant": "yeses"
+          },
+          {
+            "part": "plural noun",
+            "variant": "yesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an affirmative answer or decision, especially in voting.",
+            "examples": [
+              "answering with assured and ardent yeses"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

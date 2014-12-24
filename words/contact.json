@@ -1,0 +1,54 @@
+{
+  "word": "contact",
+  "syllables": [
+    "con",
+    "tact"
+  ],
+  "pronunciation": "ˈkänˌtaktˈkänˌtaktkənˈtakt",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "ˈkänˌtakt/",
+          "variant": ""
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the state or condition of physical touching.",
+          "examples": [
+            "the tennis ball is in contact with the court surface for as little as 5 milliseconds"
+          ],
+          "synonyms": [
+            "touch",
+            "touching; Moreproximity",
+            "exposure \"a disease transmitted through casual contact\""
+          ]
+        },
+        {
+          "definition": "a connection for the passage of an electric current from one thing to another, or a part or device by which such a connection is made.",
+          "examples": [
+            "plural noun: contacts"
+          ]
+        },
+        {
+          "definition": "contact lenses.",
+          "examples": [
+            "plural noun: contacts"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "contacts"
+        }
+      ],
+      "definitions": []
+    }
+  ]
+}

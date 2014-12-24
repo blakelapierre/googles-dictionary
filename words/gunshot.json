@@ -1,0 +1,34 @@
+{
+  "word": "gunshot",
+  "syllables": [
+    "gun",
+    "shot"
+  ],
+  "pronunciation": "ˈɡənˌSHät",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "gunshot"
+        },
+        {
+          "part": "plural noun",
+          "variant": "gunshots"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a shot fired from a gun."
+        },
+        {
+          "definition": "the range of a gun.",
+          "examples": [
+            "we bore down and came nearly within gunshot"
+          ]
+        }
+      ]
+    }
+  ]
+}

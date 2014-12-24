@@ -1,0 +1,125 @@
+{
+  "word": "amount",
+  "syllables": [
+    "a",
+    "mount"
+  ],
+  "pronunciation": "əˈmount",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "amount"
+        },
+        {
+          "part": "plural noun",
+          "variant": "amounts"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a quantity of something, typically the total of a thing or things in number, size, value, or extent.",
+          "examples": [
+            "the sport gives an enormous amount of pleasure to many people"
+          ],
+          "synonyms": [
+            "quantity",
+            "number",
+            "total",
+            "aggregate",
+            "sum",
+            "quota",
+            "group",
+            "size",
+            "mass",
+            "weight",
+            "volume",
+            "bulk",
+            "lot",
+            "quantum \"a fair amount of roast beef\""
+          ]
+        },
+        {
+          "definition": "a sum of money.",
+          "examples": [
+            "they have spent a colossal amount rebuilding the stadium"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "amount"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "amounts"
+        },
+        {
+          "part": "past tense",
+          "variant": "amounted"
+        },
+        {
+          "part": "past participle",
+          "variant": "amounted"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "amounting"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "come to be (the total) when added together.",
+          "examples": [
+            "losses amounted to over 10 million dollars"
+          ],
+          "synonyms": [
+            "add up to",
+            "come to",
+            "run (to)",
+            "be",
+            "total \"the bill amounted to $50\""
+          ]
+        },
+        {
+          "definition": "be the equivalent of.",
+          "examples": [
+            "their actions amounted to a conspiracy"
+          ],
+          "synonyms": [
+            "constitute",
+            "be tantamount to",
+            "come down to",
+            "boil down to; Moresignify",
+            "signal",
+            "mean",
+            "indicate",
+            "suggest",
+            "denote",
+            "point to",
+            "be evidence of",
+            "be symptomatic of; literarybetoken \"a result that amounted to complete failure\""
+          ]
+        },
+        {
+          "definition": "develop into; become.",
+          "examples": [
+            "you'll never amount to anything"
+          ],
+          "synonyms": [
+            "become",
+            "develop into",
+            "prove to be",
+            "turn out to be \"her relationships had never amounted to anything significant\""
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "word": "point",
+  "syllables": [
+    "point"
+  ],
+  "pronunciation": "point",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "point"
+        },
+        {
+          "part": "plural noun",
+          "variant": "points"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the tapered, sharp end of a tool, weapon, or other object.",
+          "examples": [
+            "the point of his dagger"
+          ],
+          "synonyms": [
+            "tip",
+            "(sharp) end",
+            "extremity; Moreprong",
+            "spike",
+            "tine",
+            "nib",
+            "barb \"the point of a needle\""
+          ]
+        },
+        {
+          "definition": "a pointed flake or blade, especially one that has been worked."
+        },
+        {
+          "definition": "see glazier's point."
+        },
+        {
+          "definition": "another term for pointe."
+        },
+        {
+          "definition": "the tip of a person's chin as a spot for a blow."
+        },
+        {
+          "definition": "the prong of a deer's antler."
+        },
+        {
+          "definition": "a dot or other punctuation mark, in particular a period."
+        },
+        {
+          "definition": "a decimal point.",
+          "examples": [
+            "fifty-five point nine"
+          ]
+        },
+        {
+          "definition": "a dot or small stroke used in the alphabets of Semitic languages to indicate vowels or distinguish particular consonants."
+        },
+        {
+          "definition": "a very small dot or mark on a surface.",
+          "examples": [
+            "the sky was studded with points of light"
+          ],
+          "synonyms": [
+            "pinpoint",
+            "dot",
+            "spot",
+            "speck",
+            "fleck \"points of light\""
+          ]
+        },
+        {
+          "definition": "a particular spot, place, or position in an area or on a map, object, or surface.",
+          "examples": [
+            "turn left at the point where you see a sign to Apple Grove"
+          ],
+          "synonyms": [
+            "place",
+            "position",
+            "location",
+            "site",
+            "spot",
+            "area \"a meeting point\""
+          ]
+        },
+        {
+          "definition": "a particular moment in time or stage in a process.",
+          "examples": [
+            "from this point onward, the teacher was completely won over"
+          ],
+          "synonyms": [
+            "time",
+            "stage",
+            "juncture",
+            "period",
+            "phase \"this point in her life\""
+          ]
+        },
+        {
+          "definition": "the critical or decisive moment.",
+          "examples": [
+            "noun: the point"
+          ]
+        },
+        {
+          "definition": "the verge or brink of (doing or being something).",
+          "examples": [
+            "she was on the point of leaving"
+          ],
+          "synonyms": [
+            "(just) about to (be)",
+            "on the verge of",
+            "on the brink of",
+            "going to (be)",
+            "all set to (be) \"we were on the point of quitting",
+            "but something kept us going\""
+          ]
+        },
+        {
+          "definition": "a stage or level at which a change of state occurs.",
+          "examples": [
+            "it is packed to the bursting point"
+          ],
+          "synonyms": [
+            "level",
+            "degree",
+            "stage",
+            "pitch",
+            "extent \"the tension had reached such a high point\""
+          ]
+        },
+        {
+          "definition": "(in geometry) something having position but not spatial extent, magnitude, dimension, or direction, for example the intersection of two lines."
+        },
+        {
+          "definition": "a wall outlet or jack.",
+          "examples": [
+            "a telephone point"
+          ]
+        },
+        {
+          "definition": "a single item or detail in an extended discussion, list, or text.",
+          "examples": [
+            "you ignore a number of important points"
+          ],
+          "synonyms": [
+            "detail",
+            "item",
+            "fact",
+            "thing",
+            "argument",
+            "consideration",
+            "factor",
+            "element; Moresubject",
+            "issue",
+            "topic",
+            "question",
+            "matter \"an important point\""
+          ]
+        },
+        {
+          "definition": "an argument or idea put forward by a person in discussion.",
+          "examples": [
+            "he made the point that economic regulation involves controls on pricing"
+          ],
+          "synonyms": [
+            "heart of the matter",
+            "most important part",
+            "essence",
+            "nub",
+            "keynote",
+            "core",
+            "pith",
+            "crux; Moremeaning",
+            "significance",
+            "gist",
+            "substance",
+            "thrust",
+            "bottom line",
+            "burden",
+            "relevance; informalbrass tacks",
+            "nitty-gritty \"get to the point\""
+          ]
+        },
+        {
+          "definition": "the significant or essential element of what is intended or being discussed.",
+          "examples": [
+            "noun: the point"
+          ]
+        },
+        {
+          "definition": "advantage or purpose that can be gained from doing something.",
+          "examples": [
+            "there was no point in denying the truth"
+          ],
+          "synonyms": [
+            "purpose",
+            "aim",
+            "object",
+            "objective",
+            "goal",
+            "intention; Moreuse",
+            "sense",
+            "value",
+            "advantage \"what's the point of this?\""
+          ]
+        },
+        {
+          "definition": "relevance or effectiveness."
+        },
+        {
+          "definition": "a distinctive feature or characteristic, typically a good one, of a person or thing.",
+          "examples": [
+            "he has his good points"
+          ],
+          "synonyms": [
+            "attribute",
+            "characteristic",
+            "feature",
+            "trait",
+            "quality",
+            "property",
+            "aspect",
+            "side \"he had his good points\""
+          ]
+        },
+        {
+          "definition": "(in sports and games) a mark or unit of scoring.",
+          "examples": [
+            "he scored 13 of his team's final 19 points against Houston"
+          ]
+        },
+        {
+          "definition": "(in craps) the combination total of the two thrown dice (4, 5, 6, 8, 9, or 10) that permits a shooter to keep throwing until he or she throws the same number again and wins."
+        },
+        {
+          "definition": "a unit used in measuring value, achievement, or extent.",
+          "examples": [
+            "the shares index was down seven points"
+          ]
+        },
+        {
+          "definition": "an advantage or success in an argument or discussion.",
+          "examples": [
+            "she smiled, assuming she had won her point"
+          ]
+        },
+        {
+          "definition": "a unit of credit toward an award or benefit."
+        },
+        {
+          "definition": "a percentage of the profits from a movie or recording offered to certain people involved in its production."
+        },
+        {
+          "definition": "a punishment imposed by the courts for a driving offense and recorded cumulatively on a person's driver's license.",
+          "examples": [
+            "operating under the influence meant ten points marked up against the driver"
+          ]
+        },
+        {
+          "definition": "a unit of weight (one hundredth of a carat, or 2 mg) for diamonds."
+        },
+        {
+          "definition": "a unit of varying value, used in quoting the price of stocks, bonds, or futures."
+        },
+        {
+          "definition": "a value assigned to certain cards (4 points for an ace, 3 for a king, 2 for a queen, and 1 for a jack, sometimes with extra points for long or short suits) by a player in assessing the strength of a hand."
+        },
+        {
+          "definition": "(in piquet) the longest suit in a player's hand, containing a specified number of up to eight cards."
+        },
+        {
+          "definition": "each of thirty-two directions marked at equal distances around a compass."
+        },
+        {
+          "definition": "the corresponding direction toward the horizon."
+        },
+        {
+          "definition": "the angular interval between two successive points of a compass, i.e., one eighth of a right angle (11° 15ʹ)."
+        },
+        {
+          "definition": "unspecified places considered in terms of their direction from a specified place.",
+          "examples": [
+            "they headed down I-95 to Philadelphia and points south"
+          ]
+        },
+        {
+          "definition": "a narrow piece of land jutting out into a lake or ocean.",
+          "examples": [
+            "the boat came around the point"
+          ],
+          "synonyms": [
+            "promontory",
+            "headland",
+            "foreland",
+            "cape",
+            "spit",
+            "peninsula",
+            "bluff",
+            "ness",
+            "horn \"the ship rounded the point\""
+          ]
+        },
+        {
+          "definition": "another term for switch (sense 4 of the noun)."
+        },
+        {
+          "definition": "a unit of measurement for type sizes and spacing, which in the US and UK is one twelfth of a pica, or 0.013835 inch (0.351 mm), and in Europe is 0.015 inch (0.376 mm)."
+        },
+        {
+          "definition": "a frontcourt position, usually manned by the guard who sets up the team's defense."
+        },
+        {
+          "definition": "either of two areas in each attacking zone, just inside the blue line where it meets the boards."
+        },
+        {
+          "definition": "each of a set of electrical contacts in the distributor of a motor vehicle."
+        },
+        {
+          "definition": "a small leading party of an advanced guard of troops."
+        },
+        {
+          "definition": "the position at the head of a column or wedge of troops.",
+          "examples": [
+            "another marine said he would walk point because I had done it on the last patrol"
+          ]
+        },
+        {
+          "definition": "short for point man."
+        },
+        {
+          "definition": "the extremities of an animal, typically a horse or cat, such as the face, paws, and tail of a Siamese cat."
+        },
+        {
+          "definition": "a spot to which a straight run is made."
+        },
+        {
+          "definition": "a straight run.",
+          "examples": [
+            "our fox made his point to Moorhill"
+          ]
+        },
+        {
+          "definition": "a tagged piece of ribbon or cord used for lacing a garment or attaching breeches to a doublet."
+        },
+        {
+          "definition": "a short piece of cord for tying up a reef in a sail."
+        },
+        {
+          "definition": "the action or position of a dog in pointing.",
+          "examples": [
+            "a bird dog on point"
+          ]
+        },
+        {
+          "definition": "an important phrase or subject, especially in a contrapuntal composition."
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "point"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "points"
+        },
+        {
+          "part": "past tense",
+          "variant": "pointed"
+        },
+        {
+          "part": "past participle",
+          "variant": "pointed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "pointing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "direct someone's attention to the position or direction of something, typically by extending one's finger.",
+          "examples": [
+            "the boys were nudging each other and pointing at me"
+          ]
+        },
+        {
+          "definition": "indicate a particular time, direction, or reading.",
+          "examples": [
+            "a sign pointing left"
+          ]
+        },
+        {
+          "definition": "direct or aim (something) at someone or something.",
+          "examples": [
+            "he pointed the flashlight beam at the floor"
+          ],
+          "synonyms": [
+            "aim",
+            "direct",
+            "level",
+            "train \"she pointed the gun at him\""
+          ]
+        },
+        {
+          "definition": "face or be turned in a particular direction.",
+          "examples": [
+            "two of its toes point forward and two point back"
+          ]
+        },
+        {
+          "definition": "cite or put forward a fact or situation as evidence of something.",
+          "examples": [
+            "he points to several factors supporting this conclusion"
+          ]
+        },
+        {
+          "definition": "(of a situation) be evidence or an indication that (something) is likely to happen or be the case.",
+          "examples": [
+            "everything pointed to an eastern attack"
+          ],
+          "synonyms": [
+            "indicate",
+            "suggest",
+            "evidence",
+            "signal",
+            "signify",
+            "denote",
+            "bespeak",
+            "reveal",
+            "manifest \"the evidence pointed to his guilt\""
+          ]
+        },
+        {
+          "definition": "(of a dog) indicate the presence of (game) by acting as pointer."
+        },
+        {
+          "definition": "extend (the toes or feet) by tensing the foot and ankle so as to form a point."
+        },
+        {
+          "definition": "give force or emphasis to (words or actions).",
+          "examples": [
+            "he wouldn't miss the opportunity to point a moral"
+          ]
+        },
+        {
+          "definition": "fill in or repair the joints of (brickwork, a brick structure, or tiling) with smoothly finished mortar or cement."
+        },
+        {
+          "definition": "give a sharp, tapered point to.",
+          "examples": [
+            "he twisted and pointed his mustache"
+          ]
+        },
+        {
+          "definition": "insert points in (written Hebrew)."
+        },
+        {
+          "definition": "mark (Psalms) with signs for chanting."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "verdict",
+    "syllables": [
+      "ver",
+      "dict"
+    ],
+    "pronunciation": "ˈvərdikt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "verdict"
+          },
+          {
+            "part": "plural noun",
+            "variant": "verdicts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a decision on a disputed issue in a civil or criminal case or an inquest.",
+            "examples": [
+              "the jury returned a verdict of ‘not guilty.’"
+            ],
+            "synonyms": [
+              "judgment",
+              "adjudication",
+              "decision",
+              "finding",
+              "ruling",
+              "decree",
+              "resolution",
+              "pronouncement",
+              "conclusion",
+              "opinion; determination \"the judge's verdict is final\""
+            ]
+          },
+          {
+            "definition": "an opinion or judgment.",
+            "examples": [
+              "I'm anxious to know your verdict on me"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

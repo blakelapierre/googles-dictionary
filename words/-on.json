@@ -1,0 +1,41 @@
+{
+  "word": "-on",
+  "syllables": [
+    "-on"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "suffixPhysicsBiochemistryChemistry",
+      "variants": [
+        {
+          "part": "suffix",
+          "variant": "-on"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "forming nouns:"
+        },
+        {
+          "definition": "denoting subatomic particles or quanta.",
+          "examples": [
+            "neutron"
+          ]
+        },
+        {
+          "definition": "denoting molecular units.",
+          "examples": [
+            "codon"
+          ]
+        },
+        {
+          "definition": "denoting substances.",
+          "examples": [
+            "interferon"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "amplifier",
+    "syllables": [
+      "am",
+      "pli",
+      "fi",
+      "er"
+    ],
+    "pronunciation": "ˈampləˌfī(ə)r",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "amplifier"
+          },
+          {
+            "part": "plural noun",
+            "variant": "amplifiers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an electronic device for increasing the amplitude of electrical signals, used chiefly in sound reproduction."
+          },
+          {
+            "definition": "a device consisting of an amplifier combined with a loudspeaker, used to amplify electric guitars and other musical instruments."
+          }
+        ]
+      }
+    ]
+  }
+]

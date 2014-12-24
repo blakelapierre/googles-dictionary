@@ -1,0 +1,66 @@
+{
+  "word": "own",
+  "syllables": [
+    "own"
+  ],
+  "pronunciation": "ōn",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "owns"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "have (something) as one's own; possess.",
+          "examples": [
+            "his father owns a restaurant"
+          ],
+          "synonyms": [
+            "be the owner of",
+            "possess",
+            "be the possessor of",
+            "have in one's possession",
+            "have (to one's name) \"I own this house\""
+          ]
+        },
+        {
+          "definition": "admit or acknowledge that something is the case or that one feels a certain way.",
+          "examples": [
+            "she owned to a feeling of profound jealousy"
+          ],
+          "synonyms": [
+            "admit",
+            "concede",
+            "grant",
+            "accept",
+            "acknowledge",
+            "agree",
+            "confess \"she had to own that she agreed\""
+          ]
+        },
+        {
+          "definition": "take or acknowledge full responsibility for (something).",
+          "examples": [
+            "I emphasize the importance of owning our anger and finding ways to control it"
+          ]
+        },
+        {
+          "definition": "acknowledge paternity, authorship, or possession of.",
+          "examples": [
+            "he has published little, trivial things which he will not own"
+          ]
+        },
+        {
+          "definition": "utterly defeat or humiliate.",
+          "examples": [
+            "yeah right, she totally owned you, man"
+          ]
+        }
+      ]
+    }
+  ]
+}

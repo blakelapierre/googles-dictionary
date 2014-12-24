@@ -1,0 +1,177 @@
+[
+  {
+    "word": "depressed",
+    "syllables": [
+      "de",
+      "pressed"
+    ],
+    "pronunciation": "dəˈprest",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "depressed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) in a state of general unhappiness or despondency.",
+            "examples": [
+              "sad, unhappy, miserable, gloomy, glum, melancholy, dejected, disconsolate, downhearted, downcast, down, despondent, dispirited, low, heavy-hearted, morose, dismal, desolate; Moretearful, upset; informalblue, down in the dumps, down in/at the mouth \"he felt lonely and depressed\"Moretearful, upset; blue, down in the dumps, down in/at the mouth he felt lonely and depressed"
+            ],
+            "antonyms": [
+              "cheerful"
+            ]
+          },
+          {
+            "definition": "(of a person) suffering from clinical depression."
+          },
+          {
+            "definition": "(of a place or economic activity) suffering the damaging effects of a lack of demand or employment.",
+            "examples": [
+              "depressed urban areas"
+            ],
+            "synonyms": [
+              "weak",
+              "enervated",
+              "devitalized",
+              "impaired; Moreinactive",
+              "flat",
+              "slow",
+              "slack",
+              "sluggish",
+              "stagnant \"a depressed economy\"poverty-stricken",
+              "poor",
+              "disadvantaged",
+              "underprivileged",
+              "deprived",
+              "needy",
+              "distressed; run-down",
+              "slummy \"a depressed part of town\""
+            ],
+            "antonyms": [
+              "strong",
+              "prosperous"
+            ]
+          },
+          {
+            "definition": "(of an object or part of an object) in a physically lower position, having been pushed or forced down.",
+            "examples": [
+              "a depressed fracture of the skull"
+            ],
+            "synonyms": [
+              "sunken",
+              "hollow",
+              "concave",
+              "indented",
+              "recessed \"the removal of the tree left a depressed patch of ground\""
+            ],
+            "antonyms": [
+              "raised"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "depress",
+    "syllables": [
+      "de",
+      "press"
+    ],
+    "pronunciation": "dəˈpres",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "depressed"
+          },
+          {
+            "part": "past participle",
+            "variant": "depressed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (someone) feel utterly dispirited or dejected.",
+            "examples": [
+              "that first day at school depressed me"
+            ],
+            "synonyms": [
+              "sadden",
+              "dispirit",
+              "cast down",
+              "get down",
+              "dishearten",
+              "demoralize",
+              "crush",
+              "shake",
+              "desolate",
+              "weigh down",
+              "oppress; Moreupset",
+              "distress",
+              "grieve",
+              "haunt",
+              "harrow; informalgive someone the blues \"the news depressed him\""
+            ],
+            "antonyms": [
+              "cheer (up)"
+            ]
+          },
+          {
+            "definition": "reduce the level or strength of activity in (something, especially an economic or biological system).",
+            "examples": [
+              "fear of inflation in America depressed bond markets"
+            ],
+            "synonyms": [
+              "slow down",
+              "reduce",
+              "lower",
+              "weaken",
+              "impair; Morelimit",
+              "check",
+              "inhibit",
+              "restrict \"new economic policies depressed sales\"reduce",
+              "lower",
+              "cut",
+              "cheapen",
+              "keep down",
+              "discount",
+              "deflate",
+              "depreciate",
+              "devalue",
+              "diminish",
+              "ax",
+              "slash \"foreign imports will depress domestic prices\""
+            ],
+            "antonyms": [
+              "encourage",
+              "raise"
+            ]
+          },
+          {
+            "definition": "push or pull (something) down into a lower position.",
+            "examples": [
+              "depress the lever"
+            ],
+            "synonyms": [
+              "press",
+              "push",
+              "hold down; Morethumb",
+              "tap; operate",
+              "activate \"depress each lever in turn\""
+            ],
+            "antonyms": [
+              "lift"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

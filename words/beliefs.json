@@ -1,0 +1,83 @@
+[
+  {
+    "word": "belief",
+    "syllables": [
+      "be",
+      "lief"
+    ],
+    "pronunciation": "bəˈlēf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "beliefs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an acceptance that a statement is true or that something exists.",
+            "examples": [
+              "his belief in the value of hard work"
+            ]
+          },
+          {
+            "definition": "something one accepts as true or real; a firmly held opinion or conviction.",
+            "examples": [
+              "contrary to popular belief, Aramaic is a living language"
+            ],
+            "synonyms": [
+              "opinion",
+              "view",
+              "conviction",
+              "judgment",
+              "thinking",
+              "way of thinking",
+              "idea",
+              "impression",
+              "theory",
+              "conclusion",
+              "notion \"it's my belief that age is irrelevant\""
+            ]
+          },
+          {
+            "definition": "a religious conviction.",
+            "examples": [
+              "Christian beliefs"
+            ],
+            "synonyms": [
+              "ideology",
+              "principle",
+              "ethic",
+              "tenet",
+              "canon; Moredoctrine",
+              "teaching",
+              "dogma",
+              "article of faith",
+              "creed",
+              "credo \"traditional beliefs\""
+            ]
+          },
+          {
+            "definition": "trust, faith, or confidence in someone or something.",
+            "examples": [
+              "a belief in democratic politics"
+            ],
+            "synonyms": [
+              "faith",
+              "trust",
+              "reliance",
+              "confidence",
+              "credence \"belief in the value of hard work\""
+            ],
+            "antonyms": [
+              "disbelief",
+              "doubt"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

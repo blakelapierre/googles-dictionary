@@ -1,0 +1,134 @@
+[
+  {
+    "word": "of",
+    "syllables": [
+      "of"
+    ],
+    "pronunciation": "əv",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "of"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing the relationship between a part and a whole.",
+            "examples": [
+              "the sleeve of his coat"
+            ]
+          },
+          {
+            "definition": "expressing the relationship between a scale or measure and a value.",
+            "examples": [
+              "an increase of 5 percent"
+            ]
+          },
+          {
+            "definition": "expressing an age.",
+            "examples": [
+              "a boy of fifteen"
+            ]
+          },
+          {
+            "definition": "indicating an association between two entities, typically one of belonging.",
+            "examples": [
+              "the son of a friend"
+            ]
+          },
+          {
+            "definition": "expressing the relationship between an author, artist, or composer and their works collectively.",
+            "examples": [
+              "the plays of Shakespeare"
+            ]
+          },
+          {
+            "definition": "expressing the relationship between a direction and a point of reference.",
+            "examples": [
+              "north of Chicago"
+            ]
+          },
+          {
+            "definition": "expressing the relationship between a general category and the thing being specified which belongs to such a category.",
+            "examples": [
+              "the city of Prague"
+            ]
+          },
+          {
+            "definition": "governed by a noun expressing the fact that a category is vague.",
+            "examples": [
+              "this type of book"
+            ]
+          },
+          {
+            "definition": "indicating the relationship between a verb and an indirect object."
+          },
+          {
+            "definition": "with a verb expressing a mental state.",
+            "examples": [
+              "they must be persuaded of the severity of the problem"
+            ]
+          },
+          {
+            "definition": "expressing a cause.",
+            "examples": [
+              "he died of cancer"
+            ]
+          },
+          {
+            "definition": "indicating the material or substance constituting something.",
+            "examples": [
+              "the house was built of bricks"
+            ]
+          },
+          {
+            "definition": "expressing time in relation to the following hour.",
+            "examples": [
+              "it would be just a quarter of three in New York"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "of-",
+    "syllables": [
+      "of-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "of-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "variant spelling of ob- assimilated before f (as in offend )."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "OF",
+    "syllables": [
+      "OF"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

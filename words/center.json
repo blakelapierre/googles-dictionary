@@ -1,0 +1,180 @@
+{
+  "word": "center",
+  "syllables": [
+    "cen",
+    "ter"
+  ],
+  "pronunciation": "ˈsen(t)ər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "centre"
+        },
+        {
+          "part": "plural noun",
+          "variant": "centres"
+        },
+        {
+          "part": "noun",
+          "variant": "center"
+        },
+        {
+          "part": "plural noun",
+          "variant": "centers"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the middle point of a circle or sphere, equidistant from every point on the circumference or surface."
+        },
+        {
+          "definition": "a point or part that is equally distant from all sides, ends, or surfaces of something; the middle.",
+          "examples": [
+            "the center of the ceiling"
+          ],
+          "synonyms": [
+            "middle",
+            "nucleus",
+            "heart",
+            "core",
+            "hub; Moremiddle point",
+            "midpoint",
+            "halfway point",
+            "mean",
+            "median \"the center of the town\""
+          ],
+          "antonyms": [
+            "edge"
+          ]
+        },
+        {
+          "definition": "a pivot or axis of rotation.",
+          "examples": [
+            "the galactic rotation of the solar system around the galactic center"
+          ]
+        },
+        {
+          "definition": "a political party or group holding moderate opinions."
+        },
+        {
+          "definition": "the middle player in a line or group in many games.",
+          "examples": [
+            "Terry played center on the basketball team"
+          ]
+        },
+        {
+          "definition": "short for center field.",
+          "examples": [
+            "he flied out to center"
+          ]
+        },
+        {
+          "definition": "a core, such as the filling in a piece of chocolate.",
+          "examples": [
+            "truffles with liqueur centers"
+          ]
+        },
+        {
+          "definition": "a conical adjustable support for a workpiece in a lathe or similar machine."
+        },
+        {
+          "definition": "the point from which an activity or process is directed, or on which it is focused.",
+          "examples": [
+            "the city was a center of discontent"
+          ]
+        },
+        {
+          "definition": "the most important place in the respect specified.",
+          "examples": [
+            "Geneva was then the center of the international world"
+          ]
+        },
+        {
+          "definition": "a place or group of buildings where a specified activity is concentrated.",
+          "examples": [
+            "a center for medical research"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "center"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "centers"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "centering"
+        },
+        {
+          "part": "past tense",
+          "variant": "centered"
+        },
+        {
+          "part": "past participle",
+          "variant": "centered"
+        },
+        {
+          "part": "verb",
+          "variant": "centre"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "centres"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "centring"
+        },
+        {
+          "part": "past tense",
+          "variant": "centred"
+        },
+        {
+          "part": "past participle",
+          "variant": "centred"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "have or cause to have something as (a major concern or theme).",
+          "examples": [
+            "the case centers around the couple's adopted children"
+          ],
+          "synonyms": [
+            "focus",
+            "concentrate",
+            "pivot",
+            "hinge",
+            "revolve",
+            "be based \"the story centers on a doctor\""
+          ]
+        },
+        {
+          "definition": "(of an activity) occur mainly in or around (a specified place).",
+          "examples": [
+            "the mercantile association was centered in northern Germany"
+          ]
+        },
+        {
+          "definition": "place in the middle.",
+          "examples": [
+            "to center the needle, turn the knob"
+          ]
+        },
+        {
+          "definition": "pass the ball back from the ground to another player to begin a down; snap."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "conversation",
+    "syllables": [
+      "con",
+      "ver",
+      "sa",
+      "tion"
+    ],
+    "pronunciation": "ˌkänvərˈsāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "conversation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "conversations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the informal exchange of ideas by spoken words.",
+            "examples": [
+              "the two men were deep in conversation"
+            ],
+            "synonyms": [
+              "discussion",
+              "talk",
+              "chat",
+              "gossip",
+              "tête-à-tête",
+              "heart-to-heart",
+              "exchange",
+              "dialogue; Moreinformalconfab",
+              "jaw",
+              "chitchat",
+              "chinwag",
+              "gabfest; formalconfabulation",
+              "colloquy \"he may have overheard our conversation\""
+            ]
+          },
+          {
+            "definition": "an instance of this.",
+            "examples": [
+              "she picked up the phone and held a conversation in French"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

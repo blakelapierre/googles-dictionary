@@ -1,0 +1,83 @@
+[
+  {
+    "word": "include",
+    "syllables": [
+      "in",
+      "clude"
+    ],
+    "pronunciation": "inˈklo͞od",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "include"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "includes"
+          },
+          {
+            "part": "past tense",
+            "variant": "included"
+          },
+          {
+            "part": "past participle",
+            "variant": "included"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "including"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "comprise or contain as part of a whole.",
+            "examples": [
+              "the price includes dinner, bed, and breakfast"
+            ],
+            "synonyms": [
+              "incorporate",
+              "comprise",
+              "encompass",
+              "cover",
+              "embrace",
+              "involve",
+              "take in",
+              "number",
+              "contain; Moreconsist of",
+              "be made up of",
+              "be composed of; formalcomprehend \"activities include sports and drama\""
+            ],
+            "antonyms": [
+              "exclude"
+            ]
+          },
+          {
+            "definition": "make part of a whole or set.",
+            "examples": [
+              "we have included some hints for beginners in this section"
+            ]
+          },
+          {
+            "definition": "allow (someone) to share in an activity or privilege.",
+            "examples": [
+              "there were doubts as to whether she was included in the invitation"
+            ],
+            "synonyms": [
+              "allow for",
+              "count",
+              "take into account",
+              "take into consideration \"don't forget to include the cost of repairs\""
+            ],
+            "antonyms": [
+              "omit",
+              "leave out"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

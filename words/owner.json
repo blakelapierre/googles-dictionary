@@ -1,0 +1,37 @@
+{
+  "word": "owner",
+  "syllables": [
+    "own",
+    "er"
+  ],
+  "pronunciation": "ˈōnər",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "owners"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person who owns something.",
+          "examples": [
+            "the proud owner of a huge Dalmatian"
+          ],
+          "synonyms": [
+            "possessor",
+            "holder",
+            "proprietor/proprietress",
+            "homeowner",
+            "landowner",
+            "freeholder",
+            "landlord",
+            "landlady \"the owner is no longer interested in selling\""
+          ]
+        }
+      ]
+    }
+  ]
+}

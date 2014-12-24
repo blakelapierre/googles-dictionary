@@ -1,0 +1,74 @@
+{
+  "word": "person",
+  "syllables": [
+    "per",
+    "son"
+  ],
+  "pronunciation": "ˈpərs(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "people"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a human being regarded as an individual.",
+          "examples": [
+            "the porter was the last person to see her"
+          ],
+          "synonyms": [
+            "human being",
+            "individual",
+            "man/woman",
+            "child",
+            "human",
+            "being",
+            "(living) soul",
+            "mortal",
+            "creature; Morepersonage",
+            "character",
+            "customer; informaltype",
+            "sort",
+            "cookie; informal",
+            "body",
+            "dog; archaicwight \"that person over there is the one who called the police\""
+          ]
+        },
+        {
+          "definition": "used in legal or formal contexts to refer to an unspecified individual.",
+          "examples": [
+            "the entrance fee is $10.00 per person"
+          ]
+        },
+        {
+          "definition": "an individual characterized by a preference or liking for a specified thing.",
+          "examples": [
+            "she's not a cat person"
+          ]
+        },
+        {
+          "definition": "an individual's body.",
+          "examples": [
+            "I have publicity photographs on my person at all times"
+          ]
+        },
+        {
+          "definition": "a character in a play or story.",
+          "examples": [
+            "his previous roles in the person of a fallible cop"
+          ]
+        },
+        {
+          "definition": "a category used in the classification of pronouns, possessive determiners, and verb forms, according to whether they indicate the speaker first person, the addressee second person, or a third party third person."
+        },
+        {
+          "definition": "each of the three modes of being of God, namely the Father, the Son, or the Holy Spirit, who together constitute the Trinity."
+        }
+      ]
+    }
+  ]
+}

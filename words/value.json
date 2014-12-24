@@ -1,0 +1,168 @@
+{
+  "word": "value",
+  "syllables": [
+    "val",
+    "ue"
+  ],
+  "pronunciation": "ˈvalyo͞o",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "value"
+        },
+        {
+          "part": "plural noun",
+          "variant": "values"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the regard that something is held to deserve; the importance, worth, or usefulness of something.",
+          "examples": [
+            "your support is of great value"
+          ],
+          "synonyms": [
+            "worth",
+            "usefulness",
+            "advantage",
+            "benefit",
+            "gain",
+            "profit",
+            "good",
+            "help",
+            "merit",
+            "helpfulness",
+            "avail; Moreimportance",
+            "significance \"the value of adequate preparation cannot be understated\""
+          ]
+        },
+        {
+          "definition": "the material or monetary worth of something.",
+          "examples": [
+            "prints seldom rise in value"
+          ],
+          "synonyms": [
+            "price",
+            "cost",
+            "worth; Moremarket price",
+            "monetary value",
+            "face value \"houses exceeding $250",
+            "000 in value\""
+          ]
+        },
+        {
+          "definition": "the worth of something compared to the price paid or asked for it.",
+          "examples": [
+            "at $12.50 the book is a good value"
+          ]
+        },
+        {
+          "definition": "a person's principles or standards of behavior; one's judgment of what is important in life.",
+          "examples": [
+            "they internalize their parents' rules and values"
+          ],
+          "synonyms": [
+            "principles",
+            "ethics",
+            "moral code",
+            "morals",
+            "standards",
+            "code of behavior \"society's values are passed on to us as children\""
+          ]
+        },
+        {
+          "definition": "the numerical amount denoted by an algebraic term; a magnitude, quantity, or number.",
+          "examples": [
+            "the mean value of x"
+          ]
+        },
+        {
+          "definition": "the relative duration of the sound signified by a note."
+        },
+        {
+          "definition": "the meaning of a word or other linguistic unit."
+        },
+        {
+          "definition": "the quality or tone of a spoken sound; the sound represented by a letter."
+        },
+        {
+          "definition": "the relative degree of lightness or darkness of a particular color.",
+          "examples": [
+            "the artist has used adjacent color values as the landscape recedes"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "value"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "values"
+        },
+        {
+          "part": "past tense",
+          "variant": "valued"
+        },
+        {
+          "part": "past participle",
+          "variant": "valued"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "valuing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "estimate the monetary worth of (something).",
+          "examples": [
+            "his estate was valued at $45,000"
+          ],
+          "synonyms": [
+            "evaluate",
+            "assess",
+            "estimate",
+            "appraise",
+            "price",
+            "put/set a price on \"his estate was valued at $345",
+            "000\""
+          ]
+        },
+        {
+          "definition": "consider (someone or something) to be important or beneficial; have a high opinion of.",
+          "examples": [
+            "she had come to value her privacy and independence"
+          ],
+          "synonyms": [
+            "think highly of",
+            "have a high opinion of",
+            "hold in high regard",
+            "rate highly",
+            "esteem",
+            "set (great) store by",
+            "put stock in",
+            "appreciate",
+            "respect; Moreprize",
+            "cherish",
+            "treasure \"she valued his opinion\"cherished",
+            "treasured",
+            "dear",
+            "prized; esteemed",
+            "respected",
+            "highly regarded",
+            "appreciated",
+            "important \"this is my most valued piece of crystal\""
+          ]
+        }
+      ]
+    }
+  ]
+}

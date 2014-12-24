@@ -1,0 +1,185 @@
+{
+  "word": "name",
+  "syllables": [
+    "name"
+  ],
+  "pronunciation": "nām",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "name"
+        },
+        {
+          "part": "plural noun",
+          "variant": "names"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+          "examples": [
+            "my name is Parsons, John Parsons"
+          ],
+          "synonyms": [
+            "designation",
+            "honorific",
+            "title",
+            "tag",
+            "epithet",
+            "label; Moreinformalmoniker",
+            "handle; formaldenomination",
+            "appellation \"her name's Emma\""
+          ]
+        },
+        {
+          "definition": "a famous person.",
+          "examples": [
+            "as usual, the big race will lure the top names"
+          ],
+          "synonyms": [
+            "celebrity",
+            "star",
+            "superstar",
+            "VIP",
+            "leading light",
+            "big name",
+            "luminary; Moreexpert",
+            "authority; informalceleb",
+            "somebody",
+            "megastar",
+            "big shot",
+            "bigwig",
+            "big gun",
+            "great",
+            "giant \"the top names in the fashion industry\""
+          ]
+        },
+        {
+          "definition": "a reputation, especially a good one.",
+          "examples": [
+            "he set up a school that gained a name for excellence"
+          ],
+          "synonyms": [
+            "reputation",
+            "character",
+            "repute",
+            "standing",
+            "stature",
+            "esteem",
+            "prestige",
+            "cachet",
+            "kudos; Morerenown",
+            "popularity",
+            "notability",
+            "distinction \"the good name of the firm\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "name"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "names"
+        },
+        {
+          "part": "past tense",
+          "variant": "named"
+        },
+        {
+          "part": "past participle",
+          "variant": "named"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "naming"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "give a name to.",
+          "examples": [
+            "hundreds of diseases had not yet been isolated or named"
+          ],
+          "synonyms": [
+            "call",
+            "give a name to",
+            "dub; Morelabel",
+            "style",
+            "term",
+            "title",
+            "entitle; baptize",
+            "christen; formaldenominate \"they named the baby Phoebe\""
+          ]
+        },
+        {
+          "definition": "identify by name; give the correct name for.",
+          "examples": [
+            "the dead man has been named as John Mackintosh"
+          ],
+          "synonyms": [
+            "identify",
+            "specify \"he named the woman in the photograph\""
+          ]
+        },
+        {
+          "definition": "give a particular title or epithet to.",
+          "examples": [
+            "she was named “Artist of the Decade.”"
+          ]
+        },
+        {
+          "definition": "mention or cite by name.",
+          "examples": [
+            "the sea is as crystal clear as any spot in the Caribbean you might care to name"
+          ]
+        },
+        {
+          "definition": "appoint (someone) to a particular position or task.",
+          "examples": [
+            "he was named to head a joint UN–OAS diplomatic effort"
+          ]
+        },
+        {
+          "definition": "specify (an amount, time, or place) as something desired, suggested, or decided on.",
+          "examples": [
+            "he showed them the picture and named a price"
+          ],
+          "synonyms": [
+            "choose",
+            "select",
+            "pick",
+            "decide on",
+            "nominate",
+            "designate \"he has named his successor\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "name"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "(of a person or commercial product) having a name that is widely known.",
+          "examples": [
+            "countless specialized name brands geared to niche markets"
+          ]
+        }
+      ]
+    }
+  ]
+}

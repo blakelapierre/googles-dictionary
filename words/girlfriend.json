@@ -1,0 +1,49 @@
+[
+  {
+    "word": "girlfriend",
+    "syllables": [
+      "girl",
+      "friend"
+    ],
+    "pronunciation": "ˈɡərlˌfrend",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "girlfriend"
+          },
+          {
+            "part": "plural noun",
+            "variant": "girlfriends"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a regular female companion with whom a person has a romantic or sexual relationship.",
+            "examples": [
+              "his girlfriend is Australian"
+            ],
+            "synonyms": [
+              "sweetheart",
+              "lover",
+              "partner",
+              "significant other",
+              "girl",
+              "woman; Morefiancée; informalsteady",
+              "(main) squeeze",
+              "boo",
+              "GF; datedlady friend",
+              "ladylove",
+              "betrothed; archaicleman \"Danny's new girlfriend is from Massachusetts\""
+            ]
+          },
+          {
+            "definition": "a woman's female friend."
+          }
+        ]
+      }
+    ]
+  }
+]

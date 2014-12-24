@@ -1,0 +1,72 @@
+[
+  {
+    "word": "conceal",
+    "syllables": [
+      "con",
+      "ceal"
+    ],
+    "pronunciation": "kənˈsēl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "concealing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "keep from sight; hide.",
+            "examples": [
+              "a line of sand dunes concealed the distant sea"
+            ],
+            "synonyms": [
+              "hide",
+              "screen",
+              "cover",
+              "obscure",
+              "block out",
+              "blot out",
+              "mask",
+              "shroud",
+              "secrete More\"clouds concealed the sun\"hidden",
+              "not visible",
+              "out of sight",
+              "invisible",
+              "covered",
+              "disguised",
+              "camouflaged",
+              "obscured; private",
+              "secret \"another piece of concealed evidence was disclosed to Sgt. Kahn\""
+            ],
+            "antonyms": [
+              "reveal"
+            ]
+          },
+          {
+            "definition": "keep (something) secret; prevent from being known or noticed.",
+            "examples": [
+              "love that they had to conceal from others"
+            ],
+            "synonyms": [
+              "hide",
+              "cover up",
+              "disguise",
+              "mask",
+              "veil; Morekeep secret",
+              "draw a veil over; suppress",
+              "repress",
+              "bottle up; informalkeep a lid on",
+              "keep under one's hat \"he concealed his true feelings\""
+            ],
+            "antonyms": [
+              "reveal",
+              "confess"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

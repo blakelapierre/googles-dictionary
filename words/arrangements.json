@@ -1,0 +1,83 @@
+[
+  {
+    "word": "arrangement",
+    "syllables": [
+      "ar",
+      "range",
+      "ment"
+    ],
+    "pronunciation": "əˈrānjmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "arrangements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action, process, or result of arranging or being arranged.",
+            "examples": [
+              "the arrangement of the furniture in the room"
+            ],
+            "synonyms": [
+              "positioning",
+              "disposition",
+              "order",
+              "presentation",
+              "display; Moregrouping",
+              "organization",
+              "alignment \"the arrangement of the furniture\"preparations",
+              "plan(s)",
+              "provision(s); planning",
+              "groundwork \"the arrangements for my trip\""
+            ]
+          },
+          {
+            "definition": "a thing that has been arranged in a neat or attractive way.",
+            "examples": [
+              "flower arrangements"
+            ]
+          },
+          {
+            "definition": "plans or preparations for a future event.",
+            "examples": [
+              "all the arrangements for the wedding were made"
+            ]
+          },
+          {
+            "definition": "an agreement with someone.",
+            "examples": [
+              "the travel agents have an arrangement with the hotel"
+            ],
+            "synonyms": [
+              "agreement",
+              "deal",
+              "understanding",
+              "bargain",
+              "settlement",
+              "pact",
+              "modus vivendi \"we had an arrangement\""
+            ]
+          },
+          {
+            "definition": "a composition adapted for performance with different instruments or voices than those originally specified.",
+            "examples": [
+              "Mozart's symphonies in arrangements for cello and piano"
+            ],
+            "synonyms": [
+              "adaptation",
+              "orchestration",
+              "instrumentation \"an arrangement of Beethoven's symphonies\""
+            ]
+          },
+          {
+            "definition": "a settlement of a dispute or claim."
+          }
+        ]
+      }
+    ]
+  }
+]

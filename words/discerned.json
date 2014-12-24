@@ -1,0 +1,55 @@
+[
+  {
+    "word": "discern",
+    "syllables": [
+      "dis",
+      "cern"
+    ],
+    "pronunciation": "dəˈsərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "discerned"
+          },
+          {
+            "part": "past participle",
+            "variant": "discerned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perceive or recognize (something).",
+            "examples": [
+              "I can discern no difference between the two policies"
+            ]
+          },
+          {
+            "definition": "distinguish (someone or something) with difficulty by sight or with the other senses.",
+            "examples": [
+              "she could faintly discern the shape of a skull"
+            ],
+            "synonyms": [
+              "perceive",
+              "make out",
+              "pick out",
+              "detect",
+              "recognize",
+              "notice",
+              "observe",
+              "see",
+              "spot; Moreidentify",
+              "determine",
+              "distinguish; literarydescry",
+              "espy \"they could discern a slender figure",
+              "probably a woman",
+              "slowly approaching\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

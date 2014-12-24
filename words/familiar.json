@@ -1,0 +1,133 @@
+[
+  {
+    "word": "familiar",
+    "syllables": [
+      "fa",
+      "mil",
+      "iar"
+    ],
+    "pronunciation": "fəˈmilyər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "familiar"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "well known from long or close association.",
+            "examples": [
+              "their faces will be familiar to many of you"
+            ]
+          },
+          {
+            "definition": "often encountered or experienced; common.",
+            "examples": [
+              "the situation was all too familiar"
+            ],
+            "synonyms": [
+              "well known",
+              "recognized",
+              "accustomed; Morecommon",
+              "commonplace",
+              "everyday",
+              "day-to-day",
+              "ordinary",
+              "habitual",
+              "usual",
+              "customary",
+              "routine",
+              "standard",
+              "stock",
+              "mundane",
+              "run-of-the-mill; literarywonted \"a familiar task\""
+            ]
+          },
+          {
+            "definition": "having a good knowledge of.",
+            "examples": [
+              "ensure that you are familiar with the heating controls"
+            ],
+            "synonyms": [
+              "acquainted with",
+              "conversant with",
+              "versed in",
+              "knowledgeable of",
+              "well informed in/of; Moreskilled in",
+              "proficient in; at home with",
+              "no stranger to",
+              "au fait with",
+              "au courant with; informalup on",
+              "in the know about \"are you familiar with the subject?\""
+            ]
+          },
+          {
+            "definition": "in close friendship; intimate.",
+            "examples": [
+              "she had not realized they were on such familiar terms"
+            ],
+            "synonyms": [
+              "informal",
+              "casual",
+              "relaxed",
+              "easy",
+              "comfortable; Morefriendly",
+              "unceremonious",
+              "unreserved",
+              "open",
+              "natural",
+              "unpretentious \"a familiar atmosphere\""
+            ],
+            "antonyms": [
+              "formal"
+            ]
+          },
+          {
+            "definition": "informal to an inappropriate degree.",
+            "examples": [
+              "presumptuous, overfamiliar, disrespectful, forward, bold, impudent, impertinent he is too familiar with the teachers"
+            ],
+            "antonyms": [
+              "formal"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "familiar"
+          },
+          {
+            "part": "plural noun",
+            "variant": "familiars"
+          },
+          {
+            "part": "noun",
+            "variant": "familiar spirit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "familiar spirits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a demon supposedly attending and obeying a witch, often said to assume the form of an animal."
+          },
+          {
+            "definition": "(in the Roman Catholic Church) a person rendering certain services in a pope's or bishop's household."
+          },
+          {
+            "definition": "a close friend or associate."
+          }
+        ]
+      }
+    ]
+  }
+]

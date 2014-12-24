@@ -1,0 +1,189 @@
+[
+  {
+    "word": "meter",
+    "syllables": [
+      "me",
+      "ter"
+    ],
+    "pronunciation": "ˈmēdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "metre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "metres"
+          },
+          {
+            "part": "noun",
+            "variant": "meter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "meters"
+          },
+          {
+            "part": "symbol",
+            "variant": "m"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fundamental unit of length in the metric system, equal to 100 centimeters or approximately 39.37 inches."
+          },
+          {
+            "definition": "a race over a specified number of meters.",
+            "examples": [
+              "plural noun: —— metres; plural noun: —— meters"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "meter",
+    "syllables": [
+      "me",
+      "ter"
+    ],
+    "pronunciation": "ˈmēdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "metre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "metres"
+          },
+          {
+            "part": "noun",
+            "variant": "meter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "meters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the rhythm of a piece of poetry, determined by the number and length of feet in a line.",
+            "examples": [
+              "the Horatian ode has an intricate governing meter"
+            ]
+          },
+          {
+            "definition": "the basic pulse and rhythm of a piece of music."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "meter",
+    "syllables": [
+      "me",
+      "ter"
+    ],
+    "pronunciation": "ˈmēdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "meter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "meters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a device that measures and records the quantity, degree, or rate of something, especially the amount of electricity, gas, or water used.",
+            "examples": [
+              "they read the meters once a month"
+            ]
+          },
+          {
+            "definition": "an imprint or label of specified value produced under government permit for the prepayment of postage."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "meter"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "meters"
+          },
+          {
+            "part": "past tense",
+            "variant": "metered"
+          },
+          {
+            "part": "past participle",
+            "variant": "metered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "metering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "measure by means of a meter.",
+            "examples": [
+              "a metered supply of water"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-meter",
+    "syllables": [
+      "-meter"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-meter"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in names of measuring instruments.",
+            "examples": [
+              "thermometer"
+            ]
+          },
+          {
+            "definition": "in nouns denoting lines of poetry with a specified number of feet or measures.",
+            "examples": [
+              "hexameter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

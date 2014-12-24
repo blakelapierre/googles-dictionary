@@ -1,0 +1,48 @@
+[
+  {
+    "word": "analogous",
+    "syllables": [
+      "a",
+      "nal",
+      "o",
+      "gous"
+    ],
+    "pronunciation": "əˈnaləɡəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "analogous"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "comparable in certain respects, typically in a way that makes clearer the nature of the things compared.",
+            "examples": [
+              "they saw the relationship between a ruler and his subjects as analogous to that of father and children"
+            ],
+            "synonyms": [
+              "comparable",
+              "parallel",
+              "similar",
+              "like",
+              "akin",
+              "corresponding",
+              "related",
+              "kindred",
+              "equivalent \"their lab results were analogous\""
+            ],
+            "antonyms": [
+              "unrelated"
+            ]
+          },
+          {
+            "definition": "(of structures) performing a similar function but having a different evolutionary origin, such as the wings of insects and birds."
+          }
+        ]
+      }
+    ]
+  }
+]

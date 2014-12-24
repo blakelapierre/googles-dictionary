@@ -1,0 +1,322 @@
+{
+  "word": "bad",
+  "syllables": [
+    "bad"
+  ],
+  "pronunciation": "bad",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "bad"
+        },
+        {
+          "part": "comparative adjective",
+          "variant": "worse"
+        },
+        {
+          "part": "superlative adjective",
+          "variant": "worst"
+        },
+        {
+          "part": "comparative adjective",
+          "variant": "badder"
+        },
+        {
+          "part": "superlative adjective",
+          "variant": "baddest"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "of poor quality; inferior or defective.",
+          "examples": [
+            "a bad diet"
+          ],
+          "synonyms": [
+            "substandard",
+            "poor",
+            "inferior",
+            "second-rate",
+            "second-class",
+            "unsatisfactory",
+            "inadequate",
+            "unacceptable",
+            "not up to scratch",
+            "not up to par",
+            "deficient",
+            "imperfect",
+            "defective",
+            "faulty",
+            "shoddy",
+            "amateurish",
+            "careless",
+            "negligent",
+            "miserable",
+            "sorry; Moreincompetent",
+            "inept",
+            "inexpert",
+            "ineffectual; awful",
+            "atrocious",
+            "appalling",
+            "execrable",
+            "deplorable",
+            "terrible",
+            "abysmal; informalcrummy",
+            "rotten",
+            "godawful",
+            "pathetic",
+            "useless",
+            "woeful",
+            "bum",
+            "lousy",
+            "not up to snuff \"bad workmanship\""
+          ],
+          "antonyms": [
+            "good",
+            "excellent",
+            "skilled"
+          ]
+        },
+        {
+          "definition": "(of a person) not able to do something well; incompetent.",
+          "examples": [
+            "I'm so bad at names"
+          ]
+        },
+        {
+          "definition": "not such as to be hoped for or desired; unpleasant or unwelcome.",
+          "examples": [
+            "bad weather"
+          ],
+          "synonyms": [
+            "unpleasant",
+            "disagreeable",
+            "unwelcome; Moreunfortunate",
+            "unlucky",
+            "unfavorable; terrible",
+            "dreadful",
+            "awful",
+            "grim",
+            "distressing \"bad news\""
+          ],
+          "antonyms": [
+            "good"
+          ]
+        },
+        {
+          "definition": "(of an unwelcome thing) serious; severe.",
+          "examples": [
+            "bad headaches"
+          ],
+          "synonyms": [
+            "severe",
+            "serious",
+            "grave",
+            "critical",
+            "acute; formalgrievous \"a bad accident\""
+          ],
+          "antonyms": [
+            "minor",
+            "slight"
+          ]
+        },
+        {
+          "definition": "unfavorable; adverse.",
+          "examples": [
+            "bad reviews"
+          ]
+        },
+        {
+          "definition": "harmful.",
+          "examples": [
+            "soap was bad for his face"
+          ],
+          "synonyms": [
+            "harmful",
+            "damaging",
+            "detrimental",
+            "injurious",
+            "hurtful",
+            "inimical",
+            "destructive",
+            "ruinous",
+            "deleterious; Moreunhealthy",
+            "unwholesome \"the alcohol had a really bad effect on me\""
+          ],
+          "antonyms": [
+            "good",
+            "beneficial"
+          ]
+        },
+        {
+          "definition": "not suitable.",
+          "examples": [
+            "morning was a bad time to ask Andy about anything"
+          ],
+          "synonyms": [
+            "inauspicious",
+            "unfavorable",
+            "inopportune",
+            "unpropitious",
+            "unfortunate",
+            "disadvantageous",
+            "adverse",
+            "inappropriate",
+            "unsuitable",
+            "untoward \"a bad time to arrive\""
+          ],
+          "antonyms": [
+            "good",
+            "auspicious"
+          ]
+        },
+        {
+          "definition": "(of food) decayed; putrid.",
+          "examples": [
+            "everything in the fridge would go bad"
+          ],
+          "synonyms": [
+            "rotten",
+            "decayed",
+            "decomposed",
+            "decomposing",
+            "putrid",
+            "putrefied",
+            "off",
+            "moldy; Moresour",
+            "spoiled",
+            "rancid",
+            "rank",
+            "unfit for human consumption; addled; skunky \"the meat's bad\""
+          ],
+          "antonyms": [
+            "fresh"
+          ]
+        },
+        {
+          "definition": "(of the atmosphere) polluted; unhealthy.",
+          "examples": [
+            "bad air"
+          ]
+        },
+        {
+          "definition": "(of parts of the body) injured, diseased, or causing pain.",
+          "examples": [
+            "a bad back"
+          ],
+          "synonyms": [
+            "injured",
+            "wounded",
+            "diseased; datedgame \"a bad knee\""
+          ]
+        },
+        {
+          "definition": "(of a person) unwell.",
+          "examples": [
+            "I feel bad"
+          ]
+        },
+        {
+          "definition": "regretful, guilty, or ashamed about something.",
+          "examples": [
+            "working mothers who feel bad about leaving their children"
+          ],
+          "synonyms": [
+            "guilty",
+            "conscience-stricken",
+            "remorseful",
+            "guilt-ridden",
+            "ashamed",
+            "contrite",
+            "sorry",
+            "full of regret",
+            "regretful",
+            "shamefaced \"I felt bad about leaving them\""
+          ],
+          "antonyms": [
+            "unrepentant"
+          ]
+        },
+        {
+          "definition": "morally depraved; wicked.",
+          "examples": [
+            "the bad guys"
+          ]
+        },
+        {
+          "definition": "naughty; badly behaved.",
+          "examples": [
+            "what a bad girl"
+          ],
+          "synonyms": [
+            "wicked",
+            "evil",
+            "sinful",
+            "immoral",
+            "morally wrong",
+            "corrupt",
+            "base",
+            "black-hearted",
+            "reprobate",
+            "amoral; Morecriminal",
+            "villainous",
+            "nefarious",
+            "iniquitous",
+            "dishonest",
+            "dishonorable",
+            "unscrupulous",
+            "unprincipled; informalcrooked",
+            "dirty; dateddastardly \"the bad guys\""
+          ],
+          "antonyms": [
+            "virtuous"
+          ]
+        },
+        {
+          "definition": "worthless; not valid.",
+          "examples": [
+            "he ran up 87 bad checks"
+          ],
+          "synonyms": [
+            "invalid",
+            "worthless; Morecounterfeit",
+            "fake",
+            "false",
+            "bogus",
+            "fraudulent; informalphony",
+            "dud \"a bad check\""
+          ],
+          "antonyms": [
+            "valid"
+          ]
+        },
+        {
+          "definition": "good; excellent.",
+          "examples": [
+            "they want the baddest, best-looking Corvette there is"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverbNorth Americaninformal",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "bad"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "badly.",
+          "examples": [
+            "he beat her up real bad"
+          ]
+        }
+      ]
+    }
+  ]
+}

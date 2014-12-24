@@ -1,0 +1,80 @@
+[
+  {
+    "word": "confidence",
+    "syllables": [
+      "con",
+      "fi",
+      "dence"
+    ],
+    "pronunciation": "ˈkänfədəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "confidence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the feeling or belief that one can rely on someone or something; firm trust.",
+            "examples": [
+              "we had every confidence in the staff"
+            ],
+            "synonyms": [
+              "trust",
+              "belief",
+              "faith",
+              "credence",
+              "conviction \"I have little confidence in these figures\""
+            ],
+            "antonyms": [
+              "skepticism",
+              "distrust"
+            ]
+          },
+          {
+            "definition": "the state of feeling certain about the truth of something.",
+            "examples": [
+              "it is not possible to say with confidence how much of the increase in sea levels is due to melting glaciers"
+            ]
+          },
+          {
+            "definition": "a feeling of self-assurance arising from one's appreciation of one's own abilities or qualities.",
+            "examples": [
+              "she's brimming with confidence"
+            ],
+            "synonyms": [
+              "self-assurance",
+              "self-confidence",
+              "self-possession",
+              "assertiveness; Morepoise",
+              "aplomb",
+              "phlegm; courage",
+              "boldness",
+              "mettle",
+              "nerve \"she's brimming with confidence\""
+            ],
+            "antonyms": [
+              "uncertainty",
+              "doubt"
+            ]
+          },
+          {
+            "definition": "the telling of private matters or secrets with mutual trust.",
+            "examples": [
+              "someone with whom you may raise your suspicions in confidence"
+            ]
+          },
+          {
+            "definition": "a secret or private matter told to someone under a condition of trust.",
+            "examples": [
+              "plural noun: confidences"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

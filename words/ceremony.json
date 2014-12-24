@@ -1,0 +1,71 @@
+{
+  "word": "ceremony",
+  "syllables": [
+    "cer",
+    "e",
+    "mo",
+    "ny"
+  ],
+  "pronunciation": "ˈserəˌmōnē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "ceremony"
+        },
+        {
+          "part": "plural noun",
+          "variant": "ceremonies"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a formal religious or public occasion, typically one celebrating a particular event or anniversary.",
+          "examples": [
+            "the winners were presented with their prizes at a special ceremony"
+          ]
+        },
+        {
+          "definition": "an act or series of acts performed according to a traditional or prescribed form.",
+          "examples": [
+            "we found a rabbi to perform the ceremony for us"
+          ],
+          "synonyms": [
+            "ritual",
+            "rite",
+            "ceremonial",
+            "observance; Moreservice",
+            "sacrament",
+            "liturgy",
+            "worship",
+            "celebration \"a wedding ceremony\""
+          ]
+        },
+        {
+          "definition": "the ritual observances and procedures performed at grand and formal occasions.",
+          "examples": [
+            "the new Queen was proclaimed with due ceremony"
+          ],
+          "synonyms": [
+            "pomp",
+            "protocol",
+            "formalities",
+            "niceties",
+            "decorum",
+            "etiquette",
+            "punctilio",
+            "politesse \"the new queen was proclaimed with due ceremony\""
+          ]
+        },
+        {
+          "definition": "formal polite behavior.",
+          "examples": [
+            "he showed them to their table with great ceremony"
+          ]
+        }
+      ]
+    }
+  ]
+}

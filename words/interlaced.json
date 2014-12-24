@@ -1,0 +1,66 @@
+[
+  {
+    "word": "interlace",
+    "syllables": [
+      "in",
+      "ter",
+      "lace"
+    ],
+    "pronunciation": "ˌin(t)ərˈlās",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "interlaced"
+          },
+          {
+            "part": "past participle",
+            "variant": "interlaced"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cross or be crossed intricately together; interweave.",
+            "examples": [
+              "Jane interlaced her fingers to form a cup."
+            ],
+            "synonyms": [
+              "interweave",
+              "mingle",
+              "mesh",
+              "entwine",
+              "intertwine",
+              "twine; Moreintersperse",
+              "sprinkle",
+              "punctuate \"she was careful to interlace her tough remarks with compliments for the prime minister\""
+            ]
+          },
+          {
+            "definition": "mingle or intersperse something with.",
+            "examples": [
+              "buttercups interlacing their gold with the silver of the daisies"
+            ],
+            "synonyms": [
+              "interweave",
+              "mingle",
+              "mesh",
+              "entwine",
+              "intertwine",
+              "twine; Moreintersperse",
+              "sprinkle",
+              "punctuate \"she was careful to interlace her tough remarks with compliments for the prime minister\""
+            ]
+          },
+          {
+            "definition": "scan (a video image) in such a way that alternate lines form one sequence that is followed by the other lines in a second sequence.",
+            "examples": [
+              "interlaced displays"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

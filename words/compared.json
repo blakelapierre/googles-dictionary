@@ -1,0 +1,91 @@
+[
+  {
+    "word": "compare",
+    "syllables": [
+      "com",
+      "pare"
+    ],
+    "pronunciation": "kəmˈper",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "compared"
+          },
+          {
+            "part": "past participle",
+            "variant": "compared"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "estimate, measure, or note the similarity or dissimilarity between.",
+            "examples": [
+              "individual schools compared their facilities with those of others in the area"
+            ],
+            "synonyms": [
+              "contrast",
+              "juxtapose",
+              "collate",
+              "differentiate \"we compared the data sets\""
+            ]
+          },
+          {
+            "definition": "point out the resemblances to; liken to.",
+            "examples": [
+              "her novel was compared to the work of Daniel Defoe"
+            ],
+            "synonyms": [
+              "liken to",
+              "equate to",
+              "analogize to; Moreclass with",
+              "set side by side with \"he was compared to Wagner\""
+            ]
+          },
+          {
+            "definition": "draw an analogy between one thing and (another) for the purposes of explanation or clarification.",
+            "examples": [
+              "he compared the religions to different paths toward the peak of the same mountain"
+            ]
+          },
+          {
+            "definition": "have a specified relationship with another thing or person in terms of nature or quality.",
+            "examples": [
+              "salaries compare favorably with those of other professions"
+            ],
+            "synonyms": [
+              "be as good as",
+              "be comparable to",
+              "bear comparison with",
+              "be the equal of",
+              "match up to",
+              "be on a par with",
+              "be in the same league as",
+              "come close to",
+              "hold a candle to",
+              "be not unlike; Morematch",
+              "resemble",
+              "emulate",
+              "rival",
+              "approach \"the porcelain compares with Dresden's fine china\""
+            ]
+          },
+          {
+            "definition": "be of an equal or similar nature or quality.",
+            "examples": [
+              "sales were modest and cannot compare with the glory days of 1989"
+            ]
+          },
+          {
+            "definition": "form the comparative and superlative degrees of (an adjective or an adverb).",
+            "examples": [
+              "words of one syllable are usually compared by “-er” and “-est.”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

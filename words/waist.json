@@ -1,0 +1,62 @@
+[
+  {
+    "word": "waist",
+    "syllables": [
+      "waist"
+    ],
+    "pronunciation": "wāst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "waist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "waists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the part of the human body below the ribs and above the hips.",
+            "examples": [
+              "middle, midriff, abdomen, waistline tie a pink sash around the waist"
+            ]
+          },
+          {
+            "definition": "the circumference of this.",
+            "examples": [
+              "her waist is 28 inches"
+            ]
+          },
+          {
+            "definition": "a narrowing of the trunk of the body above the hips.",
+            "examples": [
+              "the last time you had a waist was around 1978"
+            ]
+          },
+          {
+            "definition": "the part of a garment encircling or covering the waist."
+          },
+          {
+            "definition": "the point at which a garment is shaped so as to narrow between the rib cage and the hips.",
+            "examples": [
+              "a jacket with a high waist"
+            ]
+          },
+          {
+            "definition": "a blouse or bodice."
+          },
+          {
+            "definition": "a narrow part in the middle of anything, such as a violin, an hourglass, the body of wasp, etc."
+          },
+          {
+            "definition": "the middle part of a ship, between the forecastle and the quarterdeck."
+          }
+        ]
+      }
+    ]
+  }
+]

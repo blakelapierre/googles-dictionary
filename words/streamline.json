@@ -1,0 +1,101 @@
+[
+  {
+    "word": "streamline",
+    "syllables": [
+      "stream",
+      "line"
+    ],
+    "pronunciation": "ˈstrēmˌlīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "streamline"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "streamlines"
+          },
+          {
+            "part": "past tense",
+            "variant": "streamlined"
+          },
+          {
+            "part": "past participle",
+            "variant": "streamlined"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "streamlining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "design or provide with a form that presents very little resistance to a flow of air or water, increasing speed and ease of movement.",
+            "examples": [
+              "streamlined passenger trains"
+            ],
+            "synonyms": [
+              "aerodynamic",
+              "smooth",
+              "sleek \"streamlined cars\""
+            ]
+          },
+          {
+            "definition": "make (an organization or system) more efficient and effective by employing faster or simpler working methods.",
+            "examples": [
+              "the company streamlined its operations by removing whole layers of management"
+            ],
+            "synonyms": [
+              "efficient",
+              "smooth-running",
+              "well run",
+              "slick; Moretime-saving",
+              "labor-saving \"a streamlined organization\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "streamline"
+          },
+          {
+            "part": "plural noun",
+            "variant": "streamlines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a line along which the flow of a moving fluid is least turbulent."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "streamline"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of fluid flow) free from turbulence."
+          },
+          {
+            "definition": "having a streamlined shape.",
+            "examples": [
+              "a streamline airplane"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

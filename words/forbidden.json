@@ -1,0 +1,112 @@
+[
+  {
+    "word": "forbidden",
+    "syllables": [
+      "for",
+      "bid",
+      "den"
+    ],
+    "pronunciation": "fərˈbidn",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "forbidden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not allowed; banned.",
+            "examples": [
+              "a list of forbidden books"
+            ]
+          },
+          {
+            "definition": "denoting or involving a transition between two quantum-mechanical states that does not conform to some selection rule, especially for electric dipole radiation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "forbid",
+    "syllables": [
+      "for",
+      "bid"
+    ],
+    "pronunciation": "fərˈbid",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "forbidden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "refuse to allow (something).",
+            "examples": [
+              "environmental laws forbid alteration of the coast"
+            ],
+            "synonyms": [
+              "prohibit",
+              "ban",
+              "outlaw",
+              "make illegal",
+              "veto",
+              "proscribe",
+              "disallow",
+              "embargo",
+              "bar",
+              "debar",
+              "interdict; Moreenjoin",
+              "restrain \"the law forbids gender discrimination\""
+            ],
+            "antonyms": [
+              "permit"
+            ]
+          },
+          {
+            "definition": "order (someone) not to do something.",
+            "examples": [
+              "I was forbidden from leaving Russia"
+            ],
+            "synonyms": [
+              "prohibit",
+              "ban",
+              "outlaw",
+              "make illegal",
+              "veto",
+              "proscribe",
+              "disallow",
+              "embargo",
+              "bar",
+              "debar",
+              "interdict; Moreenjoin",
+              "restrain \"the law forbids gender discrimination\""
+            ],
+            "antonyms": [
+              "permit"
+            ]
+          },
+          {
+            "definition": "refuse (someone or something) entry to a place or area.",
+            "examples": [
+              "all cars are forbidden"
+            ]
+          },
+          {
+            "definition": "(of a circumstance or quality) make (something) impossible; prevent.",
+            "examples": [
+              "the cliffs forbid any easy turning movement"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

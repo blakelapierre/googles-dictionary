@@ -1,0 +1,173 @@
+[
+  {
+    "word": "sore",
+    "syllables": [
+      "sore"
+    ],
+    "pronunciation": "sôr",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sore"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "sorer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "sorest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a part of one's body) painful or aching.",
+            "examples": [
+              "my feet were sore and my head ached"
+            ],
+            "synonyms": [
+              "painful",
+              "hurting",
+              "hurt",
+              "aching",
+              "throbbing",
+              "smarting",
+              "stinging",
+              "agonizing",
+              "excruciating; Moreinflamed",
+              "sensitive",
+              "tender",
+              "raw",
+              "bruised",
+              "wounded",
+              "injured \"a sore leg\""
+            ]
+          },
+          {
+            "definition": "suffering pain from a part of one's body.",
+            "examples": [
+              "he was sore from the long ride"
+            ]
+          },
+          {
+            "definition": "upset and angry.",
+            "examples": [
+              "I didn't even know they were sore at us"
+            ],
+            "synonyms": [
+              "upset",
+              "angry",
+              "annoyed",
+              "cross",
+              "furious",
+              "vexed",
+              "displeased",
+              "disgruntled",
+              "dissatisfied",
+              "exasperated",
+              "irritated",
+              "galled",
+              "irked",
+              "put out",
+              "aggrieved",
+              "offended",
+              "affronted",
+              "piqued",
+              "nettled; Moreinformalaggravated",
+              "miffed",
+              "peeved",
+              "riled",
+              "teed off",
+              "ticked off \"they were sore at us\""
+            ]
+          },
+          {
+            "definition": "severe; urgent.",
+            "examples": [
+              "we're in sore need of him"
+            ],
+            "synonyms": [
+              "dire",
+              "urgent",
+              "pressing",
+              "desperate",
+              "parlous",
+              "critical",
+              "crucial",
+              "acute",
+              "grave",
+              "serious",
+              "drastic",
+              "extreme",
+              "life-and-death",
+              "great",
+              "terrible; formalexigent \"we are in sore need of you\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sore"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sores"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a raw or painful place on the body.",
+            "examples": [
+              "we had sores on our hands"
+            ],
+            "synonyms": [
+              "inflammation",
+              "swelling",
+              "lesion; Morewound",
+              "scrape",
+              "abrasion",
+              "cut",
+              "laceration",
+              "graze",
+              "contusion",
+              "bruise; ulcer",
+              "boil",
+              "abscess",
+              "carbuncle \"a sore on his leg\""
+            ]
+          },
+          {
+            "definition": "a cause or source of distress or annoyance.",
+            "examples": [
+              "there's no point raking over the past and opening old sores"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverbarchaic",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "sore"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extremely; severely.",
+            "examples": [
+              "they were sore afraid"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

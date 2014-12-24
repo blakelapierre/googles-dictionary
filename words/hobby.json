@@ -1,0 +1,85 @@
+[
+  {
+    "word": "hobby",
+    "syllables": [
+      "hob",
+      "by"
+    ],
+    "pronunciation": "ˈhäbē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hobby"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hobbies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an activity done regularly in one's leisure time for pleasure.",
+            "examples": [
+              "her hobbies are reading and gardening"
+            ],
+            "synonyms": [
+              "pastime",
+              "leisure activity",
+              "leisure pursuit; Moresideline",
+              "side interest",
+              "diversion",
+              "avocation; recreation",
+              "entertainment",
+              "amusement \"writing poetry is just one of my hobbies\""
+            ]
+          },
+          {
+            "definition": "a small horse or pony."
+          },
+          {
+            "definition": "an early type of velocipede."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hobby",
+    "syllables": [
+      "hob",
+      "by"
+    ],
+    "pronunciation": "ˈhäbē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hobby"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hobbies"
+          },
+          {
+            "part": "noun",
+            "variant": "northern hobby"
+          },
+          {
+            "part": "plural noun",
+            "variant": "northern hobbies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a migratory Old World falcon with long narrow wings, catching dragonflies and birds on the wing."
+          }
+        ]
+      }
+    ]
+  }
+]

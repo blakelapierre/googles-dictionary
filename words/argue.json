@@ -1,0 +1,83 @@
+[
+  {
+    "word": "argue",
+    "syllables": [
+      "ar",
+      "gue"
+    ],
+    "pronunciation": "ˈärɡyo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "argue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "argues"
+          },
+          {
+            "part": "past tense",
+            "variant": "argued"
+          },
+          {
+            "part": "past participle",
+            "variant": "argued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "arguing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view.",
+            "examples": [
+              "defense attorneys argue that the police lacked “probable cause” to arrest the driver"
+            ],
+            "synonyms": [
+              "contend",
+              "assert",
+              "maintain",
+              "insist",
+              "hold",
+              "claim",
+              "reason",
+              "allege; Moreformalaver",
+              "represent",
+              "opine \"they argued that the government was to blame\""
+            ]
+          },
+          {
+            "definition": "persuade someone to do or not to do (something) by giving reasons.",
+            "examples": [
+              "I tried to argue him out of it"
+            ]
+          },
+          {
+            "definition": "exchange or express diverging or opposite views, typically in a heated or angry way.",
+            "examples": [
+              "don't argue with me"
+            ],
+            "synonyms": [
+              "quarrel",
+              "disagree",
+              "squabble",
+              "bicker",
+              "fight",
+              "wrangle",
+              "dispute",
+              "feud",
+              "have words",
+              "cross swords",
+              "lock horns",
+              "be at each other's throats; informalspat \"the children are always arguing\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

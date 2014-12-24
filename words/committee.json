@@ -1,0 +1,51 @@
+[
+  {
+    "word": "committee",
+    "syllables": [
+      "com",
+      "mit",
+      "tee"
+    ],
+    "pronunciation": "kəˈmidē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "committee"
+          },
+          {
+            "part": "plural noun",
+            "variant": "committees"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a group of people appointed for a specific function, typically consisting of members of a larger group.",
+            "examples": [
+              "the housing committee"
+            ],
+            "synonyms": [
+              "board",
+              "council",
+              "brain trust \"she appointed a committee to look into the busing issue\""
+            ]
+          },
+          {
+            "definition": "a group of people appointed by a legislature to consider the details of proposed legislation.",
+            "examples": [
+              "there was much scrutiny in committee"
+            ]
+          },
+          {
+            "definition": "a person entrusted with the charge of another person or another person's property."
+          },
+          {
+            "definition": "a person who has been judicially committed to the charge of another because of insanity or mental disability."
+          }
+        ]
+      }
+    ]
+  }
+]

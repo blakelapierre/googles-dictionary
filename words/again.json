@@ -1,0 +1,71 @@
+[
+  {
+    "word": "again",
+    "syllables": [
+      "a",
+      "gain"
+    ],
+    "pronunciation": "əˈɡen",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "again"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "another time; once more.",
+            "examples": [
+              "it was great to meet old friends again"
+            ],
+            "synonyms": [
+              "once more",
+              "another time",
+              "afresh",
+              "anew \"her spirits lifted again\""
+            ]
+          },
+          {
+            "definition": "returning to a previous position or condition.",
+            "examples": [
+              "he rose, tidied the bed, and sat down again"
+            ]
+          },
+          {
+            "definition": "in addition to what has already been mentioned.",
+            "examples": [
+              "the wages were low, but they made half as much again in tips"
+            ],
+            "synonyms": [
+              "extra",
+              "in addition",
+              "additionally",
+              "on top \"this can add half as much again to the price\""
+            ]
+          },
+          {
+            "definition": "used to introduce a further point for consideration, supporting or contrasting with what has just been said.",
+            "examples": [
+              "I never saw any signs, but then again, maybe I wasn't looking"
+            ],
+            "synonyms": [
+              "also",
+              "furthermore; Moremoreover",
+              "besides \"again",
+              "evidence was not always consistent\""
+            ]
+          },
+          {
+            "definition": "used to ask someone to repeat something.",
+            "examples": [
+              "what was your name again?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

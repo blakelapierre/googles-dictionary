@@ -1,0 +1,30 @@
+[
+  {
+    "word": "sailboat",
+    "syllables": [
+      "sail",
+      "boat"
+    ],
+    "pronunciation": "ˈsālˌbōt",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sailboat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sailboats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a boat propelled by sails."
+          }
+        ]
+      }
+    ]
+  }
+]

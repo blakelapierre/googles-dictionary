@@ -1,0 +1,184 @@
+{
+  "word": "speed",
+  "syllables": [
+    "speed"
+  ],
+  "pronunciation": "spēd",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "speeds"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the rate at which someone or something is able to move or operate.",
+          "examples": [
+            "we turned onto the runway and began to gather speed"
+          ],
+          "synonyms": [
+            "rate",
+            "pace",
+            "tempo",
+            "momentum \"the speed of their progress\""
+          ]
+        },
+        {
+          "definition": "rapidity of movement or action.",
+          "examples": [
+            "the accident was due to excessive speed"
+          ],
+          "synonyms": [
+            "rapidity",
+            "swiftness",
+            "speediness",
+            "quickness",
+            "dispatch",
+            "promptness",
+            "immediacy",
+            "briskness",
+            "sharpness; Morehaste",
+            "hurry",
+            "precipitateness; acceleration",
+            "velocity; informallick",
+            "clip",
+            "warp speed; literarycelerity \"the speed with which they responded\""
+          ]
+        },
+        {
+          "definition": "the rate at which something happens or is done.",
+          "examples": [
+            "they were bemused by the speed of events"
+          ]
+        },
+        {
+          "definition": "each of the possible gear ratios of a bicycle or motor vehicle."
+        },
+        {
+          "definition": "the light-gathering power or f-number of a camera lens."
+        },
+        {
+          "definition": "the duration of a photographic exposure."
+        },
+        {
+          "definition": "the sensitivity of photographic film to light."
+        },
+        {
+          "definition": "an amphetamine drug, especially methamphetamine."
+        },
+        {
+          "definition": "something that matches one's tastes or inclinations.",
+          "examples": [
+            "oak tables and chairs are more his speed"
+          ]
+        },
+        {
+          "definition": "success; prosperity.",
+          "examples": [
+            "wish me good speed"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "speeds"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "move quickly.",
+          "examples": [
+            "I got into the car and home we sped"
+          ],
+          "synonyms": [
+            "hurry",
+            "rush",
+            "dash",
+            "run",
+            "race",
+            "sprint",
+            "bolt",
+            "dart",
+            "gallop",
+            "career",
+            "charge",
+            "shoot",
+            "hurtle",
+            "careen",
+            "hare",
+            "fly",
+            "zoom",
+            "scurry",
+            "scuttle",
+            "scamper",
+            "hasten; Moreinformaltear",
+            "belt",
+            "pelt",
+            "scoot",
+            "zip",
+            "zap",
+            "whip",
+            "hotfoot it",
+            "bomb",
+            "hightail it \"I sped home\""
+          ]
+        },
+        {
+          "definition": "(of a motorist) travel at a speed that is greater than the legal limit.",
+          "examples": [
+            "past tense: speeded; past participle: speeded"
+          ]
+        },
+        {
+          "definition": "move or work more quickly.",
+          "examples": [
+            "you force yourself to speed up because you don't want to keep others waiting"
+          ]
+        },
+        {
+          "definition": "cause to move, act, or happen more quickly.",
+          "examples": [
+            "recent initiatives have sought to speed up decision-making"
+          ],
+          "synonyms": [
+            "hasten",
+            "expedite",
+            "speed up",
+            "accelerate",
+            "advance",
+            "further",
+            "promote",
+            "boost",
+            "stimulate",
+            "aid",
+            "assist",
+            "facilitate \"a warmer climate will speed his recovery\""
+          ],
+          "antonyms": [
+            "slow",
+            "hinder"
+          ]
+        },
+        {
+          "definition": "make prosperous or successful.",
+          "examples": [
+            "may God speed you"
+          ]
+        },
+        {
+          "definition": "take or be under the influence of an amphetamine drug.",
+          "examples": [
+            "more kids than ever are speeding, tripping, and getting stoned"
+          ]
+        }
+      ]
+    }
+  ]
+}

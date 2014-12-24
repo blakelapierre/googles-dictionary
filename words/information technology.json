@@ -1,0 +1,29 @@
+{
+  "word": "information technology",
+  "syllables": [
+    "in",
+    "for",
+    "ma",
+    "tion tech",
+    "nol",
+    "o",
+    "gy"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "noun",
+      "letiants": [
+        {
+          "part": "noun",
+          "letiant": "IT"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information."
+        }
+      ]
+    }
+  ]
+}

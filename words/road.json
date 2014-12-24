@@ -1,0 +1,79 @@
+{
+  "word": "road",
+  "syllables": [
+    "road"
+  ],
+  "pronunciation": "rōd",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "road"
+        },
+        {
+          "part": "plural noun",
+          "variant": "roads"
+        },
+        {
+          "part": "plural noun",
+          "variant": "Roads"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a wide way leading from one place to another, especially one with a specially prepared surface that vehicles can use.",
+          "examples": [
+            "street, lane, avenue, boulevard, freeway, highway, parkway, thoroughfare, thruway, turnpike the roads were crowded with traffic"
+          ]
+        },
+        {
+          "definition": "the part of a road intended for vehicles, especially in contrast to a shoulder or sidewalk."
+        },
+        {
+          "definition": "a regular trade route for a particular commodity.",
+          "examples": [
+            "the Silk Road across Asia to the West"
+          ]
+        },
+        {
+          "definition": "an underground passage or gallery in a mine."
+        },
+        {
+          "definition": "a railroad."
+        },
+        {
+          "definition": "a railroad track, especially as clear (or otherwise) for a train to proceed.",
+          "examples": [
+            "they waited for a clear road at Hellifield Junction"
+          ]
+        },
+        {
+          "definition": "a series of events or a course of action that will lead to a particular outcome.",
+          "examples": [
+            "he's well on the road to recovery"
+          ]
+        },
+        {
+          "definition": "a particular course or direction taken or followed.",
+          "examples": [
+            "the low road of apathy and alienation"
+          ],
+          "synonyms": [
+            "way",
+            "path",
+            "route",
+            "course \"a step on the road to recovery\""
+          ]
+        },
+        {
+          "definition": "(often in place names) another term for roadstead.",
+          "examples": [
+            "Boston Roads"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "athletic",
+    "syllables": [
+      "ath",
+      "let",
+      "ic"
+    ],
+    "pronunciation": "ˌaTH(ə)ˈledik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "athletic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to athletes or athletics.",
+            "examples": [
+              "athletic events"
+            ],
+            "synonyms": [
+              "sporting",
+              "sports; Olympic \"athletic events\""
+            ]
+          },
+          {
+            "definition": "physically strong, fit, and active.",
+            "examples": [
+              "big, muscular, athletic boys"
+            ],
+            "synonyms": [
+              "muscular",
+              "muscly",
+              "sturdy",
+              "strapping",
+              "well built",
+              "strong",
+              "powerful",
+              "robust",
+              "able-bodied",
+              "vigorous",
+              "hardy",
+              "lusty",
+              "hearty",
+              "brawny",
+              "burly",
+              "heavily built",
+              "broad-shouldered",
+              "Herculean; Morefit",
+              "in good shape",
+              "in trim; informalsporty",
+              "husky",
+              "hunky",
+              "beefy; literarythewy \"his athletic physique\""
+            ],
+            "antonyms": [
+              "puny"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

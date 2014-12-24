@@ -1,0 +1,290 @@
+[
+  {
+    "word": "killing",
+    "syllables": [
+      "kill",
+      "ing"
+    ],
+    "pronunciation": "ˈkiliNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "killing"
+          },
+          {
+            "part": "plural noun",
+            "variant": "killings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of causing death, especially deliberately.",
+            "examples": [
+              "murder, assassination, homicide, manslaughter, elimination, putting to death, execution; Morehonor killing; slaughter, massacre, butchery, carnage, bloodshed, extermination, annihilation; literaryslaying \"a brutal killing\"Morehonor killing; slaughter, massacre, butchery, carnage, bloodshed, extermination, annihilation; slaying a brutal killing"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "killing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing death.",
+            "examples": [
+              "weed-killing"
+            ],
+            "synonyms": [
+              "deadly",
+              "lethal",
+              "fatal",
+              "mortal",
+              "death-dealing; Moremurderous",
+              "homicidal; literarydeathly \"a killing blow\""
+            ]
+          },
+          {
+            "definition": "exhausting; unbearable.",
+            "examples": [
+              "the suspense will be killing"
+            ],
+            "synonyms": [
+              "exhausting",
+              "grueling",
+              "punishing",
+              "taxing",
+              "draining",
+              "wearing",
+              "prostrating",
+              "crushing",
+              "tiring",
+              "fatiguing",
+              "debilitating",
+              "enervating",
+              "arduous",
+              "tough",
+              "demanding",
+              "onerous",
+              "strenuous",
+              "rigorous; informalmurderous \"a killing schedule\""
+            ]
+          },
+          {
+            "definition": "overwhelmingly funny."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kill",
+    "syllables": [
+      "kill"
+    ],
+    "pronunciation": "kil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "killing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause the death of (a person, animal, or other living thing).",
+            "examples": [
+              "her father was killed in a car crash"
+            ],
+            "synonyms": [
+              "murder",
+              "take/end the life of",
+              "assassinate",
+              "eliminate",
+              "terminate",
+              "dispatch",
+              "finish off",
+              "put to death",
+              "execute; Moreslaughter",
+              "butcher",
+              "massacre",
+              "wipe out",
+              "annihilate",
+              "exterminate",
+              "mow down",
+              "shoot down",
+              "cut down",
+              "cut to pieces; informalbump off",
+              "polish off",
+              "do away with",
+              "do in",
+              "knock off",
+              "take out",
+              "croak",
+              "stiff",
+              "blow away",
+              "liquidate",
+              "dispose of",
+              "ice",
+              "snuff",
+              "rub out",
+              "waste",
+              "whack",
+              "smoke; euphemisticneutralize; literaryslay \"gangs killed twenty-seven people\""
+            ]
+          },
+          {
+            "definition": "get rid of or destroy completely, especially in large numbers.",
+            "examples": [
+              "there is every possibility all river life would be killed off for generations"
+            ]
+          },
+          {
+            "definition": "(of a writer) bring about the “death” of a fictional character."
+          },
+          {
+            "definition": "put an end to or cause the failure or defeat of (something).",
+            "examples": [
+              "the committee voted to kill the project"
+            ],
+            "synonyms": [
+              "destroy",
+              "put an end to",
+              "end",
+              "extinguish",
+              "dash",
+              "quash",
+              "ruin",
+              "wreck",
+              "shatter",
+              "smash",
+              "crush",
+              "scotch",
+              "thwart; Moreinformalput the kibosh on",
+              "stymie",
+              "scuttle \"this would kill all hopes of progress\"veto",
+              "defeat",
+              "vote down",
+              "rule against",
+              "reject",
+              "throw out",
+              "overrule",
+              "overturn",
+              "put a stop to",
+              "quash",
+              "squash \"an opposition attempt to kill the bill\""
+            ]
+          },
+          {
+            "definition": "stop (a computer program or process)."
+          },
+          {
+            "definition": "switch off (a light or engine).",
+            "examples": [
+              "turn off, switch off, stop, shut off/down, cut Noel killed the engine"
+            ]
+          },
+          {
+            "definition": "delete (a line, paragraph, or file) from a document or computer."
+          },
+          {
+            "definition": "consume the entire contents of (a bottle containing an alcoholic drink)."
+          },
+          {
+            "definition": "(in tennis and similar games) hit (the ball) so forcefully that it cannot be returned."
+          },
+          {
+            "definition": "(in soccer or other ball games) make (the ball) stop."
+          },
+          {
+            "definition": "neutralize or subdue (an effect or quality).",
+            "examples": [
+              "the sauce would kill the taste of the herbs"
+            ],
+            "synonyms": [
+              "alleviate",
+              "assuage",
+              "soothe",
+              "allay",
+              "dull",
+              "blunt",
+              "deaden",
+              "stifle",
+              "suppress",
+              "subdue \"a shot to kill the pain\""
+            ]
+          },
+          {
+            "definition": "overwhelm (someone) with an emotion.",
+            "examples": [
+              "the suspense is killing me"
+            ]
+          },
+          {
+            "definition": "overexert oneself.",
+            "examples": [
+              "I killed myself carrying those things home"
+            ],
+            "synonyms": [
+              "exhaust",
+              "wear out",
+              "tire out",
+              "overtax",
+              "overtire",
+              "fatigue",
+              "weary",
+              "sap",
+              "drain",
+              "enervate",
+              "knock out \"you must rest or you'll kill yourself\""
+            ]
+          },
+          {
+            "definition": "used hyperbolically to indicate that someone will be extremely angry with (another person).",
+            "examples": [
+              "my parents will kill me if they catch me out here"
+            ]
+          },
+          {
+            "definition": "cause pain or anguish to.",
+            "examples": [
+              "my feet are killing me"
+            ],
+            "synonyms": [
+              "hurt",
+              "cause pain to",
+              "torture",
+              "torment",
+              "cause discomfort to; Morebe painful",
+              "be sore",
+              "be uncomfortable \"my feet were killing me\""
+            ]
+          },
+          {
+            "definition": "pass (time, or a specified amount of it), typically while waiting for a particular event.",
+            "examples": [
+              "when he reached the station, he found he actually had an hour to kill"
+            ],
+            "synonyms": [
+              "while away",
+              "fill (up)",
+              "occupy",
+              "pass",
+              "spend",
+              "waste \"we had to kill several hours at the airport\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

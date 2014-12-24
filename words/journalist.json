@@ -1,0 +1,34 @@
+[
+  {
+    "word": "journalist",
+    "syllables": [
+      "jour",
+      "nal",
+      "ist"
+    ],
+    "pronunciation": "ˈjərn(ə)ləst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "journalist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "journalists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who writes for newspapers or magazines or prepares news to be broadcast on radio or television.",
+            "examples": [
+              "reporter, correspondent, columnist, writer, commentator, reviewer; Moreinvestigative journalist, photojournalist, newspaperman, newspaperwoman, newsman, newswoman, newshound, newshawk, hack, stringer \"a Denver-based journalist who has covered business and international news for more than 25 years\"Moreinvestigative journalist, photojournalist, newspaperman, newspaperwoman, newsman, newswoman, newshound, newshawk, hack, stringer a Denver-based journalist who has covered business and international news for more than 25 years"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

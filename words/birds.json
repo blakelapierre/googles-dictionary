@@ -1,0 +1,43 @@
+[
+  {
+    "word": "bird",
+    "syllables": [
+      "bird"
+    ],
+    "pronunciation": "bərd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "birds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak and (typically) by being able to fly.",
+            "examples": [
+              "fowl; Morechick, fledgling, nestling; informalfeathered friend, birdie; budgie; technicalavifauna \"feeding the birds\"Morechick, fledgling, nestling; feathered friend, birdie; budgie; avifauna feeding the birds"
+            ]
+          },
+          {
+            "definition": "an aircraft, spacecraft, satellite, or guided missile.",
+            "examples": [
+              "the crews worked frantically to ready their birds for flight"
+            ]
+          },
+          {
+            "definition": "a person of a specified kind or character.",
+            "examples": [
+              "I'm a pretty tough old bird"
+            ]
+          },
+          {
+            "definition": "a young woman; a girlfriend."
+          }
+        ]
+      }
+    ]
+  }
+]

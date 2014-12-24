@@ -1,0 +1,26 @@
+{
+  "word": "lakh",
+  "syllables": [
+    "lakh"
+  ],
+  "pronunciation": "läklak",
+  "parts": [
+    {
+      "part": "nounIndian",
+      "letiants": [
+        {
+          "part": "noun",
+          "letiant": "lac"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a hundred thousand.",
+          "examples": [
+            "they fixed the price at five lakhs of rupees"
+          ]
+        }
+      ]
+    }
+  ]
+}

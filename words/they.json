@@ -1,0 +1,46 @@
+[
+  {
+    "word": "they",
+    "syllables": [
+      "they"
+    ],
+    "pronunciation": "T͟Hā",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "they"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to refer to two or more people or things previously mentioned or easily identified.",
+            "examples": [
+              "the two men could get life sentences if they are convicted"
+            ]
+          },
+          {
+            "definition": "people in general.",
+            "examples": [
+              "the rest, as they say, is history"
+            ]
+          },
+          {
+            "definition": "a group of people in authority regarded collectively.",
+            "examples": [
+              "they cut my water off"
+            ]
+          },
+          {
+            "definition": "used to refer to a person of unspecified sex.",
+            "examples": [
+              "ask someone if they could help"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

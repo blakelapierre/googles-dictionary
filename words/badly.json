@@ -1,0 +1,134 @@
+{
+  "word": "badly",
+  "syllables": [
+    "bad",
+    "ly"
+  ],
+  "pronunciation": "ˈbadlē",
+  "parts": [
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "adverb",
+          "variant": "badly"
+        },
+        {
+          "part": "comparative adverb",
+          "variant": "worse"
+        },
+        {
+          "part": "superlative adverb",
+          "variant": "worst"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "in an unsatisfactory, inadequate, or unsuccessful way.",
+          "examples": [
+            "a badly managed company"
+          ],
+          "synonyms": [
+            "poorly",
+            "incompetently",
+            "ineptly",
+            "inexpertly",
+            "inefficiently",
+            "imperfectly",
+            "deficiently",
+            "defectively",
+            "unsatisfactorily",
+            "inadequately",
+            "incorrectly",
+            "faultily",
+            "shoddily",
+            "amateurishly",
+            "carelessly",
+            "negligently; Moreabominably; informalcrummily",
+            "pitifully",
+            "woefully \"the job had been very badly done\"unsuccessfully",
+            "unfavorably",
+            "adversely",
+            "unfortunately",
+            "unhappily",
+            "unluckily \"it turned out badly\""
+          ],
+          "antonyms": [
+            "well"
+          ]
+        },
+        {
+          "definition": "in an unfavorable way.",
+          "examples": [
+            "try not to think badly of me"
+          ],
+          "synonyms": [
+            "unfavorably",
+            "ill",
+            "critically",
+            "disapprovingly More\"try not to think badly of me\"severely",
+            "seriously",
+            "gravely",
+            "acutely",
+            "critically; formalgrievously \"some of the victims are badly hurt\""
+          ],
+          "antonyms": [
+            "slightly"
+          ]
+        },
+        {
+          "definition": "in an unacceptable or unpleasant way.",
+          "examples": [
+            "she realized she was behaving rather badly"
+          ],
+          "synonyms": [
+            "naughtily",
+            "disobediently",
+            "willfully",
+            "reprehensibly",
+            "mischievously More\"stop behaving badly\"cruelly",
+            "wickedly",
+            "unkindly",
+            "harshly",
+            "shamefully; unfairly",
+            "unjustly",
+            "wrongly",
+            "improperly \"he had been badly treated\""
+          ]
+        },
+        {
+          "definition": "to a great or serious degree; severely.",
+          "examples": [
+            "the building was badly damaged by fire"
+          ],
+          "synonyms": [
+            "desperately",
+            "sorely",
+            "intensely",
+            "seriously",
+            "very much",
+            "greatly",
+            "exceedingly \"she badly needs help\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adjectiveinformal",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "badly"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "guilty or regretful.",
+          "examples": [
+            "I felt badly about my unfriendliness of the previous evening"
+          ]
+        }
+      ]
+    }
+  ]
+}

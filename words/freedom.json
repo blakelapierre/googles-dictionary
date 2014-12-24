@@ -1,0 +1,98 @@
+[
+  {
+    "word": "freedom",
+    "syllables": [
+      "free",
+      "dom"
+    ],
+    "pronunciation": "ˈfrēdəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "freedom"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the power or right to act, speak, or think as one wants without hindrance or restraint.",
+            "examples": [
+              "we do have some freedom of choice"
+            ]
+          },
+          {
+            "definition": "absence of subjection to foreign domination or despotic government.",
+            "examples": [
+              "he was a champion of Irish freedom"
+            ],
+            "synonyms": [
+              "independence",
+              "self-government",
+              "self-determination",
+              "self-rule",
+              "home rule",
+              "sovereignty",
+              "nonalignment",
+              "autonomy; democracy \"revolution was the only path to freedom\""
+            ],
+            "antonyms": [
+              "dependence"
+            ]
+          },
+          {
+            "definition": "the state of not being imprisoned or enslaved.",
+            "examples": [
+              "the shark thrashed its way to freedom"
+            ],
+            "synonyms": [
+              "liberty",
+              "liberation",
+              "release",
+              "deliverance",
+              "delivery",
+              "discharge; Moreliterarydisenthrallment; historicalmanumission \"a desperate bid for freedom\""
+            ],
+            "antonyms": [
+              "captivity"
+            ]
+          },
+          {
+            "definition": "the state of being physically unrestricted and able to move easily.",
+            "examples": [
+              "the shorts have a side split for freedom of movement"
+            ]
+          },
+          {
+            "definition": "the state of not being subject to or affected by (a particular undesirable thing).",
+            "examples": [
+              "noun: freedom from; plural noun: freedom froms"
+            ]
+          },
+          {
+            "definition": "the power of self-determination attributed to the will; the quality of being independent of fate or necessity.",
+            "examples": [
+              "right, entitlement, privilege, prerogative; Morescope, latitude, leeway, flexibility, space, breathing space, room, elbow room; license, leave, free rein, a free hand, carte blanche, a blank check \"freedom to choose your course of treatment\"Morescope, latitude, leeway, flexibility, space, breathing space, room, elbow room; license, leave, free rein, a free hand, carte blanche, a blank check freedom to choose your course of treatment"
+            ],
+            "antonyms": [
+              "restriction"
+            ]
+          },
+          {
+            "definition": "unrestricted use of something.",
+            "examples": [
+              "the dog is happy having the freedom of the house when we are out"
+            ]
+          },
+          {
+            "definition": "familiarity or openness in speech or behavior.",
+            "examples": [
+              "plural noun: freedoms"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "word": "era",
+    "syllables": [
+      "e",
+      "ra"
+    ],
+    "pronunciation": "ˈirəˈerə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "era"
+          },
+          {
+            "part": "plural noun",
+            "variant": "eras"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long and distinct period of history with a particular feature or characteristic.",
+            "examples": [
+              "his death marked the end of an era"
+            ],
+            "synonyms": [
+              "epoch",
+              "age",
+              "period",
+              "phase",
+              "time",
+              "span",
+              "eon; generation \"the Roosevelt era\""
+            ]
+          },
+          {
+            "definition": "a system of chronology dating from a particular noteworthy event.",
+            "examples": [
+              "the dawn of the Christian era"
+            ],
+            "synonyms": [
+              "epoch",
+              "age",
+              "period",
+              "phase",
+              "time",
+              "span",
+              "eon; generation \"the Roosevelt era\""
+            ]
+          },
+          {
+            "definition": "a major division of time that is a subdivision of an eon and is itself subdivided into periods.",
+            "examples": [
+              "the Mesozoic era"
+            ]
+          },
+          {
+            "definition": "a date or event marking the beginning of a new and distinct period of time.",
+            "examples": [
+              "epoch, age, period, phase, time, span, eon; generation the Roosevelt era"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ERA",
+    "syllables": [
+      "ERA"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "Equal Rights Amendment",
+    "syllables": [
+      "E",
+      "qual Rights A",
+      "mend",
+      "ment"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ERA"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a proposed amendment to the US Constitution stating that civil rights may not be denied on the basis of one's sex."
+          }
+        ]
+      }
+    ]
+  }
+]

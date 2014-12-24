@@ -1,0 +1,50 @@
+[
+  {
+    "word": "menu",
+    "syllables": [
+      "men",
+      "u"
+    ],
+    "pronunciation": "ˈmenyo͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "menu"
+          },
+          {
+            "part": "plural noun",
+            "variant": "menus"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a list of dishes available in a restaurant.",
+            "examples": [
+              "the waiter handed her a menu"
+            ],
+            "synonyms": [
+              "bill of fare",
+              "carte du jour",
+              "table d'hôte; Moreset menu; wine list \"she studied the menu before ordering\""
+            ]
+          },
+          {
+            "definition": "the food available or to be served in a restaurant or at a meal.",
+            "examples": [
+              "a no-fuss dinner-party menu"
+            ]
+          },
+          {
+            "definition": "a list of commands or options, especially one displayed on screen.",
+            "examples": [
+              "list of commands, options, toolbar a drop-down menu"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

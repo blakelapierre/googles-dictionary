@@ -1,0 +1,50 @@
+{
+  "word": "douse",
+  "syllables": [
+    "douse"
+  ],
+  "pronunciation": "dous",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "gerund or present participle",
+          "variant": "dowsing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "pour a liquid over; drench.",
+          "examples": [
+            "he doused the car with gasoline and set it on fire"
+          ],
+          "synonyms": [
+            "drench",
+            "soak",
+            "saturate",
+            "wet",
+            "splash",
+            "slosh \"sprayers doused the fields next to us with pesticides\""
+          ]
+        },
+        {
+          "definition": "extinguish (a fire or light).",
+          "examples": [
+            "stewards appeared and the fire was doused"
+          ],
+          "synonyms": [
+            "extinguish",
+            "put out",
+            "quench",
+            "smother",
+            "snuff (out) \"a guard doused the flames\""
+          ]
+        },
+        {
+          "definition": "lower (a sail) quickly."
+        }
+      ]
+    }
+  ]
+}

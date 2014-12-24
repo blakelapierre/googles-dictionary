@@ -1,0 +1,113 @@
+{
+  "word": "authority",
+  "syllables": [
+    "au",
+    "thor",
+    "i",
+    "ty"
+  ],
+  "pronunciation": "əˈTHôrədē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "authority"
+        },
+        {
+          "part": "noun",
+          "variant": "auth."
+        },
+        {
+          "part": "plural noun",
+          "variant": "authorities"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the power or right to give orders, make decisions, and enforce obedience.",
+          "examples": [
+            "he had absolute authority over his subordinates"
+          ],
+          "synonyms": [
+            "power",
+            "jurisdiction",
+            "command",
+            "control",
+            "charge",
+            "dominance",
+            "rule",
+            "sovereignty",
+            "supremacy; Moreinfluence; informalclout \"a rebellion against those in authority\""
+          ]
+        },
+        {
+          "definition": "the right to act in a specified way, delegated from one person or organization to another.",
+          "examples": [
+            "military forces have the legal authority to arrest drug traffickers"
+          ],
+          "synonyms": [
+            "authorization",
+            "right",
+            "power",
+            "mandate",
+            "prerogative",
+            "license",
+            "permission \"the authority to arrest drug traffickers\""
+          ]
+        },
+        {
+          "definition": "official permission; sanction.",
+          "examples": [
+            "the money was spent without congressional authority"
+          ]
+        },
+        {
+          "definition": "a person or organization having power or control in a particular, typically political or administrative, sphere.",
+          "examples": [
+            "the health authorities"
+          ],
+          "synonyms": [
+            "officials",
+            "officialdom; Moregovernment",
+            "administration",
+            "establishment; police; informalthe powers that be \"they failed to report the theft to the authorities\""
+          ]
+        },
+        {
+          "definition": "the power to influence others, especially because of one's commanding manner or one's recognized knowledge about something.",
+          "examples": [
+            "he has the natural authority of one who is used to being obeyed"
+          ]
+        },
+        {
+          "definition": "the confidence resulting from personal expertise.",
+          "examples": [
+            "he hit the ball with authority"
+          ]
+        },
+        {
+          "definition": "a person with extensive or specialized knowledge about a subject; an expert.",
+          "examples": [
+            "she was an authority on the stock market"
+          ],
+          "synonyms": [
+            "expert",
+            "specialist",
+            "aficionado",
+            "pundit",
+            "guru",
+            "sage \"an authority on the stock market\""
+          ]
+        },
+        {
+          "definition": "a book or other source able to supply reliable information or evidence, typically to settle a dispute.",
+          "examples": [
+            "the court cited a series of authorities supporting their decision"
+          ]
+        }
+      ]
+    }
+  ]
+}

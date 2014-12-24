@@ -1,0 +1,155 @@
+{
+  "word": "add",
+  "syllables": [
+    "add"
+  ],
+  "pronunciation": "ad",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "added"
+        },
+        {
+          "part": "past participle",
+          "variant": "added"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "join (something) to something else so as to increase the size, number, or amount.",
+          "examples": [
+            "a new wing was added to the building"
+          ],
+          "synonyms": [
+            "attach",
+            "build on",
+            "join",
+            "append",
+            "affix",
+            "connect",
+            "annex; Moreinclude",
+            "incorporate",
+            "throw in",
+            "toss in; admix \"the back room was added in 1971\""
+          ],
+          "antonyms": [
+            "remove"
+          ]
+        },
+        {
+          "definition": "increase in amount, number, or degree.",
+          "examples": [
+            "watch those air miles add up!"
+          ],
+          "synonyms": [
+            "increase",
+            "magnify",
+            "amplify",
+            "augment",
+            "intensify",
+            "heighten",
+            "deepen; Morecompound",
+            "reinforce; add fuel to the fire of",
+            "fan the flames of",
+            "rub salt on the wound of \"her decision just added to his woe\""
+          ]
+        },
+        {
+          "definition": "put or mix (an ingredient) together with another as one of the stages in the preparation of a dish.",
+          "examples": [
+            "add the flour to the eggs, stirring continuously"
+          ]
+        },
+        {
+          "definition": "put (something) in or on something else so as to improve or alter its quality or nature.",
+          "examples": [
+            "chlorine is added to the water to kill bacteria"
+          ]
+        },
+        {
+          "definition": "contribute (an enhancing quality) to something.",
+          "examples": [
+            "the canopy will add a touch of class to your bedroom"
+          ]
+        },
+        {
+          "definition": "put together (two or more numbers or amounts) to calculate their total value.",
+          "examples": [
+            "they added all the figures up"
+          ],
+          "synonyms": [
+            "total",
+            "add up",
+            "count",
+            "count up",
+            "compute",
+            "calculate",
+            "reckon",
+            "tally; datedcast up \"they added all the numbers\""
+          ],
+          "antonyms": [
+            "subtract"
+          ]
+        },
+        {
+          "definition": "amount to.",
+          "examples": [
+            "this adds up to a total of 400 calories"
+          ],
+          "synonyms": [
+            "amount to",
+            "come to",
+            "run to",
+            "make",
+            "total",
+            "equal",
+            "number More\"the subsidies added up to $1",
+            "700\"amount to",
+            "constitute; signify",
+            "signal",
+            "mean",
+            "indicate",
+            "denote",
+            "point to",
+            "be evidence of",
+            "be symptomatic of; informalspell \"it all adds up to a deepening crisis\"make sense",
+            "stand to reason",
+            "hold up",
+            "hold water",
+            "ring true",
+            "be convincing \"the situation just didn't add up\""
+          ]
+        },
+        {
+          "definition": "seem reasonable or consistent; make sense.",
+          "examples": [
+            "many things in her story didn't add up"
+          ],
+          "synonyms": [
+            "make sense",
+            "stand to reason",
+            "hold up",
+            "hold water",
+            "ring true",
+            "be convincing \"the situation just didn't add up\""
+          ]
+        },
+        {
+          "definition": "say as a further remark.",
+          "examples": [
+            "“I hope we haven't been too much trouble,” she added politely"
+          ],
+          "synonyms": [
+            "go on to say",
+            "state further",
+            "continue",
+            "carry on \"she added that she had every confidence in Laura\""
+          ]
+        }
+      ]
+    }
+  ]
+}

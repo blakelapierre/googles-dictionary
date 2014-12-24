@@ -1,0 +1,32 @@
+{
+  "word": "-meter",
+  "syllables": [
+    "-meter"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "combining form",
+      "variants": [
+        {
+          "part": "suffix",
+          "variant": "-meter"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "in names of measuring instruments.",
+          "examples": [
+            "thermometer"
+          ]
+        },
+        {
+          "definition": "in nouns denoting lines of poetry with a specified number of feet or measures.",
+          "examples": [
+            "hexameter"
+          ]
+        }
+      ]
+    }
+  ]
+}

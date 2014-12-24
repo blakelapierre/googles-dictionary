@@ -1,0 +1,92 @@
+[
+  {
+    "word": "minister",
+    "syllables": [
+      "min",
+      "is",
+      "ter"
+    ],
+    "pronunciation": "ˈminəstər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "ministers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of the clergy, especially in Protestant churches.",
+            "examples": [
+              "clergyman, clergywoman, cleric, ecclesiastic, pastor, vicar, rector, priest, parson, deacon, father, man/woman of the cloth, man/woman of God, churchman, churchwoman; Morecurate, chaplain; informalreverend, padre, Holy Joe, sky pilot \"our minister visited me in the hospital\"Morecurate, chaplain; reverend, padre, Holy Joe, sky pilot our minister visited me in the hospital"
+            ]
+          },
+          {
+            "definition": "the superior of some religious orders.",
+            "examples": [
+              "noun: minister general; plural noun: minister generals"
+            ]
+          },
+          {
+            "definition": "(in certain countries) a head of a government department.",
+            "examples": [
+              "Britain's defense minister"
+            ],
+            "synonyms": [
+              "member of the government",
+              "cabinet minister",
+              "secretary of state",
+              "undersecretary \"a government minister\""
+            ]
+          },
+          {
+            "definition": "a diplomatic agent, usually ranking below an ambassador, representing a state or sovereign in a foreign country.",
+            "examples": [
+              "ambassador, chargé d'affaires, plenipotentiary, envoy, emissary, diplomat, consul, representative; legate the Canadian minister in Egypt"
+            ]
+          },
+          {
+            "definition": "a person or thing used to achieve or convey something.",
+            "examples": [
+              "the Angels are ministers of the Divine Will"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "ministers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attend to the needs of (someone).",
+            "examples": [
+              "her doctor was busy ministering to the injured"
+            ]
+          },
+          {
+            "definition": "provide (something necessary or helpful).",
+            "examples": [
+              "the story was able to minister true consolation"
+            ]
+          },
+          {
+            "definition": "act as a minister of religion.",
+            "examples": [
+              "tend to, care for, take care of, look after, nurse, treat, attend to, see to, administer to, help, assist doctors were ministering to the injured"
+            ]
+          },
+          {
+            "definition": "administer (a sacrament)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,320 @@
+{
+  "word": "low",
+  "syllables": [
+    "low"
+  ],
+  "pronunciation": "lō",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "comparative adjective",
+          "variant": "lower"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "of less than average height from top to bottom or to the top from the ground.",
+          "examples": [
+            "the school is a long, low building"
+          ],
+          "synonyms": [
+            "short",
+            "small",
+            "little; Moresquat",
+            "stubby",
+            "stunted",
+            "dwarf; shallow \"a low fence\""
+          ],
+          "antonyms": [
+            "high"
+          ]
+        },
+        {
+          "definition": "situated not far above the ground, the horizon, or sea level.",
+          "examples": [
+            "the sun was low in the sky"
+          ]
+        },
+        {
+          "definition": "located at or near the bottom of something.",
+          "examples": [
+            "low back pain"
+          ]
+        },
+        {
+          "definition": "(of a pitched ball) below a certain level, such as the batter's knees, as it comes across home plate, and thus outside the strike zone."
+        },
+        {
+          "definition": "(of a river or lake) below the usual water level; shallow."
+        },
+        {
+          "definition": "(of latitude) near the equator."
+        },
+        {
+          "definition": "(of women's clothing) cut so as to reveal the neck and the upper part of the breasts.",
+          "examples": [
+            "the low neckline of her blouse"
+          ]
+        },
+        {
+          "definition": "(of a vowel) pronounced with the tongue held low in the mouth; open."
+        },
+        {
+          "definition": "(of a sound or voice) not loud or high.",
+          "examples": [
+            "his low, husky voice"
+          ],
+          "synonyms": [
+            "quiet",
+            "soft",
+            "faint",
+            "gentle",
+            "muted",
+            "subdued",
+            "muffled",
+            "hushed",
+            "quieted",
+            "whispered",
+            "stifled More\"a low voice\"bass",
+            "baritone",
+            "low-pitched",
+            "deep",
+            "rumbling",
+            "booming",
+            "sonorous \"a low note\""
+          ],
+          "antonyms": [
+            "loud"
+          ]
+        },
+        {
+          "definition": "below average in amount, extent, or intensity; small.",
+          "examples": [
+            "bringing up children on a low income"
+          ],
+          "synonyms": [
+            "cheap",
+            "economical",
+            "moderate",
+            "reasonable",
+            "modest",
+            "bargain",
+            "budget",
+            "bargain-basement",
+            "rock-bottom",
+            "cut-rate More\"low prices\"unambitious",
+            "unaspiring",
+            "modest \"low expectations\"cheaper",
+            "reduced",
+            "cut",
+            "slashed \"a lower price\""
+          ],
+          "antonyms": [
+            "high",
+            "expensive",
+            "ambitious",
+            "higher",
+            "increased"
+          ]
+        },
+        {
+          "definition": "(of a substance or food) containing smaller quantities than usual of a specified ingredient.",
+          "examples": [
+            "vegetables are low in calories"
+          ]
+        },
+        {
+          "definition": "(of a supply) small or reduced in quantity.",
+          "examples": [
+            "food and ammunition were running low"
+          ],
+          "synonyms": [
+            "scarce",
+            "scanty",
+            "scant",
+            "skimpy",
+            "meager",
+            "sparse",
+            "few",
+            "little",
+            "paltry; Morereduced",
+            "depleted",
+            "diminished \"supplies were low\""
+          ],
+          "antonyms": [
+            "plentiful",
+            "abundant"
+          ]
+        },
+        {
+          "definition": "having a small or reduced quantity of a supply.",
+          "examples": [
+            "they were low on fuel"
+          ]
+        },
+        {
+          "definition": "ranking below other people or things in importance or class.",
+          "examples": [
+            "jobs with low status"
+          ],
+          "synonyms": [
+            "humble",
+            "lowly",
+            "low-ranking",
+            "plebeian",
+            "proletarian",
+            "peasant",
+            "poor; Morecommon",
+            "ordinary \"of low birth\"subordinate",
+            "inferior",
+            "lesser",
+            "junior",
+            "minor",
+            "secondary",
+            "lower-level",
+            "subsidiary",
+            "subservient \"the lower house of Parliament\""
+          ],
+          "antonyms": [
+            "superior",
+            "noble",
+            "upper",
+            "senior"
+          ]
+        },
+        {
+          "definition": "(of art or culture) considered to be inferior in quality and refinement.",
+          "examples": [
+            "the dual traditions of high and low art"
+          ],
+          "synonyms": [
+            "uncouth",
+            "uncultured",
+            "unsophisticated",
+            "rough",
+            "rough-hewn",
+            "unrefined",
+            "tasteless",
+            "crass",
+            "common",
+            "vulgar",
+            "coarse",
+            "crude \"low humor\""
+          ],
+          "antonyms": [
+            "high",
+            "exalted"
+          ]
+        },
+        {
+          "definition": "less good than is expected or desired; inferior.",
+          "examples": [
+            "the standard of living is low"
+          ],
+          "synonyms": [
+            "inferior",
+            "substandard",
+            "poor",
+            "bad",
+            "low-grade",
+            "low-end",
+            "below par",
+            "second-rate",
+            "unsatisfactory",
+            "deficient",
+            "defective",
+            "shoddy \"low quality\""
+          ],
+          "antonyms": [
+            "high",
+            "superior"
+          ]
+        },
+        {
+          "definition": "unscrupulous or dishonest.",
+          "examples": [
+            "practice a little low cunning"
+          ]
+        },
+        {
+          "definition": "(of an opinion) unfavorable.",
+          "examples": [
+            "he had a low opinion of himself"
+          ],
+          "synonyms": [
+            "unfavorable",
+            "poor",
+            "bad",
+            "adverse",
+            "negative \"a low opinion\""
+          ],
+          "antonyms": [
+            "high",
+            "favorable",
+            "good"
+          ]
+        },
+        {
+          "definition": "depressed or lacking in energy.",
+          "examples": [
+            "I was feeling low"
+          ],
+          "synonyms": [
+            "depressed",
+            "dejected",
+            "despondent",
+            "downhearted",
+            "downcast",
+            "low-spirited",
+            "down",
+            "morose",
+            "miserable",
+            "dismal",
+            "heavy-hearted",
+            "mournful",
+            "forlorn",
+            "woebegone",
+            "gloomy",
+            "glum",
+            "crestfallen",
+            "dispirited; Morewithout energy",
+            "enervated",
+            "flat",
+            "sapped",
+            "weary; informaldown in/at the mouth",
+            "down in the dumps",
+            "blue \"she was feeling low\""
+          ],
+          "antonyms": [
+            "cheerful"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adverb",
+      "variants": [
+        {
+          "part": "comparative adverb",
+          "variant": "lower"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "in or into a low position or state.",
+          "examples": [
+            "she pressed on, bent low to protect her face"
+          ]
+        },
+        {
+          "definition": "in a low voice or at a low pitch.",
+          "examples": [
+            "we were talking low so we wouldn't wake Dean"
+          ]
+        }
+      ]
+    }
+  ]
+}

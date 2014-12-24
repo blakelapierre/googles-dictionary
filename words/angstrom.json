@@ -1,0 +1,24 @@
+{
+  "word": "angstrom",
+  "syllables": [
+    "ang",
+    "strom"
+  ],
+  "pronunciation": "ˈaNGstrəm",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "symbol",
+          "variant": "Å"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a unit of length equal to one hundred-millionth of a centimeter, 10–10 meter, used mainly to express wavelengths and interatomic distances."
+        }
+      ]
+    }
+  ]
+}

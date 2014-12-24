@@ -1,0 +1,168 @@
+[
+  {
+    "word": "sustained",
+    "syllables": [
+      "sus",
+      "tained"
+    ],
+    "pronunciation": "səˈstānd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sustained"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "continuing for an extended period or without interruption.",
+            "examples": [
+              "several years of sustained economic growth"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sustain",
+    "syllables": [
+      "sus",
+      "tain"
+    ],
+    "pronunciation": "səˈstān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "sustained"
+          },
+          {
+            "part": "past participle",
+            "variant": "sustained"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strengthen or support physically or mentally.",
+            "examples": [
+              "this thought had sustained him throughout the years"
+            ],
+            "synonyms": [
+              "comfort",
+              "help",
+              "assist",
+              "encourage",
+              "succor",
+              "support",
+              "give strength to",
+              "buoy up",
+              "carry",
+              "cheer up",
+              "hearten; informalbuck up \"her memories sustained her\""
+            ]
+          },
+          {
+            "definition": "cause to continue or be prolonged for an extended period or without interruption.",
+            "examples": [
+              "he cannot sustain a normal conversation"
+            ],
+            "synonyms": [
+              "continue",
+              "carry on",
+              "keep up",
+              "keep alive",
+              "maintain",
+              "preserve",
+              "conserve",
+              "perpetuate",
+              "retain More\"they were unable to sustain a coalition\"continuous",
+              "ongoing",
+              "steady",
+              "continual",
+              "constant",
+              "prolonged",
+              "persistent",
+              "nonstop",
+              "perpetual",
+              "unabating",
+              "relentless",
+              "rolling",
+              "unrelieved",
+              "unbroken",
+              "never-ending",
+              "incessant",
+              "unceasing",
+              "ceaseless",
+              "around-the-clock",
+              "round-the-clock \"her sustained battle against alcoholism\""
+            ],
+            "antonyms": [
+              "sporadic"
+            ]
+          },
+          {
+            "definition": "(of a performer) represent (a part or character) convincingly.",
+            "examples": [
+              "he sustained the role with burly resilience"
+            ]
+          },
+          {
+            "definition": "bear (the weight of an object) without breaking or falling.",
+            "examples": [
+              "he sagged against her so that she could barely sustain his weight"
+            ],
+            "synonyms": [
+              "bear",
+              "support",
+              "carry",
+              "stand",
+              "keep up",
+              "prop up",
+              "shore up",
+              "underpin \"the balcony might not sustain the weight\""
+            ]
+          },
+          {
+            "definition": "undergo or suffer (something unpleasant, especially an injury).",
+            "examples": [
+              "he died after sustaining severe head injuries"
+            ],
+            "synonyms": [
+              "undergo",
+              "experience",
+              "suffer",
+              "endure \"she sustained slight injuries\""
+            ]
+          },
+          {
+            "definition": "uphold, affirm, or confirm the justice or validity of.",
+            "examples": [
+              "the allegations of discrimination were sustained"
+            ],
+            "synonyms": [
+              "uphold",
+              "validate",
+              "ratify",
+              "vindicate",
+              "confirm",
+              "endorse; Moreverify",
+              "corroborate",
+              "substantiate",
+              "bear out",
+              "prove",
+              "authenticate",
+              "back up",
+              "evidence",
+              "justify \"the allegation was not sustained\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

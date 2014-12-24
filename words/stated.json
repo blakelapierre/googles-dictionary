@@ -1,0 +1,101 @@
+[
+  {
+    "word": "stated",
+    "syllables": [
+      "stat",
+      "ed"
+    ],
+    "pronunciation": "ˈstādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "stated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clearly expressed or identified; specified.",
+            "examples": [
+              "the stated aim of the program"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "state",
+    "syllables": [
+      "state"
+    ],
+    "pronunciation": "stāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "stated"
+          },
+          {
+            "part": "past participle",
+            "variant": "stated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express something definitely or clearly in speech or writing.",
+            "examples": [
+              "the report stated that more than 51 percent of voters failed to participate"
+            ],
+            "synonyms": [
+              "express",
+              "voice",
+              "utter",
+              "put into words",
+              "declare",
+              "affirm",
+              "assert",
+              "announce",
+              "make known",
+              "put across/over",
+              "communicate",
+              "air",
+              "reveal",
+              "disclose",
+              "divulge",
+              "proclaim",
+              "present",
+              "expound; Moreset out",
+              "set down; informalcome out with \"I stated my views\"specified",
+              "fixed",
+              "settled",
+              "set",
+              "agreed",
+              "declared",
+              "designated",
+              "laid down \"the stated aim of the program\""
+            ],
+            "antonyms": [
+              "undefined",
+              "irregular",
+              "tacit"
+            ]
+          },
+          {
+            "definition": "specify the facts of (a case) for consideration.",
+            "examples": [
+              "judges must give both sides an equal opportunity to state their case"
+            ]
+          },
+          {
+            "definition": "present or introduce (a theme or melody) in a composition."
+          }
+        ]
+      }
+    ]
+  }
+]

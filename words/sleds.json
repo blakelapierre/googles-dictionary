@@ -1,0 +1,48 @@
+[
+  {
+    "word": "sled",
+    "syllables": [
+      "sled"
+    ],
+    "pronunciation": "sled",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "sleds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vehicle, typically on runners, for conveying goods or passengers over snow or ice, either pushed or pulled, or drawn by horses, dogs, or a motor vehicle."
+          },
+          {
+            "definition": "a small lightweight vehicle, either on runners or having a smooth bottom surface, used for sliding downhill over snow or ice."
+          },
+          {
+            "definition": "another term for snowmobile."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "sleds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ride on a sled.",
+            "examples": [
+              "they sledded down the slopes in the frozen snow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

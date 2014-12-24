@@ -1,0 +1,84 @@
+[
+  {
+    "word": "displace",
+    "syllables": [
+      "dis",
+      "place"
+    ],
+    "pronunciation": "disˈplās",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "displaces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take over the place, position, or role of (someone or something).",
+            "examples": [
+              "in the northern states of India, Hindi has largely displaced English"
+            ],
+            "synonyms": [
+              "replace",
+              "take the place of",
+              "supplant",
+              "supersede \"English displaced the local language\""
+            ]
+          },
+          {
+            "definition": "cause (something) to move from its proper or usual place.",
+            "examples": [
+              "he seems to have displaced some vertebrae"
+            ],
+            "synonyms": [
+              "dislodge",
+              "dislocate",
+              "move",
+              "shift",
+              "reposition; Moremove out of place",
+              "knock out of place/position \"roof tiles displaced by gales\""
+            ],
+            "antonyms": [
+              "replace"
+            ]
+          },
+          {
+            "definition": "force (someone) to leave their home, typically because of war, persecution, or natural disaster.",
+            "examples": [
+              "thousands of people have been displaced by the civil war"
+            ]
+          },
+          {
+            "definition": "remove (someone) from a job or position of authority against their will.",
+            "examples": [
+              "his aides were discredited and displaced"
+            ],
+            "synonyms": [
+              "depose",
+              "dislodge",
+              "unseat",
+              "remove (from office)",
+              "dismiss",
+              "eject",
+              "oust",
+              "expel",
+              "force out",
+              "drive out; Moreoverthrow",
+              "topple",
+              "bring down; informalboot out",
+              "give someone the boot",
+              "show someone the door",
+              "bump \"the director was displaced\""
+            ],
+            "antonyms": [
+              "reinstate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

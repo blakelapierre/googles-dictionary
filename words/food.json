@@ -1,0 +1,56 @@
+[
+  {
+    "word": "food",
+    "syllables": [
+      "food"
+    ],
+    "pronunciation": "fo͞od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "food"
+          },
+          {
+            "part": "plural noun",
+            "variant": "foods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.",
+            "examples": [
+              "we need food and water"
+            ],
+            "synonyms": [
+              "nourishment",
+              "sustenance",
+              "nutriment",
+              "fare; Morebread",
+              "daily bread; cooking",
+              "cuisine; foodstuffs",
+              "edibles",
+              "provender",
+              "refreshments",
+              "meals",
+              "provisions",
+              "rations; solids; informaleats",
+              "eatables",
+              "nosh",
+              "grub",
+              "chow",
+              "nom noms; formalcomestibles; literaryviands; datedvictuals; archaiccommons",
+              "meat",
+              "aliment \"French food\"fodder",
+              "feed",
+              "provender",
+              "forage \"food for the cattle\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

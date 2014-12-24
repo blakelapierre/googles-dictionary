@@ -1,0 +1,174 @@
+[
+  {
+    "word": "while",
+    "syllables": [
+      "while"
+    ],
+    "pronunciation": "(h)wīl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "while"
+          },
+          {
+            "part": "plural noun",
+            "variant": "whiles"
+          },
+          {
+            "part": "noun",
+            "variant": "the while"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a period of time.",
+            "examples": [
+              "we chatted for a while"
+            ],
+            "synonyms": [
+              "time",
+              "spell",
+              "stretch",
+              "stint",
+              "span",
+              "interval",
+              "period; Moreduration",
+              "phase",
+              "patch \"we chatted for a while\""
+            ]
+          },
+          {
+            "definition": "for some time.",
+            "examples": [
+              "noun: a while"
+            ]
+          },
+          {
+            "definition": "at the same time; meanwhile.",
+            "examples": [
+              "he starts to draw, talking the while"
+            ]
+          },
+          {
+            "definition": "during the time that.",
+            "examples": [
+              "beseeching him, the while his hand she wrung"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "conjunction",
+        "variants": [
+          {
+            "part": "conjunction",
+            "variant": "while"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "during the time that; at the same time as.",
+            "examples": [
+              "nothing much changed while he was away"
+            ],
+            "synonyms": [
+              "during the time that",
+              "when",
+              "as; whilst \"while we waited",
+              "the weather only worsened\""
+            ]
+          },
+          {
+            "definition": "whereas (indicating a contrast).",
+            "examples": [
+              "one person wants out, while the other wants the relationship to continue"
+            ],
+            "synonyms": [
+              "although",
+              "notwithstanding (the fact) that",
+              "even though",
+              "even if",
+              "for all that; whilst \"while the research is important",
+              "there are other financial considerations\""
+            ]
+          },
+          {
+            "definition": "in spite of the fact that; although.",
+            "examples": [
+              "while I wouldn't recommend a nighttime visit, by day the area is full of interest"
+            ],
+            "synonyms": [
+              "although",
+              "notwithstanding (the fact) that",
+              "even though",
+              "even if",
+              "for all that; whilst \"while the research is important",
+              "there are other financial considerations\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "while"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "during which.",
+            "examples": [
+              "the period while the animal remains alive"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "while"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "whiles"
+          },
+          {
+            "part": "past tense",
+            "variant": "whiled"
+          },
+          {
+            "part": "past participle",
+            "variant": "whiled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "whiling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pass time in a leisurely manner.",
+            "examples": [
+              "a diversion to while away the long afternoons"
+            ],
+            "synonyms": [
+              "pass",
+              "spend",
+              "occupy",
+              "use up",
+              "fritter",
+              "kill \"tennis helped to while away the time\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

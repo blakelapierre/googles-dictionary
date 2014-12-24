@@ -1,0 +1,84 @@
+[
+  {
+    "word": "unfair",
+    "syllables": [
+      "un",
+      "fair"
+    ],
+    "pronunciation": "ˌənˈfer",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unfair"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "unfairer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "unfairest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not based on or behaving according to the principles of equality and justice.",
+            "examples": [
+              "at times like these the legal system appears inhumane and unfair"
+            ],
+            "synonyms": [
+              "unjust",
+              "inequitable",
+              "prejudiced",
+              "biased",
+              "discriminatory; Moreone-sided",
+              "unequal",
+              "uneven",
+              "unbalanced",
+              "partisan",
+              "partial",
+              "skewed \"the trial was unfair\"undeserved",
+              "unmerited",
+              "uncalled for",
+              "unreasonable",
+              "unjustified \"his comments were unfair\""
+            ],
+            "antonyms": [
+              "just",
+              "justified"
+            ]
+          },
+          {
+            "definition": "unkind, inconsiderate, or unreasonable.",
+            "examples": [
+              "you're unfair to criticize like that when she's never done you any harm"
+            ],
+            "synonyms": [
+              "inconsiderate",
+              "thoughtless",
+              "insensitive",
+              "selfish",
+              "spiteful",
+              "mean",
+              "unkind",
+              "unreasonable; Morehypercritical",
+              "overcritical \"you're being very unfair\""
+            ]
+          },
+          {
+            "definition": "not following the rules of a game or sport.",
+            "examples": [
+              "unsportsmanlike, unsporting, dirty, below the belt, underhanded, dishonorable unfair play"
+            ],
+            "antonyms": [
+              "sporting"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

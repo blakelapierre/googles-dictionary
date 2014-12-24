@@ -1,0 +1,80 @@
+[
+  {
+    "word": "clash",
+    "syllables": [
+      "clash"
+    ],
+    "pronunciation": "klaSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "clashing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "meet and come into violent conflict.",
+            "examples": [
+              "protesters demanding self-rule clashed with police"
+            ],
+            "synonyms": [
+              "fight",
+              "skirmish",
+              "contend",
+              "come to blows",
+              "come into conflict; do battle \"protesters clashed with police\""
+            ]
+          },
+          {
+            "definition": "have a forceful disagreement.",
+            "examples": [
+              "Clarke has frequently clashed with his colleagues"
+            ],
+            "synonyms": [
+              "disagree",
+              "differ",
+              "wrangle",
+              "dispute",
+              "cross swords",
+              "lock horns",
+              "be at loggerheads \"the mayor clashed with union leaders\""
+            ]
+          },
+          {
+            "definition": "be incompatible or at odds.",
+            "examples": [
+              "his thriftiness clashed with Ross's largesse"
+            ]
+          },
+          {
+            "definition": "(of colors) appear discordant or ugly when placed close to each other.",
+            "examples": [
+              "suits in clashing colors"
+            ],
+            "synonyms": [
+              "be incompatible",
+              "not match",
+              "not go",
+              "be discordant \"her red scarf clashed with her coat\""
+            ]
+          },
+          {
+            "definition": "inconveniently occur at the same time.",
+            "examples": [
+              "the date of the wedding clashes with Sean's graduation"
+            ]
+          },
+          {
+            "definition": "strike (cymbals) together, producing a loud discordant sound.",
+            "examples": [
+              "bang, strike, clang, crash she clashed the cymbals together"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

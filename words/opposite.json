@@ -1,0 +1,155 @@
+[
+  {
+    "word": "opposite",
+    "syllables": [
+      "op",
+      "po",
+      "site"
+    ],
+    "pronunciation": "ˈäpəzət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "opposite"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a position on the other or further side of something; facing something, especially something of the same type.",
+            "examples": [
+              "a crowd gathered on the opposite side of the street"
+            ],
+            "synonyms": [
+              "facing",
+              "opposing",
+              "reverse \"the opposite page\""
+            ]
+          },
+          {
+            "definition": "facing the speaker or a specified person or thing.",
+            "examples": [
+              "he went into the store opposite"
+            ]
+          },
+          {
+            "definition": "(of leaves or shoots) arising in opposed pairs, one on each side of the stem."
+          },
+          {
+            "definition": "diametrically different; of a contrary kind.",
+            "examples": [
+              "a word that is opposite in meaning to another"
+            ],
+            "synonyms": [
+              "conflicting",
+              "contrasting",
+              "incompatible",
+              "irreconcilable",
+              "antithetical",
+              "contradictory",
+              "clashing",
+              "contrary",
+              "at variance",
+              "at odds",
+              "different",
+              "differing",
+              "divergent",
+              "dissimilar",
+              "unalike",
+              "disagreeing",
+              "opposed",
+              "opposing",
+              "poles apart",
+              "polar \"opposite views\""
+            ],
+            "antonyms": [
+              "similar",
+              "same",
+              "identical"
+            ]
+          },
+          {
+            "definition": "being the other of a contrasted pair.",
+            "examples": [
+              "the opposite ends of the price range"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "opposite"
+          },
+          {
+            "part": "plural noun",
+            "variant": "opposites"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that is totally different from or the reverse of someone or something else.",
+            "examples": [
+              "we were opposites in temperament"
+            ],
+            "synonyms": [
+              "reverse",
+              "converse",
+              "antithesis",
+              "contrary",
+              "inverse",
+              "obverse",
+              "antipode; Morethe other side of the coin; informalflip side \"the opposite was also true\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "opposite"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a position facing a specified or implied subject.",
+            "examples": [
+              "she was sitting almost opposite"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "opposite"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a position on the other side of a specific area from; facing.",
+            "examples": [
+              "they sat opposite one another"
+            ],
+            "synonyms": [
+              "facing",
+              "face to face with",
+              "across from; Moreinformaleyeball to eyeball with; archaicfronting \"they sit opposite one another\""
+            ]
+          },
+          {
+            "definition": "(of a leading actor) in a complementary role to (another performer)."
+          }
+        ]
+      }
+    ]
+  }
+]

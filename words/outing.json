@@ -1,0 +1,95 @@
+[
+  {
+    "word": "outing",
+    "syllables": [
+      "out",
+      "ing"
+    ],
+    "pronunciation": "ˈoudiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "outing"
+          },
+          {
+            "part": "plural noun",
+            "variant": "outings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a trip taken for pleasure, especially one lasting a day or less.",
+            "examples": [
+              "they would go on family outings to the movies"
+            ],
+            "synonyms": [
+              "(pleasure) trip",
+              "excursion",
+              "jaunt",
+              "expedition",
+              "day out",
+              "(mystery) tour",
+              "drive",
+              "ride",
+              "run; Moreinformaljunket",
+              "spin \"family outings\""
+            ]
+          },
+          {
+            "definition": "a brief journey from home.",
+            "examples": [
+              "her daily outing to the stores"
+            ]
+          },
+          {
+            "definition": "an appearance in something, as an athletic event or show.",
+            "examples": [
+              "her first screen outing in three years"
+            ]
+          },
+          {
+            "definition": "the act or practice of revealing the homosexuality of a person.",
+            "examples": [
+              "exposure, unmasking, revelation the outing of public figures"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "out",
+    "syllables": [
+      "out"
+    ],
+    "pronunciation": "out",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "outing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come or go out; emerge.",
+            "examples": [
+              "the truth will out"
+            ]
+          },
+          {
+            "definition": "reveal the homosexuality of (a prominent person).",
+            "examples": [
+              "expose, unmask it was not our intention to out him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

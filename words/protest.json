@@ -1,0 +1,52 @@
+[
+  {
+    "word": "protest",
+    "syllables": [
+      "pro",
+      "test"
+    ],
+    "pronunciation": "ˈprōˌtestprəˈtestprōˈtest",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "protest"
+          },
+          {
+            "part": "plural noun",
+            "variant": "protests"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "protest"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "protests"
+          },
+          {
+            "part": "past tense",
+            "variant": "protested"
+          },
+          {
+            "part": "past participle",
+            "variant": "protested"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "protesting"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

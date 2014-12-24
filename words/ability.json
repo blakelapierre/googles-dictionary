@@ -1,0 +1,68 @@
+{
+  "word": "ability",
+  "syllables": [
+    "a",
+    "bil",
+    "i",
+    "ty"
+  ],
+  "pronunciation": "əˈbilədē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "abilities"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "possession of the means or skill to do something.",
+          "examples": [
+            "the manager had lost his ability to motivate the players"
+          ],
+          "synonyms": [
+            "capacity",
+            "capability",
+            "potential",
+            "potentiality",
+            "power",
+            "faculty",
+            "aptness",
+            "facility; Morewherewithal",
+            "means \"the ability to read and write\""
+          ]
+        },
+        {
+          "definition": "talent, skill, or proficiency in a particular area.",
+          "examples": [
+            "a man of exceptional ability"
+          ],
+          "synonyms": [
+            "talent",
+            "skill",
+            "expertise",
+            "adeptness",
+            "aptitude",
+            "skillfulness",
+            "savoir faire",
+            "prowess",
+            "mastery",
+            "accomplishment; Morecompetence",
+            "proficiency; dexterity",
+            "adroitness",
+            "deftness",
+            "cleverness",
+            "flair",
+            "finesse",
+            "gift",
+            "knack",
+            "genius; qualification",
+            "resources; informalknow-how \"the president's leadership ability\""
+          ]
+        }
+      ]
+    }
+  ]
+}

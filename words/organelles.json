@@ -1,0 +1,27 @@
+[
+  {
+    "word": "organelle",
+    "syllables": [
+      "or",
+      "gan",
+      "elle"
+    ],
+    "pronunciation": "ˌôrɡəˈnel",
+    "parts": [
+      {
+        "part": "nounBiology",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "organelles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of a number of organized or specialized structures within a living cell."
+          }
+        ]
+      }
+    ]
+  }
+]

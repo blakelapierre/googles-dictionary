@@ -1,0 +1,96 @@
+{
+  "word": "perform",
+  "syllables": [
+    "per",
+    "form"
+  ],
+  "pronunciation": "pərˈfôrm",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "performs"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "carry out, accomplish, or fulfill (an action, task, or function).",
+          "examples": [
+            "I have my duties to perform"
+          ],
+          "synonyms": [
+            "carry out",
+            "do",
+            "execute",
+            "discharge",
+            "bring about",
+            "bring off",
+            "accomplish",
+            "achieve",
+            "fulfill",
+            "complete",
+            "conduct",
+            "effect",
+            "dispatch",
+            "work",
+            "implement; Moreinformalpull off; formaleffectuate; archaicacquit oneself of \"I have my duties to perform\""
+          ],
+          "antonyms": [
+            "neglect"
+          ]
+        },
+        {
+          "definition": "work, function, or do something to a specified standard.",
+          "examples": [
+            "the car performs well at low speeds"
+          ],
+          "synonyms": [
+            "function",
+            "work",
+            "operate",
+            "run",
+            "go",
+            "respond",
+            "behave",
+            "act",
+            "acquit oneself/itself \"a car that performs well at low speeds\""
+          ]
+        },
+        {
+          "definition": "have successful or satisfactory sexual intercourse with someone."
+        },
+        {
+          "definition": "present (a form of entertainment) to an audience.",
+          "examples": [
+            "the cast of 14 perform the play superbly"
+          ],
+          "synonyms": [
+            "stage",
+            "put on",
+            "present",
+            "mount",
+            "enact",
+            "act",
+            "produce \"the play has been performed in San Francisco\""
+          ]
+        },
+        {
+          "definition": "entertain an audience, typically by acting, singing, or dancing on stage.",
+          "examples": [
+            "the band will be performing live in Hyde Park"
+          ],
+          "synonyms": [
+            "appear",
+            "play",
+            "be on stage",
+            "sing",
+            "dance",
+            "act \"the band performed live in Central Park\""
+          ]
+        }
+      ]
+    }
+  ]
+}

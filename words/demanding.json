@@ -1,0 +1,129 @@
+[
+  {
+    "word": "demanding",
+    "syllables": [
+      "de",
+      "mand",
+      "ing"
+    ],
+    "pronunciation": "dəˈmandiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "demanding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a task) requiring much skill or effort.",
+            "examples": [
+              "she has a busy and demanding job"
+            ],
+            "synonyms": [
+              "difficult",
+              "challenging",
+              "taxing",
+              "exacting",
+              "tough",
+              "hard",
+              "onerous",
+              "burdensome",
+              "formidable; Morearduous",
+              "uphill",
+              "rigorous",
+              "grueling",
+              "back-breaking",
+              "punishing \"a demanding task\""
+            ],
+            "antonyms": [
+              "easy",
+              "effortless"
+            ]
+          },
+          {
+            "definition": "(of a person) making others work hard or meet high standards.",
+            "examples": [
+              "nagging, clamorous, importunate, insistent; Moretrying, tiresome, hard to please; informalhigh-maintenance \"a demanding child\"Moretrying, tiresome, hard to please; high-maintenance a demanding child"
+            ],
+            "antonyms": [
+              "easygoing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "demand",
+    "syllables": [
+      "de",
+      "mand"
+    ],
+    "pronunciation": "dəˈmand",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "demanding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ask authoritatively or brusquely.",
+            "examples": [
+              "“Where is she?” he demanded"
+            ],
+            "synonyms": [
+              "order",
+              "command",
+              "enjoin",
+              "urge; Moreliterarybid \"Harvey demanded that I tell him the truth\"ask",
+              "inquire",
+              "question",
+              "interrogate; challenge \"“Where is she?” he demanded\""
+            ]
+          },
+          {
+            "definition": "insist on having.",
+            "examples": [
+              "an outraged public demanded retribution"
+            ],
+            "synonyms": [
+              "call for",
+              "ask for",
+              "request",
+              "push for",
+              "hold out for; Moreinsist on",
+              "claim \"workers demanded wage increases\"insist on",
+              "stipulate",
+              "make a condition of; expect",
+              "look for \"they demanded complete anonymity\""
+            ]
+          },
+          {
+            "definition": "require; need.",
+            "examples": [
+              "a complex activity demanding detailed knowledge"
+            ],
+            "synonyms": [
+              "require",
+              "need",
+              "necessitate",
+              "call for",
+              "involve",
+              "entail \"an activity demanding detailed knowledge\""
+            ]
+          },
+          {
+            "definition": "call into court; summon."
+          }
+        ]
+      }
+    ]
+  }
+]

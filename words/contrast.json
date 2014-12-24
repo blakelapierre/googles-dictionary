@@ -1,0 +1,52 @@
+[
+  {
+    "word": "contrast",
+    "syllables": [
+      "con",
+      "trast"
+    ],
+    "pronunciation": "ˈkänˌtrastˈkänˌtrastkənˈtrast",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "contrast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "contrasts"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "contrast"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "contrasts"
+          },
+          {
+            "part": "past tense",
+            "variant": "contrasted"
+          },
+          {
+            "part": "past participle",
+            "variant": "contrasted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "contrasting"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

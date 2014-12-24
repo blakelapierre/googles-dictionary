@@ -1,0 +1,134 @@
+[
+  {
+    "word": "dowsing",
+    "syllables": [
+      "dows",
+      "ing"
+    ],
+    "pronunciation": "ˈdouziNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dowsing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a technique for searching for underground water, minerals, or anything invisible, by observing the motion of a pointer (traditionally a forked stick, now often paired bent wires) or the changes in direction of a pendulum, supposedly in response to unseen influences.",
+            "examples": [
+              "a dowsing rod"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "douse",
+    "syllables": [
+      "douse"
+    ],
+    "pronunciation": "dous",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "dowsing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pour a liquid over; drench.",
+            "examples": [
+              "he doused the car with gasoline and set it on fire"
+            ],
+            "synonyms": [
+              "drench",
+              "soak",
+              "saturate",
+              "wet",
+              "splash",
+              "slosh \"sprayers doused the fields next to us with pesticides\""
+            ]
+          },
+          {
+            "definition": "extinguish (a fire or light).",
+            "examples": [
+              "stewards appeared and the fire was doused"
+            ],
+            "synonyms": [
+              "extinguish",
+              "put out",
+              "quench",
+              "smother",
+              "snuff (out) \"a guard doused the flames\""
+            ]
+          },
+          {
+            "definition": "lower (a sail) quickly."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dowse",
+    "syllables": [
+      "dowse"
+    ],
+    "pronunciation": "douz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "dowsing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "practice dowsing.",
+            "examples": [
+              "water is easy to dowse for"
+            ]
+          },
+          {
+            "definition": "search for or discover by dowsing.",
+            "examples": [
+              "he dowsed a spiral of energy on the stone"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dowse",
+    "syllables": [
+      "dowse"
+    ],
+    "pronunciation": "douz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "dowsing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "variant spelling of douse."
+          }
+        ]
+      }
+    ]
+  }
+]

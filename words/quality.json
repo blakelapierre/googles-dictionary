@@ -1,0 +1,111 @@
+{
+  "word": "quality",
+  "syllables": [
+    "qual",
+    "i",
+    "ty"
+  ],
+  "pronunciation": "ˈkwälədē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "quality"
+        },
+        {
+          "part": "plural noun",
+          "variant": "qualities"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the standard of something as measured against other things of a similar kind; the degree of excellence of something.",
+          "examples": [
+            "an improvement in product quality"
+          ],
+          "synonyms": [
+            "standard",
+            "grade",
+            "class",
+            "caliber",
+            "condition",
+            "character",
+            "nature",
+            "form",
+            "rank",
+            "value",
+            "level; Moresort",
+            "type",
+            "kind",
+            "variety \"the TV signal is of a poor quality\""
+          ]
+        },
+        {
+          "definition": "general excellence of standard or level.",
+          "examples": [
+            "a masterpiece for connoisseurs of quality"
+          ],
+          "synonyms": [
+            "excellence",
+            "superiority",
+            "merit",
+            "worth",
+            "value",
+            "virtue",
+            "caliber",
+            "eminence",
+            "distinction",
+            "incomparability; Moretalent",
+            "skill",
+            "virtuosity",
+            "craftsmanship \"work of such quality is rare\"excellent",
+            "superior",
+            "valuable",
+            "distinctive",
+            "incomparable; well crafted; informaltop-notch \"quality furniture\""
+          ]
+        },
+        {
+          "definition": "high social standing.",
+          "examples": [
+            "commanding the admiration of people of quality"
+          ]
+        },
+        {
+          "definition": "people of high social standing.",
+          "examples": [
+            "he's dazed at being called on to speak before quality"
+          ]
+        },
+        {
+          "definition": "a distinctive attribute or characteristic possessed by someone or something.",
+          "examples": [
+            "he shows strong leadership qualities"
+          ],
+          "synonyms": [
+            "feature",
+            "trait",
+            "attribute",
+            "characteristic",
+            "point",
+            "aspect",
+            "facet",
+            "side",
+            "property \"her good qualities\""
+          ]
+        },
+        {
+          "definition": "the distinguishing characteristic or characteristics of a speech sound."
+        },
+        {
+          "definition": "another term for timbre."
+        },
+        {
+          "definition": "any of three properties (cardinal, fixed, or mutable), representing types of movement, that a zodiacal sign can possess."
+        }
+      ]
+    }
+  ]
+}

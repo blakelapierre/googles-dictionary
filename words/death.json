@@ -1,0 +1,93 @@
+[
+  {
+    "word": "death",
+    "syllables": [
+      "death"
+    ],
+    "pronunciation": "deTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "death"
+          },
+          {
+            "part": "plural noun",
+            "variant": "deaths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of dying or being killed; the end of the life of a person or organism.",
+            "examples": [
+              "I don't believe in life after death"
+            ],
+            "synonyms": [
+              "demise",
+              "dying",
+              "end",
+              "passing",
+              "loss of life; Moreeternal rest",
+              "quietus; murder",
+              "assassination",
+              "execution",
+              "slaughter",
+              "massacre; informalcurtains; formaldecease; archaicexpiry \"her father's death\""
+            ],
+            "antonyms": [
+              "life"
+            ]
+          },
+          {
+            "definition": "the state of being dead.",
+            "examples": [
+              "even in death, she was beautiful"
+            ]
+          },
+          {
+            "definition": "the permanent ending of vital processes in a cell or tissue."
+          },
+          {
+            "definition": "the personification of the power that destroys life, often represented in art and literature as a skeleton or an old man holding a scythe.",
+            "examples": [
+              "noun: Death"
+            ],
+            "synonyms": [
+              "the Grim Reaper",
+              "the Dark Angel",
+              "the Angel of Death \"Death gestured toward a grave\""
+            ]
+          },
+          {
+            "definition": "the destruction or permanent end of something.",
+            "examples": [
+              "the death of her hopes"
+            ],
+            "synonyms": [
+              "end",
+              "finish",
+              "termination",
+              "extinction",
+              "extinguishing",
+              "collapse",
+              "destruction",
+              "eradication",
+              "obliteration \"the death of their dream\""
+            ],
+            "antonyms": [
+              "birth"
+            ]
+          },
+          {
+            "definition": "a damaging or destructive state of affairs.",
+            "examples": [
+              "to be driven to a dance by one's father would be social death"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

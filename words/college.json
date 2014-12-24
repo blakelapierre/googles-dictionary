@@ -1,0 +1,85 @@
+[
+  {
+    "word": "college",
+    "syllables": [
+      "col",
+      "lege"
+    ],
+    "pronunciation": "ˈkälij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "college"
+          },
+          {
+            "part": "plural noun",
+            "variant": "colleges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an educational institution or establishment, in particular."
+          },
+          {
+            "definition": "one providing higher education or specialized professional or vocational training.",
+            "examples": [
+              "my brother wanted to go to college"
+            ],
+            "synonyms": [
+              "school",
+              "academy",
+              "university",
+              "polytechnic",
+              "institute",
+              "seminary",
+              "conservatoire",
+              "conservatory \"a college of technology\""
+            ]
+          },
+          {
+            "definition": "(within a university) a school offering a general liberal arts curriculum leading only to a bachelor's degree."
+          },
+          {
+            "definition": "(in Britain) any of a number of independent institutions within certain universities, each having its own teaching staff, students, and buildings."
+          },
+          {
+            "definition": "a private secondary school.",
+            "examples": [
+              "Eton College"
+            ]
+          },
+          {
+            "definition": "the teaching staff and students of a college considered collectively.",
+            "examples": [
+              "the college was shocked by his death"
+            ]
+          },
+          {
+            "definition": "an organized group of professional people with particular aims, duties, and privileges.",
+            "examples": [
+              "the electoral college"
+            ],
+            "synonyms": [
+              "association",
+              "society",
+              "club",
+              "institute",
+              "body",
+              "fellowship",
+              "guild",
+              "lodge",
+              "order",
+              "fraternity",
+              "league",
+              "union",
+              "alliance \"the college of physicians\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "unsteady",
+    "syllables": [
+      "un",
+      "stead",
+      "y"
+    ],
+    "pronunciation": "ˌənˈstedē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unsteady"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "unsteadier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "unsteadiest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "liable to fall or shake; not firm.",
+            "examples": [
+              "he was very unsteady on his feet"
+            ],
+            "synonyms": [
+              "unstable",
+              "rocky",
+              "wobbly",
+              "rickety",
+              "shaky",
+              "tottery",
+              "doddery",
+              "insecure \"she was unsteady on her feet\""
+            ],
+            "antonyms": [
+              "stable"
+            ]
+          },
+          {
+            "definition": "not uniform or regular.",
+            "examples": [
+              "a soft unsteady voice"
+            ],
+            "synonyms": [
+              "irregular",
+              "uneven",
+              "varying",
+              "variable",
+              "erratic",
+              "spasmodic",
+              "changeable",
+              "changing",
+              "fluctuating",
+              "inconstant",
+              "intermittent",
+              "fitful",
+              "stop-and-go; informalherky-jerky \"an unsteady flow\""
+            ],
+            "antonyms": [
+              "regular"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

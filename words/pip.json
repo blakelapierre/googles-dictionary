@@ -1,0 +1,29 @@
+{
+  "word": "pip",
+  "syllables": [
+    "pip"
+  ],
+  "pronunciation": "pip",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "pips"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a small hard seed in a fruit.",
+          "examples": [
+            "seed, stone, pit apple pips"
+          ]
+        },
+        {
+          "definition": "an excellent or very attractive person or thing."
+        }
+      ]
+    }
+  ]
+}

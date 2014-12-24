@@ -1,0 +1,64 @@
+[
+  {
+    "word": "symbol",
+    "syllables": [
+      "sym",
+      "bol"
+    ],
+    "pronunciation": "ˈsimbəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "symbols"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that represents or stands for something else, especially a material object representing something abstract.",
+            "examples": [
+              "the limousine was another symbol of his wealth and authority"
+            ],
+            "synonyms": [
+              "emblem",
+              "token",
+              "sign",
+              "representation",
+              "figure",
+              "image; Moremetaphor",
+              "allegory; icon \"the lotus is the symbol of purity\""
+            ]
+          },
+          {
+            "definition": "a mark or character used as a conventional representation of an object, function, or process, e.g., the letter or letters standing for a chemical element or a character in musical notation.",
+            "examples": [
+              "sign, character, mark, letter, ideogram the chemical symbol for helium"
+            ]
+          },
+          {
+            "definition": "a shape or sign used to represent something such as an organization, e.g., a red cross or a Star of David.",
+            "examples": [
+              "logo, emblem, badge, stamp, trademark, crest, insignia, coat of arms, seal, device, monogram, hallmark, flag, motif, icon the Red Cross symbol"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "symbols"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "symbolize."
+          }
+        ]
+      }
+    ]
+  }
+]

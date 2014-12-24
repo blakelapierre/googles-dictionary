@@ -1,0 +1,48 @@
+[
+  {
+    "word": "severely",
+    "syllables": [
+      "se",
+      "vere",
+      "ly"
+    ],
+    "pronunciation": "səˈvirlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "severely"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to an undesirably great or intense degree.",
+            "examples": [
+              "our business has been severely affected by the slowdown"
+            ]
+          },
+          {
+            "definition": "strictly or harshly.",
+            "examples": [
+              "the culprits will be severely punished"
+            ]
+          },
+          {
+            "definition": "in a formal and unsmiling way.",
+            "examples": [
+              "“I hope you're not trying to steal my girlfriend,” I said severely"
+            ]
+          },
+          {
+            "definition": "in a very plain style.",
+            "examples": [
+              "her hair was severely pulled back into a bun"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "word": "shroud",
+    "syllables": [
+      "shroud"
+    ],
+    "pronunciation": "SHroud",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "shrouds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a length of cloth or an enveloping garment in which a dead person is wrapped for burial.",
+            "examples": [
+              "he was buried in a linen shroud"
+            ],
+            "synonyms": [
+              "winding sheet; historicalcerements \"the shroud of Turin\""
+            ]
+          },
+          {
+            "definition": "a protective casing or cover."
+          },
+          {
+            "definition": "a thing that envelops or obscures something.",
+            "examples": [
+              "a shroud of mist"
+            ],
+            "synonyms": [
+              "covering",
+              "cover",
+              "cloak",
+              "mantle",
+              "blanket",
+              "layer",
+              "cloud",
+              "veil \"a shroud of mist\""
+            ]
+          },
+          {
+            "definition": "a set of ropes forming part of the standing rigging of a sailing vessel and supporting the mast from the sides."
+          },
+          {
+            "definition": "each of the lines joining the canopy of a parachute to the harness.",
+            "examples": [
+              "noun: shroud line; plural noun: shroud lines"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "shrouds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "wrap or dress (a body) in a shroud for burial."
+          },
+          {
+            "definition": "cover or envelop so as to conceal from view.",
+            "examples": [
+              "mountains shrouded by cloud"
+            ],
+            "synonyms": [
+              "cover",
+              "envelop",
+              "veil",
+              "cloak",
+              "blanket",
+              "screen",
+              "conceal",
+              "hide",
+              "mask",
+              "obscure; literaryenshroud \"a mist shrouded the shore\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

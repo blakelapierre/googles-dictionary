@@ -1,0 +1,212 @@
+[
+  {
+    "word": "cold",
+    "syllables": [
+      "cold"
+    ],
+    "pronunciation": "kōld",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "cold"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "colder"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "coldest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or at a low or relatively low temperature, especially when compared with the human body.",
+            "examples": [
+              "a freezing cold day"
+            ],
+            "synonyms": [
+              "chilly",
+              "chill",
+              "cool",
+              "freezing",
+              "icy",
+              "snowy",
+              "wintry",
+              "frosty",
+              "frigid",
+              "gelid; Morebitter",
+              "biting",
+              "raw",
+              "bone-chilling",
+              "nippy",
+              "arctic \"a cold day\""
+            ],
+            "antonyms": [
+              "hot"
+            ]
+          },
+          {
+            "definition": "(of food or drink) served or consumed without being heated or after cooling.",
+            "examples": [
+              "a cold drink"
+            ]
+          },
+          {
+            "definition": "(of a person) feeling uncomfortably cold.",
+            "examples": [
+              "she was cold, and I put some more wood on the fire"
+            ],
+            "synonyms": [
+              "chilly",
+              "chilled",
+              "cool",
+              "freezing",
+              "frozen",
+              "shivery",
+              "numb",
+              "benumbed; hypothermic \"I'm very cold\""
+            ],
+            "antonyms": [
+              "hot"
+            ]
+          },
+          {
+            "definition": "feeling or characterized by fear or horror.",
+            "examples": [
+              "he suddenly went cold with a dreadful certainty"
+            ]
+          },
+          {
+            "definition": "unconscious.",
+            "examples": [
+              "she was out cold"
+            ],
+            "synonyms": [
+              "unconscious",
+              "knocked out",
+              "down/out for the count; MoreinformalKO'd",
+              "kayoed \"one swift punch from Max",
+              "and Parnell was out cold\""
+            ]
+          },
+          {
+            "definition": "dead.",
+            "examples": [
+              "lying cold and stiff in a coffin"
+            ]
+          },
+          {
+            "definition": "lacking affection or warmth of feeling; unemotional.",
+            "examples": [
+              "how cold and calculating he was"
+            ],
+            "synonyms": [
+              "unfriendly",
+              "inhospitable",
+              "unwelcoming",
+              "forbidding",
+              "cool",
+              "frigid",
+              "frosty",
+              "glacial",
+              "lukewarm",
+              "indifferent",
+              "unfeeling",
+              "unemotional",
+              "formal",
+              "stiff \"a cold reception\""
+            ],
+            "antonyms": [
+              "friendly",
+              "warm"
+            ]
+          },
+          {
+            "definition": "not affected by emotion; objective.",
+            "examples": [
+              "cold statistics"
+            ]
+          },
+          {
+            "definition": "sexually unresponsive; frigid."
+          },
+          {
+            "definition": "depressing or dispiriting; not suggestive of warmth.",
+            "examples": [
+              "the cold, impersonal barrack-room"
+            ]
+          },
+          {
+            "definition": "(of a color) containing pale blue or gray."
+          },
+          {
+            "definition": "ineffective in playing a game.",
+            "examples": [
+              "Butler capitalized on Xavier's cold shooting"
+            ]
+          },
+          {
+            "definition": "(of the scent or trail of a hunted person or animal) no longer fresh and easy to follow.",
+            "examples": [
+              "the trail went cold"
+            ]
+          },
+          {
+            "definition": "(in children's games) far from finding or guessing what is sought, as opposed to warm or nearing success."
+          },
+          {
+            "definition": "without preparation or rehearsal; unawares.",
+            "examples": [
+              "going into the test cold"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cold"
+          },
+          {
+            "part": "plural noun",
+            "variant": "colds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a low temperature, especially in the atmosphere; cold weather; a cold environment.",
+            "examples": [
+              "my teeth chattered with the cold"
+            ]
+          },
+          {
+            "definition": "a common viral infection in which the mucous membrane of the nose and throat becomes inflamed, typically causing running at the nose, sneezing, a sore throat, and other similar symptoms."
+          }
+        ]
+      },
+      {
+        "part": "adverbNorth Americaninformal",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "cold"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "completely; entirely.",
+            "examples": [
+              "she knew world capitals cold by age nine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

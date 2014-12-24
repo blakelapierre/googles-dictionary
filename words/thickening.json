@@ -1,0 +1,94 @@
+[
+  {
+    "word": "thickening",
+    "syllables": [
+      "thick",
+      "en",
+      "ing"
+    ],
+    "pronunciation": "ˈTHikəniNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "thickening"
+          },
+          {
+            "part": "plural noun",
+            "variant": "thickenings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process or result of becoming broader, deeper, or denser."
+          },
+          {
+            "definition": "a broader, deeper, or denser area of animal or plant tissue."
+          },
+          {
+            "definition": "another term for thickener."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "thickening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "becoming broader, deeper, or denser.",
+            "examples": [
+              "a hazardous journey through thickening fog"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thicken",
+    "syllables": [
+      "thick",
+      "en"
+    ],
+    "pronunciation": "ˈTHikən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "thickening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become thick or thicker.",
+            "examples": [
+              "thicken the sauce with flour"
+            ],
+            "synonyms": [
+              "become thick/thicker",
+              "stiffen",
+              "condense; Moresolidify",
+              "firm up",
+              "set",
+              "jell",
+              "congeal",
+              "clot",
+              "coagulate",
+              "cake",
+              "inspissate \"stir the sauce as it thickens\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

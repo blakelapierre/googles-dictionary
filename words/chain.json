@@ -1,0 +1,156 @@
+[
+  {
+    "word": "chain",
+    "syllables": [
+      "chain"
+    ],
+    "pronunciation": "CHān",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chain"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chains"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a connected flexible series of metal links used for fastening or securing objects and pulling or supporting loads."
+          },
+          {
+            "definition": "a series of metal links used to confine a prisoner.",
+            "examples": [
+              "the drug dealer is being kept in chains"
+            ],
+            "synonyms": [
+              "fetters",
+              "shackles",
+              "irons",
+              "leg irons",
+              "manacles",
+              "handcuffs; Moreinformalcuffs",
+              "bracelets; historicalbilboes \"he was held in chains\""
+            ]
+          },
+          {
+            "definition": "a series of decorative metal links worn as a decoration; a necklace."
+          },
+          {
+            "definition": "short for snow chains."
+          },
+          {
+            "definition": "a force or factor that binds or restricts someone.",
+            "examples": [
+              "the chains of illness"
+            ]
+          },
+          {
+            "definition": "a sequence of items of the same type forming a line.",
+            "examples": [
+              "he kept the chain of buckets supplied with water"
+            ],
+            "synonyms": [
+              "series",
+              "succession",
+              "string",
+              "sequence",
+              "train",
+              "course \"a chain of events\""
+            ]
+          },
+          {
+            "definition": "a sequence or series of connected elements.",
+            "examples": [
+              "a chain of events"
+            ]
+          },
+          {
+            "definition": "a group of establishments, such as hotels, stores, or restaurants, owned by the same company.",
+            "examples": [
+              "the nation's largest hotel chain"
+            ]
+          },
+          {
+            "definition": "a range of mountains.",
+            "examples": [
+              "a chain of volcanic ridges"
+            ]
+          },
+          {
+            "definition": "a part of a molecule consisting of a number of atoms (typically carbon) bonded together in a linear sequence."
+          },
+          {
+            "definition": "a figure in a quadrille or similar dance, in which dancers meet and pass each other in a continuous sequence."
+          },
+          {
+            "definition": "a jointed measuring line consisting of linked metal rods."
+          },
+          {
+            "definition": "a measure of length equivalent to a chain (66 ft.)."
+          },
+          {
+            "definition": "a measuring chain of ten yards, used in the determination of first downs."
+          },
+          {
+            "definition": "a structure of planks projecting horizontally from a sailing ship's sides abreast of the masts, used to widen the basis for the shrouds."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "chain"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "chains"
+          },
+          {
+            "part": "past tense",
+            "variant": "chained"
+          },
+          {
+            "part": "past participle",
+            "variant": "chained"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "chaining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten or secure with a chain.",
+            "examples": [
+              "she chained her bicycle to the railing"
+            ],
+            "synonyms": [
+              "secure",
+              "fasten",
+              "tie",
+              "tether",
+              "hitch; Morerestrain",
+              "shackle",
+              "fetter",
+              "manacle",
+              "handcuff \"she chained her bicycle to the railing\""
+            ]
+          },
+          {
+            "definition": "confine with a chain.",
+            "examples": [
+              "he had been chained up"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

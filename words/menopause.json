@@ -1,0 +1,34 @@
+[
+  {
+    "word": "menopause",
+    "syllables": [
+      "men",
+      "o",
+      "pause"
+    ],
+    "pronunciation": "ˈmenəˌpôz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "menopause"
+          },
+          {
+            "part": "plural noun",
+            "variant": "menopauses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the ceasing of menstruation."
+          },
+          {
+            "definition": "the period in a woman's life (typically between 45 and 50 years of age) when this occurs."
+          }
+        ]
+      }
+    ]
+  }
+]

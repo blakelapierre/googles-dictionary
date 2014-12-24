@@ -1,0 +1,126 @@
+[
+  {
+    "word": "war",
+    "syllables": [
+      "war"
+    ],
+    "pronunciation": "wôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "war"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a state of armed conflict between different nations or states or different groups within a nation or state.",
+            "examples": [
+              "Japan declared war on Germany"
+            ],
+            "synonyms": [
+              "conflict",
+              "warfare",
+              "combat",
+              "fighting",
+              "(military) action",
+              "bloodshed",
+              "struggle; Morebattle",
+              "skirmish",
+              "fight",
+              "clash",
+              "engagement",
+              "encounter; offensive",
+              "attack",
+              "campaign; hostilities; crusade; nuclear war \"the Napoleonic wars\""
+            ],
+            "antonyms": [
+              "peace"
+            ]
+          },
+          {
+            "definition": "a particular armed conflict.",
+            "examples": [
+              "after the war, they immigrated to America"
+            ]
+          },
+          {
+            "definition": "a state of competition, conflict, or hostility between different people or groups.",
+            "examples": [
+              "she was at war with her parents"
+            ]
+          },
+          {
+            "definition": "a sustained effort to deal with or end a particular unpleasant or undesirable situation or condition.",
+            "examples": [
+              "the authorities are waging war against all forms of smuggling"
+            ],
+            "synonyms": [
+              "campaign",
+              "crusade",
+              "battle",
+              "fight",
+              "struggle",
+              "movement",
+              "drive \"the war against drugs\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "war"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wars"
+          },
+          {
+            "part": "past tense",
+            "variant": "warred"
+          },
+          {
+            "part": "past participle",
+            "variant": "warred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "warring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "engage in a war.",
+            "examples": [
+              "small states warred against each other"
+            ],
+            "synonyms": [
+              "fight (against)",
+              "battle (against)",
+              "combat (against)",
+              "wage war against",
+              "take up arms against; Morefeud with",
+              "quarrel with",
+              "struggle with/against",
+              "contend with",
+              "wrangle with",
+              "cross swords with; attack",
+              "engage (against)",
+              "take on",
+              "skirmish with \"rival empires warred against each other\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

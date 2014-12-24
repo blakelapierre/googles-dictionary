@@ -1,0 +1,87 @@
+[
+  {
+    "word": "accusing",
+    "syllables": [
+      "ac",
+      "cus",
+      "ing"
+    ],
+    "pronunciation": "əˈkyo͞oziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "accusing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an expression, gesture, or tone of voice) indicating a belief in someone's guilt or culpability.",
+            "examples": [
+              "she stared at him with accusing eyes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accuse",
+    "syllables": [
+      "ac",
+      "cuse"
+    ],
+    "pronunciation": "əˈkyo͞oz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "accusing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "charge (someone) with an offense or crime.",
+            "examples": [
+              "he was accused of murdering his wife's lover"
+            ],
+            "synonyms": [
+              "charge with",
+              "indict for",
+              "arraign for; Moresummons for",
+              "cite for",
+              "prefer charges against for; impeach for \"four people were accused of assault\""
+            ],
+            "antonyms": [
+              "absolve",
+              "exonerate"
+            ]
+          },
+          {
+            "definition": "claim that (someone) has done something wrong.",
+            "examples": [
+              "he was accused of favoritism"
+            ],
+            "synonyms": [
+              "blame for",
+              "lay/pin the blame on for",
+              "hold responsible for",
+              "inculpate for",
+              "hold accountable for; Morecondemn for",
+              "criticize for",
+              "denounce for; informalpoint the finger at for \"the companies were accused of causing job losses\""
+            ],
+            "antonyms": [
+              "defend",
+              "hold blameless"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

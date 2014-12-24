@@ -1,0 +1,30 @@
+{
+  "word": "a-",
+  "syllables": [
+    "a-"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "prefix",
+      "variants": [
+        {
+          "part": "prefix",
+          "variant": "a-"
+        },
+        {
+          "part": "prefix",
+          "variant": "an-"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "not; without.",
+          "examples": [
+            "atheistic"
+          ]
+        }
+      ]
+    }
+  ]
+}

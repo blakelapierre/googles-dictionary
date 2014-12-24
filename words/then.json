@@ -1,0 +1,91 @@
+[
+  {
+    "word": "then",
+    "syllables": [
+      "then"
+    ],
+    "pronunciation": "T͟Hen",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "then"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "at that time; at the time in question.",
+            "examples": [
+              "I was living in Cairo then"
+            ],
+            "synonyms": [
+              "at that time",
+              "in those days; Moreat that point (in time)",
+              "at that moment",
+              "on that occasion \"I was living in Cairo then\""
+            ]
+          },
+          {
+            "definition": "after that; next; afterward.",
+            "examples": [
+              "she won the first and then the second game"
+            ],
+            "synonyms": [
+              "next",
+              "after that",
+              "afterward/afterwards",
+              "subsequently",
+              "later \"she won the first and then the second game\""
+            ]
+          },
+          {
+            "definition": "also; in addition.",
+            "examples": [
+              "I'm paid a generous salary, and then there's the money I've made at the races"
+            ],
+            "synonyms": [
+              "in addition",
+              "also",
+              "besides",
+              "as well",
+              "additionally",
+              "on top of that",
+              "over and above that",
+              "moreover",
+              "furthermore",
+              "what's more",
+              "to boot; too \"and then there's another problem\""
+            ]
+          },
+          {
+            "definition": "in that case; therefore.",
+            "examples": [
+              "if you do what I tell you, then there's nothing to worry about"
+            ],
+            "synonyms": [
+              "in that case",
+              "that being so",
+              "it follows that \"well",
+              "if that's what he wants",
+              "then he should leave\""
+            ]
+          },
+          {
+            "definition": "used at the end of a sentence to emphasize an inference being drawn.",
+            "examples": [
+              "so you're still here, then"
+            ]
+          },
+          {
+            "definition": "used to finish off a conversation.",
+            "examples": [
+              "see you in an hour, then"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

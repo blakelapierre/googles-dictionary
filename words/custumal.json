@@ -1,0 +1,39 @@
+[
+  {
+    "word": "custumal",
+    "syllables": [
+      "cus",
+      "tu",
+      "mal"
+    ],
+    "pronunciation": "ˈkəstəməlˈkəsCHə-",
+    "parts": [
+      {
+        "part": "nounhistorical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "custumal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "custumals"
+          },
+          {
+            "part": "noun",
+            "variant": "customal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "customals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a written account of the customs of a manor or other local community or large establishment."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "word": "companion",
+  "syllables": [
+    "com",
+    "pan",
+    "ion"
+  ],
+  "pronunciation": "kəmˈpanyən",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "companions"
+        },
+        {
+          "part": "plural noun",
+          "variant": "Companions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a person or animal with whom one spends a lot of time or with whom one travels.",
+          "examples": [
+            "his traveling companion"
+          ],
+          "synonyms": [
+            "associate",
+            "partner",
+            "escort",
+            "compatriot",
+            "confederate; Morefriend",
+            "intimate",
+            "confidant",
+            "confidante",
+            "comrade; informalpal",
+            "chum",
+            "crony",
+            "sidekick",
+            "mate",
+            "buddy",
+            "amigo",
+            "compadre; informalpeeps \"Harry and his companion\""
+          ]
+        },
+        {
+          "definition": "a person who shares the experiences of another, especially when these are unpleasant or unwelcome.",
+          "examples": [
+            "my companions in misfortune"
+          ]
+        },
+        {
+          "definition": "a person's long-term sexual partner outside marriage."
+        },
+        {
+          "definition": "a person, especially an unmarried or widowed woman, employed to live with and assist another.",
+          "examples": [
+            "attendant, aide, helper, assistant, valet, equerry, lady-in-waiting; Morechaperone; minder \"a lady's companion\"Morechaperone; minder a lady's companion"
+          ]
+        },
+        {
+          "definition": "a star, galaxy, or other celestial object that is close to or associated with another."
+        },
+        {
+          "definition": "one of a pair of things intended to complement or match each other.",
+          "examples": [
+            "a companion volume"
+          ],
+          "synonyms": [
+            "complement",
+            "counterpart",
+            "twin",
+            "match; Moreaccompaniment",
+            "supplement",
+            "addition",
+            "adjunct",
+            "accessory \"the tape is a companion to the book\""
+          ]
+        },
+        {
+          "definition": "a book that provides information about a particular subject.",
+          "examples": [
+            "the Oxford Companion to English Literature"
+          ],
+          "synonyms": [
+            "handbook",
+            "manual",
+            "guide",
+            "reference book",
+            "ABC",
+            "primer",
+            "vade mecum; informalbible \"The Gardener's Companion\""
+          ]
+        },
+        {
+          "definition": "a piece of equipment containing objects used in a particular activity.",
+          "examples": [
+            "a traveler's companion"
+          ]
+        },
+        {
+          "definition": "a member of the lowest grade of certain orders of knighthood."
+        }
+      ]
+    },
+    {
+      "part": "verbformal",
+      "variants": [
+        {
+          "part": "3rd person present",
+          "variant": "companions"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "accompany.",
+          "examples": [
+            "he is companioned by a pageboy"
+          ]
+        }
+      ]
+    }
+  ]
+}

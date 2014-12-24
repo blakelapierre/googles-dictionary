@@ -1,0 +1,65 @@
+[
+  {
+    "word": "deduce",
+    "syllables": [
+      "de",
+      "duce"
+    ],
+    "pronunciation": "dəˈd(y)o͞os",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deduce"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deduces"
+          },
+          {
+            "part": "past tense",
+            "variant": "deduced"
+          },
+          {
+            "part": "past participle",
+            "variant": "deduced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deducing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arrive at (a fact or a conclusion) by reasoning; draw as a logical conclusion.",
+            "examples": [
+              "little can be safely deduced from these figures"
+            ],
+            "synonyms": [
+              "conclude",
+              "reason",
+              "work out",
+              "infer; Moreglean",
+              "divine",
+              "intuit",
+              "understand",
+              "assume",
+              "presume",
+              "conjecture",
+              "surmise",
+              "reckon; informalfigure out \"we can deduce from the evidence that Harding was indeed present at the time of the murder\""
+            ]
+          },
+          {
+            "definition": "trace the course or derivation of.",
+            "examples": [
+              "he cannot deduce his descent wholly by heirs male"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

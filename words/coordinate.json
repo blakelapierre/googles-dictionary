@@ -1,0 +1,96 @@
+[
+  {
+    "word": "coordinate",
+    "syllables": [
+      "co",
+      "or",
+      "di",
+      "nate"
+    ],
+    "pronunciation": "kōˈôrdəˌnātˌkōˈôrd(ə)nətkōˈôrdənət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "coordinate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "coordinates"
+          },
+          {
+            "part": "past tense",
+            "variant": "coordinated"
+          },
+          {
+            "part": "past participle",
+            "variant": "coordinated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "coordinating"
+          },
+          {
+            "part": "verb",
+            "variant": "co-ordinate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "co-ordinates"
+          },
+          {
+            "part": "past tense",
+            "variant": "co-ordinated"
+          },
+          {
+            "part": "past participle",
+            "variant": "co-ordinated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "co-ordinating"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "coordinate"
+          },
+          {
+            "part": "adjective",
+            "variant": "co-ordinate"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coordinate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "coordinates"
+          },
+          {
+            "part": "noun",
+            "variant": "co-ordinate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "co-ordinates"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

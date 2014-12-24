@@ -1,0 +1,32 @@
+[
+  {
+    "word": "white-collar",
+    "syllables": [
+      "white-col",
+      "lar"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "white-collar"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to the work done or those who work in an office or other professional environment.",
+            "examples": [
+              "clerical, administrative, professional, executive, salaried, office white-collar workers"
+            ]
+          },
+          {
+            "definition": "denoting nonviolent crime committed by white-collar workers, especially fraud."
+          }
+        ]
+      }
+    ]
+  }
+]

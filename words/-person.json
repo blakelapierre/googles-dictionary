@@ -1,0 +1,26 @@
+{
+  "word": "-person",
+  "syllables": [
+    "-person"
+  ],
+  "pronunciation": "",
+  "parts": [
+    {
+      "part": "combining form",
+      "variants": [
+        {
+          "part": "suffix",
+          "variant": "-person"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "used as a neutral alternative to -man in nouns denoting professional status, a position of authority, etc.",
+          "examples": [
+            "chairperson"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "technique",
+    "syllables": [
+      "tech",
+      "nique"
+    ],
+    "pronunciation": "tekˈnēk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "techniques"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure."
+          },
+          {
+            "definition": "skill or ability in a particular field.",
+            "examples": [
+              "he has excellent technique"
+            ],
+            "synonyms": [
+              "skill",
+              "ability",
+              "proficiency",
+              "expertise",
+              "mastery",
+              "talent",
+              "genius",
+              "artistry",
+              "craftsmanship; Moreaptitude",
+              "adroitness",
+              "deftness",
+              "dexterity",
+              "facility",
+              "competence; performance",
+              "delivery; informalknow-how \"I was impressed with his technique\""
+            ]
+          },
+          {
+            "definition": "a skillful or efficient way of doing or achieving something.",
+            "examples": [
+              "tape recording is a good technique for evaluating our own communications"
+            ],
+            "synonyms": [
+              "method",
+              "approach",
+              "procedure",
+              "system",
+              "modus operandi",
+              "MO",
+              "way; Moremeans",
+              "strategy",
+              "tack",
+              "tactic",
+              "line; routine",
+              "practice \"different techniques for solving the problem\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

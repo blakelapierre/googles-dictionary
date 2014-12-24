@@ -1,0 +1,59 @@
+[
+  {
+    "word": "dissonant",
+    "syllables": [
+      "dis",
+      "so",
+      "nant"
+    ],
+    "pronunciation": "ˈdisənənt",
+    "parts": [
+      {
+        "part": "adjectiveMusic",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "dissonant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking harmony.",
+            "examples": [
+              "irregular, dissonant chords"
+            ],
+            "synonyms": [
+              "inharmonious",
+              "discordant",
+              "unmelodious",
+              "atonal",
+              "off-key",
+              "cacophonous \"dissonant sounds\""
+            ],
+            "antonyms": [
+              "harmonious"
+            ]
+          },
+          {
+            "definition": "unsuitable or unusual in combination; clashing.",
+            "examples": [
+              "Jackson employs both harmonious and dissonant color choices"
+            ],
+            "synonyms": [
+              "incongruous",
+              "anomalous",
+              "clashing",
+              "inharmonious; Moredisparate",
+              "different",
+              "dissimilar \"dissonant colors\""
+            ],
+            "antonyms": [
+              "congruous",
+              "complementary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

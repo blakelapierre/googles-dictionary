@@ -1,0 +1,96 @@
+[
+  {
+    "word": "fusion",
+    "syllables": [
+      "fu",
+      "sion"
+    ],
+    "pronunciation": "ˈfyo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fusion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fusions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process or result of joining two or more things together to form a single entity.",
+            "examples": [
+              "a fusion of an idea from anthropology and an idea from psychology"
+            ],
+            "synonyms": [
+              "blend",
+              "blending",
+              "combination",
+              "amalgamation",
+              "joining",
+              "union",
+              "marrying",
+              "bonding",
+              "merging",
+              "melding",
+              "mingling",
+              "integration",
+              "intermixture",
+              "intermingling",
+              "synthesis; coalescence \"the fusion of cells\""
+            ]
+          },
+          {
+            "definition": "short for nuclear fusion."
+          },
+          {
+            "definition": "the process of causing a material or object to melt with intense heat, especially so as to join with another.",
+            "examples": [
+              "the fusion of resin and glass fiber in the molding process"
+            ],
+            "synonyms": [
+              "blend",
+              "blending",
+              "combination",
+              "amalgamation",
+              "joining",
+              "union",
+              "marrying",
+              "bonding",
+              "merging",
+              "melding",
+              "mingling",
+              "integration",
+              "intermixture",
+              "intermingling",
+              "synthesis; coalescence \"the fusion of cells\""
+            ]
+          },
+          {
+            "definition": "music that is a mixture of different styles, especially jazz and rock."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "modifier noun",
+            "variant": "fusion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "referring to food or cooking that incorporates elements of diverse cuisines.",
+            "examples": [
+              "their fusion fare includes a sushi-like roll of gingery rice and eel wrapped in marinated Greek grape leaves"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

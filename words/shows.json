@@ -1,0 +1,303 @@
+[
+  {
+    "word": "show",
+    "syllables": [
+      "show"
+    ],
+    "pronunciation": "SHō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "shows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be or allow or cause to be visible.",
+            "examples": [
+              "wrinkles were starting to show on her face"
+            ],
+            "synonyms": [
+              "be visible",
+              "be seen",
+              "be in view",
+              "be obvious \"the stitches do not show\""
+            ],
+            "antonyms": [
+              "be invisible"
+            ]
+          },
+          {
+            "definition": "offer, exhibit, or produce (something) for scrutiny or inspection.",
+            "examples": [
+              "an alarm salesperson should show an ID card"
+            ]
+          },
+          {
+            "definition": "put on display in an exhibition or competition.",
+            "examples": [
+              "he ceased early in his career to show his work"
+            ],
+            "synonyms": [
+              "display",
+              "exhibit",
+              "put on show/display",
+              "put on view",
+              "parade",
+              "uncover",
+              "reveal \"he wouldn't show the picture\""
+            ],
+            "antonyms": [
+              "conceal"
+            ]
+          },
+          {
+            "definition": "present (a movie or television program) on a screen for public viewing."
+          },
+          {
+            "definition": "(of a movie) be presented on a screen for public viewing.",
+            "examples": [
+              "a movie showing at the Venice Film Festival"
+            ]
+          },
+          {
+            "definition": "indicate (a particular time, measurement, etc.).",
+            "examples": [
+              "a travel clock showing the time in different cities"
+            ]
+          },
+          {
+            "definition": "represent or depict in art.",
+            "examples": [
+              "a postcard showing the Wicklow Mountains"
+            ]
+          },
+          {
+            "definition": "allow oneself to be seen; appear in public.",
+            "examples": [
+              "he was amazed that she would have the gall to show herself"
+            ]
+          },
+          {
+            "definition": "arrive or turn up for an appointment or at a gathering.",
+            "examples": [
+              "her date failed to show"
+            ],
+            "synonyms": [
+              "appear",
+              "arrive",
+              "come",
+              "get here/there",
+              "put in an appearance",
+              "materialize",
+              "turn up; informalshow up \"they never showed\""
+            ]
+          },
+          {
+            "definition": "finish third or in the first three in a race."
+          },
+          {
+            "definition": "(of a woman) be visibly pregnant.",
+            "examples": [
+              "Shirley was four months pregnant and just starting to show"
+            ]
+          },
+          {
+            "definition": "display or allow to be perceived (a quality, emotion, or characteristic).",
+            "examples": [
+              "it was Frank's turn to show his frustration"
+            ],
+            "synonyms": [
+              "manifest",
+              "exhibit",
+              "reveal",
+              "convey",
+              "communicate",
+              "make known; Moreexpress",
+              "proclaim",
+              "make plain",
+              "make obvious",
+              "disclose",
+              "betray; formalevince \"Frank showed his frustration\""
+            ],
+            "antonyms": [
+              "suppress"
+            ]
+          },
+          {
+            "definition": "accord or treat someone with (a specified quality).",
+            "examples": [
+              "he urged his soldiers to fight them and show no mercy"
+            ]
+          },
+          {
+            "definition": "(of an emotion) be noticeable.",
+            "examples": [
+              "he tried not to let his relief show"
+            ]
+          },
+          {
+            "definition": "demonstrate or prove.",
+            "examples": [
+              "experts say this shows the benefit of regular inspections"
+            ],
+            "synonyms": [
+              "prove",
+              "demonstrate",
+              "confirm",
+              "show beyond doubt; Moresubstantiate",
+              "corroborate",
+              "verify",
+              "establish",
+              "attest",
+              "certify",
+              "testify",
+              "bear out; formalevince \"recent events show this to be true\""
+            ]
+          },
+          {
+            "definition": "prove or demonstrate oneself to be.",
+            "examples": [
+              "she showed herself to be a harsh critic"
+            ]
+          },
+          {
+            "definition": "cause to understand or be capable of doing something by explanation or demonstration.",
+            "examples": [
+              "he showed the boy how to operate the machine"
+            ],
+            "synonyms": [
+              "demonstrate to",
+              "explain to",
+              "describe to",
+              "illustrate to; Moreteach",
+              "instruct",
+              "give instructions to \"I'll show you how to make a daisy chain\""
+            ]
+          },
+          {
+            "definition": "conduct or lead.",
+            "examples": [
+              "show them in, please"
+            ],
+            "synonyms": [
+              "escort",
+              "accompany",
+              "take",
+              "conduct",
+              "lead",
+              "usher",
+              "guide",
+              "direct",
+              "steer",
+              "shepherd \"a young woman showed them to their seats\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "shows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a spectacle or display of something, typically an impressive one.",
+            "examples": [
+              "spectacular shows of bluebells"
+            ],
+            "synonyms": [
+              "display",
+              "array",
+              "exhibition",
+              "presentation",
+              "exposition",
+              "spectacle \"a spectacular show of fireworks\""
+            ]
+          },
+          {
+            "definition": "a public entertainment, in particular."
+          },
+          {
+            "definition": "a play or other stage performance, especially a musical.",
+            "examples": [
+              "(theatrical) performance, musical, play, opera, ballet they took in a show"
+            ]
+          },
+          {
+            "definition": "a program on television or radio."
+          },
+          {
+            "definition": "an event or competition involving the public display or exhibition of animals, plants, or products.",
+            "examples": [
+              "the annual agricultural show"
+            ],
+            "synonyms": [
+              "exhibition",
+              "exposition",
+              "fair",
+              "extravaganza",
+              "spectacle",
+              "exhibit \"the boat show\""
+            ]
+          },
+          {
+            "definition": "an undertaking, project, or organization.",
+            "examples": [
+              "I man a desk in a little office. I don't run the show"
+            ],
+            "synonyms": [
+              "undertaking",
+              "affair",
+              "operation",
+              "proceedings",
+              "enterprise",
+              "business",
+              "venture \"I don't run the show\""
+            ]
+          },
+          {
+            "definition": "an opportunity for doing something; a chance.",
+            "examples": [
+              "I didn't have a show"
+            ]
+          },
+          {
+            "definition": "an outward appearance or display of a quality or feeling.",
+            "examples": [
+              "Joanie was frightened of any show of affection"
+            ]
+          },
+          {
+            "definition": "an outward display intended to give a particular, false impression.",
+            "examples": [
+              "Drew made a show of looking around for firewood"
+            ],
+            "synonyms": [
+              "appearance",
+              "display",
+              "impression",
+              "ostentation",
+              "image More\"she's only doing it for show\"pretense",
+              "outward appearance",
+              "(false) front",
+              "guise",
+              "semblance",
+              "pose",
+              "parade \"Drew made a show of looking busy\""
+            ]
+          },
+          {
+            "definition": "a discharge of blood and mucus from the vagina at the onset of labor or menstruation."
+          }
+        ]
+      }
+    ]
+  }
+]

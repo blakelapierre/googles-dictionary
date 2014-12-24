@@ -1,0 +1,46 @@
+[
+  {
+    "word": "universe",
+    "syllables": [
+      "u",
+      "ni",
+      "verse"
+    ],
+    "pronunciation": "ˈyo͞onəˌvərs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "universe"
+          },
+          {
+            "part": "noun",
+            "variant": "the universe"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "all existing matter and space considered as a whole; the cosmos. The universe is believed to be at least 10 billion light years in diameter and contains a vast number of galaxies; it has been expanding since its creation in the Big Bang about 13 billion years ago.",
+            "examples": [
+              "cosmos, macrocosm, totality; Moreinfinity, all existence, Creation; space, outer space, firmament \"the physical universe\"Moreinfinity, all existence, Creation; space, outer space, firmament the physical universe"
+            ]
+          },
+          {
+            "definition": "a particular sphere of activity, interest, or experience.",
+            "examples": [
+              "plural noun: universes"
+            ]
+          },
+          {
+            "definition": "another term for universal set.",
+            "examples": [
+              "noun: universe of discourse; plural noun: universes of discourse"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

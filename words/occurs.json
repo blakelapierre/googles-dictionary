@@ -1,0 +1,73 @@
+[
+  {
+    "word": "occur",
+    "syllables": [
+      "oc",
+      "cur"
+    ],
+    "pronunciation": "əˈkər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "occurs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "happen; take place.",
+            "examples": [
+              "the accident occurred at about 3:30 p.m."
+            ],
+            "synonyms": [
+              "happen",
+              "take place",
+              "come about",
+              "transpire",
+              "materialize",
+              "arise",
+              "crop up; Moreinformalgo down; literarycome to pass",
+              "befall",
+              "betide; formaleventuate \"the accident occurred at about 3"
+            ]
+          },
+          {
+            "definition": "exist or be found to be present in a place or under a particular set of conditions.",
+            "examples": [
+              "radon occurs naturally in rocks such as granite"
+            ],
+            "synonyms": [
+              "be found",
+              "be present",
+              "exist",
+              "appear",
+              "prevail",
+              "present itself",
+              "manifest itself",
+              "turn up \"the disease occurs chiefly in tropical climates\""
+            ]
+          },
+          {
+            "definition": "(of a thought or idea) come into the mind of (someone).",
+            "examples": [
+              "it occurred to him that he hadn't eaten"
+            ],
+            "synonyms": [
+              "enter one's head/mind",
+              "cross one's mind",
+              "come to mind",
+              "spring to mind",
+              "strike one",
+              "hit one",
+              "dawn on one",
+              "suggest itself",
+              "present itself \"an idea occurred to her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "word": "concern",
+    "syllables": [
+      "con",
+      "cern"
+    ],
+    "pronunciation": "kənˈsərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "concerns"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relate to; be about.",
+            "examples": [
+              "the story concerns a friend of mine"
+            ],
+            "synonyms": [
+              "be about",
+              "deal with",
+              "have to do with",
+              "cover; Morediscuss",
+              "go into",
+              "examine",
+              "study",
+              "review",
+              "analyze; relate to",
+              "pertain to \"the report concerns the war\""
+            ]
+          },
+          {
+            "definition": "be relevant or important to; affect or involve.",
+            "examples": [
+              "they should not pry into what does not concern them"
+            ],
+            "synonyms": [
+              "affect",
+              "involve",
+              "be relevant to",
+              "apply to",
+              "have a bearing on",
+              "impact on; Morebe important to",
+              "interest \"that doesn't concern you\"interested",
+              "involved",
+              "affected; connected",
+              "related",
+              "implicated \"all concerned parties\""
+            ]
+          },
+          {
+            "definition": "regard it as important or interesting to do something.",
+            "examples": [
+              "I was mainly concerned with making something that children could enjoy"
+            ]
+          },
+          {
+            "definition": "have a specific connection with or responsibility for.",
+            "examples": [
+              "the organs concerned in digestion and in blood-making"
+            ],
+            "synonyms": [
+              "involve oneself in",
+              "take an interest in",
+              "busy oneself with",
+              "devote one's time to",
+              "bother oneself with \"I won't concern myself with your affairs\""
+            ]
+          },
+          {
+            "definition": "interest or involve oneself in.",
+            "examples": [
+              "we need not concern ourselves with the semantics of this language"
+            ]
+          },
+          {
+            "definition": "worry (someone); make anxious.",
+            "examples": [
+              "the roof of the barn concerns me because eventually it will fall in"
+            ],
+            "synonyms": [
+              "worry",
+              "disturb",
+              "trouble",
+              "bother",
+              "perturb",
+              "unsettle",
+              "make anxious \"one thing still concerns me\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "word": "sing",
+    "syllables": [
+      "sing"
+    ],
+    "pronunciation": "siNG",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "singing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make musical sounds with the voice, especially words with a set tune.",
+            "examples": [
+              "Bella sang to the baby"
+            ],
+            "synonyms": [
+              "croon",
+              "carol",
+              "trill",
+              "chant",
+              "intone",
+              "chorus; informalbelt out \"the choir began to sing\""
+            ]
+          },
+          {
+            "definition": "perform (a song, words, or tune) with the voice.",
+            "examples": [
+              "someone started singing “God Bless America”"
+            ],
+            "synonyms": [
+              "croon",
+              "carol",
+              "trill",
+              "chant",
+              "intone",
+              "chorus; informalbelt out \"the choir began to sing\""
+            ]
+          },
+          {
+            "definition": "sing in accompaniment to a song or piece of music."
+          },
+          {
+            "definition": "call something out loudly; shout.",
+            "examples": [
+              "he sang out a greeting"
+            ],
+            "synonyms": [
+              "call (out)",
+              "cry (out)",
+              "shout",
+              "yell; informalholler \"Rudy sang out a greeting\""
+            ]
+          },
+          {
+            "definition": "(of a bird) make characteristic melodious whistling and twittering sounds.",
+            "examples": [
+              "the birds were singing in the chestnut trees"
+            ],
+            "synonyms": [
+              "warble",
+              "trill",
+              "chirp",
+              "chirrup",
+              "cheep",
+              "peep \"the birds were singing\""
+            ]
+          },
+          {
+            "definition": "make a high-pitched whistling or buzzing sound.",
+            "examples": [
+              "the kettle was beginning to sing"
+            ]
+          },
+          {
+            "definition": "(of a person's ear) be affected with a continuous buzzing sound, especially as the aftereffect of a blow or loud noise.",
+            "examples": [
+              "a stinging slap that made my ear sing"
+            ]
+          },
+          {
+            "definition": "act as an informer to the police.",
+            "examples": [
+              "as soon as he got put under pressure, he sang like a canary"
+            ],
+            "synonyms": [
+              "inform (on someone)",
+              "confess; Moreinformalsqueal",
+              "rat on someone",
+              "blow the whistle on someone",
+              "snitch (on someone)",
+              "narc (on someone)",
+              "finger someone",
+              "fink on someone \"he's going to sing to the police\""
+            ]
+          },
+          {
+            "definition": "recount or celebrate in a work of literature, especially poetry.",
+            "examples": [
+              "poetry should sing the strangeness and variety of the human race"
+            ]
+          },
+          {
+            "definition": "compose poetry."
+          }
+        ]
+      }
+    ]
+  }
+]

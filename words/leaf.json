@@ -1,0 +1,125 @@
+[
+  {
+    "word": "leaf",
+    "syllables": [
+      "leaf"
+    ],
+    "pronunciation": "lēf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "leaf"
+          },
+          {
+            "part": "plural noun",
+            "variant": "leaves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flattened structure of a higher plant, typically green and bladelike, that is attached to a stem directly or via a stalk. Leaves are the main organs of photosynthesis and transpiration.",
+            "examples": [
+              "leaflet, frond, blade, needle; Morecotyledon, blade, bract \"sycamore leaves\"Morecotyledon, blade, bract sycamore leaves"
+            ]
+          },
+          {
+            "definition": "any of a number of plant structures similar to leaves, e.g., bracts, sepals, and petals.",
+            "examples": [
+              "leaflet, frond, blade, needle; Morecotyledon, blade, bract \"sycamore leaves\"Morecotyledon, blade, bract sycamore leaves"
+            ]
+          },
+          {
+            "definition": "foliage regarded collectively."
+          },
+          {
+            "definition": "the state of having leaves.",
+            "examples": [
+              "the trees are still in leaf"
+            ]
+          },
+          {
+            "definition": "the leaves of tobacco or tea.",
+            "examples": [
+              "leaf tea"
+            ]
+          },
+          {
+            "definition": "a thing that resembles a leaf in being flat and thin, typically something that is one of two or more similar items forming a set or stack."
+          },
+          {
+            "definition": "a single thickness of paper, especially in a book with each side forming a page.",
+            "examples": [
+              "page, sheet, folio a leaf in a book"
+            ]
+          },
+          {
+            "definition": "gold, silver, or other specified metal in the form of very thin foil."
+          },
+          {
+            "definition": "the hinged part or flap of a door, shutter, or table."
+          },
+          {
+            "definition": "an extra section inserted to extend a table."
+          },
+          {
+            "definition": "the inner or outer part of a cavity wall or double-glazed window."
+          },
+          {
+            "definition": "any of the stacked metal strips that form a leaf spring."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "leaf"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "leafs"
+          },
+          {
+            "part": "past tense",
+            "variant": "leafed"
+          },
+          {
+            "part": "past participle",
+            "variant": "leafed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "leafing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a plant, especially a deciduous one in spring) put out new leaves."
+          },
+          {
+            "definition": "turn over (the pages of a book or the papers in a pile), reading them quickly or casually.",
+            "examples": [
+              "he leafed through the stack of notes"
+            ],
+            "synonyms": [
+              "flip through",
+              "thumb through",
+              "flick through",
+              "skim through/over",
+              "browse through",
+              "glance through/over",
+              "riffle through",
+              "rifle through; Morescan",
+              "run one's eye over",
+              "peruse \"he leafed through the documents\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

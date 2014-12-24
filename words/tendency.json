@@ -1,0 +1,63 @@
+[
+  {
+    "word": "tendency",
+    "syllables": [
+      "ten",
+      "den",
+      "cy"
+    ],
+    "pronunciation": "ˈtendənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tendency"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tendencies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an inclination toward a particular characteristic or type of behavior.",
+            "examples": [
+              "for students, there is a tendency to socialize in the evenings"
+            ],
+            "synonyms": [
+              "propensity",
+              "proclivity",
+              "proneness",
+              "aptness",
+              "likelihood",
+              "inclination",
+              "disposition",
+              "predisposition",
+              "bent",
+              "leaning",
+              "penchant",
+              "predilection",
+              "susceptibility",
+              "liability; Morereadiness; habit \"his tendency to take the law into his own hands\"trend",
+              "movement",
+              "drift",
+              "swing",
+              "gravitation",
+              "direction",
+              "course; orientation",
+              "bias \"this tendency toward cohabitation\""
+            ]
+          },
+          {
+            "definition": "a group within a larger political party or movement.",
+            "examples": [
+              "the dominant tendency in the party remained right-wing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

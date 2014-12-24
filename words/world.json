@@ -1,0 +1,154 @@
+[
+  {
+    "word": "world",
+    "syllables": [
+      "world"
+    ],
+    "pronunciation": "wərld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "world"
+          },
+          {
+            "part": "noun",
+            "variant": "the world"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the earth, together with all of its countries, peoples, and natural features.",
+            "examples": [
+              "he was doing his bit to save the world"
+            ],
+            "synonyms": [
+              "earth",
+              "globe",
+              "planet",
+              "sphere \"he traveled the world\""
+            ]
+          },
+          {
+            "definition": "all of the people, societies, and institutions on the earth.",
+            "examples": [
+              "world affairs"
+            ],
+            "synonyms": [
+              "everyone",
+              "everybody",
+              "people",
+              "mankind",
+              "humankind",
+              "humanity",
+              "the (general) public",
+              "the population",
+              "the populace",
+              "all and sundry",
+              "‘every Tom",
+              "Dick",
+              "and Harry’ \"she would show the world that she was strong\""
+            ]
+          },
+          {
+            "definition": "denoting one of the most important or influential people or things of its class.",
+            "examples": [
+              "modifier noun: world"
+            ]
+          },
+          {
+            "definition": "another planet like the earth.",
+            "examples": [
+              "plural noun: worlds"
+            ]
+          },
+          {
+            "definition": "the material universe or all that exists; everything."
+          },
+          {
+            "definition": "a part or aspect of human life or of the natural features of the earth, in particular."
+          },
+          {
+            "definition": "a region or group of countries.",
+            "examples": [
+              "the English-speaking world"
+            ]
+          },
+          {
+            "definition": "a period of history.",
+            "examples": [
+              "the ancient world"
+            ]
+          },
+          {
+            "definition": "a group of living things.",
+            "examples": [
+              "the animal world"
+            ]
+          },
+          {
+            "definition": "the people, places, and activities to do with a particular thing.",
+            "examples": [
+              "they were a legend in the world of British theater"
+            ],
+            "synonyms": [
+              "sphere",
+              "society",
+              "circle",
+              "arena",
+              "milieu",
+              "province",
+              "domain",
+              "orbit",
+              "preserve",
+              "realm",
+              "field",
+              "discipline",
+              "area",
+              "sector \"the academic world\""
+            ]
+          },
+          {
+            "definition": "human and social interaction.",
+            "examples": [
+              "he has almost completely withdrawn from the world"
+            ],
+            "synonyms": [
+              "society",
+              "material things",
+              "secular interests",
+              "temporal concerns",
+              "earthly concerns \"she renounced the world\""
+            ]
+          },
+          {
+            "definition": "average, respectable, or fashionable people or their customs or opinions."
+          },
+          {
+            "definition": "a person's life and activities.",
+            "examples": [
+              "noun: one's world; plural noun: one's worlds"
+            ]
+          },
+          {
+            "definition": "everything that exists outside oneself."
+          },
+          {
+            "definition": "a stage of human life, either mortal or after death.",
+            "examples": [
+              "in this world and the next"
+            ]
+          },
+          {
+            "definition": "secular interests and affairs.",
+            "examples": [
+              "parents are not viewed as the primary educators of their own children, either in the world or in the church"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

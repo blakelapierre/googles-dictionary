@@ -1,0 +1,74 @@
+[
+  {
+    "word": "caress",
+    "syllables": [
+      "ca",
+      "ress"
+    ],
+    "pronunciation": "kəˈres",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "caress"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "caresses"
+          },
+          {
+            "part": "past tense",
+            "variant": "caressed"
+          },
+          {
+            "part": "past participle",
+            "variant": "caressed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "caressing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "touch or stroke gently or lovingly.",
+            "examples": [
+              "she caressed the girl's forehead"
+            ],
+            "synonyms": [
+              "stroke",
+              "touch",
+              "fondle",
+              "brush",
+              "pet; Morehug",
+              "embrace; nuzzle \"his hands caressed her back\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "caress"
+          },
+          {
+            "part": "plural noun",
+            "variant": "caresses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gentle or loving touch.",
+            "examples": [
+              "stroke, touch, fondle, brush, pet; Morehug, embrace; nuzzle \"his hands caressed her back\"Morehug, embrace; nuzzle his hands caressed her back"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

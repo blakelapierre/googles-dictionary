@@ -1,0 +1,76 @@
+[
+  {
+    "word": "pedal",
+    "syllables": [
+      "ped",
+      "al"
+    ],
+    "pronunciation": "ˈpedl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pedals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a foot-operated lever or control for a vehicle, musical instrument, or other mechanism, in particular."
+          },
+          {
+            "definition": "each of a pair of cranks used for powering a bicycle or other vehicle propelled by leg power."
+          },
+          {
+            "definition": "a foot-operated throttle, brake, or clutch control in a motor vehicle."
+          },
+          {
+            "definition": "each of a set of two or three levers on a piano, particularly (also sustaining pedal ) one that, when depressed by the foot, prevents the dampers from stopping the sound when the keys are released. The second is the soft pedal ; a third, if present, produces either selective sustaining or complete muffling of the tone."
+          },
+          {
+            "definition": "each key of an organ keyboard that is played with the feet."
+          },
+          {
+            "definition": "short for pedal note."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pedals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move by working the pedals of a bicycle.",
+            "examples": [
+              "they pedaled along the canal towpath"
+            ]
+          },
+          {
+            "definition": "move (a bicycle) by working its pedals.",
+            "examples": [
+              "she was pedaling a bicycle around town"
+            ]
+          },
+          {
+            "definition": "work the pedals of a bicycle.",
+            "examples": [
+              "he was coming down the path on his bike, pedaling hard"
+            ]
+          },
+          {
+            "definition": "use the pedals of a piano, especially in a particular style.",
+            "examples": [
+              "Chopin gave no indications of pedaling in his manuscript"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

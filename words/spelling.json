@@ -1,0 +1,128 @@
+[
+  {
+    "word": "spelling",
+    "syllables": [
+      "spell",
+      "ing"
+    ],
+    "pronunciation": "ˈspeliNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spelling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process or activity of writing or naming the letters of a word."
+          },
+          {
+            "definition": "the way a word is spelled.",
+            "examples": [
+              "plural noun: spellings"
+            ]
+          },
+          {
+            "definition": "a person's ability to spell words.",
+            "examples": [
+              "her spelling was deplorable"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spell",
+    "syllables": [
+      "spell"
+    ],
+    "pronunciation": "spel",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "spelling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "write or name the letters that form (a word) in correct sequence.",
+            "examples": [
+              "Dolly spelled her name"
+            ]
+          },
+          {
+            "definition": "(of letters) make up or form (a word).",
+            "examples": [
+              "the letters spell the word “how.”"
+            ]
+          },
+          {
+            "definition": "be recognizable as a sign or characteristic of.",
+            "examples": [
+              "she had the chic, efficient look that spells Milan"
+            ]
+          },
+          {
+            "definition": "lead to.",
+            "examples": [
+              "the plans would spell disaster for the economy"
+            ],
+            "synonyms": [
+              "signal",
+              "signify",
+              "mean",
+              "amount to",
+              "add up to",
+              "constitute; Moreportend",
+              "augur",
+              "herald",
+              "bode",
+              "promise; involve; literarybetoken",
+              "foretoken",
+              "forebode \"the drought spelled disaster for them\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spell",
+    "syllables": [
+      "spell"
+    ],
+    "pronunciation": "spel",
+    "parts": [
+      {
+        "part": "verbNorth American",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "spelling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "allow (someone) to rest briefly by taking their place in some activity.",
+            "examples": [
+              "I got sleepy and needed her to spell me for a while at the wheel"
+            ]
+          },
+          {
+            "definition": "take a brief rest.",
+            "examples": [
+              "I'll spell for a bit"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

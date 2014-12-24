@@ -1,0 +1,136 @@
+[
+  {
+    "word": "suppose",
+    "syllables": [
+      "sup",
+      "pose"
+    ],
+    "pronunciation": "səˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "suppose"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "supposes"
+          },
+          {
+            "part": "past tense",
+            "variant": "supposed"
+          },
+          {
+            "part": "past participle",
+            "variant": "supposed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "supposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "assume that something is the case on the basis of evidence or probability but without proof or certain knowledge.",
+            "examples": [
+              "I suppose I got there about half past eleven"
+            ],
+            "synonyms": [
+              "assume",
+              "presume",
+              "expect",
+              "dare say",
+              "take it (as read); Morebelieve",
+              "think",
+              "fancy",
+              "suspect",
+              "sense",
+              "trust; guess",
+              "surmise",
+              "reckon",
+              "conjecture",
+              "deduce",
+              "infer",
+              "gather; formalopine \"I suppose he's used to this\"apparent",
+              "ostensible",
+              "seeming",
+              "alleged",
+              "putative",
+              "reputed",
+              "rumored",
+              "claimed",
+              "purported; professed",
+              "declared",
+              "assumed",
+              "presumed \"the supposed phenomena\""
+            ]
+          },
+          {
+            "definition": "used to make a reluctant or hesitant admission.",
+            "examples": [
+              "I'm quite a good actress, I suppose"
+            ],
+            "synonyms": [
+              "assume",
+              "imagine",
+              "(let's) say; Morehypothesize",
+              "theorize",
+              "speculate \"suppose you had a spacecraft\""
+            ]
+          },
+          {
+            "definition": "used to introduce a hypothesis and trace or ask about what follows from it.",
+            "examples": [
+              "suppose he had been murdered—what then?"
+            ]
+          },
+          {
+            "definition": "used to introduce a suggestion.",
+            "examples": [
+              "suppose we leave this to the police"
+            ]
+          },
+          {
+            "definition": "(of a theory or argument) assume or require that something is the case as a precondition.",
+            "examples": [
+              "the procedure supposes that a will has already been proved"
+            ],
+            "synonyms": [
+              "require",
+              "presuppose",
+              "imply",
+              "assume; Morecall for",
+              "need \"the theory supposes rational players\""
+            ]
+          },
+          {
+            "definition": "believe to exist or to possess a specified characteristic.",
+            "examples": [
+              "he supposed the girl to be about twelve"
+            ]
+          },
+          {
+            "definition": "be required to do something because of the position one is in or an agreement one has made.",
+            "examples": [
+              "I'm supposed to be meeting someone at the airport"
+            ],
+            "synonyms": [
+              "meant",
+              "intended",
+              "expected; Morerequired",
+              "obliged \"I'm supposed to meet him at 8"
+            ]
+          },
+          {
+            "definition": "be forbidden to do something.",
+            "examples": [
+              "I shouldn't have been in the kitchen—I'm not supposed to go in there"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

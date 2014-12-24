@@ -1,0 +1,217 @@
+[
+  {
+    "word": "reserve",
+    "syllables": [
+      "re",
+      "serve"
+    ],
+    "pronunciation": "rəˈzərv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reserve"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reserves"
+          },
+          {
+            "part": "past tense",
+            "variant": "reserved"
+          },
+          {
+            "part": "past participle",
+            "variant": "reserved"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "reserving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "refrain from using or disposing of (something); retain for future use.",
+            "examples": [
+              "roll out half the dough and reserve the other half"
+            ],
+            "synonyms": [
+              "put to one side",
+              "put aside",
+              "set aside",
+              "keep",
+              "keep back",
+              "save",
+              "hold",
+              "put on hold",
+              "keep in reserve",
+              "earmark \"ask the library to reserve a copy for you\""
+            ]
+          },
+          {
+            "definition": "arrange for (a room, seat, ticket, etc.) to be kept for the use of a particular person and not given to anyone else.",
+            "examples": [
+              "a place was reserved for her in the front row"
+            ],
+            "synonyms": [
+              "book",
+              "make a reservation for",
+              "order",
+              "arrange for",
+              "secure",
+              "preorder; Moreformalbespeak; datedengage \"he reserved a table\""
+            ]
+          },
+          {
+            "definition": "retain or hold (an entitlement to something), especially by formal or legal stipulation.",
+            "examples": [
+              "the editor reserves the right to edit letters"
+            ],
+            "synonyms": [
+              "retain",
+              "maintain",
+              "keep",
+              "hold \"the management reserves the right to alter the program\""
+            ]
+          },
+          {
+            "definition": "refrain from delivering (a judgment or decision) immediately or without due consideration or evidence.",
+            "examples": [
+              "I'll reserve my views on his ability until he's played again"
+            ],
+            "synonyms": [
+              "defer",
+              "postpone",
+              "put off",
+              "delay",
+              "withhold \"reserve your judgment until you know him better\""
+            ]
+          },
+          {
+            "definition": "use or engage in something only in or at (a particular circumstance or time).",
+            "examples": [
+              "Japanese food has been presented as expensive and reserved for special occasions"
+            ]
+          },
+          {
+            "definition": "(in church use) retain (a portion of the consecrated elements) after mass for communion of the sick or as a focus for devotion."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reserve"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reserves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a supply of a commodity not needed for immediate use but available if required.",
+            "examples": [
+              "Australia has major coal, gas, and uranium reserves"
+            ],
+            "synonyms": [
+              "stock",
+              "store",
+              "supply",
+              "stockpile",
+              "pool",
+              "hoard",
+              "cache \"reserves of gasoline\""
+            ]
+          },
+          {
+            "definition": "a force or body of troops kept back from action to reinforce or protect others, or additional to the regular forces and available in an emergency."
+          },
+          {
+            "definition": "a member of the military reserve.",
+            "examples": [
+              "reinforcements, the militia, extras, auxiliaries the army is calling up reserves"
+            ]
+          },
+          {
+            "definition": "an extra player who is a possible substitute in a team.",
+            "examples": [
+              "backup, substitute, stand-in, relief, replacement, fallback, spare, extra a reserve goaltender"
+            ]
+          },
+          {
+            "definition": "the second-string team.",
+            "examples": [
+              "plural noun: the reserves"
+            ]
+          },
+          {
+            "definition": "funds kept available by a bank, company, or government.",
+            "examples": [
+              "the foreign exchange reserves"
+            ]
+          },
+          {
+            "definition": "a part of a company's profits added to capital rather than paid as a dividend."
+          },
+          {
+            "definition": "a place set aside for special use, in particular."
+          },
+          {
+            "definition": "an area designated as a habitat for an indigenous people."
+          },
+          {
+            "definition": "a protected area for wildlife.",
+            "examples": [
+              "national park, sanctuary, preserve, conservation area, protected area, wildlife park a nature reserve"
+            ]
+          },
+          {
+            "definition": "a lack of warmth or openness in manner or expression.",
+            "examples": [
+              "she smiled and some of her natural reserve melted"
+            ],
+            "synonyms": [
+              "reticence",
+              "detachment",
+              "distance",
+              "remoteness",
+              "coolness",
+              "aloofness",
+              "constraint",
+              "formality; Moreshyness",
+              "diffidence",
+              "timidity",
+              "taciturnity",
+              "inhibition; informalstandoffishness \"it was difficult to get past his reserve\""
+            ]
+          },
+          {
+            "definition": "qualification or doubt attached to some statement or claim.",
+            "examples": [
+              "she trusted him without reserve"
+            ],
+            "synonyms": [
+              "reservation",
+              "qualification",
+              "condition",
+              "limitation",
+              "hesitation",
+              "doubt \"she trusted him without reserve\""
+            ]
+          },
+          {
+            "definition": "short for reserve price."
+          },
+          {
+            "definition": "(in the decoration of ceramics or textiles) an area that still has the original color of the material or the color of the background."
+          }
+        ]
+      }
+    ]
+  }
+]

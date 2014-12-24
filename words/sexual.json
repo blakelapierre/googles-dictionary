@@ -1,0 +1,50 @@
+{
+  "word": "sexual",
+  "syllables": [
+    "sex",
+    "u",
+    "al"
+  ],
+  "pronunciation": "ˈsekSH(əw)əl",
+  "parts": [
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "sexual"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "relating to the instincts, physiological processes, and activities connected with physical attraction or intimate physical contact between individuals.",
+          "examples": [
+            "she had felt the thrill of a sexual attraction"
+          ],
+          "synonyms": [
+            "carnal",
+            "erotic; Moreformalvenereal; technicalcoital \"sexual activity\""
+          ]
+        },
+        {
+          "definition": "of or relating to the two sexes or to gender.",
+          "examples": [
+            "sensitivity about sexual stereotypes"
+          ]
+        },
+        {
+          "definition": "of or characteristic of one sex or the other.",
+          "examples": [
+            "the hormones which control the secondary sexual characteristics"
+          ]
+        },
+        {
+          "definition": "being of one sex or the other; capable of sexual reproduction.",
+          "examples": [
+            "reproductive, genital, sex, procreative the sexual organs"
+          ]
+        }
+      ]
+    }
+  ]
+}

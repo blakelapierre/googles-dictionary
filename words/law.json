@@ -1,0 +1,107 @@
+[
+  {
+    "word": "law",
+    "syllables": [
+      "law"
+    ],
+    "pronunciation": "lô",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "law"
+          },
+          {
+            "part": "noun",
+            "variant": "the law"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the system of rules that a particular country or community recognizes as regulating the actions of its members and may enforce by the imposition of penalties.",
+            "examples": [
+              "they were taken to court for breaking the law"
+            ]
+          },
+          {
+            "definition": "an individual rule as part of a system of law.",
+            "examples": [
+              "plural noun: laws"
+            ]
+          },
+          {
+            "definition": "systems of law as a subject of study or as the basis of the legal profession.",
+            "examples": [
+              "he was still practicing law"
+            ],
+            "synonyms": [
+              "the legal profession",
+              "the bar \"a career in law\""
+            ]
+          },
+          {
+            "definition": "a thing regarded as having the binding force or effect of a formal system of rules.",
+            "examples": [
+              "what he said was law"
+            ]
+          },
+          {
+            "definition": "the police.",
+            "examples": [
+              "he'd never been in trouble with the law in his life"
+            ]
+          },
+          {
+            "definition": "statutory law and the common law."
+          },
+          {
+            "definition": "a rule defining correct procedure or behavior in a sport.",
+            "examples": [
+              "the laws of the game"
+            ],
+            "synonyms": [
+              "rule",
+              "regulation",
+              "principle",
+              "convention",
+              "instruction",
+              "guideline \"the laws of the game\""
+            ]
+          },
+          {
+            "definition": "a statement of fact, deduced from observation, to the effect that a particular natural or scientific phenomenon always occurs if certain conditions are present.",
+            "examples": [
+              "the second law of thermodynamics"
+            ]
+          },
+          {
+            "definition": "a generalization based on a fact or event perceived to be recurrent.",
+            "examples": [
+              "the first law of American corporate life is that dead wood floats"
+            ]
+          },
+          {
+            "definition": "the body of divine commandments as expressed in the Bible or other religious texts.",
+            "examples": [
+              "principle, rule, precept, directive, injunction, commandment, belief, creed, credo, maxim, tenet, doctrine, canon a moral law"
+            ]
+          },
+          {
+            "definition": "the Pentateuch as distinct from the other parts of the Hebrew Bible (the Prophets and the Writings).",
+            "examples": [
+              "noun: Law; noun: the Law"
+            ]
+          },
+          {
+            "definition": "the precepts of the Pentateuch.",
+            "examples": [
+              "plural noun: the Law of Moses"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

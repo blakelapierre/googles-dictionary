@@ -1,0 +1,46 @@
+[
+  {
+    "word": "astonishment",
+    "syllables": [
+      "as",
+      "ton",
+      "ish",
+      "ment"
+    ],
+    "pronunciation": "əˈstäniSHmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "astonishment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "astonishments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "great surprise.",
+            "examples": [
+              "she looked at him in astonishment"
+            ],
+            "synonyms": [
+              "amazement",
+              "surprise",
+              "stupefaction",
+              "incredulity",
+              "disbelief",
+              "speechlessness",
+              "awe",
+              "wonder",
+              "wonderment \"we stared in astonishment\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

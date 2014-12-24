@@ -1,0 +1,73 @@
+[
+  {
+    "word": "dissipation",
+    "syllables": [
+      "dis",
+      "si",
+      "pa",
+      "tion"
+    ],
+    "pronunciation": "ˌdisəˈpāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dissipation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dissipations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "dissipated living.",
+            "examples": [
+              "a descent into drunkenness and sexual dissipation"
+            ],
+            "synonyms": [
+              "debauchery",
+              "decadence",
+              "dissoluteness",
+              "dissolution",
+              "intemperance",
+              "excess",
+              "overconsumption",
+              "profligacy",
+              "self-indulgence",
+              "wildness; Moredepravity",
+              "degeneracy; licentiousness",
+              "promiscuity; drunkenness \"drunken dissipation\""
+            ],
+            "antonyms": [
+              "asceticism"
+            ]
+          },
+          {
+            "definition": "squandering of money, energy, or resources.",
+            "examples": [
+              "the dissipation of the country's mineral wealth"
+            ],
+            "synonyms": [
+              "squandering",
+              "frittering (away)",
+              "waste",
+              "misspending; Moreexpenditure",
+              "draining",
+              "depletion \"the dissipation of our mineral wealth\""
+            ],
+            "antonyms": [
+              "preservation",
+              "accumulation"
+            ]
+          },
+          {
+            "definition": "loss of energy, especially by its conversion into heat."
+          }
+        ]
+      }
+    ]
+  }
+]

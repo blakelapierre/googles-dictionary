@@ -1,0 +1,94 @@
+[
+  {
+    "word": "blame",
+    "syllables": [
+      "blame"
+    ],
+    "pronunciation": "blām",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "blame"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "blames"
+          },
+          {
+            "part": "past tense",
+            "variant": "blamed"
+          },
+          {
+            "part": "past participle",
+            "variant": "blamed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "blaming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "assign responsibility for a fault or wrong.",
+            "examples": [
+              "the inquiry blamed the engineer for the accident"
+            ],
+            "synonyms": [
+              "hold responsible",
+              "hold accountable",
+              "condemn",
+              "accuse",
+              "find/consider guilty",
+              "assign fault/liability/guilt to",
+              "indict",
+              "point the finger at",
+              "finger",
+              "incriminate; Morearchaicinculpate \"he always blames others\"ascribe to",
+              "attribute to",
+              "impute to",
+              "lay at the door of",
+              "put down to; informalpin \"they blame youth crime on unemployment\""
+            ],
+            "antonyms": [
+              "absolve"
+            ]
+          },
+          {
+            "definition": "assign the responsibility for something bad to (someone or something).",
+            "examples": [
+              "they blame youth crime on unemployment"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blame"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "responsibility for a fault or wrong.",
+            "examples": [
+              "his players had to take the blame"
+            ],
+            "synonyms": [
+              "responsibility",
+              "guilt",
+              "accountability",
+              "liability",
+              "culpability",
+              "fault; informalrap \"he was cleared of all blame\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

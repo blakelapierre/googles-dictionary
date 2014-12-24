@@ -1,0 +1,48 @@
+[
+  {
+    "word": "diverse",
+    "syllables": [
+      "di",
+      "verse"
+    ],
+    "pronunciation": "dəˈvərsdīˈvərs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "diverse"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "showing a great deal of variety; very different.",
+            "examples": [
+              "a culturally diverse population"
+            ],
+            "synonyms": [
+              "various",
+              "sundry",
+              "manifold",
+              "multiple; Morevaried",
+              "varying",
+              "miscellaneous",
+              "assorted",
+              "mixed",
+              "diversified",
+              "divergent",
+              "heterogeneous",
+              "a mixed bag of; different",
+              "differing",
+              "distinct",
+              "unlike",
+              "dissimilar; literarydivers",
+              "myriad \"managing data from diverse databases\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

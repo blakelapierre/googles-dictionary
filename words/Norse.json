@@ -1,0 +1,51 @@
+{
+  "word": "Norse",
+  "syllables": [
+    "Norse"
+  ],
+  "pronunciation": "nôrs",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "Norse"
+        },
+        {
+          "part": "plural noun",
+          "variant": "Norse"
+        },
+        {
+          "part": "plural noun",
+          "variant": "the Norse"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the Norwegian language, especially in its medieval form."
+        },
+        {
+          "definition": "the Scandinavian language group."
+        },
+        {
+          "definition": "Norwegians or Scandinavians, especially in medieval times."
+        }
+      ]
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "Norse"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "of or relating to medieval Norway or Scandinavia, or their inhabitants or language."
+        }
+      ]
+    }
+  ]
+}

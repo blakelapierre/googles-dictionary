@@ -1,0 +1,92 @@
+[
+  {
+    "word": "inconvenience",
+    "syllables": [
+      "in",
+      "con",
+      "ven",
+      "ience"
+    ],
+    "pronunciation": "ˌinkənˈvēnyəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inconvenience"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "trouble or difficulty caused to one's personal requirements or comfort.",
+            "examples": [
+              "the inconvenience of having to change trains"
+            ],
+            "synonyms": [
+              "trouble",
+              "bother",
+              "problems",
+              "disruption",
+              "difficulty",
+              "disturbance; Morevexation",
+              "irritation",
+              "annoyance; informalaggravation",
+              "hassle \"we apologize for any inconvenience caused by the delay\""
+            ]
+          },
+          {
+            "definition": "a cause or instance of trouble or difficulty.",
+            "examples": [
+              "plural noun: inconveniences"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "inconvenience"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "inconveniences"
+          },
+          {
+            "part": "past tense",
+            "variant": "inconvenienced"
+          },
+          {
+            "part": "past participle",
+            "variant": "inconvenienced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "inconveniencing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause trouble or difficulty to.",
+            "examples": [
+              "noise and fumes from traffic would inconvenience residents"
+            ],
+            "synonyms": [
+              "trouble",
+              "bother",
+              "put out",
+              "put to any trouble",
+              "disturb",
+              "impose on",
+              "burden",
+              "incommode; Moreinformalhassle",
+              "plague; formaldiscommode \"I don't want to inconvenience you\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

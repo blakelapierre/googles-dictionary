@@ -1,0 +1,45 @@
+[
+  {
+    "word": "sailor",
+    "syllables": [
+      "sail",
+      "or"
+    ],
+    "pronunciation": "ˈsālər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sailor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sailors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person whose job it is to work as a member of the crew of a commercial or naval ship or boat, especially one who is below the rank of officer.",
+            "examples": [
+              "seaman, seafarer, mariner; Moreboatman, yachtsman, hand; informal(old) salt, sea dog, rating, bluejacket; matelot \"his mentor at sea was a well-seasoned sailor named Coates\"Moreboatman, yachtsman, hand; (old) salt, sea dog, rating, bluejacket; matelot his mentor at sea was a well-seasoned sailor named Coates"
+            ]
+          },
+          {
+            "definition": "a person who goes sailing as a sport or recreation.",
+            "examples": [
+              "she was a keen sailor"
+            ]
+          },
+          {
+            "definition": "a person who rarely (or often) becomes sick at sea in rough weather.",
+            "examples": [
+              "noun: good sailor; plural noun: good sailors; noun: bad sailor; plural noun: bad sailors"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,579 @@
+[
+  {
+    "word": "right",
+    "syllables": [
+      "right"
+    ],
+    "pronunciation": "rīt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "right"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "righter"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "rightest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "morally good, justified, or acceptable.",
+            "examples": [
+              "I hope we're doing the right thing"
+            ],
+            "synonyms": [
+              "just",
+              "fair",
+              "proper",
+              "good",
+              "upright",
+              "righteous",
+              "virtuous",
+              "moral",
+              "ethical",
+              "honorable",
+              "honest; Morelawful",
+              "legal \"it wouldn't be right to do that\""
+            ],
+            "antonyms": [
+              "wrong",
+              "unjust"
+            ]
+          },
+          {
+            "definition": "true or correct as a fact.",
+            "examples": [
+              "I'm not sure I know the right answer"
+            ],
+            "synonyms": [
+              "correct",
+              "accurate",
+              "exact",
+              "precise; Moreproper",
+              "valid",
+              "conventional",
+              "established",
+              "official",
+              "formal \"Mr. Hubert had the right answer\""
+            ],
+            "antonyms": [
+              "wrong",
+              "inaccurate"
+            ]
+          },
+          {
+            "definition": "correct in one's opinion or judgment.",
+            "examples": [
+              "she was right about Tom having no money"
+            ],
+            "synonyms": [
+              "correct",
+              "accurate",
+              "exact",
+              "precise; Moreproper",
+              "valid",
+              "conventional",
+              "established",
+              "official",
+              "formal \"Mr. Hubert had the right answer\""
+            ],
+            "antonyms": [
+              "wrong",
+              "inaccurate"
+            ]
+          },
+          {
+            "definition": "used as an interrogative at the end of a statement as a way of inviting agreement, approval, or confirmation.",
+            "examples": [
+              "exclamation: right"
+            ]
+          },
+          {
+            "definition": "according to what is correct for a particular situation or thing.",
+            "examples": [
+              "is this the right way to the cottage?"
+            ]
+          },
+          {
+            "definition": "the best or most suitable of a number of possible choices for a particular purpose or occasion.",
+            "examples": [
+              "he was clearly the right man for the job"
+            ],
+            "synonyms": [
+              "suitable",
+              "appropriate",
+              "fitting",
+              "correct",
+              "proper",
+              "desirable",
+              "preferable",
+              "ideal; Morearchaicmeet \"the right person for the job\"opportune",
+              "advantageous",
+              "favorable",
+              "propitious",
+              "good",
+              "lucky",
+              "happy",
+              "fortunate",
+              "providential",
+              "felicitous; timely",
+              "seasonable",
+              "convenient",
+              "expedient",
+              "suitable",
+              "appropriate \"you've come at the right time\""
+            ],
+            "antonyms": [
+              "wrong",
+              "unsuitable",
+              "inopportune"
+            ]
+          },
+          {
+            "definition": "socially fashionable or important.",
+            "examples": [
+              "he was seen at all the right places"
+            ]
+          },
+          {
+            "definition": "in a satisfactory, sound, or normal state or condition.",
+            "examples": [
+              "that sausage doesn't smell right"
+            ]
+          },
+          {
+            "definition": "on, toward, or relating to the side of a human body or of a thing that is to the east when the person or thing is facing north.",
+            "examples": [
+              "my right elbow"
+            ]
+          },
+          {
+            "definition": "complete; absolute (used for emphasis, typically in derogatory contexts).",
+            "examples": [
+              "I felt a right idiot"
+            ]
+          },
+          {
+            "definition": "of or relating to a person or political party or grouping favoring conservative views.",
+            "examples": [
+              "are you politically right, left, or center?"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "right"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to the furthest or most complete extent or degree (used for emphasis).",
+            "examples": [
+              "the car spun right off the track"
+            ],
+            "synonyms": [
+              "completely",
+              "fully",
+              "totally",
+              "absolutely",
+              "utterly",
+              "thoroughly",
+              "quite \"she was right at the limit of her patience\""
+            ]
+          },
+          {
+            "definition": "exactly; directly (used to emphasize the precise location or time of something).",
+            "examples": [
+              "Harriet was standing right behind her"
+            ],
+            "synonyms": [
+              "exactly",
+              "precisely",
+              "directly",
+              "immediately",
+              "just",
+              "squarely",
+              "dead; Moreinformalbang",
+              "smack",
+              "plumb",
+              "smack dab \"right in the middle of the village\""
+            ]
+          },
+          {
+            "definition": "immediately; without delaying or hesitating.",
+            "examples": [
+              "I'll be right back"
+            ],
+            "synonyms": [
+              "straight",
+              "immediately",
+              "instantly",
+              "at once",
+              "straightaway",
+              "now",
+              "right now",
+              "this minute",
+              "directly",
+              "forthwith",
+              "without further ado",
+              "promptly",
+              "quickly",
+              "as soon as possible",
+              "ASAP",
+              "in short order; Moreinformalstraight off",
+              "PDQ",
+              "pretty damn quick",
+              "pronto",
+              "lickety-split \"he'll be right down\""
+            ],
+            "antonyms": [
+              "sometime",
+              "later"
+            ]
+          },
+          {
+            "definition": "very.",
+            "examples": [
+              "it's right spooky in there!"
+            ]
+          },
+          {
+            "definition": "correctly.",
+            "examples": [
+              "he had guessed right"
+            ],
+            "synonyms": [
+              "correctly",
+              "accurately",
+              "properly",
+              "precisely",
+              "aright",
+              "rightly",
+              "perfectly \"I think I heard right\""
+            ],
+            "antonyms": [
+              "wrong"
+            ]
+          },
+          {
+            "definition": "in the required or necessary way; properly; satisfactorily.",
+            "examples": [
+              "nothing's going right for me this season"
+            ],
+            "synonyms": [
+              "well",
+              "properly",
+              "justly",
+              "fairly",
+              "nicely",
+              "equitably",
+              "impartially",
+              "honorably",
+              "lawfully",
+              "legally",
+              "ethically More\"make sure you're treated right by the authorities\"well",
+              "for the best",
+              "favorably",
+              "happily",
+              "advantageously",
+              "profitably",
+              "providentially",
+              "luckily",
+              "conveniently \"things will turn out right\""
+            ],
+            "antonyms": [
+              "unjustly",
+              "badly"
+            ]
+          },
+          {
+            "definition": "on or to the right side.",
+            "examples": [
+              "turn right at Main Street"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "right"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rights"
+          },
+          {
+            "part": "noun",
+            "variant": "the right"
+          },
+          {
+            "part": "noun",
+            "variant": "Right"
+          },
+          {
+            "part": "noun",
+            "variant": "the Right"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "that which is morally correct, just, or honorable.",
+            "examples": [
+              "she doesn't understand the difference between right and wrong"
+            ],
+            "synonyms": [
+              "goodness",
+              "righteousness",
+              "virtue",
+              "integrity",
+              "rectitude",
+              "propriety",
+              "morality",
+              "truth",
+              "honesty",
+              "honor",
+              "justice",
+              "fairness",
+              "equity; Morelawfulness",
+              "legality \"the difference between right and wrong\""
+            ],
+            "antonyms": [
+              "wrong"
+            ]
+          },
+          {
+            "definition": "a moral or legal entitlement to have or obtain something or to act in a certain way.",
+            "examples": [
+              "she had every right to be angry"
+            ],
+            "synonyms": [
+              "entitlement",
+              "prerogative",
+              "privilege",
+              "advantage",
+              "due",
+              "birthright",
+              "liberty",
+              "authority",
+              "power",
+              "license",
+              "permission",
+              "dispensation",
+              "leave",
+              "sanction",
+              "freedom; historicaldroit \"you have the right to say no\""
+            ]
+          },
+          {
+            "definition": "the authority to perform, publish, film, or televise a particular work, event, etc.",
+            "examples": [
+              "they sold the paperback rights"
+            ]
+          },
+          {
+            "definition": "the right-hand part, side, or direction.",
+            "examples": [
+              "take the first turning on the right"
+            ]
+          },
+          {
+            "definition": "(in football or a similar sport) the right-hand half of the field when facing the opponent's goal."
+          },
+          {
+            "definition": "short for right field.",
+            "examples": [
+              "a looping single to right"
+            ]
+          },
+          {
+            "definition": "the right wing of an army."
+          },
+          {
+            "definition": "a right turn.",
+            "examples": [
+              "he made a right in Dorchester Avenue"
+            ]
+          },
+          {
+            "definition": "a road or entrance on the right.",
+            "examples": [
+              "take the first right over the stream"
+            ]
+          },
+          {
+            "definition": "(especially in the context of boxing) a person's right fist."
+          },
+          {
+            "definition": "a blow given with this.",
+            "examples": [
+              "the young cop swung a terrific right"
+            ]
+          },
+          {
+            "definition": "a grouping or political party favoring conservative views and supporting capitalist economic principles."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "right"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rights"
+          },
+          {
+            "part": "past tense",
+            "variant": "righted"
+          },
+          {
+            "part": "past participle",
+            "variant": "righted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "righting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "restore to a normal or upright position.",
+            "examples": [
+              "we righted the capsized dinghy"
+            ],
+            "synonyms": [
+              "set upright",
+              "turn back over \"the way to right a capsized dinghy\""
+            ]
+          },
+          {
+            "definition": "restore to a normal or correct condition or situation.",
+            "examples": [
+              "righting the economy demanded major cuts in defense spending"
+            ],
+            "synonyms": [
+              "remedy",
+              "put right",
+              "rectify",
+              "retrieve",
+              "fix",
+              "resolve",
+              "sort out",
+              "settle",
+              "square; Morestraighten out",
+              "correct",
+              "repair",
+              "mend",
+              "redress",
+              "make good",
+              "ameliorate",
+              "better \"we must right the situation\""
+            ]
+          },
+          {
+            "definition": "redress or rectify (a wrong or mistaken action).",
+            "examples": [
+              "she was determined to right the wrongs done to her father"
+            ],
+            "synonyms": [
+              "remedy",
+              "put right",
+              "rectify",
+              "retrieve",
+              "fix",
+              "resolve",
+              "sort out",
+              "settle",
+              "square; Morestraighten out",
+              "correct",
+              "repair",
+              "mend",
+              "redress",
+              "make good",
+              "ameliorate",
+              "better \"we must right the situation\""
+            ]
+          },
+          {
+            "definition": "make reparation to (someone) for a wrong done to them.",
+            "examples": [
+              "we'll see you righted"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamationinformal",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "right"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to indicate one's agreement with a suggestion or to acknowledge a statement or order.",
+            "examples": [
+              "“Barry's here.” “Oh, right”"
+            ]
+          },
+          {
+            "definition": "used as a filler in speech or to introduce an utterance, exhortation, or suggestion.",
+            "examples": [
+              "and I didn't think any more of it, right, but Mom said I should take him to a doctor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "right field",
+    "syllables": [
+      "right field"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "nounBaseball",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "right"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the part of the outfield to the right of center field from the perspective of home plate.",
+            "examples": [
+              "a ball hit to right field"
+            ]
+          },
+          {
+            "definition": "the position of the defensive player stationed in right field.",
+            "examples": [
+              "he first gained attention while playing right field"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

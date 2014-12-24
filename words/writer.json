@@ -1,0 +1,85 @@
+[
+  {
+    "word": "writer",
+    "syllables": [
+      "writ",
+      "er"
+    ],
+    "pronunciation": "ˈrīdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "writer"
+          },
+          {
+            "part": "plural noun",
+            "variant": "writers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who has written a particular text.",
+            "examples": [
+              "the writer of the letter"
+            ]
+          },
+          {
+            "definition": "a person who writes books, stories, or articles as a job or regular occupation.",
+            "examples": [
+              "the distinguished travel writer Freya Stark"
+            ],
+            "synonyms": [
+              "author",
+              "wordsmith",
+              "man/woman of letters",
+              "penman; Morenovelist",
+              "essayist",
+              "biographer; journalist",
+              "columnist",
+              "correspondent; scriptwriter",
+              "playwright",
+              "dramatist",
+              "dramaturge",
+              "tragedian; poet; informalscribbler",
+              "scribe",
+              "hack \"my favorite American writer\""
+            ]
+          },
+          {
+            "definition": "a person who writes in a specified way.",
+            "examples": [
+              "Dickens was a prolific writer"
+            ]
+          },
+          {
+            "definition": "a composer of musical works.",
+            "examples": [
+              "a writer of military music"
+            ]
+          },
+          {
+            "definition": "a device that writes data to a storage medium."
+          },
+          {
+            "definition": "a broker who makes an option available for purchase or sells options."
+          },
+          {
+            "definition": "a person who has a specified kind of handwriting.",
+            "examples": [
+              "neat writers"
+            ]
+          },
+          {
+            "definition": "a scribe."
+          },
+          {
+            "definition": "a clerk, especially in the navy or other government offices."
+          }
+        ]
+      }
+    ]
+  }
+]

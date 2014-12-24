@@ -1,0 +1,37 @@
+{
+  "word": "someone",
+  "syllables": [
+    "some",
+    "one"
+  ],
+  "pronunciation": "ˈsəmˌwən",
+  "parts": [
+    {
+      "part": "pronoun",
+      "variants": [
+        {
+          "part": "pronoun",
+          "variant": "someone"
+        },
+        {
+          "part": "pronoun",
+          "variant": "some-one"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "an unknown or unspecified person; some person.",
+          "examples": [
+            "there's someone at the door"
+          ]
+        },
+        {
+          "definition": "a person of importance or authority.",
+          "examples": [
+            "a small-time lawyer keen to be someone"
+          ]
+        }
+      ]
+    }
+  ]
+}

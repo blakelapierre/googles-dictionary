@@ -1,0 +1,179 @@
+[
+  {
+    "word": "bed",
+    "syllables": [
+      "bed"
+    ],
+    "pronunciation": "bed",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "beds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of furniture for sleep or rest, typically a framework with a mattress and coverings.",
+            "examples": [
+              "a large double bed"
+            ],
+            "synonyms": [
+              "cot",
+              "cradle",
+              "crib",
+              "berth; Morebrass bed",
+              "bunk bed",
+              "camp bed",
+              "canopy bed",
+              "captain's bed",
+              "daybed",
+              "featherbed; trademarkHide-A-Bed",
+              "Murphy bed",
+              "sofa bed",
+              "spool bed",
+              "trundle bed",
+              "waterbed",
+              "divan",
+              "futon",
+              "four-poster; informalthe sack",
+              "the hay \"she got into her bed\""
+            ]
+          },
+          {
+            "definition": "a place or article used by a person or animal for sleep or rest.",
+            "examples": [
+              "a bed of straw"
+            ]
+          },
+          {
+            "definition": "the time for sleeping.",
+            "examples": [
+              "a glass of milk before bed"
+            ]
+          },
+          {
+            "definition": "a bed and associated facilities making up a place for a patient in a hospital or for a guest at a hotel.",
+            "examples": [
+              "a round of hospital staff layoffs and bed closings"
+            ]
+          },
+          {
+            "definition": "used with reference to a bed as the typical place for sexual activity.",
+            "examples": [
+              "some men care very little about pleasing their partners in bed"
+            ]
+          },
+          {
+            "definition": "an area of ground, typically in a garden, where flowers and plants are grown.",
+            "examples": [
+              "a bed of tulips"
+            ],
+            "synonyms": [
+              "patch",
+              "plot",
+              "border",
+              "strip \"a flower bed\""
+            ]
+          },
+          {
+            "definition": "a flat base or foundation on which something rests or is supported, in particular.",
+            "examples": [
+              "base, foundation, support, prop, substructure, substratum built on a bed of stones"
+            ]
+          },
+          {
+            "definition": "the foundation of a road or railroad."
+          },
+          {
+            "definition": "the open part of a truck, wagon, or railroad car, where goods are carried."
+          },
+          {
+            "definition": "the flat surface beneath the baize of a billiard table."
+          },
+          {
+            "definition": "a layer or pile of something, in particular."
+          },
+          {
+            "definition": "a layer of food on which other foods are served.",
+            "examples": [
+              "the salad is served on a bed of raw spinach"
+            ]
+          },
+          {
+            "definition": "a layer of rock or other geological material.",
+            "examples": [
+              "a bed of clay"
+            ]
+          },
+          {
+            "definition": "any mass or pile resembling a bed.",
+            "examples": [
+              "pots steaming on the fragrant bed of coals"
+            ]
+          },
+          {
+            "definition": "the bottom of the sea or a lake or river.",
+            "examples": [
+              "a riverbed"
+            ],
+            "synonyms": [
+              "bottom",
+              "floor",
+              "ground \"a river bed\""
+            ]
+          },
+          {
+            "definition": "a place on the seabed where shellfish, especially oysters or mussels, breed or are bred.",
+            "examples": [
+              "mussel beds"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "beds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "settle down to sleep or rest for the night, typically in an improvised place.",
+            "examples": [
+              "he usually bedded down on newspapers in the church porch"
+            ]
+          },
+          {
+            "definition": "settle a person or animal down to sleep or rest for the night."
+          },
+          {
+            "definition": "have sexual intercourse with.",
+            "examples": [
+              "he should bed a woman his own age"
+            ]
+          },
+          {
+            "definition": "transfer (a plant) from a pot or seed tray to a garden plot.",
+            "examples": [
+              "I bedded out these houseplants"
+            ]
+          },
+          {
+            "definition": "fix firmly; embed.",
+            "examples": [
+              "the posts should be firmly bedded in concrete"
+            ]
+          },
+          {
+            "definition": "lay or arrange (something, especially stone) in a layer."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "word": "trinity",
+  "syllables": [
+    "trin",
+    "i",
+    "ty"
+  ],
+  "pronunciation": "ˈtrinədē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "Trinity"
+        },
+        {
+          "part": "noun",
+          "variant": "Holy Trinity"
+        },
+        {
+          "part": "noun",
+          "variant": "the Trinity"
+        },
+        {
+          "part": "noun",
+          "variant": "trinity"
+        },
+        {
+          "part": "plural noun",
+          "variant": "trinities"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the Christian Godhead as one God in three persons: Father, Son, and Holy Spirit."
+        },
+        {
+          "definition": "a group of three people or things.",
+          "examples": [
+            "the wine was the first of a trinity of three excellent vintages"
+          ]
+        },
+        {
+          "definition": "the state of being three.",
+          "examples": [
+            "God is said to be trinity in unity"
+          ]
+        }
+      ]
+    }
+  ]
+}

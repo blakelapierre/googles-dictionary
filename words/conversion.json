@@ -1,0 +1,93 @@
+[
+  {
+    "word": "conversion",
+    "syllables": [
+      "con",
+      "ver",
+      "sion"
+    ],
+    "pronunciation": "kənˈvərZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "conversion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the act or an instance of converting or the process of being converted.",
+            "examples": [
+              "the conversion of food into body tissues"
+            ],
+            "synonyms": [
+              "change",
+              "changing",
+              "transformation",
+              "metamorphosis",
+              "transfiguration",
+              "transmutation",
+              "sea change; humoroustransmogrification \"the conversion of waste into energy\""
+            ]
+          },
+          {
+            "definition": "the fact of changing one's religion or beliefs or the action of persuading someone else to change theirs.",
+            "examples": [
+              "plural noun: conversions"
+            ]
+          },
+          {
+            "definition": "repentance and change to a godly life."
+          },
+          {
+            "definition": "the adaptation of a building for a new purpose.",
+            "examples": [
+              "the conversion of a house into apartments"
+            ]
+          },
+          {
+            "definition": "a building or part of a building that has been adapted in this way.",
+            "examples": [
+              "adaptation, alteration, modification, reconstruction, rebuilding, redevelopment, redesign, renovation, rehabilitation the conversion of the building"
+            ]
+          },
+          {
+            "definition": "the changing of real into personal property, or of joint into separate property, or vice versa."
+          },
+          {
+            "definition": "the manifestation of a mental disturbance as a physical disorder or disease.",
+            "examples": [
+              "conversion disorders"
+            ]
+          },
+          {
+            "definition": "the transposition of the subject and predicate of a proposition according to certain rules to form a new proposition by inference."
+          },
+          {
+            "definition": "the act of scoring an extra point or points after having scored a touchdown."
+          },
+          {
+            "definition": "the act of gaining a first down."
+          },
+          {
+            "definition": "(in the context of online marketing) the proportion of people viewing an advertisement and going on to buy the product, click on a link, etc.",
+            "examples": [
+              "you'll see better conversion rates for your local advertising if you include your physical address on your website"
+            ]
+          },
+          {
+            "definition": "the action of wrongfully dealing with goods in a manner inconsistent with the owner's rights.",
+            "examples": [
+              "he was found guilty of the fraudulent conversion of clients' monies"
+            ]
+          },
+          {
+            "definition": "the change in a quantity's numerical value as a result of using a different unit of measurement."
+          }
+        ]
+      }
+    ]
+  }
+]

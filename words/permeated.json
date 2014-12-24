@@ -1,0 +1,57 @@
+[
+  {
+    "word": "permeate",
+    "syllables": [
+      "per",
+      "me",
+      "ate"
+    ],
+    "pronunciation": "ˈpərmēˌāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "permeated"
+          },
+          {
+            "part": "past participle",
+            "variant": "permeated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spread throughout (something); pervade.",
+            "examples": [
+              "the aroma of soup permeated the air"
+            ],
+            "synonyms": [
+              "pervade",
+              "spread through",
+              "fill",
+              "filter through",
+              "diffuse through",
+              "imbue",
+              "penetrate",
+              "pass through",
+              "percolate through",
+              "perfuse",
+              "charge",
+              "suffuse",
+              "steep",
+              "impregnate",
+              "inform More\"the delicious smell permeated the entire apartment\"soak through",
+              "penetrate",
+              "seep through",
+              "saturate",
+              "transfuse",
+              "percolate through",
+              "leach through \"these resins are able to permeate the timber\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

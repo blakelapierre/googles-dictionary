@@ -1,0 +1,113 @@
+{
+  "word": "consume",
+  "syllables": [
+    "con",
+    "sume"
+  ],
+  "pronunciation": "kənˈso͞om",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "consumed"
+        },
+        {
+          "part": "past participle",
+          "variant": "consumed"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "eat, drink, or ingest (food or drink).",
+          "examples": [
+            "people consume a good deal of sugar in drinks"
+          ],
+          "synonyms": [
+            "eat",
+            "devour",
+            "ingest",
+            "swallow",
+            "gobble up",
+            "wolf down",
+            "guzzle",
+            "feast on",
+            "snack on; Moredrink",
+            "gulp down",
+            "imbibe; informaltuck into",
+            "put away",
+            "polish off",
+            "dispose of",
+            "pig out on",
+            "down",
+            "swill",
+            "scarf (down/up) \"vast amounts of food and drink were consumed\""
+          ]
+        },
+        {
+          "definition": "buy (goods or services)."
+        },
+        {
+          "definition": "use up (a resource).",
+          "examples": [
+            "these machines consume 5 percent of the natural gas in the U.S"
+          ],
+          "synonyms": [
+            "use (up)",
+            "utilize",
+            "expend; Moredeplete",
+            "exhaust; waste",
+            "squander",
+            "drain",
+            "dissipate",
+            "fritter away \"natural resources are being consumed at an alarming rate\""
+          ]
+        },
+        {
+          "definition": "(especially of a fire) completely destroy.",
+          "examples": [
+            "the fire spread rapidly, consuming many homes"
+          ],
+          "synonyms": [
+            "destroy",
+            "demolish",
+            "lay waste",
+            "wipe out",
+            "annihilate",
+            "devastate",
+            "gut",
+            "ruin",
+            "wreck \"the fire consumed fifty houses\""
+          ]
+        },
+        {
+          "definition": "(of a feeling) absorb all of the attention and energy of (someone).",
+          "examples": [
+            "Carolyn was consumed with guilt"
+          ],
+          "synonyms": [
+            "eat up",
+            "devour",
+            "obsess",
+            "grip",
+            "overwhelm; Moreabsorb",
+            "preoccupy \"Carolyn was consumed with guilt\"absorbing",
+            "compelling",
+            "compulsive",
+            "obsessive",
+            "overwhelming; intense",
+            "ardent",
+            "strong",
+            "powerful",
+            "burning",
+            "raging",
+            "fervid",
+            "profound",
+            "deep-seated \"his consuming passion for opera\""
+          ]
+        }
+      ]
+    }
+  ]
+}

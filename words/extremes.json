@@ -1,0 +1,60 @@
+{
+  "word": "extremes",
+  "syllables": [
+    "ex",
+    "treme"
+  ],
+  "pronunciation": "ikˈstrēm",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "plural noun",
+          "variant": "extremes"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "either of two abstract things that are as different from each other as possible.",
+          "examples": [
+            "unbridled talk at one extreme and total silence at the other"
+          ],
+          "synonyms": [
+            "opposite",
+            "antithesis",
+            "side of the coin",
+            "(opposite) pole",
+            "antipode \"the two extremes\""
+          ]
+        },
+        {
+          "definition": "the highest or most extreme degree of something.",
+          "examples": [
+            "extremes of temperature"
+          ],
+          "synonyms": [
+            "limit",
+            "extremity",
+            "highest/greatest degree",
+            "maximum",
+            "height",
+            "top",
+            "zenith",
+            "peak",
+            "ne plus ultra \"this attitude is taken to its extreme in the following quote\""
+          ]
+        },
+        {
+          "definition": "a very severe or serious act.",
+          "examples": [
+            "he was unwilling to go to the extreme of civil war"
+          ]
+        },
+        {
+          "definition": "the subject or predicate in a proposition, or the major or minor term in a syllogism (as contrasted with the middle term)."
+        }
+      ]
+    }
+  ]
+}

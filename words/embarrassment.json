@@ -1,0 +1,71 @@
+[
+  {
+    "word": "embarrassment",
+    "syllables": [
+      "em",
+      "bar",
+      "rass",
+      "ment"
+    ],
+    "pronunciation": "əmˈberəsmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "embarrassment"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of self-consciousness, shame, or awkwardness.",
+            "examples": [
+              "I turned red with embarrassment"
+            ],
+            "synonyms": [
+              "mortification",
+              "humiliation",
+              "shame",
+              "shamefacedness",
+              "chagrin",
+              "awkwardness",
+              "self-consciousness",
+              "sheepishness",
+              "discomfort",
+              "discomfiture",
+              "discomposure",
+              "agitation",
+              "distress; Moreshyness",
+              "bashfulness \"he was scarlet with embarrassment\""
+            ]
+          },
+          {
+            "definition": "a person or thing causing embarrassment.",
+            "examples": [
+              "plural noun: embarrassments"
+            ]
+          },
+          {
+            "definition": "financial difficulty.",
+            "examples": [
+              "his temporary financial embarrassment"
+            ],
+            "synonyms": [
+              "difficulty",
+              "predicament",
+              "plight",
+              "problem",
+              "mess",
+              "imbroglio; Moreinformalbind",
+              "jam",
+              "pickle",
+              "fix",
+              "scrape \"his current financial embarrassment\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

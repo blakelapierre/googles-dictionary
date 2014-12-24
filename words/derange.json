@@ -1,0 +1,43 @@
+{
+  "word": "derange",
+  "syllables": [
+    "de",
+    "range"
+  ],
+  "pronunciation": "dəˈrānj",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "deranged"
+        },
+        {
+          "part": "past participle",
+          "variant": "deranged"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "cause (someone) to become insane.",
+          "examples": [
+            "that business last month must have deranged him a bit"
+          ]
+        },
+        {
+          "definition": "throw (something) into confusion; cause to act irregularly.",
+          "examples": [
+            "stress deranges the immune system"
+          ]
+        },
+        {
+          "definition": "intrude on; interrupt.",
+          "examples": [
+            "I am sorry to have deranged you for so small a matter"
+          ]
+        }
+      ]
+    }
+  ]
+}

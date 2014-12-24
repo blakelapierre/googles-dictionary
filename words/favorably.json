@@ -1,0 +1,48 @@
+[
+  {
+    "word": "favorably",
+    "syllables": [
+      "fa",
+      "vor",
+      "a",
+      "bly"
+    ],
+    "pronunciation": "ˈfāv(ə)rəblē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "favourably"
+          },
+          {
+            "part": "adverb",
+            "variant": "favorably"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with approval.",
+            "examples": [
+              "the audience responded very favorably"
+            ],
+            "synonyms": [
+              "positively",
+              "approvingly",
+              "sympathetically",
+              "enthusiastically",
+              "appreciatively \"judged favorably by their superiors\""
+            ]
+          },
+          {
+            "definition": "to the advantage of someone or something.",
+            "examples": [
+              "the deal will work out favorably for the company"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

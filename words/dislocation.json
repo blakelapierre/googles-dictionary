@@ -1,0 +1,44 @@
+[
+  {
+    "word": "dislocation",
+    "syllables": [
+      "dis",
+      "lo",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "ˌdislōˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dislocation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dislocations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "disturbance from a proper, original, or usual place or state.",
+            "examples": [
+              "he fell prey to loneliness and a wrenching sense of dislocation"
+            ]
+          },
+          {
+            "definition": "injury or disability caused when the normal position of a joint or other part of the body is disturbed.",
+            "examples": [
+              "congenital dislocation of the hip"
+            ]
+          },
+          {
+            "definition": "a displacement of part of a crystal lattice structure."
+          }
+        ]
+      }
+    ]
+  }
+]

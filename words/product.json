@@ -1,0 +1,79 @@
+[
+  {
+    "word": "product",
+    "syllables": [
+      "prod",
+      "uct"
+    ],
+    "pronunciation": "ˈprädəkt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "product"
+          },
+          {
+            "part": "plural noun",
+            "variant": "products"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an article or substance that is manufactured or refined for sale.",
+            "examples": [
+              "marketing products and services"
+            ]
+          },
+          {
+            "definition": "a substance produced during a natural, chemical, or manufacturing process.",
+            "examples": [
+              "waste products"
+            ],
+            "synonyms": [
+              "artifact",
+              "commodity",
+              "manufactured article; Morecreation",
+              "invention; goods",
+              "wares",
+              "merchandise",
+              "produce \"a household product\""
+            ]
+          },
+          {
+            "definition": "a thing or person that is the result of an action or process.",
+            "examples": [
+              "his daughter, the product of his first marriage"
+            ],
+            "synonyms": [
+              "result",
+              "consequence",
+              "outcome",
+              "effect",
+              "upshot",
+              "fruit",
+              "by-product",
+              "spin-off \"his skill is a product of experience\""
+            ]
+          },
+          {
+            "definition": "a person whose character and identity have been formed by a particular period or situation.",
+            "examples": [
+              "an aging academic who is a product of the 1960s"
+            ]
+          },
+          {
+            "definition": "commercially manufactured articles, especially recordings, viewed collectively.",
+            "examples": [
+              "too much product of too little quality"
+            ]
+          },
+          {
+            "definition": "a quantity obtained by multiplying quantities together, or from an analogous algebraic operation."
+          }
+        ]
+      }
+    ]
+  }
+]

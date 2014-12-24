@@ -1,0 +1,109 @@
+[
+  {
+    "word": "eccentric",
+    "syllables": [
+      "ec",
+      "cen",
+      "tric"
+    ],
+    "pronunciation": "ikˈsentrik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "eccentric"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or their behavior) unconventional and slightly strange.",
+            "examples": [
+              "my favorite aunt is very eccentric"
+            ],
+            "synonyms": [
+              "unconventional",
+              "uncommon",
+              "abnormal",
+              "irregular",
+              "aberrant",
+              "anomalous",
+              "odd",
+              "queer",
+              "strange",
+              "peculiar",
+              "weird",
+              "bizarre",
+              "outlandish",
+              "freakish",
+              "extraordinary; Moreidiosyncratic",
+              "quirky",
+              "nonconformist",
+              "outré; informalway out",
+              "offbeat",
+              "freaky",
+              "oddball",
+              "wacky",
+              "kooky \"eccentric behavior\""
+            ],
+            "antonyms": [
+              "conventional"
+            ]
+          },
+          {
+            "definition": "(of a thing) not placed centrally or not having its axis or other part placed centrally."
+          },
+          {
+            "definition": "(of a circle) not centered on the same point as another."
+          },
+          {
+            "definition": "(of an orbit) not circular."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "eccentric"
+          },
+          {
+            "part": "plural noun",
+            "variant": "eccentrics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person of unconventional and slightly strange views or behavior.",
+            "examples": [
+              "he enjoys a colorful reputation as an engaging eccentric"
+            ],
+            "synonyms": [
+              "oddity",
+              "odd fellow",
+              "character",
+              "individualist",
+              "individual",
+              "free spirit; Moremisfit; informaloddball",
+              "odd duck",
+              "weirdo",
+              "freak",
+              "nut",
+              "head case",
+              "crank",
+              "wacko",
+              "kook",
+              "screwball",
+              "crackpot \"he was something of an eccentric\""
+            ]
+          },
+          {
+            "definition": "a disc or wheel mounted eccentrically on a revolving shaft in order to transform rotation into backward-and-forward motion, e.g., a cam in an internal combustion engine."
+          }
+        ]
+      }
+    ]
+  }
+]

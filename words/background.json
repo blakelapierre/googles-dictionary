@@ -1,0 +1,100 @@
+[
+  {
+    "word": "background",
+    "syllables": [
+      "back",
+      "ground"
+    ],
+    "pronunciation": "ˈbakˌɡround",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "background"
+          },
+          {
+            "part": "plural noun",
+            "variant": "backgrounds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the area or scenery behind the main object of contemplation, especially when perceived as a framework for it.",
+            "examples": [
+              "the house stands against a background of sheltering trees"
+            ],
+            "synonyms": [
+              "backdrop",
+              "backcloth",
+              "surrounding(s)",
+              "setting",
+              "scene \"a background of palm trees\""
+            ]
+          },
+          {
+            "definition": "the part of a picture or design that serves as a setting to the main figures or objects, or that appears furthest from the viewer.",
+            "examples": [
+              "the background shows a landscape of domes and minarets"
+            ]
+          },
+          {
+            "definition": "a position or function that is not prominent or conspicuous.",
+            "examples": [
+              "after that evening, Athens remained in the background"
+            ]
+          },
+          {
+            "definition": "used to describe tasks or processes running on a computer that do not need input from the user.",
+            "examples": [
+              "programs can be left running in the background"
+            ]
+          },
+          {
+            "definition": "low-intensity radiation from radioisotopes present in the natural environment."
+          },
+          {
+            "definition": "unwanted signals, such as noise in the reception or recording of sound."
+          },
+          {
+            "definition": "the circumstances or situation prevailing at a particular time or underlying a particular event.",
+            "examples": [
+              "the political and economic background"
+            ],
+            "synonyms": [
+              "circumstances",
+              "context",
+              "conditions",
+              "situation",
+              "environment",
+              "milieu",
+              "scene",
+              "scenario \"the political background\""
+            ]
+          },
+          {
+            "definition": "a person's education, experience, and social circumstances.",
+            "examples": [
+              "she has a background in nursing"
+            ],
+            "synonyms": [
+              "social circumstances",
+              "family circumstances; Moreenvironment",
+              "class",
+              "culture",
+              "tradition; upbringing \"students from many different backgrounds\"experience",
+              "record",
+              "history",
+              "past",
+              "training",
+              "education",
+              "grounding",
+              "knowledge; backstory \"her nursing background\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

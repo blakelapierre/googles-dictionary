@@ -1,0 +1,35 @@
+{
+  "word": "SEAL",
+  "syllables": [
+    "SEAL"
+  ],
+  "pronunciation": "sēl",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "SEAL"
+        },
+        {
+          "part": "plural noun",
+          "variant": "SEALs"
+        },
+        {
+          "part": "noun",
+          "variant": "Seal"
+        },
+        {
+          "part": "plural noun",
+          "variant": "Seals"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a member of an elite force within the US Navy specializing in guerrilla warfare and counterinsurgency."
+        }
+      ]
+    }
+  ]
+}

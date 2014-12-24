@@ -1,0 +1,140 @@
+{
+  "word": "fire",
+  "syllables": [
+    "fire"
+  ],
+  "pronunciation": "ˈfī(ə)r",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "past tense",
+          "variant": "fired"
+        },
+        {
+          "part": "past participle",
+          "variant": "fired"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "discharge a gun or other weapon in order to explosively propel (a bullet or projectile).",
+          "examples": [
+            "he fired a shot at the retreating prisoners"
+          ],
+          "synonyms": [
+            "launch",
+            "shoot",
+            "discharge",
+            "let fly with More\"howitzers firing shells\"shoot",
+            "discharge",
+            "let off",
+            "set off \"someone fired a gun\""
+          ]
+        },
+        {
+          "definition": "discharge (a gun or other weapon).",
+          "examples": [
+            "another gang fired a pistol"
+          ]
+        },
+        {
+          "definition": "(of a gun) be discharged."
+        },
+        {
+          "definition": "direct (questions or statements, especially unwelcome ones) toward someone in rapid succession.",
+          "examples": [
+            "they fired questions at me for what seemed like ages"
+          ]
+        },
+        {
+          "definition": "send a message aggressively, especially as one of a series.",
+          "examples": [
+            "he fired off a letter informing her that he regarded the matter with the utmost seriousness"
+          ]
+        },
+        {
+          "definition": "dismiss (an employee) from a job.",
+          "examples": [
+            "having to fire men who've been with me for years"
+          ],
+          "synonyms": [
+            "dismiss",
+            "discharge",
+            "give someone their notice",
+            "lay off",
+            "let go",
+            "get rid of",
+            "ax",
+            "cashier; Moreinformalsack",
+            "give someone the sack",
+            "boot out",
+            "give someone the boot",
+            "give someone their marching orders",
+            "pink-slip; make redundant \"he was fired\""
+          ]
+        },
+        {
+          "definition": "supply (a furnace, engine, boiler, or power station) with fuel."
+        },
+        {
+          "definition": "(of an internal combustion engine, or a cylinder in one) undergo ignition of its fuel when started.",
+          "examples": [
+            "the engine fired and she pushed her foot down on the accelerator"
+          ],
+          "synonyms": [
+            "start",
+            "get started",
+            "get going \"the engine fired\""
+          ]
+        },
+        {
+          "definition": "set fire to.",
+          "examples": [
+            "I fired the straw"
+          ]
+        },
+        {
+          "definition": "stimulate or excite (the imagination or an emotion).",
+          "examples": [
+            "India fired my imagination"
+          ],
+          "synonyms": [
+            "stimulate",
+            "stir up",
+            "excite",
+            "awaken",
+            "arouse",
+            "rouse",
+            "inflame",
+            "animate",
+            "inspire",
+            "motivate \"the stories fired my imagination\""
+          ]
+        },
+        {
+          "definition": "fill (someone) with enthusiasm.",
+          "examples": [
+            "in the locker room they were really fired up"
+          ]
+        },
+        {
+          "definition": "show sudden anger.",
+          "examples": [
+            "If I were to hear anyone disparage you, I would fire up in a flash"
+          ]
+        },
+        {
+          "definition": "bake or dry (pottery, bricks, etc.) in a kiln."
+        },
+        {
+          "definition": "start (an engine or other device).",
+          "examples": [
+            "with a flick of his wrist he fired up the chainsaw"
+          ]
+        }
+      ]
+    }
+  ]
+}

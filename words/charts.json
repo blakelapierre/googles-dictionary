@@ -1,0 +1,108 @@
+[
+  {
+    "word": "chart",
+    "syllables": [
+      "chart"
+    ],
+    "pronunciation": "CHärt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "charts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sheet of information in the form of a table, graph, or diagram.",
+            "examples": [
+              "a chart showing how much do-it-yourself costs compared with retail"
+            ],
+            "synonyms": [
+              "graph",
+              "table",
+              "diagram",
+              "histogram; Morebar chart",
+              "pie chart",
+              "flow chart; graphic \"check your ideal weight on the chart\""
+            ]
+          },
+          {
+            "definition": "a weekly listing of the current best-selling pop records.",
+            "examples": [
+              "plural noun: the charts"
+            ]
+          },
+          {
+            "definition": "a geographical map or plan, especially one used for navigation by sea or air."
+          },
+          {
+            "definition": "a written record of information about a patient.",
+            "examples": [
+              "scribbled on a patient's chart"
+            ]
+          },
+          {
+            "definition": "a map showing the positions of the planets at the time of someone's birth, from which astrologers are said to be able to deduce character or potential.",
+            "examples": [
+              "noun: birth chart; plural noun: birth charts"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "charts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a map of (an area)."
+          },
+          {
+            "definition": "plot (a course) on a chart.",
+            "examples": [
+              "the pilot found his craft taking a route he had not charted"
+            ],
+            "synonyms": [
+              "follow",
+              "trace",
+              "outline",
+              "describe",
+              "detail",
+              "record",
+              "document",
+              "chronicle",
+              "log \"the book charted his progress\""
+            ]
+          },
+          {
+            "definition": "record the progress or development of.",
+            "examples": [
+              "the poems chart his descent into madness"
+            ],
+            "synonyms": [
+              "tabulate",
+              "plot",
+              "graph",
+              "record",
+              "register",
+              "represent; make a chart/diagram of \"the changes were charted accurately\""
+            ]
+          },
+          {
+            "definition": "(of a record) enter the weekly music charts at a particular position.",
+            "examples": [
+              "the record will probably chart at about No. 74"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

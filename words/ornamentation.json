@@ -1,0 +1,44 @@
+{
+  "word": "ornamentation",
+  "syllables": [
+    "or",
+    "na",
+    "men",
+    "ta",
+    "tion"
+  ],
+  "pronunciation": "ˌôrnəmenˈtāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "ornamentation"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "things added to something to provide decoration.",
+          "examples": [
+            "a baroque chandelier with plasterwork ornamentation"
+          ],
+          "synonyms": [
+            "decoration",
+            "adornment",
+            "embellishment",
+            "ornament",
+            "trimming",
+            "accessories \"he prefers furniture with very straight lines and little ornamentation\""
+          ]
+        },
+        {
+          "definition": "the action of decorating something or making it more elaborate.",
+          "examples": [
+            "the rhetorical ornamentation of text"
+          ]
+        }
+      ]
+    }
+  ]
+}

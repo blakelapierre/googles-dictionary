@@ -1,0 +1,272 @@
+{
+  "word": "advance",
+  "syllables": [
+    "ad",
+    "vance"
+  ],
+  "pronunciation": "ədˈvans",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "advance"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "advances"
+        },
+        {
+          "part": "past tense",
+          "variant": "advanced"
+        },
+        {
+          "part": "past participle",
+          "variant": "advanced"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "advancing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "move forward, typically in a purposeful way.",
+          "examples": [
+            "the troops advanced on the capital"
+          ],
+          "synonyms": [
+            "move forward",
+            "proceed",
+            "press on",
+            "push on",
+            "push forward",
+            "make progress",
+            "make headway",
+            "gain ground",
+            "approach",
+            "come closer",
+            "draw nearer",
+            "near \"the battalion advanced rapidly\""
+          ],
+          "antonyms": [
+            "retreat"
+          ]
+        },
+        {
+          "definition": "make progress.",
+          "examples": [
+            "our knowledge is advancing all the time"
+          ],
+          "synonyms": [
+            "promote",
+            "further",
+            "help",
+            "aid",
+            "assist",
+            "boost",
+            "strengthen",
+            "improve",
+            "benefit",
+            "foster More\"the move advanced his career\"progress",
+            "make progress",
+            "make headway",
+            "develop",
+            "evolve",
+            "make strides",
+            "move forward (in leaps and bounds)",
+            "move ahead; improve",
+            "thrive",
+            "flourish",
+            "prosper \"our technology has advanced in the last few years\""
+          ],
+          "antonyms": [
+            "impede",
+            "hinder",
+            "stagnate"
+          ]
+        },
+        {
+          "definition": "cause (an event) to occur at an earlier date than planned.",
+          "examples": [
+            "I advanced the date of the meeting by several weeks"
+          ],
+          "synonyms": [
+            "bring forward",
+            "put forward",
+            "move forward \"the court may advance the date of the hearing\""
+          ],
+          "antonyms": [
+            "postpone"
+          ]
+        },
+        {
+          "definition": "promote or help the progress of (a person, cause, or plan).",
+          "examples": [
+            "it was a chance to advance his own interests"
+          ]
+        },
+        {
+          "definition": "put forward (a theory or suggestion).",
+          "examples": [
+            "the hypothesis I wish to advance in this article"
+          ],
+          "synonyms": [
+            "put forward",
+            "present",
+            "submit",
+            "suggest",
+            "propose",
+            "introduce",
+            "offer",
+            "adduce",
+            "moot \"the hypothesis I wish to advance in this article\""
+          ],
+          "antonyms": [
+            "retract"
+          ]
+        },
+        {
+          "definition": "(especially of shares of stock) increase in price.",
+          "examples": [
+            "two stocks advanced for every one that fell"
+          ]
+        },
+        {
+          "definition": "lend (money) to (someone).",
+          "examples": [
+            "the bank advanced them a loan"
+          ],
+          "synonyms": [
+            "lend",
+            "loan",
+            "put up",
+            "come up with \"a relative advanced him some money\""
+          ],
+          "antonyms": [
+            "borrow"
+          ]
+        },
+        {
+          "definition": "pay (money) to (someone) before it is due.",
+          "examples": [
+            "he advanced me a month's salary"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "advance"
+        },
+        {
+          "part": "plural noun",
+          "variant": "advances"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "a forward movement.",
+          "examples": [
+            "the rebels' advance on Madrid was well under way"
+          ],
+          "synonyms": [
+            "progress",
+            "forward movement; approach \"the advance of the aggressors\""
+          ]
+        },
+        {
+          "definition": "a development or improvement.",
+          "examples": [
+            "genuine advances in engineering techniques"
+          ],
+          "synonyms": [
+            "breakthrough",
+            "development",
+            "step forward",
+            "step in the right direction",
+            "(quantum) leap; Morefind",
+            "finding",
+            "discovery",
+            "invention \"a significant medical advance\""
+          ]
+        },
+        {
+          "definition": "an increase or rise in amount, value, or price.",
+          "examples": [
+            "bond prices posted vigorous advances"
+          ],
+          "synonyms": [
+            "increase",
+            "rise",
+            "upturn",
+            "upsurge",
+            "upswing",
+            "growth; informalhike \"share prices showed significant advances\""
+          ]
+        },
+        {
+          "definition": "an amount of money paid before it is due or for work only partly completed.",
+          "examples": [
+            "the author was paid a $250,000 advance"
+          ],
+          "synonyms": [
+            "down payment",
+            "retainer",
+            "prepayment",
+            "deposit",
+            "front money",
+            "money up front \"the writer is going to be given a huge advance\""
+          ]
+        },
+        {
+          "definition": "a loan.",
+          "examples": [
+            "an advance from the bank"
+          ]
+        },
+        {
+          "definition": "an approach made to someone, typically with the aim of initiating a sexual encounter.",
+          "examples": [
+            "women accused him of making improper advances"
+          ],
+          "synonyms": [
+            "pass",
+            "proposition \"unwelcome sexual advances\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "advance"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "done, sent, or supplied beforehand.",
+          "examples": [
+            "advance notice"
+          ],
+          "synonyms": [
+            "preliminary",
+            "sent (on) ahead",
+            "first",
+            "exploratory; Morepilot",
+            "test",
+            "trial \"an advance party of settlers\"early",
+            "prior",
+            "beforehand \"advance warning\""
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "word": "universal",
+    "syllables": [
+      "u",
+      "ni",
+      "ver",
+      "sal"
+    ],
+    "pronunciation": "ˌyo͞onəˈvərsəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "universal"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, affecting, or done by all people or things in the world or in a particular group; applicable to all cases.",
+            "examples": [
+              "universal adult suffrage"
+            ],
+            "synonyms": [
+              "general",
+              "ubiquitous",
+              "comprehensive",
+              "common",
+              "omnipresent",
+              "all-inclusive",
+              "all-embracing",
+              "across-the-board; Moreglobal",
+              "worldwide",
+              "international",
+              "widespread; formalcatholic \"the universal features of language\""
+            ]
+          },
+          {
+            "definition": "denoting a proposition in which something is asserted of all of a class."
+          },
+          {
+            "definition": "denoting or relating to a grammatical rule, set of rules, or other linguistic feature that is found in all languages."
+          },
+          {
+            "definition": "(of a tool or machine) adjustable to or appropriate for all requirements; not restricted to a single purpose or position."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "universal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "universals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing having universal effect, currency, or application, in particular."
+          },
+          {
+            "definition": "a universal proposition."
+          },
+          {
+            "definition": "a term or concept of general application."
+          },
+          {
+            "definition": "a nature or essence signified by a general term."
+          },
+          {
+            "definition": "a universal grammatical rule or linguistic feature."
+          }
+        ]
+      }
+    ]
+  }
+]

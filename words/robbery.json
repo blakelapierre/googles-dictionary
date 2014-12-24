@@ -1,0 +1,54 @@
+{
+  "word": "robbery",
+  "syllables": [
+    "rob",
+    "ber",
+    "y"
+  ],
+  "pronunciation": "ˈräb(ə)rē",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "robbery"
+        },
+        {
+          "part": "plural noun",
+          "variant": "robberies"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the action of robbing a person or place.",
+          "examples": [
+            "he was involved in drugs, violence, extortion, and robbery"
+          ],
+          "synonyms": [
+            "burglary",
+            "theft",
+            "thievery",
+            "stealing",
+            "breaking and entering",
+            "housebreaking",
+            "larceny",
+            "shoplifting",
+            "purse-snatching; Moreembezzlement",
+            "fraud; holdup",
+            "break-in",
+            "raid; informalmugging",
+            "stickup",
+            "heist \"they were arrested for the robbery\""
+          ]
+        },
+        {
+          "definition": "unashamed swindling or overcharging.",
+          "examples": [
+            "a swindle; Moreinformala rip-off, a gyp, a con, a con job \"Six bucks? That's robbery!\"Morea rip-off, a gyp, a con, a con job Six bucks? That's robbery!"
+          ]
+        }
+      ]
+    }
+  ]
+}

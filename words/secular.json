@@ -1,0 +1,76 @@
+[
+  {
+    "word": "secular",
+    "syllables": [
+      "sec",
+      "u",
+      "lar"
+    ],
+    "pronunciation": "ˈsekyələr",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "secular"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting attitudes, activities, or other things that have no religious or spiritual basis.",
+            "examples": [
+              "secular buildings"
+            ],
+            "synonyms": [
+              "nonreligious",
+              "areligious",
+              "lay",
+              "temporal",
+              "worldly",
+              "earthly",
+              "profane; formallaic \"secular music\""
+            ],
+            "antonyms": [
+              "holy",
+              "religious"
+            ]
+          },
+          {
+            "definition": "(of clergy) not subject to or bound by religious rule; not belonging to or living in a monastic or other order."
+          },
+          {
+            "definition": "of or denoting slow changes in the motion of the sun or planets."
+          },
+          {
+            "definition": "(of a fluctuation or trend) occurring or persisting over an indefinitely long period.",
+            "examples": [
+              "there is evidence that the slump is not cyclical but secular"
+            ]
+          },
+          {
+            "definition": "occurring once every century or similarly long period (used especially in reference to celebratory games in ancient Rome)."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "secular"
+          },
+          {
+            "part": "plural noun",
+            "variant": "seculars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a secular priest."
+          }
+        ]
+      }
+    ]
+  }
+]

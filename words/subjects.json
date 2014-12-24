@@ -1,0 +1,32 @@
+[
+  {
+    "word": "subject",
+    "syllables": [
+      "sub",
+      "ject"
+    ],
+    "pronunciation": "ˈsəbjəktsəbˈjekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "subjects"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "subjects"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

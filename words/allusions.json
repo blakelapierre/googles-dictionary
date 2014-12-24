@@ -1,0 +1,42 @@
+[
+  {
+    "word": "allusion",
+    "syllables": [
+      "al",
+      "lu",
+      "sion"
+    ],
+    "pronunciation": "əˈlo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "allusions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.",
+            "examples": [
+              "an allusion to Shakespeare"
+            ],
+            "synonyms": [
+              "reference to",
+              "mention of",
+              "suggestion of",
+              "hint to",
+              "intimation of",
+              "comment on",
+              "remark on \"the town's name is an allusion to its founding family\""
+            ]
+          },
+          {
+            "definition": "the practice of making allusions, especially as an artistic device."
+          }
+        ]
+      }
+    ]
+  }
+]

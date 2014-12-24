@@ -1,0 +1,99 @@
+[
+  {
+    "word": "diagram",
+    "syllables": [
+      "di",
+      "a",
+      "gram"
+    ],
+    "pronunciation": "ˈdīəˌɡram",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "diagram"
+          },
+          {
+            "part": "plural noun",
+            "variant": "diagrams"
+          },
+          {
+            "part": "noun",
+            "variant": "diag."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a simplified drawing showing the appearance, structure, or workings of something; a schematic representation.",
+            "examples": [
+              "a diagram of the living room"
+            ],
+            "synonyms": [
+              "drawing",
+              "line drawing",
+              "sketch",
+              "representation",
+              "draft",
+              "illustration",
+              "picture",
+              "plan",
+              "outline",
+              "delineation",
+              "figure; graphic \"Jackson's diagrams show the dramatic effects of erosion since 1948\""
+            ]
+          },
+          {
+            "definition": "a figure composed of lines that is used to illustrate a definition or statement or to aid in the proof of a proposition."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "diagram"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "diagrams"
+          },
+          {
+            "part": "past tense",
+            "variant": "diagrammed"
+          },
+          {
+            "part": "past participle",
+            "variant": "diagrammed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "diagramming"
+          },
+          {
+            "part": "past tense",
+            "variant": "diagramed"
+          },
+          {
+            "part": "past participle",
+            "variant": "diagramed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "diagraming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "represent (something) in graphic form.",
+            "examples": [
+              "the experiment is diagramed on page fourteen"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "word": "view",
+  "syllables": [
+    "view"
+  ],
+  "pronunciation": "vyo͞o",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "view"
+        },
+        {
+          "part": "plural noun",
+          "variant": "views"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the ability to see something or to be seen from a particular place.",
+          "examples": [
+            "the end of the tunnel came into view"
+          ],
+          "synonyms": [
+            "sight",
+            "perspective",
+            "vision",
+            "visibility \"the church came into view\""
+          ]
+        },
+        {
+          "definition": "a sight or prospect, typically of attractive natural scenery, that can be taken in by the eye from a particular place.",
+          "examples": [
+            "a fine view of the castle"
+          ],
+          "synonyms": [
+            "outlook",
+            "prospect",
+            "panorama",
+            "vista",
+            "scene",
+            "aspect",
+            "perspective",
+            "spectacle",
+            "sight; Morescenery",
+            "landscape \"the view from her apartment\""
+          ]
+        },
+        {
+          "definition": "a work of art depicting an attractive view."
+        },
+        {
+          "definition": "the visual appearance or an image of something when looked at in a particular way.",
+          "examples": [
+            "an aerial view of the military earthworks"
+          ]
+        },
+        {
+          "definition": "an inspection of things for sale by prospective purchasers, especially of works of art at an exhibition."
+        },
+        {
+          "definition": "(in court proceedings) a formal inspection by the judge and jury of the scene of a crime or property mentioned in evidence."
+        },
+        {
+          "definition": "a particular way of considering or regarding something; an attitude or opinion.",
+          "examples": [
+            "strong political views"
+          ],
+          "synonyms": [
+            "opinion",
+            "point of view",
+            "viewpoint",
+            "belief",
+            "judgment",
+            "thinking",
+            "notion",
+            "idea",
+            "conviction",
+            "persuasion",
+            "attitude",
+            "feeling",
+            "sentiment",
+            "concept",
+            "hypothesis",
+            "theory; Morestance",
+            "standpoint",
+            "philosophy",
+            "doctrine",
+            "dogma",
+            "approach",
+            "take \"we agree with this view\""
+          ]
+        }
+      ]
+    },
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "view"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "views"
+        },
+        {
+          "part": "past tense",
+          "variant": "viewed"
+        },
+        {
+          "part": "past participle",
+          "variant": "viewed"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "viewing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "look at or inspect (something).",
+          "examples": [
+            "the public can view the famous hall with its unique staircase"
+          ],
+          "synonyms": [
+            "look at",
+            "eye",
+            "observe",
+            "gaze at",
+            "stare at",
+            "ogle",
+            "contemplate",
+            "watch",
+            "scan",
+            "regard",
+            "take in",
+            "survey",
+            "inspect",
+            "scrutinize; Moreinformalcheck out",
+            "get a load of",
+            "eyeball; literaryespy",
+            "behold \"they viewed the landscape\""
+          ]
+        },
+        {
+          "definition": "watch (something) on television."
+        },
+        {
+          "definition": "see (a fox) break cover."
+        },
+        {
+          "definition": "regard in a particular light or with a particular attitude.",
+          "examples": [
+            "farmers are viewing the rise in rabbit numbers with concern"
+          ],
+          "synonyms": [
+            "consider",
+            "regard",
+            "look upon",
+            "see",
+            "perceive",
+            "judge",
+            "deem",
+            "reckon \"the law was viewed as a last resort\""
+          ]
+        }
+      ]
+    }
+  ]
+}

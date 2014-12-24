@@ -1,0 +1,71 @@
+[
+  {
+    "word": "vote",
+    "syllables": [
+      "vote"
+    ],
+    "pronunciation": "vōt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "voting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give or register a vote.",
+            "examples": [
+              "they voted against the resolution"
+            ],
+            "synonyms": [
+              "go to the polls",
+              "cast one's vote",
+              "cast one's ballot \"only half of them voted\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to gain or lose a particular post or honor by means of a vote.",
+            "examples": [
+              "incompetent judges are voted out of office"
+            ],
+            "synonyms": [
+              "elect",
+              "return",
+              "select",
+              "choose",
+              "pick",
+              "adopt",
+              "appoint",
+              "designate",
+              "opt for",
+              "decide on \"he was voted in as secretary\""
+            ]
+          },
+          {
+            "definition": "used to express a wish to follow a particular course of action.",
+            "examples": [
+              "I vote we have one more game"
+            ],
+            "synonyms": [
+              "suggest",
+              "propose",
+              "recommend",
+              "advocate",
+              "move",
+              "submit \"I vote we have one more game\""
+            ]
+          },
+          {
+            "definition": "(of a legislature) grant or confer by vote."
+          },
+          {
+            "definition": "reject something by means of a vote."
+          }
+        ]
+      }
+    ]
+  }
+]

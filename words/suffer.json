@@ -1,0 +1,133 @@
+[
+  {
+    "word": "suffer",
+    "syllables": [
+      "suf",
+      "fer"
+    ],
+    "pronunciation": "ˈsəfər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "suffer"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "suffers"
+          },
+          {
+            "part": "past tense",
+            "variant": "suffered"
+          },
+          {
+            "part": "past participle",
+            "variant": "suffered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "suffering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "experience or be subjected to (something bad or unpleasant).",
+            "examples": [
+              "he'd suffered intense pain"
+            ],
+            "synonyms": [
+              "hurt",
+              "ache",
+              "be in pain",
+              "feel pain; Morebe in distress",
+              "be upset",
+              "be miserable \"I hate to see him suffer\"undergo",
+              "experience",
+              "be subjected to",
+              "receive",
+              "endure",
+              "face \"the nation suffered a humiliating defeat\"hardship",
+              "distress",
+              "misery",
+              "wretchedness",
+              "adversity",
+              "tribulation; pain",
+              "agony",
+              "anguish",
+              "trauma",
+              "torment",
+              "torture",
+              "hurt",
+              "affliction",
+              "sadness",
+              "unhappiness",
+              "sorrow",
+              "grief",
+              "woe",
+              "angst",
+              "heartache",
+              "heartbreak",
+              "stress; literarydolor \"the suffering of these refugees defied description\""
+            ]
+          },
+          {
+            "definition": "be affected by or subject to (an illness or ailment).",
+            "examples": [
+              "his daughter suffered from agoraphobia"
+            ],
+            "synonyms": [
+              "be afflicted by/with",
+              "be affected by",
+              "be troubled with",
+              "have \"she suffers from asthma\""
+            ]
+          },
+          {
+            "definition": "become or appear worse in quality.",
+            "examples": [
+              "his relationship with Anne did suffer"
+            ],
+            "synonyms": [
+              "be impaired",
+              "be damaged",
+              "deteriorate",
+              "decline \"the school's reputation has suffered\""
+            ]
+          },
+          {
+            "definition": "undergo martyrdom or execution."
+          },
+          {
+            "definition": "tolerate.",
+            "examples": [
+              "France will no longer suffer the existing government"
+            ],
+            "synonyms": [
+              "tolerate",
+              "put up with",
+              "bear",
+              "stand",
+              "abide",
+              "endure; formalbrook \"he was obliged to suffer her intimate proximity\""
+            ]
+          },
+          {
+            "definition": "allow (someone) to do something.",
+            "examples": [
+              "my conscience would not suffer me to accept any more"
+            ],
+            "synonyms": [
+              "allow",
+              "permit",
+              "let",
+              "give leave to",
+              "sanction \"my conscience would not suffer me to accept\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

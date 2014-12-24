@@ -1,0 +1,242 @@
+[
+  {
+    "word": "posting",
+    "syllables": [
+      "post",
+      "ing"
+    ],
+    "pronunciation": "ˈpōstiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "posting"
+          },
+          {
+            "part": "plural noun",
+            "variant": "postings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an appointment to a job, especially one abroad or in the armed forces.",
+            "examples": [
+              "he requested a posting to Japan"
+            ]
+          },
+          {
+            "definition": "the location of an appointment to a job.",
+            "examples": [
+              "Norway was an attractive posting because of its quality of life"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "posting",
+    "syllables": [
+      "post",
+      "ing"
+    ],
+    "pronunciation": "ˈpōstiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "posting"
+          },
+          {
+            "part": "plural noun",
+            "variant": "postings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a message, link, image, etc., posted to an online location such as a blog, social media website, or forum.",
+            "examples": [
+              "Internet service providers can't be held liable for defamatory postings"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "syllables": [
+      "post"
+    ],
+    "pronunciation": "pōst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "posting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "display (a notice) in a public place.",
+            "examples": [
+              "a curt notice had been posted on the door"
+            ],
+            "synonyms": [
+              "affix",
+              "attach",
+              "fasten",
+              "display",
+              "pin (up)",
+              "put up",
+              "stick (up)",
+              "tack (up) \"the notice posted on the wall\""
+            ]
+          },
+          {
+            "definition": "announce or publish (something, especially a financial result).",
+            "examples": [
+              "the company posted a $460,000 loss"
+            ],
+            "synonyms": [
+              "announce",
+              "report",
+              "make known",
+              "publish \"the group posted a net profit\""
+            ]
+          },
+          {
+            "definition": "(of a player or team) achieve or record (a particular score or result).",
+            "examples": [
+              "Smith and Lamb posted a century partnership"
+            ]
+          },
+          {
+            "definition": "publish the name of (a member of the armed forces) as missing or dead.",
+            "examples": [
+              "a whole troop had been posted missing"
+            ]
+          },
+          {
+            "definition": "put notices on or in.",
+            "examples": [
+              "we have posted all the bars"
+            ]
+          },
+          {
+            "definition": "make (information) available on the Internet."
+          },
+          {
+            "definition": "submit (a message, link, image, etc.) to an online location, such as a blog, social media website, or forum.",
+            "examples": [
+              "the list was promptly posted all over the Internet"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "syllables": [
+      "post"
+    ],
+    "pronunciation": "pōst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "posting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "send (a letter or parcel) via the postal system.",
+            "examples": [
+              "I've just been to post a letter"
+            ],
+            "synonyms": [
+              "mail",
+              "send (off)",
+              "put in the mail \"post the order form today\""
+            ]
+          },
+          {
+            "definition": "(in bookkeeping) enter (an item) in a ledger.",
+            "examples": [
+              "post the transaction in the second column"
+            ],
+            "synonyms": [
+              "record",
+              "write in",
+              "enter",
+              "register \"post the transaction in the second column\""
+            ]
+          },
+          {
+            "definition": "complete (a ledger) by posting transactions."
+          },
+          {
+            "definition": "travel with relays of horses.",
+            "examples": [
+              "we posted in an open carriage"
+            ]
+          },
+          {
+            "definition": "travel with haste; hurry.",
+            "examples": [
+              "he comes posting up the street"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "syllables": [
+      "post"
+    ],
+    "pronunciation": "pōst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "posting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "send (someone) to a particular place to take up an appointment.",
+            "examples": [
+              "he was posted to Washington as military attaché"
+            ],
+            "synonyms": [
+              "put on duty",
+              "station",
+              "position",
+              "situate",
+              "locate \"armed guards were posted beside the exit\""
+            ]
+          },
+          {
+            "definition": "station (someone, especially a soldier, guard, or police officer) in a particular place.",
+            "examples": [
+              "a guard was posted at the entrance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

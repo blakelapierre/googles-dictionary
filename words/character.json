@@ -1,0 +1,213 @@
+[
+  {
+    "word": "character",
+    "syllables": [
+      "char",
+      "ac",
+      "ter"
+    ],
+    "pronunciation": "ˈkerəktər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "character"
+          },
+          {
+            "part": "plural noun",
+            "variant": "characters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the mental and moral qualities distinctive to an individual.",
+            "examples": [
+              "running away was not in keeping with her character"
+            ],
+            "synonyms": [
+              "personality",
+              "nature",
+              "disposition",
+              "temperament",
+              "temper",
+              "mentality",
+              "makeup; Morefeatures",
+              "qualities",
+              "properties",
+              "traits; spirit",
+              "essence",
+              "identity",
+              "ethos",
+              "complexion",
+              "tone",
+              "feel",
+              "feeling \"a forceful character\""
+            ]
+          },
+          {
+            "definition": "the distinctive nature of something.",
+            "examples": [
+              "gas lamps give the area its character"
+            ],
+            "synonyms": [
+              "personality",
+              "nature",
+              "disposition",
+              "temperament",
+              "temper",
+              "mentality",
+              "makeup; Morefeatures",
+              "qualities",
+              "properties",
+              "traits; spirit",
+              "essence",
+              "identity",
+              "ethos",
+              "complexion",
+              "tone",
+              "feel",
+              "feeling \"a forceful character\""
+            ]
+          },
+          {
+            "definition": "the quality of being individual, typically in an interesting or unusual way.",
+            "examples": [
+              "the island is full of character"
+            ]
+          },
+          {
+            "definition": "strength and originality in a person's nature.",
+            "examples": [
+              "she had character as well as beauty"
+            ],
+            "synonyms": [
+              "integrity",
+              "honor",
+              "moral strength",
+              "moral fiber",
+              "rectitude",
+              "uprightness; Morefortitude",
+              "strength",
+              "backbone",
+              "resolve",
+              "grit",
+              "willpower; informalguts",
+              "gutsiness \"a woman of character\""
+            ]
+          },
+          {
+            "definition": "a person's good reputation.",
+            "examples": [
+              "to what do I owe this attack on my character?"
+            ],
+            "synonyms": [
+              "reputation",
+              "name",
+              "good name",
+              "standing",
+              "stature",
+              "position",
+              "status \"a stain on his character\""
+            ]
+          },
+          {
+            "definition": "a written statement of someone's good qualities; a recommendation."
+          },
+          {
+            "definition": "a person in a novel, play, or movie.",
+            "examples": [
+              "persona, role, part; dramatis personae the characters develop throughout the play"
+            ]
+          },
+          {
+            "definition": "a part played by an actor.",
+            "examples": [
+              "persona, role, part; dramatis personae the characters develop throughout the play"
+            ]
+          },
+          {
+            "definition": "a person seen in terms of a particular aspect of character.",
+            "examples": [
+              "he was a larger-than-life character"
+            ],
+            "synonyms": [
+              "person",
+              "man",
+              "woman",
+              "soul",
+              "creature",
+              "individual",
+              "customer \"a boorish character\""
+            ]
+          },
+          {
+            "definition": "an interesting or amusing individual.",
+            "examples": [
+              "he's a real character"
+            ],
+            "synonyms": [
+              "eccentric",
+              "oddity",
+              "madcap",
+              "crank",
+              "individualist",
+              "nonconformist",
+              "rare bird",
+              "free spirit; informaloddball \"a bit of a character\""
+            ]
+          },
+          {
+            "definition": "a printed or written letter or symbol."
+          },
+          {
+            "definition": "a symbol representing a letter or number.",
+            "examples": [
+              "letter, figure, symbol, sign, mark thirty characters per line"
+            ]
+          },
+          {
+            "definition": "a characteristic, especially one that assists in the identification of a species."
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "character"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "characters"
+          },
+          {
+            "part": "past tense",
+            "variant": "charactered"
+          },
+          {
+            "part": "past participle",
+            "variant": "charactered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "charactering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "inscribe; engrave."
+          },
+          {
+            "definition": "describe; characterize.",
+            "examples": [
+              "you have well charactered him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

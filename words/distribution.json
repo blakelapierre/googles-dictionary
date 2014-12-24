@@ -1,0 +1,86 @@
+[
+  {
+    "word": "distribution",
+    "syllables": [
+      "dis",
+      "tri",
+      "bu",
+      "tion"
+    ],
+    "pronunciation": "ˌdistrəˈbyo͞oSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "distribution"
+          },
+          {
+            "part": "plural noun",
+            "variant": "distributions"
+          },
+          {
+            "part": "noun",
+            "variant": "distr."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of sharing something out among a number of recipients.",
+            "examples": [
+              "she had it printed for distribution among her friends"
+            ],
+            "synonyms": [
+              "giving out",
+              "dealing out",
+              "doling out",
+              "handing out/around",
+              "issue",
+              "issuing",
+              "dispensation; Moreallocation",
+              "allotment",
+              "apportioning",
+              "sharing out",
+              "dividing up/out",
+              "parceling out \"the distribution of charity\""
+            ]
+          },
+          {
+            "definition": "the way in which something is shared out among a group or spread over an area.",
+            "examples": [
+              "changes undergone by the area have affected the distribution of its wildlife"
+            ],
+            "synonyms": [
+              "dispersal",
+              "dissemination",
+              "spread; Moreplacement",
+              "position",
+              "location",
+              "disposition \"the geographical distribution of plants\""
+            ]
+          },
+          {
+            "definition": "the action or process of supplying goods to stores and other businesses that sell to consumers.",
+            "examples": [
+              "a manager has the choice of four types of distribution"
+            ],
+            "synonyms": [
+              "supply",
+              "supplying",
+              "delivery",
+              "transport",
+              "transportation \"centers of food distribution\""
+            ]
+          },
+          {
+            "definition": "the different number of cards of each suit in a player's hand.",
+            "examples": [
+              "strength has two ingredients, high cards and distribution"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "word": "occupy",
+    "syllables": [
+      "oc",
+      "cu",
+      "py"
+    ],
+    "pronunciation": "ˈäkyəˌpī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "occupy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "occupies"
+          },
+          {
+            "part": "past tense",
+            "variant": "occupied"
+          },
+          {
+            "part": "past participle",
+            "variant": "occupied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "occupying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reside or have one's place of business in (a building).",
+            "examples": [
+              "the apartment she occupies in Manhattan"
+            ],
+            "synonyms": [
+              "inhabited",
+              "lived-in",
+              "tenanted",
+              "settled More\"only two of the apartments are occupied\"live in",
+              "inhabit",
+              "be the tenant of",
+              "lodge in; move into",
+              "take up residence in",
+              "make one's home in; people",
+              "populate",
+              "settle; formalreside in",
+              "dwell in \"Carol occupied the basement apartment\""
+            ],
+            "antonyms": [
+              "vacant",
+              "empty"
+            ]
+          },
+          {
+            "definition": "fill or take up (a space or time).",
+            "examples": [
+              "two long windows occupied almost the whole wall"
+            ],
+            "synonyms": [
+              "in use",
+              "full",
+              "engaged",
+              "taken",
+              "unavailable More\"all the tables were occupied\"take up",
+              "fill",
+              "fill up",
+              "cover",
+              "use up \"two windows occupied almost the whole of the end wall\""
+            ],
+            "antonyms": [
+              "available",
+              "empty",
+              "free"
+            ]
+          },
+          {
+            "definition": "be situated in or at (a place or position in a system or hierarchy).",
+            "examples": [
+              "on the corporate ladder, they occupy the lowest rungs"
+            ]
+          },
+          {
+            "definition": "hold (a position or job).",
+            "examples": [
+              "hold, fill, be in, have, hold down he occupies a senior post at the firm"
+            ]
+          },
+          {
+            "definition": "fill or preoccupy (the mind or thoughts).",
+            "examples": [
+              "her mind was occupied with alarming questions"
+            ],
+            "synonyms": [
+              "engage",
+              "busy",
+              "employ",
+              "distract",
+              "absorb",
+              "engross",
+              "preoccupy",
+              "hold",
+              "interest",
+              "involve",
+              "entertain",
+              "amuse",
+              "divert \"I need something to occupy my mind\""
+            ]
+          },
+          {
+            "definition": "keep (someone) busy and active.",
+            "examples": [
+              "Sarah occupied herself taking the coffee cups over to the sink"
+            ],
+            "synonyms": [
+              "busy",
+              "engaged",
+              "working",
+              "at work",
+              "active; Moreimmersed",
+              "preoccupied",
+              "absorbed",
+              "engrossed; informaltied up",
+              "wrapped up",
+              "hard at it \"tasks that kept her occupied all day\""
+            ],
+            "antonyms": [
+              "idle"
+            ]
+          },
+          {
+            "definition": "take control of (a place, especially a country) by military conquest or settlement.",
+            "examples": [
+              "the region was occupied by Britain during World War I"
+            ],
+            "synonyms": [
+              "capture",
+              "seize",
+              "take possession of",
+              "conquer; Moreinvade",
+              "overrun; take over",
+              "garrison",
+              "hold",
+              "annex",
+              "subjugate",
+              "colonize \"the whole region was occupied by foreign troops\""
+            ]
+          },
+          {
+            "definition": "enter, take control of, and stay in (a building) illegally and often forcibly, especially as a form of protest.",
+            "examples": [
+              "the workers occupied the factory"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

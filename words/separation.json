@@ -1,0 +1,87 @@
+{
+  "word": "separation",
+  "syllables": [
+    "sep",
+    "a",
+    "ra",
+    "tion"
+  ],
+  "pronunciation": "ˌsepəˈrāSH(ə)n",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "separation"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the action or state of moving or being moved apart.",
+          "examples": [
+            "the damage that might arise from the separation of parents and children"
+          ],
+          "synonyms": [
+            "disconnection",
+            "detachment",
+            "severance",
+            "dissociation",
+            "disunion",
+            "disaffiliation",
+            "segregation",
+            "partition More\"the separation of the two companies\"breakup",
+            "split",
+            "parting (of the ways)",
+            "estrangement",
+            "rift",
+            "rupture",
+            "breach; divorce; informalsplitsville \"her parents' separation\""
+          ]
+        },
+        {
+          "definition": "the state in which a couple remain married but live apart.",
+          "examples": [
+            "plural noun: separations"
+          ]
+        },
+        {
+          "definition": "the division of something into constituent or distinct elements.",
+          "examples": [
+            "prose structured into short sentences with meaningful separation into paragraphs"
+          ]
+        },
+        {
+          "definition": "the process of distinguishing between two or more things.",
+          "examples": [
+            "religion involved the separation of the sacred and the profane"
+          ],
+          "synonyms": [
+            "distinction",
+            "difference",
+            "differentiation",
+            "division",
+            "dividing line; Moregulf",
+            "gap",
+            "chasm \"the separation between art and life\""
+          ]
+        },
+        {
+          "definition": "the process of sorting and then extracting or removing a specified substance for use or rejection."
+        },
+        {
+          "definition": "short for color separation."
+        },
+        {
+          "definition": "distinction or difference between the signals carried by the two channels of a stereophonic system.",
+          "examples": [
+            "noun: stereo separation; plural noun: stereo separations"
+          ]
+        },
+        {
+          "definition": "the generation of a turbulent boundary layer between the surface of a body and a moving fluid, or between two fluids moving at different speeds."
+        }
+      ]
+    }
+  ]
+}

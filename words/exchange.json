@@ -1,0 +1,138 @@
+[
+  {
+    "word": "exchange",
+    "syllables": [
+      "ex",
+      "change"
+    ],
+    "pronunciation": "iksˈCHānj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exchange"
+          },
+          {
+            "part": "plural noun",
+            "variant": "exchanges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of giving one thing and receiving another (especially of the same type or value) in return.",
+            "examples": [
+              "negotiations should eventually lead to an exchange of land for peace"
+            ],
+            "synonyms": [
+              "interchange",
+              "trade",
+              "trading",
+              "swapping",
+              "traffic",
+              "trafficking \"the exchange of ideas\""
+            ]
+          },
+          {
+            "definition": "a visit or visits in which two people or groups from different countries stay with each other or do each other's jobs.",
+            "examples": [
+              "nine colleagues were away on an exchange visit to Germany"
+            ]
+          },
+          {
+            "definition": "a short conversation; an argument.",
+            "examples": [
+              "there was a heated exchange"
+            ],
+            "synonyms": [
+              "conversation",
+              "dialogue",
+              "talk",
+              "discussion",
+              "chat; Moredebate",
+              "argument",
+              "altercation",
+              "row; formalconfabulation",
+              "colloquy \"an acrimonious exchange\""
+            ]
+          },
+          {
+            "definition": "the giving of money for its equivalent in the money of another country."
+          },
+          {
+            "definition": "the fee or percentage charged for converting the currency of one country into that of another."
+          },
+          {
+            "definition": "a system or market in which commercial transactions involving currency, shares, commodities, etc., can be carried out within or between countries. See also foreign exchange."
+          },
+          {
+            "definition": "a central office or station of operations providing telephone service.",
+            "examples": [
+              "private branch exchanges to automate internal telephone networks"
+            ]
+          },
+          {
+            "definition": "a move or short sequence of moves in which both players capture material of comparable value, or particularly the exchange in which one captures a rook in return for a knight or bishop (and is said to win the exchange )."
+          },
+          {
+            "definition": "a building or institution used for the trading of a particular commodity or commodities.",
+            "examples": [
+              "the New York Stock Exchange"
+            ],
+            "synonyms": [
+              "stock exchange",
+              "money market; bourse \"a broker on the exchange\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "exchange"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "exchanges"
+          },
+          {
+            "part": "past tense",
+            "variant": "exchanged"
+          },
+          {
+            "part": "past participle",
+            "variant": "exchanged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "exchanging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give something and receive something of the same kind in return.",
+            "examples": [
+              "we exchanged addresses"
+            ],
+            "synonyms": [
+              "trade",
+              "swap",
+              "switch",
+              "change",
+              "interchange \"we exchanged shirts\""
+            ]
+          },
+          {
+            "definition": "give or receive one thing in place of another.",
+            "examples": [
+              "we regret that tickets cannot be exchanged"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

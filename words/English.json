@@ -1,0 +1,56 @@
+{
+  "word": "English",
+  "syllables": [
+    "Eng",
+    "lish"
+  ],
+  "pronunciation": "ˈiNG(ɡ)liSH",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "English"
+        },
+        {
+          "part": "plural noun",
+          "variant": "Englishes"
+        },
+        {
+          "part": "plural noun",
+          "variant": "English"
+        },
+        {
+          "part": "plural noun",
+          "variant": "the English"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "the West Germanic language of England, now widely used in many varieties throughout the world."
+        },
+        {
+          "definition": "the people of England."
+        },
+        {
+          "definition": "spin given to a ball, especially in pool or billiards."
+        }
+      ]
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "English"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "relating to England, its people, or their language."
+        }
+      ]
+    }
+  ]
+}

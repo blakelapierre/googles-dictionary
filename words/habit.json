@@ -1,0 +1,148 @@
+[
+  {
+    "word": "habit",
+    "syllables": [
+      "hab",
+      "it"
+    ],
+    "pronunciation": "ˈhabət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "habit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "habits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a settled or regular tendency or practice, especially one that is hard to give up.",
+            "examples": [
+              "this can develop into a bad habit"
+            ],
+            "synonyms": [
+              "custom",
+              "practice",
+              "routine",
+              "wont",
+              "pattern",
+              "convention",
+              "way",
+              "norm",
+              "tradition",
+              "matter of course",
+              "rule",
+              "usage More\"it was his habit to go for a run every morning\"mannerism",
+              "way",
+              "quirk",
+              "foible",
+              "trick",
+              "trait",
+              "idiosyncrasy",
+              "peculiarity",
+              "singularity",
+              "oddity",
+              "eccentricity",
+              "feature; tendency",
+              "propensity",
+              "inclination",
+              "bent",
+              "proclivity",
+              "disposition",
+              "predisposition \"her many irritating habits\"accustomed to",
+              "used to",
+              "given to",
+              "wont to",
+              "inclined to \"they were in the habit of phoning each other daily\""
+            ]
+          },
+          {
+            "definition": "an addictive practice, especially one of taking drugs.",
+            "examples": [
+              "a cocaine habit"
+            ],
+            "synonyms": [
+              "addiction",
+              "dependence",
+              "dependency",
+              "craving",
+              "fixation",
+              "compulsion",
+              "obsession",
+              "weakness; informalmonkey on one's back \"his cocaine habit\""
+            ]
+          },
+          {
+            "definition": "an automatic reaction to a specific situation."
+          },
+          {
+            "definition": "general shape or mode of growth, especially of a plant or a mineral.",
+            "examples": [
+              "a shrub of spreading habit"
+            ]
+          },
+          {
+            "definition": "a long, loose garment worn by a member of a religious order or congregation."
+          },
+          {
+            "definition": "short for riding habit."
+          },
+          {
+            "definition": "dress; attire.",
+            "examples": [
+              "garment(s), dress, garb, clothes, clothing, attire, outfit, costume; Moreinformalgear; formalapparel \"a monk's habit\"Moregear; apparel a monk's habit"
+            ]
+          },
+          {
+            "definition": "a person's bodily condition or constitution.",
+            "examples": [
+              "a victim to a consumptive habit"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "habited"
+          },
+          {
+            "part": "verb",
+            "variant": "habit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "habits"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "habitting"
+          },
+          {
+            "part": "past tense",
+            "variant": "habitted"
+          },
+          {
+            "part": "past participle",
+            "variant": "habitted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "dress; clothe.",
+            "examples": [
+              "a boy habited as a serving lad"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

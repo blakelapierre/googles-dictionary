@@ -1,0 +1,103 @@
+[
+  {
+    "word": "privilege",
+    "syllables": [
+      "priv",
+      "i",
+      "lege"
+    ],
+    "pronunciation": "ˈpriv(ə)lij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "privilege"
+          },
+          {
+            "part": "plural noun",
+            "variant": "privileges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a special right, advantage, or immunity granted or available only to a particular person or group of people.",
+            "examples": [
+              "education is a right, not a privilege"
+            ],
+            "synonyms": [
+              "advantage",
+              "benefit; Moreprerogative",
+              "entitlement",
+              "right; concession",
+              "freedom",
+              "liberty \"senior students have certain privileges\""
+            ]
+          },
+          {
+            "definition": "something regarded as a rare opportunity and bringing particular pleasure.",
+            "examples": [
+              "I have the privilege of awarding you this scholarship"
+            ],
+            "synonyms": [
+              "honor",
+              "pleasure \"it was a privilege to meet her\""
+            ]
+          },
+          {
+            "definition": "(in a parliamentary context) the right to say or write something without the risk of incurring punishment or legal action for defamation.",
+            "examples": [
+              "noun: absolute privilege; plural noun: absolute privileges"
+            ]
+          },
+          {
+            "definition": "the right of a lawyer or official to refuse to divulge confidential information."
+          },
+          {
+            "definition": "a grant to an individual, corporation, or place of special rights or immunities, especially in the form of a franchise or monopoly.",
+            "examples": [
+              "immunity, exemption, dispensation congressional privilege"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "privilege"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "privileges"
+          },
+          {
+            "part": "past tense",
+            "variant": "privileged"
+          },
+          {
+            "part": "past participle",
+            "variant": "privileged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "privileging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grant a privilege or privileges to.",
+            "examples": [
+              "English inheritance law privileged the eldest son"
+            ]
+          },
+          {
+            "definition": "exempt (someone) from a liability or obligation to which others are subject."
+          }
+        ]
+      }
+    ]
+  }
+]

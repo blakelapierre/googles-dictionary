@@ -1,0 +1,153 @@
+{
+  "word": "reduce",
+  "syllables": [
+    "re",
+    "duce"
+  ],
+  "pronunciation": "rəˈd(y)o͞os",
+  "parts": [
+    {
+      "part": "verb",
+      "variants": [
+        {
+          "part": "verb",
+          "variant": "reduce"
+        },
+        {
+          "part": "3rd person present",
+          "variant": "reduces"
+        },
+        {
+          "part": "past tense",
+          "variant": "reduced"
+        },
+        {
+          "part": "past participle",
+          "variant": "reduced"
+        },
+        {
+          "part": "gerund or present participle",
+          "variant": "reducing"
+        }
+      ],
+      "definitions": [
+        {
+          "definition": "make smaller or less in amount, degree, or size.",
+          "examples": [
+            "the need for businesses to reduce costs"
+          ],
+          "synonyms": [
+            "lessen",
+            "make smaller",
+            "lower",
+            "bring down",
+            "decrease",
+            "diminish",
+            "minimize; Moreshrink",
+            "narrow",
+            "contract",
+            "shorten; ax",
+            "cut",
+            "cut back/down",
+            "make cutbacks in",
+            "trim",
+            "curtail",
+            "slim (down)",
+            "prune; informalchop \"the aim to reduce pollution\"discount",
+            "mark down",
+            "lower the price of",
+            "cut",
+            "cut in price",
+            "make cheaper",
+            "put on sale; informalslash",
+            "knock down \"Halloween items have been reduced\""
+          ],
+          "antonyms": [
+            "increase",
+            "mark up"
+          ]
+        },
+        {
+          "definition": "become smaller or less in size, amount, or degree.",
+          "examples": [
+            "the number of priority homeless cases has reduced slightly"
+          ]
+        },
+        {
+          "definition": "boil (a sauce or other liquid) in cooking so that it becomes thicker and more concentrated."
+        },
+        {
+          "definition": "(of a person) lose weight, typically by dieting.",
+          "examples": [
+            "by May she had reduced to 125 pounds"
+          ]
+        },
+        {
+          "definition": "conquer (a place), in particular besiege and capture (a town or fortress)."
+        },
+        {
+          "definition": "make (a negative or print) less dense."
+        },
+        {
+          "definition": "articulate (a speech sound) in a way requiring less muscular effort. In vowels, this gives rise to a more central articulatory position."
+        },
+        {
+          "definition": "bring someone or something to (a lower or weaker state, condition, or role).",
+          "examples": [
+            "she has been reduced to near poverty"
+          ],
+          "synonyms": [
+            "bring to",
+            "bring to the point of",
+            "drive to \"she reduced him to tears\""
+          ]
+        },
+        {
+          "definition": "(of a person) be forced by difficult circumstances into doing something desperate.",
+          "examples": [
+            "ordinary soldiers are reduced to begging"
+          ]
+        },
+        {
+          "definition": "make someone helpless with (an expression of emotion, especially with hurt, shock, or amusement).",
+          "examples": [
+            "Olga was reduced to stunned silence"
+          ]
+        },
+        {
+          "definition": "force into (obedience or submission).",
+          "examples": [
+            "he succeeds in reducing his grandees to due obedience"
+          ]
+        },
+        {
+          "definition": "change a substance to (a different or more basic form).",
+          "examples": [
+            "it is difficult to understand how lava could have been reduced to dust"
+          ]
+        },
+        {
+          "definition": "present a problem or subject in (a simplified form).",
+          "examples": [
+            "he reduces unimaginable statistics to manageable proportions"
+          ]
+        },
+        {
+          "definition": "convert a fraction to (the form with the lowest terms)."
+        },
+        {
+          "definition": "cause to combine chemically with hydrogen."
+        },
+        {
+          "definition": "undergo or cause to undergo a reaction in which electrons are gained by one atom from another."
+        },
+        {
+          "definition": "restore (a dislocated part) to its proper position by manipulation or surgery."
+        },
+        {
+          "definition": "remedy (a dislocation) by manipulation or surgery."
+        }
+      ]
+    }
+  ]
+}

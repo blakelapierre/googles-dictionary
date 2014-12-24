@@ -1,0 +1,51 @@
+[
+  {
+    "word": "arena",
+    "syllables": [
+      "a",
+      "re",
+      "na"
+    ],
+    "pronunciation": "əˈrēnə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "arena"
+          },
+          {
+            "part": "plural noun",
+            "variant": "arenas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a level area surrounded by seats for spectators, in which sports, entertainments, and other public events are held.",
+            "examples": [
+              "stadium; Moreamphitheater, coliseum; sportsplex; field, ring, court; bowl, park, ground; rink, ice rink; historicalcircus \"a hockey arena\"Moreamphitheater, coliseum; sportsplex; field, ring, court; bowl, park, ground; rink, ice rink; circus a hockey arena"
+            ]
+          },
+          {
+            "definition": "a place or scene of activity, debate, or conflict.",
+            "examples": [
+              "he has re-entered the political arena"
+            ],
+            "synonyms": [
+              "scene",
+              "sphere",
+              "realm",
+              "province",
+              "domain",
+              "sector",
+              "forum",
+              "territory",
+              "world \"the political arena\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

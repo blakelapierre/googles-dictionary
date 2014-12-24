@@ -1,0 +1,65 @@
+[
+  {
+    "word": "duke",
+    "syllables": [
+      "duke"
+    ],
+    "pronunciation": "d(y)o͞ok",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "duke"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dukes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a male holding the highest hereditary title in the British and certain other peerages."
+          },
+          {
+            "definition": "(in some parts of Europe) a male ruler of a small independent state."
+          },
+          {
+            "definition": "the fists, especially when raised in a fighting attitude."
+          }
+        ]
+      },
+      {
+        "part": "verbNorth Americaninformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "duke"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "dukes"
+          },
+          {
+            "part": "past tense",
+            "variant": "dukes"
+          },
+          {
+            "part": "past participle",
+            "variant": "dukes"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "duking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fight it out."
+          }
+        ]
+      }
+    ]
+  }
+]

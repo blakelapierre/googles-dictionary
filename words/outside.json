@@ -1,0 +1,64 @@
+{
+  "word": "outside",
+  "syllables": [
+    "out",
+    "side"
+  ],
+  "pronunciation": "ˈoutsīdˈoutsīdoutˈsīd",
+  "parts": [
+    {
+      "part": "noun",
+      "variants": [
+        {
+          "part": "noun",
+          "variant": "outside"
+        },
+        {
+          "part": "plural noun",
+          "variant": "outsides"
+        },
+        {
+          "part": "noun",
+          "variant": "out-side"
+        },
+        {
+          "part": "plural noun",
+          "variant": "out-sides"
+        }
+      ],
+      "definitions": []
+    },
+    {
+      "part": "adjective",
+      "variants": [
+        {
+          "part": "adjective",
+          "variant": "outside"
+        },
+        {
+          "part": "adjective",
+          "variant": "out-side"
+        }
+      ],
+      "definitions": []
+    },
+    {
+      "part": "preposition & adverb",
+      "variants": [
+        {
+          "part": "preposition",
+          "variant": "outside"
+        },
+        {
+          "part": "adverb",
+          "variant": "outside"
+        },
+        {
+          "part": "preposition",
+          "variant": "out-side"
+        }
+      ],
+      "definitions": []
+    }
+  ]
+}
