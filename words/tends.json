@@ -1,0 +1,118 @@
+[
+  {
+    "word": "tend",
+    "syllables": [
+      "tend"
+    ],
+    "pronunciation": "tend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tends"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "regularly or frequently behave in a particular way or have a certain characteristic.",
+            "examples": [
+              "written language tends to be formal"
+            ],
+            "synonyms": [
+              "be inclined",
+              "be apt",
+              "be disposed",
+              "be prone",
+              "be liable",
+              "have a tendency",
+              "have a propensity \"I tend to get very involved in my work\""
+            ]
+          },
+          {
+            "definition": "be liable to possess or display (a particular characteristic).",
+            "examples": [
+              "Walter tended toward corpulence"
+            ],
+            "synonyms": [
+              "incline",
+              "lean",
+              "gravitate",
+              "move; Moreprefer",
+              "favor",
+              "trend \"some of the younger voters tended toward the tabloid press\""
+            ]
+          },
+          {
+            "definition": "go or move in a particular direction.",
+            "examples": [
+              "the road tends west around small mountains"
+            ]
+          },
+          {
+            "definition": "approach (a quantity or limit).",
+            "examples": [
+              "the Fourier coefficients tend to zero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tend",
+    "syllables": [
+      "tend"
+    ],
+    "pronunciation": "tend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tends"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "care for or look after; give one's attention to.",
+            "examples": [
+              "Viola tended plants on the roof"
+            ],
+            "synonyms": [
+              "look after",
+              "take care of",
+              "care for",
+              "minister to",
+              "attend to",
+              "see to",
+              "wait on; Morewatch over",
+              "keep an eye on",
+              "mind",
+              "protect",
+              "watch",
+              "guard",
+              "supervise; nurse",
+              "nurture",
+              "cherish \"she tended her garden\""
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "direct or manage; work in.",
+            "examples": [
+              "I've been tending bar at the airport lounge"
+            ]
+          },
+          {
+            "definition": "wait on as an attendant or servant."
+          }
+        ]
+      }
+    ]
+  }
+]

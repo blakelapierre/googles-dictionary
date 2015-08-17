@@ -1,0 +1,131 @@
+[
+  {
+    "word": "bond",
+    "syllables": [
+      "bond"
+    ],
+    "pronunciation": "bänd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bonds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "physical restraints used to hold someone or something prisoner, especially ropes or chains.",
+            "examples": [
+              "chains, fetters, shackles, manacles, irons, restraints the prisoner struggled with his bonds"
+            ]
+          },
+          {
+            "definition": "a thing used to tie something or to fasten things together.",
+            "examples": [
+              "noun: bond"
+            ]
+          },
+          {
+            "definition": "adhesiveness; ability of two objects to stick to each other.",
+            "examples": [
+              "a total lack of effective bond between the concrete and the steel"
+            ]
+          },
+          {
+            "definition": "a force or feeling that unites people; a common emotion or interest.",
+            "examples": [
+              "there was a bond of understanding between them"
+            ],
+            "synonyms": [
+              "relationship",
+              "tie",
+              "link",
+              "friendship",
+              "fellowship",
+              "partnership",
+              "association",
+              "affiliation",
+              "alliance",
+              "attachment; informalbromance \"the bond between Moira and her son\""
+            ]
+          },
+          {
+            "definition": "an agreement with legal force, in particular.",
+            "examples": [
+              "promise, pledge, vow, oath, word (of honor), guarantee, assurance; Moreagreement, contract, pact, bargain, deal \"you've broken your bond\"Moreagreement, contract, pact, bargain, deal you've broken your bond"
+            ]
+          },
+          {
+            "definition": "a deed by which a person is committed to make payment to another."
+          },
+          {
+            "definition": "a certificate issued by a government or a public company promising to repay borrowed money at a fixed rate of interest at a specified time."
+          },
+          {
+            "definition": "an insurance policy held by a company, which protects against losses resulting from circumstances such as bankruptcy or misconduct by employees."
+          },
+          {
+            "definition": "a sum of money paid as bail."
+          },
+          {
+            "definition": "a strong force of attraction holding atoms together in a molecule or crystal, resulting from the sharing or transfer of electrons."
+          },
+          {
+            "definition": "any of the various patterns in which bricks are conventionally laid in order to ensure the strength of the resulting structure."
+          },
+          {
+            "definition": "short for bond paper."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bonds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join or be joined securely to something else, typically by means of an adhesive substance, heat, or pressure.",
+            "examples": [
+              "press the material to bond the layers together"
+            ],
+            "synonyms": [
+              "join",
+              "fasten",
+              "fix",
+              "affix",
+              "attach",
+              "secure",
+              "bind",
+              "stick",
+              "fuse \"the extensions are bonded to your hair\""
+            ]
+          },
+          {
+            "definition": "establish a relationship with someone based on shared feelings, interests, or experiences.",
+            "examples": [
+              "the failure to properly bond with their children"
+            ]
+          },
+          {
+            "definition": "join or be joined by a chemical bond."
+          },
+          {
+            "definition": "lay (bricks) in an overlapping pattern so as to form a strong structure.",
+            "examples": [
+              "a bonding course"
+            ]
+          },
+          {
+            "definition": "place (dutiable goods) in bond."
+          }
+        ]
+      }
+    ]
+  }
+]

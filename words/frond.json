@@ -1,0 +1,32 @@
+[
+  {
+    "word": "frond",
+    "syllables": [
+      "frond"
+    ],
+    "pronunciation": "fränd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "frond"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fronds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the leaf or leaflike part of a palm, fern, or similar plant.",
+            "examples": [
+              "fronds of bracken"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

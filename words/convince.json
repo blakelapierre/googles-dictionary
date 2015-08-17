@@ -1,0 +1,68 @@
+[
+  {
+    "word": "convince",
+    "syllables": [
+      "con",
+      "vince"
+    ],
+    "pronunciation": "kənˈvins",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "convince"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "convinces"
+          },
+          {
+            "part": "past tense",
+            "variant": "convinced"
+          },
+          {
+            "part": "past participle",
+            "variant": "convinced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "convincing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) to believe firmly in the truth of something.",
+            "examples": [
+              "Robert's expression had obviously convinced her of his innocence"
+            ],
+            "synonyms": [
+              "make certain",
+              "persuade",
+              "satisfy",
+              "prove to; Moreassure",
+              "put/set someone's mind at rest \"he convinced me that I was wrong\""
+            ]
+          },
+          {
+            "definition": "persuade (someone) to do something.",
+            "examples": [
+              "she convinced my father to branch out on his own"
+            ],
+            "synonyms": [
+              "persuade",
+              "induce",
+              "prevail on/upon",
+              "get",
+              "talk into",
+              "win over",
+              "cajole",
+              "inveigle \"I convinced her to marry me\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

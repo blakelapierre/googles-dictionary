@@ -1,0 +1,123 @@
+[
+  {
+    "word": "isolated",
+    "syllables": [
+      "i",
+      "so",
+      "lat",
+      "ed"
+    ],
+    "pronunciation": "ˈīsəˌlādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "isolated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "far away from other places, buildings, or people; remote.",
+            "examples": [
+              "isolated farms and villages"
+            ],
+            "synonyms": [
+              "remote",
+              "out of the way",
+              "outlying",
+              "off the beaten track/path",
+              "secluded",
+              "lonely",
+              "godforsaken",
+              "far-flung",
+              "inaccessible",
+              "cutoff",
+              "incommunicado",
+              "in the backwoods",
+              "in the back of beyond",
+              "in the back concessions",
+              "in the boonies/boondocks",
+              "in the middle of nowhere",
+              "in the sticks",
+              "in the tall timbers",
+              "hinterland \"isolated communities\""
+            ],
+            "antonyms": [
+              "accessible"
+            ]
+          },
+          {
+            "definition": "having minimal contact or little in common with others.",
+            "examples": [
+              "he lived a very isolated existence"
+            ],
+            "synonyms": [
+              "solitary",
+              "lonely",
+              "companionless",
+              "friendless; Moresecluded",
+              "cloistered",
+              "segregated",
+              "unsociable",
+              "reclusive",
+              "hermitic",
+              "lonesome \"he lived an isolated existence\""
+            ],
+            "antonyms": [
+              "sociable"
+            ]
+          },
+          {
+            "definition": "single; exceptional.",
+            "examples": [
+              "they were isolated incidents"
+            ],
+            "synonyms": [
+              "unique",
+              "lone",
+              "solitary; Moreunusual",
+              "uncommon",
+              "exceptional",
+              "anomalous",
+              "abnormal",
+              "untypical",
+              "atypical",
+              "freak \"an isolated incident\""
+            ],
+            "antonyms": [
+              "common",
+              "everyday"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "isolate",
+    "syllables": [
+      "i",
+      "so",
+      "late"
+    ],
+    "pronunciation": "ˈīsəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "isolated"
+          },
+          {
+            "part": "past participle",
+            "variant": "isolated"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

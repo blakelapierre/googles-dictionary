@@ -1,0 +1,66 @@
+[
+  {
+    "word": "rotate",
+    "syllables": [
+      "ro",
+      "tate"
+    ],
+    "pronunciation": "ˈrōˌtāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "rotating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move or cause to move in a circle around an axis or center.",
+            "examples": [
+              "the wheel continued to rotate"
+            ],
+            "synonyms": [
+              "revolve",
+              "go around",
+              "turn",
+              "turn around",
+              "spin",
+              "gyrate",
+              "whirl",
+              "twirl",
+              "swivel",
+              "circle",
+              "pivot \"the wheels rotate continually\""
+            ]
+          },
+          {
+            "definition": "pass to each member of a group in a regularly recurring order.",
+            "examples": [
+              "the job of chairing the meeting rotates"
+            ],
+            "synonyms": [
+              "alternate",
+              "take turns",
+              "change",
+              "switch",
+              "interchange",
+              "exchange",
+              "swap; move around \"many nurses rotate jobs\""
+            ]
+          },
+          {
+            "definition": "grow (different crops) in succession on a particular piece of land to avoid exhausting the soil and to control weeds, pests, and diseases.",
+            "examples": [
+              "these crops were sometimes rotated with grass"
+            ]
+          },
+          {
+            "definition": "change the position of (tires) on a motor vehicle to distribute wear evenly."
+          }
+        ]
+      }
+    ]
+  }
+]

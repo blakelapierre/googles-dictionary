@@ -1,0 +1,59 @@
+[
+  {
+    "word": "bud",
+    "syllables": [
+      "bud"
+    ],
+    "pronunciation": "bəd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "buds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a compact knoblike growth on a plant that develops into a leaf, flower, or shoot.",
+            "examples": [
+              "sprout, shoot, blossom; plumule fresh buds"
+            ]
+          },
+          {
+            "definition": "an outgrowth from an organism (e.g., a yeast cell) that separates to form a new individual without sexual reproduction taking place."
+          },
+          {
+            "definition": "(of an animal) a rudimentary leg or other appendage that has not yet grown, or never will grow, to full size."
+          }
+        ]
+      },
+      {
+        "part": "verbBiology",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "buds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a plant or animal) form a bud.",
+            "examples": [
+              "new blood vessels bud out from the vascular bed"
+            ],
+            "synonyms": [
+              "sprout",
+              "shoot",
+              "germinate \"trees began to bud\""
+            ]
+          },
+          {
+            "definition": "graft a bud of (a plant) onto another plant."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "rejection",
+    "syllables": [
+      "re",
+      "jec",
+      "tion"
+    ],
+    "pronunciation": "rəˈjekSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rejection"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rejections"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the dismissing or refusing of a proposal, idea, etc.",
+            "examples": [
+              "the union decided last night to recommend rejection of the offer"
+            ],
+            "synonyms": [
+              "refusal",
+              "declining",
+              "turning down",
+              "dismissal",
+              "spurning More\"a rejection of the offer\"repudiation",
+              "rebuff",
+              "spurning",
+              "abandonment",
+              "desertion; informalbrush-off; literaryforsaking \"Madeleine's rejection of him\""
+            ]
+          },
+          {
+            "definition": "the spurning of a person's affections.",
+            "examples": [
+              "some people are reluctant to try it, because they fear rejection"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "fixture",
+    "syllables": [
+      "fix",
+      "ture"
+    ],
+    "pronunciation": "ˈfiksCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fixture"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fixtures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of equipment or furniture that is fixed in position in a building or vehicle.",
+            "examples": [
+              "a light fixture"
+            ],
+            "synonyms": [
+              "fixed appliance",
+              "installation",
+              "unit \"fixtures and fittings\""
+            ]
+          },
+          {
+            "definition": "articles attached to a house or land and considered legally part of it so that they normally remain in place when an owner moves.",
+            "examples": [
+              "the hotel retains many original fixtures and fittings"
+            ]
+          },
+          {
+            "definition": "a person or thing that is established in a particular place or situation.",
+            "examples": [
+              "palm readers were a fixture in most '40s nightclubs"
+            ],
+            "synonyms": [
+              "resident",
+              "lifer",
+              "permanent feature; informalpart of the furniture \"she's a fixture at the bar\""
+            ]
+          },
+          {
+            "definition": "a sports event that takes place on a particular date."
+          }
+        ]
+      }
+    ]
+  }
+]

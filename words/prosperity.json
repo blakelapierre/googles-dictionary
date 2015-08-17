@@ -1,0 +1,51 @@
+[
+  {
+    "word": "prosperity",
+    "syllables": [
+      "pros",
+      "per",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "präˈsperədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prosperity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being prosperous.",
+            "examples": [
+              "a long period of prosperity"
+            ],
+            "synonyms": [
+              "success",
+              "profitability",
+              "affluence",
+              "wealth",
+              "opulence",
+              "luxury",
+              "the good life",
+              "milk and honey",
+              "(good) fortune",
+              "ease",
+              "plenty",
+              "comfort",
+              "security",
+              "well-being \"she deserves all the prosperity she now enjoys\""
+            ],
+            "antonyms": [
+              "hardship",
+              "failure"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

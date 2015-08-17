@@ -1,0 +1,57 @@
+[
+  {
+    "word": "instinctive",
+    "syllables": [
+      "in",
+      "stinc",
+      "tive"
+    ],
+    "pronunciation": "inˈstiNG(k)tiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "instinctive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to or prompted by instinct; apparently unconscious or automatic.",
+            "examples": [
+              "an instinctive distaste for conflict"
+            ]
+          },
+          {
+            "definition": "(of a person) doing or being a specified thing apparently naturally or automatically.",
+            "examples": [
+              "an instinctive writer"
+            ],
+            "synonyms": [
+              "intuitive",
+              "natural",
+              "instinctual",
+              "innate",
+              "inborn",
+              "inherent; Moreunconscious",
+              "subconscious",
+              "intuitional; automatic",
+              "reflex",
+              "knee-jerk",
+              "mechanical",
+              "spontaneous",
+              "involuntary",
+              "impulsive; informalgut",
+              "second nature \"an instinctive understanding of machinery\""
+            ],
+            "antonyms": [
+              "learned",
+              "voluntary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

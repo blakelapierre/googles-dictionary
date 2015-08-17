@@ -1,0 +1,65 @@
+[
+  {
+    "word": "island",
+    "syllables": [
+      "is",
+      "land"
+    ],
+    "pronunciation": "ˈīlənd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "islands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of land surrounded by water.",
+            "examples": [
+              "isle, islet; Moreatoll; archipelago \"she lived on an island\"Moreatoll; archipelago she lived on an island"
+            ]
+          },
+          {
+            "definition": "a thing resembling an island, especially in being isolated, detached, or surrounded in some way.",
+            "examples": [
+              "the university is the last island of democracy in this country"
+            ]
+          },
+          {
+            "definition": "a freestanding kitchen cupboard unit with a countertop, allowing access from all sides."
+          },
+          {
+            "definition": "a detached portion of tissue or group of cells."
+          }
+        ]
+      },
+      {
+        "part": "verbliterary",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "islands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make into or like an island; place or enclose on or as on an island; isolate.",
+            "examples": [
+              "islanded among the new stores, these houses were valuable property"
+            ],
+            "synonyms": [
+              "isolate",
+              "cloister",
+              "seclude; Moreseparate",
+              "detach",
+              "cut off \"he was islanded from the problems of real life\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

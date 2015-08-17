@@ -1,0 +1,72 @@
+[
+  {
+    "word": "alleviate",
+    "syllables": [
+      "al",
+      "le",
+      "vi",
+      "ate"
+    ],
+    "pronunciation": "əˈlēvēˌāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "alleviate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "alleviates"
+          },
+          {
+            "part": "past tense",
+            "variant": "alleviated"
+          },
+          {
+            "part": "past participle",
+            "variant": "alleviated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "alleviating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (suffering, deficiency, or a problem) less severe.",
+            "examples": [
+              "he couldn't prevent her pain, only alleviate it"
+            ],
+            "synonyms": [
+              "reduce",
+              "ease",
+              "relieve",
+              "take the edge off",
+              "deaden",
+              "dull",
+              "diminish",
+              "lessen",
+              "weaken",
+              "lighten",
+              "attenuate",
+              "mitigate",
+              "allay",
+              "assuage",
+              "palliate",
+              "damp",
+              "soothe",
+              "help",
+              "soften",
+              "temper \"use ice to alleviate the swelling\""
+            ],
+            "antonyms": [
+              "aggravate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

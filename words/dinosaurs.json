@@ -1,0 +1,30 @@
+[
+  {
+    "word": "dinosaur",
+    "syllables": [
+      "di",
+      "no",
+      "saur"
+    ],
+    "pronunciation": "ˈdīnəˌsôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "dinosaurs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fossil reptile of the Mesozoic era, often reaching an enormous size."
+          },
+          {
+            "definition": "a person or thing that is outdated or has become obsolete because of failure to adapt to changing circumstances."
+          }
+        ]
+      }
+    ]
+  }
+]

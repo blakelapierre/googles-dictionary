@@ -1,0 +1,46 @@
+[
+  {
+    "word": "accordion",
+    "syllables": [
+      "ac",
+      "cor",
+      "di",
+      "on"
+    ],
+    "pronunciation": "əˈkôrdēən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "accordion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "accordions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a portable musical instrument with metal reeds blown by bellows, played by means of keys and buttons.",
+            "examples": [
+              "an accordion player"
+            ],
+            "synonyms": [
+              "squeezebox",
+              "concertina",
+              "melodeon \"the auction purported to have one of the former star's accordions\""
+            ]
+          },
+          {
+            "definition": "folding like the bellows of an accordion.",
+            "examples": [
+              "modifier noun: accordion"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

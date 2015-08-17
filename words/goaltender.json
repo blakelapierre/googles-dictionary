@@ -1,0 +1,31 @@
+[
+  {
+    "word": "goaltender",
+    "syllables": [
+      "goal",
+      "tend",
+      "er"
+    ],
+    "pronunciation": "ˈɡōlˌtendər",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "goaltender"
+          },
+          {
+            "part": "plural noun",
+            "variant": "goaltenders"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a player in soccer or hockey whose special role is to stop the ball or puck from entering the goal."
+          }
+        ]
+      }
+    ]
+  }
+]

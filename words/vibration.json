@@ -1,0 +1,51 @@
+[
+  {
+    "word": "vibration",
+    "syllables": [
+      "vi",
+      "bra",
+      "tion"
+    ],
+    "pronunciation": "vīˈbrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vibration"
+          },
+          {
+            "part": "plural noun",
+            "variant": "vibrations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an instance of vibrating.",
+            "examples": [
+              "powerful vibrations from an earthquake"
+            ],
+            "synonyms": [
+              "tremor",
+              "shaking",
+              "quivering",
+              "quaking",
+              "shuddering",
+              "throb",
+              "throbbing",
+              "pulsation; Morejudder",
+              "juddering \"loose bolts are causing the vibration\""
+            ]
+          },
+          {
+            "definition": "an oscillation of the parts of a fluid or an elastic solid whose equilibrium has been disturbed, or of an electromagnetic wave."
+          },
+          {
+            "definition": "a person's emotional state, the atmosphere of a place, or the associations of an object, as communicated to and felt by others."
+          }
+        ]
+      }
+    ]
+  }
+]

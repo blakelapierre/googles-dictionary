@@ -1,0 +1,54 @@
+[
+  {
+    "word": "deterioration",
+    "syllables": [
+      "de",
+      "te",
+      "ri",
+      "o",
+      "ra",
+      "tion"
+    ],
+    "pronunciation": "dəˌtirēəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deterioration"
+          },
+          {
+            "part": "plural noun",
+            "variant": "deteriorations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of becoming progressively worse.",
+            "examples": [
+              "a deterioration in the condition of the patient"
+            ],
+            "synonyms": [
+              "decline",
+              "collapse",
+              "failure",
+              "drop",
+              "downturn",
+              "slump; Moreinformalslip",
+              "retrogression \"a deterioration in market conditions\"decay",
+              "degradation",
+              "degeneration",
+              "breakdown",
+              "decomposition",
+              "rot; atrophy",
+              "weakening; breakup",
+              "disintegration",
+              "dilapidation; photodegradation; entropy \"deterioration of the main structure\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

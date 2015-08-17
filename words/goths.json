@@ -1,0 +1,35 @@
+[
+  {
+    "word": "Goth",
+    "syllables": [
+      "Goth"
+    ],
+    "pronunciation": "ɡäTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "Goths"
+          },
+          {
+            "part": "plural noun",
+            "variant": "goths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of a Germanic people that invaded the Roman Empire from the east between the 3rd and 5th centuries. The eastern division, the Ostrogoths, founded a kingdom in Italy, while the Visigoths went on to found one in Spain."
+          },
+          {
+            "definition": "a style of rock music derived from punk, typically with apocalyptic or mystical lyrics."
+          },
+          {
+            "definition": "a member of a subculture favoring black clothing, white and black makeup, and goth music."
+          }
+        ]
+      }
+    ]
+  }
+]

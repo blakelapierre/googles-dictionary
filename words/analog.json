@@ -1,0 +1,66 @@
+[
+  {
+    "word": "analog",
+    "syllables": [
+      "an",
+      "a",
+      "log"
+    ],
+    "pronunciation": "ˈanlˌôɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "analogue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "analogues"
+          },
+          {
+            "part": "noun",
+            "variant": "analog"
+          },
+          {
+            "part": "plural noun",
+            "variant": "analogs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing seen as comparable to another.",
+            "examples": [
+              "the idea that the fertilized egg contains a miniature analog of every adult structure"
+            ]
+          },
+          {
+            "definition": "a compound with a molecular structure closely similar to that of another."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "analogue"
+          },
+          {
+            "part": "adjective",
+            "variant": "analog"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to or using signals or information represented by a continuously variable physical quantity such as spatial position or voltage."
+          },
+          {
+            "definition": "(of a clock or watch) showing the time by means of hands rather than displayed digits."
+          }
+        ]
+      }
+    ]
+  }
+]

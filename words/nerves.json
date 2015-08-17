@@ -1,0 +1,129 @@
+[
+  {
+    "word": "nerve",
+    "syllables": [
+      "nerve"
+    ],
+    "pronunciation": "nərv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "nerves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in the body) a whitish fiber or bundle of fibers that transmits impulses of sensation to the brain or spinal cord, and impulses from these to the muscles and organs.",
+            "examples": [
+              "the optic nerve"
+            ],
+            "synonyms": [
+              "nerve fiber",
+              "neuron",
+              "axon",
+              "dendrite \"the nerves that transmit pain\""
+            ]
+          },
+          {
+            "definition": "a person's mental state, in particular the extent to which they are agitated or worried.",
+            "examples": [
+              "an amazing journey that tested her nerves to the full"
+            ]
+          },
+          {
+            "definition": "nervousness or anxiety.",
+            "examples": [
+              "his first-night nerves soon disappeared"
+            ],
+            "synonyms": [
+              "anxiety",
+              "tension",
+              "nervousness",
+              "stress",
+              "worry",
+              "cold feet",
+              "apprehension; Moreinformalbutterflies (in one's stomach)",
+              "the jitters",
+              "the shakes",
+              "the heebie-jeebies \"pre-wedding nerves\""
+            ]
+          },
+          {
+            "definition": "a person's steadiness, courage, and sense of purpose when facing a demanding situation.",
+            "examples": [
+              "the army's commanders were beginning to lose their nerve"
+            ],
+            "synonyms": [
+              "confidence",
+              "assurance",
+              "coolheadedness",
+              "self-possession; Morecourage",
+              "bravery",
+              "pluck",
+              "boldness",
+              "intrepidity",
+              "fearlessness",
+              "daring; determination",
+              "willpower",
+              "spirit",
+              "backbone",
+              "fortitude",
+              "intestinal fortitude",
+              "mettle",
+              "grit",
+              "true grit",
+              "stout-heartedness; informalguts",
+              "spunk",
+              "moxie \"the match will be a test of nerve\""
+            ]
+          },
+          {
+            "definition": "impudence or audacity.",
+            "examples": [
+              "he had the nerve to insult my cooking"
+            ],
+            "synonyms": [
+              "audacity",
+              "cheek",
+              "effrontery",
+              "gall",
+              "temerity",
+              "presumption",
+              "boldness",
+              "brazenness",
+              "impudence",
+              "impertinence",
+              "arrogance",
+              "cockiness; Moreinformalface",
+              "front",
+              "chutzpah \"he had the nerve to ask her out again\""
+            ]
+          },
+          {
+            "definition": "a prominent unbranched rib in a leaf, especially in the midrib of the leaf of a moss."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "nerves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "brace oneself mentally to face a demanding situation.",
+            "examples": [
+              "she nerved herself to enter the room"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

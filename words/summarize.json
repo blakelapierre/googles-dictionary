@@ -1,0 +1,81 @@
+[
+  {
+    "word": "summarize",
+    "syllables": [
+      "sum",
+      "ma",
+      "rize"
+    ],
+    "pronunciation": "ˈsəməˌrīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "summarize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "summarizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "summarized"
+          },
+          {
+            "part": "past participle",
+            "variant": "summarized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "summarizing"
+          },
+          {
+            "part": "verb",
+            "variant": "summarise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "summarises"
+          },
+          {
+            "part": "past tense",
+            "variant": "summarised"
+          },
+          {
+            "part": "past participle",
+            "variant": "summarised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "summarising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give a brief statement of the main points of (something).",
+            "examples": [
+              "these results can be summarized in the following table"
+            ],
+            "synonyms": [
+              "sum up",
+              "abridge",
+              "condense",
+              "encapsulate",
+              "outline",
+              "give an outline of",
+              "put in a nutshell",
+              "recapitulate",
+              "give/make a summary of",
+              "give a synopsis of",
+              "précis",
+              "synopsize",
+              "give the gist of; informalrecap \"he summarized these ideas in a single phrase\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

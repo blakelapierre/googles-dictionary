@@ -1,0 +1,59 @@
+[
+  {
+    "word": "overawe",
+    "syllables": [
+      "o",
+      "ver",
+      "awe"
+    ],
+    "pronunciation": "ˌōvərˈô",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "overawe"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "overawes"
+          },
+          {
+            "part": "past tense",
+            "variant": "overawed"
+          },
+          {
+            "part": "past participle",
+            "variant": "overawed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "overawing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "impress (someone) so much that they become silent or inhibited.",
+            "examples": [
+              "he used firepower to overawe the hostile tribes"
+            ],
+            "synonyms": [
+              "intimidate",
+              "daunt",
+              "cow",
+              "disconcert",
+              "unnerve",
+              "subdue",
+              "dismay",
+              "frighten",
+              "alarm",
+              "scare",
+              "terrify; informalpsych out \"Jane was overawed by her landlady\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

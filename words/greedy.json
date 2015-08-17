@@ -1,0 +1,62 @@
+[
+  {
+    "word": "greedy",
+    "syllables": [
+      "greed",
+      "y"
+    ],
+    "pronunciation": "ˈɡrēdē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "greedy"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "greedier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "greediest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing an intense and selfish desire for something, especially wealth or power.",
+            "examples": [
+              "greedy thieves who plundered a defense contractor"
+            ],
+            "synonyms": [
+              "avaricious",
+              "acquisitive",
+              "covetous",
+              "grasping",
+              "materialistic",
+              "mercenary",
+              "possessive; Moreinformalmoney-grubbing",
+              "money-grabbing",
+              "grabby \"a greedy capitalist\"eager",
+              "avid",
+              "hungry",
+              "craving",
+              "longing",
+              "yearning",
+              "hankering; impatient",
+              "anxious; informaldying",
+              "itching \"she is greedy for an award\""
+            ]
+          },
+          {
+            "definition": "having an excessive desire or appetite for food.",
+            "examples": [
+              "gluttonous, ravenous, voracious, intemperate, self-indulgent, insatiable, wolfish; Moreinformalpiggish, piggy \"a greedy eater\"Morepiggish, piggy a greedy eater"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

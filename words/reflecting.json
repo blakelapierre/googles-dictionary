@@ -1,0 +1,109 @@
+[
+  {
+    "word": "reflect",
+    "syllables": [
+      "re",
+      "flect"
+    ],
+    "pronunciation": "rəˈflekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "reflecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a surface or body) throw back (heat, light, or sound) without absorbing it.",
+            "examples": [
+              "when the sun's rays hit the earth a lot of the heat is reflected back into space"
+            ],
+            "synonyms": [
+              "send back",
+              "throw back",
+              "cast back \"the snow reflects light\""
+            ]
+          },
+          {
+            "definition": "(of a mirror or shiny surface) show an image of.",
+            "examples": [
+              "he could see himself reflected in Keith's mirrored glasses"
+            ],
+            "synonyms": [
+              "send back",
+              "throw back",
+              "cast back \"the snow reflects light\""
+            ]
+          },
+          {
+            "definition": "embody or represent (something) in a faithful or appropriate way.",
+            "examples": [
+              "stocks are priced at a level that reflects a company's prospects"
+            ],
+            "synonyms": [
+              "indicate",
+              "show",
+              "display",
+              "demonstrate",
+              "be evidence of",
+              "register",
+              "reveal",
+              "betray",
+              "disclose; Moreexpress",
+              "communicate; formalevince \"their expressions reflected their feelings\""
+            ]
+          },
+          {
+            "definition": "(of an action or situation) bring (credit or discredit) to the relevant parties.",
+            "examples": [
+              "the main contract is progressing well, which reflects great credit on those involved"
+            ]
+          },
+          {
+            "definition": "bring about a good or bad impression of.",
+            "examples": [
+              "the incident reflects badly on the operating practices of the airlines"
+            ],
+            "synonyms": [
+              "discredit",
+              "disgrace",
+              "dishonor",
+              "shame",
+              "put in a bad light",
+              "damage",
+              "tarnish the reputation of",
+              "give a bad name to",
+              "bring into disrepute \"stunts like these reflect badly on our school\""
+            ]
+          },
+          {
+            "definition": "think deeply or carefully about.",
+            "examples": [
+              "he reflected with sadness on the unhappiness of his marriage"
+            ],
+            "synonyms": [
+              "think about",
+              "give thought to",
+              "consider",
+              "give consideration to",
+              "review",
+              "mull over",
+              "contemplate",
+              "cogitate about/on",
+              "meditate on",
+              "muse on",
+              "brood on/over",
+              "turn over in one's mind; archaicpore on \"he reflected on his responsibilities\""
+            ]
+          },
+          {
+            "definition": "make disparaging remarks about."
+          }
+        ]
+      }
+    ]
+  }
+]

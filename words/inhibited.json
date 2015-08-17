@@ -1,0 +1,145 @@
+[
+  {
+    "word": "inhibited",
+    "syllables": [
+      "in",
+      "hib",
+      "it",
+      "ed"
+    ],
+    "pronunciation": "inˈhibidəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inhibited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unable to act in a relaxed and natural way because of self-consciousness or mental restraint.",
+            "examples": [
+              "I could never appear nude, I'm far too inhibited"
+            ],
+            "synonyms": [
+              "shy",
+              "reticent",
+              "reserved",
+              "self-conscious",
+              "diffident",
+              "bashful",
+              "coy; Morewary",
+              "reluctant",
+              "hesitant",
+              "insecure",
+              "unconfident",
+              "unassertive",
+              "timid; withdrawn",
+              "repressed",
+              "constrained",
+              "undemonstrative; informaluptight",
+              "anal-retentive \"witnesses should not be inhibited to reveal what they know\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inhibit",
+    "syllables": [
+      "in",
+      "hib",
+      "it"
+    ],
+    "pronunciation": "inˈhibit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "inhibited"
+          },
+          {
+            "part": "past participle",
+            "variant": "inhibited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hinder, restrain, or prevent (an action or process).",
+            "examples": [
+              "cold inhibits plant growth"
+            ],
+            "synonyms": [
+              "impede",
+              "hinder",
+              "hamper",
+              "hold back",
+              "discourage",
+              "interfere with",
+              "obstruct",
+              "slow down",
+              "retard; Morecurb",
+              "check",
+              "suppress",
+              "restrict",
+              "fetter",
+              "cramp",
+              "frustrate",
+              "stifle",
+              "prevent",
+              "block",
+              "thwart",
+              "foil",
+              "stop",
+              "halt \"the obstacles that inhibit change\""
+            ],
+            "antonyms": [
+              "encourage",
+              "allow"
+            ]
+          },
+          {
+            "definition": "prevent or prohibit (someone) from doing something.",
+            "examples": [
+              "the earnings rule inhibited some retired people from working"
+            ],
+            "synonyms": [
+              "prevent",
+              "disallow",
+              "exclude",
+              "forbid",
+              "prohibit",
+              "preclude",
+              "ban",
+              "bar",
+              "interdict \"she feels inhibited from taking part\""
+            ],
+            "antonyms": [
+              "encourage"
+            ]
+          },
+          {
+            "definition": "voluntarily or involuntarily restrain the direct expression of (an instinctive impulse)."
+          },
+          {
+            "definition": "(chiefly of a drug or other substance) slow down or prevent (a process, reaction, or function) or reduce the activity of (an enzyme or other agent)."
+          },
+          {
+            "definition": "make (someone) self-conscious and unable to act in a relaxed and natural way.",
+            "examples": [
+              "his mother's strictures would always inhibit him"
+            ]
+          },
+          {
+            "definition": "(in ecclesiastical law) forbid (a member of the clergy) to exercise clerical functions."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "word": "hypocrisy",
+    "syllables": [
+      "hy",
+      "poc",
+      "ri",
+      "sy"
+    ],
+    "pronunciation": "həˈpäkrəsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hypocrisy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hypocrisies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the practice of claiming to have moral standards or beliefs to which one's own behavior does not conform; pretense.",
+            "examples": [
+              "dissimulation, false virtue, cant, posturing, affectation, speciousness, empty talk, insincerity, falseness, deceit, dishonesty, mendacity, pretense, duplicity; Moresanctimoniousness, sanctimony, pietism, piousness; informalphoniness, fraud \"must politics be the perennial benchmark of hypocrisy?\"Moresanctimoniousness, sanctimony, pietism, piousness; phoniness, fraud must politics be the perennial benchmark of hypocrisy?"
+            ],
+            "antonyms": [
+              "sincerity"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

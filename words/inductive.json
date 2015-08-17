@@ -1,0 +1,36 @@
+[
+  {
+    "word": "inductive",
+    "syllables": [
+      "in",
+      "duc",
+      "tive"
+    ],
+    "pronunciation": "inˈdəktiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inductive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "characterized by the inference of general laws from particular instances.",
+            "examples": [
+              "instinct rather than inductive reasoning marked her approach to life"
+            ]
+          },
+          {
+            "definition": "of, relating to, or caused by electric or magnetic induction."
+          },
+          {
+            "definition": "possessing inductance."
+          }
+        ]
+      }
+    ]
+  }
+]

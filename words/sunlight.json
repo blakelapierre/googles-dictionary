@@ -1,0 +1,36 @@
+[
+  {
+    "word": "sunlight",
+    "syllables": [
+      "sun",
+      "light"
+    ],
+    "pronunciation": "ˈsənˌlīt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sunlight"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "light from the sun.",
+            "examples": [
+              "a shaft of sunlight"
+            ],
+            "synonyms": [
+              "daylight",
+              "(the) sun",
+              "sunshine",
+              "the sun's rays",
+              "(natural) light \"avoid sunlight when taking this medication\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "word": "frightened",
+    "syllables": [
+      "fright",
+      "ened"
+    ],
+    "pronunciation": "ˈfrītnd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "frightened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "afraid or anxious.",
+            "examples": [
+              "a frightened child"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "frighten",
+    "syllables": [
+      "fright",
+      "en"
+    ],
+    "pronunciation": "ˈfrītn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "frightened"
+          },
+          {
+            "part": "past participle",
+            "variant": "frightened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (someone) afraid or anxious.",
+            "examples": [
+              "the savagery of his thoughts frightened him"
+            ],
+            "synonyms": [
+              "scare",
+              "startle",
+              "alarm",
+              "terrify",
+              "petrify",
+              "shock",
+              "chill",
+              "panic",
+              "shake",
+              "disturb",
+              "dismay",
+              "unnerve",
+              "unman",
+              "intimidate",
+              "terrorize",
+              "cow",
+              "daunt; Morestrike terror into",
+              "put the fear of God into",
+              "chill someone to the bone/marrow",
+              "make someone's blood run cold; informalscare the living daylights out of",
+              "scare stiff",
+              "scare someone out of their wits",
+              "scare witless",
+              "scare to death",
+              "scare the pants off",
+              "spook",
+              "make someone's hair stand on end",
+              "make someone jump out of their skin",
+              "give someone the heebie-jeebies",
+              "make someone's hair curl",
+              "scare the bejesus out of; archaicaffright \"the fighting in the streets frightened us\"terrifying",
+              "horrifying",
+              "alarming",
+              "startling",
+              "white-knuckle",
+              "chilling",
+              "spine-chilling",
+              "hair-raising",
+              "blood-curdling",
+              "bone-chilling",
+              "disturbing",
+              "unnerving",
+              "intimidating",
+              "daunting",
+              "dismaying",
+              "upsetting",
+              "harrowing",
+              "traumatic; eerie",
+              "sinister",
+              "fearsome",
+              "nightmarish",
+              "macabre",
+              "menacing; eldritch; informalscary",
+              "spooky",
+              "creepy",
+              "hairy \"a frightening story about bloodthirsty aliens\""
+            ]
+          },
+          {
+            "definition": "deter someone or something from involvement or action by making them afraid."
+          },
+          {
+            "definition": "(of a person) become afraid or anxious.",
+            "examples": [
+              "at his age, I guess he doesn't frighten any more"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "word": "restore",
+    "syllables": [
+      "re",
+      "store"
+    ],
+    "pronunciation": "rəˈstôr",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "restoring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring back (a previous right, practice, custom, or situation); reinstate.",
+            "examples": [
+              "the government restored confidence in the housing market"
+            ],
+            "synonyms": [
+              "reinstate",
+              "bring back",
+              "reinstitute",
+              "reimpose",
+              "reinstall",
+              "reestablish \"the aim to restore democracy\""
+            ],
+            "antonyms": [
+              "abolish"
+            ]
+          },
+          {
+            "definition": "return (someone or something) to a former condition, place, or position.",
+            "examples": [
+              "the effort to restore him to office isn't working"
+            ]
+          },
+          {
+            "definition": "repair or renovate (a building, work of art, vehicle, etc.) so as to return it to its original condition.",
+            "examples": [
+              "the building has been lovingly restored"
+            ],
+            "synonyms": [
+              "repair",
+              "fix",
+              "mend",
+              "refurbish",
+              "recondition",
+              "rehabilitate",
+              "rebuild",
+              "reconstruct",
+              "remodel",
+              "overhaul",
+              "redevelop",
+              "renovate; Moreinformaldo up",
+              "rehab \"the building has been restored\""
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "give (something previously stolen, taken away, or lost) back to the original owner or recipient.",
+            "examples": [
+              "the government will restore land and property to those who lost it through confiscation"
+            ],
+            "synonyms": [
+              "return",
+              "give back",
+              "hand back \"he restored it to its rightful owner\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

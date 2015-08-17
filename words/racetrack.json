@@ -1,0 +1,33 @@
+[
+  {
+    "word": "racetrack",
+    "syllables": [
+      "race",
+      "track"
+    ],
+    "pronunciation": "ˈrāsˌtrak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "racetrack"
+          },
+          {
+            "part": "plural noun",
+            "variant": "racetracks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a ground or track for horse or dog racing."
+          },
+          {
+            "definition": "a track for auto racing."
+          }
+        ]
+      }
+    ]
+  }
+]

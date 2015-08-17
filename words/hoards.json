@@ -1,0 +1,102 @@
+[
+  {
+    "word": "hoard",
+    "syllables": [
+      "hoard"
+    ],
+    "pronunciation": "hôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "hoards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a stock or store of money or valued objects, typically one that is secret or carefully guarded.",
+            "examples": [
+              "he came back to rescue his little hoard of gold"
+            ],
+            "synonyms": [
+              "cache",
+              "stockpile",
+              "stock",
+              "store",
+              "collection",
+              "supply",
+              "reserve",
+              "reservoir",
+              "fund",
+              "accumulation; Moretreasury",
+              "treasure house",
+              "treasure trove; informalstash \"a secret hoard of gold\""
+            ]
+          },
+          {
+            "definition": "an ancient store of coins or other valuable artifacts.",
+            "examples": [
+              "a hoard of Romano-British bronzes"
+            ]
+          },
+          {
+            "definition": "an amassed store of useful information or facts, retained for future use.",
+            "examples": [
+              "a hoard of secret information about his work"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "hoards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "amass (money or valued objects) and hide or store away.",
+            "examples": [
+              "thousands of antiques hoarded by a compulsive collector"
+            ],
+            "synonyms": [
+              "stockpile",
+              "store",
+              "store up",
+              "stock up on",
+              "put aside",
+              "put by",
+              "lay by",
+              "lay up",
+              "set aside",
+              "stow away",
+              "buy up; Morecache",
+              "amass",
+              "collect",
+              "save",
+              "gather",
+              "garner",
+              "accumulate",
+              "squirrel away",
+              "put aside for a rainy day; informalstash away",
+              "salt away \"they hoarded rations\""
+            ],
+            "antonyms": [
+              "squander"
+            ]
+          },
+          {
+            "definition": "reserve in the mind for future use.",
+            "examples": [
+              "a year's worth of hoarded resentments and grudges"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "word": "clockwise",
+    "syllables": [
+      "clock",
+      "wise"
+    ],
+    "pronunciation": "ˈkläkˌwīz",
+    "parts": [
+      {
+        "part": "adverb & adjective",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "clockwise"
+          },
+          {
+            "part": "adjective",
+            "variant": "clockwise"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a curve corresponding in direction to the typical forward movement of the hands of a clock.",
+            "examples": [
+              "turn the knob clockwise"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

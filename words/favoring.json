@@ -1,0 +1,90 @@
+[
+  {
+    "word": "favor",
+    "syllables": [
+      "fa",
+      "vor"
+    ],
+    "pronunciation": "ˈfāvər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "favoring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel or show approval or preference for.",
+            "examples": [
+              "slashing public spending is a policy that few politicians favor"
+            ],
+            "synonyms": [
+              "prefer",
+              "lean toward",
+              "opt for",
+              "tend toward",
+              "be in favor of; Moreapprove (of)",
+              "advocate",
+              "support \"she favors the modest option\""
+            ],
+            "antonyms": [
+              "oppose"
+            ]
+          },
+          {
+            "definition": "give unfairly preferential treatment to.",
+            "examples": [
+              "critics argued that the policy favored the private sector"
+            ]
+          },
+          {
+            "definition": "work to the advantage of.",
+            "examples": [
+              "natural selection has favored bats"
+            ],
+            "synonyms": [
+              "benefit",
+              "advantage",
+              "help",
+              "assist",
+              "aid",
+              "be of service to",
+              "do a favor for \"the conditions favored the other team\""
+            ],
+            "antonyms": [
+              "hinder"
+            ]
+          },
+          {
+            "definition": "(often used in polite requests) give someone (something that they want).",
+            "examples": [
+              "please favor me with an answer"
+            ],
+            "synonyms": [
+              "oblige",
+              "honor",
+              "gratify",
+              "humor",
+              "indulge \"he favored Lucy with a smile\""
+            ]
+          },
+          {
+            "definition": "resemble (a parent or relative) in facial features.",
+            "examples": [
+              "she's pretty, and she favors you"
+            ]
+          },
+          {
+            "definition": "treat (an injured limb) gently, not putting one's full weight on it.",
+            "examples": [
+              "he favors his sore leg"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

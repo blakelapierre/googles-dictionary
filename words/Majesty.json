@@ -1,0 +1,48 @@
+[
+  {
+    "word": "majesty",
+    "syllables": [
+      "maj",
+      "es",
+      "ty"
+    ],
+    "pronunciation": "ˈmajəstē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "majesty"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "impressive stateliness, dignity, or beauty.",
+            "examples": [
+              "experience the majesty of the Rockies"
+            ]
+          },
+          {
+            "definition": "royal power.",
+            "examples": [
+              "the majesty of the royal household"
+            ]
+          },
+          {
+            "definition": "a title given to a sovereign or a sovereign's wife or widow.",
+            "examples": [
+              "noun: Majesty; plural noun: Majesties"
+            ]
+          },
+          {
+            "definition": "used in the title of several state institutions.",
+            "examples": [
+              "Her Majesty's Inspectorate of Schools"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "pith",
+    "syllables": [
+      "pith"
+    ],
+    "pronunciation": "piTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pith"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "piths"
+          },
+          {
+            "part": "past tense",
+            "variant": "pithed"
+          },
+          {
+            "part": "past participle",
+            "variant": "pithed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pithing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove the pith from."
+          },
+          {
+            "definition": "pierce or sever the spinal cord of (an animal) so as to kill or immobilize it."
+          }
+        ]
+      }
+    ]
+  }
+]

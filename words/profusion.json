@@ -1,0 +1,43 @@
+[
+  {
+    "word": "profusion",
+    "syllables": [
+      "pro",
+      "fu",
+      "sion"
+    ],
+    "pronunciation": "prəˈfyo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "profusion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "profusions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an abundance or large quantity of something.",
+            "examples": [
+              "a rich profusion of wildflowers"
+            ],
+            "synonyms": [
+              "abundance",
+              "mass",
+              "host",
+              "cornucopia",
+              "riot",
+              "superabundance; Moreinformalsea",
+              "wealth; vulgar slangassload; formalplenitude \"a profusion of crocuses covered the front lawn\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

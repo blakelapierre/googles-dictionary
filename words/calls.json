@@ -1,0 +1,174 @@
+[
+  {
+    "word": "call",
+    "syllables": [
+      "call"
+    ],
+    "pronunciation": "kôl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "calls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cry made as a summons or to attract someone's attention.",
+            "examples": [
+              "a nearby fisherman heard their calls for help"
+            ],
+            "synonyms": [
+              "cry",
+              "shout",
+              "yell",
+              "roar",
+              "scream",
+              "exclamation",
+              "vociferation; informalholler \"I heard calls from the auditorium\""
+            ]
+          },
+          {
+            "definition": "the characteristic cry of a bird or other animal.",
+            "examples": [
+              "it is best distinguished by its call, a loud “pwit”"
+            ],
+            "synonyms": [
+              "cry",
+              "song",
+              "sound \"the call of the loon\""
+            ]
+          },
+          {
+            "definition": "a series of notes sounded on a brass instrument as a signal to do something.",
+            "examples": [
+              "a bugle call to rise at 5:30"
+            ]
+          },
+          {
+            "definition": "a direction in a square dance given by the caller."
+          },
+          {
+            "definition": "a bid, response, or double.",
+            "examples": [
+              "the alternative call of 2♠ would be quite unsound"
+            ]
+          },
+          {
+            "definition": "an instance of speaking to someone on the phone or attempting to contact someone by phone.",
+            "examples": [
+              "I'll give you a call at around five"
+            ],
+            "synonyms": [
+              "phone call",
+              "telephone call",
+              "ring; informalbuzz \"I'll give you a call tomorrow\""
+            ]
+          },
+          {
+            "definition": "a brief social visit.",
+            "examples": [
+              "we paid a call on Howard"
+            ],
+            "synonyms": [
+              "visit",
+              "social call \"he paid a call on Harold\""
+            ]
+          },
+          {
+            "definition": "a visit or journey made by a doctor or other professional in response to a request for help, especially in an emergency situation.",
+            "examples": [
+              "the ambulance is out on a call"
+            ]
+          },
+          {
+            "definition": "an appeal or demand for something to happen or be done.",
+            "examples": [
+              "the call for action was welcomed"
+            ],
+            "synonyms": [
+              "appeal",
+              "request",
+              "plea",
+              "entreaty More\"a call for party unity\"summons",
+              "request \"the last call for passengers on flight 701\""
+            ]
+          },
+          {
+            "definition": "demand or need for (goods or services).",
+            "examples": [
+              "there was little call for work as sophisticated as his"
+            ],
+            "synonyms": [
+              "demand",
+              "desire",
+              "market \"there's no call for expensive wine here\""
+            ]
+          },
+          {
+            "definition": "an order or request for someone to be present.",
+            "examples": [
+              "he was delighted that so many former players had heeded the call to attend the conference"
+            ],
+            "synonyms": [
+              "summons",
+              "request \"the last call for passengers on flight 701\""
+            ]
+          },
+          {
+            "definition": "a vocation.",
+            "examples": [
+              "feeling the call to ministry, I started looking for a Bible college"
+            ]
+          },
+          {
+            "definition": "a powerful force of attraction.",
+            "examples": [
+              "hikers can't resist the call of the Sierras"
+            ],
+            "synonyms": [
+              "attraction",
+              "appeal",
+              "lure",
+              "allure",
+              "spell",
+              "pull",
+              "draw \"the call of the sea\""
+            ]
+          },
+          {
+            "definition": "(in sports) a decision or ruling made by an umpire or other official, traditionally conveyed by a shout, that the ball has gone out of play or that a rule has been breached.",
+            "examples": [
+              "he was visibly irritated with the umpire's calls"
+            ]
+          },
+          {
+            "definition": "a decision, judgement, or prediction.",
+            "examples": [
+              "personally, I'm all in favor, but it's your call"
+            ]
+          },
+          {
+            "definition": "a command to execute a subroutine.",
+            "examples": [
+              "parameter values may be changed by calls to a special purpose input specification subroutine"
+            ]
+          },
+          {
+            "definition": "a demand for payment of lent or unpaid capital."
+          },
+          {
+            "definition": "short for call option."
+          }
+        ]
+      }
+    ]
+  }
+]

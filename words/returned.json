@@ -1,0 +1,160 @@
+[
+  {
+    "word": "return",
+    "syllables": [
+      "re",
+      "turn"
+    ],
+    "pronunciation": "rəˈtərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "returned"
+          },
+          {
+            "part": "past participle",
+            "variant": "returned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come or go back to a place or person.",
+            "examples": [
+              "he returned to Canada in the fall"
+            ],
+            "synonyms": [
+              "go back",
+              "come back",
+              "come home \"he returned to Halifax\""
+            ],
+            "antonyms": [
+              "depart"
+            ]
+          },
+          {
+            "definition": "go back to (a particular state or activity).",
+            "examples": [
+              "Ollie had returned to full health"
+            ]
+          },
+          {
+            "definition": "turn one's attention back to (something).",
+            "examples": [
+              "he returned to his newspaper"
+            ]
+          },
+          {
+            "definition": "(especially of a feeling) come back or recur after a period of absence.",
+            "examples": [
+              "her appetite had returned"
+            ],
+            "synonyms": [
+              "recur",
+              "reoccur",
+              "occur again",
+              "repeat (itself); Morereappear",
+              "appear again \"the symptoms returned\""
+            ],
+            "antonyms": [
+              "disappear"
+            ]
+          },
+          {
+            "definition": "give, put, or send (something) back to a place or person.",
+            "examples": [
+              "complete the application form and return it to this address"
+            ],
+            "synonyms": [
+              "give back",
+              "hand back; Morepay back",
+              "repay \"he returned the money\"restore",
+              "put back",
+              "replace",
+              "reinstall \"Peter returned the book to the shelf\""
+            ],
+            "antonyms": [
+              "keep"
+            ]
+          },
+          {
+            "definition": "feel, say, or do (the same feeling, action, etc.) in response.",
+            "examples": [
+              "she returned his kiss"
+            ],
+            "synonyms": [
+              "reciprocate",
+              "requite",
+              "give in return",
+              "respond to",
+              "repay",
+              "give back More\"she returned his kiss\"answer",
+              "reply",
+              "respond",
+              "counter",
+              "rejoin",
+              "retort",
+              "come back \"“Later",
+              "” returned Isabel\""
+            ],
+            "antonyms": [
+              "ignore"
+            ]
+          },
+          {
+            "definition": "(in tennis and other sports) hit or send (the ball) back to an opponent.",
+            "examples": [
+              "hit back, throw back he returned the volley"
+            ],
+            "antonyms": [
+              "miss"
+            ]
+          },
+          {
+            "definition": "run upfield with the ball after fielding (a kick), intercepting (a pass), or recovering (a fumble)."
+          },
+          {
+            "definition": "(of a judge or jury) state or present (a verdict) in response to a formal request.",
+            "examples": [
+              "deliver, bring in, hand down the jury returned a unanimous verdict"
+            ]
+          },
+          {
+            "definition": "lead (a card of a suit led earlier by one's partner)."
+          },
+          {
+            "definition": "continue (a wall) in a changed direction, especially at right angles."
+          },
+          {
+            "definition": "yield or make (a profit).",
+            "examples": [
+              "the company returned a profit of 4.3 million dollars"
+            ],
+            "synonyms": [
+              "yield",
+              "earn",
+              "realize",
+              "net",
+              "gross",
+              "clear \"the club returned a profit\""
+            ]
+          },
+          {
+            "definition": "(of an electorate) elect (a person or party) to office.",
+            "examples": [
+              "the Democrat was returned in the third district"
+            ],
+            "synonyms": [
+              "elect",
+              "vote in",
+              "choose",
+              "select \"the swing might result in a leftist party being returned in the next election\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

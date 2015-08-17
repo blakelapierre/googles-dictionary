@@ -1,0 +1,157 @@
+[
+  {
+    "word": "worship",
+    "syllables": [
+      "wor",
+      "ship"
+    ],
+    "pronunciation": "ˈwərSHəp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "worship"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the feeling or expression of reverence and adoration for a deity.",
+            "examples": [
+              "the worship of God"
+            ],
+            "synonyms": [
+              "reverence",
+              "veneration",
+              "adoration",
+              "glorification",
+              "glory",
+              "exaltation; Moredevotion",
+              "praise",
+              "thanksgiving",
+              "homage",
+              "honor; archaicmagnification \"the worship of idols\""
+            ]
+          },
+          {
+            "definition": "the acts or rites that make up a formal expression of reverence for a deity; a religious ceremony or ceremonies.",
+            "examples": [
+              "the church was opened for public worship"
+            ],
+            "synonyms": [
+              "service",
+              "religious rite",
+              "prayer",
+              "praise",
+              "devotion",
+              "religious observance \"morning worship\""
+            ]
+          },
+          {
+            "definition": "adoration or devotion comparable to religious homage, shown toward a person or principle.",
+            "examples": [
+              "our society’s worship of teenagers"
+            ],
+            "synonyms": [
+              "admiration",
+              "adulation",
+              "idolization",
+              "lionization",
+              "hero worship \"he contemplated her with worship\""
+            ]
+          },
+          {
+            "definition": "honor given to someone in recognition of their merit."
+          },
+          {
+            "definition": "used in addressing or referring to an important or high-ranking person, especially a magistrate or mayor.",
+            "examples": [
+              "noun: His Worship; noun: Your Worship; plural noun: Worships"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "worship"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "worships"
+          },
+          {
+            "part": "past tense",
+            "variant": "worshipped"
+          },
+          {
+            "part": "past participle",
+            "variant": "worshipped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "worshipping"
+          },
+          {
+            "part": "past tense",
+            "variant": "worshiped"
+          },
+          {
+            "part": "past participle",
+            "variant": "worshiped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "worshiping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "show reverence and adoration for (a deity); honor with religious rites.",
+            "examples": [
+              "the Maya built jungle pyramids to worship their gods"
+            ],
+            "synonyms": [
+              "revere",
+              "reverence",
+              "venerate",
+              "pay homage to",
+              "honor",
+              "adore",
+              "praise",
+              "pray to",
+              "glorify",
+              "exalt",
+              "extol; Morehold dear",
+              "cherish",
+              "treasure",
+              "esteem",
+              "adulate",
+              "idolize",
+              "deify",
+              "hero-worship",
+              "lionize",
+              "overpraise; follow",
+              "look up to; informalput on a pedestal; formallaud; archaicmagnify \"they worship pagan gods\""
+            ]
+          },
+          {
+            "definition": "treat (someone or something) with the reverence and adoration appropriate to a deity.",
+            "examples": [
+              "she adores her sons and they worship her"
+            ]
+          },
+          {
+            "definition": "take part in a religious ceremony.",
+            "examples": [
+              "he went to the cathedral because he chose to worship in a spiritually inspiring building"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "word": "recruit",
+    "syllables": [
+      "re",
+      "cruit"
+    ],
+    "pronunciation": "rəˈkro͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "recruits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "enlist (someone) in the armed forces.",
+            "examples": [
+              "they recruit their toughest soldiers from the desert tribes"
+            ],
+            "synonyms": [
+              "enlist",
+              "call up",
+              "conscript",
+              "draft",
+              "muster in; archaiclevy \"more soldiers were recruited\""
+            ]
+          },
+          {
+            "definition": "form (an army or other force) by enlisting new people.",
+            "examples": [
+              "a basis for recruiting an army"
+            ],
+            "synonyms": [
+              "muster",
+              "form",
+              "raise",
+              "mobilize \"the king recruited an army\""
+            ],
+            "antonyms": [
+              "disband"
+            ]
+          },
+          {
+            "definition": "enroll (someone) as a member or worker in an organization or as a supporter of a cause.",
+            "examples": [
+              "there are plans to recruit more staff later this year"
+            ],
+            "synonyms": [
+              "hire",
+              "employ",
+              "take on; Moreenroll",
+              "sign up",
+              "engage \"the company is recruiting staff\""
+            ],
+            "antonyms": [
+              "dismiss"
+            ]
+          },
+          {
+            "definition": "persuade (someone) to do or assist in doing something.",
+            "examples": [
+              "she recruited her children to help run the racket"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "recruits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person newly enlisted in the armed forces and not yet fully trained.",
+            "examples": [
+              "3,000 army recruits at Ft. Benjamin"
+            ],
+            "synonyms": [
+              "conscript",
+              "new soldier; Moredraftee",
+              "yardbird \"thousands of recruits were enlisted\""
+            ]
+          },
+          {
+            "definition": "a new member of an organization or a new supporter of a cause.",
+            "examples": [
+              "after agreeing on a salary, the new recruit failed to turn up on Monday morning"
+            ],
+            "synonyms": [
+              "new member",
+              "new entrant",
+              "newcomer",
+              "initiate",
+              "beginner",
+              "novice",
+              "tenderfoot",
+              "hire; Moreinformalrookie",
+              "newbie",
+              "greenhorn \"top-quality recruits\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

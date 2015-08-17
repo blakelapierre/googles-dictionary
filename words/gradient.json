@@ -1,0 +1,68 @@
+[
+  {
+    "word": "gradient",
+    "syllables": [
+      "gra",
+      "di",
+      "ent"
+    ],
+    "pronunciation": "ˈɡrādēənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gradient"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gradients"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an inclined part of a road or railway; a slope.",
+            "examples": [
+              "fail-safe brakes for use on steep gradients"
+            ],
+            "synonyms": [
+              "slope",
+              "incline",
+              "hill",
+              "rise",
+              "ramp",
+              "bank; Moredeclivity",
+              "grade \"the gradient of Miller's Hill Road is less steep than it was fifty years ago\""
+            ]
+          },
+          {
+            "definition": "the degree of a slope.",
+            "examples": [
+              "the path becomes very rough as the gradient increases"
+            ],
+            "synonyms": [
+              "steepness",
+              "angle",
+              "slant",
+              "slope",
+              "inclination \"the gradient of the line\""
+            ]
+          },
+          {
+            "definition": "the degree of steepness of a graph at any point."
+          },
+          {
+            "definition": "an increase or decrease in the magnitude of a property (e.g., temperature, pressure, or concentration) observed in passing from one point or moment to another."
+          },
+          {
+            "definition": "the rate of a gradient change."
+          },
+          {
+            "definition": "the vector formed by the operator ∇ acting on a scalar function at a given point in a scalar field."
+          }
+        ]
+      }
+    ]
+  }
+]

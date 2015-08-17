@@ -1,0 +1,40 @@
+[
+  {
+    "word": "inoculate",
+    "syllables": [
+      "in",
+      "oc",
+      "u",
+      "late"
+    ],
+    "pronunciation": "iˈnäkyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "inoculating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "treat (a person or animal) with a vaccine to produce immunity against a disease.",
+            "examples": [
+              "he inoculated his tenants against smallpox"
+            ]
+          },
+          {
+            "definition": "introduce (an infective agent) into an organism.",
+            "examples": [
+              "it can be inoculated into laboratory animals"
+            ]
+          },
+          {
+            "definition": "introduce (cells or organisms) into a culture medium."
+          }
+        ]
+      }
+    ]
+  }
+]

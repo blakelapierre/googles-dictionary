@@ -1,0 +1,36 @@
+[
+  {
+    "word": "preexist",
+    "syllables": [
+      "pre",
+      "ex",
+      "ist"
+    ],
+    "pronunciation": "ˌprēiɡˈzist",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "pre-existing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exist at or from an earlier time.",
+            "examples": [
+              "a preexisting contractual obligation"
+            ]
+          },
+          {
+            "definition": "exist at or from an earlier time than (something).",
+            "examples": [
+              "demons who preexisted the Great Flood"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

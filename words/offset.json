@@ -1,0 +1,80 @@
+[
+  {
+    "word": "offset",
+    "syllables": [
+      "off",
+      "set"
+    ],
+    "pronunciation": "ˈôfˌsetˈäfˌsetˌôfˈsetˈôfˌset",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "offset"
+          },
+          {
+            "part": "plural noun",
+            "variant": "offsets"
+          },
+          {
+            "part": "noun",
+            "variant": "off-set"
+          },
+          {
+            "part": "plural noun",
+            "variant": "off-sets"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "offset"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "offsets"
+          },
+          {
+            "part": "past tense",
+            "variant": "offset"
+          },
+          {
+            "part": "past participle",
+            "variant": "offset"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "offsetting"
+          },
+          {
+            "part": "verb",
+            "variant": "off-set"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "off-sets"
+          },
+          {
+            "part": "past tense",
+            "variant": "off-set"
+          },
+          {
+            "part": "past participle",
+            "variant": "off-set"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "off-setting"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

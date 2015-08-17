@@ -1,0 +1,118 @@
+[
+  {
+    "word": "Buttons",
+    "syllables": [
+      "But",
+      "tons"
+    ],
+    "pronunciation": "ˈbətnz",
+    "parts": [
+      {
+        "part": "nounBritishinformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Buttons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a nickname for a liveried pageboy, especially in pantomimes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "button",
+    "syllables": [
+      "but",
+      "ton"
+    ],
+    "pronunciation": "ˈbətn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "buttons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small disk or knob sewn onto a garment, either to fasten it by being pushed through a slit made for the purpose, or for decoration.",
+            "examples": [
+              "a blouse with five buttons in front"
+            ],
+            "synonyms": [
+              "fastener",
+              "stud",
+              "toggle; Morehook",
+              "catch",
+              "clasp",
+              "snap fastener",
+              "pin \"shirt buttons\""
+            ]
+          },
+          {
+            "definition": "a small, round object resembling a button.",
+            "examples": [
+              "chocolate buttons"
+            ]
+          },
+          {
+            "definition": "a knob fitted to the point of a foil to make it harmless."
+          },
+          {
+            "definition": "a knob on a piece of electrical or electronic equipment that is pressed to operate it.",
+            "examples": [
+              "switch, knob, control; Morelever, handle; icon, box \"press the button\"Morelever, handle; icon, box press the button"
+            ]
+          },
+          {
+            "definition": "an element of a graphical user interface which a user can select to perform a particular action.",
+            "examples": [
+              "just search for the app you want and click the 'buy' or 'install' button"
+            ]
+          },
+          {
+            "definition": "a badge bearing a design or slogan and pinned to the clothing."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "buttons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten (clothing) with buttons.",
+            "examples": [
+              "he buttoned up his jacket"
+            ]
+          },
+          {
+            "definition": "fasten the buttons of a garment being worn by (someone).",
+            "examples": [
+              "he buttoned himself into the raincoat"
+            ]
+          },
+          {
+            "definition": "(of a garment) be fastened with buttons.",
+            "examples": [
+              "a dress that buttons down the front"
+            ]
+          },
+          {
+            "definition": "stop talking."
+          }
+        ]
+      }
+    ]
+  }
+]

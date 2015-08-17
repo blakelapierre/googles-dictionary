@@ -1,0 +1,65 @@
+[
+  {
+    "word": "domain",
+    "syllables": [
+      "do",
+      "main"
+    ],
+    "pronunciation": "dōˈmān",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "domain"
+          },
+          {
+            "part": "plural noun",
+            "variant": "domains"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of territory owned or controlled by a ruler or government.",
+            "examples": [
+              "the southwestern French domains of the Plantagenets"
+            ],
+            "synonyms": [
+              "realm",
+              "kingdom",
+              "empire",
+              "dominion",
+              "province",
+              "territory",
+              "land \"they extended their domain\""
+            ]
+          },
+          {
+            "definition": "a specified sphere of activity or knowledge.",
+            "examples": [
+              "the expanding domain of psychology"
+            ],
+            "synonyms": [
+              "field",
+              "area",
+              "sphere",
+              "discipline",
+              "province",
+              "world \"the domain of art\""
+            ]
+          },
+          {
+            "definition": "a discrete region of magnetism in ferromagnetic material."
+          },
+          {
+            "definition": "a distinct subset of the Internet with addresses sharing a common suffix or under the control of a particular organization or individual."
+          },
+          {
+            "definition": "the set of possible values of the independent variable or variables of a function."
+          }
+        ]
+      }
+    ]
+  }
+]

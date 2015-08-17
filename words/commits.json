@@ -1,0 +1,133 @@
+[
+  {
+    "word": "commit",
+    "syllables": [
+      "com",
+      "mit"
+    ],
+    "pronunciation": "kəˈmit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "commits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carry out or perpetrate (a mistake, crime, or immoral act).",
+            "examples": [
+              "he committed an uncharacteristic error"
+            ],
+            "synonyms": [
+              "carry out",
+              "do",
+              "perpetrate",
+              "engage in",
+              "enact",
+              "execute",
+              "effect",
+              "accomplish; Morebe responsible for; informalpull off \"he committed a murder\""
+            ]
+          },
+          {
+            "definition": "pledge or bind (a person or an organization) to a certain course or policy.",
+            "examples": [
+              "they were reluctant to commit themselves to an opinion"
+            ],
+            "synonyms": [
+              "pledge",
+              "devote",
+              "apply",
+              "give",
+              "dedicate \"they committed themselves to the project\""
+            ]
+          },
+          {
+            "definition": "pledge or set aside (resources) for future use.",
+            "examples": [
+              "manufacturers will have to commit substantial funds to developing new engines"
+            ]
+          },
+          {
+            "definition": "be in a long-term emotional relationship with (someone)."
+          },
+          {
+            "definition": "be dedicated to (something).",
+            "examples": [
+              "we must be committed to peace"
+            ],
+            "synonyms": [
+              "devout",
+              "devoted",
+              "dedicated",
+              "loyal",
+              "faithful",
+              "staunch",
+              "firm",
+              "steadfast",
+              "unwavering",
+              "wholehearted",
+              "keen",
+              "passionate",
+              "ardent",
+              "fervent",
+              "sworn",
+              "pledged; Moredutiful",
+              "diligent; informalcard-carrying",
+              "hard-core",
+              "true blue \"a committed family man\""
+            ],
+            "antonyms": [
+              "apathetic"
+            ]
+          },
+          {
+            "definition": "send, entrust, or consign, in particular.",
+            "examples": [
+              "entrust, consign, assign, deliver, give, hand over, relinquish; commend she was committed to their care"
+            ]
+          },
+          {
+            "definition": "consign (someone) officially to prison, especially on remand.",
+            "examples": [
+              "he was committed to prison for contempt of court"
+            ],
+            "synonyms": [
+              "consign",
+              "send",
+              "deliver",
+              "confine \"the judge committed him to prison\""
+            ]
+          },
+          {
+            "definition": "send (a person or case) for trial."
+          },
+          {
+            "definition": "send (someone) to be confined in a psychiatric hospital.",
+            "examples": [
+              "he had been committed for treatment"
+            ],
+            "synonyms": [
+              "hospitalize",
+              "confine",
+              "institutionalize",
+              "put away; certify \"her husband had her committed\""
+            ]
+          },
+          {
+            "definition": "transfer something to (a state or place).",
+            "examples": [
+              "he composed a letter but didn't commit it to paper"
+            ]
+          },
+          {
+            "definition": "refer (a legislative bill) to a committee."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "conformity",
+    "syllables": [
+      "con",
+      "form",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "kənˈfôrmədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "conformity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "compliance with standards, rules, or laws.",
+            "examples": [
+              "conformity to regulations"
+            ]
+          },
+          {
+            "definition": "behavior in accordance with socially accepted conventions or standards.",
+            "examples": [
+              "loyalty to one's party need not imply unquestioning conformity"
+            ]
+          },
+          {
+            "definition": "compliance with the practices of the Church of England."
+          },
+          {
+            "definition": "similarity in form or type; agreement in character.",
+            "examples": [
+              "these changes are intended to ensure conformity between all schemes"
+            ]
+          },
+          {
+            "definition": "(of strata in contact) a continuous sequence of deposits, typically in parallel strata."
+          }
+        ]
+      }
+    ]
+  }
+]

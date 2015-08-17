@@ -1,0 +1,92 @@
+[
+  {
+    "word": "vacuum",
+    "syllables": [
+      "vac",
+      "u",
+      "um"
+    ],
+    "pronunciation": "ˈvakˌyo͞o(ə)m",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vacuum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "vacua"
+          },
+          {
+            "part": "plural noun",
+            "variant": "vacuums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a space entirely devoid of matter.",
+            "examples": [
+              "emptiness, void, nothingness, vacancy, absence, black hole people longing to fill the spiritual vacuum in their lives"
+            ]
+          },
+          {
+            "definition": "a space or container from which the air has been completely or partly removed."
+          },
+          {
+            "definition": "a gap left by the loss, death, or departure of someone or something formerly playing a significant part in a situation or activity.",
+            "examples": [
+              "the political vacuum left by the death of the Emperor"
+            ],
+            "synonyms": [
+              "gap",
+              "space",
+              "lacuna",
+              "void \"the political vacuum left by the emperor's death\""
+            ]
+          },
+          {
+            "definition": "a vacuum cleaner.",
+            "examples": [
+              "vacuum cleaner, vac; MoretrademarkDustbuster, Hoover \"I need to replace the bag in the vacuum\"MoreDustbuster, Hoover I need to replace the bag in the vacuum"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "vacuum"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "vacuums"
+          },
+          {
+            "part": "past tense",
+            "variant": "vacuumed"
+          },
+          {
+            "part": "past participle",
+            "variant": "vacuumed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "vacuuming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clean with a vacuum cleaner.",
+            "examples": [
+              "the room needs to be vacuumed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

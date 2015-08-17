@@ -1,0 +1,138 @@
+[
+  {
+    "word": "exercise",
+    "syllables": [
+      "ex",
+      "er",
+      "cise"
+    ],
+    "pronunciation": "ˈeksərˌsīz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "exercises"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "activity requiring physical effort, carried out especially to sustain or improve health and fitness.",
+            "examples": [
+              "exercise improves your heart and lung power"
+            ],
+            "synonyms": [
+              "physical activity",
+              "a workout",
+              "working out; Moregymnastics",
+              "sports",
+              "games",
+              "physical education",
+              "physical training",
+              "aerobics",
+              "body conditioning",
+              "calisthenics; informalphys ed; humoroussexercise \"exercise improves your heart\""
+            ]
+          },
+          {
+            "definition": "a task or activity done to practice or test a skill.",
+            "examples": [
+              "there are exercises at the end of each chapter to check comprehension"
+            ],
+            "synonyms": [
+              "task",
+              "piece of work",
+              "problem",
+              "assignment",
+              "activity; étude \"his translation exercises\""
+            ]
+          },
+          {
+            "definition": "a process or activity carried out for a specific purpose, especially one concerned with a specified area or skill.",
+            "examples": [
+              "an exercise in public relations"
+            ]
+          },
+          {
+            "definition": "a military drill or training maneuver.",
+            "examples": [
+              "maneuvers, operations; war games military exercises"
+            ]
+          },
+          {
+            "definition": "ceremonies.",
+            "examples": [
+              "graduation exercises"
+            ]
+          },
+          {
+            "definition": "the use or application of a faculty, right, or process.",
+            "examples": [
+              "the free exercise of religion"
+            ],
+            "synonyms": [
+              "use",
+              "utilization",
+              "employment; Morepractice",
+              "application \"the exercise of professional skill\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "exercises"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "use or apply (a faculty, right, or process).",
+            "examples": [
+              "control is exercised by the Board"
+            ],
+            "synonyms": [
+              "use",
+              "employ",
+              "make use of",
+              "utilize; Morepractice",
+              "apply \"he must learn to exercise patience\""
+            ]
+          },
+          {
+            "definition": "engage in physical activity to sustain or improve health and fitness; take exercise.",
+            "examples": [
+              "she still exercised every day"
+            ],
+            "synonyms": [
+              "work out",
+              "do exercises",
+              "train; informalpump iron \"she exercised every day\""
+            ]
+          },
+          {
+            "definition": "exert (part of the body) to promote or improve muscular strength.",
+            "examples": [
+              "raise your knee to exercise the upper leg and hip muscles"
+            ]
+          },
+          {
+            "definition": "cause (an animal) to engage in exercise.",
+            "examples": [
+              "she exercised her dogs before breakfast"
+            ]
+          },
+          {
+            "definition": "occupy the thoughts of; worry or perplex.",
+            "examples": [
+              "the knowledge that a larger margin was possible still exercised him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "word": "minority",
+    "syllables": [
+      "mi",
+      "nor",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "məˈnôrədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "minority"
+          },
+          {
+            "part": "plural noun",
+            "variant": "minorities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the smaller number or part, especially a number that is less than half the whole number.",
+            "examples": [
+              "harsher measures for the minority of really serious offenders"
+            ]
+          },
+          {
+            "definition": "the number of votes cast for or by the smaller party in a legislative assembly.",
+            "examples": [
+              "a blocking minority of 23 votes"
+            ]
+          },
+          {
+            "definition": "a relatively small group of people, especially one commonly discriminated against in a community, society, or nation, differing from others in race, religion, language, or political persuasion.",
+            "examples": [
+              "representatives of ethnic minorities"
+            ]
+          },
+          {
+            "definition": "the state or period of being under the age of full legal responsibility."
+          }
+        ]
+      }
+    ]
+  }
+]

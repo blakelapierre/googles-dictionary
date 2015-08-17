@@ -1,0 +1,57 @@
+[
+  {
+    "word": "velocity",
+    "syllables": [
+      "ve",
+      "loc",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "vəˈläsədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "velocity"
+          },
+          {
+            "part": "plural noun",
+            "variant": "velocities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the speed of something in a given direction.",
+            "examples": [
+              "the velocities of the emitted particles"
+            ]
+          },
+          {
+            "definition": "(in general use) speed.",
+            "examples": [
+              "the tank shot backward at an incredible velocity"
+            ],
+            "synonyms": [
+              "speed",
+              "pace",
+              "rate",
+              "tempo",
+              "momentum",
+              "impetus; Moreswiftness",
+              "rapidity; literaryfleetness",
+              "celerity \"light travels at a constant velocity\""
+            ]
+          },
+          {
+            "definition": "the rate at which money changes hands within an economy.",
+            "examples": [
+              "noun: velocity of circulation; plural noun: velocities of circulation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

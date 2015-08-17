@@ -1,0 +1,69 @@
+[
+  {
+    "word": "windmill",
+    "syllables": [
+      "wind",
+      "mill"
+    ],
+    "pronunciation": "ˈwin(d)mēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "windmill"
+          },
+          {
+            "part": "plural noun",
+            "variant": "windmills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a building with sails or vanes that turn in the wind and generate power to grind grain into flour."
+          },
+          {
+            "definition": "a structure using wind to generate electricity or draw water."
+          },
+          {
+            "definition": "a pinwheel."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "windmill"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "windmills"
+          },
+          {
+            "part": "past tense",
+            "variant": "windmilled"
+          },
+          {
+            "part": "past participle",
+            "variant": "windmilled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "windmilling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(with reference to a person's arms) move or be moved around in a circle in a manner suggestive of the rotating sails or vanes of a windmill."
+          },
+          {
+            "definition": "(of the propeller or rotor of an aircraft, or the aircraft itself) spin unpowered."
+          }
+        ]
+      }
+    ]
+  }
+]

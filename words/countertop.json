@@ -1,0 +1,39 @@
+[
+  {
+    "word": "countertop",
+    "syllables": [
+      "coun",
+      "ter",
+      "top"
+    ],
+    "pronunciation": "ˈkoun(t)ərˌtäp",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "countertop"
+          },
+          {
+            "part": "plural noun",
+            "variant": "countertops"
+          },
+          {
+            "part": "noun",
+            "variant": "counter-top"
+          },
+          {
+            "part": "plural noun",
+            "variant": "counter-tops"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flat surface for working on, especially in a kitchen."
+          }
+        ]
+      }
+    ]
+  }
+]

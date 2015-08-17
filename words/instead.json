@@ -1,0 +1,55 @@
+[
+  {
+    "word": "instead",
+    "syllables": [
+      "in",
+      "stead"
+    ],
+    "pronunciation": "inˈsted",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "instead"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "as an alternative or substitute.",
+            "examples": [
+              "do not use lotions, but put on a clean dressing instead"
+            ],
+            "synonyms": [
+              "as an alternative",
+              "alternatively",
+              "alternately; Moreon second thoughts",
+              "all things being equal \"instead",
+              "let's take the train\""
+            ]
+          },
+          {
+            "definition": "as a substitute or alternative to; in place of.",
+            "examples": [
+              "walk to work instead of going by car"
+            ],
+            "synonyms": [
+              "as an alternative to",
+              "as a substitute for",
+              "as a replacement for",
+              "in place of",
+              "in lieu of",
+              "in preference to; Morerather than",
+              "as opposed to",
+              "as against",
+              "as contrasted with",
+              "before \"I'll have the blue instead of the yellow",
+              "please\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

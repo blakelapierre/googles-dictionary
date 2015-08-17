@@ -1,0 +1,45 @@
+[
+  {
+    "word": "ratio",
+    "syllables": [
+      "ra",
+      "tio"
+    ],
+    "pronunciation": "ˈrāSHēˌō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ratio"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ratios"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quantitative relation between two amounts showing the number of times one value contains or is contained within the other.",
+            "examples": [
+              "the ratio of men's jobs to women's is 8 to 1"
+            ],
+            "synonyms": [
+              "proportion",
+              "comparative number",
+              "correlation",
+              "relationship",
+              "correspondence; Morepercentage",
+              "fraction",
+              "quotient \"the fat ratios in American diets are dangerously askew\""
+            ]
+          },
+          {
+            "definition": "the relative value of silver and gold in a bimetallic system of currency."
+          }
+        ]
+      }
+    ]
+  }
+]

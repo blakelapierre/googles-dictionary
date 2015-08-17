@@ -1,0 +1,124 @@
+[
+  {
+    "word": "nest",
+    "syllables": [
+      "nest"
+    ],
+    "pronunciation": "nest",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nest"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a structure or place made or chosen by a bird for laying eggs and sheltering its young.",
+            "examples": [
+              "roost, aerie the birds built a nest"
+            ]
+          },
+          {
+            "definition": "a place where an animal or insect breeds or shelters.",
+            "examples": [
+              "an ants' nest"
+            ],
+            "synonyms": [
+              "lair",
+              "den",
+              "burrow \"the animals disperse rapidly from the nest\""
+            ]
+          },
+          {
+            "definition": "a person's snug or secluded retreat or shelter.",
+            "examples": [
+              "hideaway, hideout, retreat, shelter, refuge, den a cozy love nest"
+            ]
+          },
+          {
+            "definition": "a bowl-shaped object likened to a bird's nest.",
+            "examples": [
+              "arrange in nests of lettuce leaves"
+            ]
+          },
+          {
+            "definition": "a place filled with or frequented by undesirable people or things.",
+            "examples": [
+              "a nest of spies"
+            ],
+            "synonyms": [
+              "hotbed",
+              "den",
+              "breeding ground",
+              "cradle \"a nest of intrigue\""
+            ]
+          },
+          {
+            "definition": "a set of similar objects of graduated sizes, made so that each smaller one fits into the next in size for storage.",
+            "examples": [
+              "a nest of tables"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "nest"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "nests"
+          },
+          {
+            "part": "past tense",
+            "variant": "nested"
+          },
+          {
+            "part": "past participle",
+            "variant": "nested"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "nesting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a bird or other animal) use or build a nest.",
+            "examples": [
+              "the owls often nest in barns"
+            ]
+          },
+          {
+            "definition": "fit (an object or objects) inside a larger one.",
+            "examples": [
+              "the town is nested inside a large crater on the flanks of a volcano"
+            ]
+          },
+          {
+            "definition": "(of a set of objects) fit inside one another.",
+            "examples": [
+              "Russian dolls that nest inside one another"
+            ]
+          },
+          {
+            "definition": "(especially in computing and linguistics) place (an object or element) in a hierarchical arrangement, typically in a subordinate position.",
+            "examples": [
+              "organisms classified in a series of nested sets"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "word": "refresh",
+    "syllables": [
+      "re",
+      "fresh"
+    ],
+    "pronunciation": "rəˈfreSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "refresh"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "refreshes"
+          },
+          {
+            "part": "past tense",
+            "variant": "refreshed"
+          },
+          {
+            "part": "past participle",
+            "variant": "refreshed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "refreshing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give new strength or energy to; reinvigorate.",
+            "examples": [
+              "the shower had refreshed her"
+            ],
+            "synonyms": [
+              "reinvigorate",
+              "revitalize",
+              "revive",
+              "restore",
+              "fortify",
+              "enliven",
+              "perk up",
+              "stimulate",
+              "freshen",
+              "energize",
+              "exhilarate",
+              "reanimate",
+              "re-energize",
+              "wake up",
+              "revivify",
+              "inspirit; Moreblow away the cobwebs; informalbuck up",
+              "pep up \"the cool air will refresh me\""
+            ],
+            "antonyms": [
+              "weary"
+            ]
+          },
+          {
+            "definition": "stimulate or jog (someone's memory) by checking or going over previous information.",
+            "examples": [
+              "he was able to refresh her memory on many points"
+            ],
+            "synonyms": [
+              "jog",
+              "stimulate",
+              "prompt",
+              "prod \"let me refresh your memory\""
+            ]
+          },
+          {
+            "definition": "revise or update (skills or knowledge).",
+            "examples": [
+              "short-term courses give nurses an opportunity to refresh their skills"
+            ]
+          },
+          {
+            "definition": "update the display on (a screen)."
+          },
+          {
+            "definition": "pour more (drink) for someone or refill (a container) with drink.",
+            "examples": [
+              "the tea is cold and the pot needs refreshing"
+            ],
+            "synonyms": [
+              "refill",
+              "top up",
+              "replenish",
+              "recharge \"I refreshed his glass\""
+            ]
+          },
+          {
+            "definition": "place or keep (food) in cold water so as to cool or maintain freshness."
+          }
+        ]
+      },
+      {
+        "part": "nounComputing",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "refresh"
+          },
+          {
+            "part": "plural noun",
+            "variant": "refreshes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act or function of updating the display on a screen."
+          }
+        ]
+      }
+    ]
+  }
+]

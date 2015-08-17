@@ -1,0 +1,101 @@
+[
+  {
+    "word": "blade",
+    "syllables": [
+      "blade"
+    ],
+    "pronunciation": "blād",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blade"
+          },
+          {
+            "part": "plural noun",
+            "variant": "blades"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the flat cutting edge of a knife, saw, or other tool or weapon."
+          },
+          {
+            "definition": "short for razor blade."
+          },
+          {
+            "definition": "a sword."
+          },
+          {
+            "definition": "a long, narrow flake."
+          },
+          {
+            "definition": "the flat, wide section of an implement or device such as an oar or a propeller."
+          },
+          {
+            "definition": "a thin, flat metal runner on an ice skate."
+          },
+          {
+            "definition": "a prosthetic lower limb designed for athletes, consisting of a flattened length of carbon fiber with a long, curved section at the base.",
+            "examples": [
+              "noun: running blade; plural noun: running blades"
+            ]
+          },
+          {
+            "definition": "a long, narrow leaf of grass or another similar plant.",
+            "examples": [
+              "a blade of grass"
+            ]
+          },
+          {
+            "definition": "the broad thin part of a leaf apart from the stalk."
+          },
+          {
+            "definition": "a shoulder bone in a cut of meat, or the cut of meat itself."
+          },
+          {
+            "definition": "the flat part of the tongue behind the tip."
+          },
+          {
+            "definition": "a dashing or energetic young man."
+          }
+        ]
+      },
+      {
+        "part": "verbUSinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "blade"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "blades"
+          },
+          {
+            "part": "past tense",
+            "variant": "bladed"
+          },
+          {
+            "part": "past participle",
+            "variant": "bladed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "blading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "skate using in-line skates.",
+            "examples": [
+              "we bladed into the parking lot behind Mensky's"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

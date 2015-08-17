@@ -1,0 +1,134 @@
+[
+  {
+    "word": "bargain",
+    "syllables": [
+      "bar",
+      "gain"
+    ],
+    "pronunciation": "ˈbärɡən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bargain"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bargains"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an agreement between two or more parties as to what each party will do for the other.",
+            "examples": [
+              "the extraconstitutional bargain between the northern elite and the southern planters"
+            ],
+            "synonyms": [
+              "agreement",
+              "arrangement",
+              "understanding",
+              "deal; Morecontract",
+              "pact",
+              "compact; pledge",
+              "promise \"I'll make a bargain with you\""
+            ]
+          },
+          {
+            "definition": "a thing bought or offered for sale more cheaply than is usual or expected.",
+            "examples": [
+              "the secondhand table was a real bargain"
+            ],
+            "synonyms": [
+              "good buy",
+              "(good) value for the money",
+              "surprisingly cheap; Moreinformalsteal",
+              "deal",
+              "giveaway",
+              "best buy \"this binder is a bargain at $1.98\""
+            ],
+            "antonyms": [
+              "rip-off"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bargain"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bargains"
+          },
+          {
+            "part": "past tense",
+            "variant": "bargained"
+          },
+          {
+            "part": "past participle",
+            "variant": "bargained"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bargaining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "negotiate the terms and conditions of a transaction.",
+            "examples": [
+              "he bargained with the city council to rent the stadium"
+            ],
+            "synonyms": [
+              "haggle",
+              "negotiate",
+              "discuss terms",
+              "hold talks",
+              "deal",
+              "barter",
+              "dicker; formaltreat \"they bargained over the contract\""
+            ]
+          },
+          {
+            "definition": "part with something after negotiation but get little or nothing in return.",
+            "examples": [
+              "his determination not to bargain away any of the province's existing economic powers"
+            ]
+          },
+          {
+            "definition": "be prepared for; expect.",
+            "examples": [
+              "I got more information than I'd bargained for"
+            ],
+            "synonyms": [
+              "expect",
+              "anticipate",
+              "be prepared for",
+              "allow for",
+              "plan for",
+              "reckon with",
+              "take into account",
+              "take into consideration",
+              "contemplate",
+              "imagine",
+              "envisage",
+              "foresee",
+              "predict; Morecount on",
+              "rely on",
+              "depend on",
+              "bank on",
+              "plan on",
+              "reckon on",
+              "figure on \"a whole new roof is more than we bargained for\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

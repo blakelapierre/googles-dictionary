@@ -1,0 +1,38 @@
+[
+  {
+    "word": "tow",
+    "syllables": [
+      "tow"
+    ],
+    "pronunciation": "tō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "towed"
+          },
+          {
+            "part": "past participle",
+            "variant": "towed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a motor vehicle or boat) pull (another vehicle or boat) along with a rope, chain, or tow bar.",
+            "examples": [
+              "pull, haul, drag, draw, tug, lug the car was towed back to the garage"
+            ]
+          },
+          {
+            "definition": "(of a person) pull (someone or something) along behind one.",
+            "examples": [
+              "she saw Frank towing Nicky along by the hand"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

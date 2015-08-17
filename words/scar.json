@@ -1,0 +1,123 @@
+[
+  {
+    "word": "scar",
+    "syllables": [
+      "scar"
+    ],
+    "pronunciation": "skär",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scar"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely and fibrous connective tissue has developed.",
+            "examples": [
+              "a faint scar ran the length of his left cheek"
+            ],
+            "synonyms": [
+              "cicatrix",
+              "mark",
+              "blemish",
+              "disfigurement",
+              "discoloration",
+              "defacement; Morepockmark",
+              "pock",
+              "pit; lesion",
+              "stigma; birthmark",
+              "nevus; stigmata \"the scar on his left cheek\""
+            ]
+          },
+          {
+            "definition": "a lasting effect of grief, fear, or other emotion left on a person's character by a traumatic experience.",
+            "examples": [
+              "the attack has left mental scars on Terry and his family"
+            ],
+            "synonyms": [
+              "trauma",
+              "damage",
+              "injury \"deep psychological scars\""
+            ]
+          },
+          {
+            "definition": "a mark left on something following damage of some kind.",
+            "examples": [
+              "Max could see scars of the blast"
+            ]
+          },
+          {
+            "definition": "a mark left at the point of separation of a leaf, frond, or other part from a plant."
+          },
+          {
+            "definition": "a steep high cliff or rock outcrop, especially of limestone."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "scar"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "scars"
+          },
+          {
+            "part": "past tense",
+            "variant": "scarred"
+          },
+          {
+            "part": "past participle",
+            "variant": "scarred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "scarring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark with a scar or scars.",
+            "examples": [
+              "he is likely to be scarred for life after injuries to his face, arms, and legs"
+            ],
+            "synonyms": [
+              "disfigure",
+              "mark",
+              "blemish",
+              "discolor; Morepockmark",
+              "pit; stigmatize \"the leg will heal",
+              "but he's likely to be scarred for life\"damage",
+              "spoil",
+              "mar",
+              "deface",
+              "injure; raredisfeature \"the landscape has been scarred by strip mining\"traumatize",
+              "damage",
+              "injure",
+              "wound; distress",
+              "disturb",
+              "upset \"she was profoundly scarred by the incident\""
+            ]
+          },
+          {
+            "definition": "form or be marked with a scar.",
+            "examples": [
+              "gerund or present participle: scaring; past tense: scared; past participle: scared"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

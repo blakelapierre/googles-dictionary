@@ -1,0 +1,61 @@
+[
+  {
+    "word": "germ",
+    "syllables": [
+      "germ"
+    ],
+    "pronunciation": "jərm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "germ"
+          },
+          {
+            "part": "plural noun",
+            "variant": "germs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a microorganism, especially one that causes disease.",
+            "examples": [
+              "microbe, microorganism, bacillus, bacterium, virus; bug this detergent kills germs"
+            ]
+          },
+          {
+            "definition": "a portion of an organism capable of developing into a new one or part of one."
+          },
+          {
+            "definition": "the embryo in a cereal grain or other plant seed.",
+            "examples": [
+              "embryo, bud; Moreseed, spore, ovule; egg, ovum \"a fertilized germ\"Moreseed, spore, ovule; egg, ovum a fertilized germ"
+            ]
+          },
+          {
+            "definition": "an initial stage from which something may develop.",
+            "examples": [
+              "the germ of a brilliant idea"
+            ],
+            "synonyms": [
+              "start",
+              "beginning(s)",
+              "seed",
+              "embryo",
+              "bud",
+              "root",
+              "rudiment; Moreorigin",
+              "source",
+              "potential; core",
+              "nucleus",
+              "kernel",
+              "essence \"the germ of an idea\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

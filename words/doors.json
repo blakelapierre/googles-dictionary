@@ -1,0 +1,45 @@
+[
+  {
+    "word": "door",
+    "syllables": [
+      "door"
+    ],
+    "pronunciation": "dôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "doors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard."
+          },
+          {
+            "definition": "a doorway.",
+            "examples": [
+              "she walked through the door"
+            ],
+            "synonyms": [
+              "doorway",
+              "portal",
+              "opening",
+              "entrance",
+              "entry",
+              "exit \"many a weary traveler has walked through that door\""
+            ]
+          },
+          {
+            "definition": "used to refer to the distance from one building in a row to another.",
+            "examples": [
+              "they lived within three doors of each other"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

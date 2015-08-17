@@ -1,0 +1,86 @@
+[
+  {
+    "word": "logbook",
+    "syllables": [
+      "log",
+      "book"
+    ],
+    "pronunciation": "ˈlôɡˌbo͝okˈläɡˌbo͝ok",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "syllables": [
+      "log"
+    ],
+    "pronunciation": "lôɡläɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "logbook"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a part of the trunk or a large branch of a tree that has fallen or been cut off.",
+            "examples": [
+              "branch, trunk; Morepiece of wood; timber, firewood \"a fallen log\"Morepiece of wood; timber, firewood a fallen log"
+            ]
+          },
+          {
+            "definition": "an official record of events during the voyage of a ship or aircraft.",
+            "examples": [
+              "a ship's log"
+            ],
+            "synonyms": [
+              "record",
+              "register",
+              "logbook",
+              "journal",
+              "diary",
+              "minutes",
+              "chronicle",
+              "daybook",
+              "record book",
+              "ledger",
+              "account",
+              "tally; trademarkdaytimer \"a log of phone calls\""
+            ]
+          },
+          {
+            "definition": "a regular or systematic record of incidents or observations.",
+            "examples": [
+              "keep a detailed log of your activities"
+            ],
+            "synonyms": [
+              "record",
+              "register",
+              "logbook",
+              "journal",
+              "diary",
+              "minutes",
+              "chronicle",
+              "daybook",
+              "record book",
+              "ledger",
+              "account",
+              "tally; trademarkdaytimer \"a log of phone calls\""
+            ]
+          },
+          {
+            "definition": "an apparatus for determining the speed of a ship, originally consisting of a float attached to a knotted line wound on a reel, the distance run out in a certain time being used as an estimate of the vessel's speed."
+          }
+        ]
+      }
+    ]
+  }
+]

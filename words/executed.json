@@ -1,0 +1,92 @@
+[
+  {
+    "word": "execute",
+    "syllables": [
+      "ex",
+      "e",
+      "cute"
+    ],
+    "pronunciation": "ˈeksəˌkyo͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "executed"
+          },
+          {
+            "part": "past participle",
+            "variant": "executed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carry out or put into effect (a plan, order, or course of action).",
+            "examples": [
+              "the corporation executed a series of financial deals"
+            ],
+            "synonyms": [
+              "carry out",
+              "accomplish",
+              "bring off/about",
+              "achieve",
+              "complete",
+              "engineer",
+              "conduct; Moreinformalpull off; formaleffectuate \"the corporation executed a series of financial deals\""
+            ]
+          },
+          {
+            "definition": "produce (a work of art).",
+            "examples": [
+              "not only does she execute embroideries, she designs them, too"
+            ]
+          },
+          {
+            "definition": "perform (an activity or maneuver requiring care or skill).",
+            "examples": [
+              "they had to execute their dance steps with the greatest precision"
+            ],
+            "synonyms": [
+              "perform",
+              "present",
+              "render; stage \"a well-executed act\""
+            ]
+          },
+          {
+            "definition": "make (a legal instrument) valid by signing or sealing it."
+          },
+          {
+            "definition": "carry out (a judicial sentence, the terms of a will, or other order).",
+            "examples": [
+              "police executed a search warrant"
+            ]
+          },
+          {
+            "definition": "carry out an instruction or program."
+          },
+          {
+            "definition": "carry out a sentence of death on (a legally condemned person).",
+            "examples": [
+              "he was convicted of treason and executed"
+            ],
+            "synonyms": [
+              "put to death",
+              "kill; Morehang",
+              "behead",
+              "guillotine",
+              "electrocute",
+              "send to the (electric) chair",
+              "shoot",
+              "put before a firing squad; informalstring up",
+              "fry \"he was convicted and executed\""
+            ]
+          },
+          {
+            "definition": "kill (someone) as a political act."
+          }
+        ]
+      }
+    ]
+  }
+]

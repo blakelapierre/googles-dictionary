@@ -1,0 +1,109 @@
+[
+  {
+    "word": "perfume",
+    "syllables": [
+      "per",
+      "fume"
+    ],
+    "pronunciation": "ˈpərˌfyo͞omˌpərˈfyo͞om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "perfume"
+          },
+          {
+            "part": "plural noun",
+            "variant": "perfumes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fragrant liquid typically made from essential oils extracted from flowers and spices, used to impart a pleasant smell to one's body or clothes.",
+            "examples": [
+              "I caught a whiff of her fresh lemony perfume"
+            ],
+            "synonyms": [
+              "fragrance",
+              "scent",
+              "eau de toilette",
+              "toilet water",
+              "eau de cologne",
+              "cologne",
+              "aftershave \"a bottle of perfume\""
+            ]
+          },
+          {
+            "definition": "a pleasant smell.",
+            "examples": [
+              "the heady perfume of lilacs"
+            ],
+            "synonyms": [
+              "smell",
+              "scent",
+              "fragrance",
+              "aroma",
+              "bouquet",
+              "redolence \"the heady perfume of lilacs\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "perfume"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "perfumes"
+          },
+          {
+            "part": "past tense",
+            "variant": "perfumed"
+          },
+          {
+            "part": "past participle",
+            "variant": "perfumed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "perfuming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "impart a pleasant smell to.",
+            "examples": [
+              "just one bloom of jasmine has the power to perfume a whole room"
+            ]
+          },
+          {
+            "definition": "impregnate (something) with perfume or a sweet-smelling ingredient.",
+            "examples": [
+              "the cream is perfumed with rosemary and iris extracts"
+            ],
+            "synonyms": [
+              "sweet-smelling",
+              "scented",
+              "fragrant",
+              "fragranced",
+              "perfumy",
+              "aromatic \"perfumed soap\""
+            ]
+          },
+          {
+            "definition": "apply perfume to (someone or something).",
+            "examples": [
+              "her hair was oiled and perfumed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

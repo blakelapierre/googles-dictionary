@@ -1,0 +1,74 @@
+[
+  {
+    "word": "improvise",
+    "syllables": [
+      "im",
+      "pro",
+      "vise"
+    ],
+    "pronunciation": "ˈimprəˌvīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "improvising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "create and perform (music, drama, or verse) spontaneously or without preparation.",
+            "examples": [
+              "the ability to improvise operatic arias in any given style"
+            ],
+            "synonyms": [
+              "extemporize",
+              "ad lib",
+              "speak impromptu; Moreinformalspeak off the cuff",
+              "speak off the top of one's head",
+              "wing it; jam",
+              "scat \"she was improvising in front of the cameras\"impromptu",
+              "unrehearsed",
+              "unprepared",
+              "unscripted",
+              "extempore",
+              "extemporized",
+              "spontaneous",
+              "unplanned; informaloff-the-cuff",
+              "ad-libbed",
+              "spur-of-the-moment \"an improvised speech\""
+            ],
+            "antonyms": [
+              "prepared",
+              "rehearsed"
+            ]
+          },
+          {
+            "definition": "produce or make (something) from whatever is available.",
+            "examples": [
+              "I improvised a costume for myself out of an old blue dress"
+            ],
+            "synonyms": [
+              "contrive",
+              "devise",
+              "throw together",
+              "cobble together",
+              "rig up; Moreinformalwhip up",
+              "rustle up \"she improvised a playhouse for the kids\"makeshift",
+              "thrown together",
+              "cobbled together",
+              "rough and ready",
+              "crude",
+              "make-do",
+              "temporary",
+              "jerry-built",
+              "jury-rigged",
+              "slapdash \"an improvised shelter\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

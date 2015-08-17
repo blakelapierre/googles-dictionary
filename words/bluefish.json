@@ -1,0 +1,34 @@
+[
+  {
+    "word": "bluefish",
+    "syllables": [
+      "blue",
+      "fish"
+    ],
+    "pronunciation": "ˈblo͞oˌfiSH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bluefish"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bluefish"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bluefishes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a predatory blue-colored marine fish that inhabits tropical and temperate waters and is popular as a game fish."
+          }
+        ]
+      }
+    ]
+  }
+]

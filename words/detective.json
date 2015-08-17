@@ -1,0 +1,46 @@
+[
+  {
+    "word": "detective",
+    "syllables": [
+      "de",
+      "tec",
+      "tive"
+    ],
+    "pronunciation": "dəˈtektiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "detective"
+          },
+          {
+            "part": "plural noun",
+            "variant": "detectives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person, especially a police officer, whose occupation is to investigate and solve crimes.",
+            "examples": [
+              "investigator, private investigator, private detective, police detective, operative; Moreinformalprivate eye, PI, sleuth, snoop, shamus, gumshoe, Sherlock; informal,dick, private dick \"they hired a detective to track down Polk's former partner\"Moreprivate eye, PI, sleuth, snoop, shamus, gumshoe, Sherlock; dick, private dick they hired a detective to track down Polk's former partner"
+            ]
+          },
+          {
+            "definition": "denoting a particular rank of police officer.",
+            "examples": [
+              "modifier noun: detective"
+            ]
+          },
+          {
+            "definition": "concerning crime and its investigation.",
+            "examples": [
+              "detective work"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

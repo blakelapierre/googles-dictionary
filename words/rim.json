@@ -1,0 +1,151 @@
+[
+  {
+    "word": "rim",
+    "syllables": [
+      "rim"
+    ],
+    "pronunciation": "rim",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rim"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rims"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the upper or outer edge of an object, typically something circular or approximately circular.",
+            "examples": [
+              "a china egg cup with a gold rim"
+            ],
+            "synonyms": [
+              "brim",
+              "edge",
+              "lip \"the rim of her cup\""
+            ]
+          },
+          {
+            "definition": "the outer edge of a wheel, on which the tire is fitted.",
+            "examples": [
+              "noun: wheel rim; plural noun: wheel rims"
+            ]
+          },
+          {
+            "definition": "the metal hoop from which a basketball net is suspended."
+          },
+          {
+            "definition": "the part of a glasses frame surrounding the lenses."
+          },
+          {
+            "definition": "a limit or boundary of something.",
+            "examples": [
+              "the outer rim of the solar system"
+            ],
+            "synonyms": [
+              "edge",
+              "border",
+              "side",
+              "margin",
+              "brink",
+              "fringe",
+              "boundary",
+              "perimeter",
+              "limits",
+              "periphery \"the rim of the crater\""
+            ]
+          },
+          {
+            "definition": "an encircling stain or deposit.",
+            "examples": [
+              "a thick rim of suds"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rim"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rims"
+          },
+          {
+            "part": "past tense",
+            "variant": "rimmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "rimmed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rimming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form or act as an outer edge or rim for.",
+            "examples": [
+              "a huge lake rimmed by glaciers"
+            ]
+          },
+          {
+            "definition": "mark with an encircling stain or deposit.",
+            "examples": [
+              "his collar was rimmed with dirt"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rim",
+    "syllables": [
+      "rim"
+    ],
+    "pronunciation": "rim",
+    "parts": [
+      {
+        "part": "verbvulgar slang",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rim"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rims"
+          },
+          {
+            "part": "past tense",
+            "variant": "rimmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "rimmed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rimming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lick or suck the anus of (someone) as a means of sexual stimulation."
+          }
+        ]
+      }
+    ]
+  }
+]

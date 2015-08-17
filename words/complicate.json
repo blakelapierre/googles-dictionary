@@ -1,0 +1,64 @@
+[
+  {
+    "word": "complicate",
+    "syllables": [
+      "com",
+      "pli",
+      "cate"
+    ],
+    "pronunciation": "ˈkämpləˌkāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "complicate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "complicates"
+          },
+          {
+            "part": "past tense",
+            "variant": "complicated"
+          },
+          {
+            "part": "past participle",
+            "variant": "complicated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "complicating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) more difficult or confusing by causing it to be more complex.",
+            "examples": [
+              "middlemen can complicate the process"
+            ],
+            "synonyms": [
+              "make (more) difficult",
+              "make complicated",
+              "mix up",
+              "confuse",
+              "muddle; Moreinformalmess up",
+              "screw up",
+              "snarl up \"involvement with Adam could only complicate her life\""
+            ],
+            "antonyms": [
+              "simplify"
+            ]
+          },
+          {
+            "definition": "introduce complications in (an existing condition).",
+            "examples": [
+              "smoking may complicate pregnancy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "carpeting",
+    "syllables": [
+      "car",
+      "pet",
+      "ing"
+    ],
+    "pronunciation": "ˈkärpədiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "carpeting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carpets collectively.",
+            "examples": [
+              "offices with wall-to-wall carpeting"
+            ]
+          },
+          {
+            "definition": "the fabric from which carpets are made."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "carpet",
+    "syllables": [
+      "car",
+      "pet"
+    ],
+    "pronunciation": "ˈkärpət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "carpeting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover (a floor or stairs) with a carpet.",
+            "examples": [
+              "the stairs were carpeted in a lovely shade of red"
+            ]
+          },
+          {
+            "definition": "cover with a thick or soft expanse or layer of something.",
+            "examples": [
+              "the meadows are carpeted with flowers"
+            ],
+            "synonyms": [
+              "cover",
+              "coat",
+              "overlay",
+              "overspread",
+              "blanket \"the gravel was carpeted in moss\""
+            ]
+          },
+          {
+            "definition": "reprimand severely."
+          }
+        ]
+      }
+    ]
+  }
+]

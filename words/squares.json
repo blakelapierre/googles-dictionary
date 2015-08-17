@@ -1,0 +1,195 @@
+[
+  {
+    "word": "square",
+    "syllables": [
+      "square"
+    ],
+    "pronunciation": "skwer",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "squares"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plane figure with four equal straight sides and four right angles."
+          },
+          {
+            "definition": "a thing having the shape of four equal straight sides and four right angles.",
+            "examples": [
+              "she tore a bit of cloth into a four-inch square"
+            ]
+          },
+          {
+            "definition": "a thing having the shape or approximate shape of a cube.",
+            "examples": [
+              "a small square of chocolate"
+            ]
+          },
+          {
+            "definition": "an open (typically four-sided) area surrounded by buildings in a town, village, or city.",
+            "examples": [
+              "a market square"
+            ],
+            "synonyms": [
+              "market square",
+              "marketplace",
+              "plaza",
+              "piazza \"a shop in the square\""
+            ]
+          },
+          {
+            "definition": "an open area at the meeting of streets."
+          },
+          {
+            "definition": "a small square area on the board used in a game."
+          },
+          {
+            "definition": "a block of buildings bounded by four streets."
+          },
+          {
+            "definition": "a body of infantry drawn up in rectangular form."
+          },
+          {
+            "definition": "a unit of 100 square ft. used as a measure of flooring, roofing, etc."
+          },
+          {
+            "definition": "the product of a number multiplied by itself.",
+            "examples": [
+              "a circle's area is proportional to the square of its radius"
+            ]
+          },
+          {
+            "definition": "an L-shaped or T-shaped instrument used for obtaining or testing right angles.",
+            "examples": [
+              "a carpenter's square"
+            ]
+          },
+          {
+            "definition": "an aspect of 90° (one quarter of a circle).",
+            "examples": [
+              "Venus in square to Jupiter"
+            ]
+          },
+          {
+            "definition": "a person considered to be old-fashioned or boringly conventional in attitude or behavior.",
+            "examples": [
+              "(old) fogey, conservative, traditionalist, conformist, bourgeois, fossil; Moreinformalstick-in-the-mud, fuddy-duddy, prig, stuffed shirt \"you're such a square!\"Morestick-in-the-mud, fuddy-duddy, prig, stuffed shirt you're such a square!"
+            ],
+            "antonyms": [
+              "trendy"
+            ]
+          },
+          {
+            "definition": "a square meal.",
+            "examples": [
+              "three squares a day"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "squares"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make square or rectangular; give a square or rectangular cross section to.",
+            "examples": [
+              "you can square off the other edge"
+            ]
+          },
+          {
+            "definition": "mark out in squares."
+          },
+          {
+            "definition": "multiply (a number) by itself.",
+            "examples": [
+              "5 squared equals 25"
+            ]
+          },
+          {
+            "definition": "convert (a linear unit of measurement) to a unit of area equal to a square whose side is of the unit specified.",
+            "examples": [
+              "there were only three people per kilometer squared"
+            ]
+          },
+          {
+            "definition": "make compatible; reconcile.",
+            "examples": [
+              "I'm able to square my profession with my religious beliefs"
+            ]
+          },
+          {
+            "definition": "be compatible.",
+            "examples": [
+              "do those announcements really square with the facts?"
+            ],
+            "synonyms": [
+              "agree",
+              "tally",
+              "be in agreement",
+              "be consistent",
+              "match up",
+              "correspond",
+              "fit",
+              "coincide",
+              "accord",
+              "conform",
+              "be compatible \"the theory does not square with the data\""
+            ]
+          },
+          {
+            "definition": "balance (an account).",
+            "examples": [
+              "they're anxious to square their books before the audit"
+            ]
+          },
+          {
+            "definition": "make the score of (a match or game) even.",
+            "examples": [
+              "his goal squared the match 1-1"
+            ],
+            "synonyms": [
+              "level",
+              "even",
+              "make equal \"his goal squared the match 1–1\""
+            ]
+          },
+          {
+            "definition": "secure the help, acquiescence, or silence of (someone), especially by offering an inducement.",
+            "examples": [
+              "trying to square the press"
+            ]
+          },
+          {
+            "definition": "bring (one's shoulders) into a position in which they appear square and broad, typically to prepare oneself for a difficult task or event.",
+            "examples": [
+              "chin up, shoulders squared, she stepped into the room"
+            ]
+          },
+          {
+            "definition": "adopt a posture of defense."
+          },
+          {
+            "definition": "set (a yard or other part of a ship) approximately at right angles to the keel or other point of reference."
+          },
+          {
+            "definition": "(of a planet) have a square aspect with (another planet or position).",
+            "examples": [
+              "Saturn squares the Sun on the 17th"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "word": "cross",
+    "syllables": [
+      "cross"
+    ],
+    "pronunciation": "krôs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cross"
+          },
+          {
+            "part": "plural noun",
+            "variant": "crosses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mark, object, or figure formed by two short intersecting lines or pieces (+ or ×).",
+            "examples": [
+              "cut a cross in the bark with a sharp knife"
+            ]
+          },
+          {
+            "definition": "a cross (×) used to show that something is incorrect or unsatisfactory."
+          },
+          {
+            "definition": "an upright post with a transverse bar, as used in antiquity for crucifixion.",
+            "examples": [
+              "crucifix, rood a bronze cross"
+            ]
+          },
+          {
+            "definition": "the cross on which Jesus was crucified.",
+            "examples": [
+              "noun: Cross; plural noun: the Cross"
+            ]
+          },
+          {
+            "definition": "this, or a representation of it, as an emblem of Christianity.",
+            "examples": [
+              "she wore a cross around her neck"
+            ]
+          },
+          {
+            "definition": "a thing that is unavoidable and has to be endured.",
+            "examples": [
+              "she's just a cross we have to bear"
+            ],
+            "synonyms": [
+              "burden",
+              "trouble",
+              "worry",
+              "trial",
+              "tribulation",
+              "affliction",
+              "curse",
+              "bane",
+              "misfortune",
+              "adversity",
+              "hardship",
+              "vicissitude; Moremillstone",
+              "albatross",
+              "thorn in one's flesh/side; misery",
+              "woe",
+              "pain",
+              "sorrow",
+              "suffering; informalhassle",
+              "headache \"we all have our crosses to bear\""
+            ]
+          },
+          {
+            "definition": "short for sign of the cross (see sign)."
+          },
+          {
+            "definition": "a staff surmounted by a cross carried in religious processions."
+          },
+          {
+            "definition": "a cross-shaped decoration awarded for personal valor or indicating rank in some orders of knighthood.",
+            "examples": [
+              "the Military Cross"
+            ]
+          },
+          {
+            "definition": "the constellation Southern Cross.",
+            "examples": [
+              "plural noun: the Cross"
+            ]
+          },
+          {
+            "definition": "an animal or plant resulting from crossbreeding; a hybrid.",
+            "examples": [
+              "a Devon and Holstein cross"
+            ],
+            "synonyms": [
+              "hybrid",
+              "hybridization",
+              "cross-breed",
+              "half-breed",
+              "mongrel; Moremixture",
+              "amalgam",
+              "blend",
+              "combination \"a cross between a yak and a cow\""
+            ]
+          },
+          {
+            "definition": "a mixture or compromise of two things.",
+            "examples": [
+              "noun: a cross between"
+            ]
+          },
+          {
+            "definition": "a sideways or transverse movement or pass, in particular."
+          },
+          {
+            "definition": "a pass of the ball across the field toward the center close to one's opponents' goal."
+          },
+          {
+            "definition": "a blow delivered across and over the opponent's lead.",
+            "examples": [
+              "a right cross"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cross"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "crosses"
+          },
+          {
+            "part": "past tense",
+            "variant": "crossed"
+          },
+          {
+            "part": "past participle",
+            "variant": "crossed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "crossing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "go or extend across or to the other side of (a path, road, stretch of water, or area).",
+            "examples": [
+              "he has crossed the Atlantic twice"
+            ],
+            "synonyms": [
+              "travel across",
+              "traverse",
+              "range over; Morenegotiate",
+              "navigate",
+              "cover \"they crossed the hills on foot\"span",
+              "bridge; extend across",
+              "stretch across",
+              "pass over \"a lake crossed by a fine stone bridge\""
+            ]
+          },
+          {
+            "definition": "go across or climb over (an obstacle or boundary).",
+            "examples": [
+              "he attempted to cross the border into Jordan"
+            ]
+          },
+          {
+            "definition": "(especially of an artist or an artistic style or work) begin to appeal to a different audience, especially a wider one.",
+            "examples": [
+              "a talented animator who crossed over to live action"
+            ]
+          },
+          {
+            "definition": "pass in an opposite or different direction; intersect.",
+            "examples": [
+              "the two lines cross at 90°"
+            ],
+            "synonyms": [
+              "intersect",
+              "meet",
+              "join",
+              "connect",
+              "crisscross \"the point where the two roads cross\""
+            ]
+          },
+          {
+            "definition": "cause (two things) to intersect.",
+            "examples": [
+              "cross the cables in opposing directions"
+            ]
+          },
+          {
+            "definition": "place (something) crosswise.",
+            "examples": [
+              "Michele sat back and crossed her arms"
+            ]
+          },
+          {
+            "definition": "(of a letter) be sent before receipt of another from the person being written to.",
+            "examples": [
+              "our letters crossed"
+            ]
+          },
+          {
+            "definition": "draw a line or lines across; mark with a cross.",
+            "examples": [
+              "cross the t's"
+            ]
+          },
+          {
+            "definition": "mark or annotate (a check), typically by drawing a pair of parallel lines across it, to indicate that it must be paid into a named bank account."
+          },
+          {
+            "definition": "delete a name or item on a list as being no longer required or involved.",
+            "examples": [
+              "Liz crossed off the days on the calendar"
+            ]
+          },
+          {
+            "definition": "delete an incorrect or inapplicable word or phrase by drawing a line through it.",
+            "examples": [
+              "delete, strike out, ink out, score out, edit out, cancel, obliterate looking at the manager's starting lineup, it seems that Mitchell's name has been crossed out"
+            ]
+          },
+          {
+            "definition": "(of a person) make the sign of the cross in front of one's chest as a sign of Christian reverence or to invoke divine protection."
+          },
+          {
+            "definition": "pass (the ball) across the field toward the center when attacking."
+          },
+          {
+            "definition": "cause (an animal of one species, breed, or variety) to interbreed with one of another species, breed, or variety.",
+            "examples": [
+              "many animals of the breed were crossed with the closely related Guernsey"
+            ]
+          },
+          {
+            "definition": "cross-fertilize (a plant).",
+            "examples": [
+              "a hybrid tea was crossed with a polyantha rose"
+            ],
+            "synonyms": [
+              "hybridize",
+              "cross-breed",
+              "interbreed",
+              "cross-fertilize",
+              "cross-pollinate \"the breed was crossed with the similarly colored Holstein\""
+            ]
+          },
+          {
+            "definition": "oppose or stand in the way of (someone).",
+            "examples": [
+              "no one dared cross him"
+            ],
+            "synonyms": [
+              "oppose",
+              "resist",
+              "defy",
+              "obstruct",
+              "impede",
+              "hinder",
+              "hamper; Morecontradict",
+              "argue with",
+              "quarrel with",
+              "stand up to",
+              "take a stand against",
+              "take issue with; formalgainsay \"no one dared cross him\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "cross"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "annoyed.",
+            "examples": [
+              "he seemed to be very cross about something"
+            ],
+            "synonyms": [
+              "angry",
+              "annoyed",
+              "irate",
+              "irritated",
+              "in a bad mood",
+              "vexed",
+              "irked",
+              "piqued",
+              "out of humor",
+              "put out",
+              "displeased; Moreirritable",
+              "short-tempered",
+              "bad-tempered",
+              "snappish",
+              "snappy",
+              "crotchety",
+              "grouchy",
+              "grumpy",
+              "fractious",
+              "testy",
+              "crabby",
+              "cranky",
+              "mad",
+              "hot under the collar",
+              "peeved",
+              "riled",
+              "on the warpath",
+              "up in arms",
+              "steamed up",
+              "sore",
+              "bent out of shape",
+              "teed off",
+              "ticked off",
+              "pissed off \"Jane was getting cross\""
+            ],
+            "antonyms": [
+              "pleased"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cross-",
+    "syllables": [
+      "cross-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "cross-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting movement or position across something.",
+            "examples": [
+              "cross-channel"
+            ]
+          },
+          {
+            "definition": "denoting interaction.",
+            "examples": [
+              "cross-pollinate"
+            ]
+          },
+          {
+            "definition": "passing from side to side; transverse.",
+            "examples": [
+              "crosspiece"
+            ]
+          },
+          {
+            "definition": "describing the form or figure of a cross.",
+            "examples": [
+              "crossbones"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

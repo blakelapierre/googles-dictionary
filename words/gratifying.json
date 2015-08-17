@@ -1,0 +1,63 @@
+[
+  {
+    "word": "gratify",
+    "syllables": [
+      "grat",
+      "i",
+      "fy"
+    ],
+    "pronunciation": "ˈɡradəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "gratifying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give (someone) pleasure or satisfaction.",
+            "examples": [
+              "I was gratified to see the coverage in May's issue"
+            ],
+            "synonyms": [
+              "please",
+              "gladden",
+              "make happy",
+              "delight",
+              "make someone feel good",
+              "satisfy; Moreinformaltickle pink",
+              "buck up \"it gratified him to be seen with her\""
+            ],
+            "antonyms": [
+              "displease"
+            ]
+          },
+          {
+            "definition": "indulge or satisfy (a desire).",
+            "examples": [
+              "not all the sexual impulses can be gratified"
+            ],
+            "synonyms": [
+              "satisfy",
+              "fulfill",
+              "indulge",
+              "comply with",
+              "pander to",
+              "cater to",
+              "give in to",
+              "satiate",
+              "feed",
+              "accommodate \"he gratified her desires\""
+            ],
+            "antonyms": [
+              "frustrate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

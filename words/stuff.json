@@ -1,0 +1,206 @@
+[
+  {
+    "word": "stuff",
+    "syllables": [
+      "stuff"
+    ],
+    "pronunciation": "stəf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "stuff"
+          },
+          {
+            "part": "plural noun",
+            "variant": "stuffs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "matter, material, articles, or activities of a specified or indeterminate kind that are being referred to, indicated, or implied.",
+            "examples": [
+              "a pickup truck picked the stuff up"
+            ],
+            "synonyms": [
+              "material",
+              "fabric",
+              "cloth",
+              "textile; Morematter",
+              "substance \"suede is tough stuff\"items",
+              "articles",
+              "objects",
+              "goods",
+              "equipment; informalthings",
+              "bits and pieces",
+              "odds and ends \"first-aid stuff\""
+            ]
+          },
+          {
+            "definition": "a person's belongings, equipment, or baggage.",
+            "examples": [
+              "he took his stuff and went"
+            ],
+            "synonyms": [
+              "belongings",
+              "(personal) possessions",
+              "effects",
+              "goods (and chattels)",
+              "paraphernalia; Moreinformalgear",
+              "things \"all my stuff is in the suitcase\""
+            ]
+          },
+          {
+            "definition": "worthless or foolish ideas, speech, or writing; rubbish.",
+            "examples": [
+              "stuff and nonsense !"
+            ]
+          },
+          {
+            "definition": "drink or drugs."
+          },
+          {
+            "definition": "things in which one is knowledgeable and experienced; one's area of expertise.",
+            "examples": [
+              "noun: one's stuff; plural noun: one's stuffs"
+            ]
+          },
+          {
+            "definition": "the basic constituents or characteristics of something or someone.",
+            "examples": [
+              "Healey was made of sterner stuff"
+            ]
+          },
+          {
+            "definition": "woolen fabric, especially as distinct from silk, cotton, and linen.",
+            "examples": [
+              "her dark stuff gown"
+            ]
+          },
+          {
+            "definition": "(in sports) spin given to a ball to make it vary its course."
+          },
+          {
+            "definition": "a pitcher's ability to produce spin on a ball or control the speed of delivery of a pitch."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "stuff"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "stuffs"
+          },
+          {
+            "part": "past tense",
+            "variant": "stuffed"
+          },
+          {
+            "part": "past participle",
+            "variant": "stuffed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "stuffing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fill (a receptacle or space) tightly with something.",
+            "examples": [
+              "an old teapot stuffed full of cash"
+            ],
+            "synonyms": [
+              "fill",
+              "pack",
+              "pad",
+              "upholster \"stuffing pillows\""
+            ]
+          },
+          {
+            "definition": "force or cram (something) tightly into a receptacle or space.",
+            "examples": [
+              "he stuffed a thick wad of cash into his jacket pocket"
+            ],
+            "synonyms": [
+              "shove",
+              "thrust",
+              "push",
+              "ram",
+              "cram",
+              "squeeze",
+              "force",
+              "jam",
+              "pack",
+              "pile",
+              "stick \"Robyn stuffed her clothes into a bag\""
+            ]
+          },
+          {
+            "definition": "hastily or clumsily push (something) into a space.",
+            "examples": [
+              "Sadie took the coin and stuffed it in her coat pocket"
+            ]
+          },
+          {
+            "definition": "fill (the cavity of an item of food) with a savory or sweet mixture, especially before cooking.",
+            "examples": [
+              "chicken stuffed with mushrooms and breadcrumbs"
+            ]
+          },
+          {
+            "definition": "fill (oneself) with large amounts of food.",
+            "examples": [
+              "he stuffed himself with potato chips"
+            ],
+            "synonyms": [
+              "fill oneself with",
+              "gorge oneself with/on",
+              "overindulge oneself with; Moregobble",
+              "devour",
+              "wolf; informalpig out on",
+              "make a pig of oneself with/on \"they stuffed themselves with chocolate\""
+            ]
+          },
+          {
+            "definition": "fill out the skin of (a dead animal or bird) with material to restore the original shape and appearance.",
+            "examples": [
+              "he took the bird to a taxidermist to be stuffed"
+            ]
+          },
+          {
+            "definition": "fill (envelopes) with identical copies of printed matter.",
+            "examples": [
+              "they spent the whole time in a back room stuffing envelopes"
+            ]
+          },
+          {
+            "definition": "place bogus votes in (a ballot box)."
+          },
+          {
+            "definition": "(of a man) have sexual intercourse with (someone)."
+          },
+          {
+            "definition": "defeat heavily in sport.",
+            "examples": [
+              "Town got stuffed every week"
+            ]
+          },
+          {
+            "definition": "used to express indifference toward or rejection of (something).",
+            "examples": [
+              "stuff the diet!"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "word": "harp",
+    "syllables": [
+      "harp"
+    ],
+    "pronunciation": "härp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "harp"
+          },
+          {
+            "part": "plural noun",
+            "variant": "harps"
+          },
+          {
+            "part": "noun",
+            "variant": "harp shell"
+          },
+          {
+            "part": "plural noun",
+            "variant": "harp shells"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a musical instrument, roughly triangular in shape, consisting of a frame supporting a graduated series of parallel strings, played by plucking with the fingers. The modern orchestral harp has an upright frame, with pedals that enable the strings to be retuned to different keys."
+          },
+          {
+            "definition": "another term for harmonica.",
+            "examples": [
+              "Papa had been teaching him to play the blues harp"
+            ]
+          },
+          {
+            "definition": "a marine mollusk that has a large vertically ribbed shell with a wide aperture, found chiefly in the Indo-Pacific."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "harp"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "harps"
+          },
+          {
+            "part": "past tense",
+            "variant": "harped"
+          },
+          {
+            "part": "past participle",
+            "variant": "harped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "harping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "talk or write persistently and tediously on a particular topic.",
+            "examples": [
+              "guys who are constantly harping on about the war"
+            ]
+          },
+          {
+            "definition": "play on a harp."
+          }
+        ]
+      }
+    ]
+  }
+]

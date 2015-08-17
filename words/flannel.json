@@ -1,0 +1,48 @@
+[
+  {
+    "word": "flannel",
+    "syllables": [
+      "flan",
+      "nel"
+    ],
+    "pronunciation": "ˈflanl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "flannel"
+          },
+          {
+            "part": "plural noun",
+            "variant": "flannels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a kind of soft-woven fabric, typically made of wool or cotton and slightly milled and raised.",
+            "examples": [
+              "my longest, thickest flannel nightgown"
+            ]
+          },
+          {
+            "definition": "men's trousers made of flannel."
+          },
+          {
+            "definition": "short for flannelette."
+          },
+          {
+            "definition": "a washcloth."
+          },
+          {
+            "definition": "bland fluent talk indulged in to avoid addressing a difficult subject or situation directly.",
+            "examples": [
+              "a simple admittance of ignorance was much to be preferred to any amount of flannel"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

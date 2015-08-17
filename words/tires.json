@@ -1,0 +1,104 @@
+[
+  {
+    "word": "tire",
+    "syllables": [
+      "tire"
+    ],
+    "pronunciation": "ˈtī(ə)r",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tires"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel or cause to feel in need of rest or sleep.",
+            "examples": [
+              "soon the ascent grew steeper and he began to tire"
+            ],
+            "synonyms": [
+              "weaken",
+              "grow weak",
+              "flag",
+              "wilt",
+              "droop; Moredeteriorate \"he began to tire as the ascent grew steeper\"fatigue",
+              "tire out",
+              "exhaust",
+              "wear out",
+              "drain",
+              "weary",
+              "frazzle",
+              "overtire",
+              "enervate; informalknock out",
+              "do in",
+              "wear to a frazzle \"the journey had tired her\"exhausting",
+              "wearying",
+              "taxing",
+              "fatiguing",
+              "wearing",
+              "enervating",
+              "draining; hard",
+              "heavy",
+              "arduous",
+              "strenuous",
+              "onerous",
+              "uphill",
+              "demanding",
+              "grueling; informalmurderous \"it was very tiring work\""
+            ]
+          },
+          {
+            "definition": "lose interest in; become bored with.",
+            "examples": [
+              "she will stay with him until he tires of her"
+            ],
+            "synonyms": [
+              "weary of",
+              "get fed up with",
+              "get sick of",
+              "get bored with",
+              "get impatient with; Moreinformalhave had it up to here with",
+              "have had enough of \"we are tired of your difficult behavior\""
+            ]
+          },
+          {
+            "definition": "exhaust the patience or interest of; bore.",
+            "examples": [
+              "it tired her that Eddie felt important because he was involved behind the scenes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tire",
+    "syllables": [
+      "tire"
+    ],
+    "pronunciation": "ˈtī(ə)r",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "tires"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rubber covering, typically inflated or surrounding an inflated inner tube, placed around a wheel to form a flexible contact with the road."
+          },
+          {
+            "definition": "a strengthening band of metal fitted around the rim of a wheel."
+          }
+        ]
+      }
+    ]
+  }
+]

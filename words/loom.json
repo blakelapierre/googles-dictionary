@@ -1,0 +1,119 @@
+[
+  {
+    "word": "loom",
+    "syllables": [
+      "loom"
+    ],
+    "pronunciation": "lo͞om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "loom"
+          },
+          {
+            "part": "plural noun",
+            "variant": "looms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an apparatus for making fabric by weaving yarn or thread."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "loom",
+    "syllables": [
+      "loom"
+    ],
+    "pronunciation": "lo͞om",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "loom"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "looms"
+          },
+          {
+            "part": "past tense",
+            "variant": "loomed"
+          },
+          {
+            "part": "past participle",
+            "variant": "loomed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "looming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "appear as a shadowy form, especially one that is large or threatening.",
+            "examples": [
+              "vehicles loomed out of the darkness"
+            ],
+            "synonyms": [
+              "emerge",
+              "appear",
+              "come into view",
+              "take shape",
+              "materialize",
+              "reveal itself \"ghostly shapes loomed out of the fog\""
+            ]
+          },
+          {
+            "definition": "(of an event regarded as ominous or threatening) seem about to happen.",
+            "examples": [
+              "there is a crisis looming"
+            ],
+            "synonyms": [
+              "be imminent",
+              "be on the horizon",
+              "impend",
+              "threaten",
+              "brew",
+              "be just around the corner",
+              "be in the air/wind More\"without reforms",
+              "disaster looms\"dominate",
+              "be important",
+              "be significant",
+              "be of consequence; count",
+              "matter \"the impending cutbacks loom large\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "loom"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vague and often exaggerated first appearance of an object seen in darkness or fog, especially at sea.",
+            "examples": [
+              "the loom of the land ahead"
+            ]
+          },
+          {
+            "definition": "the dim reflection by cloud or haze of a light that is not directly visible, e.g., from a lighthouse over the horizon."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "acutely",
+    "syllables": [
+      "a",
+      "cute",
+      "ly"
+    ],
+    "pronunciation": "əˈkyo͞otlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "acutely"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(with reference to something unpleasant or unwelcome) intensely.",
+            "examples": [
+              "the whole situation was acutely embarrassing"
+            ],
+            "synonyms": [
+              "extremely",
+              "exceedingly",
+              "very",
+              "markedly",
+              "severely",
+              "intensely",
+              "deeply",
+              "profoundly",
+              "keenly",
+              "painfully",
+              "desperately",
+              "tremendously",
+              "enormously",
+              "thoroughly",
+              "heartily; Moreinformalawfully",
+              "terribly; slangmajorly \"our trust in you has become acutely shaken\""
+            ],
+            "antonyms": [
+              "slightly"
+            ]
+          },
+          {
+            "definition": "(in relation to illness) in a way that progresses rapidly but lasts for a short period.",
+            "examples": [
+              "an acutely inflamed gall bladder"
+            ]
+          },
+          {
+            "definition": "in a way that shows a perceptive understanding or insight.",
+            "examples": [
+              "we are all acutely aware of the fragility of our world"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

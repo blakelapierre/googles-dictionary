@@ -1,0 +1,45 @@
+[
+  {
+    "word": "river",
+    "syllables": [
+      "riv",
+      "er"
+    ],
+    "pronunciation": "ˈrivər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "rivers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+            "examples": [
+              "watercourse, waterway, tributary, stream, rivulet, brook, inlet, rill, runnel, freshet; Morebourn; creek \"the old factories along the river\"Morebourn; creek the old factories along the river"
+            ]
+          },
+          {
+            "definition": "a large quantity of a flowing substance.",
+            "examples": [
+              "great rivers of molten lava"
+            ],
+            "synonyms": [
+              "stream",
+              "torrent",
+              "flood",
+              "deluge",
+              "cascade \"a river of molten lava\""
+            ]
+          },
+          {
+            "definition": "used in names of animals and plants living in or associated with rivers, e.g., river dolphin, river birch."
+          }
+        ]
+      }
+    ]
+  }
+]

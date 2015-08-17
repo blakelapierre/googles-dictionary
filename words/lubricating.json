@@ -1,0 +1,56 @@
+[
+  {
+    "word": "lubricate",
+    "syllables": [
+      "lu",
+      "bri",
+      "cate"
+    ],
+    "pronunciation": "ˈlo͞obrəˌkāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "lubricating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "apply a substance such as oil or grease to (an engine or component) to minimize friction and allow smooth movement.",
+            "examples": [
+              "remove the nut and lubricate the thread"
+            ],
+            "synonyms": [
+              "oil",
+              "grease; Morewax",
+              "polish; facilitate",
+              "smooth",
+              "ease; informallube \"avoid stuck or frozen doors by lubricating the hinges\""
+            ]
+          },
+          {
+            "definition": "make (a process) run smoothly.",
+            "examples": [
+              "the availability of credit lubricated the channels of trade"
+            ],
+            "synonyms": [
+              "oil",
+              "grease; Morewax",
+              "polish; facilitate",
+              "smooth",
+              "ease; informallube \"avoid stuck or frozen doors by lubricating the hinges\""
+            ]
+          },
+          {
+            "definition": "make (someone) convivial, especially with alcohol.",
+            "examples": [
+              "men lubricated with alcohol speak their true feelings"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "precursor",
+    "syllables": [
+      "pre",
+      "cur",
+      "sor"
+    ],
+    "pronunciation": "prēˈkərsər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "precursor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "precursors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that comes before another of the same kind; a forerunner.",
+            "examples": [
+              "a three-stringed precursor of the violin"
+            ],
+            "synonyms": [
+              "forerunner",
+              "predecessor",
+              "forefather",
+              "father",
+              "antecedent",
+              "ancestor",
+              "forebear \"a three-stringed precursor of the guitar\""
+            ]
+          },
+          {
+            "definition": "a substance from which another is formed, especially by metabolic reaction.",
+            "examples": [
+              "pepsinogen is the inactive precursor of pepsin"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

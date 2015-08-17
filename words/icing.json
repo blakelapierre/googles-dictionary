@@ -1,0 +1,77 @@
+[
+  {
+    "word": "icing",
+    "syllables": [
+      "ic",
+      "ing"
+    ],
+    "pronunciation": "ˈīsiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "icing"
+          },
+          {
+            "part": "plural noun",
+            "variant": "icings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mixture of sugar with liquid or butter, typically flavored and colored, and used as a coating for cakes or cookies.",
+            "examples": [
+              "glaze, frosting, topping, fondant, piping a cake with pink icing"
+            ]
+          },
+          {
+            "definition": "the formation of ice on an aircraft, ship, or other vehicle, or in an engine."
+          },
+          {
+            "definition": "the action of shooting the puck from one's own end of the rink to the other but not into the goal, for which the referee calls a face-off in one's own end."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ice",
+    "syllables": [
+      "ice"
+    ],
+    "pronunciation": "īs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "icing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decorate (a cake) with icing.",
+            "examples": [
+              "frost, cover with icing, glaze she had iced the cake"
+            ]
+          },
+          {
+            "definition": "clinch (something such as a victory or deal)."
+          },
+          {
+            "definition": "kill.",
+            "examples": [
+              "a man had been iced by the police"
+            ]
+          },
+          {
+            "definition": "shoot (the puck) so as to commit icing."
+          }
+        ]
+      }
+    ]
+  }
+]

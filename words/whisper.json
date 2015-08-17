@@ -1,0 +1,132 @@
+[
+  {
+    "word": "whisper",
+    "syllables": [
+      "whis",
+      "per"
+    ],
+    "pronunciation": "ˈ(h)wispər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "whisper"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "whispers"
+          },
+          {
+            "part": "past tense",
+            "variant": "whispered"
+          },
+          {
+            "part": "past participle",
+            "variant": "whispered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "whispering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "speak very softly using one's breath without one's vocal cords, especially for the sake of privacy.",
+            "examples": [
+              "Alison was whispering in his ear"
+            ],
+            "synonyms": [
+              "murmur",
+              "mutter",
+              "mumble",
+              "speak softly",
+              "breathe; Morehiss; literarysusurrate \"Alison whispered in his ear\""
+            ],
+            "antonyms": [
+              "shout"
+            ]
+          },
+          {
+            "definition": "(of leaves, wind, or water) rustle or murmur softly.",
+            "examples": [
+              "rustle, murmur, sigh, moan, whoosh, whir, swish, blow, breathe the wind whispered in the grass"
+            ],
+            "antonyms": [
+              "roar"
+            ]
+          },
+          {
+            "definition": "be rumored.",
+            "examples": [
+              "it was whispered that he would soon die"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "whisper"
+          },
+          {
+            "part": "plural noun",
+            "variant": "whispers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a soft or confidential tone of voice; a whispered word or phrase.",
+            "examples": [
+              "she spoke in a whisper"
+            ],
+            "synonyms": [
+              "murmur",
+              "mutter",
+              "mumble",
+              "low voice",
+              "undertone; Moreraresibilation; literarysusurration \"she spoke in a whisper\""
+            ]
+          },
+          {
+            "definition": "a soft rustling or murmuring sound.",
+            "examples": [
+              "the thunder of the surf became a muted whisper"
+            ],
+            "synonyms": [
+              "rustle",
+              "murmur",
+              "sigh",
+              "whoosh",
+              "swish \"the wind died to a whisper\""
+            ]
+          },
+          {
+            "definition": "a rumor or piece of gossip.",
+            "examples": [
+              "whispers of a blossoming romance"
+            ],
+            "synonyms": [
+              "rumor",
+              "story",
+              "report",
+              "speculation",
+              "insinuation",
+              "suggestion",
+              "hint; informalbuzz \"I heard the whisper that he's left town\""
+            ]
+          },
+          {
+            "definition": "a slight trace; a hint.",
+            "examples": [
+              "he didn't show even a whisper of interest"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

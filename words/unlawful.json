@@ -1,0 +1,44 @@
+[
+  {
+    "word": "unlawful",
+    "syllables": [
+      "un",
+      "law",
+      "ful"
+    ],
+    "pronunciation": "ˌənˈlôfəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unlawful"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not conforming to, permitted by, or recognized by law or rules.",
+            "examples": [
+              "the use of unlawful violence"
+            ],
+            "synonyms": [
+              "illegal",
+              "illicit",
+              "illegitimate",
+              "against the law; Morecriminal",
+              "felonious; prohibited",
+              "banned",
+              "outlawed",
+              "proscribed",
+              "forbidden \"unlawful imports of drugs\""
+            ],
+            "antonyms": [
+              "legal"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

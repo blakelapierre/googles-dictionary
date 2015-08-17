@@ -1,0 +1,30 @@
+[
+  {
+    "word": "rugby",
+    "syllables": [
+      "rug",
+      "by"
+    ],
+    "pronunciation": "ˈrəɡbē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rugby"
+          },
+          {
+            "part": "noun",
+            "variant": "rugby football"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a team game played with an oval ball that may be kicked, carried, and passed from hand to hand. Points are scored by grounding the ball behind the opponents' goal line (thereby scoring a try) or by kicking it between the two posts and over the crossbar of the opponents' goal."
+          }
+        ]
+      }
+    ]
+  }
+]

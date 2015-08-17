@@ -1,0 +1,79 @@
+[
+  {
+    "word": "chute",
+    "syllables": [
+      "chute"
+    ],
+    "pronunciation": "SHo͞ot",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chute"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chutes"
+          },
+          {
+            "part": "noun",
+            "variant": "shoot"
+          },
+          {
+            "part": "plural noun",
+            "variant": "shoots"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sloping channel or slide for conveying things to a lower level.",
+            "examples": [
+              "channel, slide, shaft, funnel, conduit icy water came rushing down the chute"
+            ]
+          },
+          {
+            "definition": "a water slide into a swimming pool.",
+            "examples": [
+              "channel, slide, shaft, funnel, conduit icy water came rushing down the chute"
+            ]
+          },
+          {
+            "definition": "short for chute-the-chute."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chute",
+    "syllables": [
+      "chute"
+    ],
+    "pronunciation": "SHo͞ot",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chute"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chutes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a parachute."
+          },
+          {
+            "definition": "informal term for spinnaker."
+          }
+        ]
+      }
+    ]
+  }
+]

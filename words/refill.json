@@ -1,0 +1,52 @@
+[
+  {
+    "word": "refill",
+    "syllables": [
+      "re",
+      "fill"
+    ],
+    "pronunciation": "rēˈfilˈrēˌfil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "refill"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "refills"
+          },
+          {
+            "part": "past tense",
+            "variant": "refilled"
+          },
+          {
+            "part": "past participle",
+            "variant": "refilled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "refilling"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "refill"
+          },
+          {
+            "part": "plural noun",
+            "variant": "refills"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

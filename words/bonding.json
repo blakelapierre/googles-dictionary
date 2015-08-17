@@ -1,0 +1,61 @@
+[
+  {
+    "word": "bond",
+    "syllables": [
+      "bond"
+    ],
+    "pronunciation": "bänd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "bonding"
+          },
+          {
+            "part": "noun",
+            "variant": "bonding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join or be joined securely to something else, typically by means of an adhesive substance, heat, or pressure.",
+            "examples": [
+              "press the material to bond the layers together"
+            ],
+            "synonyms": [
+              "join",
+              "fasten",
+              "fix",
+              "affix",
+              "attach",
+              "secure",
+              "bind",
+              "stick",
+              "fuse \"the extensions are bonded to your hair\""
+            ]
+          },
+          {
+            "definition": "establish a relationship with someone based on shared feelings, interests, or experiences.",
+            "examples": [
+              "the failure to properly bond with their children"
+            ]
+          },
+          {
+            "definition": "join or be joined by a chemical bond."
+          },
+          {
+            "definition": "lay (bricks) in an overlapping pattern so as to form a strong structure.",
+            "examples": [
+              "a bonding course"
+            ]
+          },
+          {
+            "definition": "place (dutiable goods) in bond."
+          }
+        ]
+      }
+    ]
+  }
+]

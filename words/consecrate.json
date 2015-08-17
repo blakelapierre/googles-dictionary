@@ -1,0 +1,84 @@
+[
+  {
+    "word": "consecrate",
+    "syllables": [
+      "con",
+      "se",
+      "crate"
+    ],
+    "pronunciation": "ˈkänsəˌkrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "consecrate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "consecrates"
+          },
+          {
+            "part": "past tense",
+            "variant": "consecrated"
+          },
+          {
+            "part": "past participle",
+            "variant": "consecrated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "consecrating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or declare (something, typically a church) sacred; dedicate formally to a religious or divine purpose.",
+            "examples": [
+              "the present Holy Trinity church was consecrated in 1845"
+            ]
+          },
+          {
+            "definition": "(in Christian belief) make (bread or wine) into the body or blood of Christ.",
+            "examples": [
+              "they received the host but not the consecrated wine"
+            ]
+          },
+          {
+            "definition": "ordain (someone) to a sacred office, typically that of bishop.",
+            "examples": [
+              "in 1969 he was consecrated bishop of Northern Uganda"
+            ],
+            "synonyms": [
+              "sanctify",
+              "bless",
+              "make holy",
+              "make sacred; Morededicate to God",
+              "devote",
+              "reserve",
+              "set apart; anoint",
+              "ordain; formalhallow \"the bishop had consecrated two cathedrals in his time\""
+            ]
+          },
+          {
+            "definition": "devote (something) exclusively to a particular purpose.",
+            "examples": [
+              "they'd decided to consecrate all their energies to this purposeful act"
+            ],
+            "synonyms": [
+              "sanctify",
+              "bless",
+              "make holy",
+              "make sacred; Morededicate to God",
+              "devote",
+              "reserve",
+              "set apart; anoint",
+              "ordain; formalhallow \"the bishop had consecrated two cathedrals in his time\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

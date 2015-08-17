@@ -1,0 +1,60 @@
+[
+  {
+    "word": "reconsider",
+    "syllables": [
+      "re",
+      "con",
+      "sid",
+      "er"
+    ],
+    "pronunciation": "ˌrēkənˈsidər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reconsider"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reconsiders"
+          },
+          {
+            "part": "past tense",
+            "variant": "reconsidered"
+          },
+          {
+            "part": "past participle",
+            "variant": "reconsidered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "reconsidering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "consider (something) again, especially for a possible change of decision regarding it.",
+            "examples": [
+              "they called on the government to reconsider its policy"
+            ],
+            "synonyms": [
+              "rethink",
+              "review",
+              "revise",
+              "re-examine",
+              "re-evaluate",
+              "reassess",
+              "reappraise",
+              "recontextualize; Morechange",
+              "alter",
+              "modify; have second thoughts",
+              "change one's mind \"the plaintiff has asked an appeals court to reconsider its decision to order a new trial\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

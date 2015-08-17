@@ -1,0 +1,186 @@
+[
+  {
+    "word": "party",
+    "syllables": [
+      "par",
+      "ty"
+    ],
+    "pronunciation": "ˈpärdē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "party"
+          },
+          {
+            "part": "plural noun",
+            "variant": "parties"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a social gathering of invited guests, typically involving eating, drinking, and entertainment.",
+            "examples": [
+              "an engagement party"
+            ],
+            "synonyms": [
+              "(social) gathering",
+              "(social) function",
+              "get-together",
+              "affair",
+              "celebration",
+              "after-party",
+              "festivity",
+              "reception",
+              "at-home; Morefrolic",
+              "soirée",
+              "carousal",
+              "carouse",
+              "fete; informalbash",
+              "shindig",
+              "rave",
+              "do",
+              "shebang",
+              "bop",
+              "hop",
+              "blast",
+              "wingding \"150 people attended the party\""
+            ]
+          },
+          {
+            "definition": "a formally constituted political group, typically operating on a national basis, that contests elections and attempts to form or take part in a government.",
+            "examples": [
+              "the party's conservative mainstream"
+            ],
+            "synonyms": [
+              "faction",
+              "political party",
+              "group",
+              "grouping",
+              "cabal",
+              "junta",
+              "bloc",
+              "camp",
+              "caucus \"the left-wing parties\""
+            ]
+          },
+          {
+            "definition": "a group of people taking part in a particular activity or trip, especially one for which they have been chosen.",
+            "examples": [
+              "the fishing party"
+            ],
+            "synonyms": [
+              "group",
+              "company",
+              "body",
+              "gang",
+              "band",
+              "crowd",
+              "pack",
+              "contingent; Moreinformalbunch",
+              "crew",
+              "load \"a party of German tourists\""
+            ]
+          },
+          {
+            "definition": "a person or people forming one side in an agreement or dispute.",
+            "examples": [
+              "a contract between two parties"
+            ]
+          },
+          {
+            "definition": "a person, especially one with specified characteristics.",
+            "examples": [
+              "will you help the party on line 2?"
+            ],
+            "synonyms": [
+              "person",
+              "individual",
+              "somebody",
+              "someone \"don't mention a certain party\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "party"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "parties"
+          },
+          {
+            "part": "past tense",
+            "variant": "partied"
+          },
+          {
+            "part": "past participle",
+            "variant": "partied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "partying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "enjoy oneself at a party or other lively gathering, typically with drinking and music.",
+            "examples": [
+              "put on your glad rags and party!"
+            ],
+            "synonyms": [
+              "celebrate",
+              "have fun",
+              "enjoy oneself",
+              "have a party",
+              "have a good/wild time",
+              "go on a spree",
+              "rave it up",
+              "carouse",
+              "make merry; Moreinformalgo out on the town",
+              "paint the town red",
+              "whoop it up",
+              "let one's hair down",
+              "make whoopee",
+              "live it up",
+              "have a ball \"let's party!\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "party",
+    "syllables": [
+      "par",
+      "ty"
+    ],
+    "pronunciation": "ˈpärdē",
+    "parts": [
+      {
+        "part": "adjectiveHeraldry",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "party"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "divided into parts of different tinctures.",
+            "examples": [
+              "party per fess, or, and azure"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

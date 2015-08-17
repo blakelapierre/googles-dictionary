@@ -1,0 +1,31 @@
+[
+  {
+    "word": "subroutine",
+    "syllables": [
+      "sub",
+      "rou",
+      "tine"
+    ],
+    "pronunciation": "ˈsəbro͞oˌtēn",
+    "parts": [
+      {
+        "part": "nounComputing",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "subroutine"
+          },
+          {
+            "part": "plural noun",
+            "variant": "subroutines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of instructions designed to perform a frequently used operation within a program."
+          }
+        ]
+      }
+    ]
+  }
+]

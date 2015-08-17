@@ -1,0 +1,34 @@
+[
+  {
+    "word": "emitter",
+    "syllables": [
+      "e",
+      "mit",
+      "ter"
+    ],
+    "pronunciation": "əˈmidər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "emitter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "emitters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a machine, device, etc., that emits something."
+          },
+          {
+            "definition": "a region in a bipolar transistor producing carriers of current."
+          }
+        ]
+      }
+    ]
+  }
+]

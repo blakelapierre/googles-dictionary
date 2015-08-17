@@ -1,0 +1,41 @@
+[
+  {
+    "word": "accentuation",
+    "syllables": [
+      "ac",
+      "cen",
+      "tu",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "əkˌsen(t)SHəˈwāSH(ə)nakˌsen(t)SHəˈwāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "accentuation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of emphasizing something.",
+            "examples": [
+              "the accentuation of the Treasury's currency policy"
+            ]
+          },
+          {
+            "definition": "the prominence of a thing relative to the normal.",
+            "examples": [
+              "plural noun: accentuations"
+            ]
+          },
+          {
+            "definition": "the manner in which accents are apparent in pronunciation, or indicated in writing."
+          }
+        ]
+      }
+    ]
+  }
+]

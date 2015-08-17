@@ -1,0 +1,82 @@
+[
+  {
+    "word": "command",
+    "syllables": [
+      "com",
+      "mand"
+    ],
+    "pronunciation": "kəˈmand",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "commanded"
+          },
+          {
+            "part": "past participle",
+            "variant": "commanded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give an authoritative order.",
+            "examples": [
+              "a gruff voice commanded us to enter"
+            ],
+            "synonyms": [
+              "order",
+              "tell",
+              "direct",
+              "instruct",
+              "call on",
+              "require; literarybid \"he commanded his men to retreat\""
+            ]
+          },
+          {
+            "definition": "have authority over; be in charge of (a unit).",
+            "examples": [
+              "he commanded a battalion at Normandy"
+            ]
+          },
+          {
+            "definition": "dominate (a strategic position) from a superior height.",
+            "examples": [
+              "the two castles commanded the harbor"
+            ],
+            "synonyms": [
+              "be in charge of",
+              "be in command of",
+              "be the leader of; Morehead",
+              "lead",
+              "control",
+              "direct",
+              "manage",
+              "supervise",
+              "oversee; informalhead up \"Jones commanded a tank squadron\""
+            ]
+          },
+          {
+            "definition": "control or restrain (oneself or one's feelings).",
+            "examples": [
+              "he commanded himself with an effort"
+            ]
+          },
+          {
+            "definition": "be in a strong enough position to have or secure (something).",
+            "examples": [
+              "no party commanded a majority"
+            ],
+            "synonyms": [
+              "receive",
+              "get",
+              "gain",
+              "secure \"they command great respect\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

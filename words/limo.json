@@ -1,0 +1,30 @@
+[
+  {
+    "word": "limo",
+    "syllables": [
+      "lim",
+      "o"
+    ],
+    "pronunciation": "ˈlimō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "limo"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for limousine."
+          }
+        ]
+      }
+    ]
+  }
+]

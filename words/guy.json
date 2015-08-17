@@ -1,0 +1,173 @@
+[
+  {
+    "word": "guy",
+    "syllables": [
+      "guy"
+    ],
+    "pronunciation": "ɡī",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "guy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "guys"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a man.",
+            "examples": [
+              "he's a nice guy"
+            ],
+            "synonyms": [
+              "man",
+              "fellow",
+              "gentleman; Moreyouth",
+              "boy; informallad",
+              "fella",
+              "gent",
+              "chap",
+              "dude",
+              "joe",
+              "Joe Blow",
+              "Joe Schmo",
+              "hombre \"he's a handsome guy\""
+            ]
+          },
+          {
+            "definition": "people of either sex.",
+            "examples": [
+              "you guys want some coffee?"
+            ]
+          },
+          {
+            "definition": "a figure representing Guy Fawkes, burned on a bonfire on Guy Fawkes' Night, and often displayed by children begging for money for fireworks.",
+            "examples": [
+              "man, fellow, gentleman; Moreyouth, boy; informallad, fella, gent, chap, dude, joe, Joe Blow, Joe Schmo, hombre \"he's a handsome guy\"Moreyouth, boy; lad, fella, gent, chap, dude, joe, Joe Blow, Joe Schmo, hombre he's a handsome guy"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "guy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "guys"
+          },
+          {
+            "part": "past tense",
+            "variant": "guyed"
+          },
+          {
+            "part": "past participle",
+            "variant": "guyed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "guying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make fun of; ridicule.",
+            "examples": [
+              "he didn't realize I was guying the whole idea"
+            ],
+            "synonyms": [
+              "man",
+              "fellow",
+              "gentleman; Moreyouth",
+              "boy; informallad",
+              "fella",
+              "gent",
+              "chap",
+              "dude",
+              "joe",
+              "Joe Blow",
+              "Joe Schmo",
+              "hombre \"he's a handsome guy\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "guy",
+    "syllables": [
+      "guy"
+    ],
+    "pronunciation": "ɡī",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "guy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "guys"
+          },
+          {
+            "part": "noun",
+            "variant": "guy rope"
+          },
+          {
+            "part": "plural noun",
+            "variant": "guy ropes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rope or line fixed to the ground to secure a tent or other structure."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "guy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "guys"
+          },
+          {
+            "part": "past tense",
+            "variant": "guyed"
+          },
+          {
+            "part": "past participle",
+            "variant": "guyed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "guying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "secure with a line or lines.",
+            "examples": [
+              "it was set on concrete footings and guyed with steel cable"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

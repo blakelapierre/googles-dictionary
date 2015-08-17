@@ -1,0 +1,38 @@
+[
+  {
+    "word": "refuge",
+    "syllables": [
+      "ref",
+      "uge"
+    ],
+    "pronunciation": "ˈrefˌyo͞ojˈrefˌyo͞oZH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "refuge"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a condition of being safe or sheltered from pursuit, danger, or trouble.",
+            "examples": [
+              "he was forced to take refuge in the French embassy"
+            ]
+          },
+          {
+            "definition": "something providing shelter.",
+            "examples": [
+              "plural noun: refuges"
+            ]
+          },
+          {
+            "definition": "an institution providing safe accommodations for women who have suffered violence from a spouse or partner."
+          }
+        ]
+      }
+    ]
+  }
+]

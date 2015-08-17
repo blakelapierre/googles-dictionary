@@ -1,0 +1,153 @@
+[
+  {
+    "word": "realize",
+    "syllables": [
+      "re",
+      "al",
+      "ize"
+    ],
+    "pronunciation": "ˈrē(ə)ˌlīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "realize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "realizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "realized"
+          },
+          {
+            "part": "past participle",
+            "variant": "realized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "realizing"
+          },
+          {
+            "part": "verb",
+            "variant": "realise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "realises"
+          },
+          {
+            "part": "past tense",
+            "variant": "realised"
+          },
+          {
+            "part": "past participle",
+            "variant": "realised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "realising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become fully aware of (something) as a fact; understand clearly.",
+            "examples": [
+              "he realized his mistake at once"
+            ],
+            "synonyms": [
+              "register",
+              "perceive",
+              "discern",
+              "be/become aware of (the fact that)",
+              "be/become conscious of (the fact that)",
+              "notice; Moreunderstand",
+              "grasp",
+              "comprehend",
+              "see",
+              "recognize",
+              "work out",
+              "fathom",
+              "apprehend; informallatch on to",
+              "savvy",
+              "figure out",
+              "get (the message); suss; formalbe/become cognizant of \"he suddenly realized what she meant\""
+            ]
+          },
+          {
+            "definition": "cause (something desired or anticipated) to happen.",
+            "examples": [
+              "our loans are helping small business realize their dreams"
+            ]
+          },
+          {
+            "definition": "fulfill.",
+            "examples": [
+              "it is only now that she is beginning to realize her potential"
+            ],
+            "synonyms": [
+              "fulfill",
+              "achieve",
+              "accomplish",
+              "make a reality",
+              "make happen",
+              "bring to fruition",
+              "bring about/off",
+              "carry out/through; formaleffectuate \"they realized their dream\""
+            ]
+          },
+          {
+            "definition": "give actual or physical form to.",
+            "examples": [
+              "the stage designs have been beautifully realized"
+            ]
+          },
+          {
+            "definition": "use (a linguistic feature) in a particular spoken or written form."
+          },
+          {
+            "definition": "add to or complete (a piece of music left sparsely notated by the composer)."
+          },
+          {
+            "definition": "make (money or a profit) from a transaction.",
+            "examples": [
+              "she realized a profit of $100,000"
+            ],
+            "synonyms": [
+              "make",
+              "clear",
+              "gain",
+              "earn",
+              "return",
+              "produce More\"the company realized significant profits\"be sold for",
+              "fetch",
+              "go for",
+              "make",
+              "net \"the goods realized $3000\""
+            ]
+          },
+          {
+            "definition": "(of goods) be sold for (a specified price); fetch.",
+            "examples": [
+              "the drawings are expected to realize $500,000"
+            ]
+          },
+          {
+            "definition": "convert (an asset) into cash.",
+            "examples": [
+              "he realized all the assets in her trust fund"
+            ],
+            "synonyms": [
+              "cash in",
+              "liquidate",
+              "capitalize \"he realized his assets\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

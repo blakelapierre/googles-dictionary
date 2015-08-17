@@ -1,0 +1,34 @@
+[
+  {
+    "word": "polyester",
+    "syllables": [
+      "pol",
+      "y",
+      "es",
+      "ter"
+    ],
+    "pronunciation": "ˈpälēˌestər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "polyester"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a synthetic resin in which the polymer units are linked by ester groups, used chiefly to make synthetic textile fibers."
+          },
+          {
+            "definition": "a fabric made from polyester fiber.",
+            "examples": [
+              "plural noun: polyesters"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

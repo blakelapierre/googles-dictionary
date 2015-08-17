@@ -1,0 +1,61 @@
+[
+  {
+    "word": "affection",
+    "syllables": [
+      "af",
+      "fec",
+      "tion"
+    ],
+    "pronunciation": "əˈfekSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "affections"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gentle feeling of fondness or liking.",
+            "examples": [
+              "she felt affection for the wise old lady"
+            ],
+            "synonyms": [
+              "fondness",
+              "love",
+              "liking",
+              "tenderness",
+              "warmth",
+              "devotion",
+              "endearment",
+              "care",
+              "caring",
+              "attachment",
+              "friendship; warm feelings \"the affection they share is obvious\""
+            ]
+          },
+          {
+            "definition": "physical expressions of affection.",
+            "examples": [
+              "the prisoners crave affection and hence participate in sexual relationships"
+            ]
+          },
+          {
+            "definition": "the act or process of affecting or being affected."
+          },
+          {
+            "definition": "a condition of disease.",
+            "examples": [
+              "an affection of the skin"
+            ]
+          },
+          {
+            "definition": "a mental state; an emotion."
+          }
+        ]
+      }
+    ]
+  }
+]

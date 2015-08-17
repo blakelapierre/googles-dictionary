@@ -1,0 +1,28 @@
+[
+  {
+    "word": "snore",
+    "syllables": [
+      "snore"
+    ],
+    "pronunciation": "snôr",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "snoring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "breathe with a snorting or grunting sound while asleep.",
+            "examples": [
+              "he was snoring loudly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

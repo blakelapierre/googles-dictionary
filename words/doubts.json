@@ -1,0 +1,136 @@
+[
+  {
+    "word": "doubt",
+    "syllables": [
+      "doubt"
+    ],
+    "pronunciation": "dout",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "doubts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of uncertainty or lack of conviction.",
+            "examples": [
+              "some doubt has been cast upon the authenticity of this account"
+            ],
+            "synonyms": [
+              "uncertainty",
+              "unsureness",
+              "indecision",
+              "hesitation",
+              "dubiousness",
+              "suspicion",
+              "confusion; Morequeries",
+              "questions; formaldubiety \"there was some doubt as to the caller's identity\"indecision",
+              "hesitation",
+              "uncertainty",
+              "insecurity",
+              "unease",
+              "uneasiness",
+              "apprehension; hesitancy",
+              "vacillation",
+              "irresolution \"a weak leader racked by doubt\"skepticism",
+              "distrust",
+              "mistrust",
+              "doubtfulness",
+              "suspicion",
+              "cynicism",
+              "uneasiness",
+              "apprehension",
+              "wariness",
+              "chariness",
+              "leeriness; reservations",
+              "misgivings",
+              "suspicions; formaldubiety \"there is doubt about their motives\""
+            ],
+            "antonyms": [
+              "certainty",
+              "confidence",
+              "conviction",
+              "trust"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "doubts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel uncertain about.",
+            "examples": [
+              "I doubt my ability to do the job"
+            ]
+          },
+          {
+            "definition": "question the truth or fact of (something).",
+            "examples": [
+              "who can doubt the value of these services?"
+            ],
+            "synonyms": [
+              "think something unlikely",
+              "have (one's) doubts about",
+              "question",
+              "query",
+              "be dubious \"I doubt whether he will come\""
+            ],
+            "antonyms": [
+              "be confident"
+            ]
+          },
+          {
+            "definition": "disbelieve (a person or their word).",
+            "examples": [
+              "I have no reason to doubt him"
+            ],
+            "synonyms": [
+              "disbelieve",
+              "distrust",
+              "mistrust",
+              "suspect",
+              "have doubts about",
+              "be suspicious of",
+              "have misgivings about",
+              "have qualms about",
+              "feel uneasy about",
+              "feel apprehensive about",
+              "query",
+              "question",
+              "challenge \"they doubted my story\""
+            ],
+            "antonyms": [
+              "trust"
+            ]
+          },
+          {
+            "definition": "feel uncertain, especially about one's religious beliefs.",
+            "examples": [
+              "be undecided, have doubts, be irresolute, be ambivalent, be doubtful, be unsure, be uncertain, be of two minds, hesitate, shilly-shally, waver, vacillate stop doubting and believe!"
+            ],
+            "antonyms": [
+              "believe"
+            ]
+          },
+          {
+            "definition": "fear; be afraid of.",
+            "examples": [
+              "I doubt not your contradictions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

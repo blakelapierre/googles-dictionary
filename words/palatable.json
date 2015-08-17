@@ -1,0 +1,60 @@
+[
+  {
+    "word": "palatable",
+    "syllables": [
+      "pal",
+      "at",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "ˈpalədəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "palatable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of food or drink) pleasant to taste.",
+            "examples": [
+              "a very palatable local red wine"
+            ],
+            "synonyms": [
+              "edible",
+              "eatable",
+              "digestible",
+              "tasty",
+              "appetizing",
+              "flavorful; formalcomestible \"palatable meals\""
+            ],
+            "antonyms": [
+              "tasteless",
+              "insipid"
+            ]
+          },
+          {
+            "definition": "(of an action or proposal) acceptable or satisfactory.",
+            "examples": [
+              "a device that made increased taxation more palatable"
+            ],
+            "synonyms": [
+              "pleasant",
+              "acceptable",
+              "pleasing",
+              "agreeable",
+              "to one's liking \"the truth is not always palatable\""
+            ],
+            "antonyms": [
+              "disagreeable",
+              "unpleasant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

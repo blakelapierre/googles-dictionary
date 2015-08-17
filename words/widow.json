@@ -1,0 +1,68 @@
+[
+  {
+    "word": "widow",
+    "syllables": [
+      "wid",
+      "ow"
+    ],
+    "pronunciation": "ˈwidō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "widow"
+          },
+          {
+            "part": "plural noun",
+            "variant": "widows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a woman who has lost her spouse by death and has not remarried."
+          },
+          {
+            "definition": "a woman whose spouse is often away participating in a specified sport or activity.",
+            "examples": [
+              "a golf widow"
+            ]
+          },
+          {
+            "definition": "a last word or short last line of a paragraph falling at the top of a page or column and considered undesirable."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "widowed"
+          },
+          {
+            "part": "verb",
+            "variant": "widow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "widows"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "widowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make into a widow or widower.",
+            "examples": [
+              "she had to care for her widowed mother"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "word": "propriety",
+    "syllables": [
+      "pro",
+      "pri",
+      "e",
+      "ty"
+    ],
+    "pronunciation": "p(r)əˈprīədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "propriety"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or quality of conforming to conventionally accepted standards of behavior or morals.",
+            "examples": [
+              "he always behaved with the utmost propriety"
+            ],
+            "synonyms": [
+              "decorum",
+              "respectability",
+              "decency",
+              "correctness",
+              "protocol",
+              "appropriateness",
+              "suitability",
+              "good manners",
+              "courtesy",
+              "politeness",
+              "rectitude",
+              "morality",
+              "civility",
+              "modesty",
+              "demureness; Moresobriety",
+              "refinement",
+              "discretion \"she behaves with the utmost propriety\"etiquette",
+              "convention(s)",
+              "social grace(s)",
+              "niceties",
+              "one's Ps and Qs",
+              "protocol",
+              "standards",
+              "civilities",
+              "formalities",
+              "accepted behavior",
+              "good form",
+              "the done thing",
+              "the thing to do",
+              "punctilio \"he was careful to preserve the proprieties in public\""
+            ],
+            "antonyms": [
+              "indecorum"
+            ]
+          },
+          {
+            "definition": "the details or rules of behavior conventionally considered to be correct.",
+            "examples": [
+              "plural noun: proprieties"
+            ]
+          },
+          {
+            "definition": "the condition of being right, appropriate, or fitting.",
+            "examples": [
+              "they questioned the propriety of certain investments made by the council"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

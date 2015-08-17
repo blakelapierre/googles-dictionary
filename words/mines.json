@@ -1,0 +1,120 @@
+[
+  {
+    "word": "mine",
+    "syllables": [
+      "mine"
+    ],
+    "pronunciation": "mīn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "mines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an excavation in the earth for extracting coal or other minerals.",
+            "examples": [
+              "a copper mine"
+            ],
+            "synonyms": [
+              "pit",
+              "excavation",
+              "quarry",
+              "workings",
+              "diggings; Morestrip mine",
+              "open-pit mine",
+              "placer (mine)",
+              "hardrock mine \"a coal mine\""
+            ]
+          },
+          {
+            "definition": "an abundant source of something.",
+            "examples": [
+              "the book contains a mine of information"
+            ],
+            "synonyms": [
+              "rich source",
+              "repository",
+              "store",
+              "storehouse",
+              "reservoir",
+              "gold mine",
+              "treasure house",
+              "treasury",
+              "reserve",
+              "fund",
+              "wealth",
+              "stock \"a mine of information\""
+            ]
+          },
+          {
+            "definition": "a type of bomb placed on or just below the surface of the ground or in the water that detonates when disturbed by a person, vehicle, or ship.",
+            "examples": [
+              "explosive, land mine, limpet mine, magnetic mine, depth charge he was killed by a mine"
+            ]
+          },
+          {
+            "definition": "a subterranean passage under the wall of a besieged fortress, especially one in which explosives are put to blow up fortifications."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "mines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "obtain (coal or other minerals) from a mine.",
+            "examples": [
+              "quarry, excavate, dig (up), extract, remove; Morestrip-mine, pan \"the iron ore was mined from shallow pits\"Morestrip-mine, pan the iron ore was mined from shallow pits"
+            ]
+          },
+          {
+            "definition": "dig in (the earth) for coal or other minerals.",
+            "examples": [
+              "the hills were mined for copper oxide"
+            ]
+          },
+          {
+            "definition": "dig or burrow in (the earth)."
+          },
+          {
+            "definition": "delve into (an abundant source) to extract something of value, especially information or skill.",
+            "examples": [
+              "how do they manage to mine such a rich vein of talent?"
+            ],
+            "synonyms": [
+              "search",
+              "delve into",
+              "scour",
+              "scan",
+              "read through",
+              "survey \"medical data was mined for relevant statistics\""
+            ]
+          },
+          {
+            "definition": "lay explosive mines on or just below the surface of (the ground or water).",
+            "examples": [
+              "the area was heavily mined"
+            ],
+            "synonyms": [
+              "defend with mines",
+              "lay with mines \"the entrance to the harbor had been mined\""
+            ]
+          },
+          {
+            "definition": "destroy by means of an explosive mine."
+          }
+        ]
+      }
+    ]
+  }
+]

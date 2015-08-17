@@ -1,0 +1,101 @@
+[
+  {
+    "word": "negotiate",
+    "syllables": [
+      "ne",
+      "go",
+      "ti",
+      "ate"
+    ],
+    "pronunciation": "nəˈɡōSHēˌāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "negotiate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "negotiates"
+          },
+          {
+            "part": "past tense",
+            "variant": "negotiated"
+          },
+          {
+            "part": "past participle",
+            "variant": "negotiated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "negotiating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "try to reach an agreement or compromise by discussion with others.",
+            "examples": [
+              "his government's willingness to negotiate"
+            ],
+            "synonyms": [
+              "discuss terms",
+              "talk",
+              "consult",
+              "parley",
+              "confer",
+              "debate; Morecompromise; mediate",
+              "intercede",
+              "arbitrate",
+              "moderate",
+              "conciliate; bargain",
+              "haggle \"she refused to negotiate\""
+            ]
+          },
+          {
+            "definition": "obtain or bring about by negotiating.",
+            "examples": [
+              "he negotiated a new contract with the sellers"
+            ],
+            "synonyms": [
+              "arrange",
+              "broker",
+              "work out",
+              "thrash out",
+              "agree on; Moresettle",
+              "clinch",
+              "conclude",
+              "pull off",
+              "bring off",
+              "transact; informalsort out",
+              "swing \"he negotiated a new contract\""
+            ]
+          },
+          {
+            "definition": "find a way over or through (an obstacle or difficult path).",
+            "examples": [
+              "there was a puddle to be negotiated"
+            ],
+            "synonyms": [
+              "get around",
+              "get past",
+              "get over",
+              "clear",
+              "cross; Moresurmount",
+              "overcome",
+              "deal with",
+              "cope with \"I negotiated the obstacles\""
+            ]
+          },
+          {
+            "definition": "transfer (a check, bill, or other document) to the legal ownership of another person."
+          },
+          {
+            "definition": "convert (a check) into cash."
+          }
+        ]
+      }
+    ]
+  }
+]

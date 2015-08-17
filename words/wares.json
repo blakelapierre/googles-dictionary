@@ -1,0 +1,77 @@
+[
+  {
+    "word": "ware",
+    "syllables": [
+      "ware"
+    ],
+    "pronunciation": "wer",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "wares"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pottery, typically that of a specified type.",
+            "examples": [
+              "blue-and-white majolica ware"
+            ]
+          },
+          {
+            "definition": "manufactured articles of a specified type.",
+            "examples": [
+              "crystal ware"
+            ]
+          },
+          {
+            "definition": "articles offered for sale.",
+            "examples": [
+              "traders in the street markets displayed their wares"
+            ],
+            "synonyms": [
+              "merchandise",
+              "goods",
+              "products",
+              "produce",
+              "stock",
+              "commodities; Morelines",
+              "range; informalstuff \"on Saturdays",
+              "the weaver would come into town with his wares\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ware",
+    "syllables": [
+      "ware"
+    ],
+    "pronunciation": "wer",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "wares"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "'wares"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "beware (used as a warning cry, typically in a hunting context)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "word": "farewell",
+    "syllables": [
+      "fare",
+      "well"
+    ],
+    "pronunciation": "ˌferˈwel",
+    "parts": [
+      {
+        "part": "exclamation",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "farewell"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to express good wishes on parting.",
+            "examples": [
+              "farewell, Albert!"
+            ],
+            "synonyms": [
+              "goodbye",
+              "so long",
+              "bye",
+              "bye-bye",
+              "see you (later)",
+              "cheers; Moreadieu",
+              "au revoir",
+              "ciao",
+              "adios",
+              "sayonara; bon voyage; informal",
+              "toodle-oo \"farewell",
+              "New York\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "farewell"
+          },
+          {
+            "part": "plural noun",
+            "variant": "farewells"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of parting or of marking someone's departure.",
+            "examples": [
+              "the dinner had been arranged as a farewell"
+            ]
+          },
+          {
+            "definition": "parting good wishes.",
+            "examples": [
+              "he had come on the pretext of bidding her farewell"
+            ],
+            "synonyms": [
+              "goodbye",
+              "valediction",
+              "adieu; Moreleave-taking",
+              "parting",
+              "departure; send-off \"an emotional farewell\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "word": "divide",
+    "syllables": [
+      "di",
+      "vide"
+    ],
+    "pronunciation": "dəˈvīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "divides"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "separate or be separated into parts.",
+            "examples": [
+              "consumer magazines can be divided into a number of different categories"
+            ],
+            "synonyms": [
+              "split (up)",
+              "cut up",
+              "carve up; Moredissect",
+              "bisect",
+              "halve",
+              "quarter; literarysunder \"he divided his estate into separate holdings\"diverge",
+              "separate",
+              "part",
+              "branch (off)",
+              "fork",
+              "split (in two)",
+              "bifurcate \"the stairs divide at the mezzanine\"classify",
+              "sort (out)",
+              "categorize",
+              "order",
+              "group",
+              "grade",
+              "rank \"living things are divided into three categories\""
+            ],
+            "antonyms": [
+              "unify",
+              "join",
+              "converge",
+              "combine"
+            ]
+          },
+          {
+            "definition": "separate (something) into portions and distribute a share to each of a number of people.",
+            "examples": [
+              "Jack divided up the rest of the cash"
+            ],
+            "synonyms": [
+              "share out",
+              "allocate",
+              "allot",
+              "apportion",
+              "portion out",
+              "ration out",
+              "parcel out",
+              "deal out",
+              "dole out",
+              "dish out",
+              "distribute",
+              "dispense; informaldivvy up \"Jack divided up the cash\""
+            ]
+          },
+          {
+            "definition": "allocate (different parts of one's time, attention, or efforts) to different activities or places.",
+            "examples": [
+              "the last years of her life were divided between Bermuda and Paris"
+            ]
+          },
+          {
+            "definition": "form a boundary between (two people or things).",
+            "examples": [
+              "the artificial barrier that has divided an academic education from a vocational one"
+            ],
+            "synonyms": [
+              "separate",
+              "segregate",
+              "partition",
+              "screen off",
+              "section off",
+              "split off \"a curtain divided her cabin from the galley\""
+            ],
+            "antonyms": [
+              "unify",
+              "join",
+              "converge"
+            ]
+          },
+          {
+            "definition": "(of a legislative assembly) separate or be separated into two groups for voting.",
+            "examples": [
+              "the House divided: 287 for, 196 against"
+            ]
+          },
+          {
+            "definition": "disagree or cause to disagree.",
+            "examples": [
+              "the question had divided Frenchmen since the Revolution"
+            ],
+            "synonyms": [
+              "disunite",
+              "drive apart",
+              "break up",
+              "split up",
+              "set at variance",
+              "set at odds; Moreseparate",
+              "isolate",
+              "estrange",
+              "alienate; literarytear asunder \"he aimed to divide his opponents\""
+            ],
+            "antonyms": [
+              "unify",
+              "unite"
+            ]
+          },
+          {
+            "definition": "find how many times (a number) contains another.",
+            "examples": [
+              "36 divided by 2 equals 18"
+            ]
+          },
+          {
+            "definition": "(of a number) be susceptible to division without a remainder.",
+            "examples": [
+              "30 does not divide by 8"
+            ]
+          },
+          {
+            "definition": "find how many times (a number) is contained in another.",
+            "examples": [
+              "divide 4 into 20"
+            ]
+          },
+          {
+            "definition": "(of a number) be contained in a number without a remainder.",
+            "examples": [
+              "3 divides into 15"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "divides"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a wide divergence between two groups, typically producing tension or hostility.",
+            "examples": [
+              "there was still a profound cultural divide between the parties"
+            ]
+          },
+          {
+            "definition": "a boundary between two things.",
+            "examples": [
+              "symbolically, the difference of sex is a divide"
+            ],
+            "synonyms": [
+              "breach",
+              "gulf",
+              "gap",
+              "split; Moreborderline",
+              "boundary",
+              "dividing line \"the sectarian divide\""
+            ]
+          },
+          {
+            "definition": "a ridge or line of high ground forming the division between two valleys or river systems."
+          }
+        ]
+      }
+    ]
+  }
+]

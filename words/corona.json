@@ -1,0 +1,81 @@
+[
+  {
+    "word": "corona",
+    "syllables": [
+      "co",
+      "ro",
+      "na"
+    ],
+    "pronunciation": "kəˈrōnə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "corona"
+          },
+          {
+            "part": "plural noun",
+            "variant": "coronae"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the rarefied gaseous envelope of the sun and other stars. The sun's corona is normally visible only during a total solar eclipse when it is seen as an irregularly shaped pearly glow surrounding the darkened disk of the moon."
+          },
+          {
+            "definition": "the glow around a conductor at high potential.",
+            "examples": [
+              "noun: corona discharge; plural noun: corona discharges"
+            ]
+          },
+          {
+            "definition": "a small circle of light seen around the sun or moon, due to diffraction by water droplets."
+          },
+          {
+            "definition": "a crown or crownlike structure."
+          },
+          {
+            "definition": "the cup-shaped or trumpet-shaped outgrowth at the center of a daffodil or narcissus flower."
+          },
+          {
+            "definition": "a circular chandelier in a church."
+          },
+          {
+            "definition": "a part of a cornice having a broad vertical face."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "corona",
+    "syllables": [
+      "co",
+      "ro",
+      "na"
+    ],
+    "pronunciation": "kəˈrōnə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "corona"
+          },
+          {
+            "part": "plural noun",
+            "variant": "coronas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long, straight-sided cigar."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "communicative",
+    "syllables": [
+      "com",
+      "mu",
+      "ni",
+      "ca",
+      "tive"
+    ],
+    "pronunciation": "kəˈmyo͞onəˌkādivkəˈmyo͞onikədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "communicative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ready to talk or impart information.",
+            "examples": [
+              "the patient was alert and communicative"
+            ],
+            "synonyms": [
+              "forthcoming",
+              "expansive",
+              "expressive",
+              "unreserved",
+              "uninhibited",
+              "vocal",
+              "outgoing",
+              "frank",
+              "open",
+              "candid; Moretalkative",
+              "chatty",
+              "loquacious; informalgabby \"we find that teenage boys tend to be less communicative\""
+            ]
+          },
+          {
+            "definition": "relating to the conveyance or exchange of information.",
+            "examples": [
+              "the communicative process in literary texts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

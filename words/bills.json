@@ -1,0 +1,218 @@
+[
+  {
+    "word": "bill",
+    "syllables": [
+      "bill"
+    ],
+    "pronunciation": "bil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an amount of money owed for goods supplied or services rendered, set out in a printed or written statement of charges.",
+            "examples": [
+              "he was running up a bill of hundreds of dollars"
+            ],
+            "synonyms": [
+              "invoice",
+              "account",
+              "statement",
+              "list of charges",
+              "e-bill",
+              "check; Moreinformaltab; archaicreckoning",
+              "score \"a bill for $60\""
+            ]
+          },
+          {
+            "definition": "a draft of a proposed law presented to parliament for discussion.",
+            "examples": [
+              "a debate over the civil rights bill"
+            ],
+            "synonyms": [
+              "draft law",
+              "proposed piece of legislation",
+              "proposal",
+              "measure \"a congressional bill\""
+            ]
+          },
+          {
+            "definition": "a program of entertainment, especially at a theater.",
+            "examples": [
+              "she was top of the bill at America's leading vaudeville house"
+            ]
+          },
+          {
+            "definition": "a banknote; a piece of paper money.",
+            "examples": [
+              "a ten-dollar bill"
+            ],
+            "synonyms": [
+              "banknote",
+              "note \"a $20 bill\""
+            ]
+          },
+          {
+            "definition": "a poster or handbill.",
+            "examples": [
+              "the circus promoters were posting bills all over town"
+            ],
+            "synonyms": [
+              "poster",
+              "advertisement",
+              "ad",
+              "public notice",
+              "announcement; Moreflyer",
+              "leaflet",
+              "handbill \"he had been posting bills\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "list (a person or event) in a program.",
+            "examples": [
+              "they were billed to appear but didn't show up"
+            ],
+            "synonyms": [
+              "advertise",
+              "announce; Moreschedule",
+              "program",
+              "timetable; slate \"the concert went ahead as billed\""
+            ]
+          },
+          {
+            "definition": "describe someone or something in a particular, usually promotional, way, especially as a means of advertisement.",
+            "examples": [
+              "he was billed as “the new Sean Connery.”"
+            ],
+            "synonyms": [
+              "advertise",
+              "announce; Moreschedule",
+              "program",
+              "timetable; slate \"the concert went ahead as billed\"describe as",
+              "call",
+              "style",
+              "label",
+              "dub; promote as",
+              "publicize as",
+              "talk up as",
+              "hype as \"he was billed as the new Sean Connery\""
+            ]
+          },
+          {
+            "definition": "send a note of charges to (someone).",
+            "examples": [
+              "we shall be billing them for the damage caused"
+            ],
+            "synonyms": [
+              "invoice",
+              "charge",
+              "debit",
+              "send a statement to \"please bill me for the work\""
+            ]
+          },
+          {
+            "definition": "charge (a sum of money).",
+            "examples": [
+              "we billed her $400,000"
+            ],
+            "synonyms": [
+              "invoice",
+              "charge",
+              "debit",
+              "send a statement to \"please bill me for the work\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bill",
+    "syllables": [
+      "bill"
+    ],
+    "pronunciation": "bil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the beak of a bird, especially when it is slender, flattened, or weak, or belongs to a web-footed bird or a bird of the pigeon family.",
+            "examples": [
+              "beak, neb; mandibles a bird's bill"
+            ]
+          },
+          {
+            "definition": "the muzzle of a platypus."
+          },
+          {
+            "definition": "the point of an anchor fluke."
+          },
+          {
+            "definition": "a stiff brim at the front of a cap."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of birds, especially doves) stroke bill with bill during courtship."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bill",
+    "syllables": [
+      "bill"
+    ],
+    "pronunciation": "bil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a medieval weapon like a halberd with a hook instead of a blade."
+          }
+        ]
+      }
+    ]
+  }
+]

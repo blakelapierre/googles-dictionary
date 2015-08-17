@@ -1,0 +1,40 @@
+[
+  {
+    "word": "attendance",
+    "syllables": [
+      "at",
+      "tend",
+      "ance"
+    ],
+    "pronunciation": "əˈtendəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "attendance"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or state of going regularly to or being present at a place or event.",
+            "examples": [
+              "my attendance at church was very irregular"
+            ],
+            "synonyms": [
+              "presence",
+              "appearance \"please confirm your attendance\""
+            ]
+          },
+          {
+            "definition": "the number of people present at a particular event, function, or meeting.",
+            "examples": [
+              "plural noun: attendances"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "word": "initiative",
+    "syllables": [
+      "in",
+      "i",
+      "ti",
+      "a",
+      "tive"
+    ],
+    "pronunciation": "iˈniSH(ē)ədiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "initiative"
+          },
+          {
+            "part": "plural noun",
+            "variant": "initiatives"
+          },
+          {
+            "part": "noun",
+            "variant": "the initiative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the ability to assess and initiate things independently.",
+            "examples": [
+              "use your initiative, imagination, and common sense"
+            ],
+            "synonyms": [
+              "self-motivation",
+              "resourcefulness",
+              "inventiveness",
+              "imagination",
+              "ingenuity",
+              "originality",
+              "creativity",
+              "enterprise; Moredrive",
+              "dynamism",
+              "ambition",
+              "motivation",
+              "spirit",
+              "energy",
+              "vision; informalget-up-and-go",
+              "pep",
+              "moxie",
+              "spunk",
+              "gumption \"employers are looking for people with initiative\""
+            ]
+          },
+          {
+            "definition": "the power or opportunity to act or take charge before others do.",
+            "examples": [
+              "we have lost the initiative and allowed our opponents to dictate the subject"
+            ]
+          },
+          {
+            "definition": "an act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something.",
+            "examples": [
+              "a new initiative against car crime"
+            ],
+            "synonyms": [
+              "plan",
+              "scheme",
+              "strategy",
+              "stratagem",
+              "measure",
+              "proposal",
+              "step",
+              "action",
+              "approach \"a recent initiative on recycling\""
+            ]
+          },
+          {
+            "definition": "a proposal made by one nation to another in an attempt to improve relations.",
+            "examples": [
+              "diplomatic initiatives to end the war"
+            ]
+          },
+          {
+            "definition": "(especially in some US states and Switzerland) the right of citizens outside the legislature to originate legislation."
+          }
+        ]
+      }
+    ]
+  }
+]

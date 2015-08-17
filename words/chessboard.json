@@ -1,0 +1,38 @@
+[
+  {
+    "word": "chessboard",
+    "syllables": [
+      "chess",
+      "board"
+    ],
+    "pronunciation": "ˈCHesbôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chessboard"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chessboards"
+          },
+          {
+            "part": "noun",
+            "variant": "chess-board"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chess-boards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a square board divided into sixty-four alternating dark and light squares, used for playing chess or checkers."
+          }
+        ]
+      }
+    ]
+  }
+]

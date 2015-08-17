@@ -1,0 +1,99 @@
+[
+  {
+    "word": "issue",
+    "syllables": [
+      "is",
+      "sue"
+    ],
+    "pronunciation": "ˈiSHo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "issuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "supply or distribute (something).",
+            "examples": [
+              "licenses were issued indiscriminately to any company"
+            ],
+            "synonyms": [
+              "supply",
+              "provide",
+              "furnish",
+              "arm",
+              "equip",
+              "fit out",
+              "rig out; Morekit out; informalfix up \"the students were issued with new uniforms\""
+            ]
+          },
+          {
+            "definition": "supply someone with (something)."
+          },
+          {
+            "definition": "formally send out or make known.",
+            "examples": [
+              "the minister issued a statement"
+            ],
+            "synonyms": [
+              "send out",
+              "put out",
+              "release",
+              "deliver",
+              "publish",
+              "announce",
+              "pronounce",
+              "broadcast",
+              "communicate",
+              "circulate",
+              "distribute",
+              "disseminate",
+              "transmit \"the mayor issued a statement\""
+            ]
+          },
+          {
+            "definition": "put (something) on sale or into general use.",
+            "examples": [
+              "Christmas stamps to be issued in November"
+            ]
+          },
+          {
+            "definition": "come, go, or flow out from.",
+            "examples": [
+              "exotic smells issued from a nearby building"
+            ],
+            "synonyms": [
+              "emanate",
+              "emerge",
+              "exude",
+              "flow (out/forth)",
+              "pour (out/forth); be emitted \"the smell of onion issued from the kitchen\""
+            ]
+          },
+          {
+            "definition": "result or be derived from.",
+            "examples": [
+              "the struggles of history issue from the divided heart of humanity"
+            ],
+            "synonyms": [
+              "result from",
+              "follow",
+              "ensue from",
+              "stem from",
+              "spring (forth) from",
+              "arise from",
+              "proceed from",
+              "come (forth) from; Morebe the result of",
+              "be brought on/about by",
+              "be produced by \"large profits might issue from the deal\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

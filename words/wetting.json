@@ -1,0 +1,53 @@
+[
+  {
+    "word": "wet",
+    "syllables": [
+      "wet"
+    ],
+    "pronunciation": "wet",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "wetting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover or touch with liquid; moisten.",
+            "examples": [
+              "he wet a finger and flicked through the pages"
+            ],
+            "synonyms": [
+              "dampen",
+              "damp",
+              "moisten; Moresprinkle",
+              "spray",
+              "splash",
+              "spritz; soak",
+              "saturate",
+              "flood",
+              "douse",
+              "souse",
+              "drench \"wet the clothes before ironing them\""
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          },
+          {
+            "definition": "(especially of a baby or young child) urinate in or on.",
+            "examples": [
+              "the child wet the bed"
+            ]
+          },
+          {
+            "definition": "urinate involuntarily."
+          }
+        ]
+      }
+    ]
+  }
+]

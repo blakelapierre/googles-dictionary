@@ -1,0 +1,91 @@
+[
+  {
+    "word": "harden",
+    "syllables": [
+      "hard",
+      "en"
+    ],
+    "pronunciation": "ˈhärdn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "harden"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hardens"
+          },
+          {
+            "part": "past tense",
+            "variant": "hardened"
+          },
+          {
+            "part": "past participle",
+            "variant": "hardened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hardening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become hard or harder.",
+            "examples": [
+              "wait for the glue to harden"
+            ],
+            "synonyms": [
+              "solidify",
+              "set",
+              "congeal",
+              "clot",
+              "coagulate",
+              "stiffen",
+              "thicken",
+              "cake",
+              "cure",
+              "inspissate; Morefreeze",
+              "crystallize; ossify",
+              "calcify",
+              "petrify \"this glue will harden in four hours\""
+            ],
+            "antonyms": [
+              "liquefy"
+            ]
+          },
+          {
+            "definition": "make or become more severe and less sympathetic.",
+            "examples": [
+              "she hardened her heart"
+            ],
+            "synonyms": [
+              "toughen",
+              "desensitize",
+              "inure",
+              "case-harden",
+              "harden someone's heart; Moredeaden",
+              "numb",
+              "benumb",
+              "anesthetize; brutalize \"their suffering had hardened them\""
+            ],
+            "antonyms": [
+              "soften"
+            ]
+          },
+          {
+            "definition": "make or become tougher and more clearly defined.",
+            "examples": [
+              "suspicion hardened into certainty"
+            ]
+          },
+          {
+            "definition": "(of prices of stocks, commodities, etc.) rise and remain steady at a higher level."
+          }
+        ]
+      }
+    ]
+  }
+]

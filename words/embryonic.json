@@ -1,0 +1,59 @@
+[
+  {
+    "word": "embryonic",
+    "syllables": [
+      "em",
+      "bry",
+      "on",
+      "ic"
+    ],
+    "pronunciation": "ˌembrēˈänik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "embryonic"
+          },
+          {
+            "part": "adjective",
+            "variant": "embryonal"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to an embryo.",
+            "examples": [
+              "fetal, unborn, unhatched; in utero an embryonic chick"
+            ]
+          },
+          {
+            "definition": "(of a system, idea, or organization) in a rudimentary stage with potential for further development.",
+            "examples": [
+              "the plan is still in its embryonic stages"
+            ],
+            "synonyms": [
+              "rudimentary",
+              "undeveloped",
+              "unformed",
+              "immature",
+              "incomplete",
+              "incipient",
+              "inchoate; Morefledgling",
+              "budding",
+              "nascent",
+              "emerging",
+              "developing",
+              "early",
+              "germinal \"an embryonic prodemocracy movement\""
+            ],
+            "antonyms": [
+              "mature"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

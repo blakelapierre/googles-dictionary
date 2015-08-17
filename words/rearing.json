@@ -1,0 +1,90 @@
+[
+  {
+    "word": "rear",
+    "syllables": [
+      "rear"
+    ],
+    "pronunciation": "rir",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "rearing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring up and care for (a child) until they are fully grown, especially in a particular manner or place.",
+            "examples": [
+              "he was born and reared in New York City"
+            ],
+            "synonyms": [
+              "bring up",
+              "raise",
+              "care for",
+              "look after",
+              "nurture",
+              "parent; Morehand-rear; educate \"I was reared on a farm\""
+            ]
+          },
+          {
+            "definition": "(of an animal) care for (its young) until they are fully grown."
+          },
+          {
+            "definition": "breed and raise (animals).",
+            "examples": [
+              "the calves are reared for beef"
+            ],
+            "synonyms": [
+              "breed",
+              "raise",
+              "keep",
+              "farm",
+              "ranch \"he reared cattle\""
+            ]
+          },
+          {
+            "definition": "grow or cultivate (plants).",
+            "examples": [
+              "laboratory-reared plantlets"
+            ],
+            "synonyms": [
+              "grow",
+              "cultivate \"laboratory-reared plants\""
+            ]
+          },
+          {
+            "definition": "(of a horse or other animal) raise itself upright on its hind legs.",
+            "examples": [
+              "the horse reared in terror"
+            ]
+          },
+          {
+            "definition": "(of a building, mountain, etc.) extend or appear to extend to a great height.",
+            "examples": [
+              "houses reared up on either side"
+            ],
+            "synonyms": [
+              "rise",
+              "rise up",
+              "tower",
+              "soar",
+              "loom \"Mount Logan reared up before them\""
+            ]
+          },
+          {
+            "definition": "(of a person) show anger or irritation; go on the attack.",
+            "examples": [
+              "the press reared up in the wake of the bombings"
+            ]
+          },
+          {
+            "definition": "set (something) upright."
+          }
+        ]
+      }
+    ]
+  }
+]

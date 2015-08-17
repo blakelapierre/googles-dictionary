@@ -1,0 +1,170 @@
+[
+  {
+    "word": "halt",
+    "syllables": [
+      "halt"
+    ],
+    "pronunciation": "hôlt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "halt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "halts"
+          },
+          {
+            "part": "past tense",
+            "variant": "halted"
+          },
+          {
+            "part": "past participle",
+            "variant": "halted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "halting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring or come to an abrupt stop.",
+            "examples": [
+              "there is growing pressure to halt the bloodshed"
+            ],
+            "synonyms": [
+              "stop",
+              "come to a halt",
+              "come to a stop",
+              "come to a standstill; Morepull up",
+              "draw up \"Jen halted and turned around\"stop",
+              "bring to a stop",
+              "put a stop to",
+              "bring to an end",
+              "put an end to",
+              "terminate",
+              "end",
+              "wind up; suspend",
+              "break off",
+              "arrest; impede",
+              "check",
+              "curb",
+              "stem",
+              "block",
+              "stall",
+              "hold back; informalpull the plug on",
+              "put the kibosh on \"a further strike has halted production\""
+            ],
+            "antonyms": [
+              "start",
+              "go",
+              "continue"
+            ]
+          },
+          {
+            "definition": "used as a military command to bring marching soldiers to a stop.",
+            "examples": [
+              "company, halt!"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "halt"
+          },
+          {
+            "part": "plural noun",
+            "variant": "halts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a suspension of movement or activity, typically a temporary one.",
+            "examples": [
+              "a halt in production"
+            ],
+            "synonyms": [
+              "stop",
+              "standstill More\"the car drew to a halt\"stoppage",
+              "stopping",
+              "discontinuation",
+              "break",
+              "suspension",
+              "pause",
+              "interval",
+              "interruption",
+              "hiatus; cessation",
+              "termination",
+              "close",
+              "end \"a halt in production\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "halt",
+    "syllables": [
+      "halt"
+    ],
+    "pronunciation": "hôlt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "halt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lame."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "halt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "halts"
+          },
+          {
+            "part": "past tense",
+            "variant": "halted"
+          },
+          {
+            "part": "past participle",
+            "variant": "halted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "halting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "walk with a limp.",
+            "examples": [
+              "he halted slightly in his walk"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

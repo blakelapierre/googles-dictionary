@@ -1,0 +1,26 @@
+[
+  {
+    "word": "hypha",
+    "syllables": [
+      "hy",
+      "pha"
+    ],
+    "pronunciation": "ˈhīfə",
+    "parts": [
+      {
+        "part": "nounBotany",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "hyphae"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each of the branching filaments that make up the mycelium of a fungus."
+          }
+        ]
+      }
+    ]
+  }
+]

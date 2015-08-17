@@ -1,0 +1,31 @@
+[
+  {
+    "word": "grunt",
+    "syllables": [
+      "grunt"
+    ],
+    "pronunciation": "ɡrənt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "grunting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an animal, especially a pig) make a low, short guttural sound."
+          },
+          {
+            "definition": "(of a person) make a low inarticulate sound, typically to express effort or indicate assent.",
+            "examples": [
+              "Graham grunted and heaved as he helped the masons fit a huge slab of stone into place"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

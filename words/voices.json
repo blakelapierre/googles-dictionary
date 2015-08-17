@@ -1,0 +1,162 @@
+[
+  {
+    "word": "voice",
+    "syllables": [
+      "voice"
+    ],
+    "pronunciation": "vois",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "voices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the sound produced in a person's larynx and uttered through the mouth, as speech or song.",
+            "examples": [
+              "Meg raised her voice"
+            ]
+          },
+          {
+            "definition": "an agency by which a particular point of view is expressed or represented.",
+            "examples": [
+              "once the proud voice of middle-class conservatism, the paper had fallen on hard times"
+            ],
+            "synonyms": [
+              "spokesperson",
+              "speaker",
+              "champion",
+              "representative",
+              "mouthpiece",
+              "intermediary; Moreforum",
+              "vehicle",
+              "instrument",
+              "channel",
+              "organ",
+              "agent \"a powerful voice for conservation\""
+            ]
+          },
+          {
+            "definition": "the right to express an opinion.",
+            "examples": [
+              "the new electoral system gives minority parties a voice"
+            ],
+            "synonyms": [
+              "say",
+              "influence",
+              "vote",
+              "input",
+              "role",
+              "representation",
+              "seat at the table \"citizens must have a voice in this\""
+            ]
+          },
+          {
+            "definition": "a particular opinion or attitude expressed.",
+            "examples": [
+              "a dissenting voice"
+            ],
+            "synonyms": [
+              "opinion",
+              "view",
+              "feeling",
+              "wish",
+              "desire",
+              "will; Morevox populi; informalvox pop \"we speak with one voice\""
+            ]
+          },
+          {
+            "definition": "the ability to speak or sing.",
+            "examples": [
+              "she'd lost her voice"
+            ],
+            "synonyms": [
+              "power of speech \"she lost her voice\""
+            ]
+          },
+          {
+            "definition": "the supposed utterance of a guiding spirit, typically giving instructions or advice."
+          },
+          {
+            "definition": "the distinctive tone or style of a literary work or author.",
+            "examples": [
+              "she had strained and falsified her literary voice"
+            ]
+          },
+          {
+            "definition": "the range of pitch or type of tone with which a person sings, such as soprano or tenor."
+          },
+          {
+            "definition": "a vocal part in a composition."
+          },
+          {
+            "definition": "a constituent part in a fugue."
+          },
+          {
+            "definition": "each of the notes or sounds able to be produced simultaneously by a musical instrument (especially an electronic one) or a computer."
+          },
+          {
+            "definition": "(in an electronic musical instrument) each of a number of preset or programmable tones."
+          },
+          {
+            "definition": "sound uttered with resonance of the vocal cords (used in the pronunciation of vowels and certain consonants)."
+          },
+          {
+            "definition": "a form or set of forms of a verb showing the relation of the subject to the action.",
+            "examples": [
+              "the passive voice"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "voices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express (something) in words.",
+            "examples": [
+              "get teachers to voice their opinions on important subjects"
+            ],
+            "synonyms": [
+              "express",
+              "vocalize",
+              "communicate",
+              "articulate",
+              "declare",
+              "state",
+              "assert",
+              "reveal",
+              "proclaim",
+              "announce",
+              "publish",
+              "publicize",
+              "make public",
+              "make known",
+              "table",
+              "air",
+              "vent; Moreutter",
+              "say",
+              "speak; informalcome out with \"they voiced their opposition\""
+            ]
+          },
+          {
+            "definition": "utter (a speech sound) with resonance of the vocal cords (e.g., b, d, g, v, z )."
+          },
+          {
+            "definition": "regulate the tone quality of (organ pipes)."
+          }
+        ]
+      }
+    ]
+  }
+]

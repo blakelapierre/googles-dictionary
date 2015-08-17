@@ -1,0 +1,70 @@
+[
+  {
+    "word": "inviting",
+    "syllables": [
+      "in",
+      "vit",
+      "ing"
+    ],
+    "pronunciation": "inˈvīdiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inviting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "offering the promise of an attractive or enjoyable experience.",
+            "examples": [
+              "the sea down there looks so inviting"
+            ],
+            "synonyms": [
+              "tempting",
+              "enticing",
+              "alluring",
+              "beguiling; Moreattractive",
+              "appealing",
+              "pleasant",
+              "agreeable",
+              "delightful; appetizing",
+              "mouthwatering; fascinating",
+              "enchanting",
+              "entrancing",
+              "captivating",
+              "intriguing",
+              "irresistible",
+              "seductive \"the inviting aromas wafting from her kitchen\""
+            ],
+            "antonyms": [
+              "repellent"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "invite",
+    "syllables": [
+      "in",
+      "vite"
+    ],
+    "pronunciation": "inˈvīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "inviting"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

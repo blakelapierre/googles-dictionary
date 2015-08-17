@@ -1,0 +1,62 @@
+[
+  {
+    "word": "poetic",
+    "syllables": [
+      "po",
+      "et",
+      "ic"
+    ],
+    "pronunciation": "pōˈedik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "poetic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or used in poetry.",
+            "examples": [
+              "the muse is a poetic convention"
+            ],
+            "synonyms": [
+              "poetical",
+              "verse",
+              "metrical",
+              "lyrical",
+              "lyric",
+              "elegiac \"poetic compositions\""
+            ]
+          },
+          {
+            "definition": "written in verse rather than prose.",
+            "examples": [
+              "a poetic drama"
+            ]
+          },
+          {
+            "definition": "having an imaginative or sensitively emotional style of expression.",
+            "examples": [
+              "the orchestral playing was colorful and poetic"
+            ],
+            "synonyms": [
+              "expressive",
+              "figurative",
+              "symbolic",
+              "flowery",
+              "artistic",
+              "elegant",
+              "fine",
+              "beautiful; Moresensitive",
+              "imaginative",
+              "creative \"poetic language\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

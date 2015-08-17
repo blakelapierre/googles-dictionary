@@ -1,0 +1,90 @@
+[
+  {
+    "word": "twine",
+    "syllables": [
+      "twine"
+    ],
+    "pronunciation": "twīn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "twine"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strong thread or string consisting of two or more strands of hemp, cotton, or nylon twisted together.",
+            "examples": [
+              "string, cord, thread, yarn a ball of twine"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "twine"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "twines"
+          },
+          {
+            "part": "past tense",
+            "variant": "twined"
+          },
+          {
+            "part": "past participle",
+            "variant": "twined"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "twining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to wind or spiral round something.",
+            "examples": [
+              "she twined her arms around his neck"
+            ],
+            "synonyms": [
+              "wind",
+              "entwine",
+              "wrap",
+              "wreathe \"she twined her arms around him\""
+            ]
+          },
+          {
+            "definition": "(of a plant) grow so as to spiral around a support.",
+            "examples": [
+              "runner beans twined around canes"
+            ]
+          },
+          {
+            "definition": "interlace.",
+            "examples": [
+              "a spray of jasmine was twined in her hair"
+            ],
+            "synonyms": [
+              "entwine (itself)",
+              "coil",
+              "loop",
+              "twist",
+              "spiral",
+              "curl; Moreweave",
+              "interlace",
+              "intertwine",
+              "braid \"ivy twined around the tree\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

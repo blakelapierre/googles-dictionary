@@ -1,0 +1,76 @@
+[
+  {
+    "word": "eliminate",
+    "syllables": [
+      "e",
+      "lim",
+      "i",
+      "nate"
+    ],
+    "pronunciation": "əˈliməˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "eliminating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "completely remove or get rid of (something).",
+            "examples": [
+              "a policy that would eliminate inflation"
+            ],
+            "synonyms": [
+              "remove",
+              "get rid of",
+              "put an end to",
+              "do away with",
+              "end",
+              "stop",
+              "terminate",
+              "eradicate",
+              "destroy",
+              "annihilate",
+              "stamp out",
+              "wipe out",
+              "extinguish \"a policy that would eliminate inflation\""
+            ]
+          },
+          {
+            "definition": "exclude (someone or something) from consideration.",
+            "examples": [
+              "the police have eliminated Larry from their inquiries"
+            ],
+            "synonyms": [
+              "knock out",
+              "beat; Moreexclude",
+              "rule out",
+              "disqualify \"he was eliminated in the first round of competition\""
+            ]
+          },
+          {
+            "definition": "murder (a rival or political opponent)."
+          },
+          {
+            "definition": "exclude (a person or team) from further participation in a sporting competition following defeat or inadequate results.",
+            "examples": [
+              "the Bears were eliminated from the playoffs in the first round"
+            ]
+          },
+          {
+            "definition": "remove (a variable) from an equation, typically by substituting another that is shown by a different equation to be equivalent."
+          },
+          {
+            "definition": "generate or remove (a simple substance) as a product in the course of a reaction involving larger molecules."
+          },
+          {
+            "definition": "expel (waste matter) from the body."
+          }
+        ]
+      }
+    ]
+  }
+]

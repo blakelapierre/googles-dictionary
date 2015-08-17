@@ -1,0 +1,38 @@
+[
+  {
+    "word": "digit",
+    "syllables": [
+      "dig",
+      "it"
+    ],
+    "pronunciation": "ˈdijit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "digits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of the numerals from 0 to 9, especially when forming part of a number.",
+            "examples": [
+              "numeral, number, figure, integer the door code has ten digits"
+            ]
+          },
+          {
+            "definition": "a finger (including the thumb) or toe.",
+            "examples": [
+              "finger, thumb, toe; extremity we wanted to warm our frozen digits"
+            ]
+          },
+          {
+            "definition": "an equivalent structure at the end of the limbs of many higher vertebrates."
+          }
+        ]
+      }
+    ]
+  }
+]

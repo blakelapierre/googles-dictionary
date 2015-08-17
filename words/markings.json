@@ -1,0 +1,32 @@
+[
+  {
+    "word": "marking",
+    "syllables": [
+      "mark",
+      "ing"
+    ],
+    "pronunciation": "ˈmärkiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "markings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an identification mark, especially a mark or pattern of marks on an animal's fur, feathers, or skin.",
+            "examples": [
+              "the distinctive black-and-white markings on its head"
+            ]
+          },
+          {
+            "definition": "a word or symbol on a score indicating the correct tempo, dynamic, or other aspect of performance."
+          }
+        ]
+      }
+    ]
+  }
+]

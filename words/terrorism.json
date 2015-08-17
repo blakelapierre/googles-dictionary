@@ -1,0 +1,27 @@
+[
+  {
+    "word": "terrorism",
+    "syllables": [
+      "ter",
+      "ror",
+      "ism"
+    ],
+    "pronunciation": "ˈterəˌrizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "terrorism"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the use of violence and intimidation in the pursuit of political aims."
+          }
+        ]
+      }
+    ]
+  }
+]

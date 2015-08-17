@@ -1,0 +1,71 @@
+[
+  {
+    "word": "treasury",
+    "syllables": [
+      "treas",
+      "ur",
+      "y"
+    ],
+    "pronunciation": "ˈtreZH(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "treasury"
+          },
+          {
+            "part": "plural noun",
+            "variant": "treasuries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the funds or revenue of a government, corporation, or institution.",
+            "examples": [
+              "the country's pledge not to spend more than it has in its treasury"
+            ],
+            "synonyms": [
+              "coffers",
+              "purse",
+              "finance department; Morebank",
+              "revenues",
+              "finances",
+              "funds",
+              "moneys \"the club treasury\""
+            ]
+          },
+          {
+            "definition": "(in some countries) the government department responsible for budgeting for and controlling public expenditure, management of the national debt, and the overall management of the economy.",
+            "examples": [
+              "noun: Treasury"
+            ]
+          },
+          {
+            "definition": "a place or building where treasure is stored."
+          },
+          {
+            "definition": "a store or collection of valuable or delightful things.",
+            "examples": [
+              "the old town is a treasury of ancient monuments"
+            ],
+            "synonyms": [
+              "rich source",
+              "repository",
+              "storehouse",
+              "treasure house; Morefund",
+              "mine",
+              "bank",
+              "treasure trove \"the area is a treasury of early fossils\"anthology",
+              "collection",
+              "miscellany",
+              "compilation",
+              "compendium \"a treasury of stories\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

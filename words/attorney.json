@@ -1,0 +1,37 @@
+[
+  {
+    "word": "attorney",
+    "syllables": [
+      "at",
+      "tor",
+      "ney"
+    ],
+    "pronunciation": "əˈtərnē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "attorney"
+          },
+          {
+            "part": "plural noun",
+            "variant": "attorneys"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person appointed to act for another in business or legal matters."
+          },
+          {
+            "definition": "a lawyer.",
+            "examples": [
+              "lawyer, counsel, legal practitioner, legal professional, legal representative, member of the bar, advocate; Moresolicitor, barrister; informalmouthpiece, ambulance chaser Moresolicitor, barrister; mouthpiece, ambulance chaser "
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

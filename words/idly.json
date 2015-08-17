@@ -1,0 +1,35 @@
+[
+  {
+    "word": "idly",
+    "syllables": [
+      "i",
+      "dly"
+    ],
+    "pronunciation": "ˈīdlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "idly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with no particular purpose, reason, or foundation.",
+            "examples": [
+              "“How was the game?” Katie asked idly"
+            ]
+          },
+          {
+            "definition": "in an inactive or lazy way.",
+            "examples": [
+              "I can no longer stand idly by and let him take the blame"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

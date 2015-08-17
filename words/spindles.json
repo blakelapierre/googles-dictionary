@@ -1,0 +1,73 @@
+[
+  {
+    "word": "spindle",
+    "syllables": [
+      "spin",
+      "dle"
+    ],
+    "pronunciation": "ˈspindl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "spindles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a slender rounded rod with tapered ends used in hand spinning to twist and wind thread from a mass of wool or flax held on a distaff."
+          },
+          {
+            "definition": "a pin or rod used on a spinning wheel to twist and wind the thread."
+          },
+          {
+            "definition": "a pin bearing the bobbin of a spinning machine."
+          },
+          {
+            "definition": "a measure of length for yarn, equal to 15,120 yards (13,826 m) for cotton or 14,400 yards (13,167 m) for linen."
+          },
+          {
+            "definition": "a pointed metal rod on a base, used to impale paper items for temporary filing."
+          },
+          {
+            "definition": "a turned piece of wood used as a banister or chair leg."
+          },
+          {
+            "definition": "a rod or pin serving as an axis that revolves or on which something revolves.",
+            "examples": [
+              "rod, axle, pivot, pin, capstan; axis the spindle automatically rotates when the power is turned on"
+            ]
+          },
+          {
+            "definition": "the vertical rod at the center of a record turntable that keeps the record in place during play."
+          },
+          {
+            "definition": "a slender mass of microtubules formed when a cell divides. At metaphase, the chromosomes become attached to it by their centromeres before being pulled toward its ends."
+          },
+          {
+            "definition": "a shrub or small tree with slender toothed leaves and pink capsules containing bright orange seeds. The hard timber was formerly used for making spindles."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "spindles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "impale (a piece of paper) on a metal spindle for temporary filing purposes.",
+            "examples": [
+              "do not fold, spindle, or mutilate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

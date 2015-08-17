@@ -1,0 +1,46 @@
+[
+  {
+    "word": "alongside",
+    "syllables": [
+      "a",
+      "long",
+      "side"
+    ],
+    "pronunciation": "əˌlôNGˈsīd",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "alongside"
+          },
+          {
+            "part": "preposition",
+            "variant": "alongside of"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "close to the side of; next to.",
+            "examples": [
+              "she was sitting alongside him"
+            ]
+          },
+          {
+            "definition": "together and in cooperation with.",
+            "examples": [
+              "I worked alongside him for many weeks"
+            ]
+          },
+          {
+            "definition": "at the same time as or in coexistence with.",
+            "examples": [
+              "alongside the development of full-time courses there had to be provision for the part-time student"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

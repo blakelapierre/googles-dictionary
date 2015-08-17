@@ -1,0 +1,27 @@
+[
+  {
+    "word": "logarithm",
+    "syllables": [
+      "log",
+      "a",
+      "rithm"
+    ],
+    "pronunciation": "ˈlôɡəˌriT͟HəmˈläɡəˌriT͟Həm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "logarithms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quantity representing the power to which a fixed number (the base) must be raised to produce a given number."
+          }
+        ]
+      }
+    ]
+  }
+]

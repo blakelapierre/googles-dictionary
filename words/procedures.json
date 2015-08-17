@@ -1,0 +1,67 @@
+[
+  {
+    "word": "procedure",
+    "syllables": [
+      "pro",
+      "ce",
+      "dure"
+    ],
+    "pronunciation": "prəˈsējər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "procedures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an established or official way of doing something.",
+            "examples": [
+              "the police are now reviewing procedures"
+            ],
+            "synonyms": [
+              "course of action",
+              "plan of action",
+              "action plan",
+              "policy",
+              "series of steps",
+              "method",
+              "system",
+              "strategy",
+              "way",
+              "approach",
+              "formula",
+              "mechanism",
+              "methodology",
+              "modus operandi",
+              "MO",
+              "technique; Moreroutine",
+              "drill",
+              "practice",
+              "operation \"once we establish a procedure",
+              "it must be followed\""
+            ]
+          },
+          {
+            "definition": "a series of actions conducted in a certain order or manner.",
+            "examples": [
+              "the standard procedure for informing new employees about conditions of work"
+            ]
+          },
+          {
+            "definition": "a surgical operation.",
+            "examples": [
+              "the procedure is carried out under general anesthesia"
+            ]
+          },
+          {
+            "definition": "another term for subroutine."
+          }
+        ]
+      }
+    ]
+  }
+]

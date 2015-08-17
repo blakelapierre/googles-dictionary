@@ -1,0 +1,54 @@
+[
+  {
+    "word": "tile",
+    "syllables": [
+      "tile"
+    ],
+    "pronunciation": "tīl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "tiles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thin rectangular slab of baked clay, concrete, or other material, used in overlapping rows for covering roofs."
+          },
+          {
+            "definition": "a thin square slab of glazed ceramic, cork, linoleum, or other material for covering floors, walls, or other surfaces."
+          },
+          {
+            "definition": "a thin, flat piece used in Scrabble, mah-jongg, and certain other games."
+          },
+          {
+            "definition": "a plane shape used in tiling."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tiles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover (something) with tiles.",
+            "examples": [
+              "the lobby was tiled in blue"
+            ]
+          },
+          {
+            "definition": "arrange (two or more windows) on a computer screen so that they do not overlap."
+          }
+        ]
+      }
+    ]
+  }
+]

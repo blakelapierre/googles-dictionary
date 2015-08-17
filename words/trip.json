@@ -1,0 +1,240 @@
+[
+  {
+    "word": "trip",
+    "syllables": [
+      "trip"
+    ],
+    "pronunciation": "trip",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "trip"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "trips"
+          },
+          {
+            "part": "past tense",
+            "variant": "tripped"
+          },
+          {
+            "part": "past participle",
+            "variant": "tripped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tripping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "catch one's foot on something and stumble or fall.",
+            "examples": [
+              "he tripped over his cat"
+            ],
+            "synonyms": [
+              "stumble",
+              "lose one's footing",
+              "catch one's foot",
+              "slip",
+              "lose one's balance",
+              "fall",
+              "fall down",
+              "tumble",
+              "topple",
+              "take a spill",
+              "wipe out \"he tripped on the loose stones\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to do this.",
+            "examples": [
+              "she shot out her foot to trip him up"
+            ]
+          },
+          {
+            "definition": "make a mistake.",
+            "examples": [
+              "taxpayers often trip up by not declaring taxable income"
+            ],
+            "synonyms": [
+              "make a mistake",
+              "miscalculate",
+              "make a blunder",
+              "blunder",
+              "go wrong",
+              "make an error",
+              "err; Moreinformalslip up",
+              "screw up",
+              "make a boo-boo",
+              "goof up",
+              "mess up",
+              "fluff \"students often trip up by forgetting to add a bibliography\""
+            ]
+          },
+          {
+            "definition": "detect or expose someone in an error, blunder, or inconsistency.",
+            "examples": [
+              "the man was determined to trip him up on his economics"
+            ],
+            "synonyms": [
+              "catch out",
+              "trick",
+              "outwit",
+              "outsmart; Morethrow off balance",
+              "disconcert",
+              "unsettle",
+              "discountenance",
+              "discomfit",
+              "throw",
+              "wrong-foot \"the question was intended to trip him up\""
+            ]
+          },
+          {
+            "definition": "walk, run, or dance with quick light steps.",
+            "examples": [
+              "they tripped up the terrace steps"
+            ],
+            "synonyms": [
+              "skip",
+              "run",
+              "dance",
+              "prance",
+              "bound",
+              "spring",
+              "scamper \"they tripped merrily along the path\""
+            ]
+          },
+          {
+            "definition": "(of words) flow lightly and easily.",
+            "examples": [
+              "a name that trips off the tongue"
+            ]
+          },
+          {
+            "definition": "activate (a mechanism), especially by contact with a switch, catch, or other electrical device.",
+            "examples": [
+              "an intruder trips the alarm"
+            ],
+            "synonyms": [
+              "set off",
+              "activate",
+              "trigger; turn on \"Hoffman tripped the alarm\""
+            ]
+          },
+          {
+            "definition": "(of part of an electric circuit) disconnect automatically as a safety measure.",
+            "examples": [
+              "the plugs will trip as soon as any change in current is detected"
+            ]
+          },
+          {
+            "definition": "release and raise (an anchor) from the seabed by means of a buoyed line attached to the anchor's crown."
+          },
+          {
+            "definition": "turn (a yard or other object) from a horizontal to a vertical position for lowering."
+          },
+          {
+            "definition": "experience hallucinations induced by taking a psychedelic drug, especially LSD.",
+            "examples": [
+              "they prance around tripping out on their hallucinogens"
+            ]
+          },
+          {
+            "definition": "be behaving in an irrational or crazy way.",
+            "examples": [
+              "gerund or present participle: trippin'; gerund or present participle: trippin"
+            ]
+          },
+          {
+            "definition": "go on a short journey.",
+            "examples": [
+              "when tripping through the Yukon, take some time to explore our museums"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "trip"
+          },
+          {
+            "part": "plural noun",
+            "variant": "trips"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of going to a place and returning; a journey or excursion, especially for pleasure.",
+            "examples": [
+              "Sally's gone on a school trip"
+            ],
+            "synonyms": [
+              "excursion",
+              "outing",
+              "jaunt; Morevacation",
+              "visit",
+              "tour",
+              "journey",
+              "expedition",
+              "voyage; drive",
+              "run",
+              "day out",
+              "day trip",
+              "road trip",
+              "cruise",
+              "junket",
+              "spin; rareperegrination \"a trip to Oahu\""
+            ]
+          },
+          {
+            "definition": "a stumble or fall due to catching one's foot on something.",
+            "examples": [
+              "stumble, slip, misstep, false step; Morefall, tumble, spill \"a trip down icy front steps can be a devastating accident\"Morefall, tumble, spill a trip down icy front steps can be a devastating accident"
+            ]
+          },
+          {
+            "definition": "a mistake.",
+            "examples": [
+              "an occasional trip in the performance"
+            ]
+          },
+          {
+            "definition": "a hallucinatory experience caused by taking a psychedelic drug, especially LSD.",
+            "examples": [
+              "acid trips"
+            ]
+          },
+          {
+            "definition": "an exciting or stimulating experience.",
+            "examples": [
+              "it was a trip seeing him again"
+            ]
+          },
+          {
+            "definition": "a self-indulgent attitude or activity.",
+            "examples": [
+              "politics was a sixties trip"
+            ]
+          },
+          {
+            "definition": "a device that activates or disconnects a mechanism, circuit, etc."
+          },
+          {
+            "definition": "a light, lively movement of a person's feet.",
+            "examples": [
+              "yonder comes Dalinda; I know her by her trip"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

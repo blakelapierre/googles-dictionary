@@ -1,0 +1,40 @@
+[
+  {
+    "word": "devoid",
+    "syllables": [
+      "de",
+      "void"
+    ],
+    "pronunciation": "dəˈvoid",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "devoid"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "entirely lacking or free from.",
+            "examples": [
+              "Lisa kept her voice devoid of emotion"
+            ],
+            "synonyms": [
+              "free of",
+              "empty of",
+              "vacant of",
+              "bereft of",
+              "deprived of",
+              "destitute of",
+              "bankrupt of; Morelacking",
+              "without",
+              "wanting; informalminus \"your argument is devoid of logic\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

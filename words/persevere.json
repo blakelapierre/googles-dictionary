@@ -1,0 +1,79 @@
+[
+  {
+    "word": "persevere",
+    "syllables": [
+      "per",
+      "se",
+      "vere"
+    ],
+    "pronunciation": "ˌpərsəˈvir",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "persevere"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "perseveres"
+          },
+          {
+            "part": "past tense",
+            "variant": "persevered"
+          },
+          {
+            "part": "past participle",
+            "variant": "persevered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "persevering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "continue in a course of action even in the face of difficulty or with little or no prospect of success.",
+            "examples": [
+              "his family persevered with his treatment"
+            ],
+            "synonyms": [
+              "persist",
+              "continue",
+              "carry on",
+              "go on",
+              "keep on",
+              "keep going",
+              "struggle on",
+              "hammer away",
+              "be persistent",
+              "be determined",
+              "see/follow something through",
+              "keep at it",
+              "press on/ahead",
+              "not take no for an answer",
+              "be tenacious",
+              "stand one's ground",
+              "stand fast/firm",
+              "hold on",
+              "go the distance",
+              "stay the course",
+              "plod on",
+              "stop at nothing",
+              "leave no stone unturned; Moreinformalsoldier on",
+              "hang on",
+              "plug away",
+              "stick to one's guns",
+              "stick it out",
+              "hang in there \"she will persevere regardless of the obstacles\""
+            ],
+            "antonyms": [
+              "give up"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

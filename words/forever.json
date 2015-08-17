@@ -1,0 +1,103 @@
+[
+  {
+    "word": "forever",
+    "syllables": [
+      "for",
+      "ev",
+      "er"
+    ],
+    "pronunciation": "fəˈrevər",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "forever"
+          },
+          {
+            "part": "adverb",
+            "variant": "for ever"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "for all future time; for always.",
+            "examples": [
+              "she would love him forever"
+            ]
+          },
+          {
+            "definition": "a very long time (used hyperbolically).",
+            "examples": [
+              "it took forever to get a passport"
+            ],
+            "synonyms": [
+              "for always",
+              "evermore",
+              "for ever and ever",
+              "for good",
+              "for all time",
+              "until the end of time",
+              "until hell freezes over",
+              "eternally",
+              "forevermore",
+              "perpetually",
+              "in perpetuity; Moreinformaluntil the cows come home",
+              "until kingdom come; archaicfor aye \"their love would last forever\""
+            ]
+          },
+          {
+            "definition": "used in slogans of support after the name of something or someone.",
+            "examples": [
+              "Elvis Forever!"
+            ]
+          },
+          {
+            "definition": "continually.",
+            "examples": [
+              "she was forever pushing her hair out of her eyes"
+            ],
+            "synonyms": [
+              "always",
+              "continually",
+              "constantly",
+              "perpetually",
+              "incessantly",
+              "endlessly",
+              "persistently",
+              "repeatedly",
+              "regularly; Morenonstop",
+              "day and night",
+              "'morning",
+              "noon",
+              "and night'; all the time",
+              "the entire time; informal24-7 \"he was forever banging into things\""
+            ],
+            "antonyms": [
+              "never",
+              "occasionally"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "forever"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lasting or permanent.",
+            "examples": [
+              "these puppies need a forever home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

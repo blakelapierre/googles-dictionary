@@ -1,0 +1,55 @@
+[
+  {
+    "word": "atrophy",
+    "syllables": [
+      "at",
+      "ro",
+      "phy"
+    ],
+    "pronunciation": "ˈatrəfē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "atrophied"
+          },
+          {
+            "part": "past participle",
+            "variant": "atrophied"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of body tissue or an organ) waste away, typically due to the degeneration of cells, or become vestigial during evolution.",
+            "examples": [
+              "without exercise, the muscles will atrophy"
+            ],
+            "synonyms": [
+              "waste away",
+              "become emaciated",
+              "wither",
+              "shrivel (up)",
+              "shrink; Moredecay",
+              "decline",
+              "deteriorate",
+              "degenerate",
+              "weaken \"muscles atrophy in microgravity\""
+            ],
+            "antonyms": [
+              "strengthen",
+              "flourish"
+            ]
+          },
+          {
+            "definition": "gradually decline in effectiveness or vigor due to underuse or neglect.",
+            "examples": [
+              "her artistic skills atrophied from lack of use"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

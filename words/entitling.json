@@ -1,0 +1,59 @@
+[
+  {
+    "word": "entitle",
+    "syllables": [
+      "en",
+      "ti",
+      "tle"
+    ],
+    "pronunciation": "inˈtīdlenˈtīdl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "entitling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give (someone) a legal right or a just claim to receive or do something.",
+            "examples": [
+              "employees are normally entitled to severance pay"
+            ],
+            "synonyms": [
+              "qualify",
+              "make eligible",
+              "authorize",
+              "allow",
+              "permit; Moreenable",
+              "empower \"this pass entitles you to visit the museum\""
+            ]
+          },
+          {
+            "definition": "give (something, especially a text or work of art) a particular title.",
+            "examples": [
+              "an article entitled “The Harried Society.”"
+            ]
+          },
+          {
+            "definition": "give (someone) a specified title expressing their rank, office, or character.",
+            "examples": [
+              "they entitled him Sultan"
+            ],
+            "synonyms": [
+              "title",
+              "name",
+              "call",
+              "label",
+              "head",
+              "designate",
+              "dub; formaldenominate \"a chapter entitled “Comedy and Tragedy”\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

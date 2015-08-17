@@ -1,0 +1,39 @@
+[
+  {
+    "word": "aquarium",
+    "syllables": [
+      "a",
+      "quar",
+      "i",
+      "um"
+    ],
+    "pronunciation": "əˈkwerēəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "aquarium"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aquaria"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aquariums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a transparent tank of water in which fish and other water creatures and plants are kept."
+          },
+          {
+            "definition": "a building containing aquariums, especially one that is open to the public."
+          }
+        ]
+      }
+    ]
+  }
+]

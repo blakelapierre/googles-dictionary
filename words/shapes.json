@@ -1,0 +1,160 @@
+[
+  {
+    "word": "shape",
+    "syllables": [
+      "shape"
+    ],
+    "pronunciation": "SHāp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "shapes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the external form or appearance characteristic of someone or something; the outline of an area or figure.",
+            "examples": [
+              "she liked the shape of his nose"
+            ],
+            "synonyms": [
+              "form",
+              "appearance",
+              "configuration",
+              "formation",
+              "structure; Morefigure",
+              "build",
+              "physique",
+              "body; contours",
+              "lines",
+              "outline",
+              "silhouette",
+              "profile \"the shape of the dining table\""
+            ]
+          },
+          {
+            "definition": "a person or thing that is difficult to see and identify clearly.",
+            "examples": [
+              "he saw a shape through the mist"
+            ]
+          },
+          {
+            "definition": "a specific form or guise assumed by someone or something.",
+            "examples": [
+              "a fiend in human shape"
+            ],
+            "synonyms": [
+              "guise",
+              "likeness",
+              "semblance",
+              "form",
+              "appearance",
+              "image \"a spirit in the shape of a fox\""
+            ]
+          },
+          {
+            "definition": "a piece of material, paper, etc., made or cut in a particular form.",
+            "examples": [
+              "stick paper shapes on for the puppet's eyes and nose"
+            ]
+          },
+          {
+            "definition": "the particular condition or state of someone or something.",
+            "examples": [
+              "he was in no shape to drive"
+            ],
+            "synonyms": [
+              "condition",
+              "health",
+              "fettle",
+              "order \"you're in pretty good shape\""
+            ]
+          },
+          {
+            "definition": "the distinctive nature or qualities of something.",
+            "examples": [
+              "the future shape and direction of the country"
+            ]
+          },
+          {
+            "definition": "definite or orderly arrangement.",
+            "examples": [
+              "check that your structure will give shape to your essay"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "shapes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give a particular shape or form to.",
+            "examples": [
+              "most caves are shaped by the flow of water through limestone"
+            ],
+            "synonyms": [
+              "form",
+              "fashion",
+              "make",
+              "mold",
+              "model",
+              "cast; Moresculpt",
+              "sculpture",
+              "carve",
+              "cut",
+              "whittle \"the metal is shaped into tools\""
+            ]
+          },
+          {
+            "definition": "make (something) fit the form of something else.",
+            "examples": [
+              "suits have been shaped to fit so snugly that no curve is undefined"
+            ]
+          },
+          {
+            "definition": "determine the nature of; have a great influence on.",
+            "examples": [
+              "his childhood was shaped by a loving relationship with his elder brother"
+            ],
+            "synonyms": [
+              "determine",
+              "form",
+              "fashion",
+              "mold",
+              "define",
+              "develop; Moreinfluence",
+              "affect \"attitudes were shaped by his report\""
+            ]
+          },
+          {
+            "definition": "develop in a particular way; progress.",
+            "examples": [
+              "the yacht was shaping well in trials"
+            ],
+            "synonyms": [
+              "improve",
+              "get better",
+              "progress",
+              "show promise; Moredevelop",
+              "take shape",
+              "come on",
+              "come along \"her work is shaping up nicely\""
+            ]
+          },
+          {
+            "definition": "form or produce (a sound or words)."
+          }
+        ]
+      }
+    ]
+  }
+]

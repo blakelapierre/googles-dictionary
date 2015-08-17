@@ -1,0 +1,74 @@
+[
+  {
+    "word": "injury",
+    "syllables": [
+      "in",
+      "ju",
+      "ry"
+    ],
+    "pronunciation": "ˈinj(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "injuries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an instance of being injured.",
+            "examples": [
+              "she suffered an injury to her back"
+            ],
+            "synonyms": [
+              "wound",
+              "bruise",
+              "cut",
+              "gash",
+              "laceration",
+              "scratch",
+              "graze",
+              "abrasion",
+              "contusion",
+              "lesion; trauma \"minor injuries\""
+            ]
+          },
+          {
+            "definition": "the fact of being injured; harm or damage.",
+            "examples": [
+              "all escaped without serious injury"
+            ],
+            "synonyms": [
+              "harm",
+              "hurt",
+              "damage",
+              "pain",
+              "suffering",
+              "impairment",
+              "affliction; disfigurement \"they escaped without injury\""
+            ]
+          },
+          {
+            "definition": "offense to.",
+            "examples": [
+              "the possible injury to the feelings of others"
+            ],
+            "synonyms": [
+              "offense",
+              "abuse; Moreaffront",
+              "insult",
+              "slight",
+              "snub",
+              "indignity",
+              "slap in the face; wrong",
+              "wrongdoing",
+              "injustice \"the injury to her feelings\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

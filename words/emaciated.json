@@ -1,0 +1,56 @@
+[
+  {
+    "word": "emaciated",
+    "syllables": [
+      "e",
+      "ma",
+      "ci",
+      "at",
+      "ed"
+    ],
+    "pronunciation": "əˈmāSHēˌādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "emaciated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "abnormally thin or weak, especially because of illness or a lack of food.",
+            "examples": [
+              "she was so emaciated she could hardly stand"
+            ],
+            "synonyms": [
+              "thin",
+              "skeletal",
+              "bony",
+              "gaunt",
+              "wasted; Morescrawny",
+              "skinny",
+              "scraggy",
+              "skin and bones",
+              "rawboned",
+              "sticklike",
+              "waiflike; starved",
+              "underfed",
+              "undernourished",
+              "underweight",
+              "half-starved; cadaverous",
+              "shriveled",
+              "shrunken",
+              "withered; informalanorexic",
+              "(looking) like a bag of bones \"emaciated bodies\""
+            ],
+            "antonyms": [
+              "fat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

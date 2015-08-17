@@ -1,0 +1,80 @@
+[
+  {
+    "word": "edge",
+    "syllables": [
+      "edge"
+    ],
+    "pronunciation": "ej",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "edged"
+          },
+          {
+            "part": "past participle",
+            "variant": "edged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide with a border or edge.",
+            "examples": [
+              "the pool is edged with paving"
+            ],
+            "synonyms": [
+              "border",
+              "fringe",
+              "verge",
+              "skirt; Moresurround",
+              "enclose",
+              "encircle",
+              "circle",
+              "encompass",
+              "bound",
+              "outline \"poplars edged the orchard\"trim",
+              "pipe",
+              "band",
+              "decorate",
+              "finish; border",
+              "fringe; bind",
+              "hem \"a nightie edged with lace\""
+            ]
+          },
+          {
+            "definition": "move gradually, carefully, or furtively in a particular direction.",
+            "examples": [
+              "she tried to edge away from him"
+            ],
+            "synonyms": [
+              "creep",
+              "inch",
+              "work one's way",
+              "pick one's way",
+              "ease oneself; Moresidle",
+              "steal",
+              "slink \"he edged closer to the fire\""
+            ]
+          },
+          {
+            "definition": "defeat by a small margin.",
+            "examples": [
+              "Connecticut avoided an upset and edged Yale 49–48"
+            ]
+          },
+          {
+            "definition": "give an intense or sharp quality to.",
+            "examples": [
+              "the bitterness that edged her voice"
+            ]
+          },
+          {
+            "definition": "ski with one's weight on the edges of one's skis."
+          }
+        ]
+      }
+    ]
+  }
+]

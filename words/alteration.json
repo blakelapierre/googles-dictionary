@@ -1,0 +1,51 @@
+[
+  {
+    "word": "alteration",
+    "syllables": [
+      "al",
+      "ter",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "ˌôltəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "alteration"
+          },
+          {
+            "part": "plural noun",
+            "variant": "alterations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of altering or being altered.",
+            "examples": [
+              "timetables are subject to alteration without notice"
+            ],
+            "synonyms": [
+              "change",
+              "adjustment",
+              "adaptation",
+              "modification",
+              "variation",
+              "revision",
+              "amendment; Morerearrangement",
+              "reordering",
+              "restyling",
+              "rejigging",
+              "reworking",
+              "revamping; sea change",
+              "transformation; humoroustransmogrification \"the library was lovely",
+              "but they had not anticipated such extensive alterations\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

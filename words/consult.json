@@ -1,0 +1,101 @@
+[
+  {
+    "word": "consult",
+    "syllables": [
+      "con",
+      "sult"
+    ],
+    "pronunciation": "kənˈsəlt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "consult"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "consults"
+          },
+          {
+            "part": "past tense",
+            "variant": "consulted"
+          },
+          {
+            "part": "past participle",
+            "variant": "consulted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "consulting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "seek information or advice from (someone with expertise in a particular area).",
+            "examples": [
+              "you should consult a financial advisor"
+            ],
+            "synonyms": [
+              "seek advice from",
+              "ask",
+              "take counsel from",
+              "call on/upon",
+              "speak to",
+              "turn to",
+              "have recourse to; informalpick someone's brains \"you need to consult a lawyer\""
+            ]
+          },
+          {
+            "definition": "have discussions or confer with (someone), typically before undertaking a course of action.",
+            "examples": [
+              "patients are entitled to be consulted about their treatment"
+            ],
+            "synonyms": [
+              "confer",
+              "have discussions",
+              "talk things over",
+              "exchange views",
+              "communicate",
+              "parley",
+              "deliberate; informalput their heads together \"the government must consult with interested parties\""
+            ]
+          },
+          {
+            "definition": "refer for information to (a book, watch, etc.) in order to ascertain something.",
+            "examples": [
+              "consult the index at the back of the brochure"
+            ],
+            "synonyms": [
+              "refer to",
+              "turn to",
+              "look at \"she consulted her diary\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "consult"
+          },
+          {
+            "part": "plural noun",
+            "variant": "consults"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of consulting a professional; a consultation.",
+            "examples": [
+              "after a consult with his attorneys, he retracted his previous statement"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

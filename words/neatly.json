@@ -1,0 +1,41 @@
+[
+  {
+    "word": "neatly",
+    "syllables": [
+      "neat",
+      "ly"
+    ],
+    "pronunciation": "ˈnētlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "neatly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a neat way.",
+            "examples": [
+              "neatly folded shirts"
+            ],
+            "synonyms": [
+              "tidily",
+              "methodically",
+              "systematically; Moresmartly",
+              "sprucely \"neatly arranged papers\"cleverly",
+              "aptly",
+              "elegantly \"the point was neatly put\"skillfully",
+              "deftly",
+              "adroitly",
+              "adeptly",
+              "expertly \"a neatly executed turn\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

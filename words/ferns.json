@@ -1,0 +1,25 @@
+[
+  {
+    "word": "fern",
+    "syllables": [
+      "fern"
+    ],
+    "pronunciation": "fərn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "ferns"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flowerless plant that has feathery or leafy fronds and reproduces by spores released from the undersides of the fronds. Ferns have a vascular system for the transport of water and nutrients."
+          }
+        ]
+      }
+    ]
+  }
+]

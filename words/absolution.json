@@ -1,0 +1,45 @@
+[
+  {
+    "word": "absolution",
+    "syllables": [
+      "ab",
+      "so",
+      "lu",
+      "tion"
+    ],
+    "pronunciation": "ˌabsəˈl(y)o͞oSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "absolution"
+          },
+          {
+            "part": "plural noun",
+            "variant": "absolutions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "formal release from guilt, obligation, or punishment.",
+            "examples": [
+              "forgiveness, pardon, exoneration, remission, dispensation, indulgence, clemency, mercy; Moredischarge, acquittal; freedom, deliverance, release; vindication; formalexculpation; archaicshrift \"Father, I am a sinful man in need of absolution\"Moredischarge, acquittal; freedom, deliverance, release; vindication; exculpation; shrift Father, I am a sinful man in need of absolution"
+            ],
+            "antonyms": [
+              "punishment",
+              "condemnation"
+            ]
+          },
+          {
+            "definition": "an ecclesiastical declaration of forgiveness of sins.",
+            "examples": [
+              "the priest administered absolution"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

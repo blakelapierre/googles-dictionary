@@ -1,0 +1,102 @@
+[
+  {
+    "word": "cunning",
+    "syllables": [
+      "cun",
+      "ning"
+    ],
+    "pronunciation": "ˈkəniNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "cunning"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "cunninger"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "cunningest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing skill in achieving one's ends by deceit or evasion.",
+            "examples": [
+              "a cunning look came into his eyes"
+            ],
+            "synonyms": [
+              "crafty",
+              "wily",
+              "artful",
+              "guileful",
+              "devious",
+              "sly",
+              "scheming",
+              "designing",
+              "calculating",
+              "Machiavellian; Moreshrewd",
+              "astute",
+              "clever",
+              "canny; deceitful",
+              "deceptive",
+              "duplicitous",
+              "foxy; archaicsubtle \"a cunning scheme\""
+            ],
+            "antonyms": [
+              "honest"
+            ]
+          },
+          {
+            "definition": "ingenious.",
+            "examples": [
+              "plants have evolved cunning defenses"
+            ]
+          },
+          {
+            "definition": "attractive; quaint.",
+            "examples": [
+              "the baby will look cunning in that pink print"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cunning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "skill in achieving one's ends by deceit.",
+            "examples": [
+              "a statesman to whom cunning had come as second nature"
+            ],
+            "synonyms": [
+              "guile",
+              "craftiness",
+              "deviousness",
+              "slyness",
+              "trickery",
+              "duplicity; Moreshrewdness",
+              "astuteness \"his political cunning\""
+            ]
+          },
+          {
+            "definition": "ingenuity.",
+            "examples": [
+              "what resources of energy and cunning it took just to survive"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

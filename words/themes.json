@@ -1,0 +1,98 @@
+[
+  {
+    "word": "theme",
+    "syllables": [
+      "theme"
+    ],
+    "pronunciation": "THēm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "themes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic.",
+            "examples": [
+              "the theme of the sermon was reverence"
+            ],
+            "synonyms": [
+              "subject",
+              "topic",
+              "subject matter",
+              "matter",
+              "thesis",
+              "argument",
+              "text",
+              "burden",
+              "concern",
+              "thrust",
+              "message; Morethread",
+              "motif",
+              "keynote \"the theme of her speech\""
+            ]
+          },
+          {
+            "definition": "the first major constituent of a clause, indicating the subject-matter, typically being the subject but optionally other constituents, as in “ poor he is not.”"
+          },
+          {
+            "definition": "an idea that recurs in or pervades a work of art or literature."
+          },
+          {
+            "definition": "a prominent or frequently recurring melody or group of notes in a composition.",
+            "examples": [
+              "melody, tune, air; Moremotif, leitmotif \"the first violin takes up the theme\"Moremotif, leitmotif the first violin takes up the theme"
+            ]
+          },
+          {
+            "definition": "(of music) frequently recurring in or accompanying the beginning and end of a film, play, or musical.",
+            "examples": [
+              "a theme song"
+            ],
+            "synonyms": [
+              "song",
+              "theme song",
+              "jingle \"the band played a medley of popular TV show themes\""
+            ]
+          },
+          {
+            "definition": "a setting given to a leisure venue or activity, intended to evoke a particular country, historical period, culture, etc.",
+            "examples": [
+              "a family fun park with a western theme"
+            ]
+          },
+          {
+            "definition": "an essay written by a student on an assigned subject."
+          },
+          {
+            "definition": "the stem of a noun or verb; the part to which inflections are added, especially one composed of the root and an added vowel."
+          },
+          {
+            "definition": "any of the twenty-nine provinces in the Byzantine empire."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "themes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give a particular setting or ambience to (a venue or activity).",
+            "examples": [
+              "Independence Day was celebrated with special themed menus"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

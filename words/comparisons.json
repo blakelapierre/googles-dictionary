@@ -1,0 +1,61 @@
+[
+  {
+    "word": "comparison",
+    "syllables": [
+      "com",
+      "par",
+      "i",
+      "son"
+    ],
+    "pronunciation": "kəmˈperəsən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "comparisons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the act or instance of comparing.",
+            "examples": [
+              "they drew a comparison between Gandhi's teaching and that of other teachers"
+            ],
+            "synonyms": [
+              "juxtaposition",
+              "collation",
+              "differentiation \"a comparison of the results\""
+            ]
+          },
+          {
+            "definition": "an analogy.",
+            "examples": [
+              "perhaps the best comparison is that of seasickness"
+            ]
+          },
+          {
+            "definition": "the quality of being similar or equivalent.",
+            "examples": [
+              "if you want a thrill, there's no comparison to climbing on a truck and going out there on the expressway"
+            ],
+            "synonyms": [
+              "resemblance",
+              "likeness",
+              "similarity",
+              "correspondence",
+              "correlation",
+              "parallel",
+              "parity",
+              "comparability \"there's no comparison between them\""
+            ]
+          },
+          {
+            "definition": "the formation of the comparative and superlative forms of adjectives and adverbs."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "transfusion",
+    "syllables": [
+      "trans",
+      "fu",
+      "sion"
+    ],
+    "pronunciation": "ˌtran(t)sˈfyo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "transfusion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "transfusions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of transferring donated blood, blood products, or other fluid into the circulatory system of a person or animal."
+          }
+        ]
+      }
+    ]
+  }
+]

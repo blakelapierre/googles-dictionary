@@ -1,0 +1,74 @@
+[
+  {
+    "word": "eminence",
+    "syllables": [
+      "em",
+      "i",
+      "nence"
+    ],
+    "pronunciation": "ˈemənəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "eminence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fame or recognized superiority, especially within a particular sphere or profession.",
+            "examples": [
+              "her eminence in cinematography"
+            ],
+            "synonyms": [
+              "fame",
+              "celebrity",
+              "illustriousness",
+              "distinction",
+              "renown",
+              "preeminence",
+              "notability",
+              "greatness",
+              "prestige",
+              "importance",
+              "reputation",
+              "repute",
+              "note; Moreprominence",
+              "superiority",
+              "stature",
+              "standing \"his eminence as a scientist\""
+            ]
+          },
+          {
+            "definition": "an important, influential, or distinguished person.",
+            "examples": [
+              "plural noun: eminences"
+            ]
+          },
+          {
+            "definition": "a title given to a Roman Catholic cardinal, or used in addressing him.",
+            "examples": [
+              "noun: His Eminence; noun: Your Eminence"
+            ]
+          },
+          {
+            "definition": "a piece of rising ground.",
+            "examples": [
+              "an eminence commanding the River Emme"
+            ],
+            "synonyms": [
+              "elevation",
+              "height",
+              "rise \"the hotel's eminence above the sea\""
+            ]
+          },
+          {
+            "definition": "a slight projection from the surface of a part of the body."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "word": "borne",
+    "syllables": [
+      "borne"
+    ],
+    "pronunciation": "bôrn",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-borne"
+          },
+          {
+            "part": "adjective",
+            "variant": "borne"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carried or transported by.",
+            "examples": [
+              "waterborne bacteria"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "syllables": [
+      "bear"
+    ],
+    "pronunciation": "ber",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "borne"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) carry.",
+            "examples": [
+              "he was bearing a tray of brimming glasses"
+            ],
+            "synonyms": [
+              "carry",
+              "bring",
+              "transport",
+              "move",
+              "convey",
+              "take",
+              "fetch",
+              "deliver",
+              "tote",
+              "lug \"I come bearing gifts\""
+            ]
+          },
+          {
+            "definition": "(of a vehicle or boat) convey (passengers or cargo).",
+            "examples": [
+              "steamboats bear the traveler out of Kerrerra Sound"
+            ]
+          },
+          {
+            "definition": "have or display as a visible mark or feature.",
+            "examples": [
+              "a small boat bearing a white flag"
+            ],
+            "synonyms": [
+              "display",
+              "exhibit",
+              "be marked with",
+              "show",
+              "carry",
+              "have \"the bag bore my name\""
+            ]
+          },
+          {
+            "definition": "be called by (a name or title).",
+            "examples": [
+              "he bore the surname Tiller"
+            ]
+          },
+          {
+            "definition": "carry or conduct oneself in a particular manner.",
+            "examples": [
+              "she bore herself with dignity"
+            ],
+            "synonyms": [
+              "conduct oneself",
+              "carry oneself",
+              "acquit oneself",
+              "act",
+              "behave",
+              "perform; formalcomport oneself \"he bore himself with confidence\""
+            ]
+          },
+          {
+            "definition": "support.",
+            "examples": [
+              "walls that cannot bear a stone vault"
+            ],
+            "synonyms": [
+              "support",
+              "carry",
+              "hold up",
+              "prop up \"will it bear his weight?\""
+            ]
+          },
+          {
+            "definition": "take responsibility for.",
+            "examples": [
+              "no one likes to bear the responsibility for such decisions"
+            ],
+            "synonyms": [
+              "sustain",
+              "carry",
+              "support",
+              "shoulder",
+              "absorb",
+              "take on \"they can't bear the cost alone\""
+            ]
+          },
+          {
+            "definition": "be able to accept or stand up to.",
+            "examples": [
+              "it is doubtful whether either of these distinctions would bear scrutiny"
+            ],
+            "synonyms": [
+              "withstand",
+              "stand up to",
+              "stand",
+              "put up with",
+              "take",
+              "cope with",
+              "handle",
+              "sustain",
+              "accept \"such a solution does not bear close scrutiny\""
+            ]
+          },
+          {
+            "definition": "endure (an ordeal or difficulty).",
+            "examples": [
+              "she bore the pain stoically"
+            ]
+          },
+          {
+            "definition": "manage to tolerate (a situation or experience).",
+            "examples": [
+              "she could hardly bear his sarcasm"
+            ],
+            "synonyms": [
+              "endure",
+              "tolerate",
+              "put up with",
+              "stand",
+              "abide",
+              "submit to",
+              "experience",
+              "undergo",
+              "go through",
+              "countenance",
+              "brave",
+              "weather",
+              "stomach; Moreinformalhack",
+              "swallow; formalbrook; archaicsuffer \"I can't bear having him around\""
+            ]
+          },
+          {
+            "definition": "strongly dislike.",
+            "examples": [
+              "I can't bear caviar"
+            ]
+          },
+          {
+            "definition": "give birth to (a child).",
+            "examples": [
+              "she bore six daughters"
+            ],
+            "synonyms": [
+              "give birth to",
+              "bring forth",
+              "deliver",
+              "be delivered of",
+              "have",
+              "produce",
+              "spawn",
+              "birth; Moreinformaldrop; literarybeget \"she bore a son\""
+            ]
+          },
+          {
+            "definition": "(of a tree or plant) produce (fruit or flowers).",
+            "examples": [
+              "a squash that bears fruit shaped like cucumbers"
+            ],
+            "synonyms": [
+              "produce",
+              "yield",
+              "give forth",
+              "give",
+              "grow",
+              "provide",
+              "supply \"a shrub that bears yellow berries\""
+            ]
+          },
+          {
+            "definition": "turn and proceed in a specified direction.",
+            "examples": [
+              "bear left and follow the old road"
+            ],
+            "synonyms": [
+              "veer",
+              "curve",
+              "swerve",
+              "fork",
+              "diverge",
+              "deviate",
+              "turn",
+              "bend \"bear left at the junction\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

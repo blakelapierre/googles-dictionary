@@ -1,0 +1,145 @@
+[
+  {
+    "word": "ruffle",
+    "syllables": [
+      "ruf",
+      "fle"
+    ],
+    "pronunciation": "ˈrəfəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ruffle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ruffles"
+          },
+          {
+            "part": "past tense",
+            "variant": "ruffled"
+          },
+          {
+            "part": "past participle",
+            "variant": "ruffled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "ruffling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "disorder or disarrange (someone's hair), typically by running one's hands through it.",
+            "examples": [
+              "he ruffled her hair affectionately"
+            ],
+            "synonyms": [
+              "disarrange",
+              "tousle",
+              "dishevel",
+              "rumple",
+              "disorder",
+              "mess up",
+              "tangle; informalmuss up \"he ruffled her hair\""
+            ],
+            "antonyms": [
+              "smooth"
+            ]
+          },
+          {
+            "definition": "(of a bird) erect (its feathers) in anger or display.",
+            "examples": [
+              "on his departure to the high wires, the starling ruffled his feathers and flirted his wings"
+            ]
+          },
+          {
+            "definition": "disturb the smoothness or tranquility of.",
+            "examples": [
+              "the evening breeze ruffled the surface of the pond in the yard"
+            ],
+            "synonyms": [
+              "ripple",
+              "riffle \"the wind ruffled the water\""
+            ],
+            "antonyms": [
+              "smooth"
+            ]
+          },
+          {
+            "definition": "disconcert or upset the composure of (someone).",
+            "examples": [
+              "Brian had been ruffled by her questions"
+            ],
+            "synonyms": [
+              "annoy",
+              "irritate",
+              "vex",
+              "nettle",
+              "anger",
+              "exasperate; Moredisconcert",
+              "unnerve",
+              "fluster",
+              "agitate",
+              "harass",
+              "upset",
+              "disturb",
+              "discomfit",
+              "put off",
+              "perturb",
+              "unsettle",
+              "bother",
+              "worry",
+              "trouble; informalrattle",
+              "faze",
+              "throw",
+              "get to",
+              "rile",
+              "needle",
+              "aggravate",
+              "bug",
+              "peeve \"don't let him ruffle you\""
+            ],
+            "antonyms": [
+              "calm",
+              "soothe"
+            ]
+          },
+          {
+            "definition": "ornament with or gather into a frill.",
+            "examples": [
+              "a blouse with a high ruffled neck"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ruffle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ruffles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an ornamental gathered or goffered frill of lace or other cloth on a garment, especially around the wrist or neck.",
+            "examples": [
+              "frill, flounce, ruff, ruche, jabot, furbelow a shirt with ruffles"
+            ]
+          },
+          {
+            "definition": "a vibrating drumbeat."
+          }
+        ]
+      }
+    ]
+  }
+]

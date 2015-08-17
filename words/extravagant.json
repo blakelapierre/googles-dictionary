@@ -1,0 +1,98 @@
+[
+  {
+    "word": "extravagant",
+    "syllables": [
+      "ex",
+      "trav",
+      "a",
+      "gant"
+    ],
+    "pronunciation": "ikˈstravəɡənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "extravagant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking restraint in spending money or using resources.",
+            "examples": [
+              "it was rather extravagant to buy both"
+            ],
+            "synonyms": [
+              "spendthrift",
+              "profligate",
+              "improvident",
+              "wasteful",
+              "prodigal",
+              "lavish \"an extravagant lifestyle\""
+            ],
+            "antonyms": [
+              "thrifty"
+            ]
+          },
+          {
+            "definition": "costing too much money.",
+            "examples": [
+              "extravagant gifts like computer games"
+            ],
+            "synonyms": [
+              "expensive",
+              "costly",
+              "lavish",
+              "high-priced",
+              "high-cost; Morevaluable",
+              "precious; informalpricey",
+              "spendy",
+              "costing the earth \"extravagant gifts\""
+            ],
+            "antonyms": [
+              "cheap"
+            ]
+          },
+          {
+            "definition": "exceeding what is reasonable or appropriate; absurd.",
+            "examples": [
+              "extravagant claims for its effectiveness"
+            ],
+            "synonyms": [
+              "exorbitant",
+              "extortionate",
+              "excessive",
+              "high",
+              "unreasonable More\"extravagant prices\"excessive",
+              "immoderate",
+              "exaggerated",
+              "gushing",
+              "unrestrained",
+              "effusive",
+              "fulsome \"extravagant praise\"ornate",
+              "elaborate",
+              "decorated",
+              "ornamented",
+              "fancy; overelaborate",
+              "gaudy",
+              "garish",
+              "ostentatious",
+              "exaggerated",
+              "baroque",
+              "rococo; informallavish",
+              "flashy",
+              "glitzy \"decorated in an extravagant style\""
+            ],
+            "antonyms": [
+              "reasonable",
+              "low",
+              "moderate",
+              "plain"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

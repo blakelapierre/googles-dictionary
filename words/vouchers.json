@@ -1,0 +1,32 @@
+[
+  {
+    "word": "voucher",
+    "syllables": [
+      "vouch",
+      "er"
+    ],
+    "pronunciation": "ˈvouCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "vouchers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small printed piece of paper that entitles the holder to a discount or that may be exchanged for goods or services.",
+            "examples": [
+              "coupon, token, ticket, license, permit, pass; Morechit, slip, stub; informalducat, comp \"present your voucher to the attendant at the front door\"Morechit, slip, stub; ducat, comp present your voucher to the attendant at the front door"
+            ]
+          },
+          {
+            "definition": "a receipt."
+          }
+        ]
+      }
+    ]
+  }
+]

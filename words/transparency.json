@@ -1,0 +1,50 @@
+[
+  {
+    "word": "transparency",
+    "syllables": [
+      "trans",
+      "par",
+      "en",
+      "cy"
+    ],
+    "pronunciation": "ˌtranˈsperənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "transparency"
+          },
+          {
+            "part": "plural noun",
+            "variant": "transparencies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the condition of being transparent.",
+            "examples": [
+              "the transparency of ice"
+            ],
+            "synonyms": [
+              "translucency",
+              "limpidity",
+              "clearness",
+              "clarity More\"the transparency of the glass\"openness",
+              "accountability",
+              "straightforwardness",
+              "candor \"the new government aims for better transparency\""
+            ]
+          },
+          {
+            "definition": "an image, text, or positive transparent photograph printed on transparent plastic or glass, able to be viewed using a projector.",
+            "examples": [
+              "slide, acetate color transparencies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

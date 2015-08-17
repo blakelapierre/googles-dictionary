@@ -1,0 +1,43 @@
+[
+  {
+    "word": "avaricious",
+    "syllables": [
+      "av",
+      "a",
+      "ri",
+      "cious"
+    ],
+    "pronunciation": "ˌavəˈriSHəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "avaricious"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing an extreme greed for wealth or material gain.",
+            "examples": [
+              "a corrupt and avaricious government"
+            ],
+            "synonyms": [
+              "greedy",
+              "acquisitive",
+              "covetous",
+              "rapacious",
+              "grasping",
+              "materialistic",
+              "mercenary; informalmoney-grubbing \"his avaricious children cared only about their inheritance\""
+            ],
+            "antonyms": [
+              "generous"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

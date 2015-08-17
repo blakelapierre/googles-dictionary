@@ -1,0 +1,75 @@
+[
+  {
+    "word": "emit",
+    "syllables": [
+      "e",
+      "mit"
+    ],
+    "pronunciation": "əˈmit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "emitted"
+          },
+          {
+            "part": "past participle",
+            "variant": "emitted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "produce and discharge (something, especially gas or radiation).",
+            "examples": [
+              "coal-fired power stations continue to emit large quantities of sulfur dioxide"
+            ],
+            "synonyms": [
+              "discharge",
+              "release",
+              "give out/off",
+              "pour out",
+              "send forth",
+              "throw out",
+              "void",
+              "vent",
+              "issue; Moreleak",
+              "ooze",
+              "excrete",
+              "disgorge",
+              "secrete",
+              "eject",
+              "ejaculate; spout",
+              "belch",
+              "spew out; emanate",
+              "radiate",
+              "exude \"the hydrocarbons emitted from vehicle exhausts\""
+            ],
+            "antonyms": [
+              "absorb"
+            ]
+          },
+          {
+            "definition": "make (a sound).",
+            "examples": [
+              "she emitted a sound like laughter"
+            ],
+            "synonyms": [
+              "utter",
+              "voice",
+              "let out",
+              "produce",
+              "give vent to",
+              "come out with",
+              "vocalize \"he emitted a loud cry\""
+            ]
+          },
+          {
+            "definition": "issue formally and with authority; put into circulation, especially currency."
+          }
+        ]
+      }
+    ]
+  }
+]

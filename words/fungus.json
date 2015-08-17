@@ -1,0 +1,46 @@
+[
+  {
+    "word": "fungus",
+    "syllables": [
+      "fun",
+      "gus"
+    ],
+    "pronunciation": "ˈfəNGɡəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fungus"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fungi"
+          },
+          {
+            "part": "plural noun",
+            "variant": "funguses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of a group of unicellular, multicellular, or syncytial spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools.",
+            "examples": [
+              "mushroom, toadstool; Moremold, mildew, rust; saprophyte \"the fungus will flourish in a dark, moist environment\"Moremold, mildew, rust; saprophyte the fungus will flourish in a dark, moist environment"
+            ]
+          },
+          {
+            "definition": "fungal infection (especially on fish)."
+          },
+          {
+            "definition": "used to describe something that has appeared or grown rapidly and is considered unpleasant or unattractive.",
+            "examples": [
+              "there was a fungus of outbuildings behind the house"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "word": "arrange",
+    "syllables": [
+      "ar",
+      "range"
+    ],
+    "pronunciation": "əˈrānj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "arranging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put (things) in a neat, attractive, or required order.",
+            "examples": [
+              "she had just finished arranging the flowers"
+            ],
+            "synonyms": [
+              "order",
+              "set out",
+              "lay out",
+              "array",
+              "position",
+              "dispose",
+              "present",
+              "display",
+              "exhibit; Moregroup",
+              "sort",
+              "organize",
+              "tidy",
+              "declutter \"she arranged the flowers\""
+            ]
+          },
+          {
+            "definition": "organize or make plans for (a future event).",
+            "examples": [
+              "they hoped to arrange a meeting"
+            ],
+            "synonyms": [
+              "organize",
+              "fix (up)",
+              "plan",
+              "schedule",
+              "pencil in",
+              "contrive",
+              "settle on",
+              "decide",
+              "determine",
+              "agree \"they hoped to arrange a meeting\""
+            ]
+          },
+          {
+            "definition": "reach agreement about an action or event in advance.",
+            "examples": [
+              "I arranged with my boss to have the time off"
+            ]
+          },
+          {
+            "definition": "ensure that (something) is done or provided by organizing it in advance.",
+            "examples": [
+              "accommodations can be arranged if required"
+            ]
+          },
+          {
+            "definition": "adapt (a composition) for performance with instruments or voices other than those originally specified.",
+            "examples": [
+              "songs arranged for viola and piano"
+            ],
+            "synonyms": [
+              "adapt",
+              "set",
+              "score",
+              "orchestrate",
+              "transcribe",
+              "instrument \"he arranged the piece for a full orchestra\""
+            ]
+          },
+          {
+            "definition": "settle (a dispute or claim).",
+            "examples": [
+              "the quarrel, partly by the interference of the crown prince, was arranged"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "word": "deprive",
+    "syllables": [
+      "de",
+      "prive"
+    ],
+    "pronunciation": "dəˈprīv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "depriving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deny (a person or place) the possession or use of something.",
+            "examples": [
+              "the city was deprived of its water supplies"
+            ],
+            "synonyms": [
+              "dispossess of",
+              "strip of",
+              "divest of",
+              "relieve of",
+              "deny",
+              "rob of; Morecheat out of; informaldo out of \"Adams was deprived of her civil rights\""
+            ]
+          },
+          {
+            "definition": "depose (someone, especially a member of the clergy) from office.",
+            "examples": [
+              "Archbishop Bancroft deprived a considerable number of puritan clergymen"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

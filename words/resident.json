@@ -1,85 +1,87 @@
-{
-  "word": "resident",
-  "syllables": [
-    "res",
-    "i",
-    "dent"
-  ],
-  "pronunciation": "ˈrez(ə)dənt",
-  "parts": [
-    {
-      "part": "noun",
-      "variants": [
-        {
-          "part": "noun",
-          "variant": "resident"
-        },
-        {
-          "part": "plural noun",
-          "variant": "residents"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "a person who lives somewhere permanently or on a long-term basis.",
-          "examples": [
-            "inhabitant, local, citizen, native; Moretownsfolk, townspeople; householder, homeowner, occupier, tenant; formaldenizen \"the residents of Ivoryton\"Moretownsfolk, townspeople; householder, homeowner, occupier, tenant; denizen the residents of Ivoryton"
-          ]
-        },
-        {
-          "definition": "a bird, butterfly, or other animal of a species that does not migrate."
-        },
-        {
-          "definition": "a person who boards at a boarding school."
-        },
-        {
-          "definition": "a British government agent in any semi-independent state, especially the governor general's agent at the court of an Indian state."
-        },
-        {
-          "definition": "a medical graduate engaged in specialized practice under supervision in a hospital."
-        }
-      ]
-    },
-    {
-      "part": "adjective",
-      "variants": [
-        {
-          "part": "adjective",
-          "variant": "resident"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "living somewhere on a long-term basis.",
-          "examples": [
-            "he has been resident in Brazil for a long time"
-          ],
-          "synonyms": [
-            "living",
-            "residing",
-            "in residence; Moreformaldwelling \"is he currently resident in New Brunswick?\"live-in",
-            "living in \"a resident nurse\""
-          ]
-        },
-        {
-          "definition": "having quarters on the premises of one's work.",
-          "examples": [
-            "resident farm workers"
-          ]
-        },
-        {
-          "definition": "attached to and working regularly for a particular institution.",
-          "examples": [
-            "the film studio needed a resident historian"
-          ]
-        },
-        {
-          "definition": "(of a bird, butterfly, or other animal) nonmigratory; remaining in an area throughout the year."
-        },
-        {
-          "definition": "(of a computer program, file, etc.) immediately available in computer memory, rather than having to be loaded from elsewhere."
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "word": "resident",
+    "syllables": [
+      "res",
+      "i",
+      "dent"
+    ],
+    "pronunciation": "ˈrez(ə)dənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "resident"
+          },
+          {
+            "part": "plural noun",
+            "variant": "residents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who lives somewhere permanently or on a long-term basis.",
+            "examples": [
+              "inhabitant, local, citizen, native; Moretownsfolk, townspeople; householder, homeowner, occupier, tenant; formaldenizen \"the residents of Ivoryton\"Moretownsfolk, townspeople; householder, homeowner, occupier, tenant; denizen the residents of Ivoryton"
+            ]
+          },
+          {
+            "definition": "a bird, butterfly, or other animal of a species that does not migrate."
+          },
+          {
+            "definition": "a person who boards at a boarding school."
+          },
+          {
+            "definition": "a British government agent in any semi-independent state, especially the governor general's agent at the court of an Indian state."
+          },
+          {
+            "definition": "a medical graduate engaged in specialized practice under supervision in a hospital."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "resident"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "living somewhere on a long-term basis.",
+            "examples": [
+              "he has been resident in Brazil for a long time"
+            ],
+            "synonyms": [
+              "living",
+              "residing",
+              "in residence; Moreformaldwelling \"is he currently resident in New Brunswick?\"live-in",
+              "living in \"a resident nurse\""
+            ]
+          },
+          {
+            "definition": "having quarters on the premises of one's work.",
+            "examples": [
+              "resident farm workers"
+            ]
+          },
+          {
+            "definition": "attached to and working regularly for a particular institution.",
+            "examples": [
+              "the film studio needed a resident historian"
+            ]
+          },
+          {
+            "definition": "(of a bird, butterfly, or other animal) nonmigratory; remaining in an area throughout the year."
+          },
+          {
+            "definition": "(of a computer program, file, etc.) immediately available in computer memory, rather than having to be loaded from elsewhere."
+          }
+        ]
+      }
+    ]
+  }
+]

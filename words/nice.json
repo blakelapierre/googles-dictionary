@@ -1,0 +1,109 @@
+[
+  {
+    "word": "nice",
+    "syllables": [
+      "nice"
+    ],
+    "pronunciation": "nīs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "nice"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "nicer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "nicest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pleasant; agreeable; satisfactory.",
+            "examples": [
+              "we had a nice time"
+            ],
+            "synonyms": [
+              "enjoyable",
+              "pleasant",
+              "agreeable",
+              "good",
+              "satisfying",
+              "gratifying",
+              "delightful",
+              "marvelous; Moreentertaining",
+              "amusing",
+              "diverting",
+              "lovely",
+              "great \"have a nice time\""
+            ],
+            "antonyms": [
+              "unpleasant"
+            ]
+          },
+          {
+            "definition": "(of a person) pleasant in manner; good-natured; kind.",
+            "examples": [
+              "he's a really nice guy"
+            ],
+            "synonyms": [
+              "pleasant",
+              "likable",
+              "agreeable",
+              "personable",
+              "congenial",
+              "amiable",
+              "affable",
+              "genial",
+              "friendly",
+              "charming",
+              "delightful",
+              "engaging; Moresympathetic",
+              "simpatico",
+              "compassionate",
+              "good \"a nice landlord\""
+            ],
+            "antonyms": [
+              "nasty"
+            ]
+          },
+          {
+            "definition": "fine or subtle.",
+            "examples": [
+              "a nice distinction"
+            ],
+            "synonyms": [
+              "subtle",
+              "fine",
+              "delicate",
+              "minute",
+              "precise",
+              "strict",
+              "close; Morecareful",
+              "meticulous",
+              "scrupulous \"that's a rather nice distinction\""
+            ],
+            "antonyms": [
+              "approximate",
+              "rough"
+            ]
+          },
+          {
+            "definition": "requiring careful thought or attention.",
+            "examples": [
+              "a nice point"
+            ]
+          },
+          {
+            "definition": "fastidious; scrupulous."
+          }
+        ]
+      }
+    ]
+  }
+]

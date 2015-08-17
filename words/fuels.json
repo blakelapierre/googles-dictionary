@@ -1,0 +1,111 @@
+[
+  {
+    "word": "fuel",
+    "syllables": [
+      "fu",
+      "el"
+    ],
+    "pronunciation": "ˈfyo͞o(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "fuels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "material such as coal, gas, or oil that is burned to produce heat or power.",
+            "examples": [
+              "gas, gasoline, diesel, petroleum, propane; Morepower source; petrol \"the car ran out of fuel\"firewood, wood, kindling, logs; coal, coke, anthracite; oil, kerosene, propane, lighter fluid; heat source \"she added more fuel to the fire\"Morepower source; petrol the car ran out of fuelfirewood, wood, kindling, logs; coal, coke, anthracite; oil, kerosene, propane, lighter fluid; heat source she added more fuel to the fire"
+            ]
+          },
+          {
+            "definition": "short for nuclear fuel."
+          },
+          {
+            "definition": "food, drink, or drugs as a source of energy.",
+            "examples": [
+              "any protein intake can also be used as fuel"
+            ],
+            "synonyms": [
+              "nourishment",
+              "food",
+              "sustenance",
+              "nutriment",
+              "nutrition \"we all need fuel to keep our bodies going\""
+            ]
+          },
+          {
+            "definition": "a thing that sustains or inflames passion, argument, or other emotion or activity.",
+            "examples": [
+              "the remuneration packages will add fuel to the debate about top-level rewards"
+            ],
+            "synonyms": [
+              "encouragement",
+              "ammunition",
+              "stimulus",
+              "incentive; Moreprovocation",
+              "goading \"his antics added fuel to the opposition's cause\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "fuels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "supply or power (an industrial plant, vehicle, or machine) with fuel.",
+            "examples": [
+              "the plan includes a hydroelectric plant to fuel a paper factory"
+            ],
+            "synonyms": [
+              "power",
+              "fire",
+              "charge \"power stations fueled by low-grade coal\""
+            ]
+          },
+          {
+            "definition": "fill up (a vehicle, aircraft, or ship) with oil or gasoline."
+          },
+          {
+            "definition": "(of a person) eat a meal.",
+            "examples": [
+              "arrive straight from work and fuel up on the complimentary buffet"
+            ]
+          },
+          {
+            "definition": "cause (a fire) to burn more intensely."
+          },
+          {
+            "definition": "sustain or inflame (a feeling or activity).",
+            "examples": [
+              "his rascal heart and private pain fuel his passion as an actor"
+            ],
+            "synonyms": [
+              "fan",
+              "feed",
+              "stoke up",
+              "inflame",
+              "intensify",
+              "stimulate",
+              "encourage",
+              "provoke",
+              "incite",
+              "whip up; Moresustain",
+              "keep alive \"the rumors fueled anxiety among opposition\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

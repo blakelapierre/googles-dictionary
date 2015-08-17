@@ -1,0 +1,118 @@
+[
+  {
+    "word": "unite",
+    "syllables": [
+      "u",
+      "nite"
+    ],
+    "pronunciation": "yo͞oˈnīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "unite"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "unites"
+          },
+          {
+            "part": "past tense",
+            "variant": "united"
+          },
+          {
+            "part": "past participle",
+            "variant": "united"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "uniting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come or bring together for a common purpose or action.",
+            "examples": [
+              "he called on the party to unite"
+            ],
+            "synonyms": [
+              "unify",
+              "join",
+              "link",
+              "connect",
+              "combine",
+              "amalgamate",
+              "fuse",
+              "weld",
+              "bond",
+              "wed",
+              "marry",
+              "bring together",
+              "knit together",
+              "splice More\"uniting the municipalities\"join together",
+              "join forces",
+              "combine",
+              "band together",
+              "ally",
+              "cooperate",
+              "collaborate",
+              "work together",
+              "pull together",
+              "team up",
+              "hitch up",
+              "hook up",
+              "twin \"environmentalists and union activists united to demand changes\""
+            ],
+            "antonyms": [
+              "divide",
+              "split"
+            ]
+          },
+          {
+            "definition": "come or bring together to form a unit or whole, especially in a political context.",
+            "examples": [
+              "the two Germanys officially united"
+            ],
+            "synonyms": [
+              "unify",
+              "join",
+              "link",
+              "connect",
+              "combine",
+              "amalgamate",
+              "fuse",
+              "weld",
+              "bond",
+              "wed",
+              "marry",
+              "bring together",
+              "knit together",
+              "splice More\"uniting the municipalities\"join together",
+              "join forces",
+              "combine",
+              "band together",
+              "ally",
+              "cooperate",
+              "collaborate",
+              "work together",
+              "pull together",
+              "team up",
+              "hitch up",
+              "hook up",
+              "twin \"environmentalists and union activists united to demand changes\""
+            ],
+            "antonyms": [
+              "divide",
+              "split"
+            ]
+          },
+          {
+            "definition": "join in marriage."
+          }
+        ]
+      }
+    ]
+  }
+]

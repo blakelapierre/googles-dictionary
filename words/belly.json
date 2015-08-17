@@ -1,0 +1,120 @@
+[
+  {
+    "word": "belly",
+    "syllables": [
+      "bel",
+      "ly"
+    ],
+    "pronunciation": "ˈbelē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "belly"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bellies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the front part of the human trunk below the ribs, containing the stomach and bowels."
+          },
+          {
+            "definition": "the stomach, especially as representing the body's need for food.",
+            "examples": [
+              "they'll fight all the better on empty bellies"
+            ],
+            "synonyms": [
+              "stomach",
+              "abdomen",
+              "paunch",
+              "middle",
+              "midriff",
+              "girth; Moreinformaltummy",
+              "tum",
+              "breadbasket",
+              "gut",
+              "guts",
+              "insides",
+              "pot",
+              "potbelly",
+              "beer belly",
+              "spare tire \"he scratched his belly\""
+            ]
+          },
+          {
+            "definition": "the underside of a bird or other animal."
+          },
+          {
+            "definition": "a cut of pork from the underside between the legs.",
+            "examples": [
+              "noun: belly pork; plural noun: belly porks"
+            ]
+          },
+          {
+            "definition": "a pig's belly as food, especially as a traded commodity."
+          },
+          {
+            "definition": "the rounded underside of a ship or aircraft."
+          },
+          {
+            "definition": "the top surface of an instrument of the violin family, across which the strings are placed."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "belly"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bellies"
+          },
+          {
+            "part": "past tense",
+            "variant": "bellied"
+          },
+          {
+            "part": "past participle",
+            "variant": "bellied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bellying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "swell or cause to swell.",
+            "examples": [
+              "as she leaned forward her sweater bellied out"
+            ],
+            "synonyms": [
+              "billow (out)",
+              "bulge (out)",
+              "balloon (out)",
+              "bag (out); distend \"her skirt bellied out\""
+            ],
+            "antonyms": [
+              "sag",
+              "flap"
+            ]
+          },
+          {
+            "definition": "move or sit close to (a bar or table).",
+            "examples": [
+              "regulars who first bellied up to the bar years before"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

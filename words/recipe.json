@@ -1,0 +1,52 @@
+[
+  {
+    "word": "recipe",
+    "syllables": [
+      "rec",
+      "i",
+      "pe"
+    ],
+    "pronunciation": "ˈresəˌpē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "recipe"
+          },
+          {
+            "part": "plural noun",
+            "variant": "recipes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of instructions for preparing a particular dish, including a list of the ingredients required.",
+            "examples": [
+              "a traditional Indonesian recipe"
+            ],
+            "synonyms": [
+              "cooking instructions/directions; archaicreceipt \"a tasty recipe\""
+            ]
+          },
+          {
+            "definition": "something that is likely to lead to a particular outcome.",
+            "examples": [
+              "sky-high interest rates are a recipe for disaster"
+            ],
+            "synonyms": [
+              "means/way of achieving",
+              "prescription",
+              "formula",
+              "blueprint \"a recipe for success\""
+            ]
+          },
+          {
+            "definition": "a medical prescription."
+          }
+        ]
+      }
+    ]
+  }
+]

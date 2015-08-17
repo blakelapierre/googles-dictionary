@@ -1,0 +1,52 @@
+[
+  {
+    "word": "occasionally",
+    "syllables": [
+      "oc",
+      "ca",
+      "sion",
+      "al",
+      "ly"
+    ],
+    "pronunciation": "əˈkāZH(ə)nəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "occasionally"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "at infrequent or irregular intervals; now and then.",
+            "examples": [
+              "he met her occasionally for coffee"
+            ],
+            "synonyms": [
+              "sometimes",
+              "from time to time",
+              "(every) now and then",
+              "(every) now and again",
+              "at times",
+              "every so often",
+              "(every) once in a while",
+              "on occasion; Moreperiodically",
+              "at intervals; irregularly",
+              "sporadically",
+              "infrequently",
+              "intermittently",
+              "on and off",
+              "off and on \"I occasionally have wine with dinner\""
+            ],
+            "antonyms": [
+              "often",
+              "frequently"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

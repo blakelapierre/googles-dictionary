@@ -1,0 +1,84 @@
+[
+  {
+    "word": "uncover",
+    "syllables": [
+      "un",
+      "cov",
+      "er"
+    ],
+    "pronunciation": "ˌənˈkəvər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "uncover"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "uncovers"
+          },
+          {
+            "part": "past tense",
+            "variant": "uncovered"
+          },
+          {
+            "part": "past participle",
+            "variant": "uncovered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "uncovering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove a cover or covering from.",
+            "examples": [
+              "he uncovered the face of the dead man"
+            ],
+            "synonyms": [
+              "expose",
+              "reveal",
+              "lay bare; Moreunwrap",
+              "unveil; strip",
+              "denude \"she uncovered the new artwork\""
+            ]
+          },
+          {
+            "definition": "discover (something previously secret or unknown).",
+            "examples": [
+              "further evidence has been uncovered"
+            ],
+            "synonyms": [
+              "detect",
+              "discover",
+              "come across",
+              "stumble on",
+              "chance on",
+              "find",
+              "turn up",
+              "unearth",
+              "dig up; Moreexpose",
+              "unveil",
+              "unmask",
+              "disclose",
+              "reveal",
+              "lay bare",
+              "make known",
+              "make public",
+              "bring to light",
+              "blow the lid off",
+              "blow the whistle on",
+              "pull the plug on \"they uncovered a money-laundering plot\""
+            ]
+          },
+          {
+            "definition": "remove one's hat, especially as a mark of respect."
+          }
+        ]
+      }
+    ]
+  }
+]

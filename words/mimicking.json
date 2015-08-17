@@ -1,0 +1,55 @@
+[
+  {
+    "word": "mimic",
+    "syllables": [
+      "mim",
+      "ic"
+    ],
+    "pronunciation": "ˈmimik",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "mimicking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "imitate (someone or their actions or words), typically in order to entertain or ridicule.",
+            "examples": [
+              "she mimicked Eileen's voice"
+            ],
+            "synonyms": [
+              "imitate",
+              "copy",
+              "impersonate",
+              "do an impression of",
+              "ape",
+              "caricature",
+              "parody",
+              "lampoon",
+              "burlesque",
+              "parrot; Moreinformalsend up",
+              "take off",
+              "spoof \"she mimicked his accent\""
+            ]
+          },
+          {
+            "definition": "(of an animal or plant) resemble or imitate (another animal or plant), especially to deter predators or for camouflage.",
+            "examples": [
+              "resemble, look like, have the appearance of, simulate; make like most hoverflies mimic wasps"
+            ]
+          },
+          {
+            "definition": "(of a drug) replicate the physiological effects of (another substance)."
+          },
+          {
+            "definition": "(of a disease) exhibit symptoms that bear a deceptive resemblance to those of (another disease)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "word": "notify",
+    "syllables": [
+      "no",
+      "ti",
+      "fy"
+    ],
+    "pronunciation": "ˈnōdəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "notify"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "notifies"
+          },
+          {
+            "part": "past tense",
+            "variant": "notified"
+          },
+          {
+            "part": "past participle",
+            "variant": "notified"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "notifying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "inform (someone) of something, typically in a formal or official manner.",
+            "examples": [
+              "you will be notified of our decision as soon as possible"
+            ],
+            "synonyms": [
+              "inform",
+              "tell",
+              "advise",
+              "brief",
+              "apprise",
+              "let someone know",
+              "put in the picture",
+              "fill in; Morealert",
+              "warn \"we will notify you as soon as possible\""
+            ]
+          },
+          {
+            "definition": "give notice of or report (something) formally or officially.",
+            "examples": [
+              "if he does not notify the occurrences, he may be guilty of nondisclosure"
+            ],
+            "synonyms": [
+              "inform",
+              "tell",
+              "advise",
+              "brief",
+              "apprise",
+              "let someone know",
+              "put in the picture",
+              "fill in; Morealert",
+              "warn \"we will notify you as soon as possible\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "currency",
+    "syllables": [
+      "cur",
+      "ren",
+      "cy"
+    ],
+    "pronunciation": "ˈkərənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "currencies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a system of money in general use in a particular country.",
+            "examples": [
+              "the dollar was a strong currency"
+            ],
+            "synonyms": [
+              "money",
+              "legal tender",
+              "cash",
+              "banknotes",
+              "bills",
+              "notes",
+              "coins",
+              "coinage",
+              "specie \"foreign currency\""
+            ]
+          },
+          {
+            "definition": "the fact or quality of being generally accepted or in use.",
+            "examples": [
+              "the term gained currency during the second half of the 20th century"
+            ],
+            "synonyms": [
+              "prevalence",
+              "circulation",
+              "exposure; Moreacceptance",
+              "popularity \"a term that has gained new currency\""
+            ]
+          },
+          {
+            "definition": "the time during which something is in use or operation.",
+            "examples": [
+              "no claim had been made during the currency of the policy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "seclusion",
+    "syllables": [
+      "se",
+      "clu",
+      "sion"
+    ],
+    "pronunciation": "səˈklo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "seclusion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being private and away from other people.",
+            "examples": [
+              "they enjoyed ten days of peace and seclusion"
+            ],
+            "synonyms": [
+              "isolation",
+              "solitude",
+              "retreat",
+              "privacy",
+              "retirement",
+              "withdrawal",
+              "concealment",
+              "hiding",
+              "secrecy \"she enjoys the seclusion of her cabin\""
+            ]
+          },
+          {
+            "definition": "a sheltered or private place.",
+            "examples": [
+              "plural noun: seclusions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

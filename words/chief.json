@@ -1,0 +1,148 @@
+[
+  {
+    "word": "chief",
+    "syllables": [
+      "chief"
+    ],
+    "pronunciation": "CHēf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chief"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chiefs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a leader or ruler of a people or clan.",
+            "examples": [
+              "the chief of the village"
+            ],
+            "synonyms": [
+              "leader",
+              "chieftain",
+              "grand chief",
+              "sachem",
+              "sagamore",
+              "head",
+              "headman",
+              "ruler",
+              "overlord",
+              "master",
+              "commander",
+              "authority figure",
+              "seigneur",
+              "liege lord",
+              "liege",
+              "potentate",
+              "cacique More\"a Wampanoag chief\"head",
+              "leading",
+              "principal",
+              "premier",
+              "highest",
+              "foremost",
+              "supreme",
+              "arch \"the chief rabbi\""
+            ],
+            "antonyms": [
+              "subordinate"
+            ]
+          },
+          {
+            "definition": "the person with the highest rank in an organization.",
+            "examples": [
+              "a bureau chief"
+            ],
+            "synonyms": [
+              "head",
+              "principal",
+              "chief executive",
+              "chief executive officer",
+              "CEO",
+              "president",
+              "chair",
+              "chairman",
+              "chairwoman",
+              "chairperson",
+              "governor",
+              "director",
+              "manager; Moreemployer",
+              "proprietor; informalbig cheese",
+              "big shot",
+              "bigwig",
+              "skipper",
+              "numero uno",
+              "honcho",
+              "head honcho",
+              "boss",
+              "padrone \"the chief of the central bank\""
+            ]
+          },
+          {
+            "definition": "an informal form of address, especially to someone of superior rank or status.",
+            "examples": [
+              "it's quite simple, chief"
+            ]
+          },
+          {
+            "definition": "an ordinary consisting of a broad horizontal band across the top of the shield."
+          },
+          {
+            "definition": "the upper third of the field."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "chief"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "most important.",
+            "examples": [
+              "the chief reason for the spending cuts"
+            ],
+            "synonyms": [
+              "main",
+              "principal",
+              "most important",
+              "primary",
+              "prime",
+              "first",
+              "cardinal",
+              "central",
+              "key",
+              "crucial",
+              "essential",
+              "predominant",
+              "preeminent",
+              "paramount",
+              "overriding",
+              "number-one \"their chief aim\""
+            ],
+            "antonyms": [
+              "secondary",
+              "minor"
+            ]
+          },
+          {
+            "definition": "having or denoting the highest rank or authority.",
+            "examples": [
+              "the government's chief adviser"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

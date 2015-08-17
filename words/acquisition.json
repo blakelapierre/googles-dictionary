@@ -1,0 +1,62 @@
+[
+  {
+    "word": "acquisition",
+    "syllables": [
+      "ac",
+      "qui",
+      "si",
+      "tion"
+    ],
+    "pronunciation": "ˌakwəˈziSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "acquisition"
+          },
+          {
+            "part": "plural noun",
+            "variant": "acquisitions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an asset or object bought or obtained, typically by a library or museum.",
+            "examples": [
+              "purchase, buy, gain, accession, addition, investment, possession the boat is a new acquisition"
+            ]
+          },
+          {
+            "definition": "an act of purchase of one company by another.",
+            "examples": [
+              "there were many acquisitions among travel agents"
+            ]
+          },
+          {
+            "definition": "buying or obtaining an asset or object.",
+            "examples": [
+              "Western culture places a high value on material acquisition"
+            ],
+            "synonyms": [
+              "obtaining",
+              "acquirement",
+              "gaining",
+              "earning",
+              "winning",
+              "procurement",
+              "collection \"the acquisition of funds\""
+            ]
+          },
+          {
+            "definition": "the learning or developing of a skill, habit, or quality.",
+            "examples": [
+              "the acquisition of management skills"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

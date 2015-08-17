@@ -1,0 +1,98 @@
+[
+  {
+    "word": "abate",
+    "syllables": [
+      "a",
+      "bate"
+    ],
+    "pronunciation": "əˈbāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "abate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "abates"
+          },
+          {
+            "part": "past tense",
+            "variant": "abated"
+          },
+          {
+            "part": "past participle",
+            "variant": "abated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "abating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of something perceived as hostile, threatening, or negative) become less intense or widespread.",
+            "examples": [
+              "the storm suddenly abated"
+            ],
+            "synonyms": [
+              "subside",
+              "die down/away/out",
+              "lessen",
+              "ease (off)",
+              "let up",
+              "decrease",
+              "diminish",
+              "moderate",
+              "decline",
+              "fade",
+              "dwindle",
+              "recede",
+              "tail off",
+              "peter out",
+              "taper off",
+              "wane",
+              "ebb",
+              "weaken",
+              "come to an end; archaicremit \"the storm had abated\""
+            ],
+            "antonyms": [
+              "intensify"
+            ]
+          },
+          {
+            "definition": "cause to become smaller or less intense.",
+            "examples": [
+              "nothing abated his crusading zeal"
+            ]
+          },
+          {
+            "definition": "lessen, reduce, or remove (especially a nuisance).",
+            "examples": [
+              "this action would not have been sufficient to abate the odor nuisance"
+            ],
+            "synonyms": [
+              "decrease",
+              "lessen",
+              "diminish",
+              "reduce",
+              "moderate",
+              "ease",
+              "soothe",
+              "dampen",
+              "calm",
+              "tone down",
+              "allay",
+              "temper \"nothing abated his crusading zeal\""
+            ],
+            "antonyms": [
+              "increase"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

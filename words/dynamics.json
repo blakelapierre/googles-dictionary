@@ -1,0 +1,77 @@
+[
+  {
+    "word": "dynamics",
+    "syllables": [
+      "dy",
+      "nam",
+      "ics"
+    ],
+    "pronunciation": "dīˈnamiks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dynamics"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dynamics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the branch of mechanics concerned with the motion of bodies under the action of forces."
+          },
+          {
+            "definition": "the branch of any science in which forces or changes are considered.",
+            "examples": [
+              "chemical dynamics"
+            ]
+          },
+          {
+            "definition": "the forces or properties that stimulate growth, development, or change within a system or process.",
+            "examples": [
+              "the dynamics of changing social relations"
+            ]
+          },
+          {
+            "definition": "the varying levels of volume of sound in different parts of a musical performance."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dynamic",
+    "syllables": [
+      "dy",
+      "nam",
+      "ic"
+    ],
+    "pronunciation": "dīˈnamik",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "dynamics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a force that stimulates change or progress within a system or process.",
+            "examples": [
+              "evaluation is part of the basic dynamic of the project"
+            ]
+          },
+          {
+            "definition": "another term for dynamics (sense 3)."
+          }
+        ]
+      }
+    ]
+  }
+]

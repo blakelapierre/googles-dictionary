@@ -1,0 +1,111 @@
+[
+  {
+    "word": "article",
+    "syllables": [
+      "ar",
+      "ti",
+      "cle"
+    ],
+    "pronunciation": "ˈärdək(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "article"
+          },
+          {
+            "part": "plural noun",
+            "variant": "articles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a particular item or object, typically one of a specified type.",
+            "examples": [
+              "small household articles"
+            ],
+            "synonyms": [
+              "item",
+              "thing",
+              "object",
+              "artifact",
+              "commodity",
+              "product \"small household articles\""
+            ]
+          },
+          {
+            "definition": "a piece of writing included with others in a newspaper, magazine, or other publication.",
+            "examples": [
+              "an article about middle-aged executives"
+            ],
+            "synonyms": [
+              "report",
+              "account",
+              "story",
+              "write-up",
+              "feature",
+              "item",
+              "piece",
+              "column",
+              "review",
+              "commentary \"an article in the paper\""
+            ]
+          },
+          {
+            "definition": "a separate clause or paragraph of a legal document or agreement, typically one outlining a single rule or regulation.",
+            "examples": [
+              "it is an offense under Article 7 of the treaty"
+            ],
+            "synonyms": [
+              "clause",
+              "section",
+              "subsection",
+              "point",
+              "item",
+              "paragraph",
+              "division",
+              "subdivision",
+              "part",
+              "portion \"the crucial article of the treaty\""
+            ]
+          },
+          {
+            "definition": "see definite article, indefinite article."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "article"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "articles"
+          },
+          {
+            "part": "past tense",
+            "variant": "articled"
+          },
+          {
+            "part": "past participle",
+            "variant": "articled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "articling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bind by the terms of a contract, as one of apprenticeship."
+          }
+        ]
+      }
+    ]
+  }
+]

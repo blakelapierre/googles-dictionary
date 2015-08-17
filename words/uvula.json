@@ -1,0 +1,46 @@
+[
+  {
+    "word": "uvula",
+    "syllables": [
+      "u",
+      "vu",
+      "la"
+    ],
+    "pronunciation": "ˈyo͞ovyələ",
+    "parts": [
+      {
+        "part": "nounAnatomy",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "uvula"
+          },
+          {
+            "part": "plural noun",
+            "variant": "uvulae"
+          },
+          {
+            "part": "noun",
+            "variant": "palatine uvula"
+          },
+          {
+            "part": "plural noun",
+            "variant": "palatine uvulae"
+          },
+          {
+            "part": "plural noun",
+            "variant": "palatine uvulas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fleshy extension at the back of the soft palate that hangs above the throat."
+          },
+          {
+            "definition": "a fleshy hanging structure in any organ of the body, particularly one at the opening of the bladder."
+          }
+        ]
+      }
+    ]
+  }
+]

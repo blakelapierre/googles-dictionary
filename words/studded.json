@@ -1,0 +1,73 @@
+[
+  {
+    "word": "studded",
+    "syllables": [
+      "stud",
+      "ded"
+    ],
+    "pronunciation": "ˈstədəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "studded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decorated or augmented with studs.",
+            "examples": [
+              "a studded leather belt"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stud",
+    "syllables": [
+      "stud"
+    ],
+    "pronunciation": "stəd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "studded"
+          },
+          {
+            "part": "past participle",
+            "variant": "studded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decorate or augment (something) with many studs or similar small objects.",
+            "examples": [
+              "a dagger studded with precious diamonds"
+            ],
+            "synonyms": [
+              "dotted",
+              "scattered",
+              "sprinkled",
+              "covered",
+              "spangled; Moreliterarybespangled",
+              "bejeweled \"stone-washed jeans studded with rhinestones\""
+            ]
+          },
+          {
+            "definition": "strew or cover (something) with a scattering of small objects or features.",
+            "examples": [
+              "the sky was clear and studded with stars"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

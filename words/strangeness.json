@@ -1,0 +1,36 @@
+[
+  {
+    "word": "strangeness",
+    "syllables": [
+      "strange",
+      "ness"
+    ],
+    "pronunciation": "ˈstrānjnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "strangeness"
+          },
+          {
+            "part": "plural noun",
+            "variant": "strangenesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or fact of being strange.",
+            "examples": [
+              "oddity, eccentricity, peculiarity, curiousness, bizarreness, weirdness, queerness, unusualness, abnormality, unaccountability, inexplicability, incongruousness, outlandishness, singularity there was a strangeness about Wally that I couldn't quite explain"
+            ]
+          },
+          {
+            "definition": "one of six flavors of quark."
+          }
+        ]
+      }
+    ]
+  }
+]

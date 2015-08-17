@@ -1,0 +1,155 @@
+[
+  {
+    "word": "encouraging",
+    "syllables": [
+      "en",
+      "cour",
+      "ag",
+      "ing"
+    ],
+    "pronunciation": "enˈkərijiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "encouraging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "giving someone support or confidence; supportive.",
+            "examples": [
+              "she gave me an encouraging smile"
+            ]
+          },
+          {
+            "definition": "positive and giving hope for future success; promising.",
+            "examples": [
+              "the results are very encouraging"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "encourage",
+    "syllables": [
+      "en",
+      "cour",
+      "age"
+    ],
+    "pronunciation": "inˈkərij",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "encouraging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give support, confidence, or hope to (someone).",
+            "examples": [
+              "we were encouraged by the success of this venture"
+            ],
+            "synonyms": [
+              "hearten",
+              "cheer",
+              "buoy up",
+              "uplift",
+              "inspire",
+              "motivate",
+              "spur on",
+              "stir",
+              "stir up",
+              "fire up",
+              "stimulate",
+              "invigorate",
+              "vitalize",
+              "revitalize",
+              "embolden",
+              "fortify",
+              "rally; Moreinformalbuck up",
+              "pep up",
+              "give a shot in the arm to \"the players were encouraged by the crowd's response\"promising",
+              "hopeful",
+              "auspicious",
+              "propitious",
+              "favorable",
+              "bright",
+              "rosy; heartening",
+              "reassuring",
+              "cheering",
+              "comforting",
+              "welcome",
+              "pleasing",
+              "gratifying \"an encouraging start\"supportive",
+              "understanding",
+              "helpful; positive",
+              "responsive",
+              "enthusiastic",
+              "boosterish \"my parents were very encouraging\""
+            ],
+            "antonyms": [
+              "discourage"
+            ]
+          },
+          {
+            "definition": "give support and advice to (someone) so that they will do or continue to do something.",
+            "examples": [
+              "pupils are encouraged to be creative"
+            ],
+            "synonyms": [
+              "persuade",
+              "coax",
+              "urge",
+              "press",
+              "push",
+              "pressure",
+              "pressurize",
+              "prod",
+              "goad",
+              "egg on",
+              "prompt",
+              "influence",
+              "sway; informalput ideas into one's head \"she had encouraged him to go\""
+            ],
+            "antonyms": [
+              "dissuade"
+            ]
+          },
+          {
+            "definition": "help or stimulate (an activity, state, or view) to develop.",
+            "examples": [
+              "the intention is to encourage new writing talent"
+            ],
+            "synonyms": [
+              "support",
+              "back",
+              "champion",
+              "promote",
+              "further",
+              "foster",
+              "nurture",
+              "cultivate",
+              "strengthen",
+              "stimulate; Morehelp",
+              "assist",
+              "aid",
+              "boost",
+              "fuel \"the municipal government must encourage local businesses\""
+            ],
+            "antonyms": [
+              "hinder"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

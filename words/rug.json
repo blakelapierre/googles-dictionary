@@ -1,0 +1,41 @@
+[
+  {
+    "word": "rug",
+    "syllables": [
+      "rug"
+    ],
+    "pronunciation": "rəɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rug"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rugs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a floor covering of thick woven material or animal skin, typically not extending over the entire floor.",
+            "examples": [
+              "mat, carpet, runner; Morehearth rug, floor cloth \"they sat on the rug\"Morehearth rug, floor cloth they sat on the rug"
+            ]
+          },
+          {
+            "definition": "a thick woolen coverlet or wrap, used especially when traveling."
+          },
+          {
+            "definition": "a toupee or wig.",
+            "examples": [
+              "toupee, wig, hairpiece who is he trying to fool with that rug?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

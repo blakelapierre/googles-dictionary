@@ -1,0 +1,75 @@
+[
+  {
+    "word": "chest",
+    "syllables": [
+      "chest"
+    ],
+    "pronunciation": "CHest",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chest"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the front surface of a person's or animal's body between the neck and the abdomen.",
+            "examples": [
+              "breast, upper body, torso, trunk; thorax a bullet wound in the chest"
+            ]
+          },
+          {
+            "definition": "the whole of a person's upper trunk, especially with reference to physical size.",
+            "examples": [
+              "a 42-inch chest"
+            ],
+            "synonyms": [
+              "breast",
+              "upper body",
+              "torso",
+              "trunk; Moretechnicalthorax \"a bullet wound in the chest\"bust",
+              "bosom; breasts \"her matronly chest\""
+            ]
+          },
+          {
+            "definition": "a large strong box, typically made of wood and used for storage or shipping.",
+            "examples": [
+              "an oak chest"
+            ],
+            "synonyms": [
+              "box",
+              "case",
+              "casket",
+              "crate",
+              "trunk",
+              "coffer",
+              "strongbox \"an oak chest\""
+            ]
+          },
+          {
+            "definition": "a small cabinet for medicines, toiletries, etc.",
+            "examples": [
+              "the medicine chest"
+            ]
+          },
+          {
+            "definition": "short for chest of drawers."
+          },
+          {
+            "definition": "the treasury or financial resources of some institutions.",
+            "examples": [
+              "the university chest"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

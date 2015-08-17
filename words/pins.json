@@ -1,0 +1,163 @@
+[
+  {
+    "word": "personal identification number",
+    "syllables": [
+      "per",
+      "son",
+      "al i",
+      "den",
+      "ti",
+      "fi",
+      "ca",
+      "tion num",
+      "ber"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "PINs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a number allocated to an individual and used to validate electronic transactions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pin",
+    "syllables": [
+      "pin"
+    ],
+    "pronunciation": "pin",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thin piece of metal with a sharp point at one end and a round head at the other, used especially for fastening pieces of cloth.",
+            "examples": [
+              "tack, safety pin, nail, staple, fastener fasten the hem with a pin"
+            ]
+          },
+          {
+            "definition": "a small brooch or badge.",
+            "examples": [
+              "badge, brooch souvenir pins"
+            ]
+          },
+          {
+            "definition": "a steel rod used to join the ends of fractured bones while they heal."
+          },
+          {
+            "definition": "a metal peg that holds down the activating lever of a hand grenade, preventing its explosion."
+          },
+          {
+            "definition": "short for hairpin."
+          },
+          {
+            "definition": "a peg around which one string of a musical instrument is fastened."
+          },
+          {
+            "definition": "a short piece of wood or metal for various purposes, in particular.",
+            "examples": [
+              "bolt, peg, rivet, dowel, screw a broken pin in the machine"
+            ]
+          },
+          {
+            "definition": "(in bowling) one of a set of bottle-shaped wooden pieces that are arranged in an upright position at the end of a lane in order to be toppled by a rolling ball."
+          },
+          {
+            "definition": "a metal projection from a plug or an integrated circuit that makes an electrical connection with a socket or another part of a circuit."
+          },
+          {
+            "definition": "a stick with a flag placed in a hole to mark the hole's position."
+          },
+          {
+            "definition": "legs.",
+            "examples": [
+              "she was very nimble on her pins"
+            ]
+          },
+          {
+            "definition": "an attack on a piece or pawn, which is thereby pinned.",
+            "examples": [
+              "the pin of the black queen by the white rook"
+            ]
+          },
+          {
+            "definition": "a half-firkin cask for beer."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attach or fasten with a pin or pins in a specified position.",
+            "examples": [
+              "her hair was pinned back"
+            ],
+            "synonyms": [
+              "attach",
+              "fasten",
+              "affix",
+              "fix",
+              "tack",
+              "clip; Morejoin",
+              "secure \"she pinned the brooch to her dress\""
+            ]
+          },
+          {
+            "definition": "fix blame or responsibility for something on (someone).",
+            "examples": [
+              "don't pin the blame on me"
+            ],
+            "synonyms": [
+              "blame for",
+              "hold responsible for",
+              "attribute to",
+              "impute to",
+              "ascribe to; Morelay something at someone's door; informalstick on \"they pinned the crime on him\""
+            ]
+          },
+          {
+            "definition": "hold someone firmly in a specified position so they are unable to move.",
+            "examples": [
+              "she was standing pinned against the door"
+            ],
+            "synonyms": [
+              "hold",
+              "press",
+              "hold fast",
+              "hold down; Morerestrain",
+              "pinion",
+              "immobilize \"they pinned him to the ground\""
+            ]
+          },
+          {
+            "definition": "hinder or prevent (a piece or pawn) from moving because of the danger to a more valuable piece standing behind it along the line of an attack."
+          }
+        ]
+      }
+    ]
+  }
+]

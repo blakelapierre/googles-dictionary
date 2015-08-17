@@ -1,0 +1,81 @@
+[
+  {
+    "word": "poorly",
+    "syllables": [
+      "poor",
+      "ly"
+    ],
+    "pronunciation": "ˈpo͝orlēˈpôrlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "poorly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a way or at a level that is considered inadequate.",
+            "examples": [
+              "schools that were performing poorly"
+            ],
+            "synonyms": [
+              "badly",
+              "deficiently",
+              "defectively",
+              "imperfectly",
+              "incompetently; Moreappallingly",
+              "abysmally",
+              "atrociously",
+              "awfully",
+              "dreadfully; crudely",
+              "shoddily",
+              "inadequately \"the text is poorly written\""
+            ]
+          },
+          {
+            "definition": "with insufficient money or resources.",
+            "examples": [
+              "he lived as poorly as his peasant parishioners"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "poorly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unwell.",
+            "examples": [
+              "she looked poorly"
+            ],
+            "synonyms": [
+              "ill",
+              "unwell",
+              "not (very) well",
+              "ailing",
+              "indisposed",
+              "out of sorts",
+              "under/below par",
+              "peaked; Moresick",
+              "queasy",
+              "nauseous; off; informalunder the weather",
+              "funny",
+              "peculiar",
+              "lousy",
+              "rough \"she felt poorly\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

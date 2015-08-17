@@ -1,0 +1,109 @@
+[
+  {
+    "word": "young",
+    "syllables": [
+      "young"
+    ],
+    "pronunciation": "yəNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "younger"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having lived or existed for only a short time.",
+            "examples": [
+              "a young girl"
+            ],
+            "synonyms": [
+              "youthful",
+              "juvenile; Morejunior",
+              "adolescent",
+              "teenage; in the springtime of life",
+              "in one's salad days \"young people\"young people",
+              "children",
+              "boys and girls",
+              "youngsters",
+              "youth",
+              "the younger generation",
+              "juveniles",
+              "minors; informalyoung ’uns",
+              "kids \"the young don't care nowadays\""
+            ],
+            "antonyms": [
+              "old",
+              "elderly",
+              "mature"
+            ]
+          },
+          {
+            "definition": "not as old as the norm or as would be expected.",
+            "examples": [
+              "more people were dying young"
+            ],
+            "synonyms": [
+              "youthful",
+              "juvenile; Morejunior",
+              "adolescent",
+              "teenage; in the springtime of life",
+              "in one's salad days \"young people\""
+            ],
+            "antonyms": [
+              "old",
+              "elderly",
+              "mature"
+            ]
+          },
+          {
+            "definition": "relating to, characteristic of, or consisting of young people.",
+            "examples": [
+              "young love"
+            ]
+          },
+          {
+            "definition": "immature or inexperienced.",
+            "examples": [
+              "she's very young for her age"
+            ],
+            "synonyms": [
+              "immature",
+              "childish",
+              "inexperienced",
+              "unsophisticated",
+              "naive",
+              "unworldly; informalwet behind the ears \"she's very young for her age\""
+            ],
+            "antonyms": [
+              "old",
+              "elderly",
+              "mature"
+            ]
+          },
+          {
+            "definition": "having the qualities popularly associated with young people, such as enthusiasm and optimism.",
+            "examples": [
+              "all those who are young at heart"
+            ]
+          },
+          {
+            "definition": "used to denote the younger of two people of the same name.",
+            "examples": [
+              "comparative adjective: Younger"
+            ]
+          },
+          {
+            "definition": "denoting the heir of a landed commoner.",
+            "examples": [
+              "Hugh Magnus Macleod, younger of Macleod"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "word": "lime",
+    "syllables": [
+      "lime"
+    ],
+    "pronunciation": "līm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lime"
+          },
+          {
+            "part": "noun",
+            "variant": "quicklime"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a white caustic alkaline substance consisting of calcium oxide, obtained by heating limestone."
+          },
+          {
+            "definition": "a white alkaline substance consisting of calcium hydroxide, made by adding water to quicklime.",
+            "examples": [
+              "noun: slaked lime; plural noun: slaked limes"
+            ]
+          },
+          {
+            "definition": "(in general use) any of a number of calcium compounds, especially calcium hydroxide, used as an additive to soil or water."
+          },
+          {
+            "definition": "birdlime."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lime"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "limes"
+          },
+          {
+            "part": "past tense",
+            "variant": "limed"
+          },
+          {
+            "part": "past participle",
+            "variant": "limed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "liming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "treat (soil or water) with lime to reduce acidity and improve fertility or oxygen levels."
+          },
+          {
+            "definition": "give (wood) a bleached appearance by treating it with lime.",
+            "examples": [
+              "limed oak dining furniture"
+            ]
+          },
+          {
+            "definition": "catch (a bird) with birdlime."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lime",
+    "syllables": [
+      "lime"
+    ],
+    "pronunciation": "līm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lime"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limes"
+          },
+          {
+            "part": "noun",
+            "variant": "lime tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lime trees"
+          },
+          {
+            "part": "noun",
+            "variant": "lime green"
+          },
+          {
+            "part": "adjective",
+            "variant": "lime-green"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lime greens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rounded citrus fruit similar to a lemon but greener, smaller, and with a distinctive acid flavor."
+          },
+          {
+            "definition": "the evergreen citrus tree that produces the lime, widely cultivated in warm climates."
+          },
+          {
+            "definition": "a bright light green color like that of a lime.",
+            "examples": [
+              "day-glo orange, pink, or lime green"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lime",
+    "syllables": [
+      "lime"
+    ],
+    "pronunciation": "līm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lime"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limes"
+          },
+          {
+            "part": "noun",
+            "variant": "lime tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lime trees"
+          },
+          {
+            "part": "noun",
+            "variant": "common lime"
+          },
+          {
+            "part": "plural noun",
+            "variant": "common limes"
+          },
+          {
+            "part": "noun",
+            "variant": "small-leaved lime"
+          },
+          {
+            "part": "plural noun",
+            "variant": "small-leaved limes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "another term for linden, especially the European linden."
+          }
+        ]
+      }
+    ]
+  }
+]

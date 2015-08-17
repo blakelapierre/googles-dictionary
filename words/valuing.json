@@ -1,0 +1,64 @@
+[
+  {
+    "word": "value",
+    "syllables": [
+      "val",
+      "ue"
+    ],
+    "pronunciation": "ˈvalyo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "valuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "estimate the monetary worth of (something).",
+            "examples": [
+              "his estate was valued at $45,000"
+            ],
+            "synonyms": [
+              "evaluate",
+              "assess",
+              "estimate",
+              "appraise",
+              "price",
+              "put/set a price on \"his estate was valued at $345",
+              "000\""
+            ]
+          },
+          {
+            "definition": "consider (someone or something) to be important or beneficial; have a high opinion of.",
+            "examples": [
+              "she had come to value her privacy and independence"
+            ],
+            "synonyms": [
+              "think highly of",
+              "have a high opinion of",
+              "hold in high regard",
+              "rate highly",
+              "esteem",
+              "set (great) store by",
+              "put stock in",
+              "appreciate",
+              "respect; Moreprize",
+              "cherish",
+              "treasure \"she valued his opinion\"cherished",
+              "treasured",
+              "dear",
+              "prized; esteemed",
+              "respected",
+              "highly regarded",
+              "appreciated",
+              "important \"this is my most valued piece of crystal\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "word": "initial",
+    "syllables": [
+      "in",
+      "i",
+      "tial"
+    ],
+    "pronunciation": "iˈniSHəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "initial"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "existing or occurring at the beginning.",
+            "examples": [
+              "our initial impression was favorable"
+            ],
+            "synonyms": [
+              "beginning",
+              "opening",
+              "commencing",
+              "starting",
+              "inceptive",
+              "embryonic",
+              "fledgling; Morefirst",
+              "early",
+              "primary",
+              "preliminary",
+              "elementary",
+              "foundational",
+              "preparatory; introductory",
+              "inaugural \"the initial stages\""
+            ],
+            "antonyms": [
+              "final"
+            ]
+          },
+          {
+            "definition": "(of a letter) at the beginning of a word."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "initial"
+          },
+          {
+            "part": "plural noun",
+            "variant": "initials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the first letter of a name or word, typically a person's name or a word forming part of a phrase.",
+            "examples": [
+              "they carved their initials into the tree trunk"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "initial"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "initials"
+          },
+          {
+            "part": "past tense",
+            "variant": "initialled"
+          },
+          {
+            "part": "past participle",
+            "variant": "initialled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "initialling"
+          },
+          {
+            "part": "past tense",
+            "variant": "initialed"
+          },
+          {
+            "part": "past participle",
+            "variant": "initialed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "initialing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark or sign (a document) with one's initials, especially in order to authorize or validate it.",
+            "examples": [
+              "put one's initials on, initialize, sign, ink, countersign, autograph, endorse, inscribe, witness, verify he initialed the warrant"
+            ]
+          },
+          {
+            "definition": "agree to or ratify (a treaty or contract) by signing it."
+          }
+        ]
+      }
+    ]
+  }
+]

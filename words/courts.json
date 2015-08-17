@@ -1,0 +1,154 @@
+[
+  {
+    "word": "court",
+    "syllables": [
+      "court"
+    ],
+    "pronunciation": "kôrt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "courts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases.",
+            "examples": [
+              "a settlement was reached during the first sitting of the court"
+            ],
+            "synonyms": [
+              "court of law",
+              "bench",
+              "bar",
+              "judicature",
+              "tribunal; Morelaw court",
+              "chancery \"the court found him guilty\""
+            ]
+          },
+          {
+            "definition": "the place where a court meets."
+          },
+          {
+            "definition": "the judge or judges presiding at a court.",
+            "examples": [
+              "noun: the court"
+            ]
+          },
+          {
+            "definition": "a quadrangular area, either open or covered, marked out for ball games such as tennis or basketball.",
+            "examples": [
+              "I prefer an indoor court"
+            ]
+          },
+          {
+            "definition": "a quadrangular area surrounded by a building or group of buildings."
+          },
+          {
+            "definition": "a subdivision of a building, usually a large hall extending to the ceiling with galleries and staircases."
+          },
+          {
+            "definition": "the establishment, retinue, and courtiers of a sovereign.",
+            "examples": [
+              "the emperor is shown with his court"
+            ],
+            "synonyms": [
+              "royal household",
+              "retinue",
+              "entourage",
+              "train",
+              "suite",
+              "courtiers",
+              "attendants \"the court of Louis IX\""
+            ]
+          },
+          {
+            "definition": "a sovereign and his or her councilors, constituting a ruling power.",
+            "examples": [
+              "relations between the king and the imperial court"
+            ]
+          },
+          {
+            "definition": "a sovereign's residence.",
+            "examples": [
+              "royal residence, palace, castle, chateau she made her way to the queen's court"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbdated",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "courts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be involved with romantically, typically with the intention of marrying.",
+            "examples": [
+              "he was courting a girl from the neighboring farm"
+            ],
+            "synonyms": [
+              "go out with",
+              "pursue",
+              "run after",
+              "chase; Moreinformaldate",
+              "see",
+              "go steady with; datedwoo",
+              "set one's cap for",
+              "romance",
+              "seek the hand of \"he's courting her sister\""
+            ]
+          },
+          {
+            "definition": "(of a male bird or other animal) try to attract (a mate)."
+          },
+          {
+            "definition": "pay special attention to (someone) in an attempt to win their support or favor.",
+            "examples": [
+              "Western politicians courted the leaders of the newly independent states"
+            ],
+            "synonyms": [
+              "curry favor with",
+              "cultivate",
+              "try to win over",
+              "make up to",
+              "ingratiate oneself with; Moreinformalsuck up to",
+              "butter up \"a newspaper editor who was courted by senior politicians\""
+            ]
+          },
+          {
+            "definition": "go to great lengths to win (favorable attention).",
+            "examples": [
+              "he never had to court the approval of the political elite"
+            ],
+            "synonyms": [
+              "seek",
+              "pursue",
+              "go after",
+              "strive for",
+              "solicit \"he was busily courting public attention\""
+            ]
+          },
+          {
+            "definition": "risk incurring (misfortune) because of the way one behaves.",
+            "examples": [
+              "he has often courted controversy"
+            ],
+            "synonyms": [
+              "risk",
+              "invite",
+              "attract",
+              "bring on oneself \"he has often courted controversy\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

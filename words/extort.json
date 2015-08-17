@@ -1,0 +1,57 @@
+[
+  {
+    "word": "extort",
+    "syllables": [
+      "ex",
+      "tort"
+    ],
+    "pronunciation": "ikˈstôrt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "extort"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "extorts"
+          },
+          {
+            "part": "past tense",
+            "variant": "extorted"
+          },
+          {
+            "part": "past participle",
+            "variant": "extorted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "extorting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "obtain (something) by force, threats, or other unfair means.",
+            "examples": [
+              "he was convicted of trying to extort $1 million from a developer"
+            ],
+            "synonyms": [
+              "force",
+              "extract",
+              "exact",
+              "wring",
+              "wrest",
+              "screw",
+              "squeeze",
+              "obtain by threat(s)",
+              "blackmail someone for; Moreinformalput the bite on someone for; soak",
+              "rook \"he was convicted of extorting money from local residents\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "essential",
+    "syllables": [
+      "es",
+      "sen",
+      "tial"
+    ],
+    "pronunciation": "əˈsen(t)SHəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "essentials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is absolutely necessary.",
+            "examples": [
+              "we had only the bare essentials in the way of gear"
+            ],
+            "synonyms": [
+              "necessity",
+              "prerequisite",
+              "requisite",
+              "requirement",
+              "need; Morecondition",
+              "precondition",
+              "stipulation; sine qua non; informalmust",
+              "must-have \"an essential for broadcasters\""
+            ]
+          },
+          {
+            "definition": "the fundamental elements or characteristics of something.",
+            "examples": [
+              "he was quick to grasp the essentials of an opponent's argument"
+            ],
+            "synonyms": [
+              "fundamentals",
+              "basics",
+              "rudiments",
+              "first principles",
+              "foundations",
+              "bedrock; Moreessence",
+              "basis",
+              "core",
+              "kernel",
+              "crux",
+              "sine qua non; informalnitty-gritty",
+              "brass tacks",
+              "nuts and bolts",
+              "meat and potatoes \"the essentials of the job\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

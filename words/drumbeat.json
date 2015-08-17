@@ -1,0 +1,33 @@
+[
+  {
+    "word": "drumbeat",
+    "syllables": [
+      "drum",
+      "beat"
+    ],
+    "pronunciation": "ˈdrəmˌbēt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "drumbeat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "drumbeats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a stroke or pattern of strokes on a drum.",
+            "examples": [
+              "she was aware of a constant, faint drumbeat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

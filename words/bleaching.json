@@ -1,0 +1,53 @@
+[
+  {
+    "word": "bleach",
+    "syllables": [
+      "bleach"
+    ],
+    "pronunciation": "blēCH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "bleaching"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "whiten by exposure to sunlight or by a chemical process.",
+            "examples": [
+              "paper products are bleached with chlorine"
+            ],
+            "synonyms": [
+              "turn white",
+              "whiten",
+              "turn pale",
+              "blanch",
+              "lighten",
+              "fade",
+              "decolorize",
+              "peroxide \"the blinds had been bleached by the sun\""
+            ],
+            "antonyms": [
+              "darken"
+            ]
+          },
+          {
+            "definition": "deprive of vitality or substance.",
+            "examples": [
+              "his contributions to the album are bleached of personality"
+            ]
+          },
+          {
+            "definition": "clean and sterilize.",
+            "examples": [
+              "a new formula to bleach and brighten clothing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

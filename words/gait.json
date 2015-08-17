@@ -1,0 +1,44 @@
+[
+  {
+    "word": "gait",
+    "syllables": [
+      "gait"
+    ],
+    "pronunciation": "ɡāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gait"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gaits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person's manner of walking.",
+            "examples": [
+              "the easy gait of an athlete"
+            ],
+            "synonyms": [
+              "walk",
+              "step",
+              "stride",
+              "pace",
+              "tread",
+              "bearing",
+              "carriage; formalcomportment \"there was a new liveliness to her gait\""
+            ]
+          },
+          {
+            "definition": "the paces of an animal, especially a horse or dog."
+          }
+        ]
+      }
+    ]
+  }
+]

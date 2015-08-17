@@ -1,0 +1,30 @@
+[
+  {
+    "word": "lighthouse",
+    "syllables": [
+      "light",
+      "house"
+    ],
+    "pronunciation": "ˈlītˌhous",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lighthouse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lighthouses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tower or other structure containing a beacon light to warn or guide ships at sea."
+          }
+        ]
+      }
+    ]
+  }
+]

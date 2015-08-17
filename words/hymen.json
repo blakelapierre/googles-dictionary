@@ -1,0 +1,30 @@
+[
+  {
+    "word": "hymen",
+    "syllables": [
+      "hy",
+      "men"
+    ],
+    "pronunciation": "ˈhīmən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hymen"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hymens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a membrane that partially closes the opening of the vagina and whose presence is traditionally taken to be a mark of virginity."
+          }
+        ]
+      }
+    ]
+  }
+]

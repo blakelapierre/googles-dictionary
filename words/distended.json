@@ -1,0 +1,73 @@
+[
+  {
+    "word": "distended",
+    "syllables": [
+      "dis",
+      "tend",
+      "ed"
+    ],
+    "pronunciation": "diˈstendəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "distended"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "swollen due to pressure from inside; bloated.",
+            "examples": [
+              "a distended belly"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "distend",
+    "syllables": [
+      "dis",
+      "tend"
+    ],
+    "pronunciation": "dəˈstend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "distended"
+          },
+          {
+            "part": "past participle",
+            "variant": "distended"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "swell or cause to swell by pressure from inside.",
+            "examples": [
+              "the abdomen distended rapidly"
+            ],
+            "synonyms": [
+              "swollen",
+              "bloated",
+              "dilated",
+              "engorged",
+              "enlarged",
+              "inflated",
+              "expanded",
+              "extended",
+              "bulging",
+              "protuberant \"a distended abdomen\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

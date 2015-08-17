@@ -1,0 +1,137 @@
+[
+  {
+    "word": "hamper",
+    "syllables": [
+      "ham",
+      "per"
+    ],
+    "pronunciation": "ˈhampər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hamper"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hampers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large basket with a lid used for laundry.",
+            "examples": [
+              "a laundry hamper"
+            ]
+          },
+          {
+            "definition": "a basket with a carrying handle and a hinged lid, used for food, cutlery, and plates on a picnic.",
+            "examples": [
+              "a picnic hamper"
+            ],
+            "synonyms": [
+              "basket",
+              "pannier",
+              "wickerwork basket; Morebox",
+              "container \"a picnic hamper\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hamper",
+    "syllables": [
+      "ham",
+      "per"
+    ],
+    "pronunciation": "ˈhampər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hamper"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hampers"
+          },
+          {
+            "part": "past tense",
+            "variant": "hampered"
+          },
+          {
+            "part": "past participle",
+            "variant": "hampered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hampering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hinder or impede the movement or progress of.",
+            "examples": [
+              "their work is hampered by lack of funds"
+            ],
+            "synonyms": [
+              "hinder",
+              "obstruct",
+              "impede",
+              "inhibit",
+              "retard",
+              "balk",
+              "thwart",
+              "foil",
+              "curb",
+              "delay",
+              "set back",
+              "slow down",
+              "hobble",
+              "hold up",
+              "interfere with; Morerestrict",
+              "constrain",
+              "trammel",
+              "block",
+              "check",
+              "curtail",
+              "frustrate",
+              "cramp",
+              "bridle",
+              "handicap",
+              "cripple",
+              "hamstring",
+              "shackle",
+              "fetter; informalstymie",
+              "hog-tie",
+              "throw a (monkey) wrench in the works of \"the search was hampered by fog\""
+            ],
+            "antonyms": [
+              "help"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounNautical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hamper"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "necessary but cumbersome equipment on a ship."
+          }
+        ]
+      }
+    ]
+  }
+]

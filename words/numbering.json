@@ -1,0 +1,73 @@
+[
+  {
+    "word": "number",
+    "syllables": [
+      "num",
+      "ber"
+    ],
+    "pronunciation": "ˈnəmbər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "numbering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "amount to (a specified figure or quantity); comprise.",
+            "examples": [
+              "the demonstrators numbered more than 5,000"
+            ],
+            "synonyms": [
+              "add up to",
+              "amount to",
+              "total",
+              "come to \"visitors numbered more than two million\""
+            ]
+          },
+          {
+            "definition": "include or classify as a member of a group.",
+            "examples": [
+              "the orchestra numbers Brahms among its past conductors"
+            ],
+            "synonyms": [
+              "include",
+              "count",
+              "reckon",
+              "deem \"he numbers her among his friends\""
+            ]
+          },
+          {
+            "definition": "mark with a number or assign a number to, typically to indicate position in a series.",
+            "examples": [
+              "each document was numbered consecutively"
+            ],
+            "synonyms": [
+              "assign a number to",
+              "mark with a number; Moreitemize",
+              "enumerate \"each paragraph is numbered\""
+            ]
+          },
+          {
+            "definition": "count.",
+            "examples": [
+              "strategies like ours can be numbered on the fingers of one hand"
+            ],
+            "synonyms": [
+              "calculate",
+              "count",
+              "total",
+              "compute",
+              "reckon",
+              "tally; Moreassess",
+              "tot up; formalenumerate \"he numbers the fleet at a thousand\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

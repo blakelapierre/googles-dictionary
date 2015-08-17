@@ -1,0 +1,31 @@
+[
+  {
+    "word": "buttercup",
+    "syllables": [
+      "but",
+      "ter",
+      "cup"
+    ],
+    "pronunciation": "ˈbədərˌkəp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "buttercup"
+          },
+          {
+            "part": "plural noun",
+            "variant": "buttercups"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a herbaceous plant with bright yellow cup-shaped flowers, common in grassland and as a garden weed. All kinds are poisonous and generally avoided by livestock."
+          }
+        ]
+      }
+    ]
+  }
+]

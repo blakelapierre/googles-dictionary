@@ -1,0 +1,61 @@
+[
+  {
+    "word": "mill",
+    "syllables": [
+      "mill"
+    ],
+    "pronunciation": "mil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "milling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grind or crush (something) in a mill.",
+            "examples": [
+              "hard wheats are easily milled into white flour"
+            ],
+            "synonyms": [
+              "grind",
+              "pulverize",
+              "powder",
+              "granulate",
+              "pound",
+              "crush",
+              "press; Moretechnicalcomminute",
+              "triturate \"the wheat is milled into flour\""
+            ]
+          },
+          {
+            "definition": "cut or shape (metal) with a rotating tool.",
+            "examples": [
+              "lathes and milling machines"
+            ]
+          },
+          {
+            "definition": "produce regular ribbed markings on the edge of (a coin) as a protection against illegal clipping."
+          },
+          {
+            "definition": "(of people or animals) move around in a confused mass.",
+            "examples": [
+              "people milled about the room, shaking hands"
+            ],
+            "synonyms": [
+              "throng",
+              "swarm",
+              "crowd \"people were milling about in the streets\""
+            ]
+          },
+          {
+            "definition": "thicken (wool or another animal fiber) by fulling it."
+          }
+        ]
+      }
+    ]
+  }
+]

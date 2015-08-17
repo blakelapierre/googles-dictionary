@@ -1,0 +1,104 @@
+[
+  {
+    "word": "integrated",
+    "syllables": [
+      "in",
+      "te",
+      "grat",
+      "ed"
+    ],
+    "pronunciation": "ˈin(t)əˌɡrādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "integrate",
+    "syllables": [
+      "in",
+      "te",
+      "grate"
+    ],
+    "pronunciation": "ˈin(t)əˌɡrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "integrated"
+          },
+          {
+            "part": "past participle",
+            "variant": "integrated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "combine (one thing) with another so that they become a whole.",
+            "examples": [
+              "transportation planning should be integrated with energy policy"
+            ],
+            "synonyms": [
+              "combine",
+              "amalgamate",
+              "merge",
+              "unite",
+              "fuse",
+              "blend",
+              "mingle",
+              "coalesce",
+              "consolidate",
+              "meld",
+              "intermingle",
+              "mix; Moreincorporate",
+              "unify",
+              "assimilate",
+              "homogenize; desegregate \"reserve forces will be more closely integrated with the regular forces\""
+            ],
+            "antonyms": [
+              "separate"
+            ]
+          },
+          {
+            "definition": "combine (two things) so that they become a whole.",
+            "examples": [
+              "the problem of integrating the two approaches"
+            ]
+          },
+          {
+            "definition": "(of a thing) combine with another to form a whole.",
+            "examples": [
+              "the stone will blend with the environment and integrate into the landscape"
+            ]
+          },
+          {
+            "definition": "bring (people or groups with particular characteristics or needs) into equal participation in or membership of a social group or institution.",
+            "examples": [
+              "integrating children with special needs into ordinary schools"
+            ]
+          },
+          {
+            "definition": "come into equal participation in or membership of society or an institution or body.",
+            "examples": [
+              "she was anxious to integrate well into her husband's family"
+            ]
+          },
+          {
+            "definition": "desegregate (a school, neighborhood, etc.), especially racially.",
+            "examples": [
+              "there was a national campaign under way to integrate the lunch counters"
+            ]
+          },
+          {
+            "definition": "find the integral of."
+          }
+        ]
+      }
+    ]
+  }
+]

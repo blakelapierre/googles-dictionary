@@ -1,0 +1,30 @@
+[
+  {
+    "word": "silverware",
+    "syllables": [
+      "sil",
+      "ver",
+      "ware"
+    ],
+    "pronunciation": "ˈsilvərˌwer",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "silverware"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "dishes, containers, or cutlery made of or coated with silver."
+          },
+          {
+            "definition": "eating and serving utensils made of any material."
+          }
+        ]
+      }
+    ]
+  }
+]

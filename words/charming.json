@@ -1,0 +1,127 @@
+[
+  {
+    "word": "charming",
+    "syllables": [
+      "charm",
+      "ing"
+    ],
+    "pronunciation": "ˈCHärmiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "charming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pleasant or attractive.",
+            "examples": [
+              "a charming country cottage"
+            ],
+            "synonyms": [
+              "delightful",
+              "pleasing",
+              "pleasant",
+              "agreeable",
+              "likable",
+              "endearing",
+              "lovely",
+              "lovable",
+              "adorable",
+              "appealing",
+              "attractive",
+              "good-looking",
+              "prepossessing; Morealluring",
+              "delectable",
+              "ravishing",
+              "winning",
+              "winsome",
+              "fetching",
+              "captivating",
+              "enchanting",
+              "entrancing",
+              "fascinating",
+              "seductive; informalheavenly",
+              "divine",
+              "gorgeous",
+              "-licious; literarybeauteous; archaicfair",
+              "comely \"a charming inn on the cape\""
+            ],
+            "antonyms": [
+              "repulsive"
+            ]
+          },
+          {
+            "definition": "(of a person or manner) polite, friendly, and likable.",
+            "examples": [
+              "he was a charming, affectionate colleague"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "charm",
+    "syllables": [
+      "charm"
+    ],
+    "pronunciation": "CHärm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "charming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "delight greatly.",
+            "examples": [
+              "the books have charmed children the world over"
+            ],
+            "synonyms": [
+              "delight",
+              "please",
+              "win (over)",
+              "attract",
+              "captivate",
+              "allure",
+              "lure",
+              "dazzle",
+              "fascinate",
+              "enchant",
+              "enthrall",
+              "enrapture",
+              "seduce",
+              "spellbind \"he charmed them with his singing\""
+            ]
+          },
+          {
+            "definition": "gain or influence by charm.",
+            "examples": [
+              "he charmed her into going out"
+            ],
+            "synonyms": [
+              "coax",
+              "cajole",
+              "wheedle; Moreinformalsweet-talk",
+              "soft-soap; archaicblandish \"he charmed his mother into agreeing\""
+            ]
+          },
+          {
+            "definition": "control or achieve by or as if by magic.",
+            "examples": [
+              "pretending to charm a cobra"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

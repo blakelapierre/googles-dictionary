@@ -1,0 +1,53 @@
+[
+  {
+    "word": "overlook",
+    "syllables": [
+      "o",
+      "ver",
+      "look"
+    ],
+    "pronunciation": "ˌōvərˈlo͝okˈōvərˌlo͝ok",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "overlook"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "overlooks"
+          },
+          {
+            "part": "past tense",
+            "variant": "overlooked"
+          },
+          {
+            "part": "past participle",
+            "variant": "overlooked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "overlooking"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "overlook"
+          },
+          {
+            "part": "plural noun",
+            "variant": "overlooks"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

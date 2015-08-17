@@ -1,0 +1,37 @@
+[
+  {
+    "word": "serum",
+    "syllables": [
+      "se",
+      "rum"
+    ],
+    "pronunciation": "ˈsirəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "serum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sera"
+          },
+          {
+            "part": "plural noun",
+            "variant": "serums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an amber-colored, protein-rich liquid that separates out when blood coagulates."
+          },
+          {
+            "definition": "the blood serum of an animal, used especially to provide immunity to a pathogen or toxin by inoculation or as a diagnostic agent."
+          }
+        ]
+      }
+    ]
+  }
+]

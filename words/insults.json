@@ -1,0 +1,32 @@
+[
+  {
+    "word": "insult",
+    "syllables": [
+      "in",
+      "sult"
+    ],
+    "pronunciation": "inˈsəltˈinˌsəlt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "insults"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "insults"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "miserly",
+    "syllables": [
+      "mi",
+      "ser",
+      "ly"
+    ],
+    "pronunciation": "ˈmīzərlē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "miserly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or characteristic of a miser.",
+            "examples": [
+              "his miserly great-uncle proved to be worth nearly $1 million"
+            ],
+            "synonyms": [
+              "mean",
+              "niggardly",
+              "close-fisted",
+              "parsimonious",
+              "penny-pinching",
+              "cheeseparing",
+              "Scroogelike; Moreinformaltightfisted",
+              "stingy",
+              "tight",
+              "mingy",
+              "money-grubbing",
+              "cheap; formalpenurious \"his miserly uncle\""
+            ],
+            "antonyms": [
+              "generous"
+            ]
+          },
+          {
+            "definition": "(of a quantity) pitiably small or inadequate.",
+            "examples": [
+              "last year's miserly growth in sales"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

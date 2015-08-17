@@ -1,0 +1,81 @@
+[
+  {
+    "word": "irony",
+    "syllables": [
+      "i",
+      "ro",
+      "ny"
+    ],
+    "pronunciation": "ˈīrənē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "irony"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect.",
+            "examples": [
+              "“Don't go overboard with the gratitude,” he rejoined with heavy irony"
+            ],
+            "synonyms": [
+              "sarcasm",
+              "causticity",
+              "cynicism",
+              "mockery",
+              "satire",
+              "sardonicism \"that note of irony in her voice\""
+            ],
+            "antonyms": [
+              "sincerity"
+            ]
+          },
+          {
+            "definition": "a state of affairs or an event that seems deliberately contrary to what one expects and is often amusing as a result.",
+            "examples": [
+              "plural noun: ironies"
+            ]
+          },
+          {
+            "definition": "a literary technique, originally used in Greek tragedy, by which the full significance of a character's words or actions are clear to the audience or reader although unknown to the character.",
+            "examples": [
+              "noun: dramatic irony"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "irony",
+    "syllables": [
+      "i",
+      "ro",
+      "ny"
+    ],
+    "pronunciation": "ˈīərnē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "irony"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or like iron.",
+            "examples": [
+              "an irony gray color"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

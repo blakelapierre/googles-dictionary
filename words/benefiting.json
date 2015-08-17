@@ -1,0 +1,77 @@
+[
+  {
+    "word": "benefit",
+    "syllables": [
+      "ben",
+      "e",
+      "fit"
+    ],
+    "pronunciation": "ˈbenəfit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "benefiting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "receive an advantage; profit; gain.",
+            "examples": [
+              "areas that would benefit from regeneration"
+            ],
+            "synonyms": [
+              "profit from",
+              "gain from",
+              "reap benefits from",
+              "reap reward(s) from",
+              "make money from; Moremake the most of",
+              "exploit",
+              "turn to one's advantage",
+              "put to good use",
+              "do well out of; informalcash in on",
+              "make a killing from \"they may benefit from the scheme\""
+            ],
+            "antonyms": [
+              "suffer"
+            ]
+          },
+          {
+            "definition": "bring advantage to.",
+            "examples": [
+              "the bill will benefit the nation"
+            ],
+            "synonyms": [
+              "be advantageous to",
+              "be beneficial to",
+              "be of advantage to",
+              "be to the advantage of",
+              "profit",
+              "do good to",
+              "be of service to",
+              "serve",
+              "be useful to",
+              "be of use to",
+              "be helpful to",
+              "be of help to",
+              "help",
+              "aid",
+              "assist",
+              "be of assistance to; Morebetter",
+              "improve",
+              "strengthen",
+              "boost",
+              "advance",
+              "further \"the deal benefited them both\""
+            ],
+            "antonyms": [
+              "damage"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

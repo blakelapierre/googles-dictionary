@@ -1,0 +1,51 @@
+[
+  {
+    "word": "reversion",
+    "syllables": [
+      "re",
+      "ver",
+      "sion"
+    ],
+    "pronunciation": "rəˈvərZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reversion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a return to a previous state, practice, or belief.",
+            "examples": [
+              "there was some reversion to polytheism"
+            ]
+          },
+          {
+            "definition": "the action of reverting to a former or ancestral type."
+          },
+          {
+            "definition": "the right, especially of the original owner or their heirs, to possess or succeed to property on the death of the present possessor or at the end of a lease.",
+            "examples": [
+              "the reversion of property"
+            ]
+          },
+          {
+            "definition": "a property to which someone has the right of reversion.",
+            "examples": [
+              "plural noun: reversions"
+            ]
+          },
+          {
+            "definition": "the right of succession to an office or post after the death or retirement of the holder.",
+            "examples": [
+              "he was given a promise of the reversion of Boraston's job"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

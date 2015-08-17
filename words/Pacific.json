@@ -1,0 +1,99 @@
+[
+  {
+    "word": "pacific",
+    "syllables": [
+      "pa",
+      "cif",
+      "ic"
+    ],
+    "pronunciation": "pəˈsifik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "pacific"
+          },
+          {
+            "part": "adjective",
+            "variant": "Pacific"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "peaceful in character or intent.",
+            "examples": [
+              "a pacific gesture"
+            ],
+            "synonyms": [
+              "peace-loving",
+              "peaceable",
+              "pacifist",
+              "nonviolent",
+              "nonaggressive",
+              "nonbelligerent",
+              "unwarlike",
+              "antiwar More\"a pacific community\"conciliatory",
+              "peacemaking",
+              "placatory",
+              "propitiatory",
+              "appeasing",
+              "mollifying",
+              "mediatory",
+              "dovish; formalirenic \"their pacific intentions\""
+            ],
+            "antonyms": [
+              "aggressive",
+              "belligerent",
+              "warmongering"
+            ]
+          },
+          {
+            "definition": "of or relating to the Pacific Ocean.",
+            "examples": [
+              "the Pacific War"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "singular proper noun",
+            "variant": "Pacific"
+          },
+          {
+            "part": "noun",
+            "variant": "the Pacific"
+          },
+          {
+            "part": "noun",
+            "variant": "pacific"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pacifics"
+          },
+          {
+            "part": "noun",
+            "variant": "Pacific"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Pacifics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for Pacific Ocean."
+          },
+          {
+            "definition": "a steam locomotive of 4-6-2 wheel arrangement."
+          }
+        ]
+      }
+    ]
+  }
+]

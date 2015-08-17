@@ -1,0 +1,53 @@
+[
+  {
+    "word": "discrepancy",
+    "syllables": [
+      "dis",
+      "crep",
+      "an",
+      "cy"
+    ],
+    "pronunciation": "ˌdisˈkrepənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "discrepancy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "discrepancies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a lack of compatibility or similarity between two or more facts.",
+            "examples": [
+              "there's a discrepancy between your account and his"
+            ],
+            "synonyms": [
+              "difference",
+              "disparity",
+              "variance",
+              "variation",
+              "deviation",
+              "divergence",
+              "disagreement",
+              "inconsistency",
+              "dissimilarity",
+              "mismatch",
+              "discordance",
+              "incompatibility",
+              "conflict \"the discrepancy between the two sets of figures\""
+            ],
+            "antonyms": [
+              "correspondence"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

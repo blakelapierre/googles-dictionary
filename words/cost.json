@@ -1,0 +1,148 @@
+[
+  {
+    "word": "cost",
+    "syllables": [
+      "cost"
+    ],
+    "pronunciation": "kôst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cost"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "costs"
+          },
+          {
+            "part": "past tense",
+            "variant": "cost"
+          },
+          {
+            "part": "past participle",
+            "variant": "cost"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "costing"
+          },
+          {
+            "part": "past tense",
+            "variant": "costed"
+          },
+          {
+            "part": "past participle",
+            "variant": "costed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an object or an action) require the payment of (a specified sum of money) before it can be acquired or done.",
+            "examples": [
+              "each issue of the magazine costs $2.25"
+            ],
+            "synonyms": [
+              "be priced at",
+              "sell for",
+              "be valued at",
+              "fetch",
+              "come to",
+              "amount to; Moreinformalset someone back",
+              "go for \"the chair costs $186\""
+            ]
+          },
+          {
+            "definition": "cause the loss of.",
+            "examples": [
+              "driving at more than double the speed limit cost the woman her driving license"
+            ]
+          },
+          {
+            "definition": "be expensive for (someone).",
+            "examples": [
+              "if you want to own an island, it'll cost you"
+            ]
+          },
+          {
+            "definition": "estimate the price of.",
+            "examples": [
+              "it is their job to plan and cost a media schedule for the campaign"
+            ],
+            "synonyms": [
+              "put a price on",
+              "price",
+              "value",
+              "put a value on",
+              "put a figure on \"the proposal has not yet been costed\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cost"
+          },
+          {
+            "part": "plural noun",
+            "variant": "costs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an amount that has to be paid or spent to buy or obtain something.",
+            "examples": [
+              "we are able to cover the cost of the event"
+            ],
+            "synonyms": [
+              "price",
+              "asking price",
+              "market price",
+              "selling price",
+              "unit price",
+              "fee",
+              "tariff",
+              "fare",
+              "toll",
+              "levy",
+              "charge",
+              "rental; Morevalue",
+              "valuation",
+              "quotation",
+              "rate",
+              "worth; informal",
+              "damage \"the cost of the equipment\"expenses",
+              "disbursements",
+              "overheads",
+              "running costs",
+              "operating costs",
+              "fixed costs; expenditure",
+              "spending",
+              "outlay \"we need to make $10",
+              "000 to cover our costs\""
+            ]
+          },
+          {
+            "definition": "the effort, loss, or sacrifice necessary to achieve or obtain something.",
+            "examples": [
+              "she averted a train accident at the cost of her life"
+            ],
+            "synonyms": [
+              "sacrifice",
+              "loss",
+              "expense",
+              "penalty",
+              "toll",
+              "price \"the human cost of the conflict\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

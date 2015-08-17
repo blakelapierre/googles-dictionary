@@ -1,0 +1,512 @@
+[
+  {
+    "word": "break",
+    "syllables": [
+      "break"
+    ],
+    "pronunciation": "brāk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "breaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "separate or cause to separate into pieces as a result of a blow, shock, or strain.",
+            "examples": [
+              "the rope broke with a loud snap"
+            ],
+            "synonyms": [
+              "shatter",
+              "smash",
+              "crack",
+              "snap",
+              "fracture",
+              "fragment",
+              "splinter",
+              "fall to bits",
+              "fall to pieces; Moresplit",
+              "burst; informalbust \"the mirror broke\""
+            ]
+          },
+          {
+            "definition": "sustain an injury involving the fracture of a bone or bones in a part of the body.",
+            "examples": [
+              "she had broken her leg in two places"
+            ],
+            "synonyms": [
+              "fracture",
+              "crack \"she had broken her leg\""
+            ],
+            "antonyms": [
+              "mend"
+            ]
+          },
+          {
+            "definition": "cause a cut or graze in (the skin).",
+            "examples": [
+              "the bite had scarcely broken the skin"
+            ],
+            "synonyms": [
+              "pierce",
+              "puncture",
+              "penetrate",
+              "perforate; cut \"the bite had barely broken the skin\""
+            ]
+          },
+          {
+            "definition": "make or become inoperative.",
+            "examples": [
+              "the machine has broken, and they can't fix it until next week"
+            ],
+            "synonyms": [
+              "stop working",
+              "break down",
+              "give out",
+              "go wrong",
+              "malfunction",
+              "crash; Moreinformalgo kaput",
+              "conk out",
+              "go/be on the blink",
+              "go/be on the fritz",
+              "give up the ghost \"the coffee machine has broken\""
+            ]
+          },
+          {
+            "definition": "(of the amniotic fluid surrounding a fetus) be or cause to be discharged when the sac is ruptured in the first stages of labor.",
+            "examples": [
+              "she realized her water had broken"
+            ]
+          },
+          {
+            "definition": "open (a safe) forcibly."
+          },
+          {
+            "definition": "use (a piece of paper currency) to pay for something and receive change out of the transaction.",
+            "examples": [
+              "she had to break a ten"
+            ]
+          },
+          {
+            "definition": "(of two boxers or wrestlers) come out of a clinch, typically at the referee's command.",
+            "examples": [
+              "I was acting as referee and telling them to break"
+            ]
+          },
+          {
+            "definition": "unfurl (a flag or sail)."
+          },
+          {
+            "definition": "succeed in deciphering (a code).",
+            "examples": [
+              "decipher, decode, decrypt, unravel, work out; Moreinformalfigure out, crack \"he broke the encryption code\"Morefigure out, crack he broke the encryption code"
+            ]
+          },
+          {
+            "definition": "open (a shotgun or rifle) at the breech."
+          },
+          {
+            "definition": "disprove (an alibi)."
+          },
+          {
+            "definition": "invalidate (a will) through legal process."
+          },
+          {
+            "definition": "interrupt (a continuity, sequence, or course).",
+            "examples": [
+              "the new government broke the pattern of growth"
+            ],
+            "synonyms": [
+              "interrupt",
+              "disturb",
+              "interfere with \"his concentration was broken\""
+            ]
+          },
+          {
+            "definition": "put an end to (a silence) by speaking or making contact."
+          },
+          {
+            "definition": "make a pause in (a journey).",
+            "examples": [
+              "we will break our journey in Venice"
+            ]
+          },
+          {
+            "definition": "stop proceedings in order to have a pause or vacation.",
+            "examples": [
+              "at mid-morning they broke for coffee"
+            ],
+            "synonyms": [
+              "stop",
+              "pause",
+              "have a rest",
+              "recess; Moreinformaltake a breather",
+              "take five \"they broke for coffee\""
+            ],
+            "antonyms": [
+              "resume"
+            ]
+          },
+          {
+            "definition": "lessen the impact of (a fall).",
+            "examples": [
+              "she put out an arm to break her fall"
+            ],
+            "synonyms": [
+              "cushion",
+              "soften the impact of",
+              "take the edge off \"a pile of carpets broke his fall\""
+            ]
+          },
+          {
+            "definition": "stop oneself from being subject to (a habit).",
+            "examples": [
+              "give up, relinquish, drop; Moreinformalkick, shake, quit \"habits are difficult to break\"Morekick, shake, quit habits are difficult to break"
+            ]
+          },
+          {
+            "definition": "put an end to (a tie in a game) by making a score."
+          },
+          {
+            "definition": "(chiefly of an attacking player or team, or of a military force) make a rush or dash in a particular direction.",
+            "examples": [
+              "the flight broke to the right and formed a defensive circle"
+            ]
+          },
+          {
+            "definition": "surpass (a record).",
+            "examples": [
+              "the movie broke box-office records"
+            ],
+            "synonyms": [
+              "exceed",
+              "surpass",
+              "beat",
+              "better",
+              "cap",
+              "top",
+              "outdo",
+              "outstrip",
+              "eclipse \"the movie broke box-office records\""
+            ]
+          },
+          {
+            "definition": "disconnect or interrupt (an electrical circuit)."
+          },
+          {
+            "definition": "(of a pitched baseball) curve or drop on its way toward the batter."
+          },
+          {
+            "definition": "(of the ball) rebound unpredictably.",
+            "examples": [
+              "the ball broke to Craig but his shot rebounded from the post"
+            ]
+          },
+          {
+            "definition": "(of a bowled cricket ball) change direction on bouncing, due to spin."
+          },
+          {
+            "definition": "fail to observe (a law, regulation, or agreement).",
+            "examples": [
+              "the district attorney says she will prosecute retailers who break the law"
+            ],
+            "synonyms": [
+              "contravene",
+              "violate",
+              "fail to observe",
+              "fail to comply with",
+              "infringe",
+              "breach; Moredefy",
+              "flout",
+              "disobey",
+              "fly in the face of \"traders who break the law\""
+            ],
+            "antonyms": [
+              "abide by",
+              "keep"
+            ]
+          },
+          {
+            "definition": "fail to continue with (a self-imposed discipline).",
+            "examples": [
+              "diets started without preparation are broken all the time"
+            ]
+          },
+          {
+            "definition": "crush the emotional strength, spirit, or resistance of.",
+            "examples": [
+              "the idea was to better the prisoners, not to break them"
+            ]
+          },
+          {
+            "definition": "(of a person's emotional strength) give way.",
+            "examples": [
+              "her self-control finally broke"
+            ],
+            "synonyms": [
+              "give way",
+              "crack",
+              "cave in",
+              "yield",
+              "go to pieces \"her self-control finally broke\""
+            ]
+          },
+          {
+            "definition": "destroy the power of (a movement or organization).",
+            "examples": [
+              "destroy, crush, quash, defeat, vanquish, overcome, overpower, overwhelm, suppress, cripple; Moreweaken, subdue, cow, undermine \"the strategies used to break the union\"Moreweaken, subdue, cow, undermine the strategies used to break the union"
+            ]
+          },
+          {
+            "definition": "destroy the effectiveness of (a strike), typically by bringing in other people to replace the striking workers."
+          },
+          {
+            "definition": "tame or train (a horse)."
+          },
+          {
+            "definition": "undergo a change or enter a new state, in particular."
+          },
+          {
+            "definition": "(of the weather) change suddenly.",
+            "examples": [
+              "the weather broke, and thunder rumbled through a leaden sky"
+            ],
+            "synonyms": [
+              "change",
+              "alter",
+              "shift \"the weather broke\""
+            ]
+          },
+          {
+            "definition": "(of a storm) begin violently."
+          },
+          {
+            "definition": "(of dawn or day) begin with the sun rising.",
+            "examples": [
+              "dawn was just breaking"
+            ],
+            "synonyms": [
+              "dawn",
+              "begin",
+              "start",
+              "emerge",
+              "appear \"the day broke fair and cloudless\""
+            ]
+          },
+          {
+            "definition": "(of clouds) move apart and begin to disperse."
+          },
+          {
+            "definition": "(of waves) curl over and dissolve into foam.",
+            "examples": [
+              "the Caribbean sea breaking gently on the shore"
+            ],
+            "synonyms": [
+              "crash",
+              "dash",
+              "beat",
+              "pound",
+              "lash \"waves broke against the rocks\""
+            ]
+          },
+          {
+            "definition": "(of the voice) falter and change tone, due to emotion.",
+            "examples": [
+              "her voice broke as she relived the experience"
+            ],
+            "synonyms": [
+              "falter",
+              "quaver",
+              "quiver",
+              "tremble",
+              "shake \"her voice broke as she relived the experience\""
+            ]
+          },
+          {
+            "definition": "(of a boy's voice) change in tone and register at puberty."
+          },
+          {
+            "definition": "(of a vowel) develop into a diphthong, under the influence of an adjacent sound.",
+            "examples": [
+              "breaking due to a following r or h"
+            ]
+          },
+          {
+            "definition": "(of prices on the stock exchange) fall sharply."
+          },
+          {
+            "definition": "(of news or a scandal) suddenly become public.",
+            "examples": [
+              "since the news broke I've received thousands of wonderful letters"
+            ],
+            "synonyms": [
+              "erupt",
+              "break out \"a political scandal broke\""
+            ]
+          },
+          {
+            "definition": "make bad news known to someone.",
+            "examples": [
+              "reveal, disclose, divulge, impart, tell; Moreannounce, release \"he tried to break the news gently\"Moreannounce, release he tried to break the news gently"
+            ]
+          },
+          {
+            "definition": "make the first stroke at the beginning of a game of billiards, pool, or snooker."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "breaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an interruption of continuity or uniformity.",
+            "examples": [
+              "the magazine has been published without a break since 1950"
+            ],
+            "synonyms": [
+              "interruption",
+              "interval",
+              "gap",
+              "hiatus; Morediscontinuation",
+              "suspension",
+              "disruption",
+              "cutoff; stop",
+              "stoppage",
+              "cessation \"the magazine has been published without a break since 1950\""
+            ]
+          },
+          {
+            "definition": "an act of separating oneself from a state of affairs.",
+            "examples": [
+              "a break with the past"
+            ]
+          },
+          {
+            "definition": "a change in the weather.",
+            "examples": [
+              "change, alteration, variation a break in the weather"
+            ]
+          },
+          {
+            "definition": "a change of line, paragraph, or page.",
+            "examples": [
+              "dotted lines on the screen show page breaks"
+            ]
+          },
+          {
+            "definition": "a curve or drop in the path of a pitched baseball."
+          },
+          {
+            "definition": "a change of tone in the voice due to emotion.",
+            "examples": [
+              "there was a break in her voice now"
+            ]
+          },
+          {
+            "definition": "an interruption in an electrical circuit."
+          },
+          {
+            "definition": "a rush or dash in a particular direction, especially by an attacking player or team.",
+            "examples": [
+              "he made a bounce pass for a basket on the break in the second quarter"
+            ]
+          },
+          {
+            "definition": "a breakout, especially from prison."
+          },
+          {
+            "definition": "a sudden decrease, typically in prices."
+          },
+          {
+            "definition": "an opportunity or chance, especially one leading to professional success.",
+            "examples": [
+              "his big break came when a critic gave him a rave review"
+            ],
+            "synonyms": [
+              "opportunity",
+              "chance",
+              "opening \"the actress got her first break in 1951\""
+            ]
+          },
+          {
+            "definition": "the winning of a game against an opponent's serve.",
+            "examples": [
+              "noun: break of serve; plural noun: breaks of serve"
+            ]
+          },
+          {
+            "definition": "a pause in work or during an activity or event.",
+            "examples": [
+              "I need a break from mental activity"
+            ],
+            "synonyms": [
+              "rest",
+              "respite",
+              "recess; Morestop",
+              "pause; interval",
+              "intermission; informalbreather",
+              "time out",
+              "down time; coffee break \"let's have a break\""
+            ]
+          },
+          {
+            "definition": "a short vacation.",
+            "examples": [
+              "the Christmas break"
+            ],
+            "synonyms": [
+              "time off",
+              "vacation",
+              "holiday",
+              "leave",
+              "spring break; Moreinformalgetaway",
+              "staycation \"a weekend break\""
+            ]
+          },
+          {
+            "definition": "a short solo or instrumental passage in jazz or popular music."
+          },
+          {
+            "definition": "a gap or opening.",
+            "examples": [
+              "the spectacular vistas occasionally offered by a break in the rain forest"
+            ],
+            "synonyms": [
+              "rift",
+              "schism",
+              "split",
+              "breakup",
+              "severance",
+              "rupture \"a break in diplomatic relations\""
+            ]
+          },
+          {
+            "definition": "an instance of breaking; the point where something is broken.",
+            "examples": [
+              "a break in the valve was being repaired"
+            ]
+          },
+          {
+            "definition": "a player's turn to make the opening shot of a game or a rack."
+          },
+          {
+            "definition": "a consecutive series of successful shots, scoring a specified number of points.",
+            "examples": [
+              "a break of 83 put him in front for the first time"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

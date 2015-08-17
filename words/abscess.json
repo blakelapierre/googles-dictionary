@@ -1,0 +1,33 @@
+[
+  {
+    "word": "abscess",
+    "syllables": [
+      "ab",
+      "scess"
+    ],
+    "pronunciation": "ˈabˌses",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "abscess"
+          },
+          {
+            "part": "plural noun",
+            "variant": "abscesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a swollen area within body tissue, containing an accumulation of pus.",
+            "examples": [
+              "ulcer, ulceration, cyst, boil, blister, sore, pustule, carbuncle, pimple, wen, whitlow, canker; Moreinflammation, infection, eruption \"the abscess is what's causing the pain\"Moreinflammation, infection, eruption the abscess is what's causing the pain"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

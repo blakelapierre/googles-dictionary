@@ -1,0 +1,80 @@
+[
+  {
+    "word": "dissatisfied",
+    "syllables": [
+      "dis",
+      "sat",
+      "is",
+      "fied"
+    ],
+    "pronunciation": "di(s)ˈsadəsˌfīd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "dissatisfied"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not content or happy with something.",
+            "examples": [
+              "small investors dissatisfied with rates on certificates of deposit"
+            ],
+            "synonyms": [
+              "discontented",
+              "malcontent",
+              "unsatisfied",
+              "disappointed",
+              "disaffected",
+              "unhappy",
+              "displeased; Moredisgruntled",
+              "aggrieved",
+              "vexed",
+              "annoyed",
+              "irritated",
+              "angry",
+              "exasperated",
+              "fed up \"no one could handle a dissatisfied customer better than Angie\""
+            ],
+            "antonyms": [
+              "contented"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dissatisfy",
+    "syllables": [
+      "dis",
+      "sat",
+      "is",
+      "fy"
+    ],
+    "pronunciation": "disˈsadəsˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "dissatisfied"
+          },
+          {
+            "part": "past participle",
+            "variant": "dissatisfied"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fail to satisfy (someone)."
+          }
+        ]
+      }
+    ]
+  }
+]

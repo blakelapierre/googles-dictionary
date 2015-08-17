@@ -1,0 +1,63 @@
+[
+  {
+    "word": "forerunner",
+    "syllables": [
+      "fore",
+      "run",
+      "ner"
+    ],
+    "pronunciation": "ˈfôrˌrənər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "forerunner"
+          },
+          {
+            "part": "plural noun",
+            "variant": "forerunners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that precedes the coming or development of someone or something else.",
+            "examples": [
+              "the icebox was a forerunner of today's refrigerator"
+            ],
+            "synonyms": [
+              "predecessor",
+              "precursor",
+              "antecedent",
+              "ancestor",
+              "forebear; prototype \"archosaurs were the forerunners of dinosaurs\""
+            ],
+            "antonyms": [
+              "descendant"
+            ]
+          },
+          {
+            "definition": "a sign or warning of something to come.",
+            "examples": [
+              "overcast mornings are the sure forerunners of steady rain"
+            ],
+            "synonyms": [
+              "prelude",
+              "herald",
+              "harbinger",
+              "precursor",
+              "sign",
+              "signal",
+              "indication",
+              "warning \"a headache may be the forerunner of other complaints\""
+            ]
+          },
+          {
+            "definition": "an advance messenger."
+          }
+        ]
+      }
+    ]
+  }
+]

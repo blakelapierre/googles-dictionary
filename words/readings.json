@@ -1,0 +1,104 @@
+[
+  {
+    "word": "reading",
+    "syllables": [
+      "read",
+      "ing"
+    ],
+    "pronunciation": "ˈrēdiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "readings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or skill of reading written or printed matter silently or aloud.",
+            "examples": [
+              "suggestions for further reading"
+            ],
+            "synonyms": [
+              "perusal",
+              "study",
+              "scan",
+              "scanning; Morebrowse (through)",
+              "look (through)",
+              "glance (through)",
+              "leaf (through)",
+              "skim (through) \"a cursory reading of the financial pages\""
+            ]
+          },
+          {
+            "definition": "written or printed matter that can be read.",
+            "examples": [
+              "his main reading was detective stories"
+            ]
+          },
+          {
+            "definition": "knowledge of literature.",
+            "examples": [
+              "a man of wide reading"
+            ],
+            "synonyms": [
+              "book learning",
+              "learning",
+              "scholarship",
+              "education",
+              "erudition \"a man of wide reading\""
+            ]
+          },
+          {
+            "definition": "an occasion at which poetry or other pieces of literature are read aloud to an audience."
+          },
+          {
+            "definition": "a piece of literature or passage of scripture read aloud to a group of people.",
+            "examples": [
+              "readings from the Bible"
+            ],
+            "synonyms": [
+              "passage",
+              "lesson; Moresection",
+              "piece; recital",
+              "recitation \"readings from the Bible\""
+            ]
+          },
+          {
+            "definition": "an interpretation.",
+            "examples": [
+              "feminist readings of Goethe"
+            ],
+            "synonyms": [
+              "interpretation",
+              "construal",
+              "understanding",
+              "explanation",
+              "analysis \"my reading of the situation\""
+            ]
+          },
+          {
+            "definition": "a figure or amount shown by a meter or other measuring instrument.",
+            "examples": [
+              "radiation readings were taken every hour"
+            ],
+            "synonyms": [
+              "record",
+              "figure",
+              "indication",
+              "measurement \"a meter reading\""
+            ]
+          },
+          {
+            "definition": "a stage of debate in a parliament through which a bill must pass before it can become law.",
+            "examples": [
+              "the bill returns to the House for its final reading next week"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

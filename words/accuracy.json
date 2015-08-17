@@ -1,0 +1,54 @@
+[
+  {
+    "word": "accuracy",
+    "syllables": [
+      "ac",
+      "cu",
+      "ra",
+      "cy"
+    ],
+    "pronunciation": "ˈakyərəsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "accuracy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality or state of being correct or precise.",
+            "examples": [
+              "we have confidence in the accuracy of the statistics"
+            ],
+            "synonyms": [
+              "correctness",
+              "precision",
+              "preciseness",
+              "exactness",
+              "exactitude; Morefactuality",
+              "literalness",
+              "fidelity",
+              "faithfulness",
+              "truth",
+              "truthfulness",
+              "veracity",
+              "closeness",
+              "authenticity",
+              "realism",
+              "verisimilitude \"the accuracy of their lead story is being questioned\""
+            ]
+          },
+          {
+            "definition": "the degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard.",
+            "examples": [
+              "plural noun: accuracies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

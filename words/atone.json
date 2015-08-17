@@ -1,0 +1,58 @@
+[
+  {
+    "word": "atone",
+    "syllables": [
+      "a",
+      "tone"
+    ],
+    "pronunciation": "əˈtōn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "atone"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "atones"
+          },
+          {
+            "part": "past tense",
+            "variant": "atoned"
+          },
+          {
+            "part": "past participle",
+            "variant": "atoned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "atoning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make amends or reparation.",
+            "examples": [
+              "he was being helpful, to atone for his past mistakes"
+            ],
+            "synonyms": [
+              "make amends for",
+              "make reparation for",
+              "make restitution for",
+              "make up for",
+              "compensate for",
+              "pay for",
+              "recompense for",
+              "expiate",
+              "redress",
+              "make good",
+              "offset; do penance for \"how shall I atone for my mistakes?\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

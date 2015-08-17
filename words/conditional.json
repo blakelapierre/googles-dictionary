@@ -1,0 +1,73 @@
+[
+  {
+    "word": "conditional",
+    "syllables": [
+      "con",
+      "di",
+      "tion",
+      "al"
+    ],
+    "pronunciation": "kənˈdiSH(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "conditional"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "subject to one or more conditions or requirements being met; made or granted on certain terms.",
+            "examples": [
+              "Western aid was only granted conditional on further reform"
+            ],
+            "synonyms": [
+              "subject to",
+              "dependent on",
+              "contingent on",
+              "based on",
+              "determined by",
+              "controlled by",
+              "tied to More\"their approval is conditional on success\"contingent",
+              "dependent",
+              "qualified",
+              "with reservations",
+              "limited",
+              "provisional",
+              "provisory \"a conditional offer\""
+            ]
+          },
+          {
+            "definition": "(of a clause, phrase, conjunction, or verb form) expressing a condition."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "conditional"
+          },
+          {
+            "part": "plural noun",
+            "variant": "conditionals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a conditional clause or conjunction."
+          },
+          {
+            "definition": "a statement or sentence containing a conditional clause."
+          },
+          {
+            "definition": "the conditional mood of a verb, for example should die in if I should die."
+          }
+        ]
+      }
+    ]
+  }
+]

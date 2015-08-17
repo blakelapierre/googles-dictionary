@@ -1,0 +1,52 @@
+[
+  {
+    "word": "lightning",
+    "syllables": [
+      "light",
+      "ning"
+    ],
+    "pronunciation": "ˈlītniNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lightning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder.",
+            "examples": [
+              "a tremendous flash of lightning"
+            ]
+          },
+          {
+            "definition": "a flash or discharge of lightning.",
+            "examples": [
+              "plural noun: lightnings"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "lightning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very quick.",
+            "examples": [
+              "a lightning cure for his hangover"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

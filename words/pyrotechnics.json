@@ -1,0 +1,40 @@
+[
+  {
+    "word": "pyrotechnics",
+    "syllables": [
+      "py",
+      "ro",
+      "tech",
+      "nics"
+    ],
+    "pronunciation": "ˌpīrəˈtekniks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pyrotechnics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fireworks display."
+          },
+          {
+            "definition": "a brilliant performance or display, especially of a specified skill.",
+            "examples": [
+              "he thrilled his audience with vocal pyrotechnics"
+            ]
+          },
+          {
+            "definition": "the art of making or displaying fireworks.",
+            "examples": [
+              "noun: pyrotechnics"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

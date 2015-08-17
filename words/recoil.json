@@ -1,0 +1,52 @@
+[
+  {
+    "word": "recoil",
+    "syllables": [
+      "re",
+      "coil"
+    ],
+    "pronunciation": "rəˈkoilˈrēˌkoilrəˈkoil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "recoil"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "recoils"
+          },
+          {
+            "part": "past tense",
+            "variant": "recoiled"
+          },
+          {
+            "part": "past participle",
+            "variant": "recoiled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "recoiling"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "recoil"
+          },
+          {
+            "part": "plural noun",
+            "variant": "recoils"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "flattery",
+    "syllables": [
+      "flat",
+      "ter",
+      "y"
+    ],
+    "pronunciation": "ˈfladərē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "flattery"
+          },
+          {
+            "part": "plural noun",
+            "variant": "flatteries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "excessive and insincere praise, especially that given to further one's own interests.",
+            "examples": [
+              "his healthy distrust of courtiers' flattery"
+            ],
+            "synonyms": [
+              "praise",
+              "adulation",
+              "compliments",
+              "blandishments",
+              "honeyed words; Morefawning",
+              "blarney",
+              "cajolery; formalencomium; informalsweet talk",
+              "soft soap",
+              "snow job",
+              "buttering up",
+              "toadying \"she's simply not vain enough to fall for your flattery\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "word": "reuse",
+    "syllables": [
+      "re",
+      "use"
+    ],
+    "pronunciation": "rēˈyo͞ozrēˈyo͞os",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reuse"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reuses"
+          },
+          {
+            "part": "past tense",
+            "variant": "reused"
+          },
+          {
+            "part": "past participle",
+            "variant": "reused"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "reusing"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reuse"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

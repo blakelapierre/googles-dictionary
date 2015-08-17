@@ -1,0 +1,187 @@
+[
+  {
+    "word": "rent",
+    "syllables": [
+      "rent"
+    ],
+    "pronunciation": "rent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tenant's regular payment to a landlord for the use of property or land.",
+            "examples": [
+              "rental, fee, lease I can't afford to pay the rent"
+            ]
+          },
+          {
+            "definition": "a sum paid for the hire of equipment."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rent"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rents"
+          },
+          {
+            "part": "past tense",
+            "variant": "rented"
+          },
+          {
+            "part": "past participle",
+            "variant": "rented"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "renting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pay someone for the use of (something, typically property, land, or a car).",
+            "examples": [
+              "they rented a house together in Spain"
+            ],
+            "synonyms": [
+              "lease",
+              "charter \"she rented a car\""
+            ]
+          },
+          {
+            "definition": "(of an owner) let someone use (something) in return for payment.",
+            "examples": [
+              "he purchased a large tract of land and rented out most of it to local farmers"
+            ],
+            "synonyms": [
+              "let (out)",
+              "lease (out)",
+              "hire (out); Moresublet",
+              "sublease \"why don't you rent it out ?\""
+            ]
+          },
+          {
+            "definition": "be let or hired out at a specified rate.",
+            "examples": [
+              "skis or snowboards rent for $60–80 for six days"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rent",
+    "syllables": [
+      "rent"
+    ],
+    "pronunciation": "rent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large tear in a piece of fabric.",
+            "examples": [
+              "rip, tear, split, hole, slash, slit More\"the rent in his pants\"gorge, chasm, fault, rift, fissure, crevasse \"a vast rent in the mountains\"Morethe rent in his pantsgorge, chasm, fault, rift, fissure, crevasse a vast rent in the mountains"
+            ]
+          },
+          {
+            "definition": "an opening or gap resembling a tear in a piece of fabric.",
+            "examples": [
+              "they stared at the rents in the clouds"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rent",
+    "syllables": [
+      "rent"
+    ],
+    "pronunciation": "rent",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "rend",
+    "syllables": [
+      "rend"
+    ],
+    "pronunciation": "rend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "rent"
+          },
+          {
+            "part": "past participle",
+            "variant": "rent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tear (something) into two or more pieces.",
+            "examples": [
+              "snapping teeth that would rend human flesh to shreds"
+            ],
+            "synonyms": [
+              "tear/rip apart",
+              "tear/rip in two",
+              "split",
+              "rupture",
+              "sever; Moreliterarytear/rip asunder",
+              "sunder; raredissever \"a crisis threatened to rend the Atlantic alliance\""
+            ]
+          },
+          {
+            "definition": "wrench (something) violently.",
+            "examples": [
+              "he rent the branch out of the tree"
+            ]
+          },
+          {
+            "definition": "cause great emotional pain to (a person or their heart)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "word": "infuriate",
+    "syllables": [
+      "in",
+      "fu",
+      "ri",
+      "ate"
+    ],
+    "pronunciation": "inˈfyo͞orēˌāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "infuriate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "infuriates"
+          },
+          {
+            "part": "past tense",
+            "variant": "infuriated"
+          },
+          {
+            "part": "past participle",
+            "variant": "infuriated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "infuriating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (someone) extremely angry and impatient.",
+            "examples": [
+              "her silences infuriated him"
+            ],
+            "synonyms": [
+              "enrage",
+              "incense",
+              "anger",
+              "inflame; Moreexasperate",
+              "antagonize",
+              "provoke",
+              "rile",
+              "annoy",
+              "irritate",
+              "aggravate",
+              "madden",
+              "nettle",
+              "gall",
+              "irk",
+              "vex",
+              "get on someone's nerves",
+              "try someone's patience",
+              "rankle; informalmake someone see red",
+              "get someone's back up",
+              "make someone's blood boil",
+              "needle",
+              "ride",
+              "tick off",
+              "tee off",
+              "piss off",
+              "PO",
+              "wind up",
+              "get to",
+              "bug \"the governor's veto is likely to infuriate child-care providers statewide\"exasperating",
+              "maddening",
+              "annoying",
+              "irritating",
+              "irksome",
+              "vexatious",
+              "trying",
+              "tiresome; informalaggravating",
+              "pesky",
+              "infernal \"it's infuriating that they leave that dog outside to bark all day\""
+            ],
+            "antonyms": [
+              "please",
+              "humor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

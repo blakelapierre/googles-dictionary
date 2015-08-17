@@ -1,0 +1,59 @@
+[
+  {
+    "word": "motto",
+    "syllables": [
+      "mot",
+      "to"
+    ],
+    "pronunciation": "ˈmädō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "motto"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mottoes"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mottos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a short sentence or phrase chosen as encapsulating the beliefs or ideals guiding an individual, family, or institution.",
+            "examples": [
+              "the school motto, “Serve and obey”"
+            ],
+            "synonyms": [
+              "maxim",
+              "saying",
+              "proverb",
+              "aphorism",
+              "adage",
+              "saw",
+              "axiom",
+              "apophthegm",
+              "formula",
+              "expression",
+              "phrase",
+              "dictum",
+              "precept; Moreslogan",
+              "catchphrase",
+              "mantra; truism",
+              "cliché",
+              "platitude \"the town's motto is \"Tolerance and Prosperity\"\""
+            ]
+          },
+          {
+            "definition": "a phrase that recurs throughout a musical work and has some symbolic significance."
+          }
+        ]
+      }
+    ]
+  }
+]

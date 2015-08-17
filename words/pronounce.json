@@ -1,0 +1,76 @@
+[
+  {
+    "word": "pronounce",
+    "syllables": [
+      "pro",
+      "nounce"
+    ],
+    "pronunciation": "prəˈnouns",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pronounce"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pronounces"
+          },
+          {
+            "part": "past tense",
+            "variant": "pronounced"
+          },
+          {
+            "part": "past participle",
+            "variant": "pronounced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pronouncing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make the sound of (a word or part of a word), typically in the correct or a particular way.",
+            "examples": [
+              "Gerry pronounced the hero's name “Cahoolin”"
+            ],
+            "synonyms": [
+              "say",
+              "enunciate",
+              "articulate",
+              "utter",
+              "voice",
+              "sound",
+              "vocalize",
+              "get one's tongue around \"his name is difficult to pronounce\""
+            ]
+          },
+          {
+            "definition": "declare or announce, typically formally or solemnly.",
+            "examples": [
+              "allow history to pronounce the verdict"
+            ],
+            "synonyms": [
+              "announce",
+              "proclaim",
+              "declare",
+              "affirm",
+              "assert; Morejudge",
+              "rule",
+              "decree \"the doctor pronounced that I had a virus\""
+            ]
+          },
+          {
+            "definition": "pass judgment or make a decision on.",
+            "examples": [
+              "the secretary of state will shortly pronounce on alternative measures"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "word": "inclusion",
+    "syllables": [
+      "in",
+      "clu",
+      "sion"
+    ],
+    "pronunciation": "inˈklo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inclusion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or state of including or of being included within a group or structure.",
+            "examples": [
+              "federal legislation now mandates the inclusion of students who are English language learners"
+            ]
+          },
+          {
+            "definition": "a person or thing that is included within a larger group or structure.",
+            "examples": [
+              "plural noun: inclusions"
+            ]
+          },
+          {
+            "definition": "a body or particle recognizably distinct from the substance in which it is embedded."
+          }
+        ]
+      }
+    ]
+  }
+]

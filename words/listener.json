@@ -1,0 +1,34 @@
+[
+  {
+    "word": "listener",
+    "syllables": [
+      "lis",
+      "ten",
+      "er"
+    ],
+    "pronunciation": "ˈlis(ə)nər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "listener"
+          },
+          {
+            "part": "plural noun",
+            "variant": "listeners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who listens, especially someone who does so in an attentive manner."
+          },
+          {
+            "definition": "a person listening to a radio station or program."
+          }
+        ]
+      }
+    ]
+  }
+]

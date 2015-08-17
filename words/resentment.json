@@ -1,0 +1,53 @@
+[
+  {
+    "word": "resentment",
+    "syllables": [
+      "re",
+      "sent",
+      "ment"
+    ],
+    "pronunciation": "rəˈzentmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "resentment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "resentments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bitter indignation at having been treated unfairly.",
+            "examples": [
+              "his resentment at being demoted"
+            ],
+            "synonyms": [
+              "bitterness",
+              "indignation",
+              "irritation",
+              "pique",
+              "dissatisfaction",
+              "disgruntlement",
+              "discontentment",
+              "discontent",
+              "resentfulness",
+              "bad feelings",
+              "hard feelings",
+              "ill will",
+              "acrimony",
+              "rancor",
+              "animosity",
+              "jaundice; Moreenvy",
+              "jealousy \"his success led to resentment from critics\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

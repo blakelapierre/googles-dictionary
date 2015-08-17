@@ -1,0 +1,35 @@
+[
+  {
+    "word": "marijuana",
+    "syllables": [
+      "ma",
+      "ri",
+      "jua",
+      "na"
+    ],
+    "pronunciation": "ˌmerəˈ(h)wänə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "marijuana"
+          },
+          {
+            "part": "noun",
+            "variant": "marihuana"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cannabis, especially as smoked in cigarettes.",
+            "examples": [
+              "cannabis, hashish, hemp, sinsemilla; Moreinformalpot, dope, grass, weed, Mary Jane, bud, hash, bhang, kef, ganja, locoweed; reefer, doob, spliff, toke, roach \"the illegal cultivation of marijuana\"Morepot, dope, grass, weed, Mary Jane, bud, hash, bhang, kef, ganja, locoweed; reefer, doob, spliff, toke, roach the illegal cultivation of marijuana"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

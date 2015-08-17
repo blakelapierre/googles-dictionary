@@ -1,0 +1,58 @@
+[
+  {
+    "word": "aggravate",
+    "syllables": [
+      "ag",
+      "gra",
+      "vate"
+    ],
+    "pronunciation": "ˈaɡrəˌvāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "aggravating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a problem, injury, or offense) worse or more serious.",
+            "examples": [
+              "military action would only aggravate the situation"
+            ]
+          },
+          {
+            "definition": "annoy or exasperate (someone), especially persistently.",
+            "examples": [
+              "the gesture aggravated me even more"
+            ],
+            "synonyms": [
+              "annoy",
+              "irritate",
+              "exasperate",
+              "bother",
+              "put out",
+              "nettle",
+              "provoke",
+              "antagonize",
+              "get on someone's nerves",
+              "ruffle (someone's feathers)",
+              "try someone's patience; Moreinformalpeeve",
+              "needle",
+              "bug",
+              "miff",
+              "get under someone's skin",
+              "tick off \"you don't have to aggravate people to get what you want\""
+            ],
+            "antonyms": [
+              "calm",
+              "conciliate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

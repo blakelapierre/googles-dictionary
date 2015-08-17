@@ -1,0 +1,110 @@
+[
+  {
+    "word": "fascinating",
+    "syllables": [
+      "fas",
+      "ci",
+      "nat",
+      "ing"
+    ],
+    "pronunciation": "ˈfasəˌnādiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "fascinating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extremely interesting.",
+            "examples": [
+              "fascinating facts"
+            ],
+            "synonyms": [
+              "interesting",
+              "captivating",
+              "engrossing",
+              "absorbing",
+              "enchanting",
+              "enthralling",
+              "spellbinding",
+              "riveting",
+              "engaging",
+              "compelling",
+              "compulsive",
+              "gripping",
+              "thrilling; Morealluring",
+              "tempting",
+              "irresistible; charming",
+              "attractive",
+              "intriguing",
+              "diverting",
+              "entertaining \"the book is a fascinating study of Southern schools during the Civil War\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fascinate",
+    "syllables": [
+      "fas",
+      "ci",
+      "nate"
+    ],
+    "pronunciation": "ˈfasəˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "fascinating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "draw irresistibly the attention and interest of (someone).",
+            "examples": [
+              "I've always been fascinated by other cultures"
+            ],
+            "synonyms": [
+              "interest",
+              "captivate",
+              "engross",
+              "absorb",
+              "enchant",
+              "enthrall",
+              "entrance",
+              "transfix",
+              "rivet",
+              "mesmerize",
+              "engage",
+              "compel; Morelure",
+              "tempt",
+              "entice",
+              "draw; charm",
+              "attract",
+              "intrigue",
+              "divert",
+              "entertain \"the space program fascinates me\""
+            ],
+            "antonyms": [
+              "bore"
+            ]
+          },
+          {
+            "definition": "(especially of a snake) deprive (a person or animal) of the ability to resist or escape by the power of a look or gaze.",
+            "examples": [
+              "the serpent fascinates its prey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

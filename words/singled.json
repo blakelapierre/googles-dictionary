@@ -1,0 +1,58 @@
+[
+  {
+    "word": "single",
+    "syllables": [
+      "sin",
+      "gle"
+    ],
+    "pronunciation": "ˈsiNGɡəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "singled"
+          },
+          {
+            "part": "past participle",
+            "variant": "singled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "choose someone or something from a group for special treatment.",
+            "examples": [
+              "one newspaper was singled out for criticism"
+            ],
+            "synonyms": [
+              "select",
+              "pick out",
+              "choose",
+              "decide on; Moretarget",
+              "earmark",
+              "mark out",
+              "separate out",
+              "set apart/aside \"her watercolors were singled out by the judges\""
+            ]
+          },
+          {
+            "definition": "hit a single.",
+            "examples": [
+              "Aaron singled to center"
+            ]
+          },
+          {
+            "definition": "cause (a run) to be scored by hitting a single.",
+            "examples": [
+              "they each singled in a run"
+            ]
+          },
+          {
+            "definition": "advance (a runner) by hitting a single."
+          }
+        ]
+      }
+    ]
+  }
+]

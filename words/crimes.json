@@ -1,0 +1,68 @@
+[
+  {
+    "word": "crime",
+    "syllables": [
+      "crime"
+    ],
+    "pronunciation": "krīm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "crimes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an action or omission that constitutes an offense that may be prosecuted by the state and is punishable by law.",
+            "examples": [
+              "shoplifting was a serious crime"
+            ],
+            "synonyms": [
+              "offense",
+              "unlawful act",
+              "illegal act",
+              "felony",
+              "misdemeanor",
+              "misdeed",
+              "wrong; informalno-no \"kidnapping is a very serious crime\""
+            ]
+          },
+          {
+            "definition": "illegal activities.",
+            "examples": [
+              "the victims of crime"
+            ],
+            "synonyms": [
+              "lawbreaking",
+              "delinquency",
+              "wrongdoing",
+              "criminality",
+              "misconduct",
+              "illegality",
+              "villainy; Moreinformalcrookedness; malfeasance \"the increase in crime\""
+            ]
+          },
+          {
+            "definition": "an action or activity that, although not illegal, is considered to be evil, shameful, or wrong.",
+            "examples": [
+              "they condemned apartheid as a crime against humanity"
+            ],
+            "synonyms": [
+              "sin",
+              "evil",
+              "immoral act",
+              "wrong",
+              "atrocity",
+              "abomination",
+              "disgrace",
+              "outrage \"a crime against humanity\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

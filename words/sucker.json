@@ -1,0 +1,105 @@
+[
+  {
+    "word": "sucker",
+    "syllables": [
+      "suck",
+      "er"
+    ],
+    "pronunciation": "ˈsəkər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sucker"
+          },
+          {
+            "part": "plural noun",
+            "variant": "suckers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that sucks, in particular."
+          },
+          {
+            "definition": "a flat or concave organ enabling an animal to cling to a surface by suction."
+          },
+          {
+            "definition": "the piston of a suction pump."
+          },
+          {
+            "definition": "a pipe through which liquid is drawn by suction."
+          },
+          {
+            "definition": "a gullible or easily deceived person."
+          },
+          {
+            "definition": "a person particularly susceptible to or fond of a specified thing.",
+            "examples": [
+              "I always was a sucker for a good fairy tale"
+            ]
+          },
+          {
+            "definition": "a thing or person not specified by name.",
+            "examples": [
+              "he's one strong sucker"
+            ]
+          },
+          {
+            "definition": "a shoot springing from the base of a tree or other plant, especially one arising from the root below ground level at some distance from the main stem or trunk."
+          },
+          {
+            "definition": "a side shoot from an axillary bud, as in tomato plants."
+          },
+          {
+            "definition": "a freshwater fish with thick lips that are used to suck up food from the bottom, native to North America and Asia."
+          },
+          {
+            "definition": "a lollipop."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sucker"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "suckers"
+          },
+          {
+            "part": "past tense",
+            "variant": "suckered"
+          },
+          {
+            "part": "past participle",
+            "variant": "suckered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "suckering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a plant) produce suckers.",
+            "examples": [
+              "it spread rapidly after being left undisturbed to sucker"
+            ]
+          },
+          {
+            "definition": "fool or trick (someone).",
+            "examples": [
+              "they got suckered into accepting responsibility"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

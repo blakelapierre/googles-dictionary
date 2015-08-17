@@ -1,0 +1,59 @@
+[
+  {
+    "word": "singularity",
+    "syllables": [
+      "sin",
+      "gu",
+      "lar",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌsiNGɡyəˈlerədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "singularity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state, fact, quality, or condition of being singular.",
+            "examples": [
+              "he believed in the singularity of all cultures"
+            ],
+            "synonyms": [
+              "uniqueness",
+              "distinctiveness \"the singularity of their concerns\""
+            ]
+          },
+          {
+            "definition": "a peculiarity or odd trait.",
+            "examples": [
+              "plural noun: singularities"
+            ],
+            "synonyms": [
+              "idiosyncrasy",
+              "quirk",
+              "foible",
+              "peculiarity",
+              "oddity",
+              "eccentricity \"his singularities\""
+            ]
+          },
+          {
+            "definition": "a point at which a function takes an infinite value, especially in space-time when matter is infinitely dense, as at the center of a black hole."
+          },
+          {
+            "definition": "a hypothetical moment in time when artificial intelligence and other technologies have become so advanced that humanity undergoes a dramatic and irreversible change.",
+            "examples": [
+              "maybe the singularity just happened, and we didn't notice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

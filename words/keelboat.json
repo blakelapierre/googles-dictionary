@@ -1,0 +1,41 @@
+[
+  {
+    "word": "keelboat",
+    "syllables": [
+      "keel",
+      "boat"
+    ],
+    "pronunciation": "ˈkēlbōt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "keelboat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "keelboats"
+          },
+          {
+            "part": "noun",
+            "variant": "keel-boat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "keel-boats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a yacht built with a permanent keel rather than a centerboard."
+          },
+          {
+            "definition": "a large, flat freight boat used on rivers."
+          }
+        ]
+      }
+    ]
+  }
+]

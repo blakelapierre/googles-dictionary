@@ -1,0 +1,68 @@
+[
+  {
+    "word": "worldwide",
+    "syllables": [
+      "world",
+      "wide"
+    ],
+    "pronunciation": "wərldˈwīd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "worldwide"
+          },
+          {
+            "part": "adjective",
+            "variant": "world-wide"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extending or reaching throughout the world.",
+            "examples": [
+              "worldwide sales of television rights"
+            ],
+            "synonyms": [
+              "global",
+              "international",
+              "intercontinental",
+              "universal; Moreubiquitous",
+              "extensive",
+              "widespread",
+              "far-reaching",
+              "wide-ranging",
+              "all-embracing \"a worldwide effort to combat AIDS\""
+            ],
+            "antonyms": [
+              "local"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "worldwide"
+          },
+          {
+            "part": "adverb",
+            "variant": "world-wide"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "throughout the world.",
+            "examples": [
+              "she travels worldwide as a consultant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

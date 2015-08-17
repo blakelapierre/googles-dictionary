@@ -1,0 +1,118 @@
+[
+  {
+    "word": "counsel",
+    "syllables": [
+      "coun",
+      "sel"
+    ],
+    "pronunciation": "ˈkounsəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "counsel"
+          },
+          {
+            "part": "plural noun",
+            "variant": "counsels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "advice, especially that given formally.",
+            "examples": [
+              "advice, guidance, counseling, direction, information; Morehints, recommendations, suggestions, guidelines, tips, pointers, warnings \"his wise counsel\"Morehints, recommendations, suggestions, guidelines, tips, pointers, warnings his wise counsel"
+            ]
+          },
+          {
+            "definition": "consultation, especially to seek or give advice."
+          },
+          {
+            "definition": "the lawyer or lawyers conducting a case.",
+            "examples": [
+              "the counsel for the defense"
+            ],
+            "synonyms": [
+              "lawyer",
+              "advocate",
+              "attorney",
+              "attorney-at-law",
+              "counselor; Moresolicitor",
+              "barrister \"the counsel for the defense\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "counsel"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "counsels"
+          },
+          {
+            "part": "past tense",
+            "variant": "counselled"
+          },
+          {
+            "part": "past participle",
+            "variant": "counselled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "counselling"
+          },
+          {
+            "part": "past tense",
+            "variant": "counseled"
+          },
+          {
+            "part": "past participle",
+            "variant": "counseled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "counseling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give advice to (someone).",
+            "examples": [
+              "he was counseled by his supporters to return to Germany"
+            ]
+          },
+          {
+            "definition": "give professional psychological help and advice to (someone).",
+            "examples": [
+              "he was being counseled for depression"
+            ]
+          },
+          {
+            "definition": "recommend (a course of action).",
+            "examples": [
+              "the athlete's coach counseled caution"
+            ],
+            "synonyms": [
+              "advise",
+              "recommend",
+              "direct",
+              "advocate",
+              "encourage",
+              "urge",
+              "warn",
+              "caution; Moreguide",
+              "give guidance \"he counseled the team to withdraw from the deal\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

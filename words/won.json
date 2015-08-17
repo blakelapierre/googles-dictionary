@@ -1,0 +1,144 @@
+[
+  {
+    "word": "won",
+    "syllables": [
+      "won"
+    ],
+    "pronunciation": "wən",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "won",
+    "syllables": [
+      "won"
+    ],
+    "pronunciation": "wän",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "won"
+          },
+          {
+            "part": "plural noun",
+            "variant": "won"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the basic monetary unit of North and South Korea, equal to 100 jun in North Korea and 100 jeon in South Korea."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "win",
+    "syllables": [
+      "win"
+    ],
+    "pronunciation": "win",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "won"
+          },
+          {
+            "part": "past participle",
+            "variant": "won"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be successful or victorious in (a contest or conflict).",
+            "examples": [
+              "the Mets have won four games in a row"
+            ],
+            "synonyms": [
+              "take",
+              "be the victor in",
+              "be the winner of",
+              "come first in",
+              "take first prize in",
+              "triumph in",
+              "be successful in More\"he won the race\"be the winner",
+              "come in first",
+              "be victorious",
+              "carry the day",
+              "win the day",
+              "come out on top",
+              "succeed",
+              "triumph",
+              "prevail \"Claire knew he would win\""
+            ],
+            "antonyms": [
+              "lose"
+            ]
+          },
+          {
+            "definition": "acquire or secure as a result of a contest, conflict, bet, or other endeavor.",
+            "examples": [
+              "there are hundreds of prizes to be won"
+            ],
+            "synonyms": [
+              "secure",
+              "gain",
+              "garner",
+              "collect",
+              "pick up",
+              "walk away/off with",
+              "carry off; Moreinformalland",
+              "net",
+              "bag",
+              "scoop \"he won a cash prize\""
+            ]
+          },
+          {
+            "definition": "gain (a person's attention, support, or love), typically gradually or by effort.",
+            "examples": [
+              "you will find it difficult to win back their attention"
+            ],
+            "synonyms": [
+              "captivate",
+              "steal",
+              "snare",
+              "capture \"she won his heart\""
+            ]
+          },
+          {
+            "definition": "gain the support or favor of someone by action or persuasion.",
+            "examples": [
+              "her sense of humor had won him over at once"
+            ]
+          },
+          {
+            "definition": "manage to succeed or achieve something by effort.",
+            "examples": [
+              "talent won out over bureaucracy"
+            ]
+          },
+          {
+            "definition": "manage to reach (a place) by effort.",
+            "examples": [
+              "many lived to win the great cave"
+            ]
+          },
+          {
+            "definition": "obtain (ore) from a mine."
+          }
+        ]
+      }
+    ]
+  }
+]

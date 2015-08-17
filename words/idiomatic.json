@@ -1,0 +1,46 @@
+[
+  {
+    "word": "idiomatic",
+    "syllables": [
+      "id",
+      "i",
+      "o",
+      "mat",
+      "ic"
+    ],
+    "pronunciation": "ˌidēəˈmadik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "idiomatic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "using, containing, or denoting expressions that are natural to a native speaker.",
+            "examples": [
+              "distinctive idiomatic dialogue"
+            ],
+            "synonyms": [
+              "vernacular",
+              "colloquial",
+              "everyday",
+              "conversational; Morenatural",
+              "grammatical",
+              "correct \"the president lacks an ear for idiomatic English\""
+            ]
+          },
+          {
+            "definition": "appropriate to the style of art or music associated with a particular period, individual, or group.",
+            "examples": [
+              "a short Bach piece containing lots of idiomatic motifs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

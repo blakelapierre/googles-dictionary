@@ -1,0 +1,115 @@
+[
+  {
+    "word": "relay",
+    "syllables": [
+      "re",
+      "lay"
+    ],
+    "pronunciation": "ˈrēˌlārəˈlāˈrēˌlā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "relay"
+          },
+          {
+            "part": "plural noun",
+            "variant": "relays"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "relay"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "relays"
+          },
+          {
+            "part": "past tense",
+            "variant": "relayed"
+          },
+          {
+            "part": "past participle",
+            "variant": "relayed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "relaying"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "relay",
+    "syllables": [
+      "re",
+      "lay"
+    ],
+    "pronunciation": "rēˈlā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "relay"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "relays"
+          },
+          {
+            "part": "past tense",
+            "variant": "relaid"
+          },
+          {
+            "part": "past participle",
+            "variant": "relaid"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "relaying"
+          },
+          {
+            "part": "verb",
+            "variant": "re-lay"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "re-lays"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "re-laying"
+          },
+          {
+            "part": "past tense",
+            "variant": "re-layed"
+          },
+          {
+            "part": "past participle",
+            "variant": "re-layed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lay again or differently.",
+            "examples": [
+              "they plan to relay about half a mile of the track"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

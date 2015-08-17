@@ -1,0 +1,55 @@
+[
+  {
+    "word": "enforce",
+    "syllables": [
+      "en",
+      "force"
+    ],
+    "pronunciation": "inˈfôrsenˈfôrs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "enforcing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "compel observance of or compliance with (a law, rule, or obligation).",
+            "examples": [
+              "impose, apply, administer, implement, bring to bear, discharge, execute, prosecute More\"the sheriff enforced the law\"force, compel, coerce, exact, extort; archaicconstrain \"they cannot enforce cooperation between the parties\"Morethe sheriff enforced the lawforce, compel, coerce, exact, extort; constrain they cannot enforce cooperation between the parties"
+            ]
+          },
+          {
+            "definition": "cause (something) to happen by necessity or force.",
+            "examples": [
+              "there is no outside agency to enforce cooperation between the players"
+            ],
+            "synonyms": [
+              "compulsory",
+              "obligatory",
+              "mandatory",
+              "involuntary",
+              "forced",
+              "imposed",
+              "required",
+              "requisite",
+              "stipulated",
+              "prescribed",
+              "contractual",
+              "binding",
+              "necessary",
+              "unavoidable",
+              "inescapable \"an enforced break from work\""
+            ],
+            "antonyms": [
+              "voluntary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

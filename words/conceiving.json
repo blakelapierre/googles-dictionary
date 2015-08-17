@@ -1,0 +1,80 @@
+[
+  {
+    "word": "conceive",
+    "syllables": [
+      "con",
+      "ceive"
+    ],
+    "pronunciation": "kənˈsēv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "conceiving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become pregnant with (a child).",
+            "examples": [
+              "she was conceived when her father was 49"
+            ]
+          },
+          {
+            "definition": "(of a woman) become pregnant.",
+            "examples": [
+              "five months ago Wendy conceived"
+            ],
+            "synonyms": [
+              "become pregnant",
+              "become impregnated \"they were unable to conceive\""
+            ]
+          },
+          {
+            "definition": "form or devise (a plan or idea) in the mind.",
+            "examples": [
+              "the dam project was originally conceived in 1977"
+            ],
+            "synonyms": [
+              "think up",
+              "think of",
+              "dream up",
+              "devise",
+              "formulate",
+              "design",
+              "originate",
+              "create",
+              "develop; Moreinformalcook up",
+              "hatch \"the project was conceived in 1977\""
+            ]
+          },
+          {
+            "definition": "form a mental representation of; imagine.",
+            "examples": [
+              "without society an individual cannot be conceived as having rights"
+            ],
+            "synonyms": [
+              "imagine",
+              "envisage",
+              "visualize",
+              "picture",
+              "think",
+              "envision",
+              "grasp",
+              "appreciate",
+              "apprehend; formalideate \"I can hardly conceive what it must be like\""
+            ]
+          },
+          {
+            "definition": "become affected by (a feeling).",
+            "examples": [
+              "he conceived a passion for football"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

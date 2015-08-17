@@ -1,0 +1,146 @@
+[
+  {
+    "word": "skim",
+    "syllables": [
+      "skim"
+    ],
+    "pronunciation": "skim",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "skim"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "skims"
+          },
+          {
+            "part": "past tense",
+            "variant": "skimmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "skimmed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "skimming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove (a substance) from the surface of a liquid.",
+            "examples": [
+              "as the scum rises, skim it off"
+            ],
+            "synonyms": [
+              "remove",
+              "cream off",
+              "scoop off \"skim off the scum\""
+            ]
+          },
+          {
+            "definition": "remove a substance from the surface of (a liquid).",
+            "examples": [
+              "bring to the boil, then skim it to remove any foam"
+            ]
+          },
+          {
+            "definition": "steal or embezzle (money), especially in small amounts over a period of time.",
+            "examples": [
+              "she was skimming money from the household kitty"
+            ]
+          },
+          {
+            "definition": "fraudulently copy (credit or debit card details) with a card swipe or other device.",
+            "examples": [
+              "noun: skimming"
+            ]
+          },
+          {
+            "definition": "go or move quickly and lightly over or on a surface or through the air.",
+            "examples": [
+              "he let his fingers skim across her shoulders"
+            ],
+            "synonyms": [
+              "glide",
+              "move lightly",
+              "slide",
+              "sail",
+              "skate",
+              "float \"the boat skimmed over the water\""
+            ]
+          },
+          {
+            "definition": "pass over (a surface), nearly or lightly touching it in the process.",
+            "examples": [
+              "we stood on the bridge, watching swallows skimming the water"
+            ]
+          },
+          {
+            "definition": "throw (a flat stone) low over an expanse of water so that it bounces on the surface several times.",
+            "examples": [
+              "throw, toss, cast, pitch; bounce he skimmed the pebble across the water"
+            ]
+          },
+          {
+            "definition": "read (something) quickly or cursorily so as to note only the important points.",
+            "examples": [
+              "he sat down and skimmed the report"
+            ],
+            "synonyms": [
+              "glance through",
+              "flick through",
+              "flip through",
+              "leaf through",
+              "riffle through",
+              "thumb through",
+              "read quickly",
+              "scan",
+              "run one's eye over \"she skimmed through the newspaper\""
+            ]
+          },
+          {
+            "definition": "deal with or treat (a subject) briefly or superficially.",
+            "examples": [
+              "mention briefly, pass over quickly, skate over, gloss over Hannah skimmed over this part of the story"
+            ],
+            "antonyms": [
+              "elaborate on"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "skim"
+          },
+          {
+            "part": "plural noun",
+            "variant": "skims"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thin layer of a substance on the surface of a liquid.",
+            "examples": [
+              "a skim of ice"
+            ]
+          },
+          {
+            "definition": "an act of reading something quickly or superficially.",
+            "examples": [
+              "a quick skim through the pamphlet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

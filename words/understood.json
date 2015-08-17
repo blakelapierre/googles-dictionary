@@ -1,0 +1,126 @@
+[
+  {
+    "word": "understood",
+    "syllables": [
+      "un",
+      "der",
+      "stood"
+    ],
+    "pronunciation": "ˌəndərˈsto͝od",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "understand",
+    "syllables": [
+      "un",
+      "der",
+      "stand"
+    ],
+    "pronunciation": "ˌəndərˈstand",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "understood"
+          },
+          {
+            "part": "past participle",
+            "variant": "understood"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perceive the intended meaning of (words, a language, or speaker).",
+            "examples": [
+              "he didn't understand a word I said"
+            ]
+          },
+          {
+            "definition": "perceive the significance, explanation, or cause of (something).",
+            "examples": [
+              "she didn't really understand the situation"
+            ],
+            "synonyms": [
+              "comprehend",
+              "grasp",
+              "take in",
+              "see",
+              "apprehend",
+              "follow",
+              "make sense of",
+              "fathom; Moreunravel",
+              "decipher",
+              "interpret; informalfigure out",
+              "work out",
+              "make head(s) or tail(s) of",
+              "get one's head around",
+              "get the drift of",
+              "catch on to",
+              "get; informaltwig \"he couldn't understand anything we said\""
+            ]
+          },
+          {
+            "definition": "be sympathetically or knowledgeably aware of the character or nature of.",
+            "examples": [
+              "Picasso understood color"
+            ],
+            "synonyms": [
+              "appreciate",
+              "recognize",
+              "realize",
+              "acknowledge",
+              "know",
+              "be aware of",
+              "be conscious of; Moreinformalbe wise to; formalbe cognizant of \"she understood how hard he'd worked\""
+            ]
+          },
+          {
+            "definition": "interpret or view (something) in a particular way.",
+            "examples": [
+              "as the term is usually understood, legislation refers to regulations and directives"
+            ]
+          },
+          {
+            "definition": "infer something from information received (often used as a polite formula in conversation).",
+            "examples": [
+              "I understand you're at art school"
+            ]
+          },
+          {
+            "definition": "regard (a missing word, phrase, or idea) as present; supply mentally.",
+            "examples": [
+              "“present company excepted” is always understood when sweeping generalizations are being made"
+            ]
+          },
+          {
+            "definition": "assume to be the case; take for granted.",
+            "examples": [
+              "he liked to play the field—that was understood"
+            ],
+            "synonyms": [
+              "believe",
+              "gather",
+              "take it",
+              "hear (tell)",
+              "notice",
+              "see",
+              "learn; Moreconclude",
+              "infer",
+              "assume",
+              "surmise",
+              "fancy \"I understand that you wish to go\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

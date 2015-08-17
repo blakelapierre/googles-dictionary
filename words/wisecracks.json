@@ -1,0 +1,46 @@
+[
+  {
+    "word": "wisecrack",
+    "syllables": [
+      "wise",
+      "crack"
+    ],
+    "pronunciation": "ˈwīzˌkrak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "wisecracks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a clever and pithy spoken witticism.",
+            "examples": [
+              "joke, witticism, quip, jest, sally; Morepun, bon mot; informalcrack, gag, funny, one-liner, zinger \"her parents were not amused by Lenny's wisecracks\"Morepun, bon mot; crack, gag, funny, one-liner, zinger her parents were not amused by Lenny's wisecracks"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "wisecracks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a wisecrack.",
+            "examples": [
+              "his warmth, boisterousness, and constant wisecracking"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

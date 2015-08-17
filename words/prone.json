@@ -1,0 +1,67 @@
+[
+  {
+    "word": "prone",
+    "syllables": [
+      "prone"
+    ],
+    "pronunciation": "prōn",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "prone"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "likely to or liable to suffer from, do, or experience something, typically something regrettable or unwelcome.",
+            "examples": [
+              "years of logging had left the mountains prone to mudslides"
+            ],
+            "synonyms": [
+              "susceptible",
+              "vulnerable",
+              "subject",
+              "open",
+              "liable",
+              "given",
+              "predisposed",
+              "likely",
+              "disposed",
+              "inclined",
+              "apt; at risk of \"untreated wood is prone to rotting\""
+            ],
+            "antonyms": [
+              "resistant",
+              "immune"
+            ]
+          },
+          {
+            "definition": "lying flat, especially face downward.",
+            "examples": [
+              "I was lying prone on a foam mattress"
+            ],
+            "synonyms": [
+              "(lying) face down",
+              "face downward",
+              "on one's stomach/front; Morelying flat/down",
+              "horizontal",
+              "prostrate \"his prone body\""
+            ],
+            "antonyms": [
+              "upright"
+            ]
+          },
+          {
+            "definition": "denoting the position of the forearm with the palm of the hand facing downward."
+          },
+          {
+            "definition": "with a downward slope or direction."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "word": "tonic",
+    "syllables": [
+      "ton",
+      "ic"
+    ],
+    "pronunciation": "ˈtänik",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tonic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tonics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a medicinal substance taken to give a feeling of vigor or well-being.",
+            "examples": [
+              "stimulant, restorative, refresher, medicine; Moreinformalpick-me-up; analeptic \"ginseng can be used as a natural tonic\"Morepick-me-up; analeptic ginseng can be used as a natural tonic"
+            ]
+          },
+          {
+            "definition": "something with an invigorating effect.",
+            "examples": [
+              "being needed is a tonic for someone at my age"
+            ],
+            "synonyms": [
+              "stimulant",
+              "boost",
+              "fillip; Moreinformalshot in the arm",
+              "pick-me-up \"we found the change of scene a tonic\""
+            ]
+          },
+          {
+            "definition": "short for tonic water."
+          },
+          {
+            "definition": "the first note in a scale that, in conventional harmony, provides the keynote of a piece of music."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "tonic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "giving a feeling of vigor or well-being; invigorating."
+          },
+          {
+            "definition": "relating to or denoting the first degree of a scale."
+          },
+          {
+            "definition": "denoting or relating to the syllable within a tone group that has greatest prominence, because it carries the main change of pitch."
+          },
+          {
+            "definition": "relating to or restoring normal tone to muscles or other organs."
+          },
+          {
+            "definition": "relating to, denoting, or producing continuous muscular contraction."
+          }
+        ]
+      }
+    ]
+  }
+]

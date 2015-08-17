@@ -1,0 +1,48 @@
+[
+  {
+    "word": "vestigial",
+    "syllables": [
+      "ves",
+      "tig",
+      "i",
+      "al"
+    ],
+    "pronunciation": "veˈstij(ē)əl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "vestigial"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming a very small remnant of something that was once much larger or more noticeable.",
+            "examples": [
+              "he felt a vestigial flicker of anger from last night"
+            ],
+            "synonyms": [
+              "remaining",
+              "surviving",
+              "residual",
+              "leftover",
+              "lingering \"he felt a vestigial flicker of anger from last night\""
+            ]
+          },
+          {
+            "definition": "(of an organ or part of the body) degenerate, rudimentary, or atrophied, having become functionless in the course of evolution.",
+            "examples": [
+              "the vestigial wings of kiwis are entirely hidden"
+            ],
+            "synonyms": [
+              "rudimentary",
+              "undeveloped; Morenonfunctional; primitive \"vestigial limbs\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

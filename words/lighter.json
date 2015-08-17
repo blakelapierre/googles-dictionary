@@ -1,0 +1,376 @@
+[
+  {
+    "word": "lighter",
+    "syllables": [
+      "light",
+      "er"
+    ],
+    "pronunciation": "ˈlīdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lighter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lighters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a device that produces a small flame, typically used to light cigarettes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lighter",
+    "syllables": [
+      "light",
+      "er"
+    ],
+    "pronunciation": "ˈlīdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lighter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lighters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flat-bottomed barge or other unpowered boat used to transfer cargo to and from ships in harbor."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lighter"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lighters"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lightering"
+          },
+          {
+            "part": "past tense",
+            "variant": "lightered"
+          },
+          {
+            "part": "past participle",
+            "variant": "lightered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "transport (goods) in a lighter.",
+            "examples": [
+              "they lightered their cargo ashore"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "syllables": [
+      "light"
+    ],
+    "pronunciation": "līt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "lighter"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a considerable or sufficient amount of natural light; not dark.",
+            "examples": [
+              "the bedrooms are light and airy"
+            ],
+            "synonyms": [
+              "bright",
+              "full of light",
+              "well lit",
+              "well illuminated",
+              "sunny \"a light",
+              "cheerful room\""
+            ],
+            "antonyms": [
+              "dark",
+              "gloomy"
+            ]
+          },
+          {
+            "definition": "(of a color) pale.",
+            "examples": [
+              "her eyes were light blue"
+            ],
+            "synonyms": [
+              "light-colored",
+              "light-toned",
+              "pale",
+              "pale-colored",
+              "pastel More\"light shades of blue and rose\"fair",
+              "light-colored",
+              "blond/blonde",
+              "golden",
+              "flaxen \"light hair\""
+            ],
+            "antonyms": [
+              "dark",
+              "deep",
+              "brunette"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "syllables": [
+      "light"
+    ],
+    "pronunciation": "līt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "lighter"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of little weight; easy to lift.",
+            "examples": [
+              "they are very light and portable"
+            ],
+            "synonyms": [
+              "easy to lift",
+              "not heavy",
+              "lightweight; Moreeasy to carry",
+              "portable \"it's light enough to carry\""
+            ],
+            "antonyms": [
+              "heavy"
+            ]
+          },
+          {
+            "definition": "deficient in weight, especially by a specified amount.",
+            "examples": [
+              "the sack of potatoes is 5 pounds light"
+            ]
+          },
+          {
+            "definition": "not strongly or heavily built or constructed; small of its kind.",
+            "examples": [
+              "light, impractical clothes"
+            ],
+            "synonyms": [
+              "flimsy",
+              "lightweight",
+              "insubstantial",
+              "thin; Moredelicate",
+              "floaty",
+              "gauzy",
+              "gossamer",
+              "diaphanous \"a light cotton robe\""
+            ],
+            "antonyms": [
+              "heavy",
+              "thick"
+            ]
+          },
+          {
+            "definition": "carrying or suitable for small loads.",
+            "examples": [
+              "light commercial vehicles"
+            ]
+          },
+          {
+            "definition": "carrying only light armaments.",
+            "examples": [
+              "light infantry"
+            ]
+          },
+          {
+            "definition": "(of a vehicle, ship, or aircraft) traveling unladen or with less than a full load."
+          },
+          {
+            "definition": "(of food or a meal) small in quantity and easy to digest.",
+            "examples": [
+              "a light supper"
+            ],
+            "synonyms": [
+              "small",
+              "modest",
+              "simple",
+              "easily digested; informallow-cal \"a light dinner\""
+            ],
+            "antonyms": [
+              "heavy",
+              "rich"
+            ]
+          },
+          {
+            "definition": "(of a foodstuff) low in fat, cholesterol, sugar, or other rich ingredients.",
+            "examples": [
+              "stick to a light diet"
+            ]
+          },
+          {
+            "definition": "(of drink) not too sweet or rich in flavor or strongly alcoholic.",
+            "examples": [
+              "a glass of light Hungarian wine"
+            ]
+          },
+          {
+            "definition": "(of food, especially pastry or sponge cake) fluffy or well aerated during cooking."
+          },
+          {
+            "definition": "(of soil) friable, porous, and workable.",
+            "examples": [
+              "friable, sandy, easily dug, workable, crumbly, loose a light soil"
+            ],
+            "antonyms": [
+              "dense",
+              "heavy"
+            ]
+          },
+          {
+            "definition": "(of an isotope) having not more than the usual mass; (of a compound) containing such an isotope."
+          },
+          {
+            "definition": "relatively low in density, amount, or intensity.",
+            "examples": [
+              "passenger traffic was light"
+            ]
+          },
+          {
+            "definition": "(of sleep or a sleeper) easily disturbed."
+          },
+          {
+            "definition": "easily borne or done.",
+            "examples": [
+              "he received a relatively light sentence"
+            ],
+            "synonyms": [
+              "easy",
+              "simple",
+              "undemanding",
+              "untaxing; informalcushy \"light duties\""
+            ],
+            "antonyms": [
+              "hard",
+              "burdensome"
+            ]
+          },
+          {
+            "definition": "gentle or delicate.",
+            "examples": [
+              "she planted a light kiss on his cheek"
+            ],
+            "synonyms": [
+              "gentle",
+              "delicate",
+              "soft",
+              "dainty; Morefaint",
+              "indistinct \"light footsteps\""
+            ],
+            "antonyms": [
+              "heavy"
+            ]
+          },
+          {
+            "definition": "(of type) having thin strokes; not bold."
+          },
+          {
+            "definition": "(of entertainment) requiring little mental effort; not profound or serious.",
+            "examples": [
+              "pop is thought of as light entertainment"
+            ],
+            "synonyms": [
+              "entertaining",
+              "lightweight",
+              "diverting",
+              "undemanding",
+              "frivolous",
+              "superficial",
+              "trivial \"light reading\""
+            ],
+            "antonyms": [
+              "serious",
+              "deep"
+            ]
+          },
+          {
+            "definition": "not serious or solemn.",
+            "examples": [
+              "his tone was light"
+            ],
+            "synonyms": [
+              "gentle",
+              "mild",
+              "moderate",
+              "slight; Moreplayful",
+              "lighthearted \"his eyes gleamed with light mockery\"carefree",
+              "lighthearted",
+              "cheerful",
+              "cheery",
+              "happy",
+              "merry",
+              "jolly",
+              "blithe",
+              "bright",
+              "sunny; buoyant",
+              "bubbly",
+              "jaunty",
+              "bouncy",
+              "breezy",
+              "optimistic",
+              "positive",
+              "upbeat",
+              "ebullient; datedgay \"a light heart\""
+            ],
+            "antonyms": [
+              "serious"
+            ]
+          },
+          {
+            "definition": "free from worry or unhappiness; cheerful.",
+            "examples": [
+              "I left the island with a light heart"
+            ]
+          },
+          {
+            "definition": "(of a woman) unchaste; promiscuous."
+          }
+        ]
+      }
+    ]
+  }
+]

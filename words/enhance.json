@@ -1,0 +1,68 @@
+[
+  {
+    "word": "enhance",
+    "syllables": [
+      "en",
+      "hance"
+    ],
+    "pronunciation": "inˈhansenˈhans",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "enhance"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "enhances"
+          },
+          {
+            "part": "past tense",
+            "variant": "enhanced"
+          },
+          {
+            "part": "past participle",
+            "variant": "enhanced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "enhancing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "intensify, increase, or further improve the quality, value, or extent of.",
+            "examples": [
+              "his refusal does nothing to enhance his reputation"
+            ],
+            "synonyms": [
+              "increase",
+              "add to",
+              "intensify",
+              "heighten",
+              "magnify",
+              "amplify",
+              "inflate",
+              "strengthen",
+              "build up",
+              "supplement",
+              "augment",
+              "boost",
+              "raise",
+              "lift",
+              "elevate",
+              "exalt; Moreimprove",
+              "enrich",
+              "complement \"background music will enhance the mood\""
+            ],
+            "antonyms": [
+              "diminish"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

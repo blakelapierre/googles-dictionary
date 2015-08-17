@@ -1,0 +1,47 @@
+[
+  {
+    "word": "infrequent",
+    "syllables": [
+      "in",
+      "fre",
+      "quent"
+    ],
+    "pronunciation": "inˈfrēkwənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "infrequent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not occurring often; rare.",
+            "examples": [
+              "her visits were so infrequent"
+            ],
+            "synonyms": [
+              "rare",
+              "uncommon",
+              "unusual",
+              "exceptional",
+              "few (and far between)",
+              "as rare/scarce as hen's teeth; Moreunaccustomed",
+              "unwonted; isolated",
+              "scarce",
+              "scattered; sporadic",
+              "irregular",
+              "intermittent",
+              "seldom; informalonce in a blue moon \"her infrequent visits\""
+            ],
+            "antonyms": [
+              "common"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

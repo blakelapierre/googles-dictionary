@@ -1,0 +1,84 @@
+[
+  {
+    "word": "excavate",
+    "syllables": [
+      "ex",
+      "ca",
+      "vate"
+    ],
+    "pronunciation": "ˈekskəˌvāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "excavate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "excavates"
+          },
+          {
+            "part": "past tense",
+            "variant": "excavated"
+          },
+          {
+            "part": "past participle",
+            "variant": "excavated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "excavating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a hole or channel) by digging.",
+            "examples": [
+              "the cheapest way of doing this was to excavate a long trench"
+            ],
+            "synonyms": [
+              "dig",
+              "dig out",
+              "bore",
+              "hollow out",
+              "scoop out; Moreburrow",
+              "tunnel",
+              "sink",
+              "gouge \"she excavated a narrow tunnel\""
+            ]
+          },
+          {
+            "definition": "dig out material from (the ground).",
+            "examples": [
+              "the ground was largely excavated by hand"
+            ]
+          },
+          {
+            "definition": "extract (material) from the ground by digging.",
+            "examples": [
+              "a very large amount of gravel would be excavated to form the channel"
+            ]
+          },
+          {
+            "definition": "remove earth carefully and systematically from (an area) in order to find buried remains."
+          },
+          {
+            "definition": "reveal or extract (buried remains) by carefully removing earth.",
+            "examples": [
+              "clothing and weapons were excavated from the burial site"
+            ],
+            "synonyms": [
+              "unearth",
+              "dig up",
+              "uncover",
+              "reveal; Moredisinter",
+              "exhume \"numerous artifacts have been excavated\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

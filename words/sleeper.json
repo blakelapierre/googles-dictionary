@@ -1,0 +1,66 @@
+[
+  {
+    "word": "sleeper",
+    "syllables": [
+      "sleep",
+      "er"
+    ],
+    "pronunciation": "ˈslēpər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sleeper"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sleepers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or animal who is asleep or who sleeps in a specified way.",
+            "examples": [
+              "he was a light sleeper, for long periods an insomniac"
+            ]
+          },
+          {
+            "definition": "a thing used for or connected with sleeping, in particular."
+          },
+          {
+            "definition": "a train carrying sleeping cars."
+          },
+          {
+            "definition": "a sleeping car, or a berth in one."
+          },
+          {
+            "definition": "one-piece coverall pajamas for a baby or small child."
+          },
+          {
+            "definition": "a sofa or chair that converts into a bed."
+          },
+          {
+            "definition": "a movie, book, play, etc., that achieves sudden unexpected success after initially attracting little attention, typically one that proves popular without much promotion or expenditure."
+          },
+          {
+            "definition": "an antique whose true value goes unrecognized for some time."
+          },
+          {
+            "definition": "a secret agent who remains inactive for a long period while establishing a secure position.",
+            "examples": [
+              "noun: sleeper agent; plural noun: sleeper agents"
+            ]
+          },
+          {
+            "definition": "a railroad tie."
+          },
+          {
+            "definition": "a stocky fish with mottled coloration that occurs widely in warm seas and fresh water."
+          }
+        ]
+      }
+    ]
+  }
+]

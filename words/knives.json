@@ -1,0 +1,48 @@
+[
+  {
+    "word": "knives",
+    "syllables": [
+      "knives"
+    ],
+    "pronunciation": "nīvz",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "knife",
+    "syllables": [
+      "knife"
+    ],
+    "pronunciation": "nīf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "knives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an instrument composed of a blade fixed into a handle, used for cutting or as a weapon.",
+            "examples": [
+              "cutting tool, blade, cutter a sharp knife"
+            ]
+          },
+          {
+            "definition": "a cutting blade forming part of a machine.",
+            "examples": [
+              "cutting tool, blade, cutter a sharp knife"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

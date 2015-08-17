@@ -1,0 +1,32 @@
+[
+  {
+    "word": "archer",
+    "syllables": [
+      "arch",
+      "er"
+    ],
+    "pronunciation": "ˈärCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "archers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who shoots with a bow and arrows, especially at a target for sport."
+          },
+          {
+            "definition": "the zodiacal sign or constellation Sagittarius.",
+            "examples": [
+              "singular proper noun: Archer; noun: the Archer"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

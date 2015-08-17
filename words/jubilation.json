@@ -1,0 +1,35 @@
+[
+  {
+    "word": "jubilation",
+    "syllables": [
+      "ju",
+      "bi",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌjo͞obəˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jubilation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "jubilations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of great happiness and triumph.",
+            "examples": [
+              "exultation, joy, joyousness, elation, euphoria, rejoicing, ecstasy, rapture, glee, gleefulness, exuberance we couldn't conceal our jubilation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

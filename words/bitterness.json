@@ -1,0 +1,93 @@
+[
+  {
+    "word": "bitterness",
+    "syllables": [
+      "bit",
+      "ter",
+      "ness"
+    ],
+    "pronunciation": "ˈbidərnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bitterness"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bitternesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sharpness of taste; lack of sweetness.",
+            "examples": [
+              "the lime juice imparts a slight bitterness"
+            ],
+            "synonyms": [
+              "sharpness",
+              "acidity",
+              "acridity",
+              "tartness",
+              "sourness",
+              "harshness; Moretechnicalacerbity \"the bitterness of the medicine\"resentment",
+              "rancor",
+              "indignation",
+              "grudge",
+              "spite",
+              "sullenness",
+              "sourness",
+              "churlishness",
+              "moroseness",
+              "petulance",
+              "pique",
+              "peevishness; acrimony",
+              "hostility",
+              "malice",
+              "virulence",
+              "antipathy",
+              "antagonism",
+              "enmity",
+              "animus",
+              "friction",
+              "vitriol",
+              "hatred",
+              "loathing",
+              "venom",
+              "poison",
+              "nastiness",
+              "ill feeling",
+              "ill will",
+              "bad blood \"there was no bitterness between them\"trauma",
+              "pain",
+              "agony",
+              "grief; unpleasantness",
+              "disagreeableness",
+              "nastiness; heartache",
+              "heartbreak",
+              "distress",
+              "desolation",
+              "despair",
+              "tragedy \"the bitterness of war\""
+            ],
+            "antonyms": [
+              "sweetness",
+              "magnanimity",
+              "contentment",
+              "goodwill",
+              "delight"
+            ]
+          },
+          {
+            "definition": "anger and disappointment at being treated unfairly; resentment.",
+            "examples": [
+              "he expressed bitterness over his dismissal without notice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

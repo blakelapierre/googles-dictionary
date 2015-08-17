@@ -1,0 +1,67 @@
+[
+  {
+    "word": "implication",
+    "syllables": [
+      "im",
+      "pli",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "ˌimpləˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "implications"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the conclusion that can be drawn from something, although it is not explicitly stated.",
+            "examples": [
+              "the implication is that no one person at the bank is responsible"
+            ],
+            "synonyms": [
+              "suggestion",
+              "insinuation",
+              "innuendo",
+              "hint",
+              "intimation",
+              "imputation \"he was smarting at their implication\""
+            ]
+          },
+          {
+            "definition": "a likely consequence of something.",
+            "examples": [
+              "a victory that had important political implications"
+            ],
+            "synonyms": [
+              "consequence",
+              "result",
+              "ramification",
+              "repercussion",
+              "reverberation",
+              "effect",
+              "significance \"important political implications\""
+            ]
+          },
+          {
+            "definition": "the action or state of being involved in something.",
+            "examples": [
+              "our implication in the problems"
+            ],
+            "synonyms": [
+              "incrimination",
+              "involvement",
+              "connection",
+              "entanglement",
+              "association; datedinculpation \"his implication in the murder case\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

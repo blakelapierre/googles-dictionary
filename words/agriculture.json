@@ -1,0 +1,31 @@
+[
+  {
+    "word": "agriculture",
+    "syllables": [
+      "ag",
+      "ri",
+      "cul",
+      "ture"
+    ],
+    "pronunciation": "ˈaɡrəˌkəlCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "agriculture"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals to provide food, wool, and other products.",
+            "examples": [
+              "farming, cultivation, tillage, tilling, husbandry, land/farm management, horticulture; Moreagribusiness, agronomy \"the mechanization of agriculture\"Moreagribusiness, agronomy the mechanization of agriculture"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

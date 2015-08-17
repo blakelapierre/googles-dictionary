@@ -1,0 +1,30 @@
+[
+  {
+    "word": "lessor",
+    "syllables": [
+      "les",
+      "sor"
+    ],
+    "pronunciation": "ˈlesˌôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lessor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lessors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who leases or lets a property to another; a landlord."
+          }
+        ]
+      }
+    ]
+  }
+]

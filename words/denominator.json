@@ -1,0 +1,36 @@
+[
+  {
+    "word": "denominator",
+    "syllables": [
+      "de",
+      "nom",
+      "i",
+      "na",
+      "tor"
+    ],
+    "pronunciation": "dəˈnäməˌnādər",
+    "parts": [
+      {
+        "part": "nounMathematics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "denominator"
+          },
+          {
+            "part": "plural noun",
+            "variant": "denominators"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the number below the line in a common fraction; a divisor."
+          },
+          {
+            "definition": "a figure representing the total population in terms of which statistical values are expressed."
+          }
+        ]
+      }
+    ]
+  }
+]

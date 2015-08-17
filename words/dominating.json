@@ -1,0 +1,71 @@
+[
+  {
+    "word": "dominate",
+    "syllables": [
+      "dom",
+      "i",
+      "nate"
+    ],
+    "pronunciation": "ˈdäməˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "dominating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have a commanding influence on; exercise control over.",
+            "examples": [
+              "the company dominates the market for operating system software"
+            ],
+            "synonyms": [
+              "control",
+              "influence",
+              "exercise control over",
+              "command",
+              "be in command of",
+              "be in charge of",
+              "rule",
+              "govern",
+              "direct",
+              "have ascendancy over",
+              "have mastery over; Moreinformalhead up",
+              "be in the driver's seat",
+              "be at the helm of",
+              "rule the roost (in)",
+              "wear the pants (in)",
+              "have someone in one's hip pocket; literarysway \"the Romans dominated the parts of Britain that became England and Wales\"predominate",
+              "prevail",
+              "reign",
+              "be prevalent",
+              "be paramount",
+              "be preeminent; informalkick butt \"it dominates the sports scene\""
+            ]
+          },
+          {
+            "definition": "be the most important or conspicuous person or thing in.",
+            "examples": [
+              "the race was dominated by the 1992 champion"
+            ]
+          },
+          {
+            "definition": "(of something tall or high) have a commanding position over; overlook.",
+            "examples": [
+              "a picturesque city dominated by the cathedral tower"
+            ],
+            "synonyms": [
+              "overlook",
+              "command",
+              "tower above/over",
+              "loom over \"the village is dominated by the viaduct\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

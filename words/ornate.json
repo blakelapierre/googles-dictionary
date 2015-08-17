@@ -1,0 +1,74 @@
+[
+  {
+    "word": "ornate",
+    "syllables": [
+      "or",
+      "nate"
+    ],
+    "pronunciation": "ôrˈnāt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "ornate"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "made in an intricate shape or decorated with complex patterns.",
+            "examples": [
+              "an ornate wrought-iron railing"
+            ],
+            "synonyms": [
+              "elaborate",
+              "decorated",
+              "embellished",
+              "adorned",
+              "ornamented",
+              "fancy",
+              "fussy",
+              "ostentatious",
+              "showy; Moreinformalflash",
+              "flashy \"an ornate mirror\""
+            ],
+            "antonyms": [
+              "unadorned"
+            ]
+          },
+          {
+            "definition": "(of literary style) using unusual words and complex constructions.",
+            "examples": [
+              "peculiarly ornate and metaphorical language"
+            ],
+            "synonyms": [
+              "elaborate",
+              "flowery",
+              "florid; Moregrandiose",
+              "pompous",
+              "pretentious",
+              "high-flown",
+              "orotund",
+              "magniloquent",
+              "grandiloquent",
+              "rhetorical",
+              "oratorical",
+              "bombastic",
+              "overwrought",
+              "overblown; informalhighfalutin",
+              "purple \"ornate language\""
+            ],
+            "antonyms": [
+              "plain",
+              "simple"
+            ]
+          },
+          {
+            "definition": "(of musical composition or performance) using many ornaments such as grace notes and trills."
+          }
+        ]
+      }
+    ]
+  }
+]

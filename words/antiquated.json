@@ -1,0 +1,54 @@
+[
+  {
+    "word": "antiquated",
+    "syllables": [
+      "an",
+      "ti",
+      "quat",
+      "ed"
+    ],
+    "pronunciation": "ˈan(t)əˌkwādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "antiquated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "old-fashioned or outdated.",
+            "examples": [
+              "this antiquated central heating system"
+            ],
+            "synonyms": [
+              "outdated",
+              "out of date",
+              "outmoded",
+              "outworn",
+              "old",
+              "stale",
+              "behind the times",
+              "old-fashioned",
+              "anachronistic",
+              "old-fangled",
+              "antique",
+              "antediluvian",
+              "passé",
+              "démodé",
+              "obsolete; Moreinformalout of the ark",
+              "moldy",
+              "horse-and-buggy \"his views on single parenthood are antiquated\""
+            ],
+            "antonyms": [
+              "modern",
+              "up to date"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

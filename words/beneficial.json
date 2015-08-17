@@ -1,0 +1,55 @@
+[
+  {
+    "word": "beneficial",
+    "syllables": [
+      "ben",
+      "e",
+      "fi",
+      "cial"
+    ],
+    "pronunciation": "ˌbenəˈfiSH(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "beneficial"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "favorable or advantageous; resulting in good.",
+            "examples": [
+              "the beneficial effect on the economy"
+            ],
+            "synonyms": [
+              "advantageous",
+              "favorable",
+              "helpful",
+              "useful",
+              "of use",
+              "of benefit",
+              "of assistance",
+              "valuable",
+              "of value",
+              "profitable",
+              "rewarding",
+              "gainful \"ladybugs and other species beneficial to the garden\""
+            ],
+            "antonyms": [
+              "detrimental",
+              "disadvantageous"
+            ]
+          },
+          {
+            "definition": "of or relating to rights, other than legal title.",
+            "examples": [
+              "the beneficiary will be taxed on the value of his beneficial use of the property"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

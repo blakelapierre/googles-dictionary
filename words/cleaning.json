@@ -1,0 +1,53 @@
+[
+  {
+    "word": "clean",
+    "syllables": [
+      "clean"
+    ],
+    "pronunciation": "klēn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "cleaning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something or someone) free of dirt, marks, or mess, especially by washing, wiping, or brushing.",
+            "examples": [
+              "clean your teeth properly after meals"
+            ],
+            "synonyms": [
+              "wash",
+              "cleanse",
+              "wipe",
+              "sponge",
+              "scrub",
+              "mop",
+              "rinse",
+              "scour",
+              "swab",
+              "hose down",
+              "sluice (down)",
+              "disinfect; Moreshampoo; literarylave \"Dad cleaned the windows\"launder",
+              "dry-clean \"I got my clothes cleaned\""
+            ],
+            "antonyms": [
+              "dirty",
+              "soil"
+            ]
+          },
+          {
+            "definition": "remove the innards of (fish or poultry) prior to cooking.",
+            "examples": [
+              "gut, draw, dress; eviscerate she cleaned the fish"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

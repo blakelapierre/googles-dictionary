@@ -1,0 +1,67 @@
+[
+  {
+    "word": "circus",
+    "syllables": [
+      "cir",
+      "cus"
+    ],
+    "pronunciation": "ˈsərkəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "circus"
+          },
+          {
+            "part": "plural noun",
+            "variant": "circuses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a traveling company of acrobats, trained animals, and clowns that gives performances, typically in a large tent, in a series of different places.",
+            "examples": [
+              "a circus elephant"
+            ],
+            "synonyms": [
+              "carnival",
+              "big top",
+              "cirque \"the kids enjoyed the circus\""
+            ]
+          },
+          {
+            "definition": "(in ancient Rome) a rounded or oblong arena lined with tiers of seats, used for equestrian and other sports and games."
+          },
+          {
+            "definition": "a large group of people travelling together on the circuit of a particular high-profile activity.",
+            "examples": [
+              "the Formula One circus"
+            ]
+          },
+          {
+            "definition": "a public scene of frenetic and noisily intrusive activity.",
+            "examples": [
+              "a media circus"
+            ],
+            "synonyms": [
+              "(a) turmoil",
+              "chaos",
+              "a zoo",
+              "bedlam",
+              "mayhem",
+              "pandemonium \"the meeting degenerated into a circus\""
+            ]
+          },
+          {
+            "definition": "(in place names) a rounded open space in a city where several streets converge.",
+            "examples": [
+              "Piccadilly Circus"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

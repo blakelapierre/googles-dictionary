@@ -1,0 +1,144 @@
+[
+  {
+    "word": "frustrated",
+    "syllables": [
+      "frus",
+      "trat",
+      "ed"
+    ],
+    "pronunciation": "ˈfrəˌstrādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "frustrated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feeling or expressing distress and annoyance, especially because of inability to change or achieve something.",
+            "examples": [
+              "young people get frustrated with the system"
+            ]
+          },
+          {
+            "definition": "(of a person) unable to follow or be successful in a particular career.",
+            "examples": [
+              "a frustrated actor"
+            ]
+          },
+          {
+            "definition": "prevented from progressing, succeeding, or being fulfilled.",
+            "examples": [
+              "our parents may want us to fulfill their own frustrated dreams"
+            ]
+          },
+          {
+            "definition": "(of a person or sexual desire) unfulfilled sexually.",
+            "examples": [
+              "jealousies and frustrated passions"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "frustrate",
+    "syllables": [
+      "frus",
+      "trate"
+    ],
+    "pronunciation": "ˈfrəstrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "frustrated"
+          },
+          {
+            "part": "past participle",
+            "variant": "frustrated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prevent (a plan or attempted action) from progressing, succeeding, or being fulfilled.",
+            "examples": [
+              "his attempt to frustrate the merger"
+            ],
+            "synonyms": [
+              "thwart",
+              "defeat",
+              "foil",
+              "block",
+              "stop",
+              "put a stop to",
+              "counter",
+              "spoil",
+              "check",
+              "balk",
+              "disappoint",
+              "forestall",
+              "dash",
+              "scotch",
+              "quash",
+              "crush",
+              "derail",
+              "snooker; Moreobstruct",
+              "impede",
+              "hamper",
+              "hinder",
+              "hamstring",
+              "stand in the way of; informalstymie",
+              "foul up",
+              "screw up",
+              "put the kibosh on",
+              "do for; informalscuttle \"his plans were frustrated\""
+            ],
+            "antonyms": [
+              "help",
+              "facilitate"
+            ]
+          },
+          {
+            "definition": "prevent (someone) from doing or achieving something.",
+            "examples": [
+              "an increasingly popular way to frustrate car thieves"
+            ]
+          },
+          {
+            "definition": "cause (someone) to feel upset or annoyed, typically as a result of being unable to change or achieve something.",
+            "examples": [
+              "it can be very frustrating to find that the size you want isn't there"
+            ],
+            "synonyms": [
+              "exasperate",
+              "infuriate",
+              "annoy",
+              "anger",
+              "vex",
+              "irritate",
+              "irk",
+              "try someone's patience; Moredisappoint",
+              "discontent",
+              "dissatisfy",
+              "discourage",
+              "dishearten",
+              "dispirit; informalaggravate",
+              "bug",
+              "miff \"the delays frustrated her\""
+            ],
+            "antonyms": [
+              "please"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

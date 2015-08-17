@@ -1,0 +1,107 @@
+[
+  {
+    "word": "ripe",
+    "syllables": [
+      "ripe"
+    ],
+    "pronunciation": "rīp",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "ripe"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "riper"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "ripest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of fruit or grain) developed to the point of readiness for harvesting and eating.",
+            "examples": [
+              "mature, ripened, full grown, ready to eat; Moreluscious, succulent, juicy, tender, moist, sweet \"a ripe tomato\"Moreluscious, succulent, juicy, tender, moist, sweet a ripe tomato"
+            ],
+            "antonyms": [
+              "green"
+            ]
+          },
+          {
+            "definition": "(of a cheese or wine) fully matured.",
+            "examples": [
+              "a ripe Brie"
+            ]
+          },
+          {
+            "definition": "(of a smell or flavor) rich, intense, or pungent.",
+            "examples": [
+              "rich, ripe flavors emanate from this wine"
+            ]
+          },
+          {
+            "definition": "(of a female fish or insect) ready to lay eggs or spawn."
+          },
+          {
+            "definition": "arrived at the fitting stage or time for (a particular action or purpose).",
+            "examples": [
+              "land ripe for development"
+            ],
+            "synonyms": [
+              "ready",
+              "fit",
+              "suitable",
+              "right More\"the dock is ripe for development\"opportune",
+              "advantageous",
+              "favorable",
+              "auspicious",
+              "propitious",
+              "promising",
+              "good",
+              "right",
+              "fortunate",
+              "benign",
+              "providential",
+              "felicitous",
+              "seasonable; convenient",
+              "suitable",
+              "appropriate",
+              "apt",
+              "fitting \"the time is ripe for his return\""
+            ],
+            "antonyms": [
+              "unsuitable",
+              "unready"
+            ]
+          },
+          {
+            "definition": "full of.",
+            "examples": [
+              "a population ripe with discontent"
+            ]
+          },
+          {
+            "definition": "(of a person's age) advanced.",
+            "examples": [
+              "she lived to a ripe old age"
+            ],
+            "synonyms": [
+              "advanced",
+              "hoary",
+              "venerable",
+              "old \"the ripe old age of ninety\""
+            ]
+          },
+          {
+            "definition": "(of a person's language) beyond the bounds of propriety; coarse."
+          }
+        ]
+      }
+    ]
+  }
+]

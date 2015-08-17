@@ -1,0 +1,79 @@
+[
+  {
+    "word": "depose",
+    "syllables": [
+      "de",
+      "pose"
+    ],
+    "pronunciation": "dəˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "depose"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deposes"
+          },
+          {
+            "part": "past tense",
+            "variant": "deposed"
+          },
+          {
+            "part": "past participle",
+            "variant": "deposed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove from office suddenly and forcefully.",
+            "examples": [
+              "he had been deposed by a military coup"
+            ],
+            "synonyms": [
+              "overthrow",
+              "unseat",
+              "dethrone",
+              "topple",
+              "remove",
+              "supplant",
+              "displace; Moredismiss",
+              "oust",
+              "drum out",
+              "throw out",
+              "expel",
+              "eject; informalchuck out",
+              "boot out",
+              "get rid of",
+              "show someone the door \"the president was deposed\""
+            ]
+          },
+          {
+            "definition": "testify to or give (evidence) on oath, typically in a written statement.",
+            "examples": [
+              "every affidavit shall state which of the facts deposed to are within the deponent's knowledge"
+            ],
+            "synonyms": [
+              "swear",
+              "testify",
+              "attest",
+              "assert",
+              "declare",
+              "claim \"a witness deposed that he had seen me\""
+            ]
+          },
+          {
+            "definition": "question (a witness) in deposition."
+          }
+        ]
+      }
+    ]
+  }
+]

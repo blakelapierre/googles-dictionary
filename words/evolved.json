@@ -1,0 +1,57 @@
+[
+  {
+    "word": "evolve",
+    "syllables": [
+      "e",
+      "volve"
+    ],
+    "pronunciation": "ēˈvälv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "evolved"
+          },
+          {
+            "part": "past participle",
+            "variant": "evolved"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "develop gradually, especially from a simple to a more complex form.",
+            "examples": [
+              "the company has evolved into a major chemical manufacturer"
+            ],
+            "synonyms": [
+              "develop",
+              "progress",
+              "advance; Moremature",
+              "grow",
+              "expand",
+              "spread; alter",
+              "change",
+              "transform",
+              "adapt",
+              "metamorphose; humoroustransmogrify \"our little tea party evolved into an all-night bash\""
+            ]
+          },
+          {
+            "definition": "(with reference to an organism or biological feature) develop over successive generations, especially as a result of natural selection.",
+            "examples": [
+              "the populations are cut off from each other and evolve independently"
+            ]
+          },
+          {
+            "definition": "give off (gas or heat).",
+            "examples": [
+              "develop, progress, advance; Moremature, grow, expand, spread; alter, change, transform, adapt, metamorphose; humoroustransmogrify \"our little tea party evolved into an all-night bash\"Moremature, grow, expand, spread; alter, change, transform, adapt, metamorphose; transmogrify our little tea party evolved into an all-night bash"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

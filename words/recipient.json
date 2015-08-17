@@ -1,0 +1,61 @@
+[
+  {
+    "word": "recipient",
+    "syllables": [
+      "re",
+      "cip",
+      "i",
+      "ent"
+    ],
+    "pronunciation": "rəˈsipēənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "recipient"
+          },
+          {
+            "part": "plural noun",
+            "variant": "recipients"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that receives or is awarded something.",
+            "examples": [
+              "the recipient of the Nobel Peace Prize"
+            ],
+            "synonyms": [
+              "receiver",
+              "beneficiary",
+              "legatee",
+              "donee \"scholarship recipients\""
+            ],
+            "antonyms": [
+              "donor"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "recipient"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "receiving or capable or receiving something.",
+            "examples": [
+              "a recipient country"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

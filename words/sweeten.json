@@ -1,0 +1,85 @@
+[
+  {
+    "word": "sweeten",
+    "syllables": [
+      "sweet",
+      "en"
+    ],
+    "pronunciation": "ˈswētn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sweeten"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sweetens"
+          },
+          {
+            "part": "past tense",
+            "variant": "sweetened"
+          },
+          {
+            "part": "past participle",
+            "variant": "sweetened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sweetening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become sweet or sweeter, especially in taste.",
+            "examples": [
+              "a cup of coffee sweetened with saccharin"
+            ],
+            "synonyms": [
+              "make sweet",
+              "add sugar to",
+              "sugar",
+              "sugar-coat More\"sweeten the milk with honey\"freshen",
+              "refresh",
+              "purify",
+              "deodorize",
+              "perfume \"he chewed gum to sweeten his breath\""
+            ]
+          },
+          {
+            "definition": "make more agreeable or acceptable.",
+            "examples": [
+              "there is no way to sweeten the statement"
+            ],
+            "synonyms": [
+              "soften",
+              "ease",
+              "alleviate",
+              "mitigate",
+              "temper",
+              "cushion; Moreembellish",
+              "embroider \"try to sweeten the bad news\""
+            ]
+          },
+          {
+            "definition": "induce (someone) to be well disposed or helpful to oneself.",
+            "examples": [
+              "I am in the process of sweetening him up"
+            ],
+            "synonyms": [
+              "mollify",
+              "placate",
+              "soothe",
+              "soften up",
+              "pacify",
+              "appease",
+              "win over \"a bigger dividend to sweeten shareholders\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

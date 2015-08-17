@@ -1,0 +1,96 @@
+[
+  {
+    "word": "proclaim",
+    "syllables": [
+      "pro",
+      "claim"
+    ],
+    "pronunciation": "prəˈklāmprōˈklām",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "proclaim"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "proclaims"
+          },
+          {
+            "part": "past tense",
+            "variant": "proclaimed"
+          },
+          {
+            "part": "past participle",
+            "variant": "proclaimed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "proclaiming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "announce officially or publicly.",
+            "examples": [
+              "the joint manifesto proclaimed that imperialism would be the coalition's chief objective"
+            ]
+          },
+          {
+            "definition": "declare something one considers important with due emphasis.",
+            "examples": [
+              "she proclaimed that what I had said was untrue"
+            ],
+            "synonyms": [
+              "assert",
+              "declare",
+              "profess",
+              "maintain",
+              "protest \"the men proclaimed their innocence\""
+            ]
+          },
+          {
+            "definition": "declare officially or publicly to be.",
+            "examples": [
+              "he proclaimed James II as King of England"
+            ],
+            "synonyms": [
+              "declare",
+              "announce",
+              "pronounce",
+              "state",
+              "make known",
+              "give out",
+              "advertise",
+              "publish",
+              "broadcast",
+              "promulgate",
+              "trumpet",
+              "blazon More\"messengers proclaimed the good news\"declare",
+              "pronounce",
+              "announce \"she proclaimed herself president\""
+            ]
+          },
+          {
+            "definition": "demonstrate or indicate clearly.",
+            "examples": [
+              "the decor proclaimed a family history of taste and tradition"
+            ],
+            "synonyms": [
+              "demonstrate",
+              "indicate",
+              "show",
+              "reveal",
+              "manifest",
+              "betray",
+              "testify to",
+              "signify \"cheap paint soon proclaims its cheapness\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

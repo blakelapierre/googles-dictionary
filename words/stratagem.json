@@ -1,0 +1,52 @@
+[
+  {
+    "word": "stratagem",
+    "syllables": [
+      "strat",
+      "a",
+      "gem"
+    ],
+    "pronunciation": "ˈstradəjəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "stratagem"
+          },
+          {
+            "part": "plural noun",
+            "variant": "stratagems"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plan or scheme, especially one used to outwit an opponent or achieve an end.",
+            "examples": [
+              "a series of devious stratagems"
+            ],
+            "synonyms": [
+              "plan",
+              "scheme",
+              "tactic",
+              "maneuver",
+              "ploy",
+              "device",
+              "trick",
+              "ruse",
+              "plot",
+              "machination",
+              "dodge; Moresubterfuge",
+              "artifice",
+              "wile; archaicshift \"Warren devised a series of stratagems to win their confidence\""
+            ]
+          },
+          {
+            "definition": "skill in devising plans or schemes; cunning."
+          }
+        ]
+      }
+    ]
+  }
+]

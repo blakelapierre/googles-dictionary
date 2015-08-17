@@ -1,0 +1,62 @@
+[
+  {
+    "word": "frieze",
+    "syllables": [
+      "frieze"
+    ],
+    "pronunciation": "frēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "frieze"
+          },
+          {
+            "part": "plural noun",
+            "variant": "friezes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a broad horizontal band of sculpted or painted decoration, especially on a wall near the ceiling."
+          },
+          {
+            "definition": "a horizontal paper strip mounted on a wall to give a similar effect."
+          },
+          {
+            "definition": "the part of an entablature between the architrave and the cornice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "frieze",
+    "syllables": [
+      "frieze"
+    ],
+    "pronunciation": "frēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "frieze"
+          },
+          {
+            "part": "plural noun",
+            "variant": "friezes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "heavy, coarse woolen cloth with a nap, usually on one side only."
+          }
+        ]
+      }
+    ]
+  }
+]

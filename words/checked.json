@@ -1,0 +1,182 @@
+[
+  {
+    "word": "checked",
+    "syllables": [
+      "checked"
+    ],
+    "pronunciation": "CHekt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "checked"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of clothes or fabric) having a pattern of small squares.",
+            "examples": [
+              "a checked shirt"
+            ]
+          },
+          {
+            "definition": "(of a vowel) followed by one or more consonants in the same syllable."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "check",
+    "syllables": [
+      "check"
+    ],
+    "pronunciation": "CHek",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "checked"
+          },
+          {
+            "part": "past participle",
+            "variant": "checked"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.",
+            "examples": [
+              "customs officers have the right to check all luggage"
+            ],
+            "synonyms": [
+              "examine",
+              "inspect",
+              "look at/over",
+              "scrutinize",
+              "survey; Morestudy",
+              "investigate",
+              "research",
+              "probe",
+              "look into",
+              "inquire into; informalcheck out",
+              "give something a once-over \"troops checked all vehicles\""
+            ]
+          },
+          {
+            "definition": "verify or establish to one's satisfaction.",
+            "examples": [
+              "check the expiration date on your passport"
+            ],
+            "synonyms": [
+              "make sure",
+              "confirm",
+              "verify \"he checked that the gun was cocked\""
+            ]
+          },
+          {
+            "definition": "verify the accuracy of something by comparing it with (something else).",
+            "examples": [
+              "keep your receipt to check against your statement"
+            ]
+          },
+          {
+            "definition": "agree or correspond when compared."
+          },
+          {
+            "definition": "look at; take notice of.",
+            "examples": [
+              "check the remix"
+            ]
+          },
+          {
+            "definition": "stop or slow down the progress of (something undesirable).",
+            "examples": [
+              "efforts were made to check the disease"
+            ],
+            "synonyms": [
+              "halt",
+              "stop",
+              "arrest",
+              "cut short; Morebar",
+              "obstruct",
+              "hamper",
+              "impede",
+              "inhibit",
+              "frustrate",
+              "foil",
+              "thwart",
+              "curb",
+              "block",
+              "stall",
+              "hold up",
+              "retard",
+              "delay",
+              "slow down; literarystay \"two defeats checked their progress\""
+            ]
+          },
+          {
+            "definition": "curb or restrain (a feeling or emotion).",
+            "examples": [
+              "he learned to check his excitement"
+            ],
+            "synonyms": [
+              "suppress",
+              "repress",
+              "restrain",
+              "control",
+              "curb",
+              "rein in",
+              "stifle",
+              "hold back",
+              "choke back; informalkeep a lid on \"her tears could not be checked\""
+            ]
+          },
+          {
+            "definition": "hamper or neutralize (an opponent) with one's body or stick."
+          },
+          {
+            "definition": "provide a means of preventing.",
+            "examples": [
+              "processes to check against deterioration in the quality of the data held"
+            ]
+          },
+          {
+            "definition": "(of a passenger) consign (baggage) to the care of the transport provider with whom they are traveling.",
+            "examples": [
+              "I checked my bag and got my boarding pass"
+            ]
+          },
+          {
+            "definition": "deposit (a coat, bag, or other item) for temporary safekeeping in the cloakroom of a restaurant, theater, etc.",
+            "examples": [
+              "the drinks weren't expensive and there's no cover charge but you do have to check your coat for $3.00"
+            ]
+          },
+          {
+            "definition": "mark or click on (a box) in order to select a particular option on a form, questionnaire, etc.",
+            "examples": [
+              "users who want privacy should check the box that prevents your files from being shared"
+            ]
+          },
+          {
+            "definition": "move a piece or pawn so that (the opposing king) is under attack."
+          },
+          {
+            "definition": "(in poker) choose not to make a bet when called upon, allowing the action to move to another player."
+          },
+          {
+            "definition": "(of a hound) pause to make sure of or regain a scent."
+          },
+          {
+            "definition": "(of a trained hawk) abandon the intended quarry and fly after other prey."
+          }
+        ]
+      }
+    ]
+  }
+]

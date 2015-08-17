@@ -1,0 +1,145 @@
+[
+  {
+    "word": "commanding",
+    "syllables": [
+      "com",
+      "mand",
+      "ing"
+    ],
+    "pronunciation": "kəˈmandiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "commanding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in military contexts) having a position of authority.",
+            "examples": [
+              "a commanding officer"
+            ]
+          },
+          {
+            "definition": "(of an advantage or position) controlling; superior.",
+            "examples": [
+              "a commanding 13-6 lead"
+            ],
+            "synonyms": [
+              "dominant",
+              "dominating",
+              "controlling",
+              "superior",
+              "powerful",
+              "prominent",
+              "advantageous",
+              "favorable \"a commanding position\""
+            ]
+          },
+          {
+            "definition": "indicating or expressing authority; imposing.",
+            "examples": [
+              "a man of commanding presence"
+            ],
+            "synonyms": [
+              "authoritative",
+              "masterful",
+              "assertive",
+              "firm",
+              "emphatic",
+              "insistent",
+              "imperative; Moreperemptory",
+              "imperious",
+              "dictatorial; informalbossy \"a commanding voice\""
+            ]
+          },
+          {
+            "definition": "(of a place or position) dominating physically; giving a wide view.",
+            "examples": [
+              "a commanding position looking out over the sea"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "command",
+    "syllables": [
+      "com",
+      "mand"
+    ],
+    "pronunciation": "kəˈmand",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "commanding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give an authoritative order.",
+            "examples": [
+              "a gruff voice commanded us to enter"
+            ],
+            "synonyms": [
+              "order",
+              "tell",
+              "direct",
+              "instruct",
+              "call on",
+              "require; literarybid \"he commanded his men to retreat\""
+            ]
+          },
+          {
+            "definition": "have authority over; be in charge of (a unit).",
+            "examples": [
+              "he commanded a battalion at Normandy"
+            ]
+          },
+          {
+            "definition": "dominate (a strategic position) from a superior height.",
+            "examples": [
+              "the two castles commanded the harbor"
+            ],
+            "synonyms": [
+              "be in charge of",
+              "be in command of",
+              "be the leader of; Morehead",
+              "lead",
+              "control",
+              "direct",
+              "manage",
+              "supervise",
+              "oversee; informalhead up \"Jones commanded a tank squadron\""
+            ]
+          },
+          {
+            "definition": "control or restrain (oneself or one's feelings).",
+            "examples": [
+              "he commanded himself with an effort"
+            ]
+          },
+          {
+            "definition": "be in a strong enough position to have or secure (something).",
+            "examples": [
+              "no party commanded a majority"
+            ],
+            "synonyms": [
+              "receive",
+              "get",
+              "gain",
+              "secure \"they command great respect\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

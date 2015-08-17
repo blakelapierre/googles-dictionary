@@ -1,0 +1,38 @@
+[
+  {
+    "word": "pawnshop",
+    "syllables": [
+      "pawn",
+      "shop"
+    ],
+    "pronunciation": "ˈpônˌSHäp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pawnshop"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pawnshops"
+          },
+          {
+            "part": "noun",
+            "variant": "pawn-shop"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pawn-shops"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a pawnbroker's shop, especially one where unredeemed items are sold to the public."
+          }
+        ]
+      }
+    ]
+  }
+]

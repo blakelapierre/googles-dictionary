@@ -1,0 +1,85 @@
+[
+  {
+    "word": "illuminate",
+    "syllables": [
+      "il",
+      "lu",
+      "mi",
+      "nate"
+    ],
+    "pronunciation": "iˈlo͞oməˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "illuminated"
+          },
+          {
+            "part": "past participle",
+            "variant": "illuminated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "light up.",
+            "examples": [
+              "a flash of lightning illuminated the house"
+            ],
+            "synonyms": [
+              "light (up)",
+              "lighten",
+              "throw light on",
+              "brighten",
+              "shine on",
+              "irradiate; Moreliteraryillumine",
+              "illume",
+              "enlighten \"the bundle was illuminated by the torch\""
+            ],
+            "antonyms": [
+              "darken"
+            ]
+          },
+          {
+            "definition": "decorate (a building or structure) with lights for a special occasion."
+          },
+          {
+            "definition": "decorate (a page or initial letter in a manuscript) with gold, silver, or colored designs.",
+            "examples": [
+              "decorate, illustrate, embellish, adorn, ornament the manuscripts were illuminated"
+            ]
+          },
+          {
+            "definition": "help to clarify or explain (a subject or matter).",
+            "examples": [
+              "a most illuminating discussion"
+            ],
+            "synonyms": [
+              "clarify",
+              "elucidate",
+              "explain",
+              "reveal",
+              "shed light on",
+              "give insight into",
+              "demystify; Moreexemplify",
+              "illustrate; informalspell out \"documents often illuminate people's thought processes\"informative",
+              "enlightening",
+              "explanatory",
+              "instructive",
+              "instructional",
+              "edifying",
+              "helpful",
+              "educational",
+              "revealing; informaltell-all \"the lectures have been interesting as well as illuminating\""
+            ],
+            "antonyms": [
+              "confuse",
+              "conceal"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

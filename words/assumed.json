@@ -1,0 +1,126 @@
+[
+  {
+    "word": "assume",
+    "syllables": [
+      "as",
+      "sume"
+    ],
+    "pronunciation": "əˈso͞om",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "assumed"
+          },
+          {
+            "part": "past participle",
+            "variant": "assumed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "suppose to be the case, without proof.",
+            "examples": [
+              "you're afraid of what people are going to assume about me"
+            ],
+            "synonyms": [
+              "presume",
+              "suppose",
+              "take it (as given)",
+              "take for granted",
+              "take as read",
+              "conjecture",
+              "surmise",
+              "conclude",
+              "deduce",
+              "infer",
+              "reckon",
+              "reason",
+              "think",
+              "fancy",
+              "believe",
+              "understand",
+              "gather",
+              "figure \"I assumed he wanted me to keep the book\""
+            ]
+          },
+          {
+            "definition": "take or begin to have (power or responsibility).",
+            "examples": [
+              "he assumed full responsibility for all organizational work"
+            ],
+            "synonyms": [
+              "accept",
+              "shoulder",
+              "bear",
+              "undertake",
+              "take on/up",
+              "manage",
+              "handle",
+              "deal with \"they are to assume more responsibility\""
+            ]
+          },
+          {
+            "definition": "seize (power or control).",
+            "examples": [
+              "the rebels assumed control of the capital"
+            ],
+            "synonyms": [
+              "seize",
+              "take (over)",
+              "appropriate",
+              "commandeer",
+              "expropriate",
+              "hijack",
+              "wrest",
+              "arrogate",
+              "usurp \"he assumed control of their finances\""
+            ]
+          },
+          {
+            "definition": "take on (a specified quality, appearance, or extent).",
+            "examples": [
+              "militant activity had assumed epidemic proportions"
+            ],
+            "synonyms": [
+              "acquire",
+              "take on",
+              "come to have \"the disease may assume epidemic proportions\""
+            ]
+          },
+          {
+            "definition": "take on or adopt (a manner or identity), sometimes falsely.",
+            "examples": [
+              "Oliver assumed an expression of penitence"
+            ],
+            "synonyms": [
+              "affect",
+              "adopt",
+              "impersonate",
+              "put on",
+              "simulate",
+              "feign",
+              "fake More\"he assumed a Southern accent\"false",
+              "fictitious",
+              "invented",
+              "made-up",
+              "fake",
+              "bogus",
+              "sham",
+              "spurious",
+              "make-believe",
+              "improvised",
+              "adopted; informalpretend",
+              "phony \"an assumed name\""
+            ],
+            "antonyms": [
+              "genuine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

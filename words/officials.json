@@ -1,0 +1,40 @@
+[
+  {
+    "word": "official",
+    "syllables": [
+      "of",
+      "fi",
+      "cial"
+    ],
+    "pronunciation": "əˈfiSHəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "officials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person holding public office or having official duties, especially as a representative of an organization or government department.",
+            "examples": [
+              "a union official"
+            ],
+            "synonyms": [
+              "officer",
+              "officeholder",
+              "administrator",
+              "executive",
+              "appointee",
+              "functionary; Morebureaucrat",
+              "mandarin; representative",
+              "agent; derogatoryapparatchik \"a union official\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

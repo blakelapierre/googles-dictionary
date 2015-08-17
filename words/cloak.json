@@ -1,0 +1,99 @@
+[
+  {
+    "word": "cloak",
+    "syllables": [
+      "cloak"
+    ],
+    "pronunciation": "klōk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cloak"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cloaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an outdoor overgarment, typically sleeveless, that hangs loosely from the shoulders.",
+            "examples": [
+              "cape, poncho, serape, shawl, mantle, wrap, pelisse, burnoose, cope, robe, cowl, djellaba, tippet; Morecassock, chasuble, pallium; historicalcardinal \"the cloak over his shoulders\"Morecassock, chasuble, pallium; cardinal the cloak over his shoulders"
+            ]
+          },
+          {
+            "definition": "something serving to hide or disguise something.",
+            "examples": [
+              "lifting the cloak of secrecy on the arms trade"
+            ],
+            "synonyms": [
+              "cover",
+              "veil",
+              "mantle",
+              "shroud",
+              "screen",
+              "mask",
+              "shield",
+              "blanket \"a cloak of secrecy\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cloak"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cloaks"
+          },
+          {
+            "part": "past tense",
+            "variant": "cloaked"
+          },
+          {
+            "part": "past participle",
+            "variant": "cloaked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cloaking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "dress in a cloak.",
+            "examples": [
+              "she cloaked herself in black"
+            ]
+          },
+          {
+            "definition": "hide, cover, or disguise (something).",
+            "examples": [
+              "the horror of war was cloaked in the trappings of chivalry"
+            ],
+            "synonyms": [
+              "conceal",
+              "hide",
+              "cover",
+              "veil",
+              "shroud",
+              "mask",
+              "obscure",
+              "cloud; Moreenvelop",
+              "swathe",
+              "surround \"a peak cloaked in mist\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "irrational",
+    "syllables": [
+      "ir",
+      "ra",
+      "tion",
+      "al"
+    ],
+    "pronunciation": "i(r)ˈraSH(ə)nəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "irrational"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not logical or reasonable.",
+            "examples": [
+              "unreasonable, illogical, groundless, baseless, unfounded, unjustifiable; Moreabsurd, ridiculous, ludicrous, preposterous, silly, foolish, senseless \"an irrational fear of insects\"Moreabsurd, ridiculous, ludicrous, preposterous, silly, foolish, senseless an irrational fear of insects"
+            ],
+            "antonyms": [
+              "reasonable",
+              "logical"
+            ]
+          },
+          {
+            "definition": "not endowed with the power of reason."
+          },
+          {
+            "definition": "(of a number, quantity, or expression) not expressible as a ratio of two integers, and having an infinite and nonrecurring expansion when expressed as a decimal. Examples of irrational numbers are the number π and the square root of 2."
+          }
+        ]
+      },
+      {
+        "part": "nounMathematics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "irrational"
+          },
+          {
+            "part": "plural noun",
+            "variant": "irrationals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an irrational number."
+          }
+        ]
+      }
+    ]
+  }
+]

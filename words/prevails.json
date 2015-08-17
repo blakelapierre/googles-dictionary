@@ -1,0 +1,85 @@
+[
+  {
+    "word": "prevail",
+    "syllables": [
+      "pre",
+      "vail"
+    ],
+    "pronunciation": "prəˈvāl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "prevails"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prove more powerful than opposing forces; be victorious.",
+            "examples": [
+              "it is hard for logic to prevail over emotion"
+            ],
+            "synonyms": [
+              "win",
+              "win out/through",
+              "triumph",
+              "be victorious",
+              "carry the day",
+              "come out on top",
+              "succeed",
+              "prove superior",
+              "conquer",
+              "overcome; Morerule",
+              "reign \"common sense will prevail\""
+            ]
+          },
+          {
+            "definition": "be widespread in a particular area at a particular time; be current.",
+            "examples": [
+              "an atmosphere of crisis prevails"
+            ],
+            "synonyms": [
+              "exist",
+              "be in existence",
+              "be present",
+              "be the case",
+              "occur",
+              "be prevalent",
+              "be current",
+              "be the order of the day",
+              "be customary",
+              "be common",
+              "be widespread",
+              "be in force/effect; Moreformalobtain \"the conditions that prevailed in the 1950s\"current",
+              "existing",
+              "prevalent",
+              "usual",
+              "common",
+              "general",
+              "widespread \"prevailing attitudes\""
+            ]
+          },
+          {
+            "definition": "persuade (someone) to do something.",
+            "examples": [
+              "she was prevailed upon to give an account of her work"
+            ],
+            "synonyms": [
+              "persuade",
+              "induce",
+              "coax",
+              "convince",
+              "get",
+              "urge",
+              "pressure",
+              "coerce; Moreinformalsweet-talk",
+              "soft-soap \"they prevailed upon me to emcee their charity affair\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

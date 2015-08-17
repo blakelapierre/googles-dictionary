@@ -1,0 +1,67 @@
+[
+  {
+    "word": "expansive",
+    "syllables": [
+      "ex",
+      "pan",
+      "sive"
+    ],
+    "pronunciation": "ikˈspansiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "expansive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "covering a wide area in terms of space or scope; extensive or wide-ranging.",
+            "examples": [
+              "deep, expansive canyons"
+            ],
+            "synonyms": [
+              "extensive",
+              "sweeping",
+              "rolling More\"expansive grassland\"wide-ranging",
+              "extensive",
+              "broad",
+              "wide",
+              "comprehensive",
+              "thorough",
+              "full-scale \"expansive coverage\""
+            ]
+          },
+          {
+            "definition": "(of a person or their manner) open, demonstrative, and communicative.",
+            "examples": [
+              "she felt expansive and inclined to talk"
+            ],
+            "synonyms": [
+              "communicative",
+              "forthcoming",
+              "sociable",
+              "friendly",
+              "outgoing",
+              "affable",
+              "chatty",
+              "talkative",
+              "garrulous",
+              "effusive",
+              "loquacious",
+              "voluble \"Bethany became engagingly expansive\""
+            ]
+          },
+          {
+            "definition": "tending toward economic or political expansion.",
+            "examples": [
+              "expansive domestic economic policies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

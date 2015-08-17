@@ -1,0 +1,74 @@
+[
+  {
+    "word": "expend",
+    "syllables": [
+      "ex",
+      "pend"
+    ],
+    "pronunciation": "ikˈspend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "expend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "expends"
+          },
+          {
+            "part": "past tense",
+            "variant": "expended"
+          },
+          {
+            "part": "past participle",
+            "variant": "expended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "expending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spend or use up (a resource such as money, time, or energy).",
+            "examples": [
+              "we do not need to expend energy working on our marriage"
+            ],
+            "synonyms": [
+              "spend",
+              "pay out",
+              "disburse",
+              "dole out",
+              "get through",
+              "waste",
+              "fritter (away)",
+              "dissipate; Moreinformalfork out",
+              "dish out",
+              "shell out",
+              "lay out",
+              "cough up",
+              "blow",
+              "splurge",
+              "ante up \"they had already expended $75",
+              "000\"use up",
+              "use",
+              "utilize",
+              "consume",
+              "eat up",
+              "deplete",
+              "get through",
+              "burn through \"children expend a lot of energy\""
+            ],
+            "antonyms": [
+              "save",
+              "conserve"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "word": "ballast",
+    "syllables": [
+      "bal",
+      "last"
+    ],
+    "pronunciation": "ˈbaləst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ballast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ballasts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "heavy material, such as gravel, sand, iron, or lead, placed low in a vessel to improve its stability."
+          },
+          {
+            "definition": "heavy material carried in an airship or on a hot-air balloon to stabilize it, and jettisoned when greater altitude is required."
+          },
+          {
+            "definition": "something that gives stability or substance.",
+            "examples": [
+              "the film is an entertaining comedy with some serious ideas thrown in for ballast"
+            ]
+          },
+          {
+            "definition": "gravel or coarse stone used to form the bed of a railroad track or road."
+          },
+          {
+            "definition": "a mixture of coarse and fine aggregate for making concrete."
+          },
+          {
+            "definition": "a passive component used in an electric circuit to moderate changes in current."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ballast"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ballasts"
+          },
+          {
+            "part": "past tense",
+            "variant": "ballasted"
+          },
+          {
+            "part": "past participle",
+            "variant": "ballasted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "ballasting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give stability to (a ship) by putting a heavy substance in its bilge.",
+            "examples": [
+              "the vessel has been ballasted to give the necessary floating stability"
+            ]
+          },
+          {
+            "definition": "form (the bed of a railroad line or road) with gravel or coarse stone."
+          }
+        ]
+      }
+    ]
+  }
+]

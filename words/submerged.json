@@ -1,0 +1,64 @@
+[
+  {
+    "word": "submerge",
+    "syllables": [
+      "sub",
+      "merge"
+    ],
+    "pronunciation": "səbˈmərj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "submerged"
+          },
+          {
+            "part": "past participle",
+            "variant": "submerged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to be under water.",
+            "examples": [
+              "houses had been flooded and cars submerged"
+            ],
+            "synonyms": [
+              "flood",
+              "inundate",
+              "deluge",
+              "swamp \"the farmland was submerged\""
+            ]
+          },
+          {
+            "definition": "descend below the surface of an area of water.",
+            "examples": [
+              "the U-boat had had time to submerge"
+            ],
+            "synonyms": [
+              "go under water",
+              "dive",
+              "sink \"the U-boat submerged\""
+            ],
+            "antonyms": [
+              "surface"
+            ]
+          },
+          {
+            "definition": "completely cover or obscure.",
+            "examples": [
+              "the tensions submerged earlier in the campaign now came to the fore"
+            ],
+            "synonyms": [
+              "immerse",
+              "plunge",
+              "sink \"submerge the bowl in water\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

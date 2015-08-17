@@ -1,0 +1,62 @@
+[
+  {
+    "word": "payment",
+    "syllables": [
+      "pay",
+      "ment"
+    ],
+    "pronunciation": "ˈpāmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "payments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of paying someone or something, or of being paid.",
+            "examples": [
+              "ask for a discount for payment by cash"
+            ],
+            "synonyms": [
+              "remittance",
+              "settlement",
+              "discharge",
+              "clearance",
+              "liquidation \"discounts for early payment\""
+            ]
+          },
+          {
+            "definition": "an amount paid or payable.",
+            "examples": [
+              "an interim compensation payment of $2500"
+            ],
+            "synonyms": [
+              "installment",
+              "premium \"monthly payments\""
+            ]
+          },
+          {
+            "definition": "something given as a reward or in recompense for something done.",
+            "examples": [
+              "a suit with a velvet collar that I got as payment for being in the show"
+            ],
+            "synonyms": [
+              "salary",
+              "wages",
+              "pay",
+              "earnings",
+              "fee(s)",
+              "remuneration",
+              "reimbursement",
+              "income; formalemolument(s) \"extra payment for good performance\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

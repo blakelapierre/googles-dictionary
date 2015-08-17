@@ -1,0 +1,66 @@
+[
+  {
+    "word": "nuisance",
+    "syllables": [
+      "nui",
+      "sance"
+    ],
+    "pronunciation": "ˈn(y)o͞osəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nuisance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nuisances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person, thing, or circumstance causing inconvenience or annoyance.",
+            "examples": [
+              "an unreasonable landlord could become a nuisance"
+            ],
+            "synonyms": [
+              "annoyance",
+              "inconvenience",
+              "bore",
+              "bother",
+              "irritation",
+              "problem",
+              "trouble",
+              "trial",
+              "burden; Morepest",
+              "plague",
+              "thorn in one's side/flesh; informalpain",
+              "pain in the neck",
+              "hassle",
+              "bind",
+              "drag",
+              "chore",
+              "aggravation",
+              "headache",
+              "nudnik \"I find these long journeys a nuisance\""
+            ],
+            "antonyms": [
+              "blessing"
+            ]
+          },
+          {
+            "definition": "an unlawful interference with the use and enjoyment of a person's land.",
+            "examples": [
+              "noun: private nuisance; plural noun: private nuisances"
+            ]
+          },
+          {
+            "definition": "see public nuisance."
+          }
+        ]
+      }
+    ]
+  }
+]

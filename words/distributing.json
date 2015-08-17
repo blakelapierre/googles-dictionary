@@ -1,0 +1,74 @@
+[
+  {
+    "word": "distribute",
+    "syllables": [
+      "dis",
+      "trib",
+      "ute"
+    ],
+    "pronunciation": "dəˈstribyo͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "distributing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give shares of (something); deal out.",
+            "examples": [
+              "information leaflets are being distributed to hotels and guest houses"
+            ],
+            "synonyms": [
+              "give out",
+              "deal out",
+              "dole out",
+              "dish out",
+              "hand out/around; Moreallocate",
+              "allot",
+              "apportion",
+              "share out",
+              "divide out/up",
+              "parcel out \"the proceeds were distributed among his creditors\"circulate",
+              "issue",
+              "hand out",
+              "deliver \"the newsletter is distributed free\""
+            ],
+            "antonyms": [
+              "collect"
+            ]
+          },
+          {
+            "definition": "supply (goods) to stores and other businesses that sell to consumers.",
+            "examples": [
+              "the journal is distributed worldwide"
+            ]
+          },
+          {
+            "definition": "occur throughout an area.",
+            "examples": [
+              "the birds are mainly distributed in marshes and river valleys"
+            ],
+            "synonyms": [
+              "disperse",
+              "scatter",
+              "spread \"more than 130 different species are distributed worldwide\""
+            ]
+          },
+          {
+            "definition": "separate (metal type that has been set up) and return the characters to their separate compartments in a type case."
+          },
+          {
+            "definition": "use (a term) to include every individual of the class to which it refers.",
+            "examples": [
+              "the middle term must be distributed, at least once, in the premises"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

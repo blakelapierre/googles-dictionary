@@ -1,0 +1,71 @@
+[
+  {
+    "word": "fertile",
+    "syllables": [
+      "fer",
+      "tile"
+    ],
+    "pronunciation": "ˈfərdl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "fertile"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of soil or land) producing or capable of producing abundant vegetation or crops.",
+            "examples": [
+              "fields along the fertile flood plains of the river"
+            ],
+            "synonyms": [
+              "fecund",
+              "fruitful",
+              "productive",
+              "high-yielding",
+              "rich",
+              "lush \"the soil is fertile\""
+            ]
+          },
+          {
+            "definition": "(of a seed or egg) capable of becoming a new individual."
+          },
+          {
+            "definition": "(of a person, animal, or plant) able to conceive young or produce seed.",
+            "examples": [
+              "Barbara carefully calculated the period when she was most fertile"
+            ],
+            "synonyms": [
+              "able to conceive",
+              "able to have children; technicalfecund \"fertile couples\""
+            ],
+            "antonyms": [
+              "barren"
+            ]
+          },
+          {
+            "definition": "(of a person's mind or imagination) producing many new and inventive ideas with ease.",
+            "examples": [
+              "imaginative, inventive, innovative, creative, visionary, original, ingenious; Moreproductive, prolific \"a fertile brain\"Moreproductive, prolific a fertile brain"
+            ],
+            "antonyms": [
+              "unimaginative"
+            ]
+          },
+          {
+            "definition": "(of a situation or subject) fruitful and productive in generating new ideas.",
+            "examples": [
+              "a series of fertile debates within the social sciences"
+            ]
+          },
+          {
+            "definition": "(of nuclear material) able to become fissile by the capture of neutrons."
+          }
+        ]
+      }
+    ]
+  }
+]

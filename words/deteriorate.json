@@ -1,0 +1,72 @@
+[
+  {
+    "word": "deteriorate",
+    "syllables": [
+      "de",
+      "te",
+      "ri",
+      "o",
+      "rate"
+    ],
+    "pronunciation": "dəˈtirēəˌrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deteriorate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deteriorates"
+          },
+          {
+            "part": "past tense",
+            "variant": "deteriorated"
+          },
+          {
+            "part": "past participle",
+            "variant": "deteriorated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deteriorating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become progressively worse.",
+            "examples": [
+              "relations between the countries had deteriorated sharply"
+            ],
+            "synonyms": [
+              "worsen",
+              "decline",
+              "degenerate; Morefail",
+              "slump",
+              "slip",
+              "go downhill",
+              "wane",
+              "ebb; informalgo to pot \"his health deteriorated\"decay",
+              "degrade",
+              "degenerate",
+              "break down",
+              "decompose",
+              "rot",
+              "go off",
+              "spoil",
+              "perish; break up",
+              "disintegrate",
+              "crumble",
+              "fall apart; photodegrade \"these materials deteriorate if stored wrongly\""
+            ],
+            "antonyms": [
+              "improve"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

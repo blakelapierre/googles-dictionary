@@ -1,0 +1,83 @@
+[
+  {
+    "word": "install",
+    "syllables": [
+      "in",
+      "stall"
+    ],
+    "pronunciation": "inˈstôl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "installing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "place or fix (equipment or machinery) in position ready for use.",
+            "examples": [
+              "we're planning to install a new shower"
+            ],
+            "synonyms": [
+              "put",
+              "position",
+              "place",
+              "locate",
+              "situate",
+              "station",
+              "site",
+              "lodge; insert \"a photocopier was installed in the office\""
+            ],
+            "antonyms": [
+              "remove"
+            ]
+          },
+          {
+            "definition": "load (software) into a computer.",
+            "examples": [
+              "you may want to install a new version of the program"
+            ]
+          },
+          {
+            "definition": "place (someone) in a new position of authority, especially with ceremony.",
+            "examples": [
+              "he was installed as music director at the Cathedral of St. Barbara in Cracow"
+            ],
+            "synonyms": [
+              "swear in",
+              "induct",
+              "instate",
+              "inaugurate",
+              "invest; Moreappoint; ordain",
+              "consecrate",
+              "anoint; enthrone",
+              "crown \"the college installs its new president this afternoon\""
+            ],
+            "antonyms": [
+              "remove"
+            ]
+          },
+          {
+            "definition": "establish (someone) in a new place, condition, or role.",
+            "examples": [
+              "Ashley installed herself behind her table"
+            ],
+            "synonyms": [
+              "ensconce",
+              "establish",
+              "position",
+              "settle",
+              "seat",
+              "lodge",
+              "plant; Moresit (down); informalplonk",
+              "park \"she installed herself behind the table\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

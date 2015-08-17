@@ -1,0 +1,105 @@
+[
+  {
+    "word": "revise",
+    "syllables": [
+      "re",
+      "vise"
+    ],
+    "pronunciation": "rəˈvīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "revise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "revises"
+          },
+          {
+            "part": "past tense",
+            "variant": "revised"
+          },
+          {
+            "part": "past participle",
+            "variant": "revised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "revising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reconsider and alter (something) in the light of further evidence.",
+            "examples": [
+              "he had cause to revise his opinion a moment after expressing it"
+            ],
+            "synonyms": [
+              "reconsider",
+              "review",
+              "re-examine",
+              "reassess",
+              "re-evaluate",
+              "reappraise",
+              "rethink; Morechange",
+              "alter",
+              "modify \"she revised her opinion\""
+            ]
+          },
+          {
+            "definition": "re-examine and make alterations to (written or printed matter).",
+            "examples": [
+              "the book was published in 1960 and revised in 1968"
+            ]
+          },
+          {
+            "definition": "alter so as to make more efficient or realistic.",
+            "examples": [
+              "the revised finance and administrative groups"
+            ],
+            "synonyms": [
+              "amend",
+              "emend",
+              "correct",
+              "alter",
+              "change",
+              "edit",
+              "rewrite",
+              "redraft",
+              "rephrase",
+              "rescript",
+              "rework \"the editor revised the text\""
+            ]
+          },
+          {
+            "definition": "reread work done previously to improve one's knowledge of a subject, typically to prepare for an examination.",
+            "examples": [
+              "students frantically revising for exams"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounPrinting",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "revise"
+          },
+          {
+            "part": "plural noun",
+            "variant": "revises"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a proof including corrections made in an earlier proof."
+          }
+        ]
+      }
+    ]
+  }
+]

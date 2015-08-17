@@ -1,0 +1,52 @@
+[
+  {
+    "word": "quark",
+    "syllables": [
+      "quark"
+    ],
+    "pronunciation": "kwärk",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "quark"
+          },
+          {
+            "part": "plural noun",
+            "variant": "quarks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of a number of subatomic particles carrying a fractional electric charge, postulated as building blocks of the hadrons. Quarks have not been directly observed, but theoretical predictions based on their existence have been confirmed experimentally."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quark",
+    "syllables": [
+      "quark"
+    ],
+    "pronunciation": "kwärk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "quark"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a type of low-fat curd cheese."
+          }
+        ]
+      }
+    ]
+  }
+]

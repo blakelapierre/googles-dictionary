@@ -1,0 +1,33 @@
+[
+  {
+    "word": "cinder",
+    "syllables": [
+      "cin",
+      "der"
+    ],
+    "pronunciation": "ˈsindər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cinder"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cinders"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small piece of partly burned coal or wood that has stopped giving off flames but still has combustible matter in it.",
+            "examples": [
+              "ashes, ash, embers they sifted through the cinders, looking for her ring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

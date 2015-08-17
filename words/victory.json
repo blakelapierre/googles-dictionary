@@ -1,0 +1,50 @@
+[
+  {
+    "word": "victory",
+    "syllables": [
+      "vic",
+      "to",
+      "ry"
+    ],
+    "pronunciation": "ˈvikt(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "victory"
+          },
+          {
+            "part": "plural noun",
+            "variant": "victories"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of defeating an enemy or opponent in a battle, game, or other competition.",
+            "examples": [
+              "an election victory"
+            ],
+            "synonyms": [
+              "success",
+              "triumph",
+              "conquest",
+              "win",
+              "favorable result; Morelandslide",
+              "coup; mastery",
+              "superiority",
+              "supremacy; informalwalkover",
+              "thrashing",
+              "trouncing \"after a season of tough losses",
+              "this year's opening-game victory was extra sweet\""
+            ],
+            "antonyms": [
+              "defeat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

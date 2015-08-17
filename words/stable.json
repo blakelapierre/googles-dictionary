@@ -1,0 +1,191 @@
+[
+  {
+    "word": "stable",
+    "syllables": [
+      "sta",
+      "ble"
+    ],
+    "pronunciation": "ˈstābəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "stable"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "stabler"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "stablest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not likely to change or fail; firmly established.",
+            "examples": [
+              "a stable relationship"
+            ],
+            "synonyms": [
+              "secure",
+              "solid",
+              "strong",
+              "steady",
+              "firm",
+              "sure",
+              "steadfast",
+              "unwavering",
+              "unvarying",
+              "unfaltering",
+              "unfluctuating; Moreestablished",
+              "abiding",
+              "durable",
+              "enduring",
+              "lasting",
+              "permanent",
+              "reliable",
+              "dependable \"a stable relationship\""
+            ],
+            "antonyms": [
+              "rocky",
+              "changeable"
+            ]
+          },
+          {
+            "definition": "(of a patient or a medical condition) not deteriorating in health after an injury or operation.",
+            "examples": [
+              "he is now in a stable condition in the hospital"
+            ]
+          },
+          {
+            "definition": "(of a person) sane and sensible; not easily upset or disturbed.",
+            "examples": [
+              "the officer concerned is mentally and emotionally stable"
+            ],
+            "synonyms": [
+              "well balanced",
+              "of sound mind",
+              "compos mentis",
+              "sane",
+              "normal",
+              "right in the head",
+              "rational",
+              "steady",
+              "reasonable",
+              "sensible",
+              "sober",
+              "down-to-earth",
+              "matter-of-fact",
+              "having both one's feet on the ground; informalall there \"a stable person\""
+            ],
+            "antonyms": [
+              "unbalanced"
+            ]
+          },
+          {
+            "definition": "(of an object or structure) not likely to give way or overturn; firmly fixed.",
+            "examples": [
+              "specially designed dinghies that are very stable"
+            ],
+            "synonyms": [
+              "firm",
+              "solid",
+              "steady",
+              "secure",
+              "fixed",
+              "fast",
+              "safe",
+              "moored",
+              "anchored",
+              "stuck down",
+              "immovable \"a stable tent\""
+            ],
+            "antonyms": [
+              "rickety",
+              "wobbly"
+            ]
+          },
+          {
+            "definition": "not liable to undergo chemical decomposition, radioactive decay, or other physical change."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stable",
+    "syllables": [
+      "sta",
+      "ble"
+    ],
+    "pronunciation": "ˈstābəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "stable"
+          },
+          {
+            "part": "plural noun",
+            "variant": "stables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a building set apart and adapted for keeping horses."
+          },
+          {
+            "definition": "an establishment where racehorses are kept and trained."
+          },
+          {
+            "definition": "the racehorses of a particular training establishment."
+          },
+          {
+            "definition": "an organization or establishment training or producing a particular type of person or product.",
+            "examples": [
+              "the player comes from the same stable as Agassi"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "stable"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "stables"
+          },
+          {
+            "part": "past tense",
+            "variant": "stabled"
+          },
+          {
+            "part": "past participle",
+            "variant": "stabled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "stabling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put or keep (a horse) in a stable."
+          },
+          {
+            "definition": "put or base (a train) in a depot."
+          }
+        ]
+      }
+    ]
+  }
+]

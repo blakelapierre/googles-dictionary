@@ -1,0 +1,98 @@
+[
+  {
+    "word": "expert",
+    "syllables": [
+      "ex",
+      "pert"
+    ],
+    "pronunciation": "ˈekˌspərt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "expert"
+          },
+          {
+            "part": "plural noun",
+            "variant": "experts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who has a comprehensive and authoritative knowledge of or skill in a particular area.",
+            "examples": [
+              "experts in child development"
+            ],
+            "synonyms": [
+              "specialist",
+              "authority",
+              "pundit; Moreadept",
+              "maestro",
+              "virtuoso",
+              "master",
+              "past master",
+              "wizard; connoisseur",
+              "aficionado; informalace",
+              "buff",
+              "pro",
+              "techie",
+              "whiz",
+              "hotshot",
+              "maven",
+              "crackerjack \"she is an art expert\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "expert"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or involving authoritative knowledge.",
+            "examples": [
+              "he had received expert academic advice"
+            ],
+            "synonyms": [
+              "skillful",
+              "skilled",
+              "adept",
+              "accomplished",
+              "talented",
+              "fine; Moremaster",
+              "masterly",
+              "brilliant",
+              "virtuoso",
+              "magnificent",
+              "outstanding",
+              "great",
+              "exceptional",
+              "excellent",
+              "first-class",
+              "first-rate",
+              "superb; proficient",
+              "good",
+              "able",
+              "capable",
+              "experienced",
+              "practiced",
+              "knowledgeable; informalace",
+              "crack",
+              "mean \"an expert chess player\""
+            ],
+            "antonyms": [
+              "incompetent"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

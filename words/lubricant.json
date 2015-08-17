@@ -1,0 +1,51 @@
+[
+  {
+    "word": "lubricant",
+    "syllables": [
+      "lu",
+      "bri",
+      "cant"
+    ],
+    "pronunciation": "ˈlo͞obrəkənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lubricant"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lubricants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance, such as oil or grease, used for minimizing friction, especially in an engine or component.",
+            "examples": [
+              "grease, oil, lubrication, emollient, lotion, unguent; lube tubes of lubricant"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "lubricant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lubricating.",
+            "examples": [
+              "a thin lubricant film"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

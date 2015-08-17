@@ -1,0 +1,38 @@
+[
+  {
+    "word": "thornback",
+    "syllables": [
+      "thorn",
+      "back"
+    ],
+    "pronunciation": "ˈTHôrnbak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "thornback"
+          },
+          {
+            "part": "plural noun",
+            "variant": "thornbacks"
+          },
+          {
+            "part": "noun",
+            "variant": "thornback ray"
+          },
+          {
+            "part": "plural noun",
+            "variant": "thornback rays"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a ray of shallow inshore waters that has spines on the back and tail, in particular."
+          }
+        ]
+      }
+    ]
+  }
+]

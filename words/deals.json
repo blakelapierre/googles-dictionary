@@ -1,0 +1,224 @@
+[
+  {
+    "word": "deal",
+    "syllables": [
+      "deal"
+    ],
+    "pronunciation": "dēl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "deals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "distribute (cards) in an orderly rotation to the players for a game or round.",
+            "examples": [
+              "the cards were dealt for the last hand"
+            ],
+            "synonyms": [
+              "distribute",
+              "give out",
+              "share out",
+              "divide out",
+              "hand out",
+              "pass out",
+              "pass around",
+              "dole out",
+              "dispense",
+              "allocate; informaldivvy up \"the cards were dealt\""
+            ]
+          },
+          {
+            "definition": "include a new player in a card game by giving them cards."
+          },
+          {
+            "definition": "distribute or mete out (something) to a person or group.",
+            "examples": [
+              "the funds raised were dealt out to the needy"
+            ]
+          },
+          {
+            "definition": "take part in commercial trading of a particular commodity.",
+            "examples": [
+              "directors were prohibited from dealing in the company's shares"
+            ],
+            "synonyms": [
+              "trade in",
+              "buy and sell; Moresell",
+              "peddle",
+              "purvey",
+              "supply",
+              "stock",
+              "market",
+              "merchandise; traffic",
+              "smuggle; informalpush \"the company deals in high-tech goods\""
+            ]
+          },
+          {
+            "definition": "be concerned with.",
+            "examples": [
+              "a movie that deals in ideas and issues"
+            ],
+            "synonyms": [
+              "concern",
+              "be about",
+              "have to do with",
+              "discuss",
+              "consider",
+              "cover",
+              "pertain to; Moretackle",
+              "study",
+              "explore",
+              "investigate",
+              "examine",
+              "review",
+              "analyze \"the article deals with advances in chemistry\""
+            ]
+          },
+          {
+            "definition": "buy and sell illegal drugs.",
+            "examples": [
+              "Frankie started dealing cocaine"
+            ]
+          },
+          {
+            "definition": "take measures concerning (someone or something), especially with the intention of putting something right.",
+            "examples": [
+              "the government had been unable to deal with the economic crisis"
+            ],
+            "synonyms": [
+              "cope with",
+              "handle",
+              "manage",
+              "treat",
+              "take care of",
+              "take charge of",
+              "take in hand",
+              "sort out",
+              "tackle",
+              "take on; Morecontrol; act toward",
+              "behave toward \"how to deal with difficult children\""
+            ]
+          },
+          {
+            "definition": "cope with (a difficult person or situation).",
+            "examples": [
+              "you'll have to find a way of dealing with those feelings"
+            ]
+          },
+          {
+            "definition": "treat (someone) in a particular way.",
+            "examples": [
+              "life had dealt harshly with her"
+            ]
+          },
+          {
+            "definition": "have relations with (a person or organization), especially in a commercial context.",
+            "examples": [
+              "the bank deals directly with the private sector"
+            ]
+          },
+          {
+            "definition": "take or have as a subject; discuss.",
+            "examples": [
+              "the novel deals with several different topics"
+            ]
+          },
+          {
+            "definition": "inflict (a blow) on (someone or something).",
+            "examples": [
+              "hopes of an economic recovery were dealt another blow"
+            ],
+            "synonyms": [
+              "deliver",
+              "administer",
+              "dispense",
+              "inflict",
+              "give",
+              "impose; aim \"the court dealt a blow to government reforms\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "deals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an agreement entered into by two or more parties for their mutual benefit, especially in a business or political context.",
+            "examples": [
+              "the band signed a major recording deal"
+            ],
+            "synonyms": [
+              "agreement",
+              "understanding",
+              "pact",
+              "bargain",
+              "covenant",
+              "contract",
+              "treaty; Morearrangement",
+              "compromise",
+              "settlement; terms; transaction",
+              "sale",
+              "account; indenture \"completion of the deal\""
+            ]
+          },
+          {
+            "definition": "an attractive price on a commodity for a purchaser; a bargain.",
+            "examples": [
+              "we've got great deals on the latest camcorders"
+            ]
+          },
+          {
+            "definition": "a particular form of treatment given or received.",
+            "examples": [
+              "working mothers get a raw deal"
+            ]
+          },
+          {
+            "definition": "a significant but unspecified amount of something.",
+            "examples": [
+              "he lost a great deal of blood"
+            ]
+          },
+          {
+            "definition": "the process of distributing the cards to players in a card game."
+          },
+          {
+            "definition": "a player's turn to distribute cards."
+          },
+          {
+            "definition": "the round of play following this."
+          },
+          {
+            "definition": "the set of hands dealt to the players."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "deal",
+    "syllables": [
+      "deal"
+    ],
+    "pronunciation": "dēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

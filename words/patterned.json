@@ -1,0 +1,65 @@
+[
+  {
+    "word": "pattern",
+    "syllables": [
+      "pat",
+      "tern"
+    ],
+    "pronunciation": "ˈpadərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "patterned"
+          },
+          {
+            "part": "past participle",
+            "variant": "patterned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decorate with a recurring design.",
+            "examples": [
+              "rosebud patterned wallpapers"
+            ],
+            "synonyms": [
+              "decorated",
+              "ornamented",
+              "fancy",
+              "adorned",
+              "embellished \"patterned glassware\""
+            ],
+            "antonyms": [
+              "plain"
+            ]
+          },
+          {
+            "definition": "give a regular or intelligible form to.",
+            "examples": [
+              "the brain not only receives information, but interprets and patterns it"
+            ],
+            "synonyms": [
+              "shape",
+              "influence",
+              "model",
+              "fashion",
+              "mold",
+              "style",
+              "determine",
+              "control \"someone else is patterning my life\""
+            ]
+          },
+          {
+            "definition": "give something a form based on that of (something else).",
+            "examples": [
+              "the clothing is patterned on athletes' wear"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "word": "close",
+    "syllables": [
+      "close"
+    ],
+    "pronunciation": "klōs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "superlative adjective",
+            "variant": "closest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a short distance away or apart in space or time.",
+            "examples": [
+              "the hotel is close to the sea"
+            ],
+            "synonyms": [
+              "near",
+              "adjacent to; Morein the vicinity of",
+              "in the neighborhood of",
+              "within reach of; neighboring",
+              "adjoining",
+              "abutting",
+              "alongside",
+              "on the doorstep",
+              "a stone's throw (away) from/to",
+              "'a hop",
+              "skip",
+              "and a jump from'; nearby",
+              "at close quarters to; informalwithin spitting distance from/to; archaicnigh to \"the town is close to Paris\""
+            ],
+            "antonyms": [
+              "far",
+              "distant"
+            ]
+          },
+          {
+            "definition": "with very little or no space in between; dense.",
+            "examples": [
+              "cloth with a closer weave"
+            ],
+            "synonyms": [
+              "dense",
+              "compact",
+              "tight",
+              "close-packed",
+              "packed",
+              "solid; Morecrowded",
+              "cramped",
+              "congested \"flying in close formation\""
+            ],
+            "antonyms": [
+              "sparse"
+            ]
+          },
+          {
+            "definition": "narrowly enclosed.",
+            "examples": [
+              "animals in close confinement"
+            ]
+          },
+          {
+            "definition": "very near to (being or doing something).",
+            "examples": [
+              "on a good day the climate in LA is close to perfection"
+            ],
+            "synonyms": [
+              "near",
+              "on the verge of",
+              "on the brink of",
+              "on the point of \"I was close to tears\""
+            ]
+          },
+          {
+            "definition": "(with reference to a competitive situation) won or likely to be won by only a small amount or distance.",
+            "examples": [
+              "the race will be a close contest"
+            ],
+            "synonyms": [
+              "evenly matched",
+              "even",
+              "with nothing to choose between them",
+              "neck and neck; informaleven-steven \"a very close match\""
+            ],
+            "antonyms": [
+              "one-sided"
+            ]
+          },
+          {
+            "definition": "another term for high (sense 7 of the adjective)."
+          },
+          {
+            "definition": "denoting a family member who is part of a person's immediate family, typically a parent or sibling.",
+            "examples": [
+              "the family history of cancer in close relatives"
+            ],
+            "synonyms": [
+              "immediate",
+              "direct",
+              "near \"close relatives\""
+            ],
+            "antonyms": [
+              "distant"
+            ]
+          },
+          {
+            "definition": "(of a person or relationship) on very affectionate or intimate terms.",
+            "examples": [
+              "they had always been very close, with no secrets at all"
+            ],
+            "synonyms": [
+              "intimate",
+              "dear",
+              "bosom; Moreclose-knit",
+              "tight-knit",
+              "inseparable",
+              "attached",
+              "devoted",
+              "faithful; special",
+              "good",
+              "best",
+              "fast",
+              "firm; informal(as) thick as thieves \"close friends\""
+            ],
+            "antonyms": [
+              "casual"
+            ]
+          },
+          {
+            "definition": "(of a connection or resemblance) strong.",
+            "examples": [
+              "the college has close links with many other institutions"
+            ],
+            "synonyms": [
+              "strong",
+              "marked",
+              "distinct",
+              "pronounced \"a close resemblance\""
+            ],
+            "antonyms": [
+              "slight"
+            ]
+          },
+          {
+            "definition": "(of observation, examination, etc.) done in a careful and thorough way.",
+            "examples": [
+              "we need to keep a close eye on this project"
+            ],
+            "synonyms": [
+              "careful",
+              "detailed",
+              "thorough",
+              "minute",
+              "searching",
+              "painstaking",
+              "meticulous",
+              "rigorous",
+              "scrupulous",
+              "conscientious; Moreattentive",
+              "focused \"a close examination\"vigilant",
+              "watchful",
+              "keen",
+              "alert \"keep a close eye on them\""
+            ],
+            "antonyms": [
+              "casual"
+            ]
+          },
+          {
+            "definition": "carefully guarded.",
+            "examples": [
+              "his whereabouts are a close secret"
+            ],
+            "synonyms": [
+              "strict",
+              "faithful",
+              "exact",
+              "precise",
+              "literal; Moreword for word",
+              "verbatim \"a close translation\""
+            ],
+            "antonyms": [
+              "loose"
+            ]
+          },
+          {
+            "definition": "not willing to give away money or information; secretive.",
+            "examples": [
+              "you're very close about your work, aren't you?"
+            ]
+          },
+          {
+            "definition": "uncomfortably humid or airless.",
+            "examples": [
+              "a close, hazy day"
+            ],
+            "synonyms": [
+              "humid",
+              "muggy",
+              "stuffy",
+              "airless",
+              "heavy",
+              "sticky",
+              "sultry",
+              "oppressive",
+              "stifling \"the weather was hot and close\""
+            ],
+            "antonyms": [
+              "fresh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "philosopher",
+    "syllables": [
+      "phi",
+      "los",
+      "o",
+      "pher"
+    ],
+    "pronunciation": "fəˈläsəfər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "philosophers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person engaged or learned in philosophy, especially as an academic discipline.",
+            "examples": [
+              "thinker, theorist, theorizer, theoretician, metaphysicist, metaphysician; Morescholar, intellectual, sage, wise man \"when I was young, I failed to appreciate what an insightful philosopher my father was\"Morescholar, intellectual, sage, wise man when I was young, I failed to appreciate what an insightful philosopher my father was"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

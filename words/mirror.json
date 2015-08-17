@@ -1,0 +1,113 @@
+[
+  {
+    "word": "mirror",
+    "syllables": [
+      "mir",
+      "ror"
+    ],
+    "pronunciation": "ˈmirər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mirror"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mirrors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.",
+            "examples": [
+              "reflecting surface; Morefull-length mirror, hand mirror, side mirror, rear-view mirror; looking glass, glass \"a quick look in the mirror\"Morefull-length mirror, hand mirror, side mirror, rear-view mirror; looking glass, glass a quick look in the mirror"
+            ]
+          },
+          {
+            "definition": "something regarded as accurately representing something else.",
+            "examples": [
+              "the stage is supposed to be the mirror of life"
+            ],
+            "synonyms": [
+              "reflection",
+              "twin",
+              "replica",
+              "copy",
+              "match",
+              "parallel \"his life was a mirror of her own\""
+            ]
+          },
+          {
+            "definition": "a site on a network that stores some or all of the contents from another site.",
+            "examples": [
+              "noun: mirror site; plural noun: mirror sites"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "mirror"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "mirrors"
+          },
+          {
+            "part": "past tense",
+            "variant": "mirrored"
+          },
+          {
+            "part": "past participle",
+            "variant": "mirrored"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "mirroring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a reflective surface) show a reflection of.",
+            "examples": [
+              "the clear water mirrored the sky"
+            ]
+          },
+          {
+            "definition": "correspond to.",
+            "examples": [
+              "gradations of educational attainment that mirror differences in social background"
+            ],
+            "synonyms": [
+              "reflect",
+              "match",
+              "reproduce",
+              "imitate",
+              "simulate",
+              "copy",
+              "mimic",
+              "echo",
+              "parallel",
+              "correspond to \"her music mirrored the mood of desperation\""
+            ]
+          },
+          {
+            "definition": "keep a copy of some or all of the contents of (a network site) at another site, typically in order to improve accessibility."
+          },
+          {
+            "definition": "store copies of data on (two or more hard disks) as a method of protecting it.",
+            "examples": [
+              "noun: mirroring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

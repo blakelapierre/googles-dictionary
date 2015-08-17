@@ -1,0 +1,65 @@
+[
+  {
+    "word": "exposition",
+    "syllables": [
+      "ex",
+      "po",
+      "si",
+      "tion"
+    ],
+    "pronunciation": "ˌekspəˈziSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exposition"
+          },
+          {
+            "part": "plural noun",
+            "variant": "expositions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a comprehensive description and explanation of an idea or theory.",
+            "examples": [
+              "the exposition and defense of his ethics"
+            ],
+            "synonyms": [
+              "explanation",
+              "description",
+              "elucidation",
+              "explication",
+              "interpretation; Moreaccount",
+              "commentary",
+              "appraisal",
+              "assessment",
+              "discussion",
+              "exegesis \"a lucid exposition\""
+            ]
+          },
+          {
+            "definition": "the part of a movement, especially in sonata form, in which the principal themes are first presented."
+          },
+          {
+            "definition": "the part of a play or work of fiction in which the background to the main conflict is introduced."
+          },
+          {
+            "definition": "a large public exhibition of art or trade goods.",
+            "examples": [
+              "exhibition, fair, trade fair, trade show, show, expo, display, presentation, demonstration, exhibit the exposition will feature 200 exhibits"
+            ]
+          },
+          {
+            "definition": "the action of making public; exposure.",
+            "examples": [
+              "the country squires dreaded the exposition of their rustic conversation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

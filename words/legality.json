@@ -1,0 +1,37 @@
+[
+  {
+    "word": "legality",
+    "syllables": [
+      "le",
+      "gal",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ləˈɡalədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "legality"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality or state of being in accordance with the law.",
+            "examples": [
+              "documentation testifying to the legality of the arms sale"
+            ]
+          },
+          {
+            "definition": "obligations imposed by law.",
+            "examples": [
+              "plural noun: legalities"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

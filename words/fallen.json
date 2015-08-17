@@ -1,0 +1,370 @@
+[
+  {
+    "word": "fallen",
+    "syllables": [
+      "fall",
+      "en"
+    ],
+    "pronunciation": "ˈfôlən",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "fallen"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "subject to sin or depravity.",
+            "examples": [
+              "fallen human nature"
+            ],
+            "synonyms": [
+              "immoral",
+              "loose",
+              "promiscuous",
+              "unchaste",
+              "sinful",
+              "impure",
+              "sullied",
+              "tainted",
+              "dishonored",
+              "ruined \"fallen women\""
+            ]
+          },
+          {
+            "definition": "(of a woman) regarded as having lost her honor through engaging in a sexual relationship outside marriage.",
+            "examples": [
+              "a fallen woman with a checkered past"
+            ],
+            "synonyms": [
+              "immoral",
+              "loose",
+              "promiscuous",
+              "unchaste",
+              "sinful",
+              "impure",
+              "sullied",
+              "tainted",
+              "dishonored",
+              "ruined \"fallen women\""
+            ]
+          },
+          {
+            "definition": "(of a soldier) killed in battle.",
+            "examples": [
+              "fallen heroes"
+            ],
+            "synonyms": [
+              "dead",
+              "perished",
+              "killed",
+              "slain",
+              "slaughtered",
+              "murdered; Morelost",
+              "late",
+              "lamented",
+              "departed",
+              "gone; formaldeceased \"fallen heroes\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "syllables": [
+      "fall"
+    ],
+    "pronunciation": "fôl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "fallen"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move downward, typically rapidly and freely without control, from a higher to a lower level.",
+            "examples": [
+              "bombs could be seen falling from the planes"
+            ],
+            "synonyms": [
+              "drop",
+              "descend",
+              "come down",
+              "go down; Moreplummet",
+              "plunge",
+              "sink",
+              "dive",
+              "tumble; cascade \"bombs began to fall\""
+            ],
+            "antonyms": [
+              "rise"
+            ]
+          },
+          {
+            "definition": "become detached accidentally and drop to the ground.",
+            "examples": [
+              "my sunglasses fell off and broke on the pavement"
+            ]
+          },
+          {
+            "definition": "hang down.",
+            "examples": [
+              "hair that was allowed to fall to the shoulders"
+            ]
+          },
+          {
+            "definition": "(of land) slope downward; drop away.",
+            "examples": [
+              "the land fell away in a steep bank"
+            ],
+            "synonyms": [
+              "slope down",
+              "slope",
+              "slant down",
+              "go down",
+              "drop",
+              "drop away",
+              "descend",
+              "dip",
+              "sink",
+              "plunge \"the ground here falls away abruptly\""
+            ]
+          },
+          {
+            "definition": "(of a river) flow or discharge itself into."
+          },
+          {
+            "definition": "(of someone's eyes or glance) be directed downward."
+          },
+          {
+            "definition": "(of someone's face) show dismay or disappointment by appearing to sag or droop.",
+            "examples": [
+              "her face fell as she thought about her life with George"
+            ]
+          },
+          {
+            "definition": "occur, arrive, or become apparent as if by dropping suddenly.",
+            "examples": [
+              "when night fell we managed to crawl back to our lines"
+            ],
+            "synonyms": [
+              "occur",
+              "take place",
+              "happen",
+              "come about; Morearise; literarycome to pass \"Easter fell on April 11th\"come",
+              "arrive",
+              "appear",
+              "arise",
+              "materialize \"night fell\""
+            ]
+          },
+          {
+            "definition": "(of a person) lose one's balance and collapse.",
+            "examples": [
+              "she fell down at school today"
+            ],
+            "synonyms": [
+              "topple over",
+              "tumble over",
+              "keel over",
+              "fall down/over",
+              "go head over heels",
+              "go headlong",
+              "collapse",
+              "take a spill",
+              "pitch forward; Moretrip",
+              "stumble",
+              "slip; informalcome a cropper \"he tripped and fell\""
+            ],
+            "antonyms": [
+              "get up"
+            ]
+          },
+          {
+            "definition": "throw oneself down, typically in order to worship or implore someone.",
+            "examples": [
+              "they fell on their knees, rendering thanks to God"
+            ]
+          },
+          {
+            "definition": "(of a tree, building, or other structure) collapse to the ground.",
+            "examples": [
+              "the house looked as if it were going to fall down at any moment"
+            ],
+            "synonyms": [
+              "collapse",
+              "cave in",
+              "crash in",
+              "fall down; Moregive way",
+              "crumble",
+              "disintegrate \"the roof fell in\""
+            ]
+          },
+          {
+            "definition": "(of a building or place) be captured or defeated.",
+            "examples": [
+              "their mountain strongholds fell to enemy attack"
+            ],
+            "synonyms": [
+              "surrender to",
+              "yield to",
+              "submit to",
+              "give in to",
+              "capitulate to",
+              "succumb to; Morebe taken by",
+              "be defeated by",
+              "be conquered by",
+              "be overwhelmed by \"the town fell to the barbarians\""
+            ],
+            "antonyms": [
+              "resist"
+            ]
+          },
+          {
+            "definition": "die in battle.",
+            "examples": [
+              "an English leader who had fallen at the hands of the Danes"
+            ],
+            "synonyms": [
+              "die",
+              "perish",
+              "lose one's life",
+              "be killed",
+              "be slain",
+              "be lost",
+              "meet one's death; Moreinformalbite the dust",
+              "croak",
+              "buy it",
+              "buy the farm \"those who fell in the war\""
+            ],
+            "antonyms": [
+              "flourish"
+            ]
+          },
+          {
+            "definition": "commit sin; yield to temptation.",
+            "examples": [
+              "it is their husband's fault if wives do fall"
+            ]
+          },
+          {
+            "definition": "(of a government or leader) lose office."
+          },
+          {
+            "definition": "(in sports) lose or be eliminated from play."
+          },
+          {
+            "definition": "decrease in number, amount, intensity, or quality.",
+            "examples": [
+              "in 1987 imports into Britain fell by 12 percent"
+            ],
+            "synonyms": [
+              "decrease",
+              "decline",
+              "diminish",
+              "fall off",
+              "drop off",
+              "lessen",
+              "dwindle; Moreplummet",
+              "plunge",
+              "slump",
+              "sink; depreciate",
+              "cheapen",
+              "devalue; informalgo through the floor",
+              "nosedive",
+              "take a header",
+              "crash \"inflation will fall\""
+            ],
+            "antonyms": [
+              "rise",
+              "increase"
+            ]
+          },
+          {
+            "definition": "find a lower level; subside or abate.",
+            "examples": [
+              "the water table in the Rift Valley fell"
+            ],
+            "synonyms": [
+              "subside",
+              "recede",
+              "ebb",
+              "flow back",
+              "fall away",
+              "go down",
+              "sink \"the river began to fall\""
+            ],
+            "antonyms": [
+              "rise",
+              "flood"
+            ]
+          },
+          {
+            "definition": "(of a measuring instrument) show a lower reading.",
+            "examples": [
+              "the barometer had fallen a further ten points"
+            ]
+          },
+          {
+            "definition": "pass into a specified state.",
+            "examples": [
+              "many of the buildings fell into disrepair"
+            ],
+            "synonyms": [
+              "become",
+              "grow",
+              "get",
+              "turn More\"she fell ill\"doze off",
+              "drop off",
+              "go to sleep; informalnod off",
+              "go off",
+              "drift off",
+              "crash",
+              "conk out",
+              "go out like a light",
+              "sack out \"I almost fell asleep at work\""
+            ]
+          },
+          {
+            "definition": "begin to do something.",
+            "examples": [
+              "he fell to musing about how it had happened"
+            ]
+          },
+          {
+            "definition": "be drawn accidentally into.",
+            "examples": [
+              "you must not fall into this common error"
+            ]
+          },
+          {
+            "definition": "occur at a specified time.",
+            "examples": [
+              "Mother's birthday fell on Flag Day"
+            ]
+          },
+          {
+            "definition": "be classified or ordered in the way specified.",
+            "examples": [
+              "canals fall within the Minister's brief"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

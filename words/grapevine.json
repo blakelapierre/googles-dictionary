@@ -1,0 +1,36 @@
+[
+  {
+    "word": "grapevine",
+    "syllables": [
+      "grape",
+      "vine"
+    ],
+    "pronunciation": "ˈɡrāpˌvīn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grapevine"
+          },
+          {
+            "part": "plural noun",
+            "variant": "grapevines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a vine native to both Eurasia and North America, especially one bearing fruit (grapes) used for eating or winemaking. Numerous cultivars and hybrids have been developed for the winemaking industry."
+          },
+          {
+            "definition": "used to refer to the circulation of rumors and unofficial information.",
+            "examples": [
+              "I'd heard through the grapevine that the business was nearly settled"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

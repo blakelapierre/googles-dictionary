@@ -1,0 +1,40 @@
+[
+  {
+    "word": "sugar",
+    "syllables": [
+      "sug",
+      "ar"
+    ],
+    "pronunciation": "ˈSHo͝oɡər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "sugars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sweeten, sprinkle, or coat with sugar.",
+            "examples": [
+              "she absentmindedly sugared her tea"
+            ]
+          },
+          {
+            "definition": "make more agreeable or palatable.",
+            "examples": [
+              "the novel was preachy but sugared heavily with jokes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

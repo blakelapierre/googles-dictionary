@@ -1,0 +1,88 @@
+[
+  {
+    "word": "shortening",
+    "syllables": [
+      "short",
+      "en",
+      "ing"
+    ],
+    "pronunciation": "ˈSHôrtniNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "shortening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "butter or other fat used for making pastry or bread."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shorten",
+    "syllables": [
+      "short",
+      "en"
+    ],
+    "pronunciation": "ˈSHôrtn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "shortening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become shorter.",
+            "examples": [
+              "he shortened his stride"
+            ],
+            "synonyms": [
+              "make shorter",
+              "abbreviate",
+              "abridge",
+              "condense",
+              "précis",
+              "synopsize",
+              "contract",
+              "compress",
+              "reduce",
+              "shrink",
+              "diminish",
+              "cut (down); Moredock",
+              "trim",
+              "crop",
+              "pare down",
+              "prune; curtail",
+              "truncate \"shorten your essay to a three-paragraph summary\""
+            ],
+            "antonyms": [
+              "extend"
+            ]
+          },
+          {
+            "definition": "reduce the amount of (sail) exposed to the wind."
+          },
+          {
+            "definition": "(with reference to gambling odds) make or become shorter; decrease.",
+            "examples": [
+              "the odds had shortened to 14-1"
+            ]
+          },
+          {
+            "definition": "make (a vowel or syllable) short."
+          }
+        ]
+      }
+    ]
+  }
+]

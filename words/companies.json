@@ -1,0 +1,155 @@
+[
+  {
+    "word": "company",
+    "syllables": [
+      "com",
+      "pa",
+      "ny"
+    ],
+    "pronunciation": "ˈkəmp(ə)nē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "companies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a commercial business.",
+            "examples": [
+              "a shipping company"
+            ],
+            "synonyms": [
+              "firm",
+              "business",
+              "corporation",
+              "establishment",
+              "agency",
+              "office",
+              "bureau",
+              "institution",
+              "organization",
+              "concern",
+              "enterprise; Moreconglomerate",
+              "consortium",
+              "syndicate",
+              "multinational; informaloutfit \"an oil company\""
+            ]
+          },
+          {
+            "definition": "the fact or condition of being with another or others, especially in a way that provides friendship and enjoyment.",
+            "examples": [
+              "I could do with some company"
+            ],
+            "synonyms": [
+              "companionship",
+              "friendship",
+              "fellowship",
+              "amity",
+              "camaraderie; Moresociety",
+              "association \"I enjoy his company\""
+            ]
+          },
+          {
+            "definition": "a person or people seen as a source of such friendship and enjoyment.",
+            "examples": [
+              "she is excellent company"
+            ]
+          },
+          {
+            "definition": "the person or group of people whose society someone is currently sharing.",
+            "examples": [
+              "he was silent among such distinguished company"
+            ],
+            "synonyms": [
+              "group",
+              "crowd",
+              "party",
+              "band",
+              "assembly",
+              "cluster",
+              "flock",
+              "herd",
+              "troupe",
+              "throng",
+              "congregation; Moreinformalbunch",
+              "gang \"a company of poets\""
+            ]
+          },
+          {
+            "definition": "a visiting person or group of people.",
+            "examples": [
+              "I'm expecting company"
+            ],
+            "synonyms": [
+              "guests",
+              "house guests",
+              "visitors",
+              "callers",
+              "people; someone \"I'm expecting company\""
+            ]
+          },
+          {
+            "definition": "a number of individuals gathered together, especially for a particular purpose.",
+            "examples": [
+              "the mayor addressed the assembled company"
+            ]
+          },
+          {
+            "definition": "a body of soldiers, especially the smallest subdivision of an infantry battalion, typically commanded by a major or captain.",
+            "examples": [
+              "the troops of C Company"
+            ],
+            "synonyms": [
+              "unit",
+              "section",
+              "detachment",
+              "troop",
+              "corps",
+              "squad",
+              "squadron",
+              "platoon",
+              "battalion",
+              "division \"a company of infantry\""
+            ]
+          },
+          {
+            "definition": "a group of actors, singers, or dancers who perform together.",
+            "examples": [
+              "a touring opera company"
+            ]
+          },
+          {
+            "definition": "the Central Intelligence Agency."
+          }
+        ]
+      },
+      {
+        "part": "verbliterary",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "companies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "associate with; keep company with.",
+            "examples": [
+              "these men which have companied with us all this time"
+            ]
+          },
+          {
+            "definition": "accompany (someone).",
+            "examples": [
+              "the fair dame, companied by Statius and myself"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

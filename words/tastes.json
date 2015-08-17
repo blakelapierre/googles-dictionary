@@ -1,0 +1,222 @@
+[
+  {
+    "word": "taste",
+    "syllables": [
+      "taste"
+    ],
+    "pronunciation": "tāst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "tastes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the sensation of flavor perceived in the mouth and throat on contact with a substance.",
+            "examples": [
+              "the wine had a fruity taste"
+            ],
+            "synonyms": [
+              "flavor",
+              "savor",
+              "relish",
+              "tang",
+              "smack \"a distinctive sharp taste\""
+            ]
+          },
+          {
+            "definition": "the faculty of perceiving taste.",
+            "examples": [
+              "birds do not have a highly developed sense of taste"
+            ]
+          },
+          {
+            "definition": "a small portion of food or drink taken as a sample.",
+            "examples": [
+              "try a taste of Gorgonzola"
+            ],
+            "synonyms": [
+              "mouthful",
+              "drop",
+              "bit",
+              "sip",
+              "nip",
+              "swallow",
+              "touch",
+              "soupçon",
+              "dash",
+              "modicum \"he was dying for a taste of brandy\""
+            ]
+          },
+          {
+            "definition": "a brief experience of something, conveying its basic character.",
+            "examples": [
+              "it was his first taste of serious action"
+            ],
+            "synonyms": [
+              "experience of/with",
+              "impression of; Moreexposure to",
+              "contact with",
+              "involvement with \"my first taste of prison\""
+            ]
+          },
+          {
+            "definition": "a person's liking for particular flavors.",
+            "examples": [
+              "this pudding is too sweet for my taste"
+            ],
+            "synonyms": [
+              "palate",
+              "taste buds",
+              "appetite",
+              "stomach \"it's too sweet for my taste\""
+            ]
+          },
+          {
+            "definition": "a person's tendency to like and dislike certain things.",
+            "examples": [
+              "he found the aggressive competitiveness of the profession was not to his taste"
+            ],
+            "synonyms": [
+              "liking",
+              "love",
+              "fondness",
+              "fancy",
+              "desire",
+              "preference",
+              "penchant",
+              "predilection",
+              "inclination",
+              "partiality; Morehankering",
+              "appetite",
+              "hunger",
+              "thirst",
+              "relish \"a taste for adventure\""
+            ],
+            "antonyms": [
+              "dislike"
+            ]
+          },
+          {
+            "definition": "a liking for or interest in (something).",
+            "examples": [
+              "have you lost your taste for fancy restaurants?"
+            ]
+          },
+          {
+            "definition": "the ability to discern what is of good quality or of a high aesthetic standard.",
+            "examples": [
+              "she has awful taste in literature"
+            ],
+            "synonyms": [
+              "judgment",
+              "discrimination",
+              "discernment",
+              "tastefulness",
+              "refinement",
+              "finesse",
+              "elegance",
+              "grace",
+              "style \"the house was furnished with taste\""
+            ],
+            "antonyms": [
+              "tastelessness",
+              "tackiness"
+            ]
+          },
+          {
+            "definition": "conformity or failure to conform with generally held views concerning what is offensive or acceptable.",
+            "examples": [
+              "that's a joke in very bad taste"
+            ],
+            "synonyms": [
+              "decorum",
+              "propriety",
+              "etiquette",
+              "politeness",
+              "delicacy",
+              "nicety",
+              "sensitivity",
+              "discretion",
+              "tastefulness \"the photo was rejected on grounds of taste\""
+            ],
+            "antonyms": [
+              "dislike"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tastes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perceive or experience the flavor of.",
+            "examples": [
+              "she had never tasted ice cream before"
+            ],
+            "synonyms": [
+              "perceive",
+              "discern",
+              "make out",
+              "distinguish \"he could taste blood on his lip\""
+            ]
+          },
+          {
+            "definition": "have a specified flavor.",
+            "examples": [
+              "the spinach tastes delicious"
+            ],
+            "synonyms": [
+              "have a/the flavor of",
+              "savor of",
+              "smack of",
+              "be reminiscent of; suggest \"a beer that tasted of pumpkin\""
+            ]
+          },
+          {
+            "definition": "sample or test the flavor of (food or drink) by taking it into the mouth.",
+            "examples": [
+              "the waiter poured some wine for him to taste"
+            ],
+            "synonyms": [
+              "sample",
+              "test",
+              "try",
+              "savor; Moresip",
+              "sup \"Adam tasted the wine\""
+            ]
+          },
+          {
+            "definition": "eat or drink a small portion of.",
+            "examples": [
+              "consume, drink, partake of; Moreeat, devour \"it'll be good to taste real coffee again\"Moreeat, devour it'll be good to taste real coffee again"
+            ]
+          },
+          {
+            "definition": "have experience of.",
+            "examples": [
+              "the team has not yet tasted victory at home"
+            ],
+            "synonyms": [
+              "experience",
+              "encounter",
+              "come face to face with",
+              "come up against",
+              "undergo; know \"he tasted defeat\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

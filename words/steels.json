@@ -1,0 +1,61 @@
+[
+  {
+    "word": "steel",
+    "syllables": [
+      "steel"
+    ],
+    "pronunciation": "stēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "steels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hard, strong, gray or bluish-gray alloy of iron with carbon and usually other elements, used extensively as a structural and fabricating material."
+          },
+          {
+            "definition": "used as a symbol or embodiment of strength and firmness.",
+            "examples": [
+              "nerves of steel"
+            ]
+          },
+          {
+            "definition": "a rod of roughened steel on which knives are sharpened."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "steels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mentally prepare (oneself) to do or face something difficult.",
+            "examples": [
+              "I speak quickly, steeling myself for a mean reply"
+            ],
+            "synonyms": [
+              "brace oneself",
+              "nerve oneself",
+              "summon (up) one's courage",
+              "screw up one's courage",
+              "gear oneself up",
+              "prepare oneself",
+              "get in the right frame of mind; Morefortify oneself",
+              "harden oneself; informalpsych oneself up; literarygird (up) one's loins \"the coach gives us tips on how to steel ourselves before a game\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

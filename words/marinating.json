@@ -1,0 +1,43 @@
+[
+  {
+    "word": "marinate",
+    "syllables": [
+      "mar",
+      "i",
+      "nate"
+    ],
+    "pronunciation": "ˈmerəˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "marinating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "soak (meat, fish, or other food) in a marinade.",
+            "examples": [
+              "the beef was marinated in red wine vinegar"
+            ],
+            "synonyms": [
+              "steep",
+              "soak",
+              "souse",
+              "immerse",
+              "marinade",
+              "bathe \"marinate the ribs in a mixture of beer",
+              "honey",
+              "and orange rind\""
+            ]
+          },
+          {
+            "definition": "(of food) undergo soaking in a marinade."
+          }
+        ]
+      }
+    ]
+  }
+]

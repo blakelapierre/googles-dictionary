@@ -1,0 +1,66 @@
+[
+  {
+    "word": "emphasize",
+    "syllables": [
+      "em",
+      "pha",
+      "size"
+    ],
+    "pronunciation": "ˈemfəˌsīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "emphasizing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give special importance or prominence to (something) in speaking or writing.",
+            "examples": [
+              "he jabbed a finger into the tabletop to emphasize his point"
+            ],
+            "synonyms": [
+              "stress",
+              "underline",
+              "highlight",
+              "focus attention on",
+              "point up",
+              "lay stress on",
+              "draw attention to",
+              "spotlight",
+              "foreground",
+              "play up",
+              "make a point of; Morebring to the fore",
+              "insist on",
+              "belabor; accent",
+              "accentuate",
+              "underscore; informalpress home",
+              "rub it in \"the profile emphasizes his dedication to feeding the hungry\""
+            ],
+            "antonyms": [
+              "understate"
+            ]
+          },
+          {
+            "definition": "lay stress on (a word or phrase) when speaking.",
+            "examples": [
+              "stress, underline, highlight, focus attention on, point up, lay stress on, draw attention to, spotlight, foreground, play up, make a point of; Morebring to the fore, insist on, belabor; accent, accentuate, underscore; informalpress home, rub it in \"the profile emphasizes his dedication to feeding the hungry\"Morebring to the fore, insist on, belabor; accent, accentuate, underscore; press home, rub it in the profile emphasizes his dedication to feeding the hungry"
+            ],
+            "antonyms": [
+              "understate"
+            ]
+          },
+          {
+            "definition": "make (something) more clearly defined.",
+            "examples": [
+              "a one-piece bathing suit that emphasized her build"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

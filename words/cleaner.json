@@ -1,0 +1,271 @@
+[
+  {
+    "word": "cleaner",
+    "syllables": [
+      "clean",
+      "er"
+    ],
+    "pronunciation": "ˈklēnər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cleaner"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cleaners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that cleans something, in particular."
+          },
+          {
+            "definition": "a person employed to clean the interior of a building."
+          },
+          {
+            "definition": "a place of business where clothes and fabrics are dry-cleaned.",
+            "examples": [
+              "plural noun: the cleaners"
+            ]
+          },
+          {
+            "definition": "a device for cleaning, such as a vacuum cleaner."
+          },
+          {
+            "definition": "a chemical substance used for cleaning.",
+            "examples": [
+              "an oven cleaner"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "clean",
+    "syllables": [
+      "clean"
+    ],
+    "pronunciation": "klēn",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "cleaner"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "free from dirt, marks, or stains.",
+            "examples": [
+              "the room was spotlessly clean"
+            ],
+            "synonyms": [
+              "washed",
+              "scrubbed",
+              "cleansed",
+              "cleaned; Morespotless",
+              "unsoiled",
+              "unstained",
+              "unsullied",
+              "unblemished",
+              "immaculate",
+              "pristine",
+              "dirt-free; hygienic",
+              "sanitary",
+              "disinfected",
+              "sterilized",
+              "sterile",
+              "aseptic",
+              "decontaminated; laundered; informalsqueaky clean",
+              "as clean as a whistle \"keep the wound clean\""
+            ],
+            "antonyms": [
+              "dirty"
+            ]
+          },
+          {
+            "definition": "having been washed since last worn or used.",
+            "examples": [
+              "a clean blouse"
+            ]
+          },
+          {
+            "definition": "(of paper) not yet marked by writing or drawing.",
+            "examples": [
+              "he copied the directions onto a clean sheet of paper"
+            ],
+            "synonyms": [
+              "blank",
+              "empty",
+              "clear",
+              "plain; Moreunused",
+              "new",
+              "pristine",
+              "fresh",
+              "unmarked \"a clean sheet of paper\""
+            ],
+            "antonyms": [
+              "used"
+            ]
+          },
+          {
+            "definition": "(of a person) attentive to personal hygiene.",
+            "examples": [
+              "by nature he was clean and neat"
+            ]
+          },
+          {
+            "definition": "free from pollutants or unpleasant substances.",
+            "examples": [
+              "we will create a cleaner, safer environment"
+            ],
+            "synonyms": [
+              "pure",
+              "clear",
+              "fresh",
+              "crisp",
+              "refreshing; Moreunpolluted",
+              "uncontaminated \"clean air\""
+            ],
+            "antonyms": [
+              "polluted"
+            ]
+          },
+          {
+            "definition": "free from or producing relatively little radioactive contamination."
+          },
+          {
+            "definition": "morally uncontaminated; pure; innocent.",
+            "examples": [
+              "clean living"
+            ],
+            "synonyms": [
+              "virtuous",
+              "good",
+              "upright",
+              "upstanding; Morehonorable",
+              "respectable",
+              "reputable",
+              "decent",
+              "righteous",
+              "moral",
+              "exemplary; innocent",
+              "pure",
+              "chaste; informalsqueaky clean \"a clean life\"innocent",
+              "guiltless",
+              "blameless",
+              "guilt-free",
+              "crime-free",
+              "above suspicion; informalsqueaky clean \"the firm is clean\""
+            ],
+            "antonyms": [
+              "guilty",
+              "dirty",
+              "polluted"
+            ]
+          },
+          {
+            "definition": "not sexually offensive or obscene.",
+            "examples": [
+              "it's all good clean fun"
+            ]
+          },
+          {
+            "definition": "showing or having no record of offenses or crimes.",
+            "examples": [
+              "a clean driving license is essential for the job"
+            ]
+          },
+          {
+            "definition": "played or done according to the rules.",
+            "examples": [
+              "it was a good clean fight"
+            ],
+            "synonyms": [
+              "fair",
+              "honest",
+              "sporting",
+              "sportsmanlike",
+              "honorable",
+              "according to the rules; informalon the level \"a good clean fight\""
+            ],
+            "antonyms": [
+              "dirty",
+              "unfair"
+            ]
+          },
+          {
+            "definition": "not possessing or containing anything illegal, especially drugs or stolen goods.",
+            "examples": [
+              "I searched him and his luggage, and he was clean"
+            ]
+          },
+          {
+            "definition": "(of a person) not taking or having taken drugs or alcohol.",
+            "examples": [
+              "sober, teetotal, dry, nondrinking; Moredrug-free, off drugs; informalon the wagon \"they are trying to stay clean\"Moredrug-free, off drugs; on the wagon they are trying to stay clean"
+            ]
+          },
+          {
+            "definition": "free from ceremonial defilement, according to Mosaic Law and similar religious codes."
+          },
+          {
+            "definition": "free from irregularities; having a smooth edge or surface.",
+            "examples": [
+              "a clean fracture of the leg"
+            ]
+          },
+          {
+            "definition": "having a simple, well-defined, and pleasing shape.",
+            "examples": [
+              "the clean lines and pared-down planes of modernism"
+            ],
+            "synonyms": [
+              "simple",
+              "elegant",
+              "graceful",
+              "streamlined",
+              "smooth \"clean lines\""
+            ],
+            "antonyms": [
+              "complex",
+              "elaborate"
+            ]
+          },
+          {
+            "definition": "(of an action) smoothly and skillfully done.",
+            "examples": [
+              "I still hadn't made a clean takeoff"
+            ],
+            "synonyms": [
+              "neat",
+              "smooth",
+              "crisp",
+              "straight",
+              "precise \"a clean cut\""
+            ],
+            "antonyms": [
+              "ragged"
+            ]
+          },
+          {
+            "definition": "(of a taste, sound, or smell) giving a clear and distinctive impression to the senses; sharp and fresh.",
+            "examples": [
+              "clean, fresh, natural flavors"
+            ]
+          },
+          {
+            "definition": "(of timber) free from knots."
+          }
+        ]
+      }
+    ]
+  }
+]

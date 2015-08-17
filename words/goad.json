@@ -1,0 +1,107 @@
+[
+  {
+    "word": "goad",
+    "syllables": [
+      "goad"
+    ],
+    "pronunciation": "ɡōd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "goad"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "goads"
+          },
+          {
+            "part": "past tense",
+            "variant": "goaded"
+          },
+          {
+            "part": "past participle",
+            "variant": "goaded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "goading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provoke or annoy (someone) so as to stimulate some action or reaction.",
+            "examples": [
+              "he goaded her on to more daring revelations"
+            ],
+            "synonyms": [
+              "provoke",
+              "spur",
+              "prod",
+              "egg on",
+              "hound",
+              "badger",
+              "incite",
+              "rouse",
+              "stir",
+              "move",
+              "stimulate",
+              "motivate",
+              "prompt",
+              "induce",
+              "encourage",
+              "urge",
+              "inspire; Moreimpel",
+              "pressure",
+              "dragoon \"we were goaded into action\""
+            ]
+          },
+          {
+            "definition": "drive or urge (an animal) on with a goad."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "goad"
+          },
+          {
+            "part": "plural noun",
+            "variant": "goads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a spiked stick used for driving cattle.",
+            "examples": [
+              "prod, spike, staff, crook, rod he applied his goad to the cows"
+            ]
+          },
+          {
+            "definition": "a thing that stimulates someone into action.",
+            "examples": [
+              "for him the visit was a goad to renewed effort"
+            ],
+            "synonyms": [
+              "stimulus",
+              "incentive",
+              "encouragement",
+              "inducement",
+              "fillip",
+              "spur",
+              "prod",
+              "prompt",
+              "catalyst; Moremotive",
+              "motivation \"a goad to political change\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

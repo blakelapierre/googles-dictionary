@@ -1,0 +1,46 @@
+[
+  {
+    "word": "torso",
+    "syllables": [
+      "tor",
+      "so"
+    ],
+    "pronunciation": "ˈtôrsō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "torso"
+          },
+          {
+            "part": "plural noun",
+            "variant": "torsi"
+          },
+          {
+            "part": "plural noun",
+            "variant": "torsos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the trunk of the human body.",
+            "examples": [
+              "body, upper body, trunk, chest a clay figure of his torso"
+            ]
+          },
+          {
+            "definition": "the trunk of a statue without, or considered independently of, the head and limbs."
+          },
+          {
+            "definition": "an unfinished or mutilated thing, especially a work of art or literature.",
+            "examples": [
+              "the Requiem torso was preceded by the cantata"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

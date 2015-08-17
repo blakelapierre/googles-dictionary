@@ -1,0 +1,135 @@
+[
+  {
+    "word": "taint",
+    "syllables": [
+      "taint"
+    ],
+    "pronunciation": "tānt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "taint"
+          },
+          {
+            "part": "plural noun",
+            "variant": "taints"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a trace of a bad or undesirable quality or substance.",
+            "examples": [
+              "the taint of corruption that adhered to the regime"
+            ],
+            "synonyms": [
+              "trace",
+              "touch",
+              "suggestion",
+              "hint",
+              "tinge; Morestain",
+              "blot",
+              "blemish",
+              "stigma",
+              "black mark",
+              "discredit",
+              "dishonor",
+              "disgrace",
+              "shame \"the taint of corruption\""
+            ]
+          },
+          {
+            "definition": "a thing whose influence or effect is perceived as contaminating or undesirable.",
+            "examples": [
+              "the taint that threatens to stain most of the company's other partners"
+            ]
+          },
+          {
+            "definition": "an unpleasant smell.",
+            "examples": [
+              "the lingering taint of creosote"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "taint"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "taints"
+          },
+          {
+            "part": "past tense",
+            "variant": "tainted"
+          },
+          {
+            "part": "past participle",
+            "variant": "tainted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tainting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "contaminate or pollute (something).",
+            "examples": [
+              "the air was tainted by fumes from the cars"
+            ],
+            "synonyms": [
+              "contaminate",
+              "pollute",
+              "adulterate",
+              "infect",
+              "blight",
+              "spoil",
+              "soil",
+              "ruin",
+              "destroy; literarybefoul \"the wilderness is tainted by pollution\""
+            ],
+            "antonyms": [
+              "clean"
+            ]
+          },
+          {
+            "definition": "affect with a bad or undesirable quality.",
+            "examples": [
+              "his administration was tainted by scandal"
+            ],
+            "synonyms": [
+              "tarnish",
+              "sully",
+              "blacken",
+              "stain",
+              "blot",
+              "blemish",
+              "stigmatize",
+              "mar",
+              "corrupt",
+              "defile",
+              "soil",
+              "muddy",
+              "damage",
+              "harm",
+              "hurt; Moredrag through the mud; literarybesmirch \"those fraudsters taint the reputation of legitimate claimants\""
+            ],
+            "antonyms": [
+              "improve"
+            ]
+          },
+          {
+            "definition": "(of food or water) become contaminated or polluted."
+          }
+        ]
+      }
+    ]
+  }
+]

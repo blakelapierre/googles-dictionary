@@ -1,0 +1,62 @@
+[
+  {
+    "word": "devote",
+    "syllables": [
+      "de",
+      "vote"
+    ],
+    "pronunciation": "dəˈvōt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "devote"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "devotes"
+          },
+          {
+            "part": "past tense",
+            "variant": "devoted"
+          },
+          {
+            "part": "past participle",
+            "variant": "devoted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "devoting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give all or a large part of one's time or resources to (a person, activity, or cause).",
+            "examples": [
+              "I wanted to devote more time to my family"
+            ],
+            "synonyms": [
+              "allocate",
+              "assign",
+              "allot",
+              "commit",
+              "give (over)",
+              "apportion",
+              "consign",
+              "pledge; Morededicate",
+              "consecrate; set aside",
+              "earmark",
+              "reserve",
+              "designate \"they devoted considerable time to the matter\""
+            ]
+          },
+          {
+            "definition": "invoke or pronounce a curse upon."
+          }
+        ]
+      }
+    ]
+  }
+]

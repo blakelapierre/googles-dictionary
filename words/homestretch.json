@@ -1,0 +1,47 @@
+[
+  {
+    "word": "homestretch",
+    "syllables": [
+      "home",
+      "stretch"
+    ],
+    "pronunciation": "ˈhōmˈstreCH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "homestretch"
+          },
+          {
+            "part": "plural noun",
+            "variant": "homestretches"
+          },
+          {
+            "part": "noun",
+            "variant": "home stretch"
+          },
+          {
+            "part": "plural noun",
+            "variant": "home stretches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the concluding straight part of a racecourse.",
+            "examples": [
+              "he drifted in back of the pack halfway down the homestretch"
+            ]
+          },
+          {
+            "definition": "the last part of an activity or campaign.",
+            "examples": [
+              "this was his last term, the home stretch"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

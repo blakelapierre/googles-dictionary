@@ -1,0 +1,133 @@
+[
+  {
+    "word": "fiddle",
+    "syllables": [
+      "fid",
+      "dle"
+    ],
+    "pronunciation": "ˈfidl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fiddle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fiddles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a violin, especially when used to play folk music.",
+            "examples": [
+              "violin, viola she played the fiddle"
+            ]
+          },
+          {
+            "definition": "an act of defrauding, cheating, or falsifying.",
+            "examples": [
+              "a major mortgage fiddle"
+            ]
+          },
+          {
+            "definition": "a contrivance, such as a raised rim, that prevents things from rolling or sliding off a table in bad weather."
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fiddle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fiddles"
+          },
+          {
+            "part": "past tense",
+            "variant": "fiddled"
+          },
+          {
+            "part": "past participle",
+            "variant": "fiddled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fiddling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "play the fiddle.",
+            "examples": [
+              "he fiddled with the band from 1949 to 1951"
+            ]
+          },
+          {
+            "definition": "play (a tune) on the fiddle.",
+            "examples": [
+              "Bill Monroe fiddled his last tune at his annual Beanblossom Bluegrass Festival"
+            ]
+          },
+          {
+            "definition": "touch or fidget with something in a restless or nervous way.",
+            "examples": [
+              "Laura fiddled with her cup"
+            ],
+            "synonyms": [
+              "fidget",
+              "play",
+              "toy",
+              "twiddle",
+              "fuss",
+              "fool about/around; Morefinger",
+              "thumb",
+              "handle; informalmess around/about \"he fiddled with a coaster\""
+            ]
+          },
+          {
+            "definition": "tinker with something in an attempt to make minor adjustments or improvements.",
+            "examples": [
+              "never fiddle with an electric machine that's plugged in"
+            ],
+            "synonyms": [
+              "adjust",
+              "tinker",
+              "play around",
+              "meddle",
+              "interfere \"he fiddled with the dials\""
+            ]
+          },
+          {
+            "definition": "pass time aimlessly, without doing or achieving anything of substance."
+          },
+          {
+            "definition": "falsify (figures, data, or records), typically in order to gain money.",
+            "examples": [
+              "everyone is fiddling their expenses"
+            ],
+            "synonyms": [
+              "falsify",
+              "manipulate",
+              "massage",
+              "rig",
+              "distort",
+              "misrepresent",
+              "doctor",
+              "alter",
+              "tamper with",
+              "interfere with; Moreinformalfix",
+              "flimflam",
+              "cook (the books) \"these companies are not the only ones fiddling their figures\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

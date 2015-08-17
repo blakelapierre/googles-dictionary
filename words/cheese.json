@@ -1,0 +1,127 @@
+[
+  {
+    "word": "cheese",
+    "syllables": [
+      "cheese"
+    ],
+    "pronunciation": "CHēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cheese"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cheeses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a food made from the pressed curds of milk.",
+            "examples": [
+              "grated cheese"
+            ]
+          },
+          {
+            "definition": "a complete molded mass of cheese with its rind, often in a round flat shape.",
+            "examples": [
+              "a 50-pound, muslin-wrapped cheese"
+            ]
+          },
+          {
+            "definition": "a round flat object resembling a cheese."
+          },
+          {
+            "definition": "the quality of being too obviously sentimental.",
+            "examples": [
+              "the conversations tend too far toward cheese"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cheese",
+    "syllables": [
+      "cheese"
+    ],
+    "pronunciation": "CHēz",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "big cheese"
+          },
+          {
+            "part": "plural noun",
+            "variant": "big cheeses"
+          },
+          {
+            "part": "noun",
+            "variant": "cheese"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cheeses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an important person.",
+            "examples": [
+              "he was a big cheese in the business world"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cheese",
+    "syllables": [
+      "cheese"
+    ],
+    "pronunciation": "CHēz",
+    "parts": [
+      {
+        "part": "verbBritishinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cheese"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cheeses"
+          },
+          {
+            "part": "past tense",
+            "variant": "cheesed"
+          },
+          {
+            "part": "past participle",
+            "variant": "cheesed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cheesing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exasperate, frustrate, or bore.",
+            "examples": [
+              "that really cheesed off Ricky"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

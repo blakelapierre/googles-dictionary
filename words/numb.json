@@ -1,0 +1,116 @@
+[
+  {
+    "word": "numb",
+    "syllables": [
+      "numb"
+    ],
+    "pronunciation": "nəm",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "numb"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deprived of the power of sensation.",
+            "examples": [
+              "my feet were numb with cold"
+            ],
+            "synonyms": [
+              "without sensation",
+              "without feeling",
+              "numbed",
+              "benumbed",
+              "desensitized",
+              "insensible",
+              "senseless",
+              "unfeeling; Moreanesthetized; dazed",
+              "stunned",
+              "stupefied",
+              "paralyzed",
+              "immobilized",
+              "frozen \"his fingers were numb\""
+            ],
+            "antonyms": [
+              "sensitive"
+            ]
+          },
+          {
+            "definition": "unable to think, feel, or respond normally.",
+            "examples": [
+              "the tragic events left us shocked and numb"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "numb"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "numbs"
+          },
+          {
+            "part": "past tense",
+            "variant": "numbed"
+          },
+          {
+            "part": "past participle",
+            "variant": "numbed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "numbing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deprive of feeling or responsiveness.",
+            "examples": [
+              "the cold had numbed her senses"
+            ],
+            "synonyms": [
+              "desensitizing",
+              "deadening",
+              "benumbing",
+              "anesthetic",
+              "anesthetizing; Moreparalyzing \"menthol has a numbing effect\"freezing",
+              "raw",
+              "bitter",
+              "biting",
+              "arctic",
+              "icy \"numbing cold\""
+            ]
+          },
+          {
+            "definition": "cause (a sensation) to be felt less intensely; deaden.",
+            "examples": [
+              "vodka might numb the pain in my hand"
+            ],
+            "synonyms": [
+              "deaden",
+              "benumb",
+              "desensitize",
+              "dull; Moreanesthetize; daze",
+              "stupefy",
+              "paralyze",
+              "immobilize",
+              "freeze \"the cold numbed her senses\""
+            ],
+            "antonyms": [
+              "sensitize"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

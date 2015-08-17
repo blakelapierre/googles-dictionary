@@ -1,0 +1,57 @@
+[
+  {
+    "word": "impend",
+    "syllables": [
+      "im",
+      "pend"
+    ],
+    "pronunciation": "imˈpend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "impending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be about to happen.",
+            "examples": [
+              "my impending departure"
+            ],
+            "synonyms": [
+              "imminent",
+              "close (at hand)",
+              "near",
+              "nearing",
+              "approaching",
+              "coming",
+              "forthcoming",
+              "upcoming",
+              "to come",
+              "on the way",
+              "about to happen",
+              "in store",
+              "in the offing",
+              "on the horizon",
+              "in the air/wind",
+              "brewing",
+              "looming",
+              "threatening",
+              "menacing; Moreinformalcoming down the pike",
+              "in the cards \"a smarter grid could warn of impending blackouts\""
+            ]
+          },
+          {
+            "definition": "(of something bad) loom.",
+            "examples": [
+              "danger of collision impends"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

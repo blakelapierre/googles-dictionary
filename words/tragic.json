@@ -1,0 +1,95 @@
+[
+  {
+    "word": "tragic",
+    "syllables": [
+      "trag",
+      "ic"
+    ],
+    "pronunciation": "ˈtrajik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "tragic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing or characterized by extreme distress or sorrow.",
+            "examples": [
+              "the shooting was a tragic accident"
+            ],
+            "synonyms": [
+              "disastrous",
+              "calamitous",
+              "catastrophic",
+              "cataclysmic",
+              "devastating",
+              "terrible",
+              "dreadful",
+              "awful",
+              "appalling",
+              "dismal",
+              "horrendous; Morefatal",
+              "deadly",
+              "mortal",
+              "lethal \"a tragic accident\"regrettable",
+              "shameful",
+              "terrible",
+              "horrible",
+              "awful",
+              "deplorable",
+              "lamentable",
+              "piteous",
+              "dreadful",
+              "grievous \"a tragic waste of talent\""
+            ],
+            "antonyms": [
+              "fortunate",
+              "lucky"
+            ]
+          },
+          {
+            "definition": "suffering extreme distress or sorrow.",
+            "examples": [
+              "the tragic parents reached the end of their tether"
+            ],
+            "synonyms": [
+              "sad",
+              "unhappy",
+              "pathetic",
+              "moving",
+              "distressing",
+              "depressing",
+              "painful",
+              "harrowing",
+              "heart-rending",
+              "piteous",
+              "wretched",
+              "sorry; Moremelancholy",
+              "doleful",
+              "mournful",
+              "miserable",
+              "gut-wrenching \"a tragic tale\""
+            ],
+            "antonyms": [
+              "joyful",
+              "happy"
+            ]
+          },
+          {
+            "definition": "very bad or inadeqate.",
+            "examples": [
+              "on the other hand, I like degenerate, tragic food"
+            ]
+          },
+          {
+            "definition": "of or relating to tragedy in a literary work."
+          }
+        ]
+      }
+    ]
+  }
+]

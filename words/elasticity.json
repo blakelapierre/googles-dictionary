@@ -1,0 +1,55 @@
+[
+  {
+    "word": "elasticity",
+    "syllables": [
+      "e",
+      "las",
+      "tic",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ēˌlaˈstisədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "elasticity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the ability of an object or material to resume its normal shape after being stretched or compressed; stretchiness.",
+            "examples": [
+              "aging can decrease the elasticity of your skin"
+            ],
+            "synonyms": [
+              "stretchiness",
+              "flexibility",
+              "pliancy",
+              "suppleness",
+              "plasticity",
+              "resilience",
+              "springiness",
+              "give More\"the skin's natural elasticity\"adaptability",
+              "flexibility",
+              "adjustability",
+              "fluidity",
+              "versatility \"the elasticity of the term\""
+            ]
+          },
+          {
+            "definition": "the ability of something to change and adapt; adaptability."
+          },
+          {
+            "definition": "the degree to which a demand or supply is sensitive to changes in price or income.",
+            "examples": [
+              "the price elasticity of electricity demand"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

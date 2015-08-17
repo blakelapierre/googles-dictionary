@@ -1,0 +1,106 @@
+[
+  {
+    "word": "shed",
+    "syllables": [
+      "shed"
+    ],
+    "pronunciation": "SHed",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "shedding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "park (a vehicle) in a depot."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shed",
+    "syllables": [
+      "shed"
+    ],
+    "pronunciation": "SHed",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "shedding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a tree or other plant) allow (leaves or fruit) to fall to the ground.",
+            "examples": [
+              "both varieties shed leaves in winter"
+            ]
+          },
+          {
+            "definition": "(of a reptile, insect, etc.) allow (its skin or shell) to come off, to be replaced by another one that has grown underneath.",
+            "examples": [
+              "slough off, cast off, molt the caterpillar shed its skin"
+            ]
+          },
+          {
+            "definition": "(of a mammal) lose (hair) as a result of molting, disease, or age."
+          },
+          {
+            "definition": "take off (clothes).",
+            "examples": [
+              "take off, remove, shrug off, discard, doff, climb out of, slip out of, divest oneself of, peel off we shed our jackets"
+            ],
+            "antonyms": [
+              "don"
+            ]
+          },
+          {
+            "definition": "discard (something undesirable, superfluous, or outdated).",
+            "examples": [
+              "what they lacked was a willingness to shed the arrogance of the past"
+            ],
+            "synonyms": [
+              "lose",
+              "get rid of",
+              "discard More\"she shed 20 pounds\"discard",
+              "get rid of",
+              "dispose of",
+              "do away with",
+              "drop",
+              "abandon",
+              "jettison",
+              "scrap",
+              "cast aside",
+              "dump",
+              "reject",
+              "repudiate; informalditch",
+              "junk \"they must shed their illusions\""
+            ],
+            "antonyms": [
+              "put on",
+              "adopt",
+              "keep"
+            ]
+          },
+          {
+            "definition": "have the property of preventing (something) from being absorbed.",
+            "examples": [
+              "this leather has a superior ability to shed water, sweat, and salt"
+            ]
+          },
+          {
+            "definition": "eliminate part of (an electrical power load) by disconnecting circuits."
+          }
+        ]
+      }
+    ]
+  }
+]

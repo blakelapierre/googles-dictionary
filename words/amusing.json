@@ -1,0 +1,105 @@
+[
+  {
+    "word": "amusing",
+    "syllables": [
+      "a",
+      "mus",
+      "ing"
+    ],
+    "pronunciation": "əˈmyo͞oziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "amusing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing laughter or providing entertainment.",
+            "examples": [
+              "such a likable, amusing man!"
+            ],
+            "synonyms": [
+              "entertaining",
+              "funny",
+              "comical",
+              "humorous",
+              "lighthearted",
+              "jocular",
+              "witty",
+              "mirthful",
+              "hilarious",
+              "droll",
+              "diverting; Morelaughable; informalwacky",
+              "side-splitting",
+              "rib-tickling \"an amusing story\""
+            ],
+            "antonyms": [
+              "boring",
+              "solemn"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amuse",
+    "syllables": [
+      "a",
+      "muse"
+    ],
+    "pronunciation": "əˈmyo͞oz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "amusing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) to find something funny; entertain.",
+            "examples": [
+              "he made faces to amuse her"
+            ]
+          },
+          {
+            "definition": "provide interesting and enjoyable occupation for (someone).",
+            "examples": [
+              "the hotel has planned many activities to amuse its guests"
+            ],
+            "synonyms": [
+              "entertain",
+              "make laugh",
+              "delight",
+              "divert",
+              "cheer (up)",
+              "please",
+              "charm",
+              "tickle; Moreinformaltickle pink",
+              "crack up \"the ugliest dog contest amused him\"occupy",
+              "engage",
+              "busy",
+              "employ",
+              "distract",
+              "absorb",
+              "engross; interest",
+              "entertain",
+              "divert \"he amused himself by writing poetry\""
+            ],
+            "antonyms": [
+              "bore",
+              "depress"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

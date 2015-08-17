@@ -1,0 +1,200 @@
+[
+  {
+    "word": "bounce",
+    "syllables": [
+      "bounce"
+    ],
+    "pronunciation": "bouns",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bounces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an object, especially a ball) move quickly up, back, or away from a surface after hitting it; rebound (once or repeatedly).",
+            "examples": [
+              "the ball bounced off the rim"
+            ],
+            "synonyms": [
+              "rebound",
+              "spring back",
+              "ricochet",
+              "jounce",
+              "carom; reflect \"the ball bounced\""
+            ]
+          },
+          {
+            "definition": "(of light, sound, or an electronic signal) come into contact with an object or surface and be reflected.",
+            "examples": [
+              "short sound waves bounce off even small objects"
+            ]
+          },
+          {
+            "definition": "(of an e-mail) be returned to its sender after failing to reach its destination.",
+            "examples": [
+              "I tried to e-mail him, but the message bounced"
+            ]
+          },
+          {
+            "definition": "recover well after a setback.",
+            "examples": [
+              "he was admired for his ability to bounce back from injury"
+            ],
+            "synonyms": [
+              "recover",
+              "revive",
+              "rally",
+              "pick up",
+              "be on the mend; Moreperk up",
+              "cheer up",
+              "brighten up",
+              "liven up; informalbuck up \"despite our optimistic predictions",
+              "sales never bounced back\""
+            ]
+          },
+          {
+            "definition": "hit a ball that bounces before reaching a fielder.",
+            "examples": [
+              "bouncing out with the bases loaded"
+            ]
+          },
+          {
+            "definition": "(of a person) jump repeatedly up and down, typically on something springy.",
+            "examples": [
+              "bouncing up and down on the mattress"
+            ]
+          },
+          {
+            "definition": "(of a thing) move up and down while remaining essentially in the same position.",
+            "examples": [
+              "the gangplank bounced under his confident step"
+            ]
+          },
+          {
+            "definition": "cause (a child) to move lightly up and down on one's knee as a game.",
+            "examples": [
+              "I remember how you used to bounce me on your knee"
+            ]
+          },
+          {
+            "definition": "move in an energetic or happy manner.",
+            "examples": [
+              "Linda bounced in through the open front door"
+            ],
+            "synonyms": [
+              "bound",
+              "leap",
+              "jump",
+              "spring",
+              "bob",
+              "hop",
+              "skip",
+              "trip",
+              "prance \"William bounced down the stairs\""
+            ]
+          },
+          {
+            "definition": "(of a vehicle) move jerkily along a bumpy surface.",
+            "examples": [
+              "the car bounced down the narrow track"
+            ]
+          },
+          {
+            "definition": "(of a check) be returned by a bank when there are insufficient funds to meet it.",
+            "examples": [
+              "my rent check bounced"
+            ]
+          },
+          {
+            "definition": "write (a check) on insufficient funds.",
+            "examples": [
+              "I've never bounced a check"
+            ]
+          },
+          {
+            "definition": "eject (a troublemaker) forcibly from a nightclub or similar establishment."
+          },
+          {
+            "definition": "dismiss (someone) from a job.",
+            "examples": [
+              "those who put in a dismal performance will be bounced from the tour"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bounces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rebound of a ball or other object.",
+            "examples": [
+              "a bad bounce caused the ball to get away from the second baseman"
+            ]
+          },
+          {
+            "definition": "the power of rebounding."
+          },
+          {
+            "definition": "an act of jumping or an instance of being moved up and down.",
+            "examples": [
+              "every bounce of the truck brought them into fresh contact"
+            ],
+            "synonyms": [
+              "rebound",
+              "reflection",
+              "ricochet \"he caught the ball after a single bounce\""
+            ]
+          },
+          {
+            "definition": "a sudden rise in the level of something.",
+            "examples": [
+              "economists agree that there could be a bounce in prices next year"
+            ]
+          },
+          {
+            "definition": "exuberant self-confidence.",
+            "examples": [
+              "the bounce was now back in Jenny's step"
+            ],
+            "synonyms": [
+              "vitality",
+              "vigor",
+              "energy",
+              "vivacity",
+              "liveliness",
+              "animation",
+              "sparkle",
+              "verve",
+              "spirit",
+              "enthusiasm",
+              "dynamism; Morecheerfulness",
+              "happiness",
+              "buoyancy",
+              "optimism; exuberance",
+              "ebullience; informalget-up-and-go",
+              "pep",
+              "zing \"she had lost her bounce\""
+            ]
+          },
+          {
+            "definition": "health and body in the hair.",
+            "examples": [
+              "use conditioner to help hair regain its bounce"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

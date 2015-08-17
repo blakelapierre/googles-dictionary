@@ -1,0 +1,61 @@
+[
+  {
+    "word": "disorder",
+    "syllables": [
+      "dis",
+      "or",
+      "der"
+    ],
+    "pronunciation": "ˌdisˈôrdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "disorders"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "disrupt the systematic functioning or neat arrangement of.",
+            "examples": [
+              "she went to comb her disordered hair"
+            ],
+            "synonyms": [
+              "untidy",
+              "unkempt",
+              "messy",
+              "in a mess",
+              "mussed (up)",
+              "mussy; Moredisorganized",
+              "chaotic",
+              "confused",
+              "jumbled",
+              "muddled",
+              "shambolic \"her gray hair was disordered\""
+            ]
+          },
+          {
+            "definition": "disrupt the healthy or normal functioning of.",
+            "examples": [
+              "a patient who is mentally disordered"
+            ],
+            "synonyms": [
+              "dysfunctional",
+              "disturbed",
+              "unsettled",
+              "unbalanced",
+              "upset \"a disordered digestive system\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

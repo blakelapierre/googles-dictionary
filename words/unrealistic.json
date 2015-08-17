@@ -1,0 +1,59 @@
+[
+  {
+    "word": "unrealistic",
+    "syllables": [
+      "un",
+      "re",
+      "al",
+      "is",
+      "tic"
+    ],
+    "pronunciation": "ˌənˌrēəˈlistik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unrealistic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not realistic.",
+            "examples": [
+              "it was unrealistic to expect changes to be made overnight"
+            ],
+            "synonyms": [
+              "impractical",
+              "impracticable",
+              "unfeasible",
+              "nonviable; Moreunreasonable",
+              "irrational",
+              "illogical",
+              "senseless",
+              "silly",
+              "foolish",
+              "fanciful",
+              "idealistic",
+              "quixotic",
+              "romantic",
+              "starry-eyed",
+              "blue-sky",
+              "pie in the sky; informalairy-fairy \"unrealistic expectations\"unlifelike",
+              "nonrealistic",
+              "unnatural",
+              "nonrepresentational",
+              "abstract; unbelievable",
+              "implausible \"unrealistic images\""
+            ],
+            "antonyms": [
+              "pragmatic",
+              "lifelike"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "word": "append",
+    "syllables": [
+      "ap",
+      "pend"
+    ],
+    "pronunciation": "əˈpend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "appended"
+          },
+          {
+            "part": "past participle",
+            "variant": "appended"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "add (something) as an attachment or supplement.",
+            "examples": [
+              "the results of the survey are appended to this chapter"
+            ],
+            "synonyms": [
+              "add",
+              "attach",
+              "affix",
+              "tack on",
+              "tag on; formalsubjoin \"the teacher may append comments to the final report\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

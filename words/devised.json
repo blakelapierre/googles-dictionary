@@ -1,0 +1,54 @@
+[
+  {
+    "word": "devise",
+    "syllables": [
+      "de",
+      "vise"
+    ],
+    "pronunciation": "dəˈvīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "devised"
+          },
+          {
+            "part": "past participle",
+            "variant": "devised"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "plan or invent (a complex procedure, system, or mechanism) by careful thought.",
+            "examples": [
+              "a training program should be devised"
+            ],
+            "synonyms": [
+              "conceive",
+              "think up",
+              "dream up",
+              "work out",
+              "formulate",
+              "concoct; Moredesign",
+              "invent",
+              "coin",
+              "originate; compose",
+              "construct",
+              "fabricate",
+              "create",
+              "produce",
+              "develop; discover",
+              "hit on; hatch",
+              "contrive; informalcook up \"they have devised a way to recycle contaminated oil\""
+            ]
+          },
+          {
+            "definition": "leave (real estate) to someone by the terms of a will."
+          }
+        ]
+      }
+    ]
+  }
+]

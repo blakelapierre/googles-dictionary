@@ -1,0 +1,30 @@
+[
+  {
+    "word": "endocrine",
+    "syllables": [
+      "en",
+      "do",
+      "crine"
+    ],
+    "pronunciation": "ˈendəkrən",
+    "parts": [
+      {
+        "part": "adjectivePhysiology",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "endocrine"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or denoting glands that secrete hormones or other products directly into the blood.",
+            "examples": [
+              "the endocrine system"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

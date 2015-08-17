@@ -1,0 +1,54 @@
+[
+  {
+    "word": "socialize",
+    "syllables": [
+      "so",
+      "cial",
+      "ize"
+    ],
+    "pronunciation": "ˈsōSHəˌlīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "socializing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mix socially with others.",
+            "examples": [
+              "he didn't mind socializing with his staff"
+            ],
+            "synonyms": [
+              "interact",
+              "converse",
+              "be sociable",
+              "mix",
+              "mingle",
+              "get together",
+              "meet",
+              "fraternize",
+              "consort; Moreentertain",
+              "go out; informalhobnob \"these are not the type of people we want you socializing with\""
+            ]
+          },
+          {
+            "definition": "make (someone) behave in a way that is acceptable to their society.",
+            "examples": [
+              "newcomers are socialized into orthodox ways"
+            ]
+          },
+          {
+            "definition": "organize according to the principles of socialism.",
+            "examples": [
+              "socialized economies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

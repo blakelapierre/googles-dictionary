@@ -1,0 +1,31 @@
+[
+  {
+    "word": "reactance",
+    "syllables": [
+      "re",
+      "ac",
+      "tance"
+    ],
+    "pronunciation": "ˌrēˈaktəns",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reactance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reactances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the nonresistive component of impedance in an AC circuit, arising from the effect of inductance or capacitance or both and causing the current to be out of phase with the electromotive force causing it."
+          }
+        ]
+      }
+    ]
+  }
+]

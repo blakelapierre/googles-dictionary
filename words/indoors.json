@@ -1,0 +1,53 @@
+[
+  {
+    "word": "indoors",
+    "syllables": [
+      "in",
+      "doors"
+    ],
+    "pronunciation": "inˈdôrz",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "indoors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "into or within a building.",
+            "examples": [
+              "they went indoors and explored the building"
+            ],
+            "synonyms": [
+              "inside",
+              "in",
+              "within; Morein one's home",
+              "at home",
+              "under the roof \"the ceremony was held indoors\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "indoors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the area or space inside a building.",
+            "examples": [
+              "the rain makes indoors feel so warm and safe"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

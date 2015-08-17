@@ -1,0 +1,119 @@
+[
+  {
+    "word": "reflection",
+    "syllables": [
+      "re",
+      "flec",
+      "tion"
+    ],
+    "pronunciation": "rəˈflekSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reflection"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the throwing back by a body or surface of light, heat, or sound without absorbing it.",
+            "examples": [
+              "the reflection of light"
+            ],
+            "synonyms": [
+              "sending back",
+              "throwing back",
+              "casting back \"the reflection of light\""
+            ]
+          },
+          {
+            "definition": "an amount of light, heat, or sound that is reflected by a body or surface.",
+            "examples": [
+              "plural noun: reflections"
+            ]
+          },
+          {
+            "definition": "an image seen in a mirror or shiny surface.",
+            "examples": [
+              "Marianne surveyed her reflection in the mirror"
+            ],
+            "synonyms": [
+              "image",
+              "mirror image",
+              "likeness \"her reflection in the pond\""
+            ]
+          },
+          {
+            "definition": "a thing that is a consequence of or arises from something else.",
+            "examples": [
+              "a healthy skin is a reflection of good health in general"
+            ],
+            "synonyms": [
+              "indication",
+              "display",
+              "demonstration",
+              "manifestation; Moreexpression",
+              "evidence \"your hands and nails are a reflection of your well-being\""
+            ]
+          },
+          {
+            "definition": "a thing bringing discredit to someone or something.",
+            "examples": [
+              "it was a sad reflection on society that because of his affliction he was picked on"
+            ],
+            "synonyms": [
+              "slur",
+              "aspersion",
+              "imputation",
+              "reproach",
+              "shame",
+              "criticism \"a sad reflection on society\""
+            ]
+          },
+          {
+            "definition": "the conceptual operation of inverting a system or event with respect to a plane, each element being transferred perpendicularly through the plane to a point the same distance the other side of it."
+          },
+          {
+            "definition": "serious thought or consideration.",
+            "examples": [
+              "he doesn't get much time for reflection"
+            ],
+            "synonyms": [
+              "thought",
+              "thinking",
+              "consideration",
+              "contemplation",
+              "deliberation",
+              "pondering",
+              "meditation",
+              "musing",
+              "rumination; formalcogitation \"after some reflection",
+              "he turned it down\""
+            ]
+          },
+          {
+            "definition": "an idea about something, especially one that is written down or expressed.",
+            "examples": [
+              "reflections on human destiny and art"
+            ],
+            "synonyms": [
+              "opinion",
+              "thought",
+              "view",
+              "belief",
+              "feeling",
+              "idea",
+              "impression",
+              "conclusion",
+              "assessment; Morecomment",
+              "observation",
+              "remark \"write down your reflections\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "lyric",
+    "syllables": [
+      "lyr",
+      "ic"
+    ],
+    "pronunciation": "ˈlirik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "lyric"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of poetry) expressing the writer's emotions, usually briefly and in stanzas or recognized forms."
+          },
+          {
+            "definition": "(of a poet) writing lyric poetry."
+          },
+          {
+            "definition": "(of a singing voice) using a light register.",
+            "examples": [
+              "a lyric soprano with a light, clear timber"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lyric"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lyrics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a lyric poem or verse."
+          },
+          {
+            "definition": "lyric poetry as a literary genre."
+          },
+          {
+            "definition": "the words of a song.",
+            "examples": [
+              "she has published both music and lyrics for a number of songs"
+            ],
+            "synonyms": [
+              "words",
+              "libretto",
+              "book",
+              "text",
+              "lines \"Cole Porter wrote the music and lyrics\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

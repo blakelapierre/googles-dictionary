@@ -1,0 +1,63 @@
+[
+  {
+    "word": "decompose",
+    "syllables": [
+      "de",
+      "com",
+      "pose"
+    ],
+    "pronunciation": "ˌdēkəmˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "decomposed"
+          },
+          {
+            "part": "past participle",
+            "variant": "decomposed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(with reference to a dead body or other organic matter) make or become rotten; decay or cause to decay.",
+            "examples": [
+              "leaves stuffed in plastic bags do not decompose"
+            ],
+            "synonyms": [
+              "decay",
+              "rot",
+              "putrefy",
+              "go bad",
+              "go off",
+              "spoil",
+              "fester",
+              "perish",
+              "deteriorate; Moredegrade",
+              "break down",
+              "molder",
+              "shrivel",
+              "wither; photodegrade \"the carcasses will not decompose in these subzero temperatures\""
+            ]
+          },
+          {
+            "definition": "(with reference to a chemical compound) break down or cause to break down into component elements or simpler constituents.",
+            "examples": [
+              "many chemicals decompose rapidly under high temperature"
+            ],
+            "synonyms": [
+              "break up",
+              "fragment",
+              "disintegrate",
+              "crumble",
+              "dissolve; Morebreak down",
+              "decay \"some minerals decompose rapidly\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

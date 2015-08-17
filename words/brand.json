@@ -1,0 +1,180 @@
+[
+  {
+    "word": "brand",
+    "syllables": [
+      "brand"
+    ],
+    "pronunciation": "brand",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "brand"
+          },
+          {
+            "part": "plural noun",
+            "variant": "brands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a type of product manufactured by a particular company under a particular name.",
+            "examples": [
+              "a new brand of detergent"
+            ],
+            "synonyms": [
+              "make",
+              "line",
+              "label",
+              "marque; Moretype",
+              "kind",
+              "sort",
+              "variety; trade name",
+              "trademark",
+              "proprietary name \"a new brand of margarine\""
+            ]
+          },
+          {
+            "definition": "a brand name.",
+            "examples": [
+              "the company will market computer software under its own brand"
+            ],
+            "synonyms": [
+              "make",
+              "line",
+              "label",
+              "marque; Moretype",
+              "kind",
+              "sort",
+              "variety; trade name",
+              "trademark",
+              "proprietary name \"a new brand of margarine\""
+            ]
+          },
+          {
+            "definition": "a particular identity or image regarded as an asset.",
+            "examples": [
+              "you can still invent your own career, be your own brand"
+            ]
+          },
+          {
+            "definition": "a particular type or kind of something.",
+            "examples": [
+              "his incisive brand of intelligence"
+            ],
+            "synonyms": [
+              "type",
+              "kind",
+              "sort",
+              "variety",
+              "class",
+              "category",
+              "genre",
+              "style",
+              "ilk",
+              "stripe \"her particular brand of humor\""
+            ]
+          },
+          {
+            "definition": "an identifying mark burned on livestock or (especially formerly) criminals or slaves with a branding iron.",
+            "examples": [
+              "identification, marker, earmark the brand on a sheep"
+            ]
+          },
+          {
+            "definition": "a branding iron."
+          },
+          {
+            "definition": "a habit, trait, or quality that causes someone public shame or disgrace.",
+            "examples": [
+              "the brand of Paula's alcoholism"
+            ]
+          },
+          {
+            "definition": "a piece of burning or smoldering wood.",
+            "examples": [
+              "he took two burning brands from the fire"
+            ]
+          },
+          {
+            "definition": "a torch."
+          },
+          {
+            "definition": "a sword."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "brand"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "brands"
+          },
+          {
+            "part": "past tense",
+            "variant": "branded"
+          },
+          {
+            "part": "past participle",
+            "variant": "branded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "branding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark (an animal, formerly a criminal or slave) with a branding iron.",
+            "examples": [
+              "mark, stamp, burn, sear the letter M was branded on each animal"
+            ]
+          },
+          {
+            "definition": "mark indelibly.",
+            "examples": [
+              "an ointment that branded her with unsightly violet-colored splotches"
+            ],
+            "synonyms": [
+              "engrave",
+              "stamp",
+              "etch",
+              "imprint \"the scene was branded on her brain\""
+            ]
+          },
+          {
+            "definition": "describe (someone or something) as something bad or shameful.",
+            "examples": [
+              "the do-gooders branded us as politically incorrect"
+            ],
+            "synonyms": [
+              "stigmatize",
+              "mark out; Moredenounce",
+              "discredit",
+              "vilify; label \"the do-gooders branded us politically incorrect\""
+            ]
+          },
+          {
+            "definition": "assign a brand name to.",
+            "examples": [
+              "branded goods at low prices"
+            ]
+          },
+          {
+            "definition": "the promotion of a particular product or company by means of advertising and distinctive design.",
+            "examples": [
+              "noun: branding"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

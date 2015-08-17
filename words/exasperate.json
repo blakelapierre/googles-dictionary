@@ -1,0 +1,81 @@
+[
+  {
+    "word": "exasperate",
+    "syllables": [
+      "ex",
+      "as",
+      "per",
+      "ate"
+    ],
+    "pronunciation": "iɡˈzaspəˌrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "exasperate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "exasperates"
+          },
+          {
+            "part": "past tense",
+            "variant": "exasperated"
+          },
+          {
+            "part": "past participle",
+            "variant": "exasperated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "exasperating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "irritate intensely; infuriate.",
+            "examples": [
+              "this futile process exasperates prison officials"
+            ],
+            "synonyms": [
+              "infuriate",
+              "incense",
+              "anger",
+              "annoy",
+              "irritate",
+              "madden",
+              "enrage",
+              "antagonize",
+              "provoke",
+              "irk",
+              "vex",
+              "get on someone's nerves",
+              "ruffle someone's feathers",
+              "rub the wrong way; Moreinformalaggravate",
+              "rile",
+              "bug",
+              "needle",
+              "get someone's back up",
+              "get someone's goat",
+              "tee off",
+              "tick off \"her bratty children exasperate their teachers\"infuriating",
+              "annoying",
+              "irritating",
+              "maddening",
+              "provoking",
+              "irksome",
+              "vexatious",
+              "trying",
+              "displeasing; informalaggravating \"twirling his mustache is just one of his exasperating habits\""
+            ],
+            "antonyms": [
+              "please"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

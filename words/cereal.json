@@ -1,0 +1,43 @@
+[
+  {
+    "word": "cereal",
+    "syllables": [
+      "ce",
+      "re",
+      "al"
+    ],
+    "pronunciation": "ˈsirēəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cereal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cereals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a grain used for food, such as wheat, oats, or corn."
+          },
+          {
+            "definition": "a grass producing a cereal grain, grown as an agricultural crop.",
+            "examples": [
+              "low yields for cereal crops"
+            ]
+          },
+          {
+            "definition": "a breakfast food made from roasted grain, typically eaten with milk.",
+            "examples": [
+              "a bowl of cereal"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

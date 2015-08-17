@@ -1,0 +1,73 @@
+[
+  {
+    "word": "alter",
+    "syllables": [
+      "al",
+      "ter"
+    ],
+    "pronunciation": "ˈôltər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "altering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "change or cause to change in character or composition, typically in a comparatively small but significant way.",
+            "examples": [
+              "Eliot was persuaded to alter the passage"
+            ],
+            "synonyms": [
+              "change",
+              "make changes to",
+              "make different",
+              "make alterations to",
+              "adjust",
+              "make adjustments to",
+              "adapt",
+              "amend",
+              "modify",
+              "revise",
+              "revamp",
+              "rework",
+              "redo",
+              "refine",
+              "vary",
+              "transform; Moreinformaltweak; technicalpermute \"Eliot was persuaded to alter the opening passage to his sermon\"change",
+              "become different",
+              "undergo a change",
+              "undergo a sea change",
+              "adjust",
+              "adapt",
+              "transform",
+              "evolve \"the state of affairs has altered\""
+            ],
+            "antonyms": [
+              "preserve",
+              "stay the same"
+            ]
+          },
+          {
+            "definition": "make structural changes to (a building).",
+            "examples": [
+              "plans to alter the dining hall"
+            ]
+          },
+          {
+            "definition": "tailor (clothing) for a better fit or to conform to fashion.",
+            "examples": [
+              "skirts with the hemlines altered a dozen different times"
+            ]
+          },
+          {
+            "definition": "castrate or spay (a domestic animal)."
+          }
+        ]
+      }
+    ]
+  }
+]

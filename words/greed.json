@@ -1,0 +1,33 @@
+[
+  {
+    "word": "greed",
+    "syllables": [
+      "greed"
+    ],
+    "pronunciation": "ɡrēd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "greed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "intense and selfish desire for something, especially wealth, power, or food.",
+            "examples": [
+              "avarice, cupidity, acquisitiveness, covetousness, rapacity; Morematerialism, mercenariness; rarepleonexia; informalmoney-grubbing, affluenza \"human greed\"gluttony, hunger, voracity, insatiability; gourmandism, intemperance, overeating, self-indulgence; informalpiggishness \"her mouth watered with greed\"desire, appetite, hunger, thirst, craving, longing, lust, yearning, hankering; avidity, eagerness; informalyen, itch \"their greed for power\"Morematerialism, mercenariness; pleonexia; money-grubbing, affluenza human greedgluttony, hunger, voracity, insatiability; gourmandism, intemperance, overeating, self-indulgence; piggishness her mouth watered with greeddesire, appetite, hunger, thirst, craving, longing, lust, yearning, hankering; avidity, eagerness; yen, itch their greed for power"
+            ],
+            "antonyms": [
+              "generosity",
+              "temperance",
+              "indifference"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

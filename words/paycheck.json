@@ -1,0 +1,60 @@
+[
+  {
+    "word": "paycheck",
+    "syllables": [
+      "pay",
+      "check"
+    ],
+    "pronunciation": "ˈpāˌCHek",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pay cheque"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pay cheques"
+          },
+          {
+            "part": "noun",
+            "variant": "paycheck"
+          },
+          {
+            "part": "plural noun",
+            "variant": "paychecks"
+          },
+          {
+            "part": "noun",
+            "variant": "pay check"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pay checks"
+          },
+          {
+            "part": "noun",
+            "variant": "paycheque"
+          },
+          {
+            "part": "plural noun",
+            "variant": "paycheques"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a check for salary or wages made out to an employee."
+          },
+          {
+            "definition": "a salary or income.",
+            "examples": [
+              "socking away money for the time when he wouldn't have a steady paycheck"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

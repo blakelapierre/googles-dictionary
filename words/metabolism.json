@@ -1,0 +1,36 @@
+[
+  {
+    "word": "metabolism",
+    "syllables": [
+      "me",
+      "tab",
+      "o",
+      "lism"
+    ],
+    "pronunciation": "məˈtabəˌlizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "metabolism"
+          },
+          {
+            "part": "noun",
+            "variant": "constructive metabolism"
+          },
+          {
+            "part": "noun",
+            "variant": "destructive metabolism"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the chemical processes that occur within a living organism in order to maintain life."
+          }
+        ]
+      }
+    ]
+  }
+]

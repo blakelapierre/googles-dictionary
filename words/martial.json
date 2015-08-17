@@ -1,0 +1,42 @@
+[
+  {
+    "word": "martial",
+    "syllables": [
+      "mar",
+      "tial"
+    ],
+    "pronunciation": "ˈmärSHəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "martial"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or appropriate to war; warlike.",
+            "examples": [
+              "martial bravery"
+            ],
+            "synonyms": [
+              "military",
+              "soldierly",
+              "soldier-like",
+              "army",
+              "naval; Morewarlike",
+              "fighting",
+              "combative",
+              "bellicose",
+              "hawkish",
+              "pugnacious",
+              "militaristic \"their martial exploits\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

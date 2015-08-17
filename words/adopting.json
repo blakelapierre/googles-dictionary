@@ -1,0 +1,111 @@
+[
+  {
+    "word": "adopt",
+    "syllables": [
+      "a",
+      "dopt"
+    ],
+    "pronunciation": "əˈdäpt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "adopting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "legally take another's child and bring it up as one's own.",
+            "examples": [
+              "there are many people eager to adopt a baby"
+            ],
+            "synonyms": [
+              "take as one's child",
+              "be adoptive parents to",
+              "take in",
+              "take care of \"we adopted Sasha in 1996\""
+            ],
+            "antonyms": [
+              "abandon"
+            ]
+          },
+          {
+            "definition": "take up or start to use or follow (an idea, method, or course of action).",
+            "examples": [
+              "this approach has been adopted by many big banks"
+            ],
+            "synonyms": [
+              "espouse",
+              "take on/up",
+              "embrace",
+              "assume; Moreappropriate",
+              "arrogate \"they adopted local customs\""
+            ],
+            "antonyms": [
+              "abandon",
+              "reject"
+            ]
+          },
+          {
+            "definition": "take on or assume (an attitude or position).",
+            "examples": [
+              "he adopted a patronizing tone"
+            ]
+          },
+          {
+            "definition": "choose someone to receive special recognition.",
+            "examples": [
+              "at least 23 people adopted as “prisoners of conscience” remain in jail"
+            ],
+            "synonyms": [
+              "choose",
+              "select",
+              "pick",
+              "vote for",
+              "elect",
+              "settle on",
+              "decide on",
+              "opt for; Morename",
+              "nominate",
+              "appoint \"the people adopted him as their patron saint\""
+            ],
+            "antonyms": [
+              "reject"
+            ]
+          },
+          {
+            "definition": "formally approve or accept (a report or suggestion).",
+            "examples": [
+              "the committee voted 5–1 to adopt the proposal"
+            ],
+            "synonyms": [
+              "espouse",
+              "take on/up",
+              "embrace",
+              "assume; Moreappropriate",
+              "arrogate \"they adopted local customs\""
+            ],
+            "antonyms": [
+              "abandon",
+              "reject"
+            ]
+          },
+          {
+            "definition": "choose (a textbook) as standard or required for a course of study."
+          },
+          {
+            "definition": "choose (an animal) to become a house pet.",
+            "examples": [
+              "the best way to know a dog's traits is to adopt a mature dog"
+            ]
+          },
+          {
+            "definition": "(of a local authority) accept responsibility for the maintenance of (a road)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "word": "advertising",
+    "syllables": [
+      "ad",
+      "ver",
+      "tis",
+      "ing"
+    ],
+    "pronunciation": "ˈadvərˌtīziNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "advertising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the activity or profession of producing advertisements for commercial products or services.",
+            "examples": [
+              "movie audiences are receptive to advertising"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "advertise",
+    "syllables": [
+      "ad",
+      "ver",
+      "tise"
+    ],
+    "pronunciation": "ˈadvərˌtīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "advertising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "describe or draw attention to (a product, service, or event) in a public medium in order to promote sales or attendance.",
+            "examples": [
+              "a billboard advertising beer"
+            ]
+          },
+          {
+            "definition": "seek to fill (a vacancy) by putting a notice in a newspaper or other medium.",
+            "examples": [
+              "for every job we advertise we get a hundred applicants"
+            ],
+            "synonyms": [
+              "publicize",
+              "make public",
+              "make known",
+              "announce",
+              "broadcast",
+              "proclaim",
+              "trumpet",
+              "call attention to",
+              "bill",
+              "promulgate; Morepromote",
+              "market",
+              "beat/bang the drum for",
+              "huckster; informalpush",
+              "plug",
+              "hype",
+              "boost; ballyhoo",
+              "flack \"you should advertise the contest on your local radio station\""
+            ]
+          },
+          {
+            "definition": "make (a quality or fact) known.",
+            "examples": [
+              "Meryl coughed briefly to advertise her presence"
+            ]
+          },
+          {
+            "definition": "notify (someone) of something.",
+            "examples": [
+              "some prisoners advertised the French of this terrible danger"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "word": "grapeshot",
+    "syllables": [
+      "grape",
+      "shot"
+    ],
+    "pronunciation": "ˈɡrāpˌSHät",
+    "parts": [
+      {
+        "part": "nounhistorical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grapeshot"
+          },
+          {
+            "part": "noun",
+            "variant": "grape-shot"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ammunition consisting of a number of small iron balls fired together from a cannon."
+          }
+        ]
+      }
+    ]
+  }
+]

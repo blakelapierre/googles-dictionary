@@ -1,0 +1,35 @@
+[
+  {
+    "word": "Christianity",
+    "syllables": [
+      "Chris",
+      "ti",
+      "an",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌkrisCHēˈanədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Christianity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the religion based on the person and teachings of Jesus of Nazareth, or its beliefs and practices."
+          },
+          {
+            "definition": "Christian quality or character.",
+            "examples": [
+              "his Christianity sustained him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

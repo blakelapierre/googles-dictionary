@@ -1,0 +1,62 @@
+[
+  {
+    "word": "discontent",
+    "syllables": [
+      "dis",
+      "con",
+      "tent"
+    ],
+    "pronunciation": "ˌdiskənˈtent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "discontent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "discontents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lack of contentment; dissatisfaction with one's circumstances.",
+            "examples": [
+              "popular discontent with the system had been general for several years"
+            ],
+            "synonyms": [
+              "dissatisfaction",
+              "disaffection",
+              "discontentment",
+              "discontentedness",
+              "disgruntlement",
+              "grievances",
+              "unhappiness",
+              "displeasure",
+              "bad feelings",
+              "resentment",
+              "envy; Morerestlessness",
+              "unrest",
+              "uneasiness",
+              "unease",
+              "frustration",
+              "irritation",
+              "annoyance; informala chip on one's shoulder \"the workers' discontent could no longer be overlooked\""
+            ],
+            "antonyms": [
+              "satisfaction"
+            ]
+          },
+          {
+            "definition": "a person who is dissatisfied, typically with the prevailing social or political situation.",
+            "examples": [
+              "the cause attracted a motley crew of discontents and zealots"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

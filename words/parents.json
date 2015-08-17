@@ -1,0 +1,77 @@
+[
+  {
+    "word": "parent",
+    "syllables": [
+      "par",
+      "ent"
+    ],
+    "pronunciation": "ˈperənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "parents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a father or mother.",
+            "examples": [
+              "the parents of the bride"
+            ],
+            "synonyms": [
+              "mother",
+              "father",
+              "birth/biological parent",
+              "progenitor; Moreadoptive parent",
+              "foster-parent",
+              "step-parent",
+              "guardian; literarybegetter \"you'll need the signed consent of a parent\""
+            ]
+          },
+          {
+            "definition": "a forefather or ancestor."
+          },
+          {
+            "definition": "an animal or plant from which younger ones are derived."
+          },
+          {
+            "definition": "a source or origin of a smaller or less important part."
+          },
+          {
+            "definition": "an organization or company that owns or controls a number of subsidiary organizations or companies.",
+            "examples": [
+              "policy considerations were determined largely by the parent institution"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "parents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be or act as a mother or father to (someone).",
+            "examples": [
+              "the warmth and attention that are the hallmarks of good parenting"
+            ],
+            "synonyms": [
+              "raise",
+              "bring up",
+              "look after",
+              "take care of",
+              "rear; hand-rear \"those who parent young children\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

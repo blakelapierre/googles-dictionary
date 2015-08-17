@@ -1,0 +1,256 @@
+[
+  {
+    "word": "re",
+    "syllables": [
+      "re"
+    ],
+    "pronunciation": "rārē",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "re"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in the matter of (used typically as the first word in the heading of an official document or to introduce a reference in an official letter).",
+            "examples": [
+              "re: invoice 87"
+            ],
+            "synonyms": [
+              "about",
+              "concerning",
+              "regarding",
+              "with regard to",
+              "relating to",
+              "vis-à-vis",
+              "apropos (of)",
+              "on the subject of",
+              "with respect to",
+              "with reference to",
+              "in connection with \"a memo re the new alarm system\""
+            ]
+          },
+          {
+            "definition": "about; concerning.",
+            "examples": [
+              "I saw the deputy re the incident"
+            ],
+            "synonyms": [
+              "about",
+              "concerning",
+              "regarding",
+              "with regard to",
+              "relating to",
+              "vis-à-vis",
+              "apropos (of)",
+              "on the subject of",
+              "with respect to",
+              "with reference to",
+              "in connection with \"a memo re the new alarm system\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "re",
+    "syllables": [
+      "re"
+    ],
+    "pronunciation": "rā",
+    "parts": [
+      {
+        "part": "nounMusic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "re"
+          },
+          {
+            "part": "noun",
+            "variant": "ray"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in solmization) the second note of a major scale."
+          },
+          {
+            "definition": "the note D in the fixed-do system."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "re-",
+    "syllables": [
+      "re-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "re-"
+          },
+          {
+            "part": "prefix",
+            "variant": "red-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "once more; afresh; anew.",
+            "examples": [
+              "reaccustom"
+            ]
+          },
+          {
+            "definition": "with return to a previous state.",
+            "examples": [
+              "restore"
+            ]
+          },
+          {
+            "definition": "in return; mutually.",
+            "examples": [
+              "react"
+            ]
+          },
+          {
+            "definition": "in opposition.",
+            "examples": [
+              "repel"
+            ]
+          },
+          {
+            "definition": "behind or after.",
+            "examples": [
+              "relic"
+            ]
+          },
+          {
+            "definition": "in a withdrawn state.",
+            "examples": [
+              "recluse"
+            ]
+          },
+          {
+            "definition": "back and away; down.",
+            "examples": [
+              "recede"
+            ]
+          },
+          {
+            "definition": "with frequentative or intensive force.",
+            "examples": [
+              "redouble"
+            ]
+          },
+          {
+            "definition": "with negative force.",
+            "examples": [
+              "rebuff"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "’re",
+    "syllables": [
+      "’re"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviationinformal",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "'re"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "are (usually after the pronouns you, we, and they).",
+            "examples": [
+              "we're a bit worried"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Re.",
+    "syllables": [
+      "Re."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "Re",
+    "syllables": [
+      "Re"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "symbol",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "Re"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the chemical element rhenium."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rhenium",
+    "syllables": [
+      "rhe",
+      "ni",
+      "um"
+    ],
+    "pronunciation": "ˈrēnēəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "Re"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the chemical element of atomic number 75, a rare silvery-white metal that occurs in trace amounts in ores of molybdenum and other metals."
+          }
+        ]
+      }
+    ]
+  }
+]

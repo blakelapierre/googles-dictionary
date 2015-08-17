@@ -1,0 +1,69 @@
+[
+  {
+    "word": "candle",
+    "syllables": [
+      "can",
+      "dle"
+    ],
+    "pronunciation": "ˈkandl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "candle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "candles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cylinder or block of wax or tallow with a central wick that is lit to produce light as it burns.",
+            "examples": [
+              "taper, votive (candle), pillar (candle), tea light; glim hand-dipped white candles"
+            ]
+          },
+          {
+            "definition": "a unit of luminous intensity, superseded by the candela.",
+            "examples": [
+              "noun: international candle; plural noun: international candles"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "candle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "candles"
+          },
+          {
+            "part": "past tense",
+            "variant": "candled"
+          },
+          {
+            "part": "past participle",
+            "variant": "candled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "candling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a poultry breeder) test (an egg) for freshness or fertility by holding it to the light."
+          }
+        ]
+      }
+    ]
+  }
+]

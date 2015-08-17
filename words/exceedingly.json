@@ -1,0 +1,53 @@
+[
+  {
+    "word": "exceedingly",
+    "syllables": [
+      "ex",
+      "ceed",
+      "ing",
+      "ly"
+    ],
+    "pronunciation": "ikˈsēdiNGlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "exceedingly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extremely.",
+            "examples": [
+              "the team played exceedingly well"
+            ],
+            "synonyms": [
+              "extremely",
+              "exceptionally",
+              "especially",
+              "tremendously",
+              "very",
+              "really",
+              "truly",
+              "awfully",
+              "seriously",
+              "totally",
+              "completely; Moreformalmost; informalmega",
+              "ultra",
+              "real",
+              "mighty; archaicexceeding \"an exceedingly comfortable home\""
+            ]
+          },
+          {
+            "definition": "to a great extent.",
+            "examples": [
+              "the supply multiplied exceedingly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

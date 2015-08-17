@@ -1,0 +1,58 @@
+[
+  {
+    "word": "moisten",
+    "syllables": [
+      "mois",
+      "ten"
+    ],
+    "pronunciation": "ˈmois(ə)n",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "moisten"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "moistens"
+          },
+          {
+            "part": "past tense",
+            "variant": "moistened"
+          },
+          {
+            "part": "past participle",
+            "variant": "moistened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "moistening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "wet slightly.",
+            "examples": [
+              "she moistened her lips with the tip of her tongue"
+            ],
+            "synonyms": [
+              "dampen",
+              "wet",
+              "damp",
+              "water",
+              "humidify; literarybedew \"they moisten the towels with almond-scented hot water\""
+            ]
+          },
+          {
+            "definition": "(of the eyes) fill with tears.",
+            "examples": [
+              "her eyes moistened"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "word": "infringement",
+    "syllables": [
+      "in",
+      "fringe",
+      "ment"
+    ],
+    "pronunciation": "inˈfrinjmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "infringement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "infringements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of breaking the terms of a law, agreement, etc.; violation.",
+            "examples": [
+              "copyright infringement"
+            ]
+          },
+          {
+            "definition": "the action of limiting or undermining something.",
+            "examples": [
+              "the infringement of the right to privacy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

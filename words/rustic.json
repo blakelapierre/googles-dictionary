@@ -1,0 +1,38 @@
+[
+  {
+    "word": "rustic",
+    "syllables": [
+      "rus",
+      "tic"
+    ],
+    "pronunciation": "ˈrəstik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "nounderogatory",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rustic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rustics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an unsophisticated country person.",
+            "examples": [
+              "peasant, countryman, countrywoman, bumpkin, yokel, country cousin; Moreinformalhillbilly, hayseed, hick, apple knocker; archaicswain, cottier \"the rustics were carousing\"Morehillbilly, hayseed, hick, apple knocker; swain, cottier the rustics were carousing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

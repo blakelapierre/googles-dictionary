@@ -1,0 +1,134 @@
+[
+  {
+    "word": "manner",
+    "syllables": [
+      "man",
+      "ner"
+    ],
+    "pronunciation": "ˈmanər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "manners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a way in which a thing is done or happens.",
+            "examples": [
+              "taking notes in an unobtrusive manner"
+            ],
+            "synonyms": [
+              "way",
+              "fashion",
+              "mode",
+              "means",
+              "method",
+              "system",
+              "style",
+              "approach",
+              "technique",
+              "procedure",
+              "process",
+              "methodology",
+              "modus operandi",
+              "form \"it was dealt with in a very efficient manner\""
+            ]
+          },
+          {
+            "definition": "a style in literature or art.",
+            "examples": [
+              "a dramatic poem in the manner of Goethe"
+            ]
+          },
+          {
+            "definition": "a semantic category of adverbs and adverbials that answer the question “how?”",
+            "examples": [
+              "an adverb of manner"
+            ]
+          },
+          {
+            "definition": "a kind or sort of.",
+            "examples": [
+              "what manner of man is he?"
+            ],
+            "synonyms": [
+              "kind",
+              "sort",
+              "type",
+              "variety",
+              "nature",
+              "breed",
+              "brand",
+              "stamp",
+              "class",
+              "category",
+              "genre",
+              "order \"what manner of creature is it?\""
+            ]
+          },
+          {
+            "definition": "a person's outward bearing or way of behaving toward others.",
+            "examples": [
+              "his arrogance and pompous manner"
+            ],
+            "synonyms": [
+              "demeanor",
+              "air",
+              "aspect",
+              "attitude",
+              "bearing",
+              "cast",
+              "behavior",
+              "conduct; Moremien; formalcomportment \"her rather unfriendly manner\""
+            ]
+          },
+          {
+            "definition": "polite or well-bred social behavior.",
+            "examples": [
+              "didn't your mother teach you any manners?"
+            ],
+            "synonyms": [
+              "customs",
+              "habits",
+              "ways",
+              "practices",
+              "conventions",
+              "usages More\"aristocratic manners\"correct behavior",
+              "etiquette",
+              "social graces",
+              "good form",
+              "protocol",
+              "politeness",
+              "decorum",
+              "propriety",
+              "gentility",
+              "civility",
+              "Ps and Qs \"you ought to teach him some manners\""
+            ]
+          },
+          {
+            "definition": "social behavior or habits.",
+            "examples": [
+              "Tim apologized for his son's bad manners"
+            ],
+            "synonyms": [
+              "behavior",
+              "conduct",
+              "way of behaving; form \"it's bad manners to stare\""
+            ]
+          },
+          {
+            "definition": "the way a motor vehicle handles or performs.",
+            "examples": [
+              "I have no complaints about the performance or road manners"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

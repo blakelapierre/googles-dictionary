@@ -1,0 +1,112 @@
+[
+  {
+    "word": "bland",
+    "syllables": [
+      "bland"
+    ],
+    "pronunciation": "bland",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bland"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "blander"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "blandest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking strong features or characteristics and therefore uninteresting.",
+            "examples": [
+              "rebelling against the bland uniformity"
+            ],
+            "synonyms": [
+              "uninteresting",
+              "dull",
+              "boring",
+              "tedious",
+              "monotonous",
+              "monochrome",
+              "dry",
+              "drab",
+              "dreary",
+              "wearisome; Moreunexciting",
+              "unimaginative",
+              "uninspiring",
+              "uninspired",
+              "lackluster",
+              "uninvolving",
+              "vapid",
+              "flat",
+              "stale",
+              "trite; informalblah",
+              "plain-vanilla",
+              "white-bread",
+              "banal",
+              "commonplace",
+              "humdrum",
+              "ho-hum",
+              "vacuous",
+              "wishy-washy \"a bland film\""
+            ],
+            "antonyms": [
+              "interesting",
+              "stimulating"
+            ]
+          },
+          {
+            "definition": "(of food or drink) mild or insipid.",
+            "examples": [
+              "bland and unadventurous vegetarian dish"
+            ],
+            "synonyms": [
+              "tasteless",
+              "flavorless",
+              "insipid",
+              "weak",
+              "watery",
+              "spiceless; informalwishy-washy \"bland food\""
+            ],
+            "antonyms": [
+              "tangy",
+              "tasty"
+            ]
+          },
+          {
+            "definition": "(of a person or behavior) showing no strong emotion; dull and unremarkable.",
+            "examples": [
+              "offering bland reassurance"
+            ],
+            "synonyms": [
+              "unemotional",
+              "emotionless",
+              "dispassionate",
+              "passionless; Moreinexpressive",
+              "cool",
+              "impassive; expressionless",
+              "blank",
+              "wooden",
+              "stony",
+              "deadpan",
+              "hollow",
+              "undemonstrative",
+              "imperturbable \"a bland expression\""
+            ],
+            "antonyms": [
+              "emotional",
+              "expressive"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "word": "inarticulate",
+    "syllables": [
+      "in",
+      "ar",
+      "tic",
+      "u",
+      "late"
+    ],
+    "pronunciation": "ˌinärˈtikyələt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inarticulate"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unable to speak distinctly or express oneself clearly.",
+            "examples": [
+              "he was inarticulate with abashment and regret"
+            ],
+            "synonyms": [
+              "tongue-tied",
+              "lost for words",
+              "unable to express oneself \"an inarticulate young man\""
+            ],
+            "antonyms": [
+              "silver-tongued"
+            ]
+          },
+          {
+            "definition": "not clearly expressed or pronounced.",
+            "examples": [
+              "inarticulate complaints of inadequate remuneration"
+            ],
+            "synonyms": [
+              "unintelligible",
+              "incomprehensible",
+              "incoherent",
+              "unclear",
+              "indistinct",
+              "mumbled",
+              "muffled \"an inarticulate reply\""
+            ],
+            "antonyms": [
+              "fluent"
+            ]
+          },
+          {
+            "definition": "not expressed; unspoken.",
+            "examples": [
+              "mention of her mother filled her with inarticulate irritation"
+            ],
+            "synonyms": [
+              "unspoken",
+              "silent",
+              "unexpressed",
+              "wordless",
+              "speechless",
+              "unvoiced \"inarticulate rage\""
+            ],
+            "antonyms": [
+              "vocal"
+            ]
+          },
+          {
+            "definition": "without joints or articulations."
+          },
+          {
+            "definition": "denoting a brachiopod in which the valves of the shell have no hinge and are held together by muscles."
+          }
+        ]
+      }
+    ]
+  }
+]

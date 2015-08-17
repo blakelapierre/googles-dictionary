@@ -1,0 +1,34 @@
+[
+  {
+    "word": "impressionism",
+    "syllables": [
+      "im",
+      "pres",
+      "sion",
+      "ism"
+    ],
+    "pronunciation": "imˈpreSHəˌnizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "impressionism"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a style or movement in painting originating in France in the 1860s, characterized by a concern with depicting the visual impression of the moment, especially in terms of the shifting effect of light and color."
+          },
+          {
+            "definition": "a literary or artistic style that seeks to capture a feeling or experience rather than to achieve accurate depiction."
+          },
+          {
+            "definition": "a style of composition (associated especially with Debussy) in which clarity of structure and theme is subordinate to harmonic effects, characteristically using the whole-tone scale."
+          }
+        ]
+      }
+    ]
+  }
+]

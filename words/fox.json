@@ -1,0 +1,127 @@
+[
+  {
+    "word": "fox",
+    "syllables": [
+      "fox"
+    ],
+    "pronunciation": "fäks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fox"
+          },
+          {
+            "part": "plural noun",
+            "variant": "foxes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbial for its cunning.",
+            "examples": [
+              "red fox, silver fox, arctic fox; Reynard "
+            ]
+          },
+          {
+            "definition": "the fur of a fox."
+          },
+          {
+            "definition": "a cunning or sly person.",
+            "examples": [
+              "a wily old fox"
+            ]
+          },
+          {
+            "definition": "a sexually attractive woman."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fox"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "foxes"
+          },
+          {
+            "part": "past tense",
+            "variant": "foxed"
+          },
+          {
+            "part": "past participle",
+            "variant": "foxed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "foxing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "baffle or deceive (someone).",
+            "examples": [
+              "the bad light and dark shadows foxed him"
+            ]
+          },
+          {
+            "definition": "repair (a boot or shoe) by renewing the upper leather."
+          },
+          {
+            "definition": "ornament (the upper of a boot or shoe) with a strip of leather."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Fox",
+    "syllables": [
+      "Fox"
+    ],
+    "pronunciation": "fäks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Fox"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Fox"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of an American Indian people formerly living in southern Wisconsin, and now mainly in Iowa, Nebraska, and Kansas."
+          },
+          {
+            "definition": "the Algonquian language of the Fox."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "Fox"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to the Fox or their language."
+          }
+        ]
+      }
+    ]
+  }
+]

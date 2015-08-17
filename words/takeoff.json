@@ -1,0 +1,71 @@
+[
+  {
+    "word": "takeoff",
+    "syllables": [
+      "take",
+      "off"
+    ],
+    "pronunciation": "ˈtākˌôf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "take-off"
+          },
+          {
+            "part": "plural noun",
+            "variant": "take-offs"
+          },
+          {
+            "part": "noun",
+            "variant": "takeoff"
+          },
+          {
+            "part": "plural noun",
+            "variant": "takeoffs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of becoming airborne.",
+            "examples": [
+              "the plane accelerated down the runway for takeoff"
+            ],
+            "synonyms": [
+              "departure",
+              "liftoff",
+              "launch",
+              "blastoff; Moreascent",
+              "flight \"the plane performed a safe takeoff\""
+            ],
+            "antonyms": [
+              "touchdown"
+            ]
+          },
+          {
+            "definition": "an act of mimicking someone or something.",
+            "examples": [
+              "a pleasant takeoff on some Everly Brothers routine"
+            ],
+            "synonyms": [
+              "parody",
+              "pastiche",
+              "mockery",
+              "caricature",
+              "travesty",
+              "satire",
+              "lampoon",
+              "mimicry",
+              "imitation",
+              "impersonation",
+              "impression; Moreinformalsendup",
+              "spoof \"a takeoff of a talent show\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

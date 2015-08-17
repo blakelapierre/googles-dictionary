@@ -1,0 +1,53 @@
+[
+  {
+    "word": "unpaid",
+    "syllables": [
+      "un",
+      "paid"
+    ],
+    "pronunciation": "ˌənˈpād",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unpaid"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a debt) not yet discharged by payment.",
+            "examples": [
+              "unpaid bills"
+            ],
+            "synonyms": [
+              "unsettled",
+              "outstanding",
+              "due",
+              "overdue",
+              "owing",
+              "owed",
+              "payable",
+              "undischarged",
+              "delinquent",
+              "past due \"unpaid bills\""
+            ]
+          },
+          {
+            "definition": "(of work or a period of leave) undertaken without payment.",
+            "examples": [
+              "unpaid labor in the home"
+            ]
+          },
+          {
+            "definition": "(of a person) not receiving payment for work done.",
+            "examples": [
+              "voluntary, volunteer, honorary, unsalaried, unremunerative, unwaged, pro bono (publico) unpaid charity work"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

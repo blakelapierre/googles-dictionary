@@ -1,0 +1,39 @@
+[
+  {
+    "word": "blackjack",
+    "syllables": [
+      "black",
+      "jack"
+    ],
+    "pronunciation": "ˈblakˌjak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blackjack"
+          },
+          {
+            "part": "plural noun",
+            "variant": "blackjacks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gambling card game in which players try to acquire cards with a face value as close as possible to 21 without going over."
+          },
+          {
+            "definition": "a short, leather-covered, typically lead-filled club with a flexible handle, used as a weapon."
+          },
+          {
+            "definition": "a pirate's black ensign."
+          },
+          {
+            "definition": "a tarred-leather container used for alcoholic drinks."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "justice",
+    "syllables": [
+      "jus",
+      "tice"
+    ],
+    "pronunciation": "ˈjəstəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "justice"
+          },
+          {
+            "part": "plural noun",
+            "variant": "justices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "just behavior or treatment.",
+            "examples": [
+              "a concern for justice, peace, and genuine respect for people"
+            ],
+            "synonyms": [
+              "fairness",
+              "justness",
+              "fair play",
+              "fair-mindedness",
+              "equity",
+              "evenhandedness",
+              "impartiality",
+              "objectivity",
+              "neutrality",
+              "disinterestedness",
+              "honesty",
+              "righteousness",
+              "morals",
+              "morality \"I appealed to his sense of justice\""
+            ]
+          },
+          {
+            "definition": "the quality of being fair and reasonable.",
+            "examples": [
+              "the justice of his case"
+            ]
+          },
+          {
+            "definition": "the administration of the law or authority in maintaining this.",
+            "examples": [
+              "a tragic miscarriage of justice"
+            ]
+          },
+          {
+            "definition": "the personification of justice, usually a blindfolded woman holding scales and a sword.",
+            "examples": [
+              "noun: Justice"
+            ]
+          },
+          {
+            "definition": "a judge or magistrate, in particular a judge of the supreme court of a country or state.",
+            "examples": [
+              "judge, magistrate, jurist an order made by the justices"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

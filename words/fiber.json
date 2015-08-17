@@ -1,0 +1,79 @@
+[
+  {
+    "word": "fiber",
+    "syllables": [
+      "fi",
+      "ber"
+    ],
+    "pronunciation": "ˈfībər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fibre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fibres"
+          },
+          {
+            "part": "noun",
+            "variant": "fiber"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fibers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thread or filament from which a vegetable tissue, mineral substance, or textile is formed.",
+            "examples": [
+              "tropical elements like coconut fibers and branches"
+            ],
+            "synonyms": [
+              "thread",
+              "strand",
+              "filament; technicalfibril \"fibers from the murderer's sweater\""
+            ]
+          },
+          {
+            "definition": "a substance formed of threads or filaments.",
+            "examples": [
+              "ordinary synthetics don't breathe as well as natural fibers"
+            ],
+            "synonyms": [
+              "material",
+              "cloth",
+              "fabric \"natural fibers\""
+            ]
+          },
+          {
+            "definition": "a threadlike structure forming part of the muscular, nervous, connective, or other tissue in the human or animal body.",
+            "examples": [
+              "there were degenerative changes in muscle fibers"
+            ]
+          },
+          {
+            "definition": "strength of character.",
+            "examples": [
+              "noun: moral fibre; plural noun: moral fibres"
+            ]
+          },
+          {
+            "definition": "dietary material containing substances such as cellulose, lignin, and pectin, which are resistant to the action of digestive enzymes.",
+            "examples": [
+              "cereals high in fiber"
+            ],
+            "synonyms": [
+              "roughage",
+              "bulk \"fiber in the diet\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

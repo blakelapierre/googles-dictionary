@@ -1,0 +1,87 @@
+[
+  {
+    "word": "outwork",
+    "syllables": [
+      "out",
+      "work"
+    ],
+    "pronunciation": "ˈoutˌwərkˌoutˈwərk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "outwork"
+          },
+          {
+            "part": "plural noun",
+            "variant": "outworks"
+          },
+          {
+            "part": "noun",
+            "variant": "out-work"
+          },
+          {
+            "part": "plural noun",
+            "variant": "out-works"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a section of a fortification or system of defense that is in front of the main part."
+          },
+          {
+            "definition": "work done outside the factory or office that provides it."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "outwork"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "outworks"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "outwork"
+          },
+          {
+            "part": "past tense",
+            "variant": "outwork"
+          },
+          {
+            "part": "past participle",
+            "variant": "outwork"
+          },
+          {
+            "part": "verb",
+            "variant": "out-work"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "out-works"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "out-work"
+          },
+          {
+            "part": "past tense",
+            "variant": "out-work"
+          },
+          {
+            "part": "past participle",
+            "variant": "out-work"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

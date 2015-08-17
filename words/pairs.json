@@ -1,0 +1,135 @@
+[
+  {
+    "word": "pair",
+    "syllables": [
+      "pair"
+    ],
+    "pronunciation": "per",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pairs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of two things used together or regarded as a unit.",
+            "examples": [
+              "a pair of gloves"
+            ],
+            "synonyms": [
+              "set (of two)",
+              "matching set",
+              "two of a kind \"a pair of gloves\""
+            ]
+          },
+          {
+            "definition": "an article or object consisting of two joined or corresponding parts not used separately.",
+            "examples": [
+              "a pair of jeans"
+            ]
+          },
+          {
+            "definition": "two playing cards of the same denomination.",
+            "examples": [
+              "I have a pair of jacks"
+            ]
+          },
+          {
+            "definition": "two people related in some way or considered together.",
+            "examples": [
+              "a company run by a pair of brothers"
+            ],
+            "synonyms": [
+              "two",
+              "couple",
+              "duo",
+              "brace",
+              "twosome",
+              "duplet; Moretwins \"the pair were arrested\"couple",
+              "man/husband and wife \"the happy pair\""
+            ]
+          },
+          {
+            "definition": "the second member of a pair in relation to the first.",
+            "examples": [
+              "each course member tries to persuade his pair of the merits of his model"
+            ]
+          },
+          {
+            "definition": "a mated couple of animals.",
+            "examples": [
+              "nine breeding pairs of birds"
+            ],
+            "synonyms": [
+              "two",
+              "couple",
+              "duo",
+              "brace",
+              "twosome",
+              "duplet; twins \"the pair were arrested\""
+            ]
+          },
+          {
+            "definition": "two horses harnessed side by side."
+          },
+          {
+            "definition": "either or both of two members of a legislative assembly on opposite sides who absent themselves from voting by mutual arrangement, leaving the relative position of the parties unaffected."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pairs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join or connect to form a pair.",
+            "examples": [
+              "a cardigan paired with a matching skirt"
+            ],
+            "synonyms": [
+              "match",
+              "put together",
+              "couple",
+              "twin \"a cardigan paired with a matching skirt\""
+            ]
+          },
+          {
+            "definition": "(of animals) mate.",
+            "examples": [
+              "they bought a rooster to pair with the hen"
+            ]
+          },
+          {
+            "definition": "form a couple.",
+            "examples": [
+              "Rachel has paired up with Tommy"
+            ],
+            "synonyms": [
+              "get together",
+              "team up",
+              "form a couple",
+              "make a twosome",
+              "hook up",
+              "marry \"Rachel paired up with Tommy\""
+            ]
+          },
+          {
+            "definition": "give (a member of a legislative assembly) another member as a pair, to allow both to absent themselves from a vote without affecting the result.",
+            "examples": [
+              "an absent member on one side is to be paired with an absentee on the other"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "word": "diffuse",
+    "syllables": [
+      "dif",
+      "fuse"
+    ],
+    "pronunciation": "dəˈfyo͞ozdəˈfyo͞os",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "diffuse"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "diffuses"
+          },
+          {
+            "part": "past tense",
+            "variant": "diffused"
+          },
+          {
+            "part": "past participle",
+            "variant": "diffused"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "diffusing"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "diffuse"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

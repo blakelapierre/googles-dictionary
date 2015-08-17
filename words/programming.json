@@ -1,0 +1,112 @@
+[
+  {
+    "word": "programming",
+    "syllables": [
+      "pro",
+      "gram",
+      "ming"
+    ],
+    "pronunciation": "ˈprōˌɡramiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "programming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of writing computer programs."
+          },
+          {
+            "definition": "the action or process of scheduling something, especially radio or television programs.",
+            "examples": [
+              "the programming of shows"
+            ]
+          },
+          {
+            "definition": "radio or television programs that are scheduled or broadcast.",
+            "examples": [
+              "the station is to expand its late-night programming"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "program",
+    "syllables": [
+      "pro",
+      "gram"
+    ],
+    "pronunciation": "ˈprōˌɡram",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "programming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide (a computer or other machine) with coded instructions for the automatic performance of a particular task.",
+            "examples": [
+              "it is a simple matter to program the computer to recognize such symbols"
+            ]
+          },
+          {
+            "definition": "write computer programs.",
+            "examples": [
+              "I've programmed for 25 years and have used many languages"
+            ]
+          },
+          {
+            "definition": "input (instructions for the automatic performance of a task) into a computer or other machine.",
+            "examples": [
+              "verb: programme; 3rd person present: programmes"
+            ]
+          },
+          {
+            "definition": "cause (a person or animal) to behave in a predetermined way.",
+            "examples": [
+              "all members of a particular species are programmed to build nests in the same way"
+            ]
+          },
+          {
+            "definition": "arrange according to a plan or schedule.",
+            "examples": [
+              "we learn how to program our own lives consciously"
+            ],
+            "synonyms": [
+              "arrange",
+              "organize",
+              "schedule",
+              "plan",
+              "map out",
+              "timetable",
+              "line up",
+              "slate \"they programmed the day well\""
+            ]
+          },
+          {
+            "definition": "schedule (an item) within a framework.",
+            "examples": [
+              "the next stage of the treaty is programmed for 1996"
+            ]
+          },
+          {
+            "definition": "broadcast (an item).",
+            "examples": [
+              "the station does not program enough contemporary works"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

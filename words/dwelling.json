@@ -1,0 +1,99 @@
+[
+  {
+    "word": "dwelling",
+    "syllables": [
+      "dwell",
+      "ing"
+    ],
+    "pronunciation": "ˈdweliNG",
+    "parts": [
+      {
+        "part": "nounformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dwelling"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dwellings"
+          },
+          {
+            "part": "noun",
+            "variant": "dwelling place"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dwelling places"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a house, apartment, or other place of residence.",
+            "examples": [
+              "residence, home, house, accommodations; Morequarters, rooms, lodgings; informalplace, pad, digs; formalabode, domicile, habitation \"their dwellings were simple but pristine, both inside and out\"Morequarters, rooms, lodgings; place, pad, digs; abode, domicile, habitation their dwellings were simple but pristine, both inside and out"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dwell",
+    "syllables": [
+      "dwell"
+    ],
+    "pronunciation": "dwel",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "dwelling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "live in or at a specified place.",
+            "examples": [
+              "groups of gypsies still dwell in these caves"
+            ],
+            "synonyms": [
+              "reside",
+              "live",
+              "be settled",
+              "be housed",
+              "lodge",
+              "stay; Moreinformalput up; formalabide",
+              "be domiciled \"gypsies dwell in these caves\""
+            ]
+          },
+          {
+            "definition": "think, speak, or write at length about (a particular subject, especially one that is a source of unhappiness, anxiety, or dissatisfaction).",
+            "examples": [
+              "I've got better things to do than dwell on the past"
+            ],
+            "synonyms": [
+              "linger over",
+              "mull over",
+              "muse on",
+              "brood about/over",
+              "think about",
+              "overthink; Morebe preoccupied by",
+              "be obsessed by",
+              "eat one's heart out over; harp on about",
+              "discuss at length \"I'm not one to dwell on the past\""
+            ]
+          },
+          {
+            "definition": "(of one's eyes or attention) linger on (a particular object or place).",
+            "examples": [
+              "she let her eyes dwell on them for a moment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

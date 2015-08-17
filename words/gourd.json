@@ -1,0 +1,35 @@
+[
+  {
+    "word": "gourd",
+    "syllables": [
+      "gourd"
+    ],
+    "pronunciation": "ɡôrdɡo͝ord",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gourd"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gourds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fleshy, typically large fruit with a hard skin, some varieties of which are edible."
+          },
+          {
+            "definition": "a drinking container, water container, or ornament made from the hard hollowed and dried skin of a gourd."
+          },
+          {
+            "definition": "a climbing or trailing plant that bears gourds."
+          }
+        ]
+      }
+    ]
+  }
+]

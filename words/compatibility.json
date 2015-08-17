@@ -1,0 +1,57 @@
+[
+  {
+    "word": "compatibility",
+    "syllables": [
+      "com",
+      "pat",
+      "i",
+      "bil",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "kəmˌpadəˈbilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "compatibility"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a state in which two things are able to exist or occur together without problems or conflict.",
+            "examples": [
+              "he argues for the compatibility of science and religion"
+            ],
+            "synonyms": [
+              "like-mindedness",
+              "similarity",
+              "affinity",
+              "closeness",
+              "fellow feeling",
+              "harmony",
+              "rapport",
+              "empathy",
+              "sympathy \"they argue a lot",
+              "but they also enjoy a real compatibility\""
+            ]
+          },
+          {
+            "definition": "a feeling of sympathy and friendship; like-mindedness.",
+            "examples": [
+              "they felt the bond of true compatibility"
+            ]
+          },
+          {
+            "definition": "the ability of one computer, piece of software, etc., to work with another.",
+            "examples": [
+              "software compatibility is another important factor to consider"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

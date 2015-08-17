@@ -1,0 +1,29 @@
+[
+  {
+    "word": "reload",
+    "syllables": [
+      "re",
+      "load"
+    ],
+    "pronunciation": "rēˈlōd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "reloading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "load (something, especially a gun that has been fired) again.",
+            "examples": [
+              "he reloaded the chamber of the shotgun with fresh cartridges"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "wavelength",
+    "syllables": [
+      "wave",
+      "length"
+    ],
+    "pronunciation": "ˈwāvˌleNG(k)TH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "wavelengths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the distance between successive crests of a wave, especially points in a sound wave or electromagnetic wave."
+          },
+          {
+            "definition": "a wavelength as a distinctive feature of radio waves from a transmitter."
+          },
+          {
+            "definition": "a person's ideas and way of thinking, especially as it affects their ability to communicate with others.",
+            "examples": [
+              "when we met we hit it off immediately—we're on the same wavelength"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "commonwealth",
+    "syllables": [
+      "com",
+      "mon",
+      "wealth"
+    ],
+    "pronunciation": "ˈkämənˌwelTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "commonwealth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "commonwealths"
+          },
+          {
+            "part": "noun",
+            "variant": "the Commonwealth"
+          },
+          {
+            "part": "noun",
+            "variant": "the commonwealth"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an independent country or community, especially a democratic republic."
+          },
+          {
+            "definition": "an aggregate or grouping of countries or other bodies."
+          },
+          {
+            "definition": "a community or organization of shared interests in a nonpolitical field.",
+            "examples": [
+              "the Christian commonwealth"
+            ]
+          },
+          {
+            "definition": "a self-governing unit voluntarily grouped with the US, such as Puerto Rico."
+          },
+          {
+            "definition": "a formal title of some of the states of the US, especially Kentucky, Massachusetts, Pennsylvania, and Virginia."
+          },
+          {
+            "definition": "the title of the federated Australian states."
+          },
+          {
+            "definition": "the republican period of government in Britain between the execution of Charles I in 1649 and the Restoration of Charles II in 1660.",
+            "examples": [
+              "singular proper noun: Commonwealth"
+            ]
+          },
+          {
+            "definition": "an international association consisting of the UK together with states that were previously part of the British Empire, and dependencies. The British monarch is the symbolic head of the Commonwealth."
+          },
+          {
+            "definition": "the general good."
+          }
+        ]
+      }
+    ]
+  }
+]

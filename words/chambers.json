@@ -1,0 +1,94 @@
+[
+  {
+    "word": "chamber",
+    "syllables": [
+      "cham",
+      "ber"
+    ],
+    "pronunciation": "ˈCHāmbər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "chambers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large room used for formal or public events.",
+            "examples": [
+              "room, hall, assembly room, auditorium a debating chamber"
+            ]
+          },
+          {
+            "definition": "any of the houses of a legislature.",
+            "examples": [
+              "the Senate chamber"
+            ]
+          },
+          {
+            "definition": "a private room, typically a bedroom.",
+            "examples": [
+              "he had his meals brought to his chamber"
+            ],
+            "synonyms": [
+              "bedroom",
+              "room; Moreliterarybower; historicalboudoir; archaicbedchamber \"we slept safely in our chamber\""
+            ]
+          },
+          {
+            "definition": "a judge's room used for official proceedings not required to be held in open court."
+          },
+          {
+            "definition": "rooms used by a lawyer or lawyers."
+          },
+          {
+            "definition": "an enclosed space or cavity.",
+            "examples": [
+              "an echo chamber"
+            ]
+          },
+          {
+            "definition": "a large underground cavern."
+          },
+          {
+            "definition": "the part of a gun bore that contains the charge or bullet."
+          },
+          {
+            "definition": "a cavity in a plant, animal body, or organ.",
+            "examples": [
+              "the four chambers of the heart"
+            ],
+            "synonyms": [
+              "compartment",
+              "cavity; Moreauricle",
+              "ventricle \"the left chamber of the heart\""
+            ]
+          },
+          {
+            "definition": "of or for a small group of instruments.",
+            "examples": [
+              "a chamber concert"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "chambers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "place (a bullet) into the chamber of a gun."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "fodder",
+    "syllables": [
+      "fod",
+      "der"
+    ],
+    "pronunciation": "ˈfädər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fodder"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "food, especially dried hay or feed, for cattle and other livestock."
+          },
+          {
+            "definition": "a person or thing regarded only as material for a specific use.",
+            "examples": [
+              "young people ending up as factory fodder"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fodder"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fodders"
+          },
+          {
+            "part": "past tense",
+            "variant": "foddered"
+          },
+          {
+            "part": "past participle",
+            "variant": "foddered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "foddering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give fodder to (cattle or other livestock)."
+          }
+        ]
+      }
+    ]
+  }
+]

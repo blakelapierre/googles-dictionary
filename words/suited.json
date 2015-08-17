@@ -1,0 +1,114 @@
+[
+  {
+    "word": "suited",
+    "syllables": [
+      "suit",
+      "ed"
+    ],
+    "pronunciation": "ˈso͞odəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "suited"
+          },
+          {
+            "part": "suffix",
+            "variant": "-suited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "right or appropriate for a particular person, purpose, or situation.",
+            "examples": [
+              "the task is ideally suited to a computer"
+            ]
+          },
+          {
+            "definition": "wearing a suit of clothes of a specified type, fabric, or color.",
+            "examples": [
+              "a dark-suited man"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "suit",
+    "syllables": [
+      "suit"
+    ],
+    "pronunciation": "so͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "suited"
+          },
+          {
+            "part": "past participle",
+            "variant": "suited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be convenient for or acceptable to.",
+            "examples": [
+              "he lied whenever it suited him"
+            ],
+            "synonyms": [
+              "be convenient for",
+              "be acceptable to",
+              "be suitable for",
+              "meet the requirements of; Moreinformalfit the bill for \"savings plans to suit all customers\"make appropriate to/for",
+              "tailor",
+              "fashion",
+              "adjust",
+              "adapt",
+              "modify",
+              "fit",
+              "gear",
+              "design \"recipes ideally suited to students\""
+            ]
+          },
+          {
+            "definition": "act entirely according to one's own wishes (often used to express the speaker's annoyance).",
+            "examples": [
+              "“I'm not going to help you.” “Suit yourself.”"
+            ]
+          },
+          {
+            "definition": "go well with or enhance the features, figure, or character of (someone).",
+            "examples": [
+              "the dress didn't suit her"
+            ],
+            "synonyms": [
+              "become",
+              "work for",
+              "look good on",
+              "look attractive on",
+              "flatter \"blue really suits you\""
+            ]
+          },
+          {
+            "definition": "adapt or make appropriate for (something).",
+            "examples": [
+              "they took care to suit their answers to the questions put to them"
+            ]
+          },
+          {
+            "definition": "put on clothes, typically for a particular activity.",
+            "examples": [
+              "I suited up and entered the water"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

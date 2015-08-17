@@ -1,0 +1,27 @@
+[
+  {
+    "word": "linguistics",
+    "syllables": [
+      "lin",
+      "guis",
+      "tics"
+    ],
+    "pronunciation": "liNGˈɡwistiks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "linguistics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics. Specific branches of linguistics include sociolinguistics, dialectology, psycholinguistics, computational linguistics, historical-comparative linguistics, and applied linguistics."
+          }
+        ]
+      }
+    ]
+  }
+]

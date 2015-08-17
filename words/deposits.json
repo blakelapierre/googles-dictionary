@@ -1,0 +1,137 @@
+[
+  {
+    "word": "deposit",
+    "syllables": [
+      "de",
+      "pos",
+      "it"
+    ],
+    "pronunciation": "dəˈpäzət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "deposits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sum of money placed or kept in a bank account, usually to gain interest."
+          },
+          {
+            "definition": "an act of placing money in a bank account.",
+            "examples": [
+              "I'd like to make a deposit"
+            ]
+          },
+          {
+            "definition": "a sum payable as a first installment on the purchase of something or as a pledge for a contract, the balance being payable later.",
+            "examples": [
+              "we've saved enough for a deposit on a house"
+            ],
+            "synonyms": [
+              "down payment",
+              "advance payment",
+              "prepayment",
+              "installment",
+              "retainer",
+              "stake \"they paid a deposit\""
+            ]
+          },
+          {
+            "definition": "a returnable sum payable on the rental of something, to cover any possible loss or damage."
+          },
+          {
+            "definition": "a layer or body of accumulated matter.",
+            "examples": [
+              "the deposits of salt on the chrome"
+            ],
+            "synonyms": [
+              "accumulation",
+              "sediment; Morelayer",
+              "covering",
+              "coating",
+              "blanket \"a thick deposit of ash\""
+            ]
+          },
+          {
+            "definition": "a natural layer of sand, rock, coal, or other material.",
+            "examples": [
+              "seam, vein, lode, layer, stratum, bed, pipe a copper deposit"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "deposits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put or set down (something or someone) in a specific place, typically unceremoniously.",
+            "examples": [
+              "he deposited a pile of schoolbooks on the kitchen table"
+            ],
+            "synonyms": [
+              "put (down)",
+              "place",
+              "set (down)",
+              "unload",
+              "rest; Moredrop; informaldump",
+              "park",
+              "plonk",
+              "plunk \"she deposited her books on the table\""
+            ]
+          },
+          {
+            "definition": "(of water, the wind, or other natural agency) lay down (matter) gradually as a layer or covering.",
+            "examples": [
+              "beds where salt is deposited by the tide"
+            ],
+            "synonyms": [
+              "leave (behind)",
+              "precipitate",
+              "dump; Morewash up",
+              "cast up \"the silt deposited by floodwater\""
+            ]
+          },
+          {
+            "definition": "lay (an egg).",
+            "examples": [
+              "the female deposits a line of eggs"
+            ]
+          },
+          {
+            "definition": "store or entrust with someone for safekeeping."
+          },
+          {
+            "definition": "pay (a sum of money) into a bank account.",
+            "examples": [
+              "the money is deposited with a bank"
+            ],
+            "synonyms": [
+              "house",
+              "bank",
+              "store",
+              "stow",
+              "put away; Moreinformalstash",
+              "squirrel away \"the gold was deposited at the bank\""
+            ]
+          },
+          {
+            "definition": "pay (a sum) as a first installment or as a pledge for a contract.",
+            "examples": [
+              "I had to deposit 10% of the price of the house"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "word": "chance",
+    "syllables": [
+      "chance"
+    ],
+    "pronunciation": "CHans",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "chances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a possibility of something happening.",
+            "examples": [
+              "a chance of victory"
+            ],
+            "synonyms": [
+              "possibility",
+              "prospect",
+              "probability",
+              "likelihood",
+              "likeliness",
+              "expectation",
+              "anticipation; Morerisk",
+              "threat",
+              "danger \"there was a chance he might be released\""
+            ]
+          },
+          {
+            "definition": "the probability of something happening.",
+            "examples": [
+              "he played down his chances of becoming chairman"
+            ]
+          },
+          {
+            "definition": "an opportunity to do or achieve something.",
+            "examples": [
+              "I gave her a chance to answer"
+            ],
+            "synonyms": [
+              "opportunity",
+              "opening",
+              "occasion",
+              "turn",
+              "time",
+              "window (of opportunity); informalshot \"I gave her a chance to answer\""
+            ]
+          },
+          {
+            "definition": "a ticket in a raffle or lottery."
+          },
+          {
+            "definition": "an opportunity to make a defensive play, which if missed counts as an error.",
+            "examples": [
+              "541 straight chances without an error"
+            ]
+          },
+          {
+            "definition": "the occurrence and development of events in the absence of any obvious design.",
+            "examples": [
+              "he met his brother by chance"
+            ],
+            "synonyms": [
+              "accident",
+              "coincidence",
+              "serendipity",
+              "fate",
+              "destiny",
+              "fortuity",
+              "providence",
+              "happenstance; Moregood fortune",
+              "luck",
+              "good luck",
+              "fluke \"pure chance\"fortuitously",
+              "by accident",
+              "accidentally",
+              "coincidentally",
+              "serendipitously; unintentionally",
+              "inadvertently \"we found a signed first edition completely by chance\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "chances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "do something by accident or without design.",
+            "examples": [
+              "if they chanced to meet"
+            ],
+            "synonyms": [
+              "happen \"I chanced to meet him\""
+            ]
+          },
+          {
+            "definition": "find or see by accident.",
+            "examples": [
+              "he chanced upon an interesting advertisement"
+            ],
+            "synonyms": [
+              "come across/upon",
+              "run across/into",
+              "happen on",
+              "light on",
+              "stumble on",
+              "find by chance",
+              "meet (by chance)",
+              "bump into \"if you should chance upon a copy of the book",
+              "please let me know\""
+            ]
+          },
+          {
+            "definition": "do (something) despite its being dangerous or of uncertain outcome.",
+            "examples": [
+              "she waited a few seconds and chanced another look"
+            ],
+            "synonyms": [
+              "risk",
+              "hazard",
+              "venture",
+              "try; formalessay \"she chanced another look\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

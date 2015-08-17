@@ -1,0 +1,30 @@
+[
+  {
+    "word": "railway",
+    "syllables": [
+      "rail",
+      "way"
+    ],
+    "pronunciation": "ˈrālˌwā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "railway"
+          },
+          {
+            "part": "plural noun",
+            "variant": "railways"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "chiefly British term for railroad."
+          }
+        ]
+      }
+    ]
+  }
+]

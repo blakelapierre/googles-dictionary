@@ -1,0 +1,40 @@
+[
+  {
+    "word": "nomenclature",
+    "syllables": [
+      "no",
+      "men",
+      "cla",
+      "ture"
+    ],
+    "pronunciation": "ˈnōmənˌklāCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nomenclature"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the devising or choosing of names for things, especially in a science or other discipline."
+          },
+          {
+            "definition": "the body or system of names in a particular field.",
+            "examples": [
+              "plural noun: nomenclatures"
+            ]
+          },
+          {
+            "definition": "the term or terms applied to someone or something.",
+            "examples": [
+              "“customers” was preferred to the original nomenclature “passengers.”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

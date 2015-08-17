@@ -1,0 +1,54 @@
+[
+  {
+    "word": "embellishment",
+    "syllables": [
+      "em",
+      "bel",
+      "lish",
+      "ment"
+    ],
+    "pronunciation": "əmˈbeliSHmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "embellishment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "embellishments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a decorative detail or feature added to something to make it more attractive.",
+            "examples": [
+              "architectural embellishments"
+            ],
+            "synonyms": [
+              "decoration",
+              "ornamentation",
+              "adornment; Morebeautification",
+              "enhancement",
+              "trimming",
+              "trim",
+              "garnishing",
+              "gilding \"architectural embellishments\""
+            ]
+          },
+          {
+            "definition": "a detail, especially one that is not true, added to a statement or story to make it more interesting or entertaining.",
+            "examples": [
+              "elaboration, addition, exaggeration we wanted the truth, not romantic embellishments"
+            ]
+          },
+          {
+            "definition": "the action of adding details or features."
+          }
+        ]
+      }
+    ]
+  }
+]

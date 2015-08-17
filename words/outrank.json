@@ -1,0 +1,51 @@
+[
+  {
+    "word": "outrank",
+    "syllables": [
+      "out",
+      "rank"
+    ],
+    "pronunciation": "ˌoutˈraNGk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "outrank"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "outranks"
+          },
+          {
+            "part": "past tense",
+            "variant": "outranked"
+          },
+          {
+            "part": "past participle",
+            "variant": "outranked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "outranking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have a higher rank than (someone else).",
+            "examples": [
+              "a father figure to many of the junior officers theoretically outranking him"
+            ]
+          },
+          {
+            "definition": "be better, more important, or more significant than.",
+            "examples": [
+              "fishing provided the chief employment, outranking both clothing and canning"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

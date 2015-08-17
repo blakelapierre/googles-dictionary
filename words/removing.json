@@ -1,0 +1,86 @@
+[
+  {
+    "word": "remove",
+    "syllables": [
+      "re",
+      "move"
+    ],
+    "pronunciation": "rəˈmo͞ov",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "removing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take (something) away or off from the position occupied.",
+            "examples": [
+              "Customs officials removed documents from the premises"
+            ]
+          },
+          {
+            "definition": "take off (clothing).",
+            "examples": [
+              "he sat down and quickly removed his shoes and socks"
+            ]
+          },
+          {
+            "definition": "change one's home or place of residence by moving to (another place).",
+            "examples": [
+              "he removed to Mexico and began afresh"
+            ]
+          },
+          {
+            "definition": "compel (someone) by law to move to another area.",
+            "examples": [
+              "a man is removed to the tribal district of his forbears"
+            ]
+          },
+          {
+            "definition": "eliminate or get rid of.",
+            "examples": [
+              "the iron can be removed by filtration"
+            ]
+          },
+          {
+            "definition": "dismiss from a job or office.",
+            "examples": [
+              "he was removed from his teaching position"
+            ]
+          },
+          {
+            "definition": "be distant from.",
+            "examples": [
+              "it is an isolated place, far removed from the London art world"
+            ]
+          },
+          {
+            "definition": "be very different from.",
+            "examples": [
+              "an explanation that is far removed from the truth"
+            ],
+            "synonyms": [
+              "distant from",
+              "remote from",
+              "disconnected from; Moreunrelated to",
+              "unconnected to",
+              "alien to",
+              "foreign to",
+              "outside of \"it's a fairy tale completely removed from reality\""
+            ]
+          },
+          {
+            "definition": "separated by a particular number of steps of descent.",
+            "examples": [
+              "his second cousin once removed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

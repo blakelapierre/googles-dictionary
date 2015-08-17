@@ -1,0 +1,38 @@
+[
+  {
+    "word": "puree",
+    "syllables": [
+      "pu",
+      "ree"
+    ],
+    "pronunciation": "pyo͝oˈrāpyo͝oˈrē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "pureed"
+          },
+          {
+            "part": "past participle",
+            "variant": "pureed"
+          },
+          {
+            "part": "past tense",
+            "variant": "puréed"
+          },
+          {
+            "part": "past participle",
+            "variant": "puréed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a puree of (fruit or vegetables)."
+          }
+        ]
+      }
+    ]
+  }
+]

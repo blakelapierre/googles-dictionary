@@ -1,0 +1,50 @@
+[
+  {
+    "word": "diary",
+    "syllables": [
+      "di",
+      "a",
+      "ry"
+    ],
+    "pronunciation": "ˈdī(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "diary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "diaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a book in which one keeps a daily record of events and experiences.",
+            "examples": [
+              "I resolved to keep a diary of events during the war"
+            ],
+            "synonyms": [
+              "journal",
+              "memoir",
+              "chronicle",
+              "log",
+              "logbook",
+              "history",
+              "annals",
+              "record \"her World War II diaries\""
+            ]
+          },
+          {
+            "definition": "a datebook.",
+            "examples": [
+              "appointment book, engagement book, organizer, personal organizer, daybook, PDA; daytimer he put the date in his diary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "impede",
+    "syllables": [
+      "im",
+      "pede"
+    ],
+    "pronunciation": "imˈpēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "impeded"
+          },
+          {
+            "part": "past participle",
+            "variant": "impeded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "delay or prevent (someone or something) by obstructing them; hinder.",
+            "examples": [
+              "the sap causes swelling that can impede breathing"
+            ],
+            "synonyms": [
+              "hinder",
+              "obstruct",
+              "hamper",
+              "hold back/up",
+              "delay",
+              "interfere with",
+              "disrupt",
+              "retard",
+              "slow (down)",
+              "hobble",
+              "cripple; Moreblock",
+              "check",
+              "stop",
+              "scupper",
+              "scuttle",
+              "thwart",
+              "frustrate",
+              "balk",
+              "foil",
+              "derail; informalstymie",
+              "throw a (monkey) wrench in the works of; datedcumber \"your efforts to impede our progress will be unsuccessful\""
+            ],
+            "antonyms": [
+              "facilitate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

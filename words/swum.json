@@ -1,0 +1,95 @@
+[
+  {
+    "word": "swum",
+    "syllables": [
+      "swum"
+    ],
+    "pronunciation": "swəm",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "swim",
+    "syllables": [
+      "swim"
+    ],
+    "pronunciation": "swim",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "swum"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "propel the body through water by using the limbs, or (in the case of a fish or other aquatic animal) by using fins, tail, or other bodily movement.",
+            "examples": [
+              "they swam ashore"
+            ],
+            "synonyms": [
+              "bathe",
+              "take a dip",
+              "splash around; Morefloat",
+              "tread water",
+              "paddle \"they swam in the pool\""
+            ]
+          },
+          {
+            "definition": "cross (a particular stretch of water) by swimming.",
+            "examples": [
+              "she swam the Channel"
+            ]
+          },
+          {
+            "definition": "float on or at the surface of a liquid.",
+            "examples": [
+              "bubbles swam on the surface"
+            ]
+          },
+          {
+            "definition": "cause to float or move across water.",
+            "examples": [
+              "the Russians were able to swim their infantry carriers across"
+            ]
+          },
+          {
+            "definition": "be immersed in or covered with liquid.",
+            "examples": [
+              "mashed potatoes swimming in gravy"
+            ],
+            "synonyms": [
+              "be saturated in",
+              "be drenched in",
+              "be soaked in",
+              "be steeped in",
+              "be immersed in",
+              "be covered in",
+              "be drowning in",
+              "be full of \"his food was swimming in gravy\""
+            ]
+          },
+          {
+            "definition": "appear to reel or whirl before one's eyes.",
+            "examples": [
+              "Emily rubbed her eyes as the figures swam before her eyes"
+            ]
+          },
+          {
+            "definition": "experience a dizzily confusing sensation in one's head.",
+            "examples": [
+              "the drink made his head swim"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "word": "coloring",
+    "syllables": [
+      "col",
+      "or",
+      "ing"
+    ],
+    "pronunciation": "ˈkələriNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "colouring"
+          },
+          {
+            "part": "noun",
+            "variant": "coloring"
+          },
+          {
+            "part": "plural noun",
+            "variant": "colourings"
+          },
+          {
+            "part": "plural noun",
+            "variant": "colorings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process or skill of applying a substance to something so as to change its original color."
+          },
+          {
+            "definition": "the process of filling in a particular shape or outline with crayons.",
+            "examples": [
+              "a coloring book"
+            ]
+          },
+          {
+            "definition": "visual appearance with regard to color, in particular."
+          },
+          {
+            "definition": "the arrangement of colors and markings on an animal."
+          },
+          {
+            "definition": "the natural hues of a person's skin, hair, and eyes.",
+            "examples": [
+              "her fair coloring"
+            ]
+          },
+          {
+            "definition": "the pervading character or tone of something.",
+            "examples": [
+              "the comments give a distinctly more ideological coloring to research conclusions"
+            ]
+          },
+          {
+            "definition": "a substance used to give a particular color to something, especially food."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "color",
+    "syllables": [
+      "col",
+      "or"
+    ],
+    "pronunciation": "ˈkələr",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "coloring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "change the color of (something) by painting, dyeing, or shading it.",
+            "examples": [
+              "tint, dye, stain, paint, pigment, wash the wood was colored blue"
+            ]
+          },
+          {
+            "definition": "take on a different color.",
+            "examples": [
+              "the foliage will not color well if the soil is too rich"
+            ]
+          },
+          {
+            "definition": "use crayons to fill (a particular shape or outline) with color.",
+            "examples": [
+              "color the head, eyes, and bill with crayons"
+            ]
+          },
+          {
+            "definition": "make vivid or picturesque.",
+            "examples": [
+              "he has colored the dance with gestures from cabaret and vaudeville"
+            ]
+          },
+          {
+            "definition": "(of a person or their skin) show embarrassment or shame by becoming red; blush.",
+            "examples": [
+              "everyone stared at him, and he colored slightly"
+            ],
+            "synonyms": [
+              "blush",
+              "redden",
+              "go pink",
+              "go red",
+              "flush \"she colored\""
+            ]
+          },
+          {
+            "definition": "cause (a person or their skin) to change in color.",
+            "examples": [
+              "rage colored his pale complexion"
+            ]
+          },
+          {
+            "definition": "(of a particular color) imbue (a person's skin).",
+            "examples": [
+              "a faint pink flush colored her cheeks"
+            ]
+          },
+          {
+            "definition": "(of an emotion) imbue (a person's voice) with a particular tone.",
+            "examples": [
+              "surprise colored her voice"
+            ]
+          },
+          {
+            "definition": "influence, especially in a negative way; distort.",
+            "examples": [
+              "the experiences had colored her whole existence"
+            ],
+            "synonyms": [
+              "influence",
+              "affect",
+              "taint",
+              "warp",
+              "skew",
+              "distort",
+              "bias",
+              "prejudice \"the experience colored her outlook\""
+            ]
+          },
+          {
+            "definition": "misrepresent by distortion or exaggeration.",
+            "examples": [
+              "witnesses might color evidence to make a story saleable"
+            ],
+            "synonyms": [
+              "exaggerate",
+              "overstate",
+              "embroider",
+              "embellish",
+              "dramatize",
+              "enhance",
+              "varnish; Morefalsify",
+              "misreport",
+              "manipulate \"they color evidence to make a story sell\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "commend",
+    "syllables": [
+      "com",
+      "mend"
+    ],
+    "pronunciation": "kəˈmend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "commend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "commends"
+          },
+          {
+            "part": "past tense",
+            "variant": "commended"
+          },
+          {
+            "part": "past participle",
+            "variant": "commended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "commending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "praise formally or officially.",
+            "examples": [
+              "he was commended by the judge for his courageous actions"
+            ],
+            "synonyms": [
+              "praise",
+              "compliment",
+              "congratulate",
+              "applaud",
+              "salute",
+              "honor; Moresing the praises of",
+              "pay tribute to",
+              "take one's hat off to",
+              "pat on the back; formallaud \"we should commend him\""
+            ],
+            "antonyms": [
+              "criticize"
+            ]
+          },
+          {
+            "definition": "present as suitable for approval or acceptance; recommend.",
+            "examples": [
+              "I commend her to you without reservation"
+            ],
+            "synonyms": [
+              "recommend",
+              "suggest",
+              "propose; Moreendorse",
+              "advocate",
+              "vouch for",
+              "speak for",
+              "support",
+              "back \"I commend her to you without reservation\""
+            ]
+          },
+          {
+            "definition": "cause to be acceptable or pleasing.",
+            "examples": [
+              "this recording has a lot to commend it"
+            ]
+          },
+          {
+            "definition": "entrust someone or something to.",
+            "examples": [
+              "I commend them to your care"
+            ],
+            "synonyms": [
+              "entrust",
+              "trust",
+              "deliver",
+              "commit",
+              "hand over",
+              "give",
+              "turn over",
+              "consign",
+              "assign \"I commend them to your care\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

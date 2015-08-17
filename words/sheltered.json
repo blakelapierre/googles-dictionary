@@ -1,0 +1,110 @@
+[
+  {
+    "word": "sheltered",
+    "syllables": [
+      "shel",
+      "tered"
+    ],
+    "pronunciation": "ˈSHeltərd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sheltered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a place) protected from bad weather.",
+            "examples": [
+              "the plants need a shady, sheltered spot in the garden"
+            ]
+          },
+          {
+            "definition": "protected from difficulties or unpleasant realities.",
+            "examples": [
+              "she led a sheltered life until her mother and father went through a bitter divorce"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shelter",
+    "syllables": [
+      "shel",
+      "ter"
+    ],
+    "pronunciation": "ˈSHeltər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "sheltered"
+          },
+          {
+            "part": "past participle",
+            "variant": "sheltered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "protect or shield from something harmful, especially bad weather.",
+            "examples": [
+              "the hut sheltered him from the cold wind"
+            ],
+            "synonyms": [
+              "protect",
+              "shield",
+              "screen",
+              "cover",
+              "shade",
+              "save",
+              "safeguard",
+              "preserve",
+              "defend",
+              "cushion",
+              "guard",
+              "insulate More\"the hut sheltered him from the wind\"protected",
+              "screened",
+              "shielded",
+              "covered; shady; cozy \"a sheltered stretch of water\""
+            ],
+            "antonyms": [
+              "expose"
+            ]
+          },
+          {
+            "definition": "find refuge or take cover from bad weather or danger.",
+            "examples": [
+              "people were sheltering under store canopies and trees"
+            ],
+            "synonyms": [
+              "take shelter",
+              "take refuge",
+              "seek sanctuary",
+              "take cover; informalhole up \"the anchorage where the convoy sheltered\""
+            ]
+          },
+          {
+            "definition": "prevent (someone) from having to do or face something difficult or unpleasant.",
+            "examples": [
+              "secluded, cloistered, isolated, protected, withdrawn, sequestered, reclusive; Moreprivileged, secure, safe, quiet \"she led a sheltered life\"Moreprivileged, secure, safe, quiet she led a sheltered life"
+            ]
+          },
+          {
+            "definition": "protect (income) from taxation.",
+            "examples": [
+              "only your rental income can be sheltered"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

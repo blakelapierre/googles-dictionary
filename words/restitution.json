@@ -1,0 +1,64 @@
+[
+  {
+    "word": "restitution",
+    "syllables": [
+      "res",
+      "ti",
+      "tu",
+      "tion"
+    ],
+    "pronunciation": "ˌrestəˈt(y)o͞oSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "restitution"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the restoration of something lost or stolen to its proper owner.",
+            "examples": [
+              "seeking the restitution of land taken from blacks under apartheid"
+            ],
+            "synonyms": [
+              "return",
+              "restoration",
+              "handing back",
+              "surrender \"restitution of the land seized\""
+            ]
+          },
+          {
+            "definition": "recompense for injury or loss.",
+            "examples": [
+              "he was ordered to pay $6,000 in restitution"
+            ],
+            "synonyms": [
+              "compensation",
+              "recompense",
+              "reparation",
+              "damages",
+              "indemnification",
+              "indemnity",
+              "reimbursement",
+              "repayment",
+              "redress",
+              "remuneration \"restitution for the damage caused\""
+            ]
+          },
+          {
+            "definition": "the restoration of something to its original state.",
+            "examples": [
+              "restitution of the damaged mucosa"
+            ]
+          },
+          {
+            "definition": "the resumption of an object's original shape or position through elastic recoil."
+          }
+        ]
+      }
+    ]
+  }
+]

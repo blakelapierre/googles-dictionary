@@ -1,0 +1,33 @@
+[
+  {
+    "word": "suburb",
+    "syllables": [
+      "sub",
+      "urb"
+    ],
+    "pronunciation": "ˈsəbərb",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "suburb"
+          },
+          {
+            "part": "plural noun",
+            "variant": "suburbs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an outlying district of a city, especially a residential one.",
+            "examples": [
+              "residential area, dormitory area, bedroom community, commuter shed, commuter belt, exurb; Moresuburbia, the burbs \"a fast-growing suburb just west of Albany\"Moresuburbia, the burbs a fast-growing suburb just west of Albany"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

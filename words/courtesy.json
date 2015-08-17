@@ -1,0 +1,63 @@
+[
+  {
+    "word": "courtesy",
+    "syllables": [
+      "cour",
+      "te",
+      "sy"
+    ],
+    "pronunciation": "ˈkərdəsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "courtesy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the showing of politeness in one's attitude and behavior toward others.",
+            "examples": [
+              "he had been treated with a degree of courtesy not far short of deference"
+            ],
+            "synonyms": [
+              "politeness",
+              "courteousness",
+              "good manners",
+              "civility",
+              "respect",
+              "respectfulness; Morechivalry",
+              "gallantry; graciousness",
+              "consideration",
+              "thought",
+              "thoughtfulness",
+              "cordiality",
+              "urbanity",
+              "courtliness \"our customers will be treated with courtesy\""
+            ]
+          },
+          {
+            "definition": "a polite speech or action, especially one required by convention.",
+            "examples": [
+              "plural noun: courtesies"
+            ]
+          },
+          {
+            "definition": "(especially of transport) supplied free of charge to people who are already paying for another service.",
+            "examples": [
+              "modifier noun: courtesy"
+            ]
+          },
+          {
+            "definition": "a curtsy.",
+            "examples": [
+              "plural noun: courtesies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

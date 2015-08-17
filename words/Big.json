@@ -1,0 +1,269 @@
+[
+  {
+    "word": "big",
+    "syllables": [
+      "big"
+    ],
+    "pronunciation": "biɡ",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "big"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "bigger"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "biggest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of considerable size, extent, or intensity.",
+            "examples": [
+              "big hazel eyes"
+            ],
+            "synonyms": [
+              "large",
+              "sizable",
+              "substantial",
+              "great",
+              "huge",
+              "immense",
+              "enormous",
+              "extensive",
+              "colossal",
+              "massive",
+              "mammoth",
+              "vast",
+              "tremendous",
+              "gigantic",
+              "giant",
+              "monumental",
+              "mighty",
+              "gargantuan",
+              "elephantine",
+              "titanic",
+              "mountainous",
+              "Brobdingnagian; Moretowering",
+              "tall",
+              "high",
+              "lofty; outsize",
+              "oversized; goodly; capacious",
+              "voluminous",
+              "spacious; king-size(d)",
+              "man-size",
+              "family-size(d)",
+              "economy-size(d); informaljumbo",
+              "whopping",
+              "mega",
+              "humongous",
+              "monster",
+              "astronomical",
+              "ginormous; formalcommodious \"a big building\"well built",
+              "sturdy",
+              "brawny",
+              "burly",
+              "broad-shouldered",
+              "muscular",
+              "muscly",
+              "rugged",
+              "Herculean",
+              "bulky",
+              "hulking",
+              "strapping",
+              "heavily built",
+              "thickset",
+              "stocky",
+              "solid",
+              "hefty",
+              "large; tall",
+              "huge",
+              "gigantic; fat",
+              "stout",
+              "portly",
+              "plump",
+              "fleshy",
+              "paunchy",
+              "corpulent",
+              "obese; full-figured",
+              "big-boned",
+              "buxom; roly-poly",
+              "rotund",
+              "well fed; informalhunky",
+              "beefy",
+              "husky; literarythewy \"clothing for big people\""
+            ],
+            "antonyms": [
+              "small",
+              "little",
+              "slight",
+              "diminutive"
+            ]
+          },
+          {
+            "definition": "of a large or the largest size.",
+            "examples": [
+              "my big toe"
+            ]
+          },
+          {
+            "definition": "grown up.",
+            "examples": [
+              "I'm a big girl now"
+            ],
+            "synonyms": [
+              "elder",
+              "older; Moregrown-up",
+              "adult",
+              "mature",
+              "grown \"my big sister\""
+            ]
+          },
+          {
+            "definition": "elder.",
+            "examples": [
+              "my big sister"
+            ]
+          },
+          {
+            "definition": "doing a specified action very often or on a very large scale.",
+            "examples": [
+              "a big eater"
+            ]
+          },
+          {
+            "definition": "on an ambitiously large scale.",
+            "examples": [
+              "a small company with big plans"
+            ],
+            "synonyms": [
+              "ambitious",
+              "far-reaching",
+              "grandiose",
+              "on a grand scale \"she has big plans\""
+            ],
+            "antonyms": [
+              "modest"
+            ]
+          },
+          {
+            "definition": "popular or exciting interest among the public.",
+            "examples": [
+              "Latino bands that are big in Los Angeles"
+            ],
+            "synonyms": [
+              "popular",
+              "successful",
+              "in demand",
+              "sought-after",
+              "all the rage; Moreinformalhot",
+              "in",
+              "cool",
+              "trendy",
+              "now",
+              "hip \"East Coast bands are big across the country\""
+            ]
+          },
+          {
+            "definition": "showing great enthusiasm.",
+            "examples": [
+              "a big tennis fan"
+            ]
+          },
+          {
+            "definition": "advanced in pregnancy.",
+            "examples": [
+              "my wife was big with child"
+            ]
+          },
+          {
+            "definition": "of considerable importance or seriousness.",
+            "examples": [
+              "it's a big decision"
+            ],
+            "synonyms": [
+              "important",
+              "significant",
+              "major",
+              "momentous",
+              "weighty",
+              "consequential",
+              "far-reaching",
+              "impactful",
+              "key",
+              "vital",
+              "critical",
+              "crucial",
+              "life-and-death \"a big decision\""
+            ],
+            "antonyms": [
+              "unimportant",
+              "minor",
+              "trivial"
+            ]
+          },
+          {
+            "definition": "holding an important position or playing an influential role.",
+            "examples": [
+              "as a senior in college, he was a big man on campus"
+            ],
+            "synonyms": [
+              "powerful",
+              "important",
+              "prominent",
+              "influential",
+              "high-powered",
+              "leading",
+              "preeminent; major-league \"a big man in the government\""
+            ],
+            "antonyms": [
+              "unimportant",
+              "obscure"
+            ]
+          },
+          {
+            "definition": "generous.",
+            "examples": [
+              "“I'm inclined to take pity on you.” “That's big of you !”"
+            ],
+            "synonyms": [
+              "generous",
+              "kind",
+              "kindly",
+              "caring",
+              "compassionate",
+              "loving \"he's got a big heart\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounNorth Americaninformal",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bigs"
+          },
+          {
+            "part": "noun",
+            "variant": "big"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the major league in a professional sport.",
+            "examples": [
+              "the day he made it to the bigs, he forgot every minor league ballpark he ever played in"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

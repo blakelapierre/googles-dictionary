@@ -1,0 +1,390 @@
+[
+  {
+    "word": "mark",
+    "syllables": [
+      "mark"
+    ],
+    "pronunciation": "märk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "marks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small area on a surface having a different color from its surroundings, typically one caused by accident or damage.",
+            "examples": [
+              "the blow left a red mark down one side of her face"
+            ],
+            "synonyms": [
+              "blemish",
+              "streak",
+              "spot",
+              "fleck",
+              "dot",
+              "blot",
+              "stain",
+              "smear",
+              "speck",
+              "speckle",
+              "blotch",
+              "smudge",
+              "smut",
+              "fingermark",
+              "fingerprint; Morebruise",
+              "discoloration; birthmark; informalsplotch; technicalstigma \"a dirty mark\""
+            ]
+          },
+          {
+            "definition": "a spot, area, or feature on a person's or animal's body by which they may be identified or recognized.",
+            "examples": [
+              "he was five feet nine, with no distinguishing marks"
+            ]
+          },
+          {
+            "definition": "a line, figure, or symbol made as an indication or record of something.",
+            "examples": [
+              "symbol, sign, character; Morediacritic \"a punctuation mark\"logo, seal, stamp, imprint, symbol, emblem, device, insignia, badge, brand, trademark, monogram, hallmark, logotype, watermark \"books bearing the mark of a well-known bookseller\"Morediacritic a punctuation marklogo, seal, stamp, imprint, symbol, emblem, device, insignia, badge, brand, trademark, monogram, hallmark, logotype, watermark books bearing the mark of a well-known bookseller"
+            ]
+          },
+          {
+            "definition": "a written symbol made on a document in place of a signature by someone who cannot write.",
+            "examples": [
+              "impression, imprint, traces; Moreeffect, impact, influence \"the war left its mark on him\"Moreeffect, impact, influence the war left its mark on him"
+            ]
+          },
+          {
+            "definition": "a level or stage that is considered significant.",
+            "examples": [
+              "unemployment had passed the two million mark"
+            ],
+            "synonyms": [
+              "point",
+              "level",
+              "stage",
+              "degree \"unemployment passed the three million mark\""
+            ]
+          },
+          {
+            "definition": "a sign or indication of a quality or feeling.",
+            "examples": [
+              "the flag was at half-mast as a mark of respect"
+            ],
+            "synonyms": [
+              "sign",
+              "token",
+              "symbol",
+              "indication",
+              "badge",
+              "emblem; Moresymptom",
+              "evidence",
+              "proof \"a mark of respect\"characteristic",
+              "feature",
+              "trait",
+              "attribute",
+              "quality",
+              "hallmark",
+              "calling card",
+              "badge",
+              "stamp",
+              "property",
+              "indicator \"the mark of a civilized society\""
+            ]
+          },
+          {
+            "definition": "a characteristic property or feature.",
+            "examples": [
+              "it is the mark of a civilized society to treat its elderly members well"
+            ]
+          },
+          {
+            "definition": "a competitor's starting point in a race."
+          },
+          {
+            "definition": "a piece of material or a knot used to indicate a depth on a sounding line."
+          },
+          {
+            "definition": "one of two possible states of a signal in certain systems."
+          },
+          {
+            "definition": "a point awarded for a correct answer or for proficiency in an examination or competition.",
+            "examples": [
+              "many candidates lose marks because they don't read the questions carefully"
+            ]
+          },
+          {
+            "definition": "a figure or letter representing the total correct answers in an examination and signifying a person's score.",
+            "examples": [
+              "the highest mark was 98 percent"
+            ],
+            "synonyms": [
+              "grade",
+              "grading",
+              "rating",
+              "score",
+              "percentage \"he got good marks for math\""
+            ]
+          },
+          {
+            "definition": "(especially in track and field) a time or distance achieved by a competitor, especially one which represents a record or personal best."
+          },
+          {
+            "definition": "(followed by a numeral) a particular model or type of a vehicle, machine, or device.",
+            "examples": [
+              "a Mark 10 Jaguar"
+            ]
+          },
+          {
+            "definition": "a target.",
+            "examples": [
+              "few bullets could have missed their mark"
+            ],
+            "synonyms": [
+              "target",
+              "goal",
+              "aim",
+              "bullseye; Moreobjective",
+              "object",
+              "end \"the bullet missed its mark\""
+            ]
+          },
+          {
+            "definition": "a person who is easily deceived or taken advantage of.",
+            "examples": [
+              "they figure I'm an easy mark"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "marks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a visible impression or stain) on.",
+            "examples": [
+              "he fingered the photograph gently, careful not to mark it"
+            ],
+            "synonyms": [
+              "discolor",
+              "stain",
+              "smear",
+              "smudge",
+              "streak",
+              "blotch",
+              "blemish; Moredirty",
+              "pockmark",
+              "bruise; informalsplotch; literarysmirch \"be careful not to mark the paintwork\""
+            ]
+          },
+          {
+            "definition": "become stained.",
+            "examples": [
+              "it is made from a sort of woven surface which doesn't mark or tear"
+            ]
+          },
+          {
+            "definition": "write a word or symbol on (an object), typically for identification.",
+            "examples": [
+              "she marked all her possessions with her name"
+            ],
+            "synonyms": [
+              "put one's name on",
+              "name",
+              "initial",
+              "label",
+              "identify; Morehallmark",
+              "watermark",
+              "brand \"her possessions were clearly marked\"indicate",
+              "label",
+              "flag",
+              "tick",
+              "check off",
+              "highlight; show",
+              "identify",
+              "designate",
+              "delineate",
+              "denote",
+              "specify \"I've marked the relevant passages\""
+            ]
+          },
+          {
+            "definition": "write (a word or figure) on an object.",
+            "examples": [
+              "she marked the date down on a card"
+            ]
+          },
+          {
+            "definition": "put a line by or through something written or printed on paper to indicate that it has passed or been dealt with.",
+            "examples": [
+              "he marked off their names in a ledger"
+            ]
+          },
+          {
+            "definition": "show the position of.",
+            "examples": [
+              "the top of the pass marks the border between Alaska and the Yukon"
+            ]
+          },
+          {
+            "definition": "separate or delineate (a particular section or area of something).",
+            "examples": [
+              "you need to mark out the part of the garden where the sun lingers longest"
+            ]
+          },
+          {
+            "definition": "(of a particular quality or feature) separate or distinguish (someone or something) from other people or things.",
+            "examples": [
+              "his sword marked him out as an officer"
+            ]
+          },
+          {
+            "definition": "select or destine someone for (a particular role or condition).",
+            "examples": [
+              "the solicitor general marked him out for government office"
+            ]
+          },
+          {
+            "definition": "judge someone to be (a particular type or class of person).",
+            "examples": [
+              "she had marked him down as a liberal"
+            ]
+          },
+          {
+            "definition": "acknowledge, honor, or celebrate (an important event or occasion) with a particular action.",
+            "examples": [
+              "to mark its fiftieth anniversary, the group held a fashion show"
+            ],
+            "synonyms": [
+              "celebrate",
+              "observe",
+              "recognize",
+              "acknowledge",
+              "keep",
+              "honor",
+              "solemnize",
+              "pay tribute to",
+              "salute",
+              "commemorate",
+              "remember",
+              "memorialize \"a festival to mark the town's 200th anniversary\""
+            ]
+          },
+          {
+            "definition": "be an indication of (a significant occasion, stage, or development).",
+            "examples": [
+              "the move to the new Globe theatre marked a new phase in Shakespeare’s writing career"
+            ],
+            "synonyms": [
+              "represent",
+              "signify",
+              "be a sign of",
+              "indicate",
+              "herald \"the incidents marked a new phase in their campaign\""
+            ]
+          },
+          {
+            "definition": "characterize as having a particular quality or feature.",
+            "examples": [
+              "the reaction to these developments has been marked by a note of hysteria"
+            ],
+            "synonyms": [
+              "characterize",
+              "distinguish",
+              "identify",
+              "typify",
+              "brand",
+              "signalize",
+              "stamp \"his style is marked by simplicity and concision\""
+            ]
+          },
+          {
+            "definition": "(of a clock or watch) show (a certain time).",
+            "examples": [
+              "his watch marked five past eight"
+            ]
+          },
+          {
+            "definition": "(of a teacher or examiner) assess the standard of (a piece of written work) by assigning points for proficiency or correct answers.",
+            "examples": [
+              "the teachers are given adequate time to mark term papers"
+            ],
+            "synonyms": [
+              "assess",
+              "evaluate",
+              "grade",
+              "appraise",
+              "correct \"I have a pile of essays to mark\""
+            ]
+          },
+          {
+            "definition": "reduce the number of marks awarded to a student, candidate, or their work.",
+            "examples": [
+              "I was marked down for having skipped the last essay question"
+            ]
+          },
+          {
+            "definition": "notice or pay careful attention to.",
+            "examples": [
+              "he'll leave you, you mark my words!"
+            ],
+            "synonyms": [
+              "take heed of",
+              "heed",
+              "listen to",
+              "take note of",
+              "pay attention to",
+              "attend to",
+              "note",
+              "mind",
+              "bear in mind",
+              "take into consideration \"it'll cause trouble",
+              "you mark my words!\""
+            ]
+          },
+          {
+            "definition": "(of a player in a team game) stay close to (a particular opponent) in order to prevent them getting or passing the ball."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mark",
+    "syllables": [
+      "mark"
+    ],
+    "pronunciation": "märk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "marks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the basic monetary unit of Germany (until the introduction of the euro), equal to 100 pfennigs; a Deutschmark or, formerly, an Ostmark."
+          },
+          {
+            "definition": "a former English and Scottish money of account, equal to thirteen shillings and four pence in the currency of the day."
+          },
+          {
+            "definition": "a denomination of weight for gold and silver, formerly used throughout western Europe and typically equal to 8 ounces (226.8 grams)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "retirement",
+    "syllables": [
+      "re",
+      "tire",
+      "ment"
+    ],
+    "pronunciation": "rəˈtī(ə)rmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "retirement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "retirements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of leaving one's job and ceasing to work.",
+            "examples": [
+              "a man nearing retirement"
+            ]
+          },
+          {
+            "definition": "the period of one's life after leaving one's job and ceasing to work.",
+            "examples": [
+              "he spent much of his retirement traveling in Europe"
+            ]
+          },
+          {
+            "definition": "the action or fact of ceasing to play a sport competitively."
+          },
+          {
+            "definition": "the withdrawal of a jury from the courtroom to decide their verdict."
+          },
+          {
+            "definition": "the period of time during which a jury decides their verdict.",
+            "examples": [
+              "a three-hour retirement"
+            ]
+          },
+          {
+            "definition": "seclusion.",
+            "examples": [
+              "he lived in retirement in Miami"
+            ]
+          },
+          {
+            "definition": "a secluded or private place.",
+            "examples": [
+              "Vermont, where he has a sweet country retirement"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

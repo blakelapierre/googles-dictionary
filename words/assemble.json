@@ -1,0 +1,108 @@
+[
+  {
+    "word": "assemble",
+    "syllables": [
+      "as",
+      "sem",
+      "ble"
+    ],
+    "pronunciation": "əˈsembəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "assemble"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "assembles"
+          },
+          {
+            "part": "past tense",
+            "variant": "assembled"
+          },
+          {
+            "part": "past participle",
+            "variant": "assembled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "assembling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of people) gather together in one place for a common purpose.",
+            "examples": [
+              "a crowd had assembled outside the gates"
+            ],
+            "synonyms": [
+              "gather",
+              "collect",
+              "get together",
+              "congregate",
+              "convene",
+              "meet",
+              "muster",
+              "rally \"a crowd had assembled\""
+            ],
+            "antonyms": [
+              "disperse"
+            ]
+          },
+          {
+            "definition": "bring (people or things) together for a common purpose.",
+            "examples": [
+              "he assembled the surviving members of the group for a tour"
+            ],
+            "synonyms": [
+              "bring together",
+              "call together",
+              "gather",
+              "collect",
+              "round up",
+              "marshal",
+              "muster",
+              "summon; formalconvoke \"he assembled the suspects\""
+            ],
+            "antonyms": [
+              "disperse"
+            ]
+          },
+          {
+            "definition": "(of male moths) gather for mating in response to a pheromone released by a female.",
+            "examples": [
+              "noun: assembling"
+            ]
+          },
+          {
+            "definition": "fit together the separate component parts of (a machine or other object).",
+            "examples": [
+              "a factory that assembled parts for trucks"
+            ],
+            "synonyms": [
+              "construct",
+              "build",
+              "fabricate",
+              "manufacture",
+              "erect",
+              "set up",
+              "put together",
+              "piece together",
+              "connect",
+              "join \"how to assemble the kite\""
+            ],
+            "antonyms": [
+              "dismantle"
+            ]
+          },
+          {
+            "definition": "translate (a program) from assembly language into machine code."
+          }
+        ]
+      }
+    ]
+  }
+]

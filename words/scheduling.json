@@ -1,0 +1,46 @@
+[
+  {
+    "word": "schedule",
+    "syllables": [
+      "sched",
+      "ule"
+    ],
+    "pronunciation": "ˈskejəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "scheduling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arrange or plan (an event) to take place at a particular time.",
+            "examples": [
+              "the release of the single is scheduled for April"
+            ],
+            "synonyms": [
+              "arrange",
+              "organize",
+              "plan",
+              "program",
+              "timetable",
+              "set up",
+              "calendarize",
+              "line up",
+              "slate \"another meeting was scheduled for April 20\""
+            ]
+          },
+          {
+            "definition": "make arrangements for (someone or something) to do something.",
+            "examples": [
+              "he is scheduled to be released from prison this spring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

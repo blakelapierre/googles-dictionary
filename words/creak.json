@@ -1,0 +1,77 @@
+[
+  {
+    "word": "creak",
+    "syllables": [
+      "creak"
+    ],
+    "pronunciation": "krēk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "creak"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "creaks"
+          },
+          {
+            "part": "past tense",
+            "variant": "creaked"
+          },
+          {
+            "part": "past participle",
+            "variant": "creaked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "creaking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an object, typically a wooden one) make a harsh, high-pitched sound when being moved or when pressure or weight is applied.",
+            "examples": [
+              "the stairs creaked as she went up them"
+            ],
+            "synonyms": [
+              "squeak",
+              "grate",
+              "rasp; Moregroan",
+              "complain \"the rusty gate creaked in the wind\""
+            ]
+          },
+          {
+            "definition": "show weakness or frailty under strain.",
+            "examples": [
+              "stock prices creaked to a mixed finish today"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "creak"
+          },
+          {
+            "part": "plural noun",
+            "variant": "creaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a harsh scraping or squeaking sound.",
+            "examples": [
+              "the creak of a floorboard broke the silence"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

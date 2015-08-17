@@ -1,0 +1,77 @@
+[
+  {
+    "word": "certify",
+    "syllables": [
+      "cer",
+      "ti",
+      "fy"
+    ],
+    "pronunciation": "ˈsərdəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "certify"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "certifies"
+          },
+          {
+            "part": "past tense",
+            "variant": "certified"
+          },
+          {
+            "part": "past participle",
+            "variant": "certified"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "certifying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attest or confirm in a formal statement.",
+            "examples": [
+              "the profits for the year had been certified by the auditors"
+            ],
+            "synonyms": [
+              "verify",
+              "guarantee",
+              "attest",
+              "validate",
+              "confirm",
+              "substantiate",
+              "endorse",
+              "vouch for",
+              "testify to; Moreprovide evidence",
+              "give proof",
+              "prove",
+              "demonstrate \"the aircraft was certified as airworthy\""
+            ]
+          },
+          {
+            "definition": "officially recognize (someone or something) as possessing certain qualifications or meeting certain standards.",
+            "examples": [
+              "a certified scuba instructor"
+            ],
+            "synonyms": [
+              "accredit",
+              "recognize",
+              "license",
+              "authorize",
+              "approve",
+              "warrant \"a certified hospital\""
+            ]
+          },
+          {
+            "definition": "officially declare insane."
+          }
+        ]
+      }
+    ]
+  }
+]

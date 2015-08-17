@@ -1,0 +1,144 @@
+[
+  {
+    "word": "bother",
+    "syllables": [
+      "both",
+      "er"
+    ],
+    "pronunciation": "ˈbäT͟Hər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bother"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bothers"
+          },
+          {
+            "part": "past tense",
+            "variant": "bothered"
+          },
+          {
+            "part": "past participle",
+            "variant": "bothered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bothering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take the trouble to do something.",
+            "examples": [
+              "nobody bothered locking the doors"
+            ]
+          },
+          {
+            "definition": "(of a circumstance or event) worry, disturb, or upset (someone).",
+            "examples": [
+              "secrecy is an issue that bothers journalists"
+            ],
+            "synonyms": [
+              "mind",
+              "care",
+              "concern oneself",
+              "trouble oneself",
+              "worry oneself; Moreinformalgive a damn",
+              "give a hoot \"the incident was too small to bother about\"worry",
+              "trouble",
+              "concern",
+              "perturb",
+              "disturb",
+              "disquiet",
+              "disconcert",
+              "unnerve; fret",
+              "upset",
+              "distress",
+              "agitate",
+              "gnaw at",
+              "weigh down; informalrattle \"there was something bothering him\""
+            ]
+          },
+          {
+            "definition": "trouble or annoy (someone) by interrupting or causing inconvenience.",
+            "examples": [
+              "she didn't feel she could bother Mike with the problem"
+            ],
+            "synonyms": [
+              "disturb",
+              "trouble",
+              "inconvenience",
+              "pester",
+              "badger",
+              "harass",
+              "molest",
+              "plague",
+              "nag",
+              "hound",
+              "harry",
+              "annoy",
+              "upset",
+              "irritate",
+              "hassle",
+              "bug",
+              "get in someone's hair",
+              "get on someone's case",
+              "get under a someone's skin",
+              "ruffle someone's feathers",
+              "rag on",
+              "ride \"no one bothered her\""
+            ]
+          },
+          {
+            "definition": "feel concern about or interest in.",
+            "examples": [
+              "don't bother about me—I'll find my own way home"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bother"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "effort, worry, or difficulty.",
+            "examples": [
+              "he saved me the bother of having to come up with a speech"
+            ],
+            "synonyms": [
+              "trouble",
+              "effort",
+              "exertion",
+              "inconvenience",
+              "fuss",
+              "pains \"I don't want to put you to any bother\""
+            ]
+          },
+          {
+            "definition": "a person or thing that causes worry or difficulty.",
+            "examples": [
+              "noun: a bother"
+            ]
+          },
+          {
+            "definition": "a nuisance or inconvenience.",
+            "examples": [
+              "it's no bother, it's on my way home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

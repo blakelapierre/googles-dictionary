@@ -1,0 +1,56 @@
+[
+  {
+    "word": "spine",
+    "syllables": [
+      "spine"
+    ],
+    "pronunciation": "spīn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "spines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a series of vertebrae extending from the skull to the small of the back, enclosing the spinal cord and providing support for the thorax and abdomen; the backbone.",
+            "examples": [
+              "backbone, spinal column, vertebral column; Moreback; technicalrachis \"he injured his spine\"Moreback; rachis he injured his spine"
+            ]
+          },
+          {
+            "definition": "a thing's central feature or main source of strength.",
+            "examples": [
+              "players who will form the spine of our team"
+            ],
+            "synonyms": [
+              "core",
+              "center",
+              "cornerstone",
+              "foundation",
+              "basis \"the spine of his philosophy\""
+            ]
+          },
+          {
+            "definition": "resolution or strength of character."
+          },
+          {
+            "definition": "the part of a book's jacket or cover that encloses the inner edges of the pages, facing outward when the book is on a shelf and typically bearing the title and the author's name."
+          },
+          {
+            "definition": "any hard pointed defensive projection or structure, such as a prickle of a hedgehog, a spikelike projection on a sea urchin, a sharp ray in a fish's fin, or a spike on the stem of a plant.",
+            "examples": [
+              "needle, quill, bristle, barb, spike, prickle; Morethorn; technicalspicule \"the spines of a porcupine\"Morethorn; spicule the spines of a porcupine"
+            ]
+          },
+          {
+            "definition": "a tall mass of viscous lava extruded from a volcano."
+          }
+        ]
+      }
+    ]
+  }
+]

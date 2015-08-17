@@ -1,0 +1,33 @@
+[
+  {
+    "word": "bedtime",
+    "syllables": [
+      "bed",
+      "time"
+    ],
+    "pronunciation": "ˈbedˌtīm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bedtime"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bedtimes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the usual time when someone goes to bed.",
+            "examples": [
+              "it was well past her bedtime"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

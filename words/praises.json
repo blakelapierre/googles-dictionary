@@ -1,0 +1,118 @@
+[
+  {
+    "word": "praise",
+    "syllables": [
+      "praise"
+    ],
+    "pronunciation": "prāz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "praises"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express warm approval or admiration of.",
+            "examples": [
+              "we can't praise Chris enough—he did a brilliant job"
+            ],
+            "synonyms": [
+              "commend",
+              "express admiration for",
+              "applaud",
+              "pay tribute to",
+              "speak highly of",
+              "eulogize",
+              "compliment",
+              "congratulate",
+              "sing the praises of",
+              "rave about",
+              "go into raptures about",
+              "heap praise on",
+              "wax lyrical about",
+              "make much of",
+              "pat on the back",
+              "take one's hat off to",
+              "lionize",
+              "admire",
+              "hail",
+              "ballyhoo; formallaud \"the police praised Pauline for her courage in confronting the thieves\""
+            ],
+            "antonyms": [
+              "criticize",
+              "condemn"
+            ]
+          },
+          {
+            "definition": "express one's respect and gratitude toward (a deity), especially in song.",
+            "examples": [
+              "we praise God for past blessings"
+            ],
+            "synonyms": [
+              "worship",
+              "glorify",
+              "honor",
+              "exalt",
+              "adore",
+              "pay tribute to",
+              "give thanks to",
+              "venerate",
+              "reverence; Moreformallaud; archaicmagnify \"we praise God\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "praises"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the expression of approval or admiration for someone or something.",
+            "examples": [
+              "the audience was full of praise for the whole production"
+            ],
+            "synonyms": [
+              "approval",
+              "acclaim",
+              "admiration",
+              "approbation",
+              "acclamation",
+              "plaudits",
+              "congratulations",
+              "commendation; Moretribute",
+              "accolade",
+              "compliment",
+              "a pat on the back",
+              "eulogy",
+              "panegyric; formalencomium \"your praise means a great deal to us\""
+            ]
+          },
+          {
+            "definition": "the expression of respect and gratitude as an act of worship.",
+            "examples": [
+              "give praise to God"
+            ],
+            "synonyms": [
+              "honor",
+              "thanks",
+              "glory",
+              "worship",
+              "devotion",
+              "adoration",
+              "reverence \"give praise to God\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

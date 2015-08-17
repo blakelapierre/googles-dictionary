@@ -1,0 +1,34 @@
+[
+  {
+    "word": "fermata",
+    "syllables": [
+      "fer",
+      "ma",
+      "ta"
+    ],
+    "pronunciation": "ferˈmätəfər-",
+    "parts": [
+      {
+        "part": "nounMusic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fermata"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fermatas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a pause of unspecified length on a note or rest."
+          },
+          {
+            "definition": "a mark over a note or rest that is to be lengthened by an unspecified amount."
+          }
+        ]
+      }
+    ]
+  }
+]

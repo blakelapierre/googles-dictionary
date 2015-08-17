@@ -1,0 +1,45 @@
+[
+  {
+    "word": "stipulate",
+    "syllables": [
+      "stip",
+      "u",
+      "late"
+    ],
+    "pronunciation": "ˈstēpyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "stipulated"
+          },
+          {
+            "part": "past participle",
+            "variant": "stipulated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "demand or specify (a requirement), typically as part of a bargain or agreement.",
+            "examples": [
+              "he stipulated certain conditions before their marriage"
+            ],
+            "synonyms": [
+              "specify",
+              "set down",
+              "set out",
+              "lay down; Moredemand",
+              "require",
+              "insist on",
+              "make a condition of",
+              "prescribe",
+              "impose; provide \"the document stipulates certain conditions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

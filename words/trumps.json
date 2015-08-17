@@ -1,0 +1,102 @@
+[
+  {
+    "word": "trump",
+    "syllables": [
+      "trump"
+    ],
+    "pronunciation": "trəmp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "trumps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in bridge, whist, and similar card games) a playing card of the suit chosen to rank above the others, which can win a trick where a card of a different suit has been led."
+          },
+          {
+            "definition": "the suit having the rank above the others in a particular hand.",
+            "examples": [
+              "the ace of trumps"
+            ]
+          },
+          {
+            "definition": "(in a tarot pack) any of a special suit of 22 cards depicting symbolic and typical figures and scenes."
+          },
+          {
+            "definition": "a valuable resource that may be used, especially as a surprise, in order to gain an advantage.",
+            "examples": [
+              "noun: trump card; plural noun: trump cards"
+            ]
+          },
+          {
+            "definition": "a helpful or admirable person."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "trumps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in bridge, whist, and similar card games) play a trump on (a card of another suit), having no cards of the suit led."
+          },
+          {
+            "definition": "beat (someone or something) by saying or doing something better.",
+            "examples": [
+              "taste trumps most if not all other factors when consumers choose food products"
+            ],
+            "synonyms": [
+              "outshine",
+              "outclass",
+              "upstage",
+              "put in the shade",
+              "eclipse",
+              "surpass",
+              "outdo",
+              "outperform; Morebeat",
+              "better",
+              "top",
+              "cap; informalbe a cut above",
+              "be head and shoulders above",
+              "leave standing \"by wearing the simplest of dresses",
+              "she had trumped them all\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trump",
+    "syllables": [
+      "trump"
+    ],
+    "pronunciation": "trəmp",
+    "parts": [
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "trumps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a trumpet or a trumpet blast."
+          }
+        ]
+      }
+    ]
+  }
+]

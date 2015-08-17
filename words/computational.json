@@ -1,0 +1,35 @@
+[
+  {
+    "word": "computational",
+    "syllables": [
+      "com",
+      "pu",
+      "ta",
+      "tion",
+      "al"
+    ],
+    "pronunciation": "ˌkämpyəˈtāSH(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "computational"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or using computers.",
+            "examples": [
+              "the computational analysis of English"
+            ]
+          },
+          {
+            "definition": "of or relating to the process of mathematical calculation."
+          }
+        ]
+      }
+    ]
+  }
+]

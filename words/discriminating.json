@@ -1,0 +1,110 @@
+[
+  {
+    "word": "discriminating",
+    "syllables": [
+      "dis",
+      "crim",
+      "i",
+      "nat",
+      "ing"
+    ],
+    "pronunciation": "dəˈskriməˌnādiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "discriminating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) having or showing refined taste or good judgment.",
+            "examples": [
+              "he became a discriminating collector and patron of the arts"
+            ],
+            "synonyms": [
+              "discerning",
+              "perceptive",
+              "astute",
+              "shrewd",
+              "judicious",
+              "perspicacious",
+              "insightful",
+              "keen; Moreselective",
+              "fastidious",
+              "tasteful",
+              "refined",
+              "sensitive",
+              "cultivated",
+              "cultured",
+              "artistic",
+              "aesthetic \"she had discriminating tastes\""
+            ],
+            "antonyms": [
+              "indiscriminate"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "discriminate",
+    "syllables": [
+      "dis",
+      "crim",
+      "i",
+      "nate"
+    ],
+    "pronunciation": "dəˈskriməˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "discriminating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "recognize a distinction; differentiate.",
+            "examples": [
+              "babies can discriminate between different facial expressions of emotion"
+            ],
+            "synonyms": [
+              "differentiate",
+              "distinguish",
+              "draw a distinction",
+              "tell the difference",
+              "tell apart; Moreseparate",
+              "separate the sheep from the goats",
+              "separate the wheat from the chaff \"he cannot discriminate between fact and fiction\""
+            ]
+          },
+          {
+            "definition": "perceive or constitute the difference in or between.",
+            "examples": [
+              "bats can discriminate a difference in echo delay of between 69 and 98 millionths of a second"
+            ]
+          },
+          {
+            "definition": "make an unjust or prejudicial distinction in the treatment of different categories of people or things, especially on the grounds of race, sex, or age.",
+            "examples": [
+              "existing employment policies discriminate against women"
+            ],
+            "synonyms": [
+              "be biased against",
+              "be prejudiced against; Moretreat differently",
+              "treat unfairly",
+              "put at a disadvantage",
+              "single out; victimize \"existing employment policies discriminate against women\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

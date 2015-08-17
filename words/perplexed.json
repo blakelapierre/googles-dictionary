@@ -1,0 +1,104 @@
+[
+  {
+    "word": "perplexed",
+    "syllables": [
+      "per",
+      "plexed"
+    ],
+    "pronunciation": "pərˈplekst",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "perplexed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "completely baffled; very puzzled.",
+            "examples": [
+              "she gave him a perplexed look"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "perplex",
+    "syllables": [
+      "per",
+      "plex"
+    ],
+    "pronunciation": "pərˈpleks",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "perplexed"
+          },
+          {
+            "part": "past participle",
+            "variant": "perplexed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of something complicated or unaccountable) cause (someone) to feel completely baffled.",
+            "examples": [
+              "she was perplexed by her husband's moodiness"
+            ],
+            "synonyms": [
+              "puzzle",
+              "baffle",
+              "mystify",
+              "bemuse",
+              "bewilder",
+              "confound",
+              "confuse",
+              "disconcert",
+              "dumbfound",
+              "throw",
+              "throw/catch off balance",
+              "exercise",
+              "worry; Moreinformalflummox",
+              "be all Greek to",
+              "stump",
+              "bamboozle",
+              "floor",
+              "beat",
+              "faze",
+              "fox; informaldiscombobulate \"the bizarre notes left at each of these crime scenes perplexed us\"puzzling",
+              "baffling",
+              "mystifying",
+              "mysterious",
+              "bewildering",
+              "confusing",
+              "disconcerting",
+              "worrying",
+              "unaccountable",
+              "difficult to understand",
+              "beyond one",
+              "paradoxical",
+              "peculiar",
+              "funny",
+              "strange",
+              "weird",
+              "odd \"he was famous for solving the most perplexing cases\""
+            ]
+          },
+          {
+            "definition": "complicate or confuse (a matter).",
+            "examples": [
+              "they were perplexing a subject plain in itself"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

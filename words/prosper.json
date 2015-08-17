@@ -1,0 +1,74 @@
+[
+  {
+    "word": "prosper",
+    "syllables": [
+      "pros",
+      "per"
+    ],
+    "pronunciation": "ˈpräspər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "prosper"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "prospers"
+          },
+          {
+            "part": "past tense",
+            "variant": "prospered"
+          },
+          {
+            "part": "past participle",
+            "variant": "prospered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "prospering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "succeed in material terms; be financially successful.",
+            "examples": [
+              "his business prospered"
+            ]
+          },
+          {
+            "definition": "flourish physically; grow strong and healthy.",
+            "examples": [
+              "areas where gray squirrels cannot prosper"
+            ],
+            "synonyms": [
+              "flourish",
+              "thrive",
+              "do well",
+              "bloom",
+              "blossom",
+              "burgeon",
+              "progress",
+              "do all right for oneself",
+              "get ahead",
+              "get on (in the world)",
+              "be successful; informalgo places \"the family business continues to prosper\""
+            ],
+            "antonyms": [
+              "fail",
+              "flounder"
+            ]
+          },
+          {
+            "definition": "make successful.",
+            "examples": [
+              "God has wonderfully prospered this nation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

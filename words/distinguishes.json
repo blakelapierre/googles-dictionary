@@ -1,0 +1,90 @@
+[
+  {
+    "word": "distinguish",
+    "syllables": [
+      "dis",
+      "tin",
+      "guish"
+    ],
+    "pronunciation": "dəˈstiNGɡwiSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "distinguishes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "recognize or treat (someone or something) as different.",
+            "examples": [
+              "the child is perfectly capable of distinguishing reality from fantasy"
+            ],
+            "synonyms": [
+              "differentiate",
+              "tell apart",
+              "discriminate between",
+              "tell the difference between \"distinguishing reality from fantasy\""
+            ]
+          },
+          {
+            "definition": "perceive or point out a difference.",
+            "examples": [
+              "bees are unable to distinguish between red, black, and various grays"
+            ]
+          },
+          {
+            "definition": "manage to discern (something barely perceptible).",
+            "examples": [
+              "it was too dark to distinguish anything more than their vague shapes"
+            ],
+            "synonyms": [
+              "discern",
+              "see",
+              "perceive",
+              "make out; Moredetect",
+              "recognize",
+              "identify; literarydescry",
+              "espy \"he could distinguish shapes in the dark\""
+            ]
+          },
+          {
+            "definition": "be an identifying or characteristic mark or property of.",
+            "examples": [
+              "what distinguishes sports from games?"
+            ],
+            "synonyms": [
+              "separate",
+              "set apart",
+              "make distinctive",
+              "make different; Moresingle out",
+              "mark off",
+              "characterize \"this is what distinguishes history from other disciplines\"distinctive",
+              "differentiating",
+              "characteristic",
+              "typical",
+              "peculiar",
+              "singular",
+              "unique \"does he have any distinguishing features",
+              "such as a scar or a birthmark?\""
+            ]
+          },
+          {
+            "definition": "make oneself prominent and worthy of respect through one's behavior or achievements.",
+            "examples": [
+              "many distinguished themselves in the fight"
+            ],
+            "synonyms": [
+              "attain distinction",
+              "be successful",
+              "bring fame/honor to oneself",
+              "become famous \"she distinguished herself in the air corps\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "word": "j",
+    "syllables": [
+      "j"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "symbol",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "j"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in electrical engineering and electronics) the imaginary quantity equal to the square root of minus one."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "J",
+    "syllables": [
+      "J"
+    ],
+    "pronunciation": "jā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "J"
+          },
+          {
+            "part": "plural noun",
+            "variant": "J's"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Js"
+          },
+          {
+            "part": "noun",
+            "variant": "j"
+          },
+          {
+            "part": "plural noun",
+            "variant": "js"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the tenth letter of the alphabet."
+          },
+          {
+            "definition": "denoting the next after I (or H if I is omitted) in a set of items, categories, etc."
+          },
+          {
+            "definition": "a shape like that of a capital J."
+          },
+          {
+            "definition": "used instead of I as the Roman numeral for one in final position.",
+            "examples": [
+              "between ij and iij of the clock"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "J",
+    "syllables": [
+      "J"
+    ],
+    "pronunciation": "jā",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "J"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "jack (used in describing play in card games)."
+          },
+          {
+            "definition": "joule(s)."
+          },
+          {
+            "definition": "(in titles) Journal (of).",
+            "examples": [
+              "J. Biol. Chem"
+            ]
+          },
+          {
+            "definition": "Judge."
+          },
+          {
+            "definition": "Justice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "joule",
+    "syllables": [
+      "joule"
+    ],
+    "pronunciation": "jo͞ol",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "J"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the SI unit of work or energy, equal to the work done by a force of one newton when its point of application moves one meter in the direction of action of the force, equivalent to one 3600th of a watt-hour."
+          }
+        ]
+      }
+    ]
+  }
+]

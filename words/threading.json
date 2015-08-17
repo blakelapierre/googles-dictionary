@@ -1,0 +1,99 @@
+[
+  {
+    "word": "threading",
+    "syllables": [
+      "thread",
+      "ing"
+    ],
+    "pronunciation": "ˈTHrediNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "threading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a process in which unwanted facial hair is removed by using twisted cotton thread to pull the hair from the follicle."
+          },
+          {
+            "definition": "the system by which consecutive messages relating to a single subject on a message board or newsgroup are stored for retrieval."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thread",
+    "syllables": [
+      "thread"
+    ],
+    "pronunciation": "THred",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "threading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pass a thread through the eye of (a needle) or through the needle and guides of (a sewing machine)."
+          },
+          {
+            "definition": "pass (a long, thin object or piece of material) through something and into the required position for use.",
+            "examples": [
+              "he threaded the rope through a pulley"
+            ],
+            "synonyms": [
+              "pass",
+              "string",
+              "work",
+              "ease",
+              "push",
+              "poke More\"he threaded the rope through a pulley\"weave",
+              "inch",
+              "wind",
+              "squeeze",
+              "make \"she threaded her way through the tables\""
+            ]
+          },
+          {
+            "definition": "move carefully or skillfully in and out of obstacles.",
+            "examples": [
+              "she threaded her way through the tables"
+            ]
+          },
+          {
+            "definition": "interweave or intersperse as if with threads.",
+            "examples": [
+              "his hair had become ill-kempt and threaded with gray"
+            ]
+          },
+          {
+            "definition": "put (beads, chunks of food, or other small objects) together or singly on a thread, chain, or skewer that runs through the center of each one.",
+            "examples": [
+              "Connie sat threading beads"
+            ],
+            "synonyms": [
+              "pass",
+              "string",
+              "work",
+              "ease",
+              "push",
+              "poke \"he threaded the rope through a pulley\""
+            ]
+          },
+          {
+            "definition": "cut a screw thread in or on (a hole, screw, or other object)."
+          }
+        ]
+      }
+    ]
+  }
+]

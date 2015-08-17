@@ -1,0 +1,117 @@
+[
+  {
+    "word": "mystery",
+    "syllables": [
+      "mys",
+      "ter",
+      "y"
+    ],
+    "pronunciation": "ˈmist(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mystery"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mysteries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "something that is difficult or impossible to understand or explain.",
+            "examples": [
+              "the mysteries of outer space"
+            ],
+            "synonyms": [
+              "puzzle",
+              "enigma",
+              "conundrum",
+              "riddle",
+              "secret",
+              "problem",
+              "unsolved problem \"his death remains a mystery\""
+            ]
+          },
+          {
+            "definition": "the condition or quality of being secret, strange, or difficult to explain.",
+            "examples": [
+              "much of her past is shrouded in mystery"
+            ],
+            "synonyms": [
+              "secrecy",
+              "obscurity",
+              "uncertainty",
+              "mystique \"her past is shrouded in mystery\""
+            ]
+          },
+          {
+            "definition": "a person or thing whose identity or nature is puzzling or unknown.",
+            "examples": [
+              "“He's a bit of a mystery,” said Nina"
+            ]
+          },
+          {
+            "definition": "a novel, play, or movie dealing with a puzzling crime, especially a murder.",
+            "examples": [
+              "thriller, murder mystery, detective story/novel, murder story, crime novel; whodunit reading a classic mystery"
+            ]
+          },
+          {
+            "definition": "the secret rites of Greek and Roman pagan religion, or of any ancient or tribal religion, to which only initiates are admitted."
+          },
+          {
+            "definition": "the practices, skills, or lore peculiar to a particular trade or activity and regarded as baffling to those without specialized knowledge.",
+            "examples": [
+              "the mysteries of analytical psychology"
+            ]
+          },
+          {
+            "definition": "the Christian Eucharist."
+          },
+          {
+            "definition": "a religious belief based on divine revelation, especially one regarded as beyond human understanding.",
+            "examples": [
+              "the mystery of Christ"
+            ]
+          },
+          {
+            "definition": "an incident in the life of Jesus or of a saint as a focus of devotion in the Roman Catholic Church, especially each of those commemorated during recitation of successive decades of the rosary."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mystery",
+    "syllables": [
+      "mys",
+      "ter",
+      "y"
+    ],
+    "pronunciation": "ˈmist(ə)rē",
+    "parts": [
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mystery"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mysteries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a handicraft or trade."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "word": "complain",
+    "syllables": [
+      "com",
+      "plain"
+    ],
+    "pronunciation": "kəmˈplān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "complain"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "complains"
+          },
+          {
+            "part": "past tense",
+            "variant": "complained"
+          },
+          {
+            "part": "past participle",
+            "variant": "complained"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "complaining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express dissatisfaction or annoyance about a state of affairs or an event.",
+            "examples": [
+              "local authorities complained that they lacked sufficient resources"
+            ],
+            "synonyms": [
+              "protest",
+              "grumble",
+              "whine",
+              "bleat",
+              "carp",
+              "cavil",
+              "grouse",
+              "make a fuss; Moreobject",
+              "speak out",
+              "criticize",
+              "find fault; informalkick up a fuss",
+              "raise a stink",
+              "bellyache",
+              "moan",
+              "snivel",
+              "beef",
+              "bitch",
+              "sound off",
+              "gripe",
+              "kvetch \"his dogs were always roaming until someone finally complained\""
+            ]
+          },
+          {
+            "definition": "state that one is suffering from (a pain or other symptom of illness).",
+            "examples": [
+              "her husband began to complain of headaches"
+            ]
+          },
+          {
+            "definition": "state a grievance.",
+            "examples": [
+              "they complained to the French government"
+            ]
+          },
+          {
+            "definition": "make a mournful sound.",
+            "examples": [
+              "let the warbling flute complain"
+            ]
+          },
+          {
+            "definition": "(of a structure or mechanism) groan or creak under strain."
+          }
+        ]
+      }
+    ]
+  }
+]

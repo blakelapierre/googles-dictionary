@@ -1,0 +1,43 @@
+[
+  {
+    "word": "segregation",
+    "syllables": [
+      "seg",
+      "re",
+      "ga",
+      "tion"
+    ],
+    "pronunciation": "ˌseɡrəˈɡāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "segregation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or state of setting someone or something apart from other people or things or being set apart.",
+            "examples": [
+              "the segregation of pupils with learning difficulties"
+            ]
+          },
+          {
+            "definition": "the enforced separation of different racial groups in a country, community, or establishment.",
+            "examples": [
+              "an official policy of racial segregation"
+            ]
+          },
+          {
+            "definition": "the separation of pairs of alleles at meiosis and their independent transmission via separate gametes.",
+            "examples": [
+              "plural noun: segregations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

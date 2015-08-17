@@ -1,0 +1,59 @@
+[
+  {
+    "word": "distract",
+    "syllables": [
+      "dis",
+      "tract"
+    ],
+    "pronunciation": "dəˈstrakt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "distracts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prevent (someone) from giving full attention to something.",
+            "examples": [
+              "don't allow noise to distract you from your work"
+            ],
+            "synonyms": [
+              "divert",
+              "sidetrack",
+              "draw away",
+              "disturb",
+              "put off More\"let's not distract Dionne while she's painting\"disturbing",
+              "unsettling",
+              "intrusive",
+              "disconcerting",
+              "bothersome",
+              "off-putting \"it's a very distracting noise\""
+            ]
+          },
+          {
+            "definition": "divert (attention) from something.",
+            "examples": [
+              "it was another attempt to distract attention from the truth"
+            ]
+          },
+          {
+            "definition": "divert one's attention from something worrying or unpleasant by doing something different or more pleasurable.",
+            "examples": [
+              "I tried to distract myself by concentrating on Jane"
+            ]
+          },
+          {
+            "definition": "perplex and bewilder.",
+            "examples": [
+              "horror and doubt distract His troubl'd thoughts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

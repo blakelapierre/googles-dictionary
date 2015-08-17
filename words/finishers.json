@@ -1,0 +1,48 @@
+[
+  {
+    "word": "finisher",
+    "syllables": [
+      "fin",
+      "ish",
+      "er"
+    ],
+    "pronunciation": "ˈfiniSHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "finishers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that finishes something, in particular."
+          },
+          {
+            "definition": "a person who reaches the end of a race or other sporting competition.",
+            "examples": [
+              "a third-place finisher"
+            ]
+          },
+          {
+            "definition": "(in soccer) a player who scores a goal.",
+            "examples": [
+              "he is one of the best finishers at the club"
+            ]
+          },
+          {
+            "definition": "a worker or machine performing the last operation in a manufacturing process."
+          },
+          {
+            "definition": "an animal that has been fattened ready for slaughter.",
+            "examples": [
+              "finisher pigs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

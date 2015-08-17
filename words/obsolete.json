@@ -1,0 +1,99 @@
+[
+  {
+    "word": "obsolete",
+    "syllables": [
+      "ob",
+      "so",
+      "lete"
+    ],
+    "pronunciation": "ˌäbsəˈlēt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "obsolete"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "no longer produced or used; out of date.",
+            "examples": [
+              "the disposal of old and obsolete machinery"
+            ],
+            "synonyms": [
+              "outdated",
+              "out of date",
+              "outmoded",
+              "old-fashioned",
+              "démodé",
+              "passé",
+              "out of fashion; Moreno longer in use",
+              "disused",
+              "fallen into disuse",
+              "behind the times",
+              "superannuated",
+              "outworn",
+              "antiquated",
+              "antediluvian",
+              "anachronistic",
+              "discontinued",
+              "old",
+              "dated",
+              "archaic",
+              "ancient",
+              "fossilized",
+              "extinct",
+              "defunct",
+              "dead",
+              "bygone",
+              "out; informalprehistoric \"most of the machinery in their Somerville plant is obsolete\""
+            ],
+            "antonyms": [
+              "cutting-edge",
+              "the latest",
+              "modern"
+            ]
+          },
+          {
+            "definition": "(of a part or characteristic of an organism) less developed than formerly or in a related species; rudimentary; vestigial."
+          }
+        ]
+      },
+      {
+        "part": "verbUS",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "obsolete"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "obsoletes"
+          },
+          {
+            "part": "past tense",
+            "variant": "obsoleted"
+          },
+          {
+            "part": "past participle",
+            "variant": "obsoleted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "obsoleting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (a product or idea) to be or become obsolete by replacing it with something new.",
+            "examples": [
+              "we're trying to stimulate the business by obsoleting last year's designs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "nullify",
+    "syllables": [
+      "nul",
+      "li",
+      "fy"
+    ],
+    "pronunciation": "ˈnələˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "nullified"
+          },
+          {
+            "part": "past participle",
+            "variant": "nullified"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make legally null and void; invalidate.",
+            "examples": [
+              "judges were unwilling to nullify government decisions"
+            ],
+            "synonyms": [
+              "annul",
+              "render null and void",
+              "void",
+              "invalidate; Morerepeal",
+              "reverse",
+              "rescind",
+              "revoke",
+              "disallow",
+              "cancel",
+              "abolish; countermand",
+              "do away with",
+              "terminate",
+              "quash; vacate; formalabrogate \"they nullified the legislation\""
+            ],
+            "antonyms": [
+              "ratify"
+            ]
+          },
+          {
+            "definition": "make of no use or value; cancel out.",
+            "examples": [
+              "insulin can block the release of the hormone and thereby nullify the effects of training"
+            ],
+            "synonyms": [
+              "cancel out",
+              "neutralize",
+              "negate",
+              "negative \"the costs would nullify any tax relief\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

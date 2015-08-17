@@ -1,0 +1,124 @@
+[
+  {
+    "word": "simulated",
+    "syllables": [
+      "sim",
+      "u",
+      "lat",
+      "ed"
+    ],
+    "pronunciation": "ˈsimyəˌlādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "simulated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "manufactured in imitation of some other material.",
+            "examples": [
+              "a simulated leather handbag"
+            ]
+          },
+          {
+            "definition": "(of an emotion) pretended or feigned.",
+            "examples": [
+              "she howled in simulated anguish"
+            ]
+          },
+          {
+            "definition": "imitating the conditions of something, especially as a training exercise.",
+            "examples": [
+              "a simulated terrorist attack"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "simulate",
+    "syllables": [
+      "sim",
+      "u",
+      "late"
+    ],
+    "pronunciation": "ˈsimyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "simulated"
+          },
+          {
+            "part": "past participle",
+            "variant": "simulated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "imitate the appearance or character of.",
+            "examples": [
+              "red ocher intended to simulate blood"
+            ],
+            "synonyms": [
+              "imitate",
+              "reproduce",
+              "replicate",
+              "duplicate",
+              "mimic More\"simulating conditions in space\"artificial",
+              "imitation",
+              "fake",
+              "mock",
+              "synthetic",
+              "man-made",
+              "ersatz \"simulated leather\""
+            ],
+            "antonyms": [
+              "real"
+            ]
+          },
+          {
+            "definition": "pretend to have or feel (an emotion).",
+            "examples": [
+              "it was impossible to force a smile, to simulate pleasure"
+            ],
+            "synonyms": [
+              "feign",
+              "pretend",
+              "fake",
+              "sham",
+              "affect",
+              "put on",
+              "give the appearance of More\"they simulated pleasure\"feigned",
+              "fake",
+              "mock",
+              "affected",
+              "sham",
+              "insincere",
+              "false",
+              "bogus; informalpretend",
+              "put-on",
+              "phony \"simulated fear\""
+            ],
+            "antonyms": [
+              "real"
+            ]
+          },
+          {
+            "definition": "produce a computer model of.",
+            "examples": [
+              "future population changes were simulated by computer"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

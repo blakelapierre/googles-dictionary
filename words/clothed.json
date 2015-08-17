@@ -1,0 +1,62 @@
+[
+  {
+    "word": "clothe",
+    "syllables": [
+      "clothe"
+    ],
+    "pronunciation": "klōT͟H",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "clothed"
+          },
+          {
+            "part": "adjective",
+            "variant": "clothed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put clothes on (oneself or someone); dress.",
+            "examples": [
+              "she was clothed all in white"
+            ],
+            "synonyms": [
+              "dress",
+              "attire",
+              "robe",
+              "garb",
+              "array",
+              "costume",
+              "swathe",
+              "deck (out)",
+              "turn out",
+              "fit out",
+              "rig (out); Moreinformalget up; archaicapparel",
+              "habit",
+              "invest \"they were clothed in silk\"cover",
+              "blanket",
+              "carpet; envelop",
+              "swathe \"a valley clothed in conifers\""
+            ]
+          },
+          {
+            "definition": "provide (someone) with clothes.",
+            "examples": [
+              "past participle: clothed"
+            ]
+          },
+          {
+            "definition": "endow with a particular quality.",
+            "examples": [
+              "you have been clothed with power from on high"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "collector",
+    "syllables": [
+      "col",
+      "lec",
+      "tor"
+    ],
+    "pronunciation": "kəˈlektər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "collector"
+          },
+          {
+            "part": "plural noun",
+            "variant": "collectors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who collects things of a specified type, professionally or as a hobby.",
+            "examples": [
+              "an art collector"
+            ]
+          },
+          {
+            "definition": "an official who is responsible for collecting money.",
+            "examples": [
+              "a tax collector"
+            ]
+          },
+          {
+            "definition": "an official who collects tickets from bus or train passengers."
+          },
+          {
+            "definition": "(in some South Asian countries) the chief administrative official of a district."
+          },
+          {
+            "definition": "the region in a bipolar transistor that absorbs charge carriers."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "word": "toy",
+    "syllables": [
+      "toy"
+    ],
+    "pronunciation": "toi",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "toy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "toys"
+          },
+          {
+            "part": "modifier noun",
+            "variant": "toy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an object for a child to play with, typically a model or miniature replica of something.",
+            "examples": [
+              "a toy car"
+            ],
+            "synonyms": [
+              "plaything",
+              "game; Moregadget",
+              "device; trinket",
+              "knickknack",
+              "gizmo \"Santa left a bundle of toys\"model",
+              "imitation",
+              "replica",
+              "fake; miniature \"a toy gun\""
+            ]
+          },
+          {
+            "definition": "an object, especially a gadget or machine, regarded as providing amusement for an adult.",
+            "examples": [
+              "in 1914 the car was still a rich man's toy"
+            ]
+          },
+          {
+            "definition": "a person treated by another as a source of pleasure or amusement rather than with due seriousness.",
+            "examples": [
+              "a man needed a friend, an ally, not an idol or a toy"
+            ]
+          },
+          {
+            "definition": "denoting a diminutive breed or variety of dog.",
+            "examples": [
+              "a toy poodle"
+            ],
+            "synonyms": [
+              "miniature",
+              "small",
+              "tiny",
+              "diminutive",
+              "dwarf",
+              "midget",
+              "pygmy \"a toy poodle\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "",
+    "syllables": [
+      ""
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "toy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "consider (an idea, movement, or proposal) casually or indecisively.",
+            "examples": [
+              "think about, consider, flirt with, entertain the possibility of; kick around I was toying with the idea of writing a book"
+            ]
+          },
+          {
+            "definition": "treat (someone) without due seriousness, especially in a superficially amorous way.",
+            "examples": [
+              "trifle with, play with, play havoc with, amuse oneself with, mess with, be flippant with you are toying with my emotions"
+            ]
+          },
+          {
+            "definition": "move or handle (an object) absentmindedly or nervously.",
+            "examples": [
+              "fiddle with, play with, fidget with, twiddle; finger Adam toyed with his glasses"
+            ]
+          },
+          {
+            "definition": "eat or drink in an unenthusiastic or restrained way.",
+            "examples": [
+              "nibble, pick at, peck at, eat listlessly, eat like a bird she toyed with her food"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

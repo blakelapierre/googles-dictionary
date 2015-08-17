@@ -1,0 +1,45 @@
+[
+  {
+    "word": "economically",
+    "syllables": [
+      "ec",
+      "o",
+      "nom",
+      "i",
+      "cal",
+      "ly"
+    ],
+    "pronunciation": "ˌekəˈnämik(ə)lēˌēkəˈnämik(ə)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "economically"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a way that relates to economics or finance.",
+            "examples": [
+              "the region is important economically"
+            ]
+          },
+          {
+            "definition": "in a way that involves careful use of money or resources.",
+            "examples": [
+              "the new building was erected as economically as possible"
+            ]
+          },
+          {
+            "definition": "in a way that uses no more of something than is necessary.",
+            "examples": [
+              "a précis aims to express a passage more economically"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

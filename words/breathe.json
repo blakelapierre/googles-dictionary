@@ -1,0 +1,116 @@
+[
+  {
+    "word": "breathe",
+    "syllables": [
+      "breathe"
+    ],
+    "pronunciation": "brēT͟H",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "breathe"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "breathes"
+          },
+          {
+            "part": "past tense",
+            "variant": "breathed"
+          },
+          {
+            "part": "past participle",
+            "variant": "breathed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "breathing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take air into the lungs and then expel it, especially as a regular physiological process.",
+            "examples": [
+              "she was wheezing as she breathed"
+            ],
+            "synonyms": [
+              "inhale and exhale",
+              "respire",
+              "draw breath; Morepuff",
+              "pant",
+              "blow",
+              "gasp",
+              "wheeze",
+              "huff; inspire",
+              "expire \"she breathed deeply\""
+            ]
+          },
+          {
+            "definition": "be or seem to be alive because of this.",
+            "examples": [
+              "at least I'm still breathing"
+            ],
+            "synonyms": [
+              "be alive",
+              "be living",
+              "live \"at least I'm still breathing\""
+            ]
+          },
+          {
+            "definition": "(of wind) blow softly."
+          },
+          {
+            "definition": "say something with quiet intensity.",
+            "examples": [
+              "“We're together at last,” she breathed"
+            ],
+            "synonyms": [
+              "whisper",
+              "murmur",
+              "purr",
+              "sigh",
+              "say \"“Together at last",
+              "” she breathed\""
+            ]
+          },
+          {
+            "definition": "(of an animal or plant) respire or exchange gases.",
+            "examples": [
+              "plants breathe through their roots"
+            ]
+          },
+          {
+            "definition": "give an impression of (something).",
+            "examples": [
+              "the whole room breathed an air of hygienic efficiency"
+            ]
+          },
+          {
+            "definition": "(of wine) be exposed to fresh air.",
+            "examples": [
+              "red wine needs untold time to breathe"
+            ]
+          },
+          {
+            "definition": "(of material or soil) admit or emit air or moisture.",
+            "examples": [
+              "let your lawn breathe by putting air into the soil"
+            ]
+          },
+          {
+            "definition": "allow (a horse) to rest after exertion."
+          },
+          {
+            "definition": "tarnish or taint.",
+            "examples": [
+              "before the queen's fair name was breathed upon"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

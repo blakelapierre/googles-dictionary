@@ -1,0 +1,35 @@
+[
+  {
+    "word": "violation",
+    "syllables": [
+      "vi",
+      "o",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌvīəˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "violation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "violations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of violating someone or something.",
+            "examples": [
+              "the aircraft were in violation of UN resolutions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

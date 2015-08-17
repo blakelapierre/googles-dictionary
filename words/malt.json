@@ -1,0 +1,70 @@
+[
+  {
+    "word": "malt",
+    "syllables": [
+      "malt"
+    ],
+    "pronunciation": "môlt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "malt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "barley or other grain that has been steeped, germinated, and dried, used especially for brewing or distilling and vinegar-making."
+          },
+          {
+            "definition": "short for malt whiskey.",
+            "examples": [
+              "plural noun: malts"
+            ]
+          },
+          {
+            "definition": "short for malted milk."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "malt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "malts"
+          },
+          {
+            "part": "past tense",
+            "variant": "malted"
+          },
+          {
+            "part": "past participle",
+            "variant": "malted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "malting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convert (grain) into malt.",
+            "examples": [
+              "barley is grown for malting"
+            ]
+          },
+          {
+            "definition": "(of a seed) become malt when germination is checked by drought."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "sentence",
+    "syllables": [
+      "sen",
+      "tence"
+    ],
+    "pronunciation": "ˈsen(t)əns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "sentences"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses."
+          },
+          {
+            "definition": "a series of signs or symbols expressing a proposition in an artificial or logical language."
+          },
+          {
+            "definition": "the punishment assigned to a defendant found guilty by a court, or fixed by law for a particular offense.",
+            "examples": [
+              "her husband is serving a three-year sentence for fraud"
+            ],
+            "synonyms": [
+              "judgment",
+              "ruling",
+              "decision",
+              "verdict",
+              "punishment More\"Jones showed no emotion as the judge passed sentence\"prison term",
+              "prison sentence; punishment; informaltime",
+              "stretch",
+              "stint \"the judge shortened his sentence to nine months\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "sentences"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "declare the punishment decided for (an offender).",
+            "examples": [
+              "ten army officers were sentenced to death"
+            ],
+            "synonyms": [
+              "pass judgment on",
+              "punish",
+              "convict; Morecondemn",
+              "doom \"they were sentenced to death\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

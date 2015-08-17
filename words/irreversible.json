@@ -1,0 +1,45 @@
+[
+  {
+    "word": "irreversible",
+    "syllables": [
+      "ir",
+      "re",
+      "vers",
+      "i",
+      "ble"
+    ],
+    "pronunciation": "ˌi(r)rəˈvərsəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "irreversible"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not able to be undone or altered.",
+            "examples": [
+              "she suffered irreversible damage to her health"
+            ],
+            "synonyms": [
+              "irreparable",
+              "beyond repair",
+              "irremediable",
+              "irrevocable",
+              "permanent; Moreunalterable",
+              "unchangeable",
+              "immutable",
+              "carved in stone; peremptory \"irreversible damage\""
+            ],
+            "antonyms": [
+              "temporary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

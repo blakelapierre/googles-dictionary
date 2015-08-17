@@ -1,0 +1,87 @@
+[
+  {
+    "word": "limitation",
+    "syllables": [
+      "lim",
+      "i",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "ˌliməˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "limitation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limitations"
+          },
+          {
+            "part": "noun",
+            "variant": "limitation period"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limitation periods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a limiting rule or circumstance; a restriction.",
+            "examples": [
+              "severe limitations on water use"
+            ],
+            "synonyms": [
+              "restriction",
+              "curb",
+              "restraint",
+              "control",
+              "check; Morebar",
+              "barrier",
+              "block",
+              "deterrent \"a limitation on the number of guests\""
+            ],
+            "antonyms": [
+              "increase"
+            ]
+          },
+          {
+            "definition": "a condition of limited ability; a defect or failing.",
+            "examples": [
+              "she knew her limitations better than she knew her worth"
+            ],
+            "synonyms": [
+              "imperfection",
+              "flaw",
+              "defect",
+              "failing",
+              "shortcoming",
+              "weak point",
+              "deficiency",
+              "failure",
+              "frailty",
+              "weakness",
+              "foible \"he is aware of his own limitations\""
+            ],
+            "antonyms": [
+              "strength"
+            ]
+          },
+          {
+            "definition": "the action of limiting something.",
+            "examples": [
+              "the limitation of local authorities' powers"
+            ]
+          },
+          {
+            "definition": "a legally specified period beyond which an action may be defeated or a property right is not to continue."
+          }
+        ]
+      }
+    ]
+  }
+]

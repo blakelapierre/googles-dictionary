@@ -1,0 +1,87 @@
+[
+  {
+    "word": "weeping",
+    "syllables": [
+      "weep",
+      "ing"
+    ],
+    "pronunciation": "ˈwēpiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "weeping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shedding tears."
+          },
+          {
+            "definition": "exuding liquid."
+          },
+          {
+            "definition": "used in names of tree and shrub varieties with drooping branches, e.g., weeping cherry."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "weep",
+    "syllables": [
+      "weep"
+    ],
+    "pronunciation": "wēp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "weeping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shed tears.",
+            "examples": [
+              "a grieving mother wept over the body of her daughter"
+            ],
+            "synonyms": [
+              "cry",
+              "shed tears",
+              "sob",
+              "snivel",
+              "whimper",
+              "whine",
+              "wail",
+              "bawl; Moreinformalboo-hoo",
+              "blubber \"even the toughest soldiers wept\""
+            ]
+          },
+          {
+            "definition": "utter or express with tears.",
+            "examples": [
+              "“No!” she wept"
+            ]
+          },
+          {
+            "definition": "mourn for; shed tears over.",
+            "examples": [
+              "a young widow weeping her lost lord"
+            ]
+          },
+          {
+            "definition": "exude liquid.",
+            "examples": [
+              "she rubbed one of the sores, making it weep"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

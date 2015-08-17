@@ -1,0 +1,64 @@
+[
+  {
+    "word": "levy",
+    "syllables": [
+      "le",
+      "vy"
+    ],
+    "pronunciation": "ˈlevē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "levying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "impose (a tax, fee, or fine).",
+            "examples": [
+              "a new tax could be levied on industry to pay for cleaning up contaminated land"
+            ],
+            "synonyms": [
+              "impose",
+              "charge",
+              "exact",
+              "raise",
+              "collect; raremulct \"the government's right to levy taxes\""
+            ]
+          },
+          {
+            "definition": "impose a tax, fee, or fine on.",
+            "examples": [
+              "there will be powers to levy the owner"
+            ],
+            "synonyms": [
+              "impose",
+              "charge",
+              "exact",
+              "raise",
+              "collect; raremulct \"the government's right to levy taxes\""
+            ]
+          },
+          {
+            "definition": "seize (property) to satisfy a legal judgment.",
+            "examples": [
+              "there were no goods to levy upon"
+            ]
+          },
+          {
+            "definition": "enlist (someone) for military service.",
+            "examples": [
+              "he sought to levy one man from each parish for service"
+            ]
+          },
+          {
+            "definition": "begin to wage (war)."
+          }
+        ]
+      }
+    ]
+  }
+]

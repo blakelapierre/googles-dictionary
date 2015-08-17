@@ -1,0 +1,26 @@
+[
+  {
+    "word": "surfboard",
+    "syllables": [
+      "surf",
+      "board"
+    ],
+    "pronunciation": "ˈsərfbôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "surfboards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long, narrow streamlined board used in surfing."
+          }
+        ]
+      }
+    ]
+  }
+]

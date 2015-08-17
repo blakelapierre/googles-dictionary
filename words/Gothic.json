@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Gothic",
+    "syllables": [
+      "Goth",
+      "ic"
+    ],
+    "pronunciation": "ˈɡäTHik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "Gothic"
+          },
+          {
+            "part": "adjective",
+            "variant": "Gothick"
+          },
+          {
+            "part": "adjective",
+            "variant": "gothic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to the Goths or their extinct East Germanic language, which provides the earliest manuscript evidence of any Germanic language (4th–6th centuries AD)."
+          },
+          {
+            "definition": "of or in the style of architecture prevalent in western Europe in the 12th–16th centuries, characterized by pointed arches, rib vaults, and flying buttresses, together with large windows and elaborate tracery."
+          },
+          {
+            "definition": "belonging to or redolent of the Dark Ages; portentously gloomy or horrifying.",
+            "examples": [
+              "19th-century Gothic horror"
+            ]
+          },
+          {
+            "definition": "(of lettering) of or derived from the angular style of handwriting with broad vertical downstrokes used in western Europe from the 13th century, including Fraktur and black-letter typefaces."
+          },
+          {
+            "definition": "of or relating to goths or their rock music."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Gothic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the language of the Goths."
+          },
+          {
+            "definition": "the Gothic style of architecture."
+          },
+          {
+            "definition": "Gothic type."
+          }
+        ]
+      }
+    ]
+  }
+]

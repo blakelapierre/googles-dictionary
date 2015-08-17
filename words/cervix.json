@@ -1,0 +1,36 @@
+[
+  {
+    "word": "cervix",
+    "syllables": [
+      "cer",
+      "vix"
+    ],
+    "pronunciation": "ˈsərviks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cervix"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cervices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the narrow necklike passage forming the lower end of the uterus."
+          },
+          {
+            "definition": "the neck."
+          },
+          {
+            "definition": "a part of other bodily organs resembling a neck."
+          }
+        ]
+      }
+    ]
+  }
+]

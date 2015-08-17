@@ -1,0 +1,118 @@
+[
+  {
+    "word": "refer",
+    "syllables": [
+      "re",
+      "fer"
+    ],
+    "pronunciation": "rəˈfər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "referred"
+          },
+          {
+            "part": "past participle",
+            "variant": "referred"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mention or allude to.",
+            "examples": [
+              "the reports of the commission are often referred to in the media"
+            ],
+            "synonyms": [
+              "mention",
+              "make reference to",
+              "allude to",
+              "touch on",
+              "speak of/about",
+              "talk of/about",
+              "write about",
+              "comment on",
+              "deal with",
+              "point out",
+              "call attention to \"he referred to errors in the article\""
+            ]
+          },
+          {
+            "definition": "direct the attention of someone to.",
+            "examples": [
+              "I refer my colleague to the reply that I gave some moments ago"
+            ],
+            "synonyms": [
+              "pass",
+              "hand over",
+              "hand",
+              "send on",
+              "transfer",
+              "remit",
+              "entrust",
+              "assign \"the matter has been referred to my insurers\""
+            ]
+          },
+          {
+            "definition": "(of a word or phrase) describe or denote; have as a referent.",
+            "examples": [
+              "the term “rhetoric” almost invariably refers to persuasion"
+            ],
+            "synonyms": [
+              "apply to",
+              "be relevant to",
+              "concern",
+              "relate to",
+              "be connected with",
+              "pertain to",
+              "appertain to",
+              "be pertinent to",
+              "have a bearing on",
+              "cover More\"these figures refer to only the year 2001\"denote",
+              "describe",
+              "indicate",
+              "mean",
+              "signify",
+              "designate \"the name refers to a native village\""
+            ]
+          },
+          {
+            "definition": "pass a matter to (another body, typically one with more authority or expertise) for a decision.",
+            "examples": [
+              "disagreement arose and the issue was referred back to the Executive Committee"
+            ]
+          },
+          {
+            "definition": "send or direct someone to a medical specialist.",
+            "examples": [
+              "she was referred to a clinical psychologist for counseling"
+            ]
+          },
+          {
+            "definition": "read or otherwise use (a source of information) in order to ascertain something; consult.",
+            "examples": [
+              "I always refer to a dictionary when I come across a new word"
+            ],
+            "synonyms": [
+              "consult",
+              "turn to",
+              "look at",
+              "have recourse to \"the doctor referred to his notes\""
+            ]
+          },
+          {
+            "definition": "trace or attribute something to (someone or something) as a cause or source.",
+            "examples": [
+              "the God to whom he habitually referred his highest inspirations"
+            ]
+          },
+          {
+            "definition": "regard something as belonging to (a certain period, place, or class)."
+          }
+        ]
+      }
+    ]
+  }
+]

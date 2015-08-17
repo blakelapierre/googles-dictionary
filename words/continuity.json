@@ -1,0 +1,59 @@
+[
+  {
+    "word": "continuity",
+    "syllables": [
+      "con",
+      "ti",
+      "nu",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌkäntəˈn(y)o͞oədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "continuity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the unbroken and consistent existence or operation of something over a period of time.",
+            "examples": [
+              "pension rights accruing through continuity of employment"
+            ],
+            "synonyms": [
+              "continuousness",
+              "uninterruptedness",
+              "flow",
+              "progression \"a breakdown in the continuity of care\""
+            ]
+          },
+          {
+            "definition": "a state of stability and the absence of disruption.",
+            "examples": [
+              "they have provided the country with a measure of continuity"
+            ]
+          },
+          {
+            "definition": "a connection or line of development with no sharp breaks.",
+            "examples": [
+              "plural noun: continuities"
+            ]
+          },
+          {
+            "definition": "the maintenance of continuous action and self-consistent detail in the various scenes of a movie or broadcast.",
+            "examples": [
+              "a continuity error"
+            ]
+          },
+          {
+            "definition": "the linking of broadcast items, especially by a spoken commentary."
+          }
+        ]
+      }
+    ]
+  }
+]

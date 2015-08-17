@@ -1,0 +1,33 @@
+[
+  {
+    "word": "excretion",
+    "syllables": [
+      "ex",
+      "cre",
+      "tion"
+    ],
+    "pronunciation": "ikˈskrēSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "excretion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in living organisms and cells) the process of eliminating or expelling waste matter."
+          },
+          {
+            "definition": "a product of excretion.",
+            "examples": [
+              "plural noun: excretions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

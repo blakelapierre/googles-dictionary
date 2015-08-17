@@ -1,0 +1,41 @@
+[
+  {
+    "word": "keyhole",
+    "syllables": [
+      "key",
+      "hole"
+    ],
+    "pronunciation": "ˈkēˌhōl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "keyhole"
+          },
+          {
+            "part": "plural noun",
+            "variant": "keyholes"
+          },
+          {
+            "part": "noun",
+            "variant": "key-hole"
+          },
+          {
+            "part": "plural noun",
+            "variant": "key-holes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hole in a lock into which the key is inserted."
+          },
+          {
+            "definition": "a circle cut out of a garment as a decorative effect, typically at the front or back neckline of a dress."
+          }
+        ]
+      }
+    ]
+  }
+]

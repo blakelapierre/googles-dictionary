@@ -1,0 +1,78 @@
+[
+  {
+    "word": "love",
+    "syllables": [
+      "love"
+    ],
+    "pronunciation": "ləv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "loved"
+          },
+          {
+            "part": "past participle",
+            "variant": "loved"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel a deep romantic or sexual attachment to (someone).",
+            "examples": [
+              "do you love me?"
+            ],
+            "synonyms": [
+              "care very much for",
+              "feel deep affection for",
+              "hold very dear",
+              "adore",
+              "think the world of",
+              "be devoted to",
+              "dote on",
+              "idolize",
+              "worship; Morebe in love with",
+              "be infatuated with",
+              "be smitten with",
+              "be besotted with; informalbe mad/crazy/nuts/wild about",
+              "have a crush on",
+              "carry a torch for \"she loves him\""
+            ],
+            "antonyms": [
+              "hate"
+            ]
+          },
+          {
+            "definition": "like very much; find pleasure in.",
+            "examples": [
+              "I'd love a cup of tea, thanks"
+            ],
+            "synonyms": [
+              "like very much",
+              "delight in",
+              "enjoy greatly",
+              "have a passion for",
+              "take great pleasure in",
+              "derive great pleasure from",
+              "relish",
+              "savor; Morehave a weakness for",
+              "be partial to",
+              "have a soft spot for",
+              "have a taste for",
+              "be taken with; informalget a kick out of",
+              "have a thing about",
+              "be mad/crazy/nuts/wild about",
+              "be hooked on",
+              "get off on \"Laura loved painting\""
+            ],
+            "antonyms": [
+              "hate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

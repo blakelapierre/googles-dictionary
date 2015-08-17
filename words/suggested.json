@@ -1,0 +1,85 @@
+[
+  {
+    "word": "suggest",
+    "syllables": [
+      "sug",
+      "gest"
+    ],
+    "pronunciation": "sə(ɡ)ˈjest",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "suggested"
+          },
+          {
+            "part": "past participle",
+            "variant": "suggested"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put forward for consideration.",
+            "examples": [
+              "I suggest that we wait a day or two"
+            ],
+            "synonyms": [
+              "propose",
+              "put forward",
+              "recommend",
+              "advocate; Moreadvise",
+              "urge",
+              "encourage",
+              "counsel \"Ruth suggested a vacation\""
+            ]
+          },
+          {
+            "definition": "cause one to think that (something) exists or is the case.",
+            "examples": [
+              "finds of lead coffins suggested a cemetery north of the river"
+            ],
+            "synonyms": [
+              "indicate",
+              "lead to the belief",
+              "argue",
+              "demonstrate",
+              "show; Moreformalevince \"evidence suggests that teenagers are responsive to price increases\"hint",
+              "insinuate",
+              "imply",
+              "intimate",
+              "indicate; informalput ideas into one's head \"sources suggest that the prime minister will change his cabinet\""
+            ]
+          },
+          {
+            "definition": "state or express indirectly.",
+            "examples": [
+              "are you suggesting that I should ignore her?"
+            ]
+          },
+          {
+            "definition": "evoke.",
+            "examples": [
+              "the theatrical interpretation of weather and water almost suggests El Greco"
+            ],
+            "synonyms": [
+              "convey",
+              "express",
+              "communicate",
+              "impart",
+              "imply",
+              "intimate",
+              "smack of",
+              "evoke",
+              "conjure up; formalevince \"the seduction scenes suggest his guilt and her loneliness\""
+            ]
+          },
+          {
+            "definition": "(of an idea) come into one's mind."
+          }
+        ]
+      }
+    ]
+  }
+]

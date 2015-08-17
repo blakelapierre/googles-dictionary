@@ -1,0 +1,55 @@
+[
+  {
+    "word": "standardize",
+    "syllables": [
+      "stand",
+      "ard",
+      "ize"
+    ],
+    "pronunciation": "ˈstandərˌdīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "standardized"
+          },
+          {
+            "part": "past participle",
+            "variant": "standardized"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something) to conform to a standard.",
+            "examples": [
+              "the editors failed to standardize the spelling of geographic names"
+            ],
+            "synonyms": [
+              "systematize",
+              "make consistent",
+              "make uniform",
+              "make comparable",
+              "regulate",
+              "normalize",
+              "bring into line",
+              "equalize",
+              "homogenize",
+              "regiment \"teachers have been asked to standardize their final exams\""
+            ]
+          },
+          {
+            "definition": "adopt (something) as one's standard.",
+            "examples": [
+              "we could standardize on U.S. equipment"
+            ]
+          },
+          {
+            "definition": "determine the properties of by comparison with a standard."
+          }
+        ]
+      }
+    ]
+  }
+]

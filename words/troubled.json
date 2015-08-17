@@ -1,0 +1,164 @@
+[
+  {
+    "word": "troubled",
+    "syllables": [
+      "trou",
+      "bled"
+    ],
+    "pronunciation": "ˈtrəbəld",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "troubled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "beset by problems or conflict.",
+            "examples": [
+              "his troubled private life"
+            ],
+            "synonyms": [
+              "difficult",
+              "problematic",
+              "full of problems",
+              "unsettled",
+              "hard",
+              "tough",
+              "stressful",
+              "dark \"we live in troubled times\""
+            ]
+          },
+          {
+            "definition": "showing distress or anxiety.",
+            "examples": [
+              "his troubled face"
+            ],
+            "synonyms": [
+              "anxious",
+              "worried",
+              "concerned",
+              "perturbed",
+              "disturbed",
+              "bothered",
+              "ill at ease",
+              "uneasy",
+              "unsettled",
+              "agitated; Moredistressed",
+              "upset",
+              "dismayed",
+              "haunted \"Joanna looked troubled\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trouble",
+    "syllables": [
+      "trou",
+      "ble"
+    ],
+    "pronunciation": "ˈtrəb(ə)l",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "troubled"
+          },
+          {
+            "part": "past participle",
+            "variant": "troubled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause distress or anxiety to.",
+            "examples": [
+              "he was not troubled by doubts"
+            ],
+            "synonyms": [
+              "worry",
+              "bother",
+              "concern",
+              "disturb",
+              "upset",
+              "agitate",
+              "distress",
+              "perturb",
+              "annoy",
+              "irritate",
+              "vex",
+              "irk",
+              "nag",
+              "niggle",
+              "prey on someone's mind",
+              "weigh down",
+              "burden; informalbug \"this matter had been troubling her for some time\""
+            ]
+          },
+          {
+            "definition": "be distressed or anxious about.",
+            "examples": [
+              "there is nothing you need trouble about"
+            ],
+            "synonyms": [
+              "worry",
+              "upset oneself",
+              "fret",
+              "be anxious",
+              "be concerned",
+              "concern oneself \"there is nothing you need trouble about\""
+            ]
+          },
+          {
+            "definition": "cause (someone) pain.",
+            "examples": [
+              "my legs started to trouble me"
+            ],
+            "synonyms": [
+              "be afflicted by",
+              "be burdened with; Moresuffer from",
+              "be cursed with",
+              "be plagued by \"he was troubled by bouts of ill health\""
+            ]
+          },
+          {
+            "definition": "cause (someone) inconvenience (typically used as a polite way of asking someone to do or provide something).",
+            "examples": [
+              "sorry to trouble you"
+            ],
+            "synonyms": [
+              "inconvenience",
+              "bother",
+              "impose on",
+              "disturb",
+              "put out",
+              "pester",
+              "hassle; formaldiscommode \"I'm sorry to trouble you\""
+            ]
+          },
+          {
+            "definition": "make the effort required to do something.",
+            "examples": [
+              "oh, don't trouble to answer"
+            ],
+            "synonyms": [
+              "bother",
+              "take the trouble",
+              "go to the trouble",
+              "exert oneself",
+              "go out of one's way \"don't trouble to see me out\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

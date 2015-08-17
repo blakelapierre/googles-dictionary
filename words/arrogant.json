@@ -1,0 +1,51 @@
+[
+  {
+    "word": "arrogant",
+    "syllables": [
+      "ar",
+      "ro",
+      "gant"
+    ],
+    "pronunciation": "ˈerəɡənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "arrogant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or revealing an exaggerated sense of one's own importance or abilities.",
+            "examples": [
+              "he's arrogant and opinionated"
+            ],
+            "synonyms": [
+              "haughty",
+              "conceited",
+              "self-important",
+              "egotistic",
+              "full of oneself",
+              "superior; Moreoverbearing",
+              "pompous",
+              "bumptious",
+              "presumptuous",
+              "imperious",
+              "overweening; proud",
+              "immodest; informalhigh and mighty",
+              "too big for one's britches",
+              "too big for one's boots",
+              "big-headed",
+              "puffed up; rarehubristic \"success has made him arrogant\""
+            ],
+            "antonyms": [
+              "modest"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

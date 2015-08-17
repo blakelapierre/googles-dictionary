@@ -1,0 +1,92 @@
+[
+  {
+    "word": "anticipate",
+    "syllables": [
+      "an",
+      "tic",
+      "i",
+      "pate"
+    ],
+    "pronunciation": "anˈtisəˌpāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "anticipate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "anticipates"
+          },
+          {
+            "part": "past tense",
+            "variant": "anticipated"
+          },
+          {
+            "part": "past participle",
+            "variant": "anticipated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "anticipating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "regard as probable; expect or predict.",
+            "examples": [
+              "she anticipated scorn on her return to the theater"
+            ],
+            "synonyms": [
+              "expect",
+              "foresee",
+              "predict",
+              "be prepared for",
+              "bargain on",
+              "reckon on; informalfigure on \"we don't anticipate any trouble\""
+            ]
+          },
+          {
+            "definition": "guess or be aware of (what will happen) and take action in order to be prepared.",
+            "examples": [
+              "they failed to anticipate a full scale invasion"
+            ],
+            "synonyms": [
+              "preempt",
+              "forestall",
+              "second-guess; informalbeat someone to the punch \"the defender must anticipate the attacker's moves\""
+            ]
+          },
+          {
+            "definition": "look forward to.",
+            "examples": [
+              "Stephen was eagerly anticipating the break from the routine of business"
+            ],
+            "synonyms": [
+              "look forward to",
+              "await",
+              "count the days until; informallick one's lips over \"we enthusiastically anticipate your arrival\""
+            ]
+          },
+          {
+            "definition": "act as a forerunner or precursor of.",
+            "examples": [
+              "he anticipated Bates's theories on mimicry and protective coloration"
+            ]
+          },
+          {
+            "definition": "come or take place before (an event or process expected or scheduled for a later time)."
+          },
+          {
+            "definition": "react or respond to (someone) too quickly, without giving them a chance to do or say something."
+          },
+          {
+            "definition": "pay (a debt) before it is due."
+          }
+        ]
+      }
+    ]
+  }
+]

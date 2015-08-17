@@ -1,0 +1,81 @@
+[
+  {
+    "word": "coke",
+    "syllables": [
+      "coke"
+    ],
+    "pronunciation": "kōk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coke"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a solid fuel made by heating coal in the absence of air so that the volatile components are driven off."
+          },
+          {
+            "definition": "carbon residue left after the incomplete combustion of gasoline or other fuels."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "coke"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cokes"
+          },
+          {
+            "part": "past tense",
+            "variant": "coked"
+          },
+          {
+            "part": "past participle",
+            "variant": "coked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "coking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convert (coal) into coke."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "coke",
+    "syllables": [
+      "coke"
+    ],
+    "pronunciation": "kōk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coke"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "informal term for cocaine."
+          }
+        ]
+      }
+    ]
+  }
+]

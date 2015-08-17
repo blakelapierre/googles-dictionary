@@ -1,0 +1,77 @@
+[
+  {
+    "word": "bilge",
+    "syllables": [
+      "bilge"
+    ],
+    "pronunciation": "bilj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bilge"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bilges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the area on the outer surface of a ship's hull where the bottom curves to meet the vertical sides."
+          },
+          {
+            "definition": "the lowest internal portion of the hull."
+          },
+          {
+            "definition": "dirty water that collects inside the bilges.",
+            "examples": [
+              "noun: bilge water; plural noun: bilge waters; noun: bilgewater"
+            ]
+          },
+          {
+            "definition": "nonsense; rubbish.",
+            "examples": [
+              "romantic bilge dreamed up by journalists"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bilge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bilges"
+          },
+          {
+            "part": "past tense",
+            "variant": "bilged"
+          },
+          {
+            "part": "past participle",
+            "variant": "bilged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bilging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "break a hole in the bilge of (a ship).",
+            "examples": [
+              "she was hopelessly bilged, her back broken"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "word": "partially",
+    "syllables": [
+      "par",
+      "tial",
+      "ly"
+    ],
+    "pronunciation": "ˈpärSHəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "partially"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "only in part; to a limited extent.",
+            "examples": [
+              "the work partially fulfills the function of a historical memoir"
+            ],
+            "synonyms": [
+              "to a limited extent/degree",
+              "to a certain extent/degree",
+              "partly",
+              "in part",
+              "not totally",
+              "not entirely",
+              "relatively",
+              "moderately",
+              "(up) to a point",
+              "somewhat",
+              "comparatively",
+              "slightly \"the plan was only partially successful\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

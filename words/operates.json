@@ -1,0 +1,111 @@
+[
+  {
+    "word": "operate",
+    "syllables": [
+      "op",
+      "er",
+      "ate"
+    ],
+    "pronunciation": "ˈäpəˌrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "operates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) control the functioning of (a machine, process, or system).",
+            "examples": [
+              "a shortage of workers to operate new machines"
+            ],
+            "synonyms": [
+              "work",
+              "run",
+              "make go",
+              "use",
+              "utilize",
+              "handle",
+              "control",
+              "manage; Moredrive",
+              "steer",
+              "maneuver \"he can operate the machine\""
+            ]
+          },
+          {
+            "definition": "(of a machine, process, or system) function in a specified manner.",
+            "examples": [
+              "market forces were allowed to operate freely"
+            ],
+            "synonyms": [
+              "function",
+              "work",
+              "go",
+              "run",
+              "be in working/running order",
+              "be operative More\"the machine ceased to operate\"take effect",
+              "act",
+              "apply",
+              "be applied",
+              "function \"the way the law operates in practice\""
+            ],
+            "antonyms": [
+              "break down"
+            ]
+          },
+          {
+            "definition": "be in effect.",
+            "examples": [
+              "there is a powerful law that operates in politics"
+            ]
+          },
+          {
+            "definition": "(of a person or organization) manage and run (a business).",
+            "examples": [
+              "many foreign companies operate factories in the U.S"
+            ],
+            "synonyms": [
+              "direct",
+              "control",
+              "manage",
+              "run",
+              "govern",
+              "administer",
+              "superintend",
+              "head (up)",
+              "supervise",
+              "oversee",
+              "preside over",
+              "be in control/charge of \"he operated the mine until 1931\""
+            ]
+          },
+          {
+            "definition": "(of an organization) be managed and run in a specified way.",
+            "examples": [
+              "neither company had operated within the terms of its charter"
+            ]
+          },
+          {
+            "definition": "(of an armed force) conduct military activities in a specified area or from a specified base.",
+            "examples": [
+              "the mountain bases from which the guerrillas were operating"
+            ]
+          },
+          {
+            "definition": "perform a surgical operation.",
+            "examples": [
+              "the surgeons refused to operate"
+            ],
+            "synonyms": [
+              "perform surgery",
+              "do an operation; informalput under the knife \"doctors decided to operate\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

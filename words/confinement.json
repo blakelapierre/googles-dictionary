@@ -1,0 +1,57 @@
+[
+  {
+    "word": "confinement",
+    "syllables": [
+      "con",
+      "fine",
+      "ment"
+    ],
+    "pronunciation": "kənˈfīnmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "confinement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "confinements"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of confining, or the state of being confined.",
+            "examples": [
+              "he was immediately released from his confinement"
+            ],
+            "synonyms": [
+              "imprisonment",
+              "internment",
+              "incarceration",
+              "custody",
+              "captivity",
+              "detention",
+              "restraint; Morehouse arrest \"solitary confinement\"caging",
+              "enclosure; quarantine \"the confinement of an animal\""
+            ]
+          },
+          {
+            "definition": "the condition of being in childbirth.",
+            "examples": [
+              "the pros and cons of home versus hospital confinement"
+            ],
+            "synonyms": [
+              "labor",
+              "delivery",
+              "birthing; Morebirth",
+              "childbirth; formalparturition; archaiclying-in",
+              "childbed \"she went to the hospital for her confinement\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

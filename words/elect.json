@@ -1,0 +1,99 @@
+[
+  {
+    "word": "elect",
+    "syllables": [
+      "e",
+      "lect"
+    ],
+    "pronunciation": "əˈlekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "elect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "elects"
+          },
+          {
+            "part": "past tense",
+            "variant": "elected"
+          },
+          {
+            "part": "past participle",
+            "variant": "elected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "electing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "choose (someone) to hold public office or some other position by voting.",
+            "examples": [
+              "the members who were elected to the committee"
+            ],
+            "synonyms": [
+              "vote for",
+              "vote in",
+              "return",
+              "cast one's vote for; Morechoose",
+              "pick",
+              "select \"a new president was elected\""
+            ]
+          },
+          {
+            "definition": "opt for or choose to do something.",
+            "examples": [
+              "freshman year you could elect Industrial Arts"
+            ],
+            "synonyms": [
+              "choose",
+              "decide",
+              "opt",
+              "vote \"she elected to stay behind\""
+            ]
+          },
+          {
+            "definition": "(of God) choose (someone) in preference to others for salvation."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "elect"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) chosen or singled out.",
+            "examples": [
+              "one of the century's elect"
+            ],
+            "synonyms": [
+              "the chosen",
+              "the elite",
+              "the favored; the crème de la crème \"it is not the elect who need better health care and safer schools\""
+            ]
+          },
+          {
+            "definition": "elected to or chosen for a position but not yet in office.",
+            "examples": [
+              "adjective: elect"
+            ]
+          },
+          {
+            "definition": "chosen by God for salvation."
+          }
+        ]
+      }
+    ]
+  }
+]

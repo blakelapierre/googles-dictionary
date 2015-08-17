@@ -1,0 +1,62 @@
+[
+  {
+    "word": "enroll",
+    "syllables": [
+      "en",
+      "roll"
+    ],
+    "pronunciation": "inˈrōlenˈrōl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "enrolled"
+          },
+          {
+            "part": "past participle",
+            "variant": "enrolled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "officially register as a member of an institution or a student on a course.",
+            "examples": [
+              "he enrolled in drama school"
+            ],
+            "synonyms": [
+              "register for",
+              "sign up/on for",
+              "put one's name down for",
+              "apply for",
+              "volunteer for; Moreenter",
+              "join \"they both enrolled for the course\""
+            ]
+          },
+          {
+            "definition": "recruit (someone) to perform a service.",
+            "examples": [
+              "a campaign to enroll more foster families"
+            ],
+            "synonyms": [
+              "accept",
+              "admit",
+              "take on",
+              "register",
+              "sign on/up",
+              "recruit",
+              "engage; empanel \"280 new members were enrolled\""
+            ]
+          },
+          {
+            "definition": "enter (a deed or other document) among the rolls of a court of justice."
+          },
+          {
+            "definition": "write the name of (someone) on a list or register."
+          }
+        ]
+      }
+    ]
+  }
+]

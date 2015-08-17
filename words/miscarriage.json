@@ -1,0 +1,57 @@
+[
+  {
+    "word": "miscarriage",
+    "syllables": [
+      "mis",
+      "car",
+      "riage"
+    ],
+    "pronunciation": "ˈmisˌkerijmisˈkerij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "miscarriage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "miscarriages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the expulsion of a fetus from the womb before it is able to survive independently, especially spontaneously or as the result of accident.",
+            "examples": [
+              "his wife had a miscarriage"
+            ],
+            "synonyms": [
+              "stillbirth",
+              "spontaneous abortion \"she's had a miscarriage\""
+            ]
+          },
+          {
+            "definition": "an unsuccessful outcome of something planned.",
+            "examples": [
+              "the miscarriage of the project"
+            ],
+            "synonyms": [
+              "failure",
+              "foundering",
+              "ruin",
+              "ruination",
+              "collapse",
+              "breakdown",
+              "thwarting",
+              "frustration",
+              "undoing",
+              "nonfulfillment",
+              "mismanagement \"the miscarriage of the project\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

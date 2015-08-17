@@ -1,0 +1,148 @@
+[
+  {
+    "word": "parting",
+    "syllables": [
+      "part",
+      "ing"
+    ],
+    "pronunciation": "ˈpärdiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "parting"
+          },
+          {
+            "part": "plural noun",
+            "variant": "partings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of leaving or being separated from someone.",
+            "examples": [
+              "they exchanged a few words on parting"
+            ],
+            "synonyms": [
+              "farewell",
+              "leave-taking",
+              "goodbye",
+              "adieu",
+              "departure; Morevalediction \"an emotional parting\"separation",
+              "breakup",
+              "split",
+              "divorce",
+              "rift",
+              "estrangement \"they kept their parting quiet\""
+            ]
+          },
+          {
+            "definition": "the action of dividing something into parts.",
+            "examples": [
+              "the parting of the Red Sea"
+            ],
+            "synonyms": [
+              "division",
+              "dividing",
+              "separation",
+              "separating",
+              "splitting",
+              "breaking up/apart",
+              "partition",
+              "partitioning; informalsplitsville \"the parting of the Red Sea\""
+            ]
+          },
+          {
+            "definition": "a part in the hair."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "part",
+    "syllables": [
+      "part"
+    ],
+    "pronunciation": "pärt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "parting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of two things) move away from each other.",
+            "examples": [
+              "his lips parted in a smile"
+            ]
+          },
+          {
+            "definition": "divide to leave a central space.",
+            "examples": [
+              "at that moment the mist parted"
+            ],
+            "synonyms": [
+              "separate",
+              "divide (in two)",
+              "split (in two)",
+              "move apart \"the curtains parted\""
+            ],
+            "antonyms": [
+              "join"
+            ]
+          },
+          {
+            "definition": "leave someone's company.",
+            "examples": [
+              "there was a good deal of kissing and more congratulations before we parted"
+            ],
+            "synonyms": [
+              "leave",
+              "take one's leave",
+              "say goodbye/farewell",
+              "say one's goodbyes/farewells",
+              "go one's (separate) ways",
+              "split",
+              "go away",
+              "depart \"we parted on bad terms\""
+            ],
+            "antonyms": [
+              "meet"
+            ]
+          },
+          {
+            "definition": "leave the company of someone.",
+            "examples": [
+              "she can't bear to be parted from her daughter again"
+            ]
+          },
+          {
+            "definition": "give up possession of; hand over.",
+            "examples": [
+              "even quite small companies parted with large sums"
+            ],
+            "synonyms": [
+              "give up/away",
+              "relinquish",
+              "forgo",
+              "surrender",
+              "hand over",
+              "deliver up",
+              "dispose of \"Danielle could not part with her stuffed animals\""
+            ]
+          },
+          {
+            "definition": "separate (the hair of the head on either side of the part) with a comb."
+          }
+        ]
+      }
+    ]
+  }
+]

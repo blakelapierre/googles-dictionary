@@ -1,0 +1,54 @@
+[
+  {
+    "word": "moral",
+    "syllables": [
+      "mor",
+      "al"
+    ],
+    "pronunciation": "ˈmôrəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "morals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a lesson, especially one concerning what is right or prudent, that can be derived from a story, a piece of information, or an experience.",
+            "examples": [
+              "the moral of this story was that one must see the beauty in what one has"
+            ],
+            "synonyms": [
+              "lesson",
+              "message",
+              "meaning",
+              "significance",
+              "signification",
+              "import",
+              "point",
+              "teaching \"the moral of the story\""
+            ]
+          },
+          {
+            "definition": "a person's standards of behavior or beliefs concerning what is and is not acceptable for them to do.",
+            "examples": [
+              "the corruption of public morals"
+            ],
+            "synonyms": [
+              "moral code",
+              "code of ethics",
+              "(moral) values",
+              "principles",
+              "standards",
+              "(sense of) morality",
+              "scruples \"he has no morals\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

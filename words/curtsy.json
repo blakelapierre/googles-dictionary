@@ -1,0 +1,104 @@
+[
+  {
+    "word": "curtsy",
+    "syllables": [
+      "curt",
+      "sy"
+    ],
+    "pronunciation": "ˈkərtsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "curtsy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "curtsies"
+          },
+          {
+            "part": "noun",
+            "variant": "curtsey"
+          },
+          {
+            "part": "plural noun",
+            "variant": "curtseys"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a woman's or girl's formal greeting made by bending the knees with one foot in front of the other.",
+            "examples": [
+              "she bobbed a curtsy to him"
+            ],
+            "synonyms": [
+              "bob",
+              "genuflection",
+              "obeisance \"she made a curtsy\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "curtsy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "curtsies"
+          },
+          {
+            "part": "past tense",
+            "variant": "curtsied"
+          },
+          {
+            "part": "past participle",
+            "variant": "curtsied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "curtsying"
+          },
+          {
+            "part": "verb",
+            "variant": "curtsey"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "curtseys"
+          },
+          {
+            "part": "past tense",
+            "variant": "curtseyed"
+          },
+          {
+            "part": "past participle",
+            "variant": "curtseyed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "curtseying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perform a curtsy.",
+            "examples": [
+              "she curtsied onto the stage"
+            ],
+            "synonyms": [
+              "bend one's knee",
+              "drop a curtsy",
+              "genuflect \"she curtsied to the king\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

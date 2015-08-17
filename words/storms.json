@@ -1,0 +1,164 @@
+[
+  {
+    "word": "storm",
+    "syllables": [
+      "storm"
+    ],
+    "pronunciation": "stôrm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "storms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+            "examples": [
+              "windstorm, tempest, whirlwind, gale, strong wind, high wind, squall; Morecyclone, tornado, twister, dust devil, dust storm; rainstorm, thunderstorm, thundershower; monsoon, typhoon, hurricane, tropical storm; hailstorm, snowstorm, blizzard \"the coast was battered by a storm\"Morecyclone, tornado, twister, dust devil, dust storm; rainstorm, thunderstorm, thundershower; monsoon, typhoon, hurricane, tropical storm; hailstorm, snowstorm, blizzard the coast was battered by a storm"
+            ]
+          },
+          {
+            "definition": "an intense low-pressure weather system; a cyclone.",
+            "examples": [
+              "noun: storm system; plural noun: storm systems"
+            ]
+          },
+          {
+            "definition": "a wind of force 10 on the Beaufort scale (48–55 knots or 55-63 mph)."
+          },
+          {
+            "definition": "a heavy discharge of missiles or blows.",
+            "examples": [
+              "two men were taken by a storm of bullets"
+            ],
+            "synonyms": [
+              "volley",
+              "salvo",
+              "fusillade",
+              "barrage",
+              "cannonade; Moreshower",
+              "spray",
+              "hail",
+              "rain \"a storm of bullets\""
+            ]
+          },
+          {
+            "definition": "a tumultuous reaction; an uproar or controversy.",
+            "examples": [
+              "the book caused a storm in South America"
+            ],
+            "synonyms": [
+              "uproar",
+              "outcry",
+              "fuss",
+              "furor",
+              "brouhaha",
+              "rumpus",
+              "trouble",
+              "hue and cry",
+              "controversy; Moreinformalto-do",
+              "hoo-ha",
+              "hullabaloo",
+              "ballyhoo",
+              "stink",
+              "row \"there was a storm over his remarks\""
+            ]
+          },
+          {
+            "definition": "a violent or noisy outburst of a specified feeling or reaction.",
+            "examples": [
+              "the disclosure raised a storm of protest"
+            ],
+            "synonyms": [
+              "outburst",
+              "outbreak",
+              "explosion",
+              "eruption",
+              "outpouring",
+              "surge",
+              "blaze",
+              "flare-up",
+              "wave \"a storm of protest\""
+            ]
+          },
+          {
+            "definition": "storm windows."
+          },
+          {
+            "definition": "a direct assault by troops on a fortified place."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "storms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move angrily or forcefully in a specified direction.",
+            "examples": [
+              "she burst into tears and stormed off"
+            ],
+            "synonyms": [
+              "stride angrily",
+              "stomp",
+              "march",
+              "stalk",
+              "flounce",
+              "stamp \"she stormed out\""
+            ]
+          },
+          {
+            "definition": "shout (something) angrily; rage.",
+            "examples": [
+              "“Don't patronize me!” she stormed"
+            ],
+            "synonyms": [
+              "rant",
+              "rave",
+              "shout",
+              "bellow",
+              "roar",
+              "thunder",
+              "rage \"his mother stormed at him\""
+            ]
+          },
+          {
+            "definition": "move forcefully and decisively to a specified position in a game or contest.",
+            "examples": [
+              "he barged past and stormed to the checkered flag"
+            ]
+          },
+          {
+            "definition": "(of troops) suddenly attack and capture (a building or other place) by means of force.",
+            "examples": [
+              "Indian commandos stormed a hijacked plane early today"
+            ],
+            "synonyms": [
+              "attack",
+              "charge",
+              "rush",
+              "assail",
+              "descend on",
+              "swoop on \"police stormed the building\""
+            ]
+          },
+          {
+            "definition": "(of the weather) be violent, with strong winds and usually rain, thunder, lightning, or snow.",
+            "examples": [
+              "when it stormed in the day, I shoveled the drive before Harry came home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

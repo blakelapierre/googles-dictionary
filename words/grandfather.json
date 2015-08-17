@@ -1,0 +1,92 @@
+[
+  {
+    "word": "grandfather",
+    "syllables": [
+      "grand",
+      "fa",
+      "ther"
+    ],
+    "pronunciation": "ˈɡran(d)ˌfäT͟Hər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grandfather"
+          },
+          {
+            "part": "plural noun",
+            "variant": "grandfathers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the father of one's father or mother.",
+            "examples": [
+              "granddad, grandad, grandpa, gramps, grampy, granddaddy, grandaddy, poppa his grandfather lives here"
+            ]
+          },
+          {
+            "definition": "the person who founded or originated something.",
+            "examples": [
+              "Freud is often called the grandfather of psychoanalysis"
+            ],
+            "synonyms": [
+              "founder",
+              "inventor",
+              "originator",
+              "creator",
+              "initiator; Morefather",
+              "founding father",
+              "pioneer \"the grandfather of modern liberalism\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbNorth Americaninformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "grandfather"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "grandfathers"
+          },
+          {
+            "part": "past tense",
+            "variant": "grandfathered"
+          },
+          {
+            "part": "past participle",
+            "variant": "grandfathered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "grandfathering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exempt (someone or something) from a new law or regulation.",
+            "examples": [
+              "smokers who worked here before the ban have been grandfathered"
+            ],
+            "synonyms": [
+              "exempt",
+              "excuse",
+              "free",
+              "exclude",
+              "grant immunity to",
+              "spare",
+              "absolve; informallet off (the hook) \"federal funding was eliminated for these air-polluting road projects",
+              "but a loophole has grandfathered the previously funded projects\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

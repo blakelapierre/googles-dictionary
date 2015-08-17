@@ -1,0 +1,83 @@
+[
+  {
+    "word": "tent",
+    "syllables": [
+      "tent"
+    ],
+    "pronunciation": "tent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a portable shelter made of cloth, supported by one or more poles and stretched tight by cords or loops attached to pegs driven into the ground.",
+            "examples": [
+              "marquee, big top; Moredome tent, pup tent; teepee, wigwam \"circus tents\"Moredome tent, pup tent; teepee, wigwam circus tents"
+            ]
+          },
+          {
+            "definition": "short for oxygen tent."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tent"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tents"
+          },
+          {
+            "part": "past tense",
+            "variant": "tented"
+          },
+          {
+            "part": "past participle",
+            "variant": "tented"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tenting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover with or as if with a tent.",
+            "examples": [
+              "the garden had been completely tented over for supper"
+            ]
+          },
+          {
+            "definition": "arrange in a shape that looks like a tent.",
+            "examples": [
+              "Tim tented his fingers"
+            ]
+          },
+          {
+            "definition": "composed of or provided with tents.",
+            "examples": [
+              "adjective: tented"
+            ]
+          },
+          {
+            "definition": "(especially of traveling circus people) live in a tent."
+          }
+        ]
+      }
+    ]
+  }
+]

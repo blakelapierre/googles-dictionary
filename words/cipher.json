@@ -1,0 +1,124 @@
+[
+  {
+    "word": "cipher",
+    "syllables": [
+      "ci",
+      "pher"
+    ],
+    "pronunciation": "ˈsīfər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cipher"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ciphers"
+          },
+          {
+            "part": "noun",
+            "variant": "cypher"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cyphers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a secret or disguised way of writing; a code.",
+            "examples": [
+              "he was writing cryptic notes in a cipher"
+            ],
+            "synonyms": [
+              "code",
+              "secret writing",
+              "cryptograph",
+              "cryptogram \"information in cipher\""
+            ]
+          },
+          {
+            "definition": "a thing written in a cipher.",
+            "examples": [
+              "code, secret writing, cryptograph, cryptogram information in cipher"
+            ]
+          },
+          {
+            "definition": "a key to such a cipher."
+          },
+          {
+            "definition": "a zero; a figure 0.",
+            "examples": [
+              "zero, 0, nil, naught/nought a row of ciphers"
+            ]
+          },
+          {
+            "definition": "a person or thing of no importance, especially a person who does the bidding of others and seems to have no will of their own."
+          },
+          {
+            "definition": "a monogram."
+          },
+          {
+            "definition": "a continuous sounding of an organ pipe, caused by a mechanical defect."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cipher"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ciphers"
+          },
+          {
+            "part": "past tense",
+            "variant": "ciphered"
+          },
+          {
+            "part": "past participle",
+            "variant": "ciphered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "ciphering"
+          },
+          {
+            "part": "verb",
+            "variant": "cypher"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cyphers"
+          },
+          {
+            "part": "past tense",
+            "variant": "cyphered"
+          },
+          {
+            "part": "past participle",
+            "variant": "cyphered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cyphering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put (a message) into secret writing; encode."
+          },
+          {
+            "definition": "do arithmetic."
+          }
+        ]
+      }
+    ]
+  }
+]

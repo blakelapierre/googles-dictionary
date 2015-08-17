@@ -1,0 +1,60 @@
+[
+  {
+    "word": "clan",
+    "syllables": [
+      "clan"
+    ],
+    "pronunciation": "klan",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "clan"
+          },
+          {
+            "part": "plural noun",
+            "variant": "clans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a group of close-knit and interrelated families (especially associated with families in the Scottish Highlands).",
+            "examples": [
+              "group of families, sept; Morefamily, house, dynasty, tribe; kinship group \"the Macleod clan\"Morefamily, house, dynasty, tribe; kinship group the Macleod clan"
+            ]
+          },
+          {
+            "definition": "a family, especially a large one.",
+            "examples": [
+              "the Kennedy clan gathered for the celebration"
+            ],
+            "synonyms": [
+              "group of families",
+              "sept; Morefamily",
+              "house",
+              "dynasty",
+              "tribe; kinship group \"the Macleod clan\""
+            ]
+          },
+          {
+            "definition": "a group of people with a strong common interest.",
+            "examples": [
+              "New York's garrulous clan of artists"
+            ],
+            "synonyms": [
+              "group",
+              "set",
+              "circle",
+              "clique",
+              "coterie; Morecrowd",
+              "band; informalgang",
+              "bunch \"a clan of art collectors\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

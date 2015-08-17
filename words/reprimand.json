@@ -1,0 +1,107 @@
+[
+  {
+    "word": "reprimand",
+    "syllables": [
+      "rep",
+      "ri",
+      "mand"
+    ],
+    "pronunciation": "ˈreprəˌmand",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reprimand"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reprimands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rebuke, especially an official one.",
+            "examples": [
+              "rebuke, reproof, admonishment, admonition, reproach, scolding, upbraiding, finger-wagging, censure; Moreinformalrap over the knuckles, slap on the wrist, dressing-down, talking-to, earful, roasting, tongue-lashing; formalcastigation \"they received a severe reprimand\"Morerap over the knuckles, slap on the wrist, dressing-down, talking-to, earful, roasting, tongue-lashing; castigation they received a severe reprimand"
+            ],
+            "antonyms": [
+              "commendation"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reprimand"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reprimands"
+          },
+          {
+            "part": "past tense",
+            "variant": "reprimanded"
+          },
+          {
+            "part": "past participle",
+            "variant": "reprimanded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "reprimanding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "rebuke (someone), especially officially.",
+            "examples": [
+              "officials were dismissed or reprimanded for poor work"
+            ],
+            "synonyms": [
+              "rebuke",
+              "admonish",
+              "chastise",
+              "chide",
+              "upbraid",
+              "reprove",
+              "reproach",
+              "scold",
+              "berate",
+              "take to task",
+              "lambaste",
+              "give someone a piece of one's mind",
+              "rake/haul over the coals",
+              "lecture",
+              "criticize",
+              "censure; Moreinformalcome down on",
+              "give someone a talking-to",
+              "tell off",
+              "dress down",
+              "give someone a dressing-down",
+              "give someone an earful",
+              "give someone a roasting",
+              "rap over the knuckles",
+              "rap",
+              "slap someone's wrist",
+              "bawl out",
+              "lay into",
+              "lace into",
+              "blast",
+              "give someone what for",
+              "chew out",
+              "ream out; formalcastigate \"was it really necessary to reprimand him in public?\""
+            ],
+            "antonyms": [
+              "praise"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

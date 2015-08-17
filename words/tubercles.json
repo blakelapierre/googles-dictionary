@@ -1,0 +1,30 @@
+[
+  {
+    "word": "tubercle",
+    "syllables": [
+      "tu",
+      "ber",
+      "cle"
+    ],
+    "pronunciation": "ˈt(y)o͞obərkəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "tubercles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small rounded projection or protuberance, especially on a bone or on the surface of an animal or plant."
+          },
+          {
+            "definition": "a small nodular lesion in the lungs or other tissues, characteristic of tuberculosis."
+          }
+        ]
+      }
+    ]
+  }
+]

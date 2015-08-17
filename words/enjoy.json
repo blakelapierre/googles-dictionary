@@ -1,0 +1,113 @@
+[
+  {
+    "word": "enjoy",
+    "syllables": [
+      "en",
+      "joy"
+    ],
+    "pronunciation": "inˈjoienˈjoi",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "enjoy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "enjoys"
+          },
+          {
+            "part": "past tense",
+            "variant": "enjoyed"
+          },
+          {
+            "part": "past participle",
+            "variant": "enjoyed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "enjoying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take delight or pleasure in (an activity or occasion).",
+            "examples": [
+              "Joe enjoys reading Icelandic family sagas"
+            ],
+            "synonyms": [
+              "like",
+              "love",
+              "be fond of",
+              "be entertained by",
+              "take pleasure in",
+              "be keen on",
+              "delight in",
+              "appreciate",
+              "relish",
+              "revel in",
+              "adore",
+              "lap up",
+              "savor",
+              "luxuriate in",
+              "bask in; Moreinformalget a kick out of",
+              "get a thrill out of",
+              "dig \"he enjoys playing the piano\""
+            ],
+            "antonyms": [
+              "dislike",
+              "hate"
+            ]
+          },
+          {
+            "definition": "have a pleasant time.",
+            "examples": [
+              "I could never enjoy myself, knowing you were in your room alone"
+            ],
+            "synonyms": [
+              "have fun",
+              "have a good time",
+              "have the time of one's life; Moremake merry",
+              "celebrate",
+              "revel",
+              "disport; informalparty",
+              "love life",
+              "have a ball",
+              "have a whale of a time",
+              "whoop it up",
+              "let one's hair down \"she travels just to enjoy herself\""
+            ]
+          },
+          {
+            "definition": "used to urge someone to take pleasure in what is being offered or is about to happen.",
+            "examples": [
+              "Bake until the filling starts to bubble and the crust turns golden brown. Enjoy!"
+            ]
+          },
+          {
+            "definition": "possess and benefit from.",
+            "examples": [
+              "the security forces enjoy legal immunity from prosecution"
+            ],
+            "synonyms": [
+              "benefit from",
+              "have the benefit of; Morebe blessed with",
+              "be favored with",
+              "be endowed with",
+              "be possessed of",
+              "possess",
+              "own",
+              "boast \"she had always enjoyed good health\""
+            ],
+            "antonyms": [
+              "dislike",
+              "lack"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

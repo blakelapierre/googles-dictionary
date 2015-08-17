@@ -1,0 +1,58 @@
+[
+  {
+    "word": "mutilate",
+    "syllables": [
+      "mu",
+      "ti",
+      "late"
+    ],
+    "pronunciation": "ˈmyo͞odlˌāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "mutilated"
+          },
+          {
+            "part": "past participle",
+            "variant": "mutilated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "inflict a violent and disfiguring injury on.",
+            "examples": [
+              "the leg was badly mutilated"
+            ],
+            "synonyms": [
+              "mangle",
+              "maim",
+              "disfigure",
+              "butcher",
+              "dismember; cripple \"the bodies had been mutilated\""
+            ]
+          },
+          {
+            "definition": "inflict serious damage on.",
+            "examples": [
+              "the 14th-century church had been partly mutilated in the 18th century"
+            ],
+            "synonyms": [
+              "vandalize",
+              "damage",
+              "deface",
+              "ruin",
+              "spoil",
+              "destroy",
+              "wreck",
+              "violate",
+              "desecrate; informaltrash \"the painting was mutilated\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

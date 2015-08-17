@@ -1,0 +1,70 @@
+[
+  {
+    "word": "girl",
+    "syllables": [
+      "girl"
+    ],
+    "pronunciation": "ɡərl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "girl"
+          },
+          {
+            "part": "plural noun",
+            "variant": "girls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a female child.",
+            "examples": [
+              "female child, daughter; Moreschoolgirl; lass, lassie \"a five-year-old girl\"Moreschoolgirl; lass, lassie a five-year-old girl"
+            ]
+          },
+          {
+            "definition": "a person's daughter, especially a young one.",
+            "examples": [
+              "he was devoted to his little girl"
+            ],
+            "synonyms": [
+              "female child",
+              "daughter; Moreschoolgirl; lass",
+              "lassie \"a five-year-old girl\""
+            ]
+          },
+          {
+            "definition": "a young or relatively young woman.",
+            "examples": [
+              "young woman, young lady, miss, mademoiselle; Moreingénue; lass, lassie; informalchick, gal, grrrl, babe; literarymaid, damsel \"he settled down with a nice girl\"Moreingénue; lass, lassie; chick, gal, grrrl, babe; maid, damsel he settled down with a nice girl"
+            ]
+          },
+          {
+            "definition": "a young woman of a specified kind or having a specified job.",
+            "examples": [
+              "a career girl"
+            ]
+          },
+          {
+            "definition": "women who mix socially or belong to a particular group, team, or profession.",
+            "examples": [
+              "I look forward to having lunch with the girls"
+            ]
+          },
+          {
+            "definition": "a person's girlfriend.",
+            "examples": [
+              "his girl eloped with an accountant"
+            ]
+          },
+          {
+            "definition": "a female servant."
+          }
+        ]
+      }
+    ]
+  }
+]

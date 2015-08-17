@@ -1,0 +1,89 @@
+[
+  {
+    "word": "preliminary",
+    "syllables": [
+      "pre",
+      "lim",
+      "i",
+      "nar",
+      "y"
+    ],
+    "pronunciation": "prəˈliməˌnerē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "preliminary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting an action or event preceding or done in preparation for something fuller or more important.",
+            "examples": [
+              "preliminary talks"
+            ],
+            "synonyms": [
+              "preparatory",
+              "introductory",
+              "initial",
+              "opening",
+              "prefatory",
+              "precursory; Moreearly",
+              "exploratory \"the discussions are still at a preliminary stage\""
+            ],
+            "antonyms": [
+              "final"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "preliminary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "preliminaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an action or event preceding or preparing for something fuller or more important.",
+            "examples": [
+              "the bombardment was resumed as a preliminary to an infantry attack"
+            ],
+            "synonyms": [
+              "prelude",
+              "preparation",
+              "preparatory measure",
+              "preliminary action \"a preliminary to the resumption of war\""
+            ]
+          },
+          {
+            "definition": "business or talk, especially of a formulaic or polite nature, taking place before an action or event.",
+            "examples": [
+              "she began speaking, without preliminaries"
+            ],
+            "synonyms": [
+              "introduction",
+              "preamble",
+              "opening/prefatory remarks",
+              "formalities \"he began without any preliminaries\""
+            ]
+          },
+          {
+            "definition": "a preliminary round in a sporting competition."
+          },
+          {
+            "definition": "fuller form of prelims (see prelim (sense 2))."
+          }
+        ]
+      }
+    ]
+  }
+]

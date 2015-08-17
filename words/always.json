@@ -1,0 +1,112 @@
+[
+  {
+    "word": "always",
+    "syllables": [
+      "al",
+      "ways"
+    ],
+    "pronunciation": "ˈôlˌwāz",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "always"
+          },
+          {
+            "part": "adverb",
+            "variant": "alway"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "at all times; on all occasions.",
+            "examples": [
+              "the sun always rises in the east"
+            ],
+            "synonyms": [
+              "every time",
+              "each time",
+              "at all times",
+              "all the time",
+              "without fail",
+              "consistently",
+              "invariably",
+              "regularly",
+              "habitually",
+              "unfailingly \"he's always late\""
+            ],
+            "antonyms": [
+              "never",
+              "seldom",
+              "sometimes"
+            ]
+          },
+          {
+            "definition": "throughout a long period of the past.",
+            "examples": [
+              "she had always been an obstinate sort"
+            ]
+          },
+          {
+            "definition": "for all future time; forever.",
+            "examples": [
+              "she will always be missed"
+            ],
+            "synonyms": [
+              "forever",
+              "for always",
+              "for good (and all)",
+              "forevermore",
+              "for ever and ever",
+              "until the end of time",
+              "eternally",
+              "for eternity",
+              "until hell freezes over; Moreinformalfor keeps",
+              "until the cows come home; archaicfor aye \"the place will always be dear to me\""
+            ],
+            "antonyms": [
+              "never"
+            ]
+          },
+          {
+            "definition": "repeatedly and annoyingly.",
+            "examples": [
+              "she is always making derogatory remarks"
+            ],
+            "synonyms": [
+              "continually",
+              "continuously",
+              "constantly",
+              "forever",
+              "perpetually",
+              "incessantly",
+              "ceaselessly",
+              "unceasingly",
+              "endlessly",
+              "the entire time; informal24-7 \"she's always complaining\""
+            ],
+            "antonyms": [
+              "never",
+              "on and off"
+            ]
+          },
+          {
+            "definition": "as a last resort; failing all else.",
+            "examples": [
+              "if the marriage doesn't work out, we can always get divorced"
+            ],
+            "synonyms": [
+              "as a last resort",
+              "no matter what",
+              "in any event",
+              "in any case",
+              "come what may \"you can always take it back to the shop\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

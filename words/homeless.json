@@ -1,0 +1,51 @@
+[
+  {
+    "word": "homeless",
+    "syllables": [
+      "home",
+      "less"
+    ],
+    "pronunciation": "ˈhōmləs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "homeless"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) without a home, and therefore typically living on the streets.",
+            "examples": [
+              "the plight of young homeless people"
+            ],
+            "synonyms": [
+              "of no fixed address",
+              "without a roof over one's head",
+              "on the streets",
+              "vagrant",
+              "displaced",
+              "dispossessed",
+              "destitute",
+              "down-and-out More\"homeless people\"people of no fixed address",
+              "vagrants",
+              "down-and-outs",
+              "street people",
+              "tramps",
+              "vagabonds",
+              "itinerants",
+              "transients",
+              "migrants",
+              "derelicts",
+              "drifters",
+              "hoboes; informalbag ladies",
+              "bums \"charities for the homeless\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "word": "whatever",
+    "syllables": [
+      "what",
+      "ev",
+      "er"
+    ],
+    "pronunciation": "(h)wətˈevər",
+    "parts": [
+      {
+        "part": "pronoun & determiner",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "whatever"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to emphasize a lack of restriction in referring to any thing or amount, no matter what.",
+            "examples": [
+              "do whatever you like"
+            ]
+          },
+          {
+            "definition": "regardless of what.",
+            "examples": [
+              "you have our support, whatever you decide"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "whatever"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used for emphasis instead of “what” in questions, typically expressing surprise or confusion.",
+            "examples": [
+              "whatever is the matter?"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "whatever"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "at all; of any kind (used for emphasis).",
+            "examples": [
+              "they received no help whatever"
+            ]
+          },
+          {
+            "definition": "no matter what happens.",
+            "examples": [
+              "we told him we'd back him whatever"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamation",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "whatever"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "said as a response indicating a reluctance to discuss something, implying indifference, skepticism, or exasperation.",
+            "examples": [
+              "Joseph's commentary amounted to “Yeah, well. Whatever.”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

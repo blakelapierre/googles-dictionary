@@ -1,0 +1,118 @@
+[
+  {
+    "word": "all",
+    "syllables": [
+      "all"
+    ],
+    "pronunciation": "ôl",
+    "parts": [
+      {
+        "part": "predeterminer, determiner, & pronoun",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "all"
+          },
+          {
+            "part": "pronoun",
+            "variant": "all"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to refer to the whole quantity or extent of a particular group or thing.",
+            "examples": [
+              "all the people I met"
+            ],
+            "synonyms": [
+              "everyone",
+              "everybody",
+              "each person",
+              "every person More\"all are welcome\"each one",
+              "the sum",
+              "the total",
+              "the whole lot \"all of the cups were broken\"everything",
+              "every part",
+              "the whole amount",
+              "the (whole) lot",
+              "the entirety \"they took all of it\""
+            ],
+            "antonyms": [
+              "none",
+              "nobody",
+              "nothing"
+            ]
+          },
+          {
+            "definition": "any whatever.",
+            "examples": [
+              "assured beyond all doubt"
+            ]
+          },
+          {
+            "definition": "used to emphasize the greatest possible amount of a quality.",
+            "examples": [
+              "they were in all probability completely unaware"
+            ]
+          },
+          {
+            "definition": "dominated by a particular feature or characteristic.",
+            "examples": [
+              "an eleven-year-old string bean, all elbows and knees"
+            ]
+          },
+          {
+            "definition": "the only thing (used for emphasis).",
+            "examples": [
+              "all I want is to be left alone"
+            ]
+          },
+          {
+            "definition": "(used to refer to surroundings or a situation in general) everything.",
+            "examples": [
+              "all was well"
+            ]
+          },
+          {
+            "definition": "used to indicate more than one person or thing.",
+            "examples": [
+              "a team of specialists who all know the patient"
+            ]
+          },
+          {
+            "definition": "consumed; finished; gone.",
+            "examples": [
+              "the cake is all"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "all"
+          },
+          {
+            "part": "plural noun",
+            "variant": "alls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the whole of one's possessions, energy, or interest.",
+            "examples": [
+              "giving their all for what they believed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

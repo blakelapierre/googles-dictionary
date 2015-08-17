@@ -1,0 +1,150 @@
+[
+  {
+    "word": "healing",
+    "syllables": [
+      "heal",
+      "ing"
+    ],
+    "pronunciation": "ˈhēliNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "healing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of making or becoming sound or healthy again.",
+            "examples": [
+              "the gift of healing"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "healing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tending to heal; therapeutic.",
+            "examples": [
+              "a healing experience"
+            ],
+            "synonyms": [
+              "alleviate",
+              "ease",
+              "assuage",
+              "palliate",
+              "relieve",
+              "help",
+              "lessen",
+              "mitigate",
+              "attenuate",
+              "allay \"time will heal the pain of grief\""
+            ],
+            "antonyms": [
+              "aggravate"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "heal",
+    "syllables": [
+      "heal"
+    ],
+    "pronunciation": "hēl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "healing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or treatment) cause (a wound, injury, or person) to become sound or healthy again.",
+            "examples": [
+              "his concern is to heal sick people"
+            ],
+            "synonyms": [
+              "make better",
+              "make well",
+              "cure",
+              "treat",
+              "restore to health More\"he heals sick people\"curative",
+              "therapeutic",
+              "medicinal",
+              "remedial",
+              "corrective",
+              "reparative; tonic",
+              "restorative",
+              "health-giving",
+              "healthful",
+              "beneficial \"the healing properties of aloe\""
+            ],
+            "antonyms": [
+              "make worse",
+              "harmful"
+            ]
+          },
+          {
+            "definition": "become sound or healthy again.",
+            "examples": [
+              "he would have to wait until his knee had healed"
+            ],
+            "synonyms": [
+              "get better",
+              "get well",
+              "be cured",
+              "recover",
+              "mend",
+              "improve \"his knee had healed\""
+            ],
+            "antonyms": [
+              "get worse"
+            ]
+          },
+          {
+            "definition": "alleviate (a person's distress or anguish).",
+            "examples": [
+              "time can heal the pain of grief"
+            ]
+          },
+          {
+            "definition": "correct or put right (an undesirable situation).",
+            "examples": [
+              "the rift between them was never really healed"
+            ],
+            "synonyms": [
+              "put right",
+              "set right",
+              "repair",
+              "remedy",
+              "resolve",
+              "correct",
+              "settle; Moreconciliate",
+              "reconcile",
+              "harmonize; informalpatch up \"we tried to heal the rift\""
+            ],
+            "antonyms": [
+              "worsen"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

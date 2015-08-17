@@ -1,0 +1,27 @@
+[
+  {
+    "word": "arthropod",
+    "syllables": [
+      "ar",
+      "thro",
+      "pod"
+    ],
+    "pronunciation": "ˈärTHrəˌpäd",
+    "parts": [
+      {
+        "part": "nounZoology",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "arthropods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an invertebrate animal of the large phylum Arthropoda, such as an insect, spider, or crustacean."
+          }
+        ]
+      }
+    ]
+  }
+]

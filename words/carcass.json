@@ -1,0 +1,72 @@
+[
+  {
+    "word": "carcass",
+    "syllables": [
+      "car",
+      "cass"
+    ],
+    "pronunciation": "ˈkärkəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "carcass"
+          },
+          {
+            "part": "plural noun",
+            "variant": "carcasses"
+          },
+          {
+            "part": "noun",
+            "variant": "carcase"
+          },
+          {
+            "part": "plural noun",
+            "variant": "carcases"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the dead body of an animal.",
+            "examples": [
+              "corpse, dead body, body, remains; Morecadaver; informalstiff, roadkill; archaiccorse \"a mule carcass\"Morecadaver; stiff, roadkill; corse a mule carcass"
+            ]
+          },
+          {
+            "definition": "the trunk of an animal such as a cow, sheep, or pig, for cutting up as meat.",
+            "examples": [
+              "corpse, dead body, body, remains; Morecadaver; informalstiff, roadkill; archaiccorse \"a mule carcass\"Morecadaver; stiff, roadkill; corse a mule carcass"
+            ]
+          },
+          {
+            "definition": "the remains of a cooked bird after all the edible parts have been removed."
+          },
+          {
+            "definition": "a person's body, living or dead.",
+            "examples": [
+              "my obsession will last while there's life in this old carcass"
+            ],
+            "synonyms": [
+              "corpse",
+              "dead body",
+              "body",
+              "remains; Morecadaver; informalstiff",
+              "roadkill; archaiccorse \"a mule carcass\""
+            ]
+          },
+          {
+            "definition": "the structural framework of a building, ship, or piece of furniture."
+          },
+          {
+            "definition": "the remains of something being discarded, dismembered, or worthless.",
+            "examples": [
+              "the floor is littered with the carcasses of newspapers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

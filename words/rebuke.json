@@ -1,0 +1,100 @@
+[
+  {
+    "word": "rebuke",
+    "syllables": [
+      "re",
+      "buke"
+    ],
+    "pronunciation": "rəˈbyo͞ok",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rebuke"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rebukes"
+          },
+          {
+            "part": "past tense",
+            "variant": "rebuked"
+          },
+          {
+            "part": "past participle",
+            "variant": "rebuked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rebuking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express sharp disapproval or criticism of (someone) because of their behavior or actions.",
+            "examples": [
+              "she had rebuked him for drinking too much"
+            ],
+            "synonyms": [
+              "reprimand",
+              "reproach",
+              "scold",
+              "admonish",
+              "reprove",
+              "chastise",
+              "upbraid",
+              "berate",
+              "take to task",
+              "criticize",
+              "censure; Moreinformaltell off",
+              "give someone a talking-to",
+              "give someone a dressing-down",
+              "give someone an earful",
+              "chew out",
+              "ream out; formalcastigate \"she never rebuked him in front of others\""
+            ],
+            "antonyms": [
+              "praise"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rebuke"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rebukes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an expression of sharp disapproval or criticism.",
+            "examples": [
+              "he hadn't meant it as a rebuke, but Neil flinched"
+            ],
+            "synonyms": [
+              "reprimand",
+              "reproach",
+              "reproof",
+              "scolding",
+              "admonishment",
+              "admonition",
+              "upbraiding",
+              "finger-wagging; Moreinformaldressing-down; formalcastigation \"Damian was silenced by the rebuke\""
+            ],
+            "antonyms": [
+              "compliment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

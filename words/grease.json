@@ -1,0 +1,63 @@
+[
+  {
+    "word": "grease",
+    "syllables": [
+      "grease"
+    ],
+    "pronunciation": "ɡrēsɡrēsɡrēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "ɡrēs/",
+            "variant": ""
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "oily or fatty matter, in particular."
+          },
+          {
+            "definition": "a thick oily substance used as a lubricant.",
+            "examples": [
+              "noun: grease"
+            ]
+          },
+          {
+            "definition": "oil or fat used or produced in cooking.",
+            "examples": [
+              "fat, oil, cooking oil, animal fat; Morelard, suet \"the kitchen was filmed with grease\"Morelard, suet the kitchen was filmed with grease"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "grease"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "greases"
+          },
+          {
+            "part": "past tense",
+            "variant": "greased"
+          },
+          {
+            "part": "past participle",
+            "variant": "greased"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "greasing"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

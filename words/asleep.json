@@ -1,0 +1,74 @@
+[
+  {
+    "word": "asleep",
+    "syllables": [
+      "a",
+      "sleep"
+    ],
+    "pronunciation": "əˈslēp",
+    "parts": [
+      {
+        "part": "adjective & adverb",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "asleep"
+          },
+          {
+            "part": "adverb",
+            "variant": "asleep"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in or into a state of sleep.",
+            "examples": [
+              "she had been asleep for over three hours"
+            ],
+            "synonyms": [
+              "sleeping",
+              "in a deep sleep",
+              "napping",
+              "catnapping",
+              "dozing",
+              "drowsing; Moreinformalsnoozing",
+              "catching some Zs",
+              "zonked",
+              "hibernating",
+              "dead to the world",
+              "comatose",
+              "in the land of Nod",
+              "in the arms of Morpheus; literaryslumbering \"she was asleep in bed\""
+            ],
+            "antonyms": [
+              "awake"
+            ]
+          },
+          {
+            "definition": "not attentive or alert; inactive.",
+            "examples": [
+              "the competition was not asleep"
+            ]
+          },
+          {
+            "definition": "(of a limb) having no feeling; numb.",
+            "examples": [
+              "his legs were asleep"
+            ],
+            "synonyms": [
+              "numb",
+              "with no feeling",
+              "numbed",
+              "benumbed",
+              "dead",
+              "insensible; raretorpefied \"my leg's asleep\""
+            ]
+          },
+          {
+            "definition": "used euphemistically to say that someone is dead."
+          }
+        ]
+      }
+    ]
+  }
+]

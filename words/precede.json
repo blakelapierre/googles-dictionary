@@ -1,0 +1,99 @@
+[
+  {
+    "word": "precede",
+    "syllables": [
+      "pre",
+      "cede"
+    ],
+    "pronunciation": "prəˈsēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "precede"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "precedes"
+          },
+          {
+            "part": "past tense",
+            "variant": "preceded"
+          },
+          {
+            "part": "past participle",
+            "variant": "preceded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "preceding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come before (something) in time.",
+            "examples": [
+              "a gun battle had preceded the explosions"
+            ],
+            "synonyms": [
+              "go/come before",
+              "lead (up) to",
+              "pave/prepare the way for",
+              "herald",
+              "introduce",
+              "usher in \"commercials preceded the movie\""
+            ],
+            "antonyms": [
+              "follow"
+            ]
+          },
+          {
+            "definition": "come before in order or position.",
+            "examples": [
+              "take time to read the chapters that precede the recipes"
+            ],
+            "synonyms": [
+              "foregoing",
+              "previous",
+              "prior",
+              "former",
+              "precedent",
+              "earlier",
+              "above",
+              "aforementioned",
+              "antecedent; Moreformalanterior",
+              "prevenient \"refer to the preceding chart\""
+            ]
+          },
+          {
+            "definition": "go in front or ahead of.",
+            "examples": [
+              "he let her precede him through the gate"
+            ],
+            "synonyms": [
+              "go ahead of",
+              "go in front of",
+              "go before",
+              "go first",
+              "lead the way \"Catherine preceded him into the studio\""
+            ]
+          },
+          {
+            "definition": "preface or introduce something with.",
+            "examples": [
+              "he preceded the book with a collection of poems"
+            ],
+            "synonyms": [
+              "preface",
+              "introduce",
+              "begin",
+              "open \"he preceded the book with a poem\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

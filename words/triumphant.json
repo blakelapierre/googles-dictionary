@@ -1,0 +1,64 @@
+[
+  {
+    "word": "triumphant",
+    "syllables": [
+      "tri",
+      "um",
+      "phant"
+    ],
+    "pronunciation": "trīˈəmfənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "triumphant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having won a battle or contest; victorious.",
+            "examples": [
+              "the triumphant winner rose from his seat"
+            ],
+            "synonyms": [
+              "victorious",
+              "successful",
+              "winning",
+              "conquering",
+              "all-conquering; Moreundefeated",
+              "unbeaten \"the triumphant Swedish team\""
+            ],
+            "antonyms": [
+              "unsuccessful",
+              "defeated"
+            ]
+          },
+          {
+            "definition": "feeling or expressing jubilation after having won a victory or mastered a difficulty.",
+            "examples": [
+              "he couldn't suppress a triumphant smile"
+            ],
+            "synonyms": [
+              "jubilant",
+              "exultant",
+              "elated",
+              "rejoicing",
+              "joyful",
+              "joyous",
+              "delighted",
+              "gleeful",
+              "proud",
+              "gloating \"a triumphant expression\""
+            ],
+            "antonyms": [
+              "disappointed",
+              "despondent"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

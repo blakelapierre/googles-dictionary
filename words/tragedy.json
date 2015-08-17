@@ -1,0 +1,59 @@
+[
+  {
+    "word": "tragedy",
+    "syllables": [
+      "trag",
+      "e",
+      "dy"
+    ],
+    "pronunciation": "ˈtrajədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tragedy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tragedies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an event causing great suffering, destruction, and distress, such as a serious accident, crime, or natural catastrophe.",
+            "examples": [
+              "a tragedy that killed 95 people"
+            ],
+            "synonyms": [
+              "disaster",
+              "calamity",
+              "catastrophe",
+              "cataclysm",
+              "misfortune",
+              "mishap",
+              "blow",
+              "trial",
+              "tribulation",
+              "affliction",
+              "adversity \"the flood was the worst tragedy in the city's history\""
+            ]
+          },
+          {
+            "definition": "a play dealing with tragic events and having an unhappy ending, especially one concerning the downfall of the main character.",
+            "examples": [
+              "disaster, calamity, catastrophe, cataclysm, misfortune, mishap, blow, trial, tribulation, affliction, adversity the flood was the worst tragedy in the city's history"
+            ]
+          },
+          {
+            "definition": "the dramatic genre represented by tragedy.",
+            "examples": [
+              "Greek tragedy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

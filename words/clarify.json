@@ -1,0 +1,65 @@
+[
+  {
+    "word": "clarify",
+    "syllables": [
+      "clar",
+      "i",
+      "fy"
+    ],
+    "pronunciation": "ˈklerəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "clarify"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "clarifies"
+          },
+          {
+            "part": "past tense",
+            "variant": "clarified"
+          },
+          {
+            "part": "past participle",
+            "variant": "clarified"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "clarifying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a statement or situation) less confused and more clearly comprehensible.",
+            "examples": [
+              "the report managed to clarify the government's position"
+            ],
+            "synonyms": [
+              "make clear",
+              "shed/throw light on",
+              "elucidate",
+              "illuminate; Moreexplain",
+              "explicate",
+              "define",
+              "spell out",
+              "clear up \"their report clarified the situation\""
+            ],
+            "antonyms": [
+              "confuse"
+            ]
+          },
+          {
+            "definition": "melt (butter) in order to separate out the impurities.",
+            "examples": [
+              "purify, refine; Morefilter, fine \"clarify the butter\"Morefilter, fine clarify the butter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

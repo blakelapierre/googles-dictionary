@@ -1,0 +1,160 @@
+[
+  {
+    "word": "magic",
+    "syllables": [
+      "mag",
+      "ic"
+    ],
+    "pronunciation": "ˈmajik",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "magic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the power of apparently influencing the course of events by using mysterious or supernatural forces.",
+            "examples": [
+              "do you believe in magic?"
+            ],
+            "synonyms": [
+              "sorcery",
+              "witchcraft",
+              "wizardry",
+              "necromancy",
+              "enchantment",
+              "the supernatural",
+              "occultism",
+              "the occult",
+              "black magic",
+              "the black arts",
+              "voodoo",
+              "hoodoo",
+              "mojo",
+              "shamanism; Morecharm",
+              "hex",
+              "spell",
+              "jinx; pixie dust",
+              "fairy dust \"do you believe in magic?\""
+            ]
+          },
+          {
+            "definition": "mysterious tricks, such as making things disappear and appear again, performed as entertainment.",
+            "examples": [
+              "conjuring tricks, sleight of hand, legerdemain, illusion, prestidigitation he does magic at children's parties"
+            ]
+          },
+          {
+            "definition": "a quality that makes something seem removed from everyday life, especially in a way that gives delight.",
+            "examples": [
+              "the magic of the theater"
+            ],
+            "synonyms": [
+              "allure",
+              "attraction",
+              "excitement",
+              "fascination",
+              "charm",
+              "glamour \"the magic of the stage\""
+            ]
+          },
+          {
+            "definition": "something that has a delightfully unusual quality.",
+            "examples": [
+              "their seaside town is pure magic"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "magic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used in magic or working by magic; having or apparently having supernatural powers.",
+            "examples": [
+              "a magic wand"
+            ],
+            "synonyms": [
+              "supernatural",
+              "enchanted",
+              "occult \"a magic spell\""
+            ]
+          },
+          {
+            "definition": "very effective in producing results, especially desired ones.",
+            "examples": [
+              "confidence is the magic ingredient needed to spark recovery"
+            ]
+          },
+          {
+            "definition": "wonderful; exciting.",
+            "examples": [
+              "what a magic moment"
+            ],
+            "synonyms": [
+              "fascinating",
+              "captivating",
+              "charming",
+              "glamorous",
+              "magical",
+              "enchanting",
+              "entrancing",
+              "spellbinding",
+              "magnetic",
+              "irresistible",
+              "hypnotic More\"a magic place\"marvelous",
+              "wonderful",
+              "excellent",
+              "admirable; informalterrific",
+              "fabulous",
+              "brilliant \"we were magic together\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "magic"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "magics"
+          },
+          {
+            "part": "past tense",
+            "variant": "magicked"
+          },
+          {
+            "part": "past participle",
+            "variant": "magicked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "magicking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move, change, or create by or as if by magic.",
+            "examples": [
+              "he must have been magicked out of the car at the precise second it exploded"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

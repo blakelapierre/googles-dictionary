@@ -1,0 +1,32 @@
+[
+  {
+    "word": "overgarment",
+    "syllables": [
+      "o",
+      "ver",
+      "gar",
+      "ment"
+    ],
+    "pronunciation": "ˈōvərˌɡärmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "overgarment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "overgarments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a garment that is worn over others."
+          }
+        ]
+      }
+    ]
+  }
+]

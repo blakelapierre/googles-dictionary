@@ -1,0 +1,30 @@
+[
+  {
+    "word": "biomass",
+    "syllables": [
+      "bi",
+      "o",
+      "mass"
+    ],
+    "pronunciation": "ˈbīōˌmas",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "biomass"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the total mass of organisms in a given area or volume."
+          },
+          {
+            "definition": "organic matter used as a fuel, especially in a power station for the generation of electricity."
+          }
+        ]
+      }
+    ]
+  }
+]

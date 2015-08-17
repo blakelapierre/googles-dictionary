@@ -1,0 +1,85 @@
+[
+  {
+    "word": "ignore",
+    "syllables": [
+      "ig",
+      "nore"
+    ],
+    "pronunciation": "iɡˈnôr",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ignore"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ignores"
+          },
+          {
+            "part": "past tense",
+            "variant": "ignored"
+          },
+          {
+            "part": "past participle",
+            "variant": "ignored"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "ignoring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "refuse to take notice of or acknowledge; disregard intentionally.",
+            "examples": [
+              "he ignored her outraged question"
+            ],
+            "synonyms": [
+              "disregard",
+              "take no notice of",
+              "pay no attention to",
+              "pay no heed to; Moreturn a blind eye to",
+              "turn a deaf ear to",
+              "tune out \"he ignored the customers\"snub",
+              "slight",
+              "spurn",
+              "shun",
+              "disdain",
+              "look right through",
+              "pass over",
+              "look past; informalgive someone the brush-off",
+              "give someone the cold shoulder \"he was ignored by the journalists\"set aside",
+              "pay no attention to",
+              "take no account of; break",
+              "contravene",
+              "fail to comply with",
+              "fail to observe",
+              "disregard",
+              "disobey",
+              "breach",
+              "defy",
+              "flout; informalpooh-pooh \"doctors ignored her husband's instructions\""
+            ],
+            "antonyms": [
+              "pay attention to",
+              "acknowledge",
+              "obey"
+            ]
+          },
+          {
+            "definition": "fail to consider (something significant).",
+            "examples": [
+              "direct satellite broadcasting ignores national boundaries"
+            ]
+          },
+          {
+            "definition": "(of a grand jury) reject (an indictment) as groundless."
+          }
+        ]
+      }
+    ]
+  }
+]

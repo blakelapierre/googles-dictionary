@@ -1,0 +1,95 @@
+[
+  {
+    "word": "smoke",
+    "syllables": [
+      "smoke"
+    ],
+    "pronunciation": "smōk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "smoked"
+          },
+          {
+            "part": "past participle",
+            "variant": "smoked"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "emit smoke or visible vapor.",
+            "examples": [
+              "heat the oil until it just smokes"
+            ],
+            "synonyms": [
+              "smolder",
+              "emit smoke; archaicreek \"the fire was smoking\""
+            ]
+          },
+          {
+            "definition": "inhale and exhale the smoke of tobacco or a drug.",
+            "examples": [
+              "Janine was sitting at the kitchen table smoking"
+            ],
+            "synonyms": [
+              "puff on",
+              "draw on",
+              "pull on; Moreinhale; light; informaldrag on",
+              "toke \"he smoked his cigarette\""
+            ]
+          },
+          {
+            "definition": "cure or preserve (meat or fish) by exposure to smoke.",
+            "examples": [
+              "smoked salmon"
+            ],
+            "synonyms": [
+              "cure",
+              "preserve",
+              "dry \"they smoke their salmon\""
+            ]
+          },
+          {
+            "definition": "treat (glass) so as to darken it.",
+            "examples": [
+              "the smoked glass of his lenses"
+            ]
+          },
+          {
+            "definition": "fumigate, cleanse, or purify by exposure to smoke."
+          },
+          {
+            "definition": "subdue (insects, especially bees) by exposing them to smoke."
+          },
+          {
+            "definition": "drive someone or something out of a place by using smoke.",
+            "examples": [
+              "we will fire the roof and smoke him out"
+            ]
+          },
+          {
+            "definition": "force someone to make something known.",
+            "examples": [
+              "as the press smokes him out on other human rights issues, he will be revealed as a social conservative"
+            ]
+          },
+          {
+            "definition": "kill (someone) by shooting."
+          },
+          {
+            "definition": "defeat overwhelmingly in a fight or contest."
+          },
+          {
+            "definition": "make fun of (someone).",
+            "examples": [
+              "we baited her and smoked her"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

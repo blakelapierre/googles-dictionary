@@ -1,0 +1,44 @@
+[
+  {
+    "word": "donate",
+    "syllables": [
+      "do",
+      "nate"
+    ],
+    "pronunciation": "ˈdōˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "donating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give (money or goods) for a good cause, for example to a charity.",
+            "examples": [
+              "the proceeds will be donated to an AIDS awareness charity"
+            ],
+            "synonyms": [
+              "give",
+              "give/make a donation of",
+              "contribute",
+              "make a contribution of",
+              "gift",
+              "pledge",
+              "grant",
+              "bestow; Moreinformalchip in",
+              "pitch in",
+              "kick in \"the proceeds were donated to the American Red Cross\""
+            ]
+          },
+          {
+            "definition": "allow the removal of (blood or an organ) from one's body for transplantation, transfusion, or other use."
+          }
+        ]
+      }
+    ]
+  }
+]

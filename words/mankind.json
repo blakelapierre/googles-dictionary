@@ -1,0 +1,43 @@
+[
+  {
+    "word": "mankind",
+    "syllables": [
+      "man",
+      "kind"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mankind"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "human beings considered collectively; the human race.",
+            "examples": [
+              "research for the benefit of all mankind"
+            ],
+            "synonyms": [
+              "the human race",
+              "man",
+              "humanity",
+              "human beings",
+              "humans",
+              "Homo sapiens",
+              "humankind",
+              "people",
+              "men and women \"for the good of all mankind\""
+            ]
+          },
+          {
+            "definition": "men, as distinct from women."
+          }
+        ]
+      }
+    ]
+  }
+]

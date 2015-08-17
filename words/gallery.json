@@ -1,0 +1,64 @@
+[
+  {
+    "word": "gallery",
+    "syllables": [
+      "gal",
+      "ler",
+      "y"
+    ],
+    "pronunciation": "ˈɡal(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gallery"
+          },
+          {
+            "part": "plural noun",
+            "variant": "galleries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a room or building for the display or sale of works of art.",
+            "examples": [
+              "museum; Moreexhibition room, display room \"the art gallery\"Moreexhibition room, display room the art gallery"
+            ]
+          },
+          {
+            "definition": "a collection of pictures."
+          },
+          {
+            "definition": "a balcony, especially a platform or upper floor, projecting from the back or sidewall inside a church or hall, providing space for an audience or musicians."
+          },
+          {
+            "definition": "the highest balconies in a theater, containing the cheapest seats.",
+            "examples": [
+              "noun: the gallery"
+            ],
+            "synonyms": [
+              "balcony",
+              "circle",
+              "dress circle",
+              "loges; informalgods \"they sat up in the gallery\""
+            ]
+          },
+          {
+            "definition": "a group of spectators, especially those at a golf tournament."
+          },
+          {
+            "definition": "a long room or passage, typically one that is partly open at the side to form a portico or colonnade.",
+            "examples": [
+              "passage, passageway, corridor, walkway, arcade a long gallery with doors along each side"
+            ]
+          },
+          {
+            "definition": "a horizontal underground passage, especially in a mine."
+          }
+        ]
+      }
+    ]
+  }
+]

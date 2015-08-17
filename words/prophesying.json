@@ -1,0 +1,38 @@
+[
+  {
+    "word": "prophesy",
+    "syllables": [
+      "proph",
+      "e",
+      "sy"
+    ],
+    "pronunciation": "ˈpräfəˌsī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "prophesying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "say that (a specified thing) will happen in the future.",
+            "examples": [
+              "Jacques was prophesying a bumper harvest"
+            ],
+            "synonyms": [
+              "predict",
+              "foretell",
+              "forecast",
+              "foresee",
+              "forewarn of",
+              "prognosticate \"did those mystical sages ever prophesy anything other than calamity?\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

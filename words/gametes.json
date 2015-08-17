@@ -1,0 +1,26 @@
+[
+  {
+    "word": "gamete",
+    "syllables": [
+      "gam",
+      "ete"
+    ],
+    "pronunciation": "ˈɡamētɡəˈmēt",
+    "parts": [
+      {
+        "part": "nounBiology",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "gametes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mature haploid male or female germ cell that is able to unite with another of the opposite sex in sexual reproduction to form a zygote."
+          }
+        ]
+      }
+    ]
+  }
+]

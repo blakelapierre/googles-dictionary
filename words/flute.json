@@ -1,0 +1,110 @@
+[
+  {
+    "word": "flute",
+    "syllables": [
+      "flute"
+    ],
+    "pronunciation": "flo͞ot",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "flute"
+          },
+          {
+            "part": "plural noun",
+            "variant": "flutes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a wind instrument made from a tube with holes along it that are stopped by the fingers or keys, held vertically or horizontally so that the player's breath strikes a narrow edge. The modern orchestral form, typically made of metal, is held horizontally and has an elaborate set of keys."
+          },
+          {
+            "definition": "an organ stop with wooden or metal flue pipes producing a similar tone."
+          },
+          {
+            "definition": "an ornamental vertical groove in a column."
+          },
+          {
+            "definition": "a trumpet-shaped frill on a dress or other garment."
+          },
+          {
+            "definition": "a cylindrical groove, as on pastry."
+          },
+          {
+            "definition": "a tall, narrow wine glass.",
+            "examples": [
+              "a flute of champagne"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "flute"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "flutes"
+          },
+          {
+            "part": "past tense",
+            "variant": "fluted"
+          },
+          {
+            "part": "past participle",
+            "variant": "fluted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fluting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "speak in a melodious way reminiscent of the sound of a flute.",
+            "examples": [
+              "“What do you do?” she fluted"
+            ]
+          },
+          {
+            "definition": "play, or seem to play, a flute or pipe.",
+            "examples": [
+              "to him who sat upon the rocks, and fluted to the morning sea"
+            ]
+          },
+          {
+            "definition": "make flutes or grooves in.",
+            "examples": [
+              "fluted columns"
+            ],
+            "synonyms": [
+              "grooved",
+              "channeled",
+              "furrowed",
+              "ribbed",
+              "corrugated",
+              "ridged \"a roof supported by fluted columns\""
+            ],
+            "antonyms": [
+              "smooth",
+              "plain"
+            ]
+          },
+          {
+            "definition": "make trumpet-shaped frills on (a garment).",
+            "examples": [
+              "a fluted collar"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

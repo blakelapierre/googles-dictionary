@@ -1,0 +1,49 @@
+[
+  {
+    "word": "squeak",
+    "syllables": [
+      "squeak"
+    ],
+    "pronunciation": "skwēk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "squeaking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a high-pitched sound or cry.",
+            "examples": [
+              "he oiled the hinges to stop them from squeaking"
+            ]
+          },
+          {
+            "definition": "say something in a nervous or excited high-pitched tone.",
+            "examples": [
+              "“You're scaring me,” she squeaked"
+            ]
+          },
+          {
+            "definition": "inform on someone."
+          },
+          {
+            "definition": "succeed in achieving something by a very narrow margin.",
+            "examples": [
+              "the bill squeaked through with just six votes to spare"
+            ]
+          },
+          {
+            "definition": "make or have just enough money for basic necessities.",
+            "examples": [
+              "she was squeaking by on her minimum-wage job"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

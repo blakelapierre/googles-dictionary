@@ -1,0 +1,103 @@
+[
+  {
+    "word": "remember",
+    "syllables": [
+      "re",
+      "mem",
+      "ber"
+    ],
+    "pronunciation": "rəˈmembər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "remembers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have in or be able to bring to one's mind an awareness of (someone or something that one has seen, known, or experienced in the past).",
+            "examples": [
+              "I remember the screech of the horn as the car came toward me"
+            ],
+            "synonyms": [
+              "recall",
+              "call to mind",
+              "recollect",
+              "think of; Morereminisce about",
+              "look back on; archaicbethink oneself of \"she remembered all those happy times she had spent with them\"bear/keep in mind",
+              "be mindful of the fact; take into account",
+              "take into consideration \"you must remember that she's only five\""
+            ],
+            "antonyms": [
+              "forget",
+              "overlook"
+            ]
+          },
+          {
+            "definition": "do something that one has undertaken to do or that is necessary or advisable.",
+            "examples": [
+              "did you remember to mail the letters?"
+            ],
+            "synonyms": [
+              "be sure",
+              "be certain; Moremind that you",
+              "make sure that you \"remember to feed the cat\""
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "used to emphasize the importance of what is asserted.",
+            "examples": [
+              "you must remember that this is a secret"
+            ]
+          },
+          {
+            "definition": "bear (someone) in mind by making them a gift or making provision for them.",
+            "examples": [
+              "he has remembered the boy in a codicil to his will"
+            ],
+            "synonyms": [
+              "bequeath something to",
+              "leave something to",
+              "bestow something on \"she remembered them in her will\""
+            ]
+          },
+          {
+            "definition": "convey greetings from one person to (another).",
+            "examples": [
+              "remember me to Charlie"
+            ],
+            "synonyms": [
+              "send one's best wishes",
+              "send one's regards",
+              "give one's love",
+              "send one's compliments",
+              "say hello \"remember me to Alice\""
+            ]
+          },
+          {
+            "definition": "pray for the success or well-being of.",
+            "examples": [
+              "the congress should be remembered in our prayers"
+            ],
+            "synonyms": [
+              "commemorate",
+              "pay tribute to",
+              "honor",
+              "salute",
+              "pay homage to \"the nation remembered those who gave their lives\""
+            ]
+          },
+          {
+            "definition": "recover one's manners after a lapse."
+          }
+        ]
+      }
+    ]
+  }
+]

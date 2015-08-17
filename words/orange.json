@@ -1,0 +1,70 @@
+[
+  {
+    "word": "orange",
+    "syllables": [
+      "or",
+      "ange"
+    ],
+    "pronunciation": "ˈôrənjˈärənj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "orange"
+          },
+          {
+            "part": "plural noun",
+            "variant": "oranges"
+          },
+          {
+            "part": "noun",
+            "variant": "orange tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "orange trees"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a round juicy citrus fruit with a tough bright reddish-yellow rind."
+          },
+          {
+            "definition": "a drink made from or flavored with orange.",
+            "examples": [
+              "a vodka and orange"
+            ]
+          },
+          {
+            "definition": "the leathery-leaved evergreen tree that bears the orange, native to warm regions of south and Southeast Asia. Oranges are a major commercial crop in many warm regions of the world."
+          },
+          {
+            "definition": "used in names of other plants with fruit or flowers similar to the orange, e.g., mock orange."
+          },
+          {
+            "definition": "a bright reddish-yellow color like that of the skin of a ripe orange."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "orange"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reddish yellow, like a ripe orange in color.",
+            "examples": [
+              "an orange glow in the sky"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

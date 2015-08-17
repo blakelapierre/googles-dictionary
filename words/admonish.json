@@ -1,0 +1,86 @@
+[
+  {
+    "word": "admonish",
+    "syllables": [
+      "ad",
+      "mon",
+      "ish"
+    ],
+    "pronunciation": "ədˈmäniSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "admonish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "admonishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "admonished"
+          },
+          {
+            "part": "past participle",
+            "variant": "admonished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "admonishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "warn or reprimand someone firmly.",
+            "examples": [
+              "she admonished me for appearing at breakfast unshaven"
+            ],
+            "synonyms": [
+              "reprimand",
+              "rebuke",
+              "scold",
+              "reprove",
+              "reproach",
+              "upbraid",
+              "chastise",
+              "chide",
+              "berate",
+              "criticize",
+              "take to task",
+              "read the riot act to",
+              "rake/haul over the coals; Moredress down",
+              "bawl out",
+              "rap over the knuckles",
+              "give someone hell; chew out; formalcastigate; rarereprehend \"he was severely admonished by his father\""
+            ]
+          },
+          {
+            "definition": "advise or urge (someone) earnestly.",
+            "examples": [
+              "she admonished him to drink no more than one glass of wine"
+            ],
+            "synonyms": [
+              "advise",
+              "recommend",
+              "counsel",
+              "urge",
+              "exhort",
+              "bid",
+              "enjoin; Morecaution",
+              "warn; formaladjure \"she admonished him to drink less\""
+            ]
+          },
+          {
+            "definition": "warn (someone) of something to be avoided.",
+            "examples": [
+              "he admonished the people against the evil of such practices"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

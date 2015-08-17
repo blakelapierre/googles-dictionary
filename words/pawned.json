@@ -1,0 +1,39 @@
+[
+  {
+    "word": "pawn",
+    "syllables": [
+      "pawn"
+    ],
+    "pronunciation": "pôn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "pawned"
+          },
+          {
+            "part": "past participle",
+            "variant": "pawned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deposit (an object) with a pawnbroker as security for money lent.",
+            "examples": [
+              "I pawned the necklace to cover the loan"
+            ],
+            "synonyms": [
+              "pledge",
+              "put in pawn",
+              "give as security",
+              "use as collateral; Moreinformalhock",
+              "put in hock \"he pawned his watch\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

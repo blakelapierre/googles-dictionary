@@ -1,0 +1,57 @@
+[
+  {
+    "word": "interact",
+    "syllables": [
+      "in",
+      "ter",
+      "act"
+    ],
+    "pronunciation": "ˌin(t)ərˈakt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "interact"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "interacts"
+          },
+          {
+            "part": "past tense",
+            "variant": "interacted"
+          },
+          {
+            "part": "past participle",
+            "variant": "interacted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "interacting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "act in such a way as to have an effect on another; act reciprocally.",
+            "examples": [
+              "all the stages in the process interact"
+            ],
+            "synonyms": [
+              "communicate",
+              "interface",
+              "connect",
+              "cooperate; Moremeet",
+              "socialize",
+              "mix",
+              "be in contact",
+              "have dealings",
+              "work together \"how the children interact is a primary focus of our observations\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "offender",
+    "syllables": [
+      "of",
+      "fend",
+      "er"
+    ],
+    "pronunciation": "əˈfendər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "offender"
+          },
+          {
+            "part": "plural noun",
+            "variant": "offenders"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who commits an illegal act.",
+            "examples": [
+              "an institution for juvenile offenders"
+            ],
+            "synonyms": [
+              "wrongdoer",
+              "criminal",
+              "lawbreaker",
+              "miscreant",
+              "malefactor",
+              "felon",
+              "delinquent",
+              "culprit",
+              "guilty party",
+              "outlaw",
+              "sinner",
+              "transgressor; malfeasant \"my client is not the offender in this case\""
+            ]
+          },
+          {
+            "definition": "a person or thing that offends, does something wrong, or causes problems.",
+            "examples": [
+              "of atmospheric pollutants, the worst offender is sulfur dioxide"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

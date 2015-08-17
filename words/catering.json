@@ -1,0 +1,68 @@
+[
+  {
+    "word": "cater",
+    "syllables": [
+      "ca",
+      "ter"
+    ],
+    "pronunciation": "ˈkādər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "catering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide food and drink, typically at social events and in a professional capacity.",
+            "examples": [
+              "he catered a lunch for 20 people"
+            ]
+          },
+          {
+            "definition": "provide with food and drink in a professional capacity.",
+            "examples": [
+              "my mother helped to cater for the party"
+            ],
+            "synonyms": [
+              "provide food for",
+              "feed",
+              "serve",
+              "cook for More\"we cater for vegetarians\"serve",
+              "provide for",
+              "meet the needs/wants of",
+              "accommodate; satisfy",
+              "indulge",
+              "pander to",
+              "gratify \"a resort catering to older travellers\""
+            ]
+          },
+          {
+            "definition": "provide with what is needed or required.",
+            "examples": [
+              "the school caters to children with learning difficulties"
+            ]
+          },
+          {
+            "definition": "try to satisfy (a particular need or demand).",
+            "examples": [
+              "he catered to her every whim"
+            ],
+            "synonyms": [
+              "serve",
+              "provide for",
+              "meet the needs/wants of",
+              "accommodate; Moresatisfy",
+              "indulge",
+              "pander to",
+              "gratify \"a resort catering to older travellers\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

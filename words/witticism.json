@@ -1,0 +1,34 @@
+[
+  {
+    "word": "witticism",
+    "syllables": [
+      "wit",
+      "ti",
+      "cism"
+    ],
+    "pronunciation": "ˈwidəˌsizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "witticism"
+          },
+          {
+            "part": "plural noun",
+            "variant": "witticisms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a witty remark.",
+            "examples": [
+              "joke, quip, jest, pun, play on words, bon mot; Moreinformalone-liner, gag, funny, crack, wisecrack, zinger \"the publisher asked her to put some of her witticisms in a weekly feature\"Moreone-liner, gag, funny, crack, wisecrack, zinger the publisher asked her to put some of her witticisms in a weekly feature"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

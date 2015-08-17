@@ -1,0 +1,29 @@
+[
+  {
+    "word": "human",
+    "syllables": [
+      "hu",
+      "man"
+    ],
+    "pronunciation": "ˈ(h)yo͞omən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "humans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a human being, especially a person as distinguished from an animal or (in science fiction) an alien.",
+            "examples": [
+              "person, human being, personage, mortal, member of the human race; Moreman, woman; individual, soul, living soul, being; Homo sapiens; earthling \"the link between humans and animals\"Moreman, woman; individual, soul, living soul, being; Homo sapiens; earthling the link between humans and animals"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

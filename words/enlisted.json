@@ -1,0 +1,58 @@
+[
+  {
+    "word": "enlist",
+    "syllables": [
+      "en",
+      "list"
+    ],
+    "pronunciation": "inˈlistenˈlist",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "enlisted"
+          },
+          {
+            "part": "past participle",
+            "variant": "enlisted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "enroll or be enrolled in the armed services.",
+            "examples": [
+              "he enlisted in the army"
+            ],
+            "synonyms": [
+              "join up with",
+              "join",
+              "enroll in",
+              "sign up for",
+              "volunteer for More\"he enlisted in the scouts\"recruit",
+              "call up",
+              "enroll",
+              "sign up; conscript; draft",
+              "induct; archaiclevy \"he was enlisted in the army\""
+            ]
+          },
+          {
+            "definition": "engage (a person or their help or support).",
+            "examples": [
+              "the company enlisted the help of independent consultants"
+            ],
+            "synonyms": [
+              "obtain",
+              "engage",
+              "secure",
+              "win",
+              "get",
+              "procure \"he enlisted the help of a friend\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

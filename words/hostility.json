@@ -1,0 +1,59 @@
+[
+  {
+    "word": "hostility",
+    "syllables": [
+      "hos",
+      "til",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "häˈstilədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hostility"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hostile behavior; unfriendliness or opposition.",
+            "examples": [
+              "their hostility to all outsiders"
+            ],
+            "synonyms": [
+              "antagonism",
+              "unfriendliness",
+              "enmity",
+              "malevolence",
+              "malice",
+              "unkindness",
+              "rancor",
+              "venom",
+              "hatred",
+              "loathing; Moreresentment",
+              "animosity",
+              "antipathy",
+              "acrimony",
+              "ill will",
+              "ill feeling; aggression",
+              "belligerence \"he glared at her with hostility\"opposition",
+              "antagonism",
+              "aversion",
+              "resistance",
+              "dissidence \"their hostility to the present regime\""
+            ]
+          },
+          {
+            "definition": "acts of warfare.",
+            "examples": [
+              "plural noun: hostilities"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

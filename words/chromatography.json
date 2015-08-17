@@ -1,0 +1,29 @@
+[
+  {
+    "word": "chromatography",
+    "syllables": [
+      "chro",
+      "ma",
+      "tog",
+      "ra",
+      "phy"
+    ],
+    "pronunciation": "ˌkrōməˈtäɡrəfē",
+    "parts": [
+      {
+        "part": "nounChemistry",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chromatography"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the separation of a mixture by passing it in solution or suspension or as a vapor (as in gas chromatography) through a medium in which the components move at different rates."
+          }
+        ]
+      }
+    ]
+  }
+]

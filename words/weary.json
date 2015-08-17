@@ -1,0 +1,143 @@
+[
+  {
+    "word": "weary",
+    "syllables": [
+      "wear",
+      "y"
+    ],
+    "pronunciation": "ˈwirē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "weary"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "wearier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "weariest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feeling or showing tiredness, especially as a result of excessive exertion or lack of sleep.",
+            "examples": [
+              "he gave a long, weary sigh"
+            ],
+            "synonyms": [
+              "tired",
+              "worn out",
+              "exhausted",
+              "fatigued",
+              "sapped",
+              "burnt-out",
+              "dog-tired",
+              "spent",
+              "drained",
+              "prostrate",
+              "enervated; Moreinformalall in",
+              "done in",
+              "beat",
+              "ready to drop",
+              "bushed",
+              "worn to a frazzle",
+              "pooped",
+              "tuckered out \"he was weary after cycling\""
+            ],
+            "antonyms": [
+              "fresh",
+              "energetic"
+            ]
+          },
+          {
+            "definition": "reluctant to see or experience any more of; tired of.",
+            "examples": [
+              "she was weary of their constant arguments"
+            ],
+            "synonyms": [
+              "tired of",
+              "fed up with",
+              "bored by",
+              "sick of",
+              "burnt-out on; informalhave had it up to here with \"she was weary of the arguments\""
+            ],
+            "antonyms": [
+              "enthusiastic"
+            ]
+          },
+          {
+            "definition": "calling for a great amount of energy or endurance; tiring and tedious.",
+            "examples": [
+              "the weary journey began again"
+            ],
+            "synonyms": [
+              "tiring",
+              "exhausting",
+              "wearying",
+              "fatiguing",
+              "enervating",
+              "draining",
+              "sapping",
+              "wearing",
+              "trying",
+              "demanding",
+              "taxing",
+              "arduous",
+              "grueling",
+              "difficult",
+              "hard",
+              "tough \"a weary journey\""
+            ],
+            "antonyms": [
+              "refreshing"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "weary"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wearies"
+          },
+          {
+            "part": "past tense",
+            "variant": "wearied"
+          },
+          {
+            "part": "past participle",
+            "variant": "wearied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "wearying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to become tired.",
+            "examples": [
+              "she was wearied by her persistent cough"
+            ]
+          },
+          {
+            "definition": "grow tired of or bored with.",
+            "examples": [
+              "she wearied of the sameness of her life"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

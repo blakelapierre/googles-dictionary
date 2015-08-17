@@ -1,0 +1,71 @@
+[
+  {
+    "word": "ocean",
+    "syllables": [
+      "o",
+      "cean"
+    ],
+    "pronunciation": "ˈōSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ocean"
+          },
+          {
+            "part": "plural noun",
+            "variant": "oceans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.",
+            "examples": [
+              "the Atlantic Ocean"
+            ],
+            "synonyms": [
+              "sea; Moreinformaldrink",
+              "briny",
+              "chuck",
+              "salt chuck; literarydeep",
+              "waves",
+              "main \"the ocean was very calm that day\""
+            ]
+          },
+          {
+            "definition": "the sea.",
+            "examples": [
+              "noun: the ocean"
+            ]
+          },
+          {
+            "definition": "a very large expanse or quantity.",
+            "examples": [
+              "she had oceans of energy"
+            ],
+            "synonyms": [
+              "a lot",
+              "a great/good deal",
+              "plenty",
+              "an abundance",
+              "a great/large amount; Moreinformallots",
+              "tons",
+              "loads",
+              "buttloads",
+              "heaps",
+              "scads",
+              "oodles",
+              "gobs; vulgar slangshitload \"oceans of energy\""
+            ],
+            "antonyms": [
+              "dearth",
+              "lack"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

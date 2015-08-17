@@ -1,0 +1,98 @@
+[
+  {
+    "word": "none",
+    "syllables": [
+      "none"
+    ],
+    "pronunciation": "nən",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "none"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not any.",
+            "examples": [
+              "none of you want to work"
+            ],
+            "synonyms": [
+              "not one",
+              "not a (single) one More\"I saw none of the fish that you saw\"no part",
+              "not a bit",
+              "not any \"none of this concerns me\""
+            ],
+            "antonyms": [
+              "all"
+            ]
+          },
+          {
+            "definition": "no person; no one.",
+            "examples": [
+              "none could match her looks"
+            ],
+            "synonyms": [
+              "not one",
+              "no one",
+              "nobody",
+              "not a soul",
+              "not a single person",
+              "no man \"none can know better than you\""
+            ],
+            "antonyms": [
+              "all"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "none"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "by no amount; not at all.",
+            "examples": [
+              "it is made none the easier by the differences in approach"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "none",
+    "syllables": [
+      "none"
+    ],
+    "pronunciation": "nən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "none"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nones"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a service forming part of the Divine Office of the Western Christian Church, traditionally said (or chanted) at the ninth hour of the day (3 p.m.)."
+          }
+        ]
+      }
+    ]
+  }
+]

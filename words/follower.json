@@ -1,0 +1,69 @@
+[
+  {
+    "word": "follower",
+    "syllables": [
+      "fol",
+      "low",
+      "er"
+    ],
+    "pronunciation": "ˈfälōər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "follower"
+          },
+          {
+            "part": "plural noun",
+            "variant": "followers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an adherent or devotee of a particular person, cause, or activity.",
+            "examples": [
+              "a freethinker and follower of Voltaire"
+            ],
+            "synonyms": [
+              "acolyte",
+              "assistant",
+              "attendant",
+              "companion; Morehenchman",
+              "minion",
+              "lackey",
+              "servant; informalhanger-on",
+              "sidekick \"the president's closest followers\"disciple",
+              "apostle",
+              "supporter",
+              "defender",
+              "champion; believer",
+              "true believer",
+              "worshiper \"a follower of Christ\"fan",
+              "enthusiast",
+              "admirer",
+              "devotee",
+              "lover",
+              "supporter",
+              "adherent \"followers of winter sports\""
+            ],
+            "antonyms": [
+              "leader",
+              "opponent"
+            ]
+          },
+          {
+            "definition": "someone who is tracking a particular person, group, organization, etc. on a social media website or application.",
+            "examples": [
+              "she remains an immensely divisive figure, but she has a million followers on Facebook"
+            ]
+          },
+          {
+            "definition": "a person who moves or travels behind someone or something."
+          }
+        ]
+      }
+    ]
+  }
+]

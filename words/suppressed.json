@@ -1,0 +1,113 @@
+[
+  {
+    "word": "suppress",
+    "syllables": [
+      "sup",
+      "press"
+    ],
+    "pronunciation": "səˈpres",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "suppressed"
+          },
+          {
+            "part": "past participle",
+            "variant": "suppressed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forcibly put an end to.",
+            "examples": [
+              "the uprising was savagely suppressed"
+            ],
+            "synonyms": [
+              "subdue",
+              "repress",
+              "crush",
+              "quell",
+              "quash",
+              "squash",
+              "stamp out; Moredefeat",
+              "conquer",
+              "overpower",
+              "put down",
+              "crack down on; end",
+              "stop",
+              "terminate",
+              "halt \"they could suppress the rebellion\""
+            ],
+            "antonyms": [
+              "incite",
+              "encourage"
+            ]
+          },
+          {
+            "definition": "prevent the development, action, or expression of (a feeling, impulse, idea, etc.); restrain.",
+            "examples": [
+              "she could not suppress a rising panic"
+            ],
+            "synonyms": [
+              "conceal",
+              "restrain",
+              "stifle",
+              "smother",
+              "bottle up",
+              "hold back",
+              "control",
+              "check",
+              "curb",
+              "contain",
+              "bridle",
+              "inhibit",
+              "keep a rein on",
+              "put a lid on \"she suppressed her irritation\""
+            ],
+            "antonyms": [
+              "express"
+            ]
+          },
+          {
+            "definition": "prevent the dissemination of (information).",
+            "examples": [
+              "the report had been suppressed"
+            ],
+            "synonyms": [
+              "censor",
+              "keep secret",
+              "conceal",
+              "hide",
+              "hush up",
+              "gag",
+              "withhold",
+              "cover up",
+              "stifle; Moreban",
+              "proscribe",
+              "outlaw; sweep under the carpet \"the report was suppressed\""
+            ],
+            "antonyms": [
+              "disclose",
+              "publicize"
+            ]
+          },
+          {
+            "definition": "prevent or inhibit (a process or reaction).",
+            "examples": [
+              "use of the drug suppressed the immune response"
+            ]
+          },
+          {
+            "definition": "partly or wholly eliminate (electrical interference)."
+          },
+          {
+            "definition": "consciously inhibit (an unpleasant idea or memory) to avoid considering it."
+          }
+        ]
+      }
+    ]
+  }
+]

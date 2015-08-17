@@ -1,0 +1,234 @@
+[
+  {
+    "word": "stretch",
+    "syllables": [
+      "stretch"
+    ],
+    "pronunciation": "streCH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "stretches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of something soft or elastic) be made or be capable of being made longer or wider without tearing or breaking.",
+            "examples": [
+              "my sweater stretched in the wash"
+            ],
+            "synonyms": [
+              "be elastic",
+              "be stretchy",
+              "be tensile \"this material stretches\""
+            ]
+          },
+          {
+            "definition": "cause to do this.",
+            "examples": [
+              "stretch the elastic"
+            ],
+            "synonyms": [
+              "pull (out)",
+              "draw out",
+              "extend",
+              "lengthen",
+              "elongate",
+              "expand \"he stretched the elastic\""
+            ]
+          },
+          {
+            "definition": "last or cause to last longer than expected.",
+            "examples": [
+              "her nap had stretched to two hours"
+            ],
+            "synonyms": [
+              "prolong",
+              "lengthen",
+              "make longer",
+              "extend",
+              "spin out \"stretch your weekend into a vacation\""
+            ],
+            "antonyms": [
+              "shorten"
+            ]
+          },
+          {
+            "definition": "make great demands on the capacity or resources of.",
+            "examples": [
+              "the cost of the court case has stretched their finances to the limit"
+            ],
+            "synonyms": [
+              "put a strain on",
+              "overtax",
+              "overextend",
+              "drain",
+              "sap \"the court case stretched their finances\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to make maximum use of their talents or abilities.",
+            "examples": [
+              "it's too easy—it doesn't stretch me"
+            ]
+          },
+          {
+            "definition": "adapt or extend the scope of (something) in a way that exceeds a reasonable or acceptable limit.",
+            "examples": [
+              "to describe her as sweet would be stretching it a bit"
+            ],
+            "synonyms": [
+              "bend",
+              "strain",
+              "distort",
+              "exaggerate",
+              "embellish \"stretching the truth\""
+            ]
+          },
+          {
+            "definition": "straighten or extend one's body or a part of one's body to its full length, typically so as to tighten one's muscles or in order to reach something.",
+            "examples": [
+              "the cat yawned and stretched"
+            ],
+            "synonyms": [
+              "extend",
+              "straighten (out) More\"he stretched his arms\"lie down",
+              "recline",
+              "lean back",
+              "be recumbent",
+              "sprawl",
+              "lounge",
+              "loll \"she stretched out on the sofa\""
+            ]
+          },
+          {
+            "definition": "extend or spread over an area or period of time.",
+            "examples": [
+              "the beach stretches for over four miles"
+            ],
+            "synonyms": [
+              "extend",
+              "spread",
+              "continue \"the desert stretches for miles\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "stretches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of stretching one's limbs or body.",
+            "examples": [
+              "I got up and had a stretch"
+            ],
+            "synonyms": [
+              "reach out",
+              "hold out",
+              "extend",
+              "outstretch",
+              "proffer; literaryoutreach \"she stretched out her hand to him\""
+            ],
+            "antonyms": [
+              "withdraw"
+            ]
+          },
+          {
+            "definition": "the fact or condition of a muscle being stretched.",
+            "examples": [
+              "she could feel the stretch and pull of the muscles in her legs"
+            ]
+          },
+          {
+            "definition": "a phase of a pitcher's delivery, during which the arms are raised above and behind the head."
+          },
+          {
+            "definition": "a shortened form of a pitcher's windup, typically used to prevent base runners from stealing or gaining a long lead."
+          },
+          {
+            "definition": "the capacity of a material or garment to stretch or be stretched; elasticity.",
+            "examples": [
+              "stretch jeans"
+            ],
+            "synonyms": [
+              "stretchy",
+              "stretchable",
+              "elastic \"stretch fabrics\""
+            ]
+          },
+          {
+            "definition": "a difficult or demanding task.",
+            "examples": [
+              "it was a stretch for me sometimes to come up with the rent"
+            ]
+          },
+          {
+            "definition": "a continuous area or expanse of land or water.",
+            "examples": [
+              "a treacherous stretch of road"
+            ],
+            "synonyms": [
+              "expanse",
+              "area",
+              "tract",
+              "belt",
+              "sweep",
+              "extent \"magnificent stretches of forest\""
+            ]
+          },
+          {
+            "definition": "a continuous period of time.",
+            "examples": [
+              "long stretches of time"
+            ],
+            "synonyms": [
+              "period",
+              "time",
+              "spell",
+              "run",
+              "stint",
+              "session",
+              "shift \"a four-hour stretch\""
+            ]
+          },
+          {
+            "definition": "a period of time spent in prison.",
+            "examples": [
+              "a four-year stretch for tax fraud"
+            ],
+            "synonyms": [
+              "(prison) sentence",
+              "(prison) term",
+              "stint",
+              "rap \"a ten-year stretch\""
+            ]
+          },
+          {
+            "definition": "a straight part of a racetrack, typically the homestretch.",
+            "examples": [
+              "he made a promising start, but faded down the stretch"
+            ]
+          },
+          {
+            "definition": "the distance covered on one tack."
+          },
+          {
+            "definition": "a stretch limo.",
+            "examples": [
+              "a chauffeur-driven stretch"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

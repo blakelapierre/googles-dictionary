@@ -1,0 +1,31 @@
+[
+  {
+    "word": "grandparent",
+    "syllables": [
+      "grand",
+      "par",
+      "ent"
+    ],
+    "pronunciation": "ˈɡran(d)ˌperənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grandparent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "grandparents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a parent of one's father or mother; a grandmother or grandfather."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "word": "loaf",
+    "syllables": [
+      "loaf"
+    ],
+    "pronunciation": "lōf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "loaf"
+          },
+          {
+            "part": "plural noun",
+            "variant": "loaves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quantity of bread that is shaped and baked in one piece and usually sliced before being eaten.",
+            "examples": [
+              "a loaf of bread"
+            ]
+          },
+          {
+            "definition": "an item food formed into an oblong shape and sliced into portions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "loaf",
+    "syllables": [
+      "loaf"
+    ],
+    "pronunciation": "lōf",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "loaf"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "loafs"
+          },
+          {
+            "part": "past tense",
+            "variant": "loafed"
+          },
+          {
+            "part": "past participle",
+            "variant": "loafed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "loafing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "idle one's time away, typically by aimless wandering or loitering.",
+            "examples": [
+              "don't let him see you loafing around with your hands in your pockets"
+            ],
+            "synonyms": [
+              "laze",
+              "lounge",
+              "loll",
+              "idle",
+              "waste time; Moreinformalhang around",
+              "bum around",
+              "futz around \"he was just loafing all day at the beach\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "recognize",
+    "syllables": [
+      "rec",
+      "og",
+      "nize"
+    ],
+    "pronunciation": "ˈrekəɡˌnīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "recognizing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "identify (someone or something) from having encountered them before; know again.",
+            "examples": [
+              "I recognized her when her wig fell off"
+            ]
+          },
+          {
+            "definition": "identify from knowledge of appearance or character.",
+            "examples": [
+              "Pat is very good at recognizing wildflowers"
+            ],
+            "synonyms": [
+              "identify",
+              "place",
+              "know",
+              "put a name to; Moreremember",
+              "recall",
+              "recollect; know by sight \"Hannah recognized him at once\""
+            ]
+          },
+          {
+            "definition": "(of a computer or other machine) automatically identify and respond correctly to (a sound, printed character, etc.)."
+          },
+          {
+            "definition": "acknowledge the existence, validity, or legality of.",
+            "examples": [
+              "the defense is recognized in Mexican law"
+            ],
+            "synonyms": [
+              "acknowledge",
+              "accept",
+              "admit; Morerealize",
+              "be aware of",
+              "be conscious of",
+              "perceive",
+              "discern",
+              "appreciate; formalbe cognizant of \"they recognized Alan's ability\"officially approve",
+              "certify",
+              "accredit",
+              "endorse",
+              "sanction",
+              "validate \"psychotherapists who are recognized\""
+            ]
+          },
+          {
+            "definition": "officially regard (a qualification) as valid or proper.",
+            "examples": [
+              "these qualifications are recognized by the Department of Education"
+            ]
+          },
+          {
+            "definition": "grant diplomatic recognition to (a country or government).",
+            "examples": [
+              "they were refusing to recognize the puppet regime"
+            ]
+          },
+          {
+            "definition": "show official appreciation of; reward formally.",
+            "examples": [
+              "his work was recognized by an honorary degree from Georgetown University"
+            ],
+            "synonyms": [
+              "pay tribute to",
+              "show appreciation of/for",
+              "appreciate",
+              "be grateful for",
+              "acclaim",
+              "commend \"the board recognized their hard work\""
+            ]
+          },
+          {
+            "definition": "(of a person presiding at a meeting or debate) call on (someone) to speak."
+          }
+        ]
+      }
+    ]
+  }
+]

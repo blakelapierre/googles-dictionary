@@ -1,0 +1,77 @@
+[
+  {
+    "word": "prose",
+    "syllables": [
+      "prose"
+    ],
+    "pronunciation": "prōz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prose"
+          },
+          {
+            "part": "plural noun",
+            "variant": "proses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "written or spoken language in its ordinary form, without metrical structure.",
+            "examples": [
+              "a short story in prose"
+            ]
+          },
+          {
+            "definition": "plain or dull writing, discourse, or expression.",
+            "examples": [
+              "medical and scientific prose"
+            ]
+          },
+          {
+            "definition": "another term for sequence (sense 4 of the noun)."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "prose"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "proses"
+          },
+          {
+            "part": "past tense",
+            "variant": "prosed"
+          },
+          {
+            "part": "past participle",
+            "variant": "prosed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "prosing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "talk tediously.",
+            "examples": [
+              "prosing on about female beauty"
+            ]
+          },
+          {
+            "definition": "compose or convert into prose."
+          }
+        ]
+      }
+    ]
+  }
+]

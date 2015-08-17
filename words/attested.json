@@ -1,0 +1,65 @@
+[
+  {
+    "word": "attest",
+    "syllables": [
+      "at",
+      "test"
+    ],
+    "pronunciation": "əˈtest",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "attested"
+          },
+          {
+            "part": "past participle",
+            "variant": "attested"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide or serve as clear evidence of.",
+            "examples": [
+              "his status is attested by his recent promotion"
+            ]
+          },
+          {
+            "definition": "declare that something exists or is the case.",
+            "examples": [
+              "I can attest to his tremendous energy"
+            ]
+          },
+          {
+            "definition": "be a witness to; certify formally.",
+            "examples": [
+              "the witnesses must attest and sign the will in the testator's presence"
+            ],
+            "synonyms": [
+              "certify",
+              "corroborate",
+              "confirm",
+              "verify",
+              "substantiate",
+              "authenticate",
+              "evidence",
+              "demonstrate",
+              "show",
+              "prove; Moreendorse",
+              "support",
+              "affirm",
+              "bear out",
+              "give credence to",
+              "vouch for; formalevince \"I can attest to her fitness as a mother\""
+            ],
+            "antonyms": [
+              "disprove"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

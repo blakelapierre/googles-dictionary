@@ -1,0 +1,124 @@
+[
+  {
+    "word": "demand",
+    "syllables": [
+      "de",
+      "mand"
+    ],
+    "pronunciation": "dəˈmand",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "demands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an insistent and peremptory request, made as if by right.",
+            "examples": [
+              "a series of demands for far-reaching reforms"
+            ],
+            "synonyms": [
+              "request",
+              "call",
+              "command",
+              "order",
+              "dictate",
+              "ultimatum",
+              "stipulation \"I gave in to her demands\""
+            ]
+          },
+          {
+            "definition": "pressing requirements.",
+            "examples": [
+              "he's got enough demands on his time already"
+            ],
+            "synonyms": [
+              "requirement",
+              "need",
+              "desire",
+              "wish",
+              "want; Moreclaim",
+              "imposition \"the demands of a young family\""
+            ]
+          },
+          {
+            "definition": "the desire of purchasers, consumers, clients, employers, etc., for a particular commodity, service, or other item.",
+            "examples": [
+              "a recent slump in demand"
+            ],
+            "synonyms": [
+              "market",
+              "call",
+              "appetite",
+              "desire \"there is a big demand for such toys\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "demands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ask authoritatively or brusquely.",
+            "examples": [
+              "“Where is she?” he demanded"
+            ],
+            "synonyms": [
+              "order",
+              "command",
+              "enjoin",
+              "urge; Moreliterarybid \"Harvey demanded that I tell him the truth\"ask",
+              "inquire",
+              "question",
+              "interrogate; challenge \"“Where is she?” he demanded\""
+            ]
+          },
+          {
+            "definition": "insist on having.",
+            "examples": [
+              "an outraged public demanded retribution"
+            ],
+            "synonyms": [
+              "call for",
+              "ask for",
+              "request",
+              "push for",
+              "hold out for; Moreinsist on",
+              "claim \"workers demanded wage increases\"insist on",
+              "stipulate",
+              "make a condition of; expect",
+              "look for \"they demanded complete anonymity\""
+            ]
+          },
+          {
+            "definition": "require; need.",
+            "examples": [
+              "a complex activity demanding detailed knowledge"
+            ],
+            "synonyms": [
+              "require",
+              "need",
+              "necessitate",
+              "call for",
+              "involve",
+              "entail \"an activity demanding detailed knowledge\""
+            ]
+          },
+          {
+            "definition": "call into court; summon."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "word": "subgroup",
+    "syllables": [
+      "sub",
+      "group"
+    ],
+    "pronunciation": "ˈsəbˌɡro͞op",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "subgroup"
+          },
+          {
+            "part": "plural noun",
+            "variant": "subgroups"
+          },
+          {
+            "part": "noun",
+            "variant": "sub-group"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sub-groups"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a subdivision of a group."
+          },
+          {
+            "definition": "a group whose members are all members of another group, both being subject to the same operations."
+          }
+        ]
+      }
+    ]
+  }
+]

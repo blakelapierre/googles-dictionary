@@ -1,0 +1,84 @@
+[
+  {
+    "word": "anguish",
+    "syllables": [
+      "an",
+      "guish"
+    ],
+    "pronunciation": "ˈaNGɡwiSH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "anguish"
+          },
+          {
+            "part": "plural noun",
+            "variant": "anguishes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "severe mental or physical pain or suffering.",
+            "examples": [
+              "she shut her eyes in anguish"
+            ],
+            "synonyms": [
+              "agony",
+              "pain",
+              "torment",
+              "torture",
+              "suffering",
+              "distress",
+              "angst",
+              "misery",
+              "sorrow",
+              "grief",
+              "heartache",
+              "desolation",
+              "despair; literarydolor \"the anguish of losing her beloved child could only have been compounded by the killer's indifference\""
+            ],
+            "antonyms": [
+              "happiness"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "anguish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "anguishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "anguished"
+          },
+          {
+            "part": "past participle",
+            "variant": "anguished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "anguishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be extremely distressed about something.",
+            "examples": [
+              "he anguished over how to reply"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

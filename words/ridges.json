@@ -1,0 +1,72 @@
+[
+  {
+    "word": "ridge",
+    "syllables": [
+      "ridge"
+    ],
+    "pronunciation": "rij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "ridges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long narrow hilltop, mountain range, or watershed.",
+            "examples": [
+              "the northeast ridge of Everest"
+            ]
+          },
+          {
+            "definition": "the line or edge formed where the two sloping sides of a roof meet at the top."
+          },
+          {
+            "definition": "an elongated region of high atmospheric pressure."
+          },
+          {
+            "definition": "a narrow raised band running along or across a surface.",
+            "examples": [
+              "buff your nails in order to smooth ridges"
+            ]
+          },
+          {
+            "definition": "a raised strip of arable land, especially (in medieval open fields) one of a set separated by furrows."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "ridges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark with or form into narrow raised bands.",
+            "examples": [
+              "the ridged sand of the beach"
+            ]
+          },
+          {
+            "definition": "(of a surface) form into or rise up as a narrow raised band.",
+            "examples": [
+              "the crust of the earth ridged"
+            ]
+          },
+          {
+            "definition": "form (arable land) into raised strips separated by furrows.",
+            "examples": [
+              "a field plowed in narrow stretches that are ridged up slightly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

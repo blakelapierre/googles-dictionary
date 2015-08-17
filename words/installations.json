@@ -1,0 +1,52 @@
+[
+  {
+    "word": "installation",
+    "syllables": [
+      "in",
+      "stal",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌinstəˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "installations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of installing someone or something, or of being installed.",
+            "examples": [
+              "the installation of a central air-conditioning system"
+            ]
+          },
+          {
+            "definition": "a thing installed, in particular."
+          },
+          {
+            "definition": "a large piece of equipment installed for use.",
+            "examples": [
+              "computer installations"
+            ]
+          },
+          {
+            "definition": "a military or industrial establishment.",
+            "examples": [
+              "nuclear installations"
+            ]
+          },
+          {
+            "definition": "an art exhibit constructed within a gallery.",
+            "examples": [
+              "a video installation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

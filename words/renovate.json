@@ -1,0 +1,66 @@
+[
+  {
+    "word": "renovate",
+    "syllables": [
+      "ren",
+      "o",
+      "vate"
+    ],
+    "pronunciation": "ˈrenəˌvāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "renovate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "renovates"
+          },
+          {
+            "part": "past tense",
+            "variant": "renovated"
+          },
+          {
+            "part": "past participle",
+            "variant": "renovated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "renovating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "restore (something old, especially a building) to a good state of repair.",
+            "examples": [
+              "the old school has been tastefully renovated as a private house"
+            ],
+            "synonyms": [
+              "modernize",
+              "restore",
+              "refurbish",
+              "revamp",
+              "recondition",
+              "rehabilitate",
+              "overhaul",
+              "redevelop; Moreupdate",
+              "upgrade",
+              "refit",
+              "bring something up to code; informaldo up",
+              "rehab \"the hotel has been renovated\""
+            ]
+          },
+          {
+            "definition": "refresh; reinvigorate.",
+            "examples": [
+              "a little warm nourishment renovated him for a short time"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

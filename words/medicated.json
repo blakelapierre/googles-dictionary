@@ -1,0 +1,43 @@
+[
+  {
+    "word": "medicate",
+    "syllables": [
+      "med",
+      "i",
+      "cate"
+    ],
+    "pronunciation": "ˈmediˌkāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "medicated"
+          },
+          {
+            "part": "past participle",
+            "variant": "medicated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "administer medicine or a drug to (someone).",
+            "examples": [
+              "both infants were heavily medicated to alleviate their seizures"
+            ]
+          },
+          {
+            "definition": "treat (a condition) using medicine or a drug."
+          },
+          {
+            "definition": "add a medicinal substance to (a dressing or product).",
+            "examples": [
+              "medicated shampoo"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

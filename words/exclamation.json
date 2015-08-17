@@ -1,0 +1,42 @@
+[
+  {
+    "word": "exclamation",
+    "syllables": [
+      "ex",
+      "cla",
+      "ma",
+      "tion"
+    ],
+    "pronunciation": "ˌekskləˈmāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exclamation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "exclamations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sudden cry or remark, especially expressing surprise, anger, or pain.",
+            "examples": [
+              "Meg gave an involuntary exclamation"
+            ],
+            "synonyms": [
+              "cry",
+              "call",
+              "shout",
+              "yell",
+              "interjection \"an exclamation of amazement\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

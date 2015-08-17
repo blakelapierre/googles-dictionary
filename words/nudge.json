@@ -1,0 +1,121 @@
+[
+  {
+    "word": "nudge",
+    "syllables": [
+      "nudge"
+    ],
+    "pronunciation": "nəj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "nudge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "nudges"
+          },
+          {
+            "part": "past tense",
+            "variant": "nudged"
+          },
+          {
+            "part": "past participle",
+            "variant": "nudged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "nudging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prod (someone) gently, typically with one's elbow, in order to draw their attention to something.",
+            "examples": [
+              "people were nudging each other and pointing at me"
+            ],
+            "synonyms": [
+              "poke",
+              "elbow",
+              "dig",
+              "prod",
+              "jog",
+              "jab \"he nudged Ben\""
+            ]
+          },
+          {
+            "definition": "touch or push (something) gently or gradually.",
+            "examples": [
+              "the canoe nudged a bank of reeds"
+            ],
+            "synonyms": [
+              "touch",
+              "bump (against)",
+              "push (against)",
+              "run into \"the canoe nudged a bank\""
+            ]
+          },
+          {
+            "definition": "coax or gently encourage (someone) to do something.",
+            "examples": [
+              "we have to nudge the politicians in the right direction"
+            ],
+            "synonyms": [
+              "prompt",
+              "encourage",
+              "stimulate",
+              "prod",
+              "galvanize \"we nudged them into action\""
+            ]
+          },
+          {
+            "definition": "approach (an age, figure, or level) very closely.",
+            "examples": [
+              "both men were nudging fifty"
+            ],
+            "synonyms": [
+              "approach",
+              "near",
+              "come close to",
+              "be verging on",
+              "border on \"unemployment was nudging 3",
+              "000",
+              "000\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nudge"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nudges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a light touch or push.",
+            "examples": [
+              "he gave her shoulder a nudge"
+            ],
+            "synonyms": [
+              "poke",
+              "prod",
+              "jog",
+              "jab",
+              "push",
+              "dig (in the ribs) \"Maggie gave him a nudge\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

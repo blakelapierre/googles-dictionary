@@ -1,0 +1,139 @@
+[
+  {
+    "word": "pursue",
+    "syllables": [
+      "pur",
+      "sue"
+    ],
+    "pronunciation": "pərˈso͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pursue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pursues"
+          },
+          {
+            "part": "past tense",
+            "variant": "pursued"
+          },
+          {
+            "part": "past participle",
+            "variant": "pursued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pursuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "follow (someone or something) in order to catch or attack them.",
+            "examples": [
+              "the officer pursued the van"
+            ],
+            "synonyms": [
+              "follow",
+              "run after",
+              "chase; Morehunt",
+              "stalk",
+              "track",
+              "trail",
+              "shadow",
+              "hound",
+              "course; informaltail \"I pursued him through the garden\""
+            ],
+            "antonyms": [
+              "avoid"
+            ]
+          },
+          {
+            "definition": "seek to form a sexual relationship with (someone) in a persistent way.",
+            "examples": [
+              "Sophie was being pursued by a number of men"
+            ],
+            "synonyms": [
+              "chase",
+              "run after",
+              "go after; Moreinformalmake up to; datedwoo",
+              "court",
+              "romance \"he had been pursuing her for weeks\""
+            ]
+          },
+          {
+            "definition": "seek to attain or accomplish (a goal), especially over a long period.",
+            "examples": [
+              "should people pursue their own happiness at the expense of others?"
+            ],
+            "synonyms": [
+              "strive for",
+              "work toward",
+              "seek",
+              "search for",
+              "aim at/for",
+              "aspire to \"pursue the goal of political union\""
+            ],
+            "antonyms": [
+              "eschew"
+            ]
+          },
+          {
+            "definition": "(of something unpleasant) persistently afflict (someone).",
+            "examples": [
+              "mercy lasts as long as sin pursues man"
+            ]
+          },
+          {
+            "definition": "(of a person or way) continue or proceed along (a path or route).",
+            "examples": [
+              "the road pursued a straight course over the scrubland"
+            ]
+          },
+          {
+            "definition": "engage in (an activity or course of action).",
+            "examples": [
+              "Andrew was determined to pursue a computer career"
+            ],
+            "synonyms": [
+              "engage in",
+              "be occupied in",
+              "practice",
+              "follow",
+              "prosecute",
+              "conduct",
+              "ply",
+              "take up",
+              "undertake",
+              "carry on \"she pursued a political career\""
+            ],
+            "antonyms": [
+              "shun"
+            ]
+          },
+          {
+            "definition": "continue to investigate, explore, or discuss (a topic, idea, or argument).",
+            "examples": [
+              "we shall not pursue the matter any further"
+            ],
+            "synonyms": [
+              "investigate",
+              "research",
+              "inquire into",
+              "look into",
+              "examine",
+              "scrutinize",
+              "analyze",
+              "delve into",
+              "probe \"we will not pursue the matter\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

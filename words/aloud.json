@@ -1,0 +1,43 @@
+[
+  {
+    "word": "aloud",
+    "syllables": [
+      "a",
+      "loud"
+    ],
+    "pronunciation": "əˈloud",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "aloud"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "audibly; not silently or in a whisper.",
+            "examples": [
+              "he read the letter aloud"
+            ],
+            "synonyms": [
+              "audibly",
+              "out loud",
+              "for all to hear \"please don't read aloud\""
+            ],
+            "antonyms": [
+              "silently"
+            ]
+          },
+          {
+            "definition": "loudly.",
+            "examples": [
+              "he wept aloud"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

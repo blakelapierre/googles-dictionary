@@ -1,0 +1,66 @@
+[
+  {
+    "word": "prominence",
+    "syllables": [
+      "prom",
+      "i",
+      "nence"
+    ],
+    "pronunciation": "ˈprämənəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prominence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being important or famous.",
+            "examples": [
+              "she came to prominence as an artist in the 1960s"
+            ],
+            "synonyms": [
+              "fame",
+              "celebrity",
+              "eminence",
+              "preeminence",
+              "importance",
+              "distinction",
+              "greatness",
+              "note",
+              "notability",
+              "prestige",
+              "stature",
+              "standing",
+              "position",
+              "rank More\"his rise to prominence\"good coverage",
+              "importance",
+              "precedence",
+              "weight",
+              "a high profile",
+              "top billing \"the press gave prominence to the reports\""
+            ]
+          },
+          {
+            "definition": "the fact or condition of standing out from something by physically projecting or being particularly noticeable.",
+            "examples": [
+              "radiographs showed enlargement of the right heart with prominence of the pulmonary outflow tract"
+            ]
+          },
+          {
+            "definition": "a thing that projects from something, especially a projecting feature of the landscape or a protuberance on a part of the body.",
+            "examples": [
+              "plural noun: prominences"
+            ]
+          },
+          {
+            "definition": "a stream of incandescent gas projecting above the sun's chromosphere."
+          }
+        ]
+      }
+    ]
+  }
+]

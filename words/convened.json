@@ -1,0 +1,43 @@
+[
+  {
+    "word": "convene",
+    "syllables": [
+      "con",
+      "vene"
+    ],
+    "pronunciation": "kənˈvēn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "convened"
+          },
+          {
+            "part": "past participle",
+            "variant": "convened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come or bring together for a meeting or activity; assemble.",
+            "examples": [
+              "he convened a group of well-known scientists and philosophers"
+            ],
+            "synonyms": [
+              "summon",
+              "call",
+              "call together",
+              "order; Moreformalconvoke \"he convened a secret meeting\"assemble",
+              "gather",
+              "meet",
+              "come together",
+              "congregate \"the committee convened for its final session\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

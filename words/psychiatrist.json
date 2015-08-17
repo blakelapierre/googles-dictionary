@@ -1,0 +1,35 @@
+[
+  {
+    "word": "psychiatrist",
+    "syllables": [
+      "psy",
+      "chi",
+      "a",
+      "trist"
+    ],
+    "pronunciation": "sīˈkīətrəstsəˈkīətrəst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "psychiatrist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "psychiatrists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a medical practitioner specializing in the diagnosis and treatment of mental illness.",
+            "examples": [
+              "psychotherapist, psychoanalyst; Moreinformalshrink, head doctor \"he's been seeing a psychiatrist for several years\"Moreshrink, head doctor he's been seeing a psychiatrist for several years"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

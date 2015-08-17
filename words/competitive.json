@@ -1,0 +1,81 @@
+[
+  {
+    "word": "competitive",
+    "syllables": [
+      "com",
+      "pet",
+      "i",
+      "tive"
+    ],
+    "pronunciation": "kəmˈpedədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "competitive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or characterized by competition.",
+            "examples": [
+              "a competitive sport"
+            ],
+            "synonyms": [
+              "ruthless",
+              "aggressive",
+              "fierce; MoreDarwinian; informaldog-eat-dog",
+              "cutthroat \"a highly competitive industry\""
+            ]
+          },
+          {
+            "definition": "having or displaying a strong desire to be more successful than others.",
+            "examples": [
+              "she had a competitive streak"
+            ],
+            "synonyms": [
+              "ambitious",
+              "zealous",
+              "keen",
+              "pushy",
+              "combative",
+              "aggressive \"a competitive player\""
+            ],
+            "antonyms": [
+              "apathetic"
+            ]
+          },
+          {
+            "definition": "as good as or better than others of a comparable nature.",
+            "examples": [
+              "a car industry competitive with any in the world"
+            ]
+          },
+          {
+            "definition": "(of prices) low enough to compare well with those of rival merchants.",
+            "examples": [
+              "we offer prompt service at competitive rates"
+            ],
+            "synonyms": [
+              "reasonable",
+              "moderate; Morelow",
+              "inexpensive",
+              "cheap",
+              "budget",
+              "bargain",
+              "reduced",
+              "discount; rock-bottom",
+              "bargain-basement",
+              "downmarket \"competitive prices\""
+            ],
+            "antonyms": [
+              "exorbitant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

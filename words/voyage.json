@@ -1,0 +1,88 @@
+[
+  {
+    "word": "voyage",
+    "syllables": [
+      "voy",
+      "age"
+    ],
+    "pronunciation": "ˈvoiij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "voyage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "voyages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long journey involving travel by sea or in space.",
+            "examples": [
+              "a six-year voyage to Jupiter"
+            ],
+            "synonyms": [
+              "journey",
+              "trip",
+              "expedition",
+              "excursion",
+              "tour; Morehike",
+              "trek",
+              "travels; pilgrimage",
+              "quest",
+              "crusade",
+              "odyssey; cruise",
+              "passage",
+              "flight",
+              "drive",
+              "road trip \"the voyage lasted 120 days\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "voyage"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "voyages"
+          },
+          {
+            "part": "past tense",
+            "variant": "voyaged"
+          },
+          {
+            "part": "past participle",
+            "variant": "voyaged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "voyaging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "go on a long journey, typically by sea or in space.",
+            "examples": [
+              "he has voyaged through places like Venezuela and Peru"
+            ]
+          },
+          {
+            "definition": "sail over or along (a sea or river).",
+            "examples": [
+              "travel, journey, tour, globe-trot; Moresail, steam, cruise, fly, drive; informalgallivant; archaicperegrinate \"he voyaged through Peru\"Moresail, steam, cruise, fly, drive; gallivant; peregrinate he voyaged through Peru"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

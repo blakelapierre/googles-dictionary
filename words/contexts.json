@@ -1,0 +1,49 @@
+[
+  {
+    "word": "context",
+    "syllables": [
+      "con",
+      "text"
+    ],
+    "pronunciation": "ˈkäntekst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "contexts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed.",
+            "examples": [
+              "the decision was taken within the context of planned cuts in spending"
+            ],
+            "synonyms": [
+              "circumstances",
+              "conditions",
+              "factors",
+              "state of affairs",
+              "situation",
+              "background",
+              "scene",
+              "setting More\"the wider historical context\"frame of reference",
+              "contextual relationship; text",
+              "subject",
+              "theme",
+              "topic \"a quote taken out of context\""
+            ]
+          },
+          {
+            "definition": "the parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning.",
+            "examples": [
+              "word processing is affected by the context in which words appear"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "desegregate",
+    "syllables": [
+      "de",
+      "seg",
+      "re",
+      "gate"
+    ],
+    "pronunciation": "dēˈseɡrəˌɡāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "desegregate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "desegregates"
+          },
+          {
+            "part": "past tense",
+            "variant": "desegregated"
+          },
+          {
+            "part": "past participle",
+            "variant": "desegregated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "desegregating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "end a policy of racial segregation in.",
+            "examples": [
+              "actions to desegregate schools"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

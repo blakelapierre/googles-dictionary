@@ -1,0 +1,56 @@
+[
+  {
+    "word": "narrowly",
+    "syllables": [
+      "nar",
+      "row",
+      "ly"
+    ],
+    "pronunciation": "ˈnerōlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "narrowly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "by only a small margin; barely.",
+            "examples": [
+              "he narrowly defeated Anderson to win a 12th term in office"
+            ],
+            "synonyms": [
+              "only just",
+              "just",
+              "barely",
+              "scarcely",
+              "hardly",
+              "by a hair's breadth; informalby a whisker \"one bullet narrowly missed him\""
+            ]
+          },
+          {
+            "definition": "closely or carefully.",
+            "examples": [
+              "he was looking at her narrowly"
+            ],
+            "synonyms": [
+              "closely",
+              "carefully",
+              "searchingly",
+              "attentively \"she looked at me narrowly\""
+            ]
+          },
+          {
+            "definition": "in a limited or restricted way.",
+            "examples": [
+              "narrowly defined tasks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

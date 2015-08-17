@@ -1,0 +1,46 @@
+[
+  {
+    "word": "arrow",
+    "syllables": [
+      "ar",
+      "row"
+    ],
+    "pronunciation": "ˈerō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "arrows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shaft sharpened at the front and with feathers or vanes at the back, shot from a bow as a weapon or for sport.",
+            "examples": [
+              "his ability to launch an arrow accurately"
+            ],
+            "synonyms": [
+              "shaft",
+              "bolt",
+              "dart; historicalquarrel \"a bow and arrow\""
+            ]
+          },
+          {
+            "definition": "a mark or sign resembling an arrow, used to show direction or position; a pointer.",
+            "examples": [
+              "we drove in the main gate and followed a series of arrows"
+            ],
+            "synonyms": [
+              "pointer",
+              "indicator",
+              "marker",
+              "needle \"the arrow pointed right\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

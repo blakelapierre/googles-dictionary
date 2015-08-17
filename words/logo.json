@@ -1,0 +1,73 @@
+[
+  {
+    "word": "logo",
+    "syllables": [
+      "lo",
+      "go"
+    ],
+    "pronunciation": "ˈlōɡō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "logo"
+          },
+          {
+            "part": "plural noun",
+            "variant": "logos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a symbol or other design adopted by an organization to identify its products, uniform, vehicles, etc.",
+            "examples": [
+              "the Olympic logo was emblazoned across their jackets"
+            ],
+            "synonyms": [
+              "emblem",
+              "trademark",
+              "brand",
+              "device",
+              "figure",
+              "symbol",
+              "design",
+              "sign",
+              "mark; Moreinsignia",
+              "crest",
+              "seal \"a sweatshirt with the company logo\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "LOGO",
+    "syllables": [
+      "LOGO"
+    ],
+    "pronunciation": "ˈlōɡō",
+    "parts": [
+      {
+        "part": "nounComputing",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "LOGO"
+          },
+          {
+            "part": "plural noun",
+            "variant": "LOGOs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a high-level programming language used to teach computer programming to children."
+          }
+        ]
+      }
+    ]
+  }
+]

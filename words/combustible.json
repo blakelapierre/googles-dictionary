@@ -1,0 +1,61 @@
+[
+  {
+    "word": "combustible",
+    "syllables": [
+      "com",
+      "bus",
+      "ti",
+      "ble"
+    ],
+    "pronunciation": "kəmˈbəstəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "combustible"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "able to catch fire and burn easily.",
+            "examples": [
+              "highly combustible paint thinner"
+            ],
+            "synonyms": [
+              "inflammable",
+              "flammable",
+              "incendiary",
+              "ignitable \"piles of combustible material\""
+            ]
+          },
+          {
+            "definition": "excitable; easily annoyed.",
+            "examples": [
+              "two combustible personalities"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "combustible"
+          },
+          {
+            "part": "plural noun",
+            "variant": "combustibles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a combustible substance."
+          }
+        ]
+      }
+    ]
+  }
+]

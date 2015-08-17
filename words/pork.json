@@ -1,0 +1,64 @@
+[
+  {
+    "word": "pork",
+    "syllables": [
+      "pork"
+    ],
+    "pronunciation": "pôrk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pork"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the flesh of a pig used as food, especially when uncured."
+          },
+          {
+            "definition": "short for pork barrel."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pork"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "porks"
+          },
+          {
+            "part": "past tense",
+            "variant": "porked"
+          },
+          {
+            "part": "past participle",
+            "variant": "porked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "porking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a man) have sexual intercourse with."
+          },
+          {
+            "definition": "stuff oneself with food; overeat.",
+            "examples": [
+              "I porked out on the roast pig"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

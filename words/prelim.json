@@ -1,0 +1,42 @@
+[
+  {
+    "word": "prelim",
+    "syllables": [
+      "pre",
+      "lim"
+    ],
+    "pronunciation": "ˈprēlim",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prelim"
+          },
+          {
+            "part": "plural noun",
+            "variant": "prelims"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an event that precedes or prepares for another, in particular."
+          },
+          {
+            "definition": "a preliminary examination, especially at a college."
+          },
+          {
+            "definition": "a preliminary round in an athletic competition.",
+            "examples": [
+              "the prelims of the 400-meter free relay"
+            ]
+          },
+          {
+            "definition": "the pages preceding the main text of a book, including the title, contents, and preface."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "topminnow",
+    "syllables": [
+      "top",
+      "min",
+      "now"
+    ],
+    "pronunciation": "ˈtäpˌminō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "topminnow"
+          },
+          {
+            "part": "plural noun",
+            "variant": "topminnows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small surface-swimming fish related to the killifishes, found in fresh, brackish, and salt water throughout North America."
+          }
+        ]
+      }
+    ]
+  }
+]

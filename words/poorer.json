@@ -1,0 +1,137 @@
+[
+  {
+    "word": "poor",
+    "syllables": [
+      "poor"
+    ],
+    "pronunciation": "po͝orpôr",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "poorer"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking sufficient money to live at a standard considered comfortable or normal in a society.",
+            "examples": [
+              "people who were too poor to afford a telephone"
+            ],
+            "synonyms": [
+              "poverty-stricken",
+              "penniless",
+              "moneyless",
+              "impoverished",
+              "low-income",
+              "necessitous",
+              "impecunious",
+              "indigent",
+              "needy",
+              "destitute",
+              "pauperized",
+              "unable to make ends meet",
+              "without a sou; Moreinsolvent",
+              "in debt",
+              "without a cent (to one's name); informal(flat) broke",
+              "hard up",
+              "cleaned out",
+              "strapped; formalpenurious \"a poor family\""
+            ],
+            "antonyms": [
+              "rich",
+              "wealthy"
+            ]
+          },
+          {
+            "definition": "(of a place) inhabited by people without sufficient money.",
+            "examples": [
+              "a poor area with run-down movie theaters and overcrowded schools"
+            ]
+          },
+          {
+            "definition": "worse than is usual, expected, or desirable; of a low or inferior standard or quality.",
+            "examples": [
+              "her work was poor"
+            ],
+            "synonyms": [
+              "substandard",
+              "below par",
+              "bad",
+              "deficient",
+              "defective",
+              "faulty",
+              "imperfect",
+              "inferior; Moreappalling",
+              "abysmal",
+              "atrocious",
+              "awful",
+              "terrible",
+              "dreadful",
+              "unsatisfactory",
+              "second-rate",
+              "third-rate",
+              "tinpot",
+              "shoddy",
+              "crude",
+              "lamentable",
+              "deplorable",
+              "inadequate",
+              "unacceptable; informalcrummy",
+              "lame",
+              "crappy",
+              "dismal",
+              "bum",
+              "rotten \"poor workmanship\""
+            ],
+            "antonyms": [
+              "superior"
+            ]
+          },
+          {
+            "definition": "deficient or lacking in.",
+            "examples": [
+              "the water is poor in nutrients"
+            ],
+            "synonyms": [
+              "deficient in",
+              "lacking in",
+              "wanting in",
+              "weak in; Moreshort of",
+              "low on \"the waters are poor in nutrients\""
+            ]
+          },
+          {
+            "definition": "used ironically to deprecate something belonging to or offered by oneself.",
+            "examples": [
+              "he is, in my poor opinion, a more handsome young man"
+            ]
+          },
+          {
+            "definition": "(of a person) considered to be deserving of pity or sympathy.",
+            "examples": [
+              "they inquired after poor Dorothy's broken hip"
+            ],
+            "synonyms": [
+              "unfortunate",
+              "unlucky",
+              "luckless",
+              "unhappy",
+              "hapless",
+              "ill-fated",
+              "ill-starred",
+              "pitiable",
+              "pitiful",
+              "wretched \"you poor thing!\""
+            ],
+            "antonyms": [
+              "lucky"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

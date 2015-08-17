@@ -1,0 +1,31 @@
+[
+  {
+    "word": "broccoli",
+    "syllables": [
+      "broc",
+      "co",
+      "li"
+    ],
+    "pronunciation": "ˈbräk(ə)lē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "broccoli"
+          },
+          {
+            "part": "noun",
+            "variant": "sprouting broccoli"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cabbage of a variety similar to the cauliflower, bearing heads of green or purplish flower buds. It is widely cultivated as a vegetable."
+          }
+        ]
+      }
+    ]
+  }
+]

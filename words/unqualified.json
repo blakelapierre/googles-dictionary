@@ -1,0 +1,70 @@
+[
+  {
+    "word": "unqualified",
+    "syllables": [
+      "un",
+      "qual",
+      "i",
+      "fied"
+    ],
+    "pronunciation": "ˌənˈkwäləˌfīd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unqualified"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) not officially recognized as a practitioner of a particular profession or activity through having satisfied the relevant conditions or requirements.",
+            "examples": [
+              "untrained, inexperienced; Moreunlicensed, quack \"an unqualified accountant\"Moreunlicensed, quack an unqualified accountant"
+            ]
+          },
+          {
+            "definition": "not competent or sufficiently knowledgeable to do something.",
+            "examples": [
+              "I am singularly unqualified to write about football"
+            ],
+            "synonyms": [
+              "unsuitable",
+              "unsuited",
+              "unfit",
+              "ineligible",
+              "incompetent",
+              "unable",
+              "incapable",
+              "unprepared",
+              "ill-equipped",
+              "ill-prepared \"those unqualified to look after children\""
+            ]
+          },
+          {
+            "definition": "without reservation or limitation; total.",
+            "examples": [
+              "the experiment was not an unqualified success"
+            ],
+            "synonyms": [
+              "unconditional",
+              "unreserved",
+              "unlimited",
+              "without reservations",
+              "categorical",
+              "unequivocal",
+              "unambiguous",
+              "wholehearted; Morecomplete",
+              "absolute",
+              "downright",
+              "undivided",
+              "total",
+              "utter \"unqualified support\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

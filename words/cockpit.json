@@ -1,0 +1,48 @@
+[
+  {
+    "word": "cockpit",
+    "syllables": [
+      "cock",
+      "pit"
+    ],
+    "pronunciation": "ˈkäkˌpit",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cockpit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cockpits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a compartment for the pilot and sometimes also the crew in an aircraft or spacecraft.",
+            "examples": [
+              "flight deck, helm, control room; driver's seat I was invited into the cockpit to meet the pilot"
+            ]
+          },
+          {
+            "definition": "a compartment for the driver in a racing car."
+          },
+          {
+            "definition": "a sunken area in the after deck of a boat providing space for members of the crew."
+          },
+          {
+            "definition": "a place where a battle or other conflict takes place.",
+            "examples": [
+              "the cockpit of capitalist conflict in Europe"
+            ]
+          },
+          {
+            "definition": "a place where cockfights are held."
+          }
+        ]
+      }
+    ]
+  }
+]

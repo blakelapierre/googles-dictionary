@@ -1,0 +1,77 @@
+[
+  {
+    "word": "inclusive",
+    "syllables": [
+      "in",
+      "clu",
+      "sive"
+    ],
+    "pronunciation": "inˈklo͞osiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inclusive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "including or covering all the services, facilities, or items normally expected or required.",
+            "examples": [
+              "the price is inclusive, with few incidentals"
+            ],
+            "synonyms": [
+              "all-inclusive",
+              "with everything included",
+              "comprehensive",
+              "in toto; Moreoverall",
+              "full",
+              "all-around",
+              "umbrella",
+              "blanket",
+              "across-the-board",
+              "catch-all",
+              "all-encompassing \"an inclusive travel package\""
+            ]
+          },
+          {
+            "definition": "containing (a specified element) as part of a whole.",
+            "examples": [
+              "all prices are inclusive of taxes"
+            ],
+            "synonyms": [
+              "all-inclusive",
+              "with everything included",
+              "comprehensive",
+              "in toto; Moreoverall",
+              "full",
+              "all-around",
+              "umbrella",
+              "blanket",
+              "across-the-board",
+              "catch-all",
+              "all-encompassing \"an inclusive travel package\""
+            ]
+          },
+          {
+            "definition": "with the inclusion of the extreme limits stated.",
+            "examples": [
+              "between the ages of 55 and 59 inclusive"
+            ]
+          },
+          {
+            "definition": "not excluding any section of society or any party involved in something.",
+            "examples": [
+              "only an inclusive peace process will end the conflict"
+            ]
+          },
+          {
+            "definition": "(of language) deliberately nonsexist, especially avoiding the use of masculine pronouns to refer to both men and women."
+          }
+        ]
+      }
+    ]
+  }
+]

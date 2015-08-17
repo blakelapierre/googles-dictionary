@@ -1,0 +1,103 @@
+[
+  {
+    "word": "tinge",
+    "syllables": [
+      "tinge"
+    ],
+    "pronunciation": "tinj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tinge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tinges"
+          },
+          {
+            "part": "past tense",
+            "variant": "tinged"
+          },
+          {
+            "part": "past participle",
+            "variant": "tinged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tinging"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tingeing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "color slightly.",
+            "examples": [
+              "a mass of white blossom tinged with pink"
+            ],
+            "synonyms": [
+              "tint",
+              "color",
+              "stain",
+              "shade",
+              "wash \"a mass of white blossom tinged with pink\""
+            ]
+          },
+          {
+            "definition": "have a slight influence on; imbue slightly with a feeling or quality.",
+            "examples": [
+              "this visit will be tinged with sadness"
+            ],
+            "synonyms": [
+              "influence",
+              "affect",
+              "touch",
+              "flavor",
+              "color",
+              "modify; taint \"his optimism is tinged with realism\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tinge"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tinges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tendency toward or trace of some color.",
+            "examples": [
+              "there was a faint pink tinge to the sky"
+            ],
+            "synonyms": [
+              "tint",
+              "color",
+              "shade",
+              "tone",
+              "hue \"the light had a blue tinge to it\""
+            ]
+          },
+          {
+            "definition": "a slight trace of a feeling or quality.",
+            "examples": [
+              "trace, note, touch, suggestion, hint, bit, scintilla, savor, flavor, element, modicum, streak, vein, suspicion, soupçon, tincture a tinge of cynicism"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

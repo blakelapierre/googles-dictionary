@@ -1,0 +1,37 @@
+[
+  {
+    "word": "vinegar",
+    "syllables": [
+      "vin",
+      "e",
+      "gar"
+    ],
+    "pronunciation": "ˈvinəɡər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vinegar"
+          },
+          {
+            "part": "plural noun",
+            "variant": "vinegars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling."
+          },
+          {
+            "definition": "sourness or peevishness of behavior, character, or speech.",
+            "examples": [
+              "her aggrieved tone held a touch of vinegar"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "temperate",
+    "syllables": [
+      "tem",
+      "per",
+      "ate"
+    ],
+    "pronunciation": "ˈtemp(ə)rət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "temperate"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or denoting a region or climate characterized by mild temperatures.",
+            "examples": [
+              "mild, clement, benign, gentle, balmy temperate climates"
+            ],
+            "antonyms": [
+              "extreme"
+            ]
+          },
+          {
+            "definition": "showing moderation or self-restraint.",
+            "examples": [
+              "Charles was temperate in his consumption of both food and drink"
+            ],
+            "synonyms": [
+              "self-restrained",
+              "restrained",
+              "moderate",
+              "self-controlled",
+              "disciplined; Moreabstemious",
+              "self-denying",
+              "austere",
+              "ascetic; teetotal",
+              "abstinent \"he was temperate in his consumption of food\""
+            ],
+            "antonyms": [
+              "immoderate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

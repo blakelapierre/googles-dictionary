@@ -1,0 +1,90 @@
+[
+  {
+    "word": "defy",
+    "syllables": [
+      "de",
+      "fy"
+    ],
+    "pronunciation": "dəˈfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "defy"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "defies"
+          },
+          {
+            "part": "past tense",
+            "variant": "defied"
+          },
+          {
+            "part": "past participle",
+            "variant": "defied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "defying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "openly resist or refuse to obey.",
+            "examples": [
+              "a woman who defies convention"
+            ],
+            "synonyms": [
+              "disobey",
+              "go against",
+              "flout",
+              "fly in the face of",
+              "disregard",
+              "ignore; Morebreak",
+              "violate",
+              "contravene",
+              "breach",
+              "infringe \"he defied local law\""
+            ],
+            "antonyms": [
+              "obey"
+            ]
+          },
+          {
+            "definition": "(of a thing) make (an action or quality) almost impossible.",
+            "examples": [
+              "his actions defy belief"
+            ],
+            "synonyms": [
+              "elude",
+              "escape",
+              "defeat; Morefrustrate",
+              "thwart",
+              "baffle \"his actions defy belief\""
+            ]
+          },
+          {
+            "definition": "appear to be challenging (someone) to do or prove something.",
+            "examples": [
+              "he glowered at her, defying her to mock him"
+            ],
+            "synonyms": [
+              "challenge",
+              "dare \"he glowered",
+              "defying her to mock him\""
+            ]
+          },
+          {
+            "definition": "challenge to combat.",
+            "examples": [
+              "go now, defy him to the combat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "word": "expanded",
+    "syllables": [
+      "ex",
+      "pand",
+      "ed"
+    ],
+    "pronunciation": "ikˈspandid",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "expanded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "being or having been enlarged, extended, or broadened, in particular."
+          },
+          {
+            "definition": "denoting materials which have a light cellular structure.",
+            "examples": [
+              "expanded polystyrene"
+            ]
+          },
+          {
+            "definition": "denoting sheet metal slit and stretched into a mesh, used to reinforce concrete and other brittle materials."
+          },
+          {
+            "definition": "relatively broad in shape.",
+            "examples": [
+              "the expanded fins of the ray"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "expand",
+    "syllables": [
+      "ex",
+      "pand"
+    ],
+    "pronunciation": "ikˈspand",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "expanded"
+          },
+          {
+            "part": "past participle",
+            "variant": "expanded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become or make larger or more extensive.",
+            "examples": [
+              "their business expanded into other hotels and properties"
+            ],
+            "synonyms": [
+              "increase in size",
+              "become larger",
+              "enlarge; Moreswell",
+              "dilate",
+              "inflate; lengthen",
+              "stretch",
+              "thicken",
+              "fill out \"metals expand when heated\"grow",
+              "become/make larger",
+              "become/make bigger",
+              "increase in size",
+              "increase in scope",
+              "upsize; extend",
+              "augment",
+              "broaden",
+              "widen",
+              "develop",
+              "diversify",
+              "build up; branch out",
+              "spread",
+              "proliferate \"the company is expanding\""
+            ],
+            "antonyms": [
+              "shrink",
+              "contract",
+              "scale down"
+            ]
+          },
+          {
+            "definition": "(of the universe) undergo a continuous change whereby, according to theory based on observed redshifts, all the galaxies recede from one another."
+          },
+          {
+            "definition": "give a fuller version or account of.",
+            "examples": [
+              "Anne expanded on the theory"
+            ],
+            "synonyms": [
+              "elaborate on",
+              "enlarge on",
+              "go into detail about",
+              "flesh out",
+              "develop",
+              "expatiate on \"the senator expanded on the proposals\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

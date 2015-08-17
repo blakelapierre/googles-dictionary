@@ -1,0 +1,78 @@
+[
+  {
+    "word": "cherish",
+    "syllables": [
+      "cher",
+      "ish"
+    ],
+    "pronunciation": "ˈCHeriSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "cherished"
+          },
+          {
+            "part": "past participle",
+            "variant": "cherished"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "protect and care for (someone) lovingly.",
+            "examples": [
+              "he cared for me beyond measure and cherished me in his heart"
+            ],
+            "synonyms": [
+              "adore",
+              "hold dear",
+              "love",
+              "dote on",
+              "be devoted to",
+              "revere",
+              "esteem",
+              "admire; Morethink the world of",
+              "set great store by",
+              "hold in high esteem; care for",
+              "tend to",
+              "look after",
+              "protect",
+              "preserve",
+              "keep safe \"a woman he could cherish\""
+            ]
+          },
+          {
+            "definition": "hold (something) dear.",
+            "examples": [
+              "I cherish the letters she wrote"
+            ],
+            "synonyms": [
+              "treasure",
+              "prize",
+              "value highly",
+              "hold dear \"I cherish her letters\""
+            ]
+          },
+          {
+            "definition": "keep (a hope or ambition) in one's mind.",
+            "examples": [
+              "he had long cherished a secret fantasy about his future"
+            ],
+            "synonyms": [
+              "harbor",
+              "entertain",
+              "possess",
+              "hold (on to)",
+              "cling to",
+              "keep in one's mind",
+              "foster",
+              "nurture \"they cherished dreams of glory\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

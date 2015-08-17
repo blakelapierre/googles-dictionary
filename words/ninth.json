@@ -1,0 +1,55 @@
+[
+  {
+    "word": "ninth",
+    "syllables": [
+      "ninth"
+    ],
+    "pronunciation": "nīnTH",
+    "parts": [
+      {
+        "part": "number",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "ninth"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "constituting number nine in a sequence; 9th.",
+            "examples": [
+              "the ninth century"
+            ]
+          },
+          {
+            "definition": "each of nine equal parts into which something is or may be divided.",
+            "examples": [
+              "noun: ninth; plural noun: ninths"
+            ]
+          },
+          {
+            "definition": "the ninth finisher or position in a race or competition.",
+            "examples": [
+              "he came in ninth"
+            ]
+          },
+          {
+            "definition": "the ninth and final inning of a regulation baseball game.",
+            "examples": [
+              "he was rocked for five runs in the ninth"
+            ]
+          },
+          {
+            "definition": "an interval spanning nine consecutive notes in a diatonic scale."
+          },
+          {
+            "definition": "the note that is nine notes higher than the tonic of a diatonic scale or root of a chord."
+          },
+          {
+            "definition": "a chord in which the ninth note above the root forms an important component."
+          }
+        ]
+      }
+    ]
+  }
+]

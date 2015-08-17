@@ -1,0 +1,75 @@
+[
+  {
+    "word": "manipulate",
+    "syllables": [
+      "ma",
+      "nip",
+      "u",
+      "late"
+    ],
+    "pronunciation": "məˈnipyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "manipulating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "handle or control (a tool, mechanism, etc.), typically in a skillful manner.",
+            "examples": [
+              "he manipulated the dials of the set"
+            ],
+            "synonyms": [
+              "operate",
+              "work; Moreturn",
+              "pull \"he manipulated some knobs and levers\""
+            ]
+          },
+          {
+            "definition": "alter, edit, or move (text or data) on a computer."
+          },
+          {
+            "definition": "examine or treat (a part of the body) by feeling or moving it with the hand.",
+            "examples": [
+              "a system of healing based on manipulating the ligaments of the spine"
+            ],
+            "synonyms": [
+              "massage",
+              "rub",
+              "knead",
+              "feel",
+              "palpate \"she manipulated the muscles of his back\""
+            ]
+          },
+          {
+            "definition": "control or influence (a person or situation) cleverly, unfairly, or unscrupulously.",
+            "examples": [
+              "the masses were deceived and manipulated by a tiny group"
+            ],
+            "synonyms": [
+              "control",
+              "influence",
+              "use/turn to one's advantage",
+              "exploit",
+              "maneuver",
+              "engineer",
+              "steer",
+              "direct",
+              "gerrymander; twist someone around one's little finger \"the government tried to manipulate the situation\""
+            ]
+          },
+          {
+            "definition": "alter (data) or present (statistics) so as to mislead.",
+            "examples": [
+              "falsify, rig, distort, alter, change, doctor, massage, juggle, tamper with, tinker with, interfere with, misrepresent; Moreinformalcook, fiddle with \"they accused him of manipulating the data\"Morecook, fiddle with they accused him of manipulating the data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

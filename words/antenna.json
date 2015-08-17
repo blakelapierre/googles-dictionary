@@ -1,0 +1,44 @@
+[
+  {
+    "word": "antenna",
+    "syllables": [
+      "an",
+      "ten",
+      "na"
+    ],
+    "pronunciation": "anˈtenə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "antenna"
+          },
+          {
+            "part": "plural noun",
+            "variant": "antennae"
+          },
+          {
+            "part": "plural noun",
+            "variant": "antennas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "either of a pair of long, thin sensory appendages on the heads of insects, crustaceans, and some other arthropods."
+          },
+          {
+            "definition": "the faculty of instinctively detecting and interpreting subtle signs.",
+            "examples": [
+              "he has the political antennae of a party whip"
+            ]
+          },
+          {
+            "definition": "a rod, wire, or other device used to transmit or receive radio or television signals."
+          }
+        ]
+      }
+    ]
+  }
+]

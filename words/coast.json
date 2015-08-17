@@ -1,0 +1,109 @@
+[
+  {
+    "word": "coast",
+    "syllables": [
+      "coast"
+    ],
+    "pronunciation": "kōst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "coasts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the part of the land near the sea; the edge of the land.",
+            "examples": [
+              "the west coast of Africa"
+            ],
+            "synonyms": [
+              "seaboard",
+              "coastal region",
+              "coastline",
+              "seashore",
+              "shore",
+              "foreshore",
+              "shoreline",
+              "seaside",
+              "waterfront",
+              "littoral; literarystrand \"the houses along the coast\""
+            ]
+          },
+          {
+            "definition": "the Pacific coast of North America.",
+            "examples": [
+              "singular proper noun: Coast; noun: the Coast"
+            ]
+          },
+          {
+            "definition": "a run or movement in or on a vehicle without the use of power."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "coast"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "coasts"
+          },
+          {
+            "part": "past tense",
+            "variant": "coasted"
+          },
+          {
+            "part": "past participle",
+            "variant": "coasted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "coasting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or vehicle) move easily without using power.",
+            "examples": [
+              "the engines stopped, and the craft coasted along"
+            ]
+          },
+          {
+            "definition": "act or make progress without making much effort.",
+            "examples": [
+              "he coasted to victory"
+            ],
+            "synonyms": [
+              "freewheel",
+              "cruise",
+              "taxi",
+              "drift",
+              "glide",
+              "sail \"the car coasted down a hill\""
+            ]
+          },
+          {
+            "definition": "slide down a snowy hill on a sled."
+          },
+          {
+            "definition": "sail along the coast, especially in order to carry cargo.",
+            "examples": [
+              "a coasting schooner"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

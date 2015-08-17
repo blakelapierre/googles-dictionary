@@ -1,0 +1,171 @@
+[
+  {
+    "word": "manage",
+    "syllables": [
+      "man",
+      "age"
+    ],
+    "pronunciation": "ˈmanij",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "managed"
+          },
+          {
+            "part": "past participle",
+            "variant": "managed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be in charge of (a company, establishment, or undertaking); administer; run.",
+            "examples": [
+              "their elder son managed the farm"
+            ],
+            "synonyms": [
+              "be in charge of",
+              "run",
+              "be head of",
+              "head",
+              "direct",
+              "control",
+              "preside over",
+              "lead",
+              "govern",
+              "rule",
+              "command",
+              "superintend",
+              "supervise",
+              "oversee",
+              "administer",
+              "organize",
+              "conduct",
+              "handle",
+              "guide",
+              "be at the helm of; informalhead up \"she manages a staff of 80 people\""
+            ]
+          },
+          {
+            "definition": "administer and regulate (resources under one's control).",
+            "examples": [
+              "we manage our cash extremely well"
+            ]
+          },
+          {
+            "definition": "have the position of supervising (staff) at work.",
+            "examples": [
+              "the skills needed to manage a young, dynamic team"
+            ]
+          },
+          {
+            "definition": "be the manager of (a sports team or a performer).",
+            "examples": [
+              "he managed five or six bands in his career"
+            ],
+            "synonyms": [
+              "be in charge of",
+              "run",
+              "be head of",
+              "head",
+              "direct",
+              "control",
+              "preside over",
+              "lead",
+              "govern",
+              "rule",
+              "command",
+              "superintend",
+              "supervise",
+              "oversee",
+              "administer",
+              "organize",
+              "conduct",
+              "handle",
+              "guide",
+              "be at the helm of; informalhead up \"she manages a staff of 80 people\""
+            ]
+          },
+          {
+            "definition": "maintain control or influence over (a person or animal).",
+            "examples": [
+              "she manages horses better than anyone I know"
+            ],
+            "synonyms": [
+              "control",
+              "handle",
+              "master; Morecope with",
+              "deal with \"she can't manage that horse\""
+            ]
+          },
+          {
+            "definition": "control the use or exploitation of (land).",
+            "examples": [
+              "the forest is managed to achieve maximum growth"
+            ]
+          },
+          {
+            "definition": "succeed in surviving or in attaining one's aims, especially against heavy odds; cope.",
+            "examples": [
+              "Catherine managed on five hours' sleep a night"
+            ],
+            "synonyms": [
+              "cope",
+              "get along/on",
+              "make do",
+              "be/fare/do all right",
+              "carry on",
+              "survive",
+              "get by",
+              "muddle through/along",
+              "fend for oneself",
+              "shift for oneself",
+              "make ends meet",
+              "weather the storm; Moreinformalmake out",
+              "hack it \"will you be able to manage without him?\""
+            ]
+          },
+          {
+            "definition": "succeed in doing, achieving, or producing (something, especially something difficult).",
+            "examples": [
+              "she managed a brave but unconvincing smile"
+            ],
+            "synonyms": [
+              "accomplish",
+              "achieve",
+              "do",
+              "carry out",
+              "perform",
+              "undertake",
+              "bring about/off",
+              "effect",
+              "finish; Moresucceed in",
+              "contrive",
+              "engineer \"he managed a smile\""
+            ]
+          },
+          {
+            "definition": "succeed in dealing with or withstanding (something).",
+            "examples": [
+              "there was more stress and anxiety than he could manage"
+            ],
+            "synonyms": [
+              "control",
+              "handle",
+              "master; Morecope with",
+              "deal with \"she can't manage that horse\""
+            ]
+          },
+          {
+            "definition": "be free to attend on (a certain day) or at (a certain time).",
+            "examples": [
+              "he could not manage March 24 after all"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "word": "waterski",
+    "syllables": [
+      "wa",
+      "ter",
+      "ski"
+    ],
+    "pronunciation": "ˈwädərˌskē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "waterskis"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each of a pair of skis enabling the wearer to skim the surface of the water when towed by a motorboat."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "waterskis"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "skim the surface of water on waterskis."
+          }
+        ]
+      }
+    ]
+  }
+]

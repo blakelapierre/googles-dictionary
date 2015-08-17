@@ -1,0 +1,149 @@
+[
+  {
+    "word": "league",
+    "syllables": [
+      "league"
+    ],
+    "pronunciation": "lēɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "league"
+          },
+          {
+            "part": "plural noun",
+            "variant": "leagues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a collection of people, countries, or groups that combine for a particular purpose, typically mutual protection or cooperation.",
+            "examples": [
+              "the League of Nations"
+            ],
+            "synonyms": [
+              "alliance",
+              "confederation",
+              "confederacy",
+              "federation",
+              "union",
+              "association",
+              "coalition",
+              "consortium",
+              "affiliation",
+              "guild",
+              "cooperative",
+              "partnership",
+              "fellowship",
+              "syndicate \"a league of nations\""
+            ]
+          },
+          {
+            "definition": "an agreement to combine for a particular purpose."
+          },
+          {
+            "definition": "a group of sports clubs that play each other over a period for a championship.",
+            "examples": [
+              "big league(s), major league(s), minor league(s), American League, National League, intramural league, Little League, bush league the best team in the league"
+            ]
+          },
+          {
+            "definition": "the contest for the championship of a league.",
+            "examples": [
+              "the year we won the league"
+            ]
+          },
+          {
+            "definition": "a class or category of quality or excellence.",
+            "examples": [
+              "the two men were not in the same league"
+            ],
+            "synonyms": [
+              "class",
+              "group",
+              "circle",
+              "category",
+              "level \"the store is not in the same league\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "league"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "leagues"
+          },
+          {
+            "part": "past tense",
+            "variant": "leagued"
+          },
+          {
+            "part": "past participle",
+            "variant": "leagued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "leaguing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join in a league or alliance.",
+            "examples": [
+              "Oscar had leagued with other construction firms"
+            ],
+            "synonyms": [
+              "ally",
+              "join forces",
+              "join together",
+              "unite",
+              "band together",
+              "affiliate",
+              "combine",
+              "amalgamate",
+              "confederate",
+              "team up",
+              "join up \"they leagued together with other companies\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "league",
+    "syllables": [
+      "league"
+    ],
+    "pronunciation": "lēɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "league"
+          },
+          {
+            "part": "plural noun",
+            "variant": "leagues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a former measure of distance by land, usually about three miles."
+          }
+        ]
+      }
+    ]
+  }
+]

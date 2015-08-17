@@ -1,0 +1,116 @@
+[
+  {
+    "word": "regarding",
+    "syllables": [
+      "re",
+      "gard",
+      "ing"
+    ],
+    "pronunciation": "rəˈɡärdiNG",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "regarding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with respect to; concerning.",
+            "examples": [
+              "your recent letter regarding the above proposal"
+            ],
+            "synonyms": [
+              "concerning",
+              "as regards",
+              "with/in regard to",
+              "with respect to",
+              "with reference to",
+              "relating to",
+              "respecting",
+              "re",
+              "about",
+              "apropos",
+              "on the subject of",
+              "in connection with",
+              "vis-à-vis \"the condo commission has called a special meeting regarding pet ownership\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "regard",
+    "syllables": [
+      "re",
+      "gard"
+    ],
+    "pronunciation": "rəˈɡärd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "regarding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "consider or think of (someone or something) in a specified way.",
+            "examples": [
+              "she regarded Omaha as her base"
+            ],
+            "synonyms": [
+              "consider",
+              "look on",
+              "view",
+              "see",
+              "think of",
+              "judge",
+              "deem",
+              "estimate",
+              "assess",
+              "reckon",
+              "adjudge",
+              "rate",
+              "gauge \"we regard these results as encouraging\""
+            ]
+          },
+          {
+            "definition": "gaze at steadily in a specified fashion.",
+            "examples": [
+              "Professor Ryker regarded him with a faint smile"
+            ],
+            "synonyms": [
+              "look at",
+              "contemplate",
+              "eye",
+              "gaze at",
+              "stare at; Morewatch",
+              "observe",
+              "view",
+              "study",
+              "scrutinize; literarybehold \"he regarded her coldly\""
+            ]
+          },
+          {
+            "definition": "(of a thing) have relation to or connection with; concern.",
+            "examples": [
+              "if these things regarded only myself, I could stand it with composure"
+            ]
+          },
+          {
+            "definition": "pay attention to; heed.",
+            "examples": [
+              "he talked very wisely, but I regarded him not"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

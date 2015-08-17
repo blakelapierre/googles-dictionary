@@ -1,0 +1,30 @@
+[
+  {
+    "word": "keypad",
+    "syllables": [
+      "key",
+      "pad"
+    ],
+    "pronunciation": "ˈkēˌpad",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "keypad"
+          },
+          {
+            "part": "plural noun",
+            "variant": "keypads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a miniature keyboard or set of buttons for operating a portable electronic device, telephone, or other equipment."
+          }
+        ]
+      }
+    ]
+  }
+]

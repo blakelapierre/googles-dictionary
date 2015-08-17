@@ -1,0 +1,49 @@
+[
+  {
+    "word": "handicraft",
+    "syllables": [
+      "hand",
+      "i",
+      "craft"
+    ],
+    "pronunciation": "ˈhandēˌkraft",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "handicraft"
+          },
+          {
+            "part": "plural noun",
+            "variant": "handicrafts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a particular skill of making decorative objects by hand.",
+            "examples": [
+              "the traditional handicrafts of this region"
+            ],
+            "synonyms": [
+              "craft",
+              "handiwork",
+              "craftwork; Morecraftsmanship",
+              "workmanship",
+              "artisanship",
+              "art",
+              "skill \"a prime example of early American handicraft\""
+            ]
+          },
+          {
+            "definition": "an object made using a handicraft.",
+            "examples": [
+              "pottery and handicrafts decorate the rooms and hallways"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

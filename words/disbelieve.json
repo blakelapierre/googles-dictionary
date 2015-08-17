@@ -1,0 +1,73 @@
+[
+  {
+    "word": "disbelieve",
+    "syllables": [
+      "dis",
+      "be",
+      "lieve"
+    ],
+    "pronunciation": "ˌdisbəˈlēv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "disbelieve"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "disbelieves"
+          },
+          {
+            "part": "past tense",
+            "variant": "disbelieved"
+          },
+          {
+            "part": "past participle",
+            "variant": "disbelieved"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "disbelieving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be unable to believe (someone or something).",
+            "examples": [
+              "he seemed to disbelieve her"
+            ],
+            "synonyms": [
+              "not believe",
+              "give no credence to",
+              "discredit",
+              "discount",
+              "doubt",
+              "distrust",
+              "mistrust",
+              "be incredulous",
+              "be unconvinced; Morereject",
+              "repudiate",
+              "question",
+              "challenge; informaltake with a pinch of salt \"we've learned to disbelieve most of Hubert's explanations\"incredulous",
+              "doubtful",
+              "dubious",
+              "unconvinced; distrustful",
+              "mistrustful",
+              "suspicious",
+              "cynical",
+              "skeptical \"he regretted having been so disbelieving\""
+            ]
+          },
+          {
+            "definition": "have no faith in God, spiritual beings, or a religious system.",
+            "examples": [
+              "to disbelieve is as much an act of faith as belief"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

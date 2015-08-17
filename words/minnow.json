@@ -1,0 +1,42 @@
+[
+  {
+    "word": "minnow",
+    "syllables": [
+      "min",
+      "now"
+    ],
+    "pronunciation": "ˈminō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "minnow"
+          },
+          {
+            "part": "plural noun",
+            "variant": "minnows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small freshwater Eurasian cyprinoid fish that typically forms large shoals."
+          },
+          {
+            "definition": "any fish of the family Cyprinidae, the largest family of fishes, which includes carps, shiners, spinefins, squawfishes, chubs, daces, and stonerollers."
+          },
+          {
+            "definition": "used in names of similar small freshwater fishes, e.g., mudminnow, topminnow."
+          },
+          {
+            "definition": "an artificial lure imitating a minnow."
+          },
+          {
+            "definition": "a person or organization of relatively small size, power, or influence."
+          }
+        ]
+      }
+    ]
+  }
+]

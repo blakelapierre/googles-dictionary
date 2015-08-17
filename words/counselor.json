@@ -1,0 +1,64 @@
+[
+  {
+    "word": "counselor",
+    "syllables": [
+      "coun",
+      "se",
+      "lor"
+    ],
+    "pronunciation": "ˈkouns(ə)lər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "counsellor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "counsellors"
+          },
+          {
+            "part": "noun",
+            "variant": "counselor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "counselors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person trained to give guidance on personal, social, or psychological problems.",
+            "examples": [
+              "a marriage counselor"
+            ],
+            "synonyms": [
+              "adviser",
+              "consultant",
+              "guide",
+              "mentor; Moreexpert",
+              "specialist \"I discussed college choices with my counselor\""
+            ]
+          },
+          {
+            "definition": "a person who gives advice on a specified subject.",
+            "examples": [
+              "a debt counselor"
+            ]
+          },
+          {
+            "definition": "a person who supervises children at a camp."
+          },
+          {
+            "definition": "a trial lawyer."
+          },
+          {
+            "definition": "a senior officer in the diplomatic service."
+          }
+        ]
+      }
+    ]
+  }
+]

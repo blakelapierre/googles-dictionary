@@ -1,0 +1,53 @@
+[
+  {
+    "word": "shortcoming",
+    "syllables": [
+      "short",
+      "com",
+      "ing"
+    ],
+    "pronunciation": "ˈSHôrtˌkəmiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "shortcoming"
+          },
+          {
+            "part": "plural noun",
+            "variant": "shortcomings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fault or failure to meet a certain standard, typically in a person's character, a plan, or a system.",
+            "examples": [
+              "he is so forthright about his shortcomings, it's hard to chastise him"
+            ],
+            "synonyms": [
+              "defect",
+              "fault",
+              "flaw",
+              "imperfection",
+              "deficiency",
+              "limitation",
+              "failing",
+              "drawback",
+              "weakness",
+              "weak point",
+              "foible",
+              "frailty",
+              "vice \"after forty years of marriage",
+              "he still claimed she had few shortcomings\""
+            ],
+            "antonyms": [
+              "strength"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

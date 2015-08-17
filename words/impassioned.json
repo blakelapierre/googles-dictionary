@@ -1,0 +1,77 @@
+[
+  {
+    "word": "impassioned",
+    "syllables": [
+      "im",
+      "pas",
+      "sioned"
+    ],
+    "pronunciation": "imˈpaSHənd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "impassioned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "filled with or showing great emotion.",
+            "examples": [
+              "she made an impassioned plea for help"
+            ],
+            "synonyms": [
+              "emotional",
+              "heartfelt",
+              "wholehearted",
+              "earnest",
+              "sincere",
+              "fervent",
+              "ardent",
+              "passionate",
+              "fervid",
+              "intense",
+              "burning; Morevehement",
+              "zealous",
+              "heated; literaryperfervid \"an impassioned commentary about the state of American politics\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "impassion",
+    "syllables": [
+      "im",
+      "pas",
+      "sion"
+    ],
+    "pronunciation": "imˈpaSHən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "impassioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "impassioned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make passionate.",
+            "examples": [
+              "her body had once pleased and impassioned him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

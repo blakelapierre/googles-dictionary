@@ -1,0 +1,30 @@
+[
+  {
+    "word": "graphite",
+    "syllables": [
+      "graph",
+      "ite"
+    ],
+    "pronunciation": "ˈɡraˌfīt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "graphite"
+          },
+          {
+            "part": "plural noun",
+            "variant": "graphites"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gray, crystalline, allotropic form of carbon that occurs as a mineral in some rocks and can be made from coke. It is used as a solid lubricant, in pencils, and as a moderator in nuclear reactors."
+          }
+        ]
+      }
+    ]
+  }
+]

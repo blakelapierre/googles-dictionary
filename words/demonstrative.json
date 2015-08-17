@@ -1,0 +1,85 @@
+[
+  {
+    "word": "demonstrative",
+    "syllables": [
+      "de",
+      "mon",
+      "stra",
+      "tive"
+    ],
+    "pronunciation": "dəˈmänstrədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "demonstrative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) tending to show feelings, especially of affection, openly.",
+            "examples": [
+              "expressive, open, forthcoming, communicative, unreserved, emotional, effusive, gushing; Moreaffectionate, cuddly, loving, warm, friendly, approachable; informaltouchy-feely, lovey-dovey, huggy \"a very demonstrative family\"Moreaffectionate, cuddly, loving, warm, friendly, approachable; touchy-feely, lovey-dovey, huggy a very demonstrative family"
+            ],
+            "antonyms": [
+              "reserved"
+            ]
+          },
+          {
+            "definition": "serving as conclusive evidence of something; giving proof.",
+            "examples": [
+              "demonstrative evidence"
+            ],
+            "synonyms": [
+              "indicative",
+              "suggestive",
+              "illustrative More\"the successes are demonstrative of their skill\"convincing",
+              "definite",
+              "positive",
+              "telling",
+              "conclusive",
+              "certain",
+              "decisive; incontrovertible",
+              "irrefutable",
+              "undeniable",
+              "indisputable",
+              "unassailable \"demonstrative evidence of his theorem\""
+            ],
+            "antonyms": [
+              "inconclusive"
+            ]
+          },
+          {
+            "definition": "involving demonstration, especially by scientific means.",
+            "examples": [
+              "the possibility of a demonstrative science of ethics"
+            ]
+          },
+          {
+            "definition": "(of a determiner or pronoun) indicating the person or thing referred to (e.g., this, that, those )."
+          }
+        ]
+      },
+      {
+        "part": "nounGrammar",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "demonstrative"
+          },
+          {
+            "part": "plural noun",
+            "variant": "demonstratives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a demonstrative determiner or pronoun."
+          }
+        ]
+      }
+    ]
+  }
+]

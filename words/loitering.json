@@ -1,0 +1,57 @@
+[
+  {
+    "word": "loiter",
+    "syllables": [
+      "loi",
+      "ter"
+    ],
+    "pronunciation": "ˈloidər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "loitering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stand or wait around idly or without apparent purpose.",
+            "examples": [
+              "she saw Mary loitering near the cloakrooms"
+            ],
+            "synonyms": [
+              "linger",
+              "wait",
+              "skulk; Moreloaf",
+              "lounge",
+              "idle",
+              "laze",
+              "waste time",
+              "lollygag; informalhang around; archaictarry \"he loitered at bus stops\""
+            ]
+          },
+          {
+            "definition": "travel indolently and with frequent pauses.",
+            "examples": [
+              "they loitered along in the sunshine, stopping at the least excuse"
+            ],
+            "synonyms": [
+              "dawdle",
+              "dally",
+              "stroll",
+              "amble",
+              "saunter",
+              "meander",
+              "drift",
+              "putter",
+              "take one's time; Moreinformaldilly-dally",
+              "mosey \"they loitered along the river bank\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

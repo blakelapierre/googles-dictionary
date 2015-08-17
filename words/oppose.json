@@ -1,0 +1,77 @@
+[
+  {
+    "word": "oppose",
+    "syllables": [
+      "op",
+      "pose"
+    ],
+    "pronunciation": "əˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "oppose"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "opposes"
+          },
+          {
+            "part": "past tense",
+            "variant": "opposed"
+          },
+          {
+            "part": "past participle",
+            "variant": "opposed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "opposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "disapprove of and attempt to prevent, especially by argument.",
+            "examples": [
+              "those of you who oppose capital punishment"
+            ]
+          },
+          {
+            "definition": "actively resist or refuse to comply with (a person or a system).",
+            "examples": [
+              "off-roaders who adamantly opposed new trail restrictions"
+            ],
+            "synonyms": [
+              "be against",
+              "object to",
+              "be hostile to",
+              "be in opposition to",
+              "disagree with",
+              "dislike",
+              "disapprove of; Moreresist",
+              "take a stand against",
+              "put up a fight against",
+              "stand up to",
+              "fight",
+              "challenge; take issue with",
+              "dispute",
+              "argue with/against",
+              "quarrel with; informalbe anti-; formalgainsay; rarecontrovert \"most voters opposed the new school budget\""
+            ],
+            "antonyms": [
+              "support"
+            ]
+          },
+          {
+            "definition": "compete against (someone) in a contest.",
+            "examples": [
+              "a candidate to oppose the leader in the presidential contest"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

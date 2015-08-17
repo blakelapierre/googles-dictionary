@@ -1,0 +1,31 @@
+[
+  {
+    "word": "widower",
+    "syllables": [
+      "wid",
+      "ow",
+      "er"
+    ],
+    "pronunciation": "ˈwidō(ə)r",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "widower"
+          },
+          {
+            "part": "plural noun",
+            "variant": "widowers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a man who has lost his spouse by death and has not remarried."
+          }
+        ]
+      }
+    ]
+  }
+]

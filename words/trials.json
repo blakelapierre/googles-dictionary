@@ -1,0 +1,139 @@
+[
+  {
+    "word": "trial",
+    "syllables": [
+      "tri",
+      "al"
+    ],
+    "pronunciation": "ˈtrī(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "trials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.",
+            "examples": [
+              "the newspaper accounts of the trial"
+            ],
+            "synonyms": [
+              "court case",
+              "case",
+              "assize",
+              "lawsuit",
+              "suit",
+              "hearing",
+              "inquiry",
+              "tribunal",
+              "litigation",
+              "legal proceedings",
+              "judicial proceedings",
+              "proceedings",
+              "legal action; Morecourt-martial; appeal",
+              "retrial \"the trial is expected to last several weeks\""
+            ]
+          },
+          {
+            "definition": "a test of the performance, qualities, or suitability of someone or something.",
+            "examples": [
+              "clinical trials must establish whether the new hip replacements are working"
+            ],
+            "synonyms": [
+              "test",
+              "tryout",
+              "experiment",
+              "pilot study; Moreexamination",
+              "check",
+              "assessment",
+              "evaluation",
+              "appraisal; trial/test period",
+              "trial/test run",
+              "beta test",
+              "dry run \"the product is undergoing clinical trials\""
+            ]
+          },
+          {
+            "definition": "an athletic contest to test the ability of players eligible for selection to a team."
+          },
+          {
+            "definition": "an event in which horses, dogs, or other animals compete or perform.",
+            "examples": [
+              "horse trials"
+            ]
+          },
+          {
+            "definition": "a person, thing, or situation that tests a person's endurance or forbearance.",
+            "examples": [
+              "the trials and tribulations of married life"
+            ],
+            "synonyms": [
+              "nuisance",
+              "pest",
+              "irritant",
+              "problem",
+              "ordeal",
+              "inconvenience",
+              "plague",
+              "thorn in one's side",
+              "one's cross to bear; Morebore; informalpain",
+              "pain in the neck",
+              "pain in the butt",
+              "headache",
+              "drag",
+              "bother",
+              "nightmare",
+              "albatross; nudnik",
+              "burr under someone's saddle \"she could be a bit of a trial at times\"trouble",
+              "anxiety",
+              "worry",
+              "burden",
+              "affliction",
+              "ordeal",
+              "tribulation",
+              "adversity",
+              "hardship",
+              "trying time",
+              "tragedy",
+              "trauma",
+              "setback",
+              "difficulty",
+              "problem",
+              "misfortune",
+              "bad luck",
+              "mishap",
+              "misadventure; informalhassle; literarytravails \"a long account of her trials and tribulations\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "trials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "test (something, especially a new product) to assess its suitability or performance.",
+            "examples": [
+              "all seeds are carefully trialed in a variety of growing conditions"
+            ]
+          },
+          {
+            "definition": "(of a horse, dog, or other animal) compete in trials.",
+            "examples": [
+              "the pup trialed on Saturday"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

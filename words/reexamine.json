@@ -1,0 +1,33 @@
+[
+  {
+    "word": "re-examine",
+    "syllables": [
+      "re-ex",
+      "am",
+      "ine"
+    ],
+    "pronunciation": "ˌrēəɡˈzamən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reexamine"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "examine again or further.",
+            "examples": [
+              "I will have the body re-examined"
+            ]
+          },
+          {
+            "definition": "examine (a witness) again, after cross-examination by the opposing counsel."
+          }
+        ]
+      }
+    ]
+  }
+]

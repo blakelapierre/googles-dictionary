@@ -1,0 +1,80 @@
+[
+  {
+    "word": "encompass",
+    "syllables": [
+      "en",
+      "com",
+      "pass"
+    ],
+    "pronunciation": "inˈkəmpəsenˈkəmpəs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "encompass"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "encompasses"
+          },
+          {
+            "part": "past tense",
+            "variant": "encompassed"
+          },
+          {
+            "part": "past participle",
+            "variant": "encompassed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "encompassing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "surround and have or hold within.",
+            "examples": [
+              "a vast halo encompassing the Milky Way galaxy"
+            ],
+            "synonyms": [
+              "surround",
+              "enclose",
+              "encircle",
+              "circumscribe",
+              "bound",
+              "border; Moreliterarygird",
+              "engird; rarecompass \"the apartment buildings encompass common recreational grounds",
+              "complete with swimming pool and tennis court\""
+            ]
+          },
+          {
+            "definition": "include comprehensively.",
+            "examples": [
+              "no studies encompass all aspects of medical care"
+            ],
+            "synonyms": [
+              "cover",
+              "embrace",
+              "include",
+              "incorporate",
+              "take in",
+              "contain",
+              "comprise",
+              "involve",
+              "deal with",
+              "range across; formalcomprehend \"the debates encompassed a vast range of subjects\""
+            ]
+          },
+          {
+            "definition": "cause (something) to take place.",
+            "examples": [
+              "an act designed to encompass the death of the king"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

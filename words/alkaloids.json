@@ -1,0 +1,27 @@
+[
+  {
+    "word": "alkaloid",
+    "syllables": [
+      "al",
+      "ka",
+      "loid"
+    ],
+    "pronunciation": "ˈalkəˌloid",
+    "parts": [
+      {
+        "part": "nounChemistry",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "alkaloids"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of a class of nitrogenous organic compounds of plant origin that have pronounced physiological actions on humans. They include many drugs (morphine, quinine) and poisons (atropine, strychnine)."
+          }
+        ]
+      }
+    ]
+  }
+]

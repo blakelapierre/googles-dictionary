@@ -1,0 +1,37 @@
+[
+  {
+    "word": "exhalation",
+    "syllables": [
+      "ex",
+      "ha",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌeks(h)əˈlāSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exhalation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process or action of exhaling."
+          },
+          {
+            "definition": "an expiration of air from the lungs.",
+            "examples": [
+              "plural noun: exhalations"
+            ]
+          },
+          {
+            "definition": "an amount of vapor or fumes given off."
+          }
+        ]
+      }
+    ]
+  }
+]

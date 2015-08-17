@@ -1,0 +1,82 @@
+[
+  {
+    "word": "comprehend",
+    "syllables": [
+      "com",
+      "pre",
+      "hend"
+    ],
+    "pronunciation": "ˌkämprəˈhend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "comprehend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "comprehends"
+          },
+          {
+            "part": "past tense",
+            "variant": "comprehended"
+          },
+          {
+            "part": "past participle",
+            "variant": "comprehended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "comprehending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grasp mentally; understand.",
+            "examples": [
+              "he couldn't comprehend her reasons for marrying Lovat"
+            ],
+            "synonyms": [
+              "understand",
+              "grasp",
+              "take in",
+              "see",
+              "apprehend",
+              "follow",
+              "make sense of",
+              "fathom",
+              "get to the bottom of; Moreunravel",
+              "decipher",
+              "interpret; informalwork out",
+              "figure out",
+              "make head(s) or tail(s) of",
+              "get one's head around",
+              "get the drift of",
+              "catch on to",
+              "get \"Katie couldn't comprehend his message\""
+            ]
+          },
+          {
+            "definition": "include, comprise, or encompass.",
+            "examples": [
+              "a divine order comprehending all men"
+            ],
+            "synonyms": [
+              "comprise",
+              "include",
+              "encompass",
+              "embrace",
+              "involve",
+              "contain \"a divine order comprehending all men\""
+            ],
+            "antonyms": [
+              "exclude"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

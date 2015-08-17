@@ -1,30 +1,85 @@
-{
-  "word": "allure",
-  "syllables": [
-    "al",
-    "lure"
-  ],
-  "pronunciation": "əˈlo͝or",
-  "parts": [
-    {
-      "part": "verb",
-      "variants": [
-        {
-          "part": "gerund or present participle",
-          "variant": "alluring"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "powerfully attract or charm; tempt.",
-          "examples": [
-            "attract, lure, entice, tempt, appeal to, captivate, draw, win over, charm, seduce, inveigle, beguile, fascinate, whet the appetite of, make someone's mouth water More\"will sponsors be allured by such opportunities?\"enticing, tempting, attractive, appealing, inviting, captivating, fetching, seductive; enchanting, charming, fascinating; informalcome-hither \"an alluring hostess\"Morewill sponsors be allured by such opportunities?enticing, tempting, attractive, appealing, inviting, captivating, fetching, seductive; enchanting, charming, fascinating; come-hither an alluring hostess"
-          ],
-          "antonyms": [
-            "repel"
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "word": "allure",
+    "syllables": [
+      "al",
+      "lure"
+    ],
+    "pronunciation": "əˈlo͝or",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "allure"
+          },
+          {
+            "part": "plural noun",
+            "variant": "allures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being powerfully and mysteriously attractive or fascinating.",
+            "examples": [
+              "people for whom gold holds no allure"
+            ],
+            "synonyms": [
+              "attraction",
+              "lure",
+              "draw",
+              "pull",
+              "appeal",
+              "allurement",
+              "enticement",
+              "temptation",
+              "charm",
+              "seduction",
+              "fascination \"the allure of Paris\""
+            ],
+            "antonyms": [
+              "repulsion"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "allure"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "allures"
+          },
+          {
+            "part": "past tense",
+            "variant": "allured"
+          },
+          {
+            "part": "past participle",
+            "variant": "allured"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "alluring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "powerfully attract or charm; tempt.",
+            "examples": [
+              "attract, lure, entice, tempt, appeal to, captivate, draw, win over, charm, seduce, inveigle, beguile, fascinate, whet the appetite of, make someone's mouth water More\"will sponsors be allured by such opportunities?\"enticing, tempting, attractive, appealing, inviting, captivating, fetching, seductive; enchanting, charming, fascinating; informalcome-hither \"an alluring hostess\"Morewill sponsors be allured by such opportunities?enticing, tempting, attractive, appealing, inviting, captivating, fetching, seductive; enchanting, charming, fascinating; come-hither an alluring hostess"
+            ],
+            "antonyms": [
+              "repel"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

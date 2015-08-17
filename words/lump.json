@@ -1,0 +1,185 @@
+[
+  {
+    "word": "lump",
+    "syllables": [
+      "lump"
+    ],
+    "pronunciation": "ləmp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lump"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lumps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a compact mass of a substance, especially one without a definite or regular shape.",
+            "examples": [
+              "there was a lump of ice floating in the milk"
+            ],
+            "synonyms": [
+              "chunk",
+              "hunk",
+              "piece",
+              "mass",
+              "block",
+              "wedge",
+              "slab",
+              "cake",
+              "nugget",
+              "ball",
+              "brick",
+              "cube",
+              "pat",
+              "knob",
+              "clod",
+              "gobbet",
+              "dollop",
+              "wad; Moreinformalglob",
+              "gob \"a lump of coal\""
+            ]
+          },
+          {
+            "definition": "a swelling under the skin, especially one caused by injury or disease.",
+            "examples": [
+              "he was unhurt apart from a huge lump on his head"
+            ],
+            "synonyms": [
+              "swelling",
+              "bump",
+              "bulge",
+              "protuberance",
+              "protrusion",
+              "growth",
+              "outgrowth",
+              "nodule",
+              "hump; goose egg \"a lump on his head\""
+            ]
+          },
+          {
+            "definition": "a small cube of sugar."
+          },
+          {
+            "definition": "a heavy, ungainly, or slow-witted person.",
+            "examples": [
+              "I wouldn't stand a chance against a big lump like you"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lump"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lumps"
+          },
+          {
+            "part": "past tense",
+            "variant": "lumped"
+          },
+          {
+            "part": "past participle",
+            "variant": "lumped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lumping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put in an indiscriminate mass or group; treat as alike without regard for particulars.",
+            "examples": [
+              "Hong Kong and Bangkok tend to be lumped together in travel brochures"
+            ],
+            "synonyms": [
+              "combine",
+              "put together",
+              "group",
+              "bunch",
+              "aggregate",
+              "unite",
+              "pool",
+              "merge",
+              "collect",
+              "throw together",
+              "consider together \"it is out of ignorance that they lump together all modern artists\""
+            ]
+          },
+          {
+            "definition": "(in taxonomy) classify plants or animals in relatively inclusive groups, disregarding minor variations."
+          },
+          {
+            "definition": "proceed heavily or awkwardly.",
+            "examples": [
+              "I came lumping along behind him"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lump",
+    "syllables": [
+      "lump"
+    ],
+    "pronunciation": "ləmp",
+    "parts": [
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lump"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lumps"
+          },
+          {
+            "part": "past tense",
+            "variant": "lumped"
+          },
+          {
+            "part": "past participle",
+            "variant": "lumped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lumping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "accept or tolerate a disagreeable situation whether one likes it or not.",
+            "examples": [
+              "you can like it or lump it but I've got to work"
+            ],
+            "synonyms": [
+              "put up with",
+              "bear",
+              "endure",
+              "suffer",
+              "take",
+              "tolerate",
+              "accept \"like it or lump it\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "recede",
+    "syllables": [
+      "re",
+      "cede"
+    ],
+    "pronunciation": "rəˈsēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "recede"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "recedes"
+          },
+          {
+            "part": "past tense",
+            "variant": "receded"
+          },
+          {
+            "part": "past participle",
+            "variant": "receded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "receding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "go or move back or further away from a previous position.",
+            "examples": [
+              "the flood waters had receded"
+            ],
+            "synonyms": [
+              "retreat",
+              "go back",
+              "go down",
+              "move back",
+              "move away",
+              "withdraw",
+              "ebb",
+              "subside",
+              "abate \"the floodwaters receded\""
+            ],
+            "antonyms": [
+              "advance",
+              "approach"
+            ]
+          },
+          {
+            "definition": "(of a quality, feeling, or possibility) gradually diminish.",
+            "examples": [
+              "the prospects of an early end to the war receded"
+            ],
+            "synonyms": [
+              "diminish",
+              "lessen",
+              "decrease",
+              "dwindle",
+              "fade",
+              "abate",
+              "subside",
+              "ebb",
+              "wane \"fears of violence have receded\""
+            ],
+            "antonyms": [
+              "intensify",
+              "grow"
+            ]
+          },
+          {
+            "definition": "(of a man's hair) cease to grow at the temples and above the forehead.",
+            "examples": [
+              "his dark hair was was receding a little"
+            ]
+          },
+          {
+            "definition": "(of a man) begin to go bald at the temples or above the forehead.",
+            "examples": [
+              "Fred was receding a bit"
+            ]
+          },
+          {
+            "definition": "(of a facial feature) slope backward.",
+            "examples": [
+              "a slightly receding chin"
+            ]
+          },
+          {
+            "definition": "withdraw from (an undertaking, promise, or agreement)."
+          }
+        ]
+      }
+    ]
+  }
+]

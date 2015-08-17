@@ -1,0 +1,90 @@
+[
+  {
+    "word": "roof",
+    "syllables": [
+      "roof"
+    ],
+    "pronunciation": "ro͞ofro͝of",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "roof"
+          },
+          {
+            "part": "plural noun",
+            "variant": "roofs"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rooves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the structure forming the upper covering of a building or vehicle."
+          },
+          {
+            "definition": "the top inner surface of a covered area or space; the ceiling.",
+            "examples": [
+              "the roof of the cave fell in"
+            ]
+          },
+          {
+            "definition": "used to signify a house or other building, especially in the context of hospitality or shelter.",
+            "examples": [
+              "helping those without a roof over their heads"
+            ]
+          },
+          {
+            "definition": "the palate.",
+            "examples": [
+              "noun: roof of the mouth; plural noun: roofs of the mouth"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "roof"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "roofs"
+          },
+          {
+            "part": "past tense",
+            "variant": "roofed"
+          },
+          {
+            "part": "past participle",
+            "variant": "roofed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "roofing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover with a roof.",
+            "examples": [
+              "the yard had been roughly roofed over with corrugated iron"
+            ]
+          },
+          {
+            "definition": "function as the roof of.",
+            "examples": [
+              "fan vaults roof these magnificent buildings"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

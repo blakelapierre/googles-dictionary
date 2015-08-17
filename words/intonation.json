@@ -1,0 +1,60 @@
+[
+  {
+    "word": "intonation",
+    "syllables": [
+      "in",
+      "to",
+      "na",
+      "tion"
+    ],
+    "pronunciation": "ˌin(t)əˈnāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intonation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the rise and fall of the voice in speaking.",
+            "examples": [
+              "she spoke English with a German intonation"
+            ],
+            "synonyms": [
+              "inflection",
+              "pitch",
+              "tone",
+              "timbre",
+              "cadence",
+              "lilt",
+              "rise and fall",
+              "modulation",
+              "speech pattern; Moreaccentuation",
+              "accent",
+              "emphasis",
+              "stress \"she read with the wrong intonation\""
+            ]
+          },
+          {
+            "definition": "the action of intoning or reciting in a singing voice.",
+            "examples": [
+              "chanting, intoning, incantation, recitation, singing the intonation of hymns"
+            ]
+          },
+          {
+            "definition": "accuracy of pitch in playing or singing, or on a stringed instrument such as a guitar.",
+            "examples": [
+              "poor woodwind intonation at the opening"
+            ]
+          },
+          {
+            "definition": "the opening phrase of a plainsong melody."
+          }
+        ]
+      }
+    ]
+  }
+]

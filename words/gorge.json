@@ -1,0 +1,93 @@
+[
+  {
+    "word": "gorge",
+    "syllables": [
+      "gorge"
+    ],
+    "pronunciation": "ɡôrj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gorge"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gorges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.",
+            "examples": [
+              "ravine, canyon, gully, defile, couloir; Morechasm, gulf; gulch, coulee \"the river runs through a gorge\"Morechasm, gulf; gulch, coulee the river runs through a gorge"
+            ]
+          },
+          {
+            "definition": "the throat."
+          },
+          {
+            "definition": "the contents of the stomach."
+          },
+          {
+            "definition": "the neck of a bastion or other outwork; the rear entrance to a fortification."
+          },
+          {
+            "definition": "a mass of ice obstructing a narrow passage, especially a river."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "gorge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "gorges"
+          },
+          {
+            "part": "past tense",
+            "variant": "gorged"
+          },
+          {
+            "part": "past participle",
+            "variant": "gorged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "gorging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "eat a large amount greedily; fill oneself with food.",
+            "examples": [
+              "the river comes alive during March when fish gorge on caddisworms"
+            ],
+            "synonyms": [
+              "stuff",
+              "cram",
+              "fill; Moreglut",
+              "satiate",
+              "overindulge",
+              "overfill; informalpig out \"they gorged themselves on cake\"devour",
+              "guzzle",
+              "gobble",
+              "gulp (down)",
+              "wolf (down); informaldemolish",
+              "polish off",
+              "scoff (down)",
+              "down",
+              "stuff one's face with; scarf (down/up) \"vultures gorged on the flesh\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

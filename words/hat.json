@@ -1,0 +1,35 @@
+[
+  {
+    "word": "hat",
+    "syllables": [
+      "hat"
+    ],
+    "pronunciation": "hat",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shaped covering for the head worn for warmth, as a fashion item, or as part of a uniform."
+          },
+          {
+            "definition": "used to refer to a particular role or occupation of someone who has more than one.",
+            "examples": [
+              "wearing her scientific hat, she is director of a pharmacology research group"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

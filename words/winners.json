@@ -1,0 +1,53 @@
+[
+  {
+    "word": "winner",
+    "syllables": [
+      "win",
+      "ner"
+    ],
+    "pronunciation": "ˈwinər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "winners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that wins something.",
+            "examples": [
+              "a Nobel Prize winner"
+            ],
+            "synonyms": [
+              "victor",
+              "champion",
+              "conqueror",
+              "vanquisher",
+              "hero; Moremedalist; record holder; informalchamp",
+              "top dog",
+              "world-beater \"the winners receive trophies at the closing ceremony\""
+            ],
+            "antonyms": [
+              "loser"
+            ]
+          },
+          {
+            "definition": "a goal or shot that wins a winner or point."
+          },
+          {
+            "definition": "a card that can be relied on to win a trick."
+          },
+          {
+            "definition": "a thing that is a success or is likely to be successful.",
+            "examples": [
+              "the changes failed to make the soap opera a winner"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

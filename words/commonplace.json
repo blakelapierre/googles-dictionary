@@ -1,0 +1,122 @@
+[
+  {
+    "word": "commonplace",
+    "syllables": [
+      "com",
+      "mon",
+      "place"
+    ],
+    "pronunciation": "ˈkämənˌplās",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "commonplace"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not unusual; ordinary.",
+            "examples": [
+              "unemployment was commonplace in his profession"
+            ],
+            "synonyms": [
+              "ordinary",
+              "run-of-the-mill",
+              "unremarkable",
+              "unexceptional",
+              "average",
+              "mediocre",
+              "pedestrian",
+              "prosaic",
+              "lackluster",
+              "dull",
+              "bland",
+              "uninteresting",
+              "mundane; Morehackneyed",
+              "trite",
+              "banal",
+              "clichéd",
+              "predictable",
+              "stale",
+              "tired",
+              "unoriginal; informalby-the-numbers",
+              "boilerplate",
+              "plain-vanilla",
+              "dime a dozen",
+              "bush-league \"a commonplace writing style\"common",
+              "normal",
+              "usual",
+              "ordinary",
+              "familiar",
+              "routine",
+              "standard",
+              "everyday",
+              "daily",
+              "regular",
+              "frequent",
+              "habitual",
+              "typical \"a commonplace occurrence\""
+            ],
+            "antonyms": [
+              "original",
+              "outstanding",
+              "unusual"
+            ]
+          },
+          {
+            "definition": "not interesting or original; trite.",
+            "examples": [
+              "the usual commonplace remarks"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "commonplace"
+          },
+          {
+            "part": "plural noun",
+            "variant": "commonplaces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a usual or ordinary thing.",
+            "examples": [
+              "bombing has become almost a commonplace of public life there"
+            ],
+            "synonyms": [
+              "everyday event",
+              "routine \"early death was a commonplace\""
+            ]
+          },
+          {
+            "definition": "a trite saying or topic; a platitude.",
+            "examples": [
+              "it is a commonplace to talk of the young being alienated"
+            ],
+            "synonyms": [
+              "platitude",
+              "cliché",
+              "truism",
+              "hackneyed phrase",
+              "trite phrase",
+              "old chestnut",
+              "banality; datedbromide \"a great store of commonplaces\""
+            ]
+          },
+          {
+            "definition": "a notable quotation copied into a commonplace book."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "word": "study",
+    "syllables": [
+      "stud",
+      "y"
+    ],
+    "pronunciation": "ˈstədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "studies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "devote time and attention to acquiring knowledge on (an academic subject), especially by means of books.",
+            "examples": [
+              "she studied biology and botany"
+            ],
+            "synonyms": [
+              "learn",
+              "read",
+              "be taught \"he studied electronics\""
+            ]
+          },
+          {
+            "definition": "investigate and analyze (a subject or situation) in detail.",
+            "examples": [
+              "he has been studying mink for many years"
+            ],
+            "synonyms": [
+              "investigate",
+              "inquire into",
+              "research",
+              "look into",
+              "examine",
+              "analyze",
+              "explore",
+              "review",
+              "appraise",
+              "conduct a survey of \"Thomas was studying child development\""
+            ]
+          },
+          {
+            "definition": "apply oneself to study.",
+            "examples": [
+              "he spent his time listening to the radio rather than studying"
+            ],
+            "synonyms": [
+              "work",
+              "review; Moreinformalcram",
+              "hit the books \"Anne studied hard\""
+            ]
+          },
+          {
+            "definition": "acquire academic knowledge at an educational establishment.",
+            "examples": [
+              "he studied at the Kensington School of Art"
+            ]
+          },
+          {
+            "definition": "learn intensively about something, especially in preparation for a test of knowledge.",
+            "examples": [
+              "a graduate student studies up for her doctoral exams"
+            ]
+          },
+          {
+            "definition": "(of an actor) try to learn (the words of one's role)."
+          },
+          {
+            "definition": "give serious thought or consideration to.",
+            "examples": [
+              "the people here don't make so much noise, so you will find that the government doesn't have us to study"
+            ]
+          },
+          {
+            "definition": "look at closely in order to observe or read.",
+            "examples": [
+              "she bent her head to study the plans"
+            ],
+            "synonyms": [
+              "scrutinize",
+              "examine",
+              "inspect",
+              "consider",
+              "regard",
+              "look at",
+              "eye",
+              "observe",
+              "watch",
+              "survey; Moreinformalcheck out",
+              "eyeball \"she studied her friend thoughtfully\""
+            ]
+          },
+          {
+            "definition": "make an effort to achieve (a result) or take into account (a person or their wishes).",
+            "examples": [
+              "with no husband to study, housekeeping is mere play"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

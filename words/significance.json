@@ -1,0 +1,72 @@
+[
+  {
+    "word": "significance",
+    "syllables": [
+      "sig",
+      "nif",
+      "i",
+      "cance"
+    ],
+    "pronunciation": "siɡˈnifikəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "significance"
+          },
+          {
+            "part": "noun",
+            "variant": "statistical significance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "statistical significances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being worthy of attention; importance.",
+            "examples": [
+              "adolescent education was felt to be a social issue of some significance"
+            ],
+            "synonyms": [
+              "importance",
+              "import",
+              "consequence",
+              "seriousness",
+              "gravity",
+              "weight",
+              "magnitude",
+              "momentousness; formalmoment \"a matter of considerable significance\""
+            ]
+          },
+          {
+            "definition": "the meaning to be found in words or events.",
+            "examples": [
+              "the significance of what was happening was clearer to me than to her"
+            ],
+            "synonyms": [
+              "meaning",
+              "sense",
+              "signification",
+              "import",
+              "thrust",
+              "drift",
+              "gist",
+              "implication",
+              "message",
+              "essence",
+              "substance",
+              "point \"the significance of his remarks\""
+            ]
+          },
+          {
+            "definition": "the extent to which a result deviates from that expected to arise simply from random variation or errors in sampling."
+          }
+        ]
+      }
+    ]
+  }
+]

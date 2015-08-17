@@ -1,0 +1,176 @@
+[
+  {
+    "word": "club",
+    "syllables": [
+      "club"
+    ],
+    "pronunciation": "kləb",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "clubs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an association or organization dedicated to a particular interest or activity.",
+            "examples": [
+              "a photography club"
+            ],
+            "synonyms": [
+              "society",
+              "association",
+              "organization",
+              "institution",
+              "group",
+              "circle",
+              "band",
+              "body",
+              "ring",
+              "crew; Morealliance",
+              "league",
+              "union \"a canoeing club\""
+            ]
+          },
+          {
+            "definition": "the building or facilities used by a club."
+          },
+          {
+            "definition": "an organization or facility offering members social amenities, meals, and temporary residence.",
+            "examples": [
+              "we had dinner at his club"
+            ]
+          },
+          {
+            "definition": "a nightclub, especially one playing fashionable dance music.",
+            "examples": [
+              "nightclub, disco, discotheque, bar; strip club the city has great clubs"
+            ]
+          },
+          {
+            "definition": "an organization constituted to play games in a particular sport.",
+            "examples": [
+              "a football club"
+            ],
+            "synonyms": [
+              "team",
+              "squad",
+              "side",
+              "lineup",
+              "franchise \"the top club in the league\""
+            ]
+          },
+          {
+            "definition": "a commercial organization offering subscribers special benefits.",
+            "examples": [
+              "a shopping club"
+            ]
+          },
+          {
+            "definition": "a group of people, organizations, or nations having something in common.",
+            "examples": [
+              "in cocktail lounges all over town convenes the daily meeting of the ain't-it-awful club"
+            ],
+            "synonyms": [
+              "society",
+              "association",
+              "organization",
+              "institution",
+              "group",
+              "circle",
+              "band",
+              "body",
+              "ring",
+              "crew; Morealliance",
+              "league",
+              "union \"a canoeing club\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "clubs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "go out to nightclubs.",
+            "examples": [
+              "she enjoys going clubbing in Orlando"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "club",
+    "syllables": [
+      "club"
+    ],
+    "pronunciation": "kləb",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "clubs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a heavy stick with a thick end, especially one used as a weapon.",
+            "examples": [
+              "cudgel, truncheon, bludgeon, baton, stick, mace, bat, blackjack, nightstick a wooden club"
+            ]
+          },
+          {
+            "definition": "short for golf club."
+          },
+          {
+            "definition": "one of the four suits in a conventional deck of playing cards, denoted by a black trefoil."
+          },
+          {
+            "definition": "a playing card of the suit of clubs."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "clubs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "beat (a person or animal) with a club or similar implement.",
+            "examples": [
+              "the islanders clubbed whales to death"
+            ],
+            "synonyms": [
+              "cudgel",
+              "bludgeon",
+              "bash",
+              "beat",
+              "hit",
+              "strike",
+              "batter",
+              "belabor; Moreinformalclout",
+              "clobber \"he was clubbed with an iron bar\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "word": "exhibit",
+    "syllables": [
+      "ex",
+      "hib",
+      "it"
+    ],
+    "pronunciation": "iɡˈzibət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "exhibited"
+          },
+          {
+            "part": "past participle",
+            "variant": "exhibited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "publicly display (a work of art or item of interest) in an art gallery or museum or at a trade fair.",
+            "examples": [
+              "only one sculpture was exhibited in the artist's lifetime"
+            ]
+          },
+          {
+            "definition": "(of an artist) display one's work to the public in an art gallery or museum.",
+            "examples": [
+              "she was invited to exhibit at several French museums"
+            ],
+            "synonyms": [
+              "put on display/show",
+              "display",
+              "show",
+              "put on public view",
+              "showcase; Moreset out",
+              "lay out",
+              "array",
+              "arrange \"the paintings were exhibited at the Wadsworth\""
+            ]
+          },
+          {
+            "definition": "publicly display the work of (an artist) in an art gallery or museum.",
+            "examples": [
+              "no foreign painters were exhibited"
+            ]
+          },
+          {
+            "definition": "manifest or deliberately display (a quality or a type of behavior).",
+            "examples": [
+              "he could exhibit a saintlike submissiveness"
+            ],
+            "synonyms": [
+              "show",
+              "reveal",
+              "display",
+              "manifest; Moreexpress",
+              "indicate",
+              "demonstrate",
+              "present; formalevince \"Luke exhibited signs of jealousy\""
+            ]
+          },
+          {
+            "definition": "show as a sign or symptom.",
+            "examples": [
+              "patients with alcoholic liver disease exhibit many biochemical abnormalities"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

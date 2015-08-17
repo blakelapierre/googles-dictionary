@@ -1,0 +1,41 @@
+[
+  {
+    "word": "piquant",
+    "syllables": [
+      "pi",
+      "quant"
+    ],
+    "pronunciation": "ˈpēkəntˈpēkänt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "piquant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a pleasantly sharp taste or appetizing flavor.",
+            "examples": [
+              "spicy, tangy, peppery, hot; Moretasty, flavorful, appetizing, savory; pungent, sharp, tart, zesty, strong, salty \"a piquant sauce\"Moretasty, flavorful, appetizing, savory; pungent, sharp, tart, zesty, strong, salty a piquant sauce"
+            ],
+            "antonyms": [
+              "bland"
+            ]
+          },
+          {
+            "definition": "pleasantly stimulating or exciting to the mind.",
+            "examples": [
+              "intriguing, stimulating, interesting, fascinating, colorful, exciting, lively; Morespicy, provocative, racy; informaljuicy \"a piquant story\"Morespicy, provocative, racy; juicy a piquant story"
+            ],
+            "antonyms": [
+              "dull"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

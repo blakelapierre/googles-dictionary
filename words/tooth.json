@@ -1,0 +1,59 @@
+[
+  {
+    "word": "tooth",
+    "syllables": [
+      "tooth"
+    ],
+    "pronunciation": "to͞oTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tooth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "teeth"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each of a set of hard, bony enamel-coated structures in the jaws of most vertebrates, used for biting and chewing.",
+            "examples": [
+              "fang, tusk, molar, incisor; Moredenticle; informalpearly white; informalchoppers \"the teeth of an extinct fish\"Moredenticle; pearly white; choppers the teeth of an extinct fish"
+            ]
+          },
+          {
+            "definition": "a hard, pointed structure in invertebrate animals, typically functioning in the mechanical breakdown of food."
+          },
+          {
+            "definition": "genuine force or effectiveness of a body or in a law or agreement.",
+            "examples": [
+              "the Charter would be fine if it had teeth and could be enforced"
+            ]
+          },
+          {
+            "definition": "a projecting part on a tool or other instrument, especially one of a series that function or engage together, such as a cog on a gearwheel or a point on a saw or comb.",
+            "examples": [
+              "fang, tusk, molar, incisor; Moredenticle; informalpearly white; informalchoppers \"the teeth of an extinct fish\"Moredenticle; pearly white; choppers the teeth of an extinct fish"
+            ]
+          },
+          {
+            "definition": "a projecting part on an animal or plant, especially one of a jagged or dentate row on the margin of a leaf or shell."
+          },
+          {
+            "definition": "an appetite or liking for a particular thing.",
+            "examples": [
+              "what a tooth for fruit a monkey has!"
+            ]
+          },
+          {
+            "definition": "roughness given to a surface to allow color or glue to adhere."
+          }
+        ]
+      }
+    ]
+  }
+]

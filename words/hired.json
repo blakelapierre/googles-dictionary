@@ -1,0 +1,76 @@
+[
+  {
+    "word": "hire",
+    "syllables": [
+      "hire"
+    ],
+    "pronunciation": "ˈhī(ə)r",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "hired"
+          },
+          {
+            "part": "past participle",
+            "variant": "hired"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "employ (someone) for wages.",
+            "examples": [
+              "management hired and fired labor in line with demand"
+            ],
+            "synonyms": [
+              "employ",
+              "engage",
+              "recruit",
+              "appoint",
+              "take on",
+              "sign up",
+              "enroll",
+              "commission",
+              "enlist",
+              "contract \"they hire labor in line with demand\""
+            ],
+            "antonyms": [
+              "dismiss",
+              "lay off"
+            ]
+          },
+          {
+            "definition": "employ for a short time to do a particular job.",
+            "examples": [
+              "don't hire a babysitter who's under 16"
+            ]
+          },
+          {
+            "definition": "make oneself available for temporary employment.",
+            "examples": [
+              "he hired himself out as a laborer"
+            ]
+          },
+          {
+            "definition": "obtain the temporary use of (something) for an agreed payment; rent.",
+            "examples": [
+              "she had to hire a dress for the wedding"
+            ],
+            "synonyms": [
+              "rent",
+              "lease",
+              "charter",
+              "let",
+              "sublet \"we hired a car\""
+            ]
+          },
+          {
+            "definition": "grant the temporary use of something for an agreed payment."
+          }
+        ]
+      }
+    ]
+  }
+]

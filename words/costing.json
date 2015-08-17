@@ -1,0 +1,62 @@
+[
+  {
+    "word": "cost",
+    "syllables": [
+      "cost"
+    ],
+    "pronunciation": "kôst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "costing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an object or an action) require the payment of (a specified sum of money) before it can be acquired or done.",
+            "examples": [
+              "each issue of the magazine costs $2.25"
+            ],
+            "synonyms": [
+              "be priced at",
+              "sell for",
+              "be valued at",
+              "fetch",
+              "come to",
+              "amount to; Moreinformalset someone back",
+              "go for \"the chair costs $186\""
+            ]
+          },
+          {
+            "definition": "cause the loss of.",
+            "examples": [
+              "driving at more than double the speed limit cost the woman her driving license"
+            ]
+          },
+          {
+            "definition": "be expensive for (someone).",
+            "examples": [
+              "if you want to own an island, it'll cost you"
+            ]
+          },
+          {
+            "definition": "estimate the price of.",
+            "examples": [
+              "it is their job to plan and cost a media schedule for the campaign"
+            ],
+            "synonyms": [
+              "put a price on",
+              "price",
+              "value",
+              "put a value on",
+              "put a figure on \"the proposal has not yet been costed\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

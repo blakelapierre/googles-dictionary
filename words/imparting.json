@@ -1,0 +1,70 @@
+[
+  {
+    "word": "impart",
+    "syllables": [
+      "im",
+      "part"
+    ],
+    "pronunciation": "imˈpärt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "imparting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (information) known; communicate.",
+            "examples": [
+              "teachers had a duty to impart strong morals to their students"
+            ],
+            "synonyms": [
+              "communicate",
+              "pass on",
+              "convey",
+              "transmit",
+              "relay",
+              "relate",
+              "recount",
+              "tell",
+              "make known",
+              "make public",
+              "report",
+              "announce",
+              "proclaim",
+              "herald",
+              "spread",
+              "disseminate",
+              "circulate",
+              "promulgate",
+              "broadcast; Moredisclose",
+              "reveal",
+              "divulge; informallet on about",
+              "blab",
+              "blurt \"she had news to impart\""
+            ]
+          },
+          {
+            "definition": "bestow (a quality).",
+            "examples": [
+              "its main use has been to impart a high surface gloss to finished articles"
+            ],
+            "synonyms": [
+              "give",
+              "bestow",
+              "confer",
+              "grant",
+              "lend",
+              "afford",
+              "provide",
+              "supply \"the picture imparts some color to the drab office\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "word": "code",
+    "syllables": [
+      "code"
+    ],
+    "pronunciation": "kōd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "codes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a system of words, letters, figures, or other symbols substituted for other words, letters, etc., especially for the purposes of secrecy.",
+            "examples": [
+              "the Americans cracked their diplomatic code"
+            ],
+            "synonyms": [
+              "cipher",
+              "key; Morehieroglyphics; cryptogram \"a secret code\""
+            ]
+          },
+          {
+            "definition": "a system of signals, such as sounds, light flashes, or flags, used to send messages.",
+            "examples": [
+              "Morse code"
+            ]
+          },
+          {
+            "definition": "a series of letters, numbers, or symbols assigned to something for the purposes of classification or identification.",
+            "examples": [
+              "the genetic code"
+            ]
+          },
+          {
+            "definition": "program instructions.",
+            "examples": [
+              "hundreds of lines of code"
+            ]
+          },
+          {
+            "definition": "a systematic collection of laws or regulations.",
+            "examples": [
+              "the criminal code"
+            ],
+            "synonyms": [
+              "law(s)",
+              "rules",
+              "regulations; Moreconstitution",
+              "system \"the penal code\""
+            ]
+          },
+          {
+            "definition": "a set of conventions governing behavior or activity in a particular sphere.",
+            "examples": [
+              "a dress code"
+            ],
+            "synonyms": [
+              "morality",
+              "convention",
+              "etiquette",
+              "protocol",
+              "value system \"a strict social code\""
+            ]
+          },
+          {
+            "definition": "a set of rules and standards adhered to by a society, class, or individual.",
+            "examples": [
+              "a stern code of honor"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "codes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convert (the words of a message) into a particular code in order to convey a secret meaning.",
+            "examples": [
+              "only Mitch knew how to read the message—even the name was coded"
+            ]
+          },
+          {
+            "definition": "express the meaning of (a statement or communication) in an indirect or euphemistic way.",
+            "examples": [
+              "a national campaign against “playing by ear,” a coded phrase that meant jazz"
+            ]
+          },
+          {
+            "definition": "assign a code to (something) for purposes of classification, analysis, or identification.",
+            "examples": [
+              "she coded the samples and sent them down for dissection"
+            ]
+          },
+          {
+            "definition": "write code for (a computer program).",
+            "examples": [
+              "most developers code C + + like C"
+            ]
+          },
+          {
+            "definition": "specify the genetic sequence for (an amino acid or protein).",
+            "examples": [
+              "genes that code for human growth hormone"
+            ]
+          },
+          {
+            "definition": "be the genetic determiner of (a characteristic).",
+            "examples": [
+              "one pair of homologous chromosomes that codes for eye color"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

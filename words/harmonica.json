@@ -1,0 +1,32 @@
+[
+  {
+    "word": "harmonica",
+    "syllables": [
+      "har",
+      "mon",
+      "i",
+      "ca"
+    ],
+    "pronunciation": "härˈmänəkə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "harmonica"
+          },
+          {
+            "part": "plural noun",
+            "variant": "harmonicas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small rectangular wind instrument with a row of metal reeds along its length, held against the lips and moved from side to side to produce different notes by blowing or sucking."
+          }
+        ]
+      }
+    ]
+  }
+]

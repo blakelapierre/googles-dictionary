@@ -1,0 +1,34 @@
+[
+  {
+    "word": "adoption",
+    "syllables": [
+      "a",
+      "dop",
+      "tion"
+    ],
+    "pronunciation": "əˈdäpSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "adoption"
+          },
+          {
+            "part": "plural noun",
+            "variant": "adoptions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of adopting or being adopted.",
+            "examples": [
+              "she gave up her children for adoption"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

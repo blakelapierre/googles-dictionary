@@ -1,0 +1,105 @@
+[
+  {
+    "word": "twirl",
+    "syllables": [
+      "twirl"
+    ],
+    "pronunciation": "twərl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "twirl"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "twirls"
+          },
+          {
+            "part": "past tense",
+            "variant": "twirled"
+          },
+          {
+            "part": "past participle",
+            "variant": "twirled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "twirling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spin quickly and lightly around, especially repeatedly.",
+            "examples": [
+              "she twirled in delight to show off her new dress"
+            ],
+            "synonyms": [
+              "spin",
+              "whirl",
+              "turn",
+              "pivot",
+              "swivel",
+              "twist",
+              "revolve",
+              "rotate \"he twirled the gun around\""
+            ]
+          },
+          {
+            "definition": "cause to rotate.",
+            "examples": [
+              "she twirled her fork in the pasta"
+            ],
+            "synonyms": [
+              "wind",
+              "twist",
+              "coil",
+              "curl",
+              "wrap \"she twirled her hair around her finger\""
+            ]
+          },
+          {
+            "definition": "pitch (the ball)."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "twirl"
+          },
+          {
+            "part": "plural noun",
+            "variant": "twirls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of spinning.",
+            "examples": [
+              "Kate did a twirl in front of the mirror"
+            ],
+            "synonyms": [
+              "pirouette",
+              "spin",
+              "whirl",
+              "turn",
+              "twist",
+              "rotation",
+              "revolution",
+              "gyration",
+              "twizzle \"she did a quick twirl\""
+            ]
+          },
+          {
+            "definition": "a spiraling or swirling shape, especially a flourish made with a pen."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "effect",
+    "syllables": [
+      "ef",
+      "fect"
+    ],
+    "pronunciation": "əˈfekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "effecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something) to happen; bring about.",
+            "examples": [
+              "nature always effected a cure"
+            ],
+            "synonyms": [
+              "achieve",
+              "accomplish",
+              "carry out",
+              "realize",
+              "manage",
+              "bring off",
+              "execute",
+              "conduct",
+              "engineer",
+              "perform",
+              "do",
+              "perpetrate",
+              "discharge",
+              "complete",
+              "consummate; Morecause",
+              "bring about",
+              "create",
+              "produce",
+              "make; provoke",
+              "occasion",
+              "generate",
+              "engender",
+              "actuate",
+              "initiate; formaleffectuate \"they effected many changes\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

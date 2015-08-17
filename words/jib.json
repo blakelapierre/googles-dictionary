@@ -1,0 +1,80 @@
+[
+  {
+    "word": "jib",
+    "syllables": [
+      "jib"
+    ],
+    "pronunciation": "jib",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jib"
+          },
+          {
+            "part": "plural noun",
+            "variant": "jibs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a triangular staysail set forward of the forwardmost mast."
+          },
+          {
+            "definition": "the projecting arm of a crane."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jib",
+    "syllables": [
+      "jib"
+    ],
+    "pronunciation": "jib",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "jib"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "jibs"
+          },
+          {
+            "part": "past tense",
+            "variant": "jibbed"
+          },
+          {
+            "part": "past participle",
+            "variant": "jibbed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "jibbing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an animal, especially a horse) stop and refuse to go on.",
+            "examples": [
+              "he jibbed at the final fence"
+            ]
+          },
+          {
+            "definition": "(of a person) be unwilling to do or accept something.",
+            "examples": [
+              "he jibs at paying large bills"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

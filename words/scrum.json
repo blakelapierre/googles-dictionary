@@ -1,0 +1,65 @@
+[
+  {
+    "word": "scrum",
+    "syllables": [
+      "scrum"
+    ],
+    "pronunciation": "skrəm",
+    "parts": [
+      {
+        "part": "nounRugby",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scrum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scrums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an ordered formation of players, used to restart play, in which the forwards of a team form up with arms interlocked and heads down, and push forward against a similar group from the opposing side. The ball is thrown into the scrum and the players try to gain possession of it by kicking it backward toward their own side."
+          },
+          {
+            "definition": "a disorderly crowd of people or things.",
+            "examples": [
+              "there was quite a scrum of people at the bar"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbRugby",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "scrum"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "scrums"
+          },
+          {
+            "part": "past tense",
+            "variant": "scrummed"
+          },
+          {
+            "part": "past participle",
+            "variant": "scrummed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "scrumming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form or take part in a scrum."
+          }
+        ]
+      }
+    ]
+  }
+]

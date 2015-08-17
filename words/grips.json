@@ -1,0 +1,202 @@
+[
+  {
+    "word": "grip",
+    "syllables": [
+      "grip"
+    ],
+    "pronunciation": "ɡrip",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "grips"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take and keep a firm hold of; grasp tightly.",
+            "examples": [
+              "his knuckles were white as he gripped the steering wheel"
+            ],
+            "synonyms": [
+              "grasp",
+              "clutch",
+              "hold",
+              "clasp",
+              "take hold of",
+              "clench",
+              "grab",
+              "seize",
+              "cling to; Moresqueeze",
+              "press; informalglom on to \"she gripped the edge of the table\""
+            ],
+            "antonyms": [
+              "release",
+              "hold lightly"
+            ]
+          },
+          {
+            "definition": "maintain a firm contact, especially by friction.",
+            "examples": [
+              "a sole that really grips well on wet rock"
+            ]
+          },
+          {
+            "definition": "(of a feeling or emotion) deeply affect (someone).",
+            "examples": [
+              "she was gripped by a feeling of excitement"
+            ],
+            "synonyms": [
+              "afflict",
+              "affect",
+              "take over",
+              "beset",
+              "rack",
+              "convulse \"Harry was gripped by a sneezing fit\""
+            ]
+          },
+          {
+            "definition": "compel the attention or interest of.",
+            "examples": [
+              "she gripped us from the first sentence"
+            ],
+            "synonyms": [
+              "engross",
+              "enthrall",
+              "absorb",
+              "rivet",
+              "spellbind",
+              "hold spellbound",
+              "bewitch",
+              "fascinate",
+              "hold",
+              "mesmerize",
+              "enrapture; Moreinterest \"we were gripped by the drama\"engrossing",
+              "enthralling",
+              "absorbing",
+              "riveting",
+              "captivating",
+              "spellbinding",
+              "bewitching",
+              "fascinating",
+              "compulsive",
+              "compelling",
+              "mesmerizing; thrilling",
+              "exciting",
+              "action-packed",
+              "dramatic",
+              "stimulating; informalunputdownable",
+              "page-turning \"a gripping spy novel\""
+            ],
+            "antonyms": [
+              "bore",
+              "repel",
+              "boring"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "grips"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a firm hold; a tight grasp or clasp.",
+            "examples": [
+              "his arm was held in a vicelike grip"
+            ],
+            "synonyms": [
+              "grasp",
+              "hold \"a tight grip\""
+            ]
+          },
+          {
+            "definition": "a manner of grasping or holding something.",
+            "examples": [
+              "I've changed my grip and my backswing"
+            ]
+          },
+          {
+            "definition": "the ability of something, especially a wheel or shoe, to maintain a firm contact with a surface.",
+            "examples": [
+              "these shoes have got no grip"
+            ],
+            "synonyms": [
+              "traction",
+              "purchase",
+              "friction",
+              "adhesion",
+              "resistance \"the wheels lost their grip on the road\""
+            ]
+          },
+          {
+            "definition": "an effective form of control over something.",
+            "examples": [
+              "our firm grip on inflation"
+            ],
+            "synonyms": [
+              "control",
+              "power",
+              "hold",
+              "stranglehold",
+              "chokehold",
+              "clutches",
+              "command",
+              "mastery",
+              "influence \"he was in the grip of an obsession\""
+            ]
+          },
+          {
+            "definition": "an intellectual understanding of something.",
+            "examples": [
+              "you've got a pretty good grip on what's going on"
+            ],
+            "synonyms": [
+              "understanding of",
+              "comprehension of",
+              "grasp of",
+              "command of",
+              "perception of",
+              "awareness of",
+              "apprehension of",
+              "conception of; formalcognizance of \"I had a pretty good grip on the situation\""
+            ]
+          },
+          {
+            "definition": "a part or attachment by which something is held in the hand.",
+            "examples": [
+              "handlebar grips"
+            ]
+          },
+          {
+            "definition": "a traveling bag.",
+            "examples": [
+              "a grip crammed with new clothes"
+            ],
+            "synonyms": [
+              "travel bag",
+              "traveling bag",
+              "suitcase",
+              "bag",
+              "overnight bag",
+              "flight bag \"a leather grip\""
+            ]
+          },
+          {
+            "definition": "an assistant in a theater; a stagehand."
+          },
+          {
+            "definition": "a member of a camera crew responsible for moving and setting up equipment."
+          }
+        ]
+      }
+    ]
+  }
+]

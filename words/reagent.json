@@ -1,0 +1,34 @@
+[
+  {
+    "word": "reagent",
+    "syllables": [
+      "re",
+      "a",
+      "gent"
+    ],
+    "pronunciation": "rēˈājənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reagent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reagents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance or mixture for use in chemical analysis or other reactions.",
+            "examples": [
+              "this compound is a very sensitive reagent for copper"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

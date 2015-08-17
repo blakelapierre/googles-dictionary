@@ -1,0 +1,31 @@
+[
+  {
+    "word": "pathogen",
+    "syllables": [
+      "path",
+      "o",
+      "gen"
+    ],
+    "pronunciation": "ˈpaTHəjənˈpaTHəˌjen",
+    "parts": [
+      {
+        "part": "nounMedicine",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pathogen"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pathogens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a bacterium, virus, or other microorganism that can cause disease."
+          }
+        ]
+      }
+    ]
+  }
+]

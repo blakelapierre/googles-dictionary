@@ -1,0 +1,52 @@
+[
+  {
+    "word": "dissatisfaction",
+    "syllables": [
+      "dis",
+      "sat",
+      "is",
+      "fac",
+      "tion"
+    ],
+    "pronunciation": "di(s)ˌsadəsˈfakSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dissatisfaction"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dissatisfactions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lack of satisfaction.",
+            "examples": [
+              "widespread public dissatisfaction with incumbent politicians"
+            ],
+            "synonyms": [
+              "discontent",
+              "discontentment",
+              "disaffection",
+              "disquiet",
+              "unhappiness",
+              "malaise",
+              "disgruntlement",
+              "vexation",
+              "annoyance",
+              "irritation",
+              "anger; Moredisapproval",
+              "disapprobation",
+              "disfavor",
+              "displeasure \"widespread dissatisfaction with the new law\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "lengthen",
+    "syllables": [
+      "length",
+      "en"
+    ],
+    "pronunciation": "ˈleNG(k)THən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "lengthened"
+          },
+          {
+            "part": "past participle",
+            "variant": "lengthened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become longer.",
+            "examples": [
+              "she lengthened her stride to catch up"
+            ],
+            "synonyms": [
+              "elongate",
+              "make longer",
+              "extend",
+              "prolong",
+              "protract",
+              "stretch out",
+              "drag out; Moreexpand",
+              "widen",
+              "broaden",
+              "enlarge; grow/get longer",
+              "draw out \"he lengthened his stride to keep up\""
+            ],
+            "antonyms": [
+              "shorten"
+            ]
+          },
+          {
+            "definition": "make (a vowel or syllable) long."
+          }
+        ]
+      }
+    ]
+  }
+]

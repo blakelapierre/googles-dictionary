@@ -1,0 +1,83 @@
+[
+  {
+    "word": "bequeath",
+    "syllables": [
+      "be",
+      "queath"
+    ],
+    "pronunciation": "bəˈkwēT͟HbəˈkwiTH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bequeath"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bequeaths"
+          },
+          {
+            "part": "past tense",
+            "variant": "bequeathed"
+          },
+          {
+            "part": "past participle",
+            "variant": "bequeathed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bequeathing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "leave (a personal estate or one's body) to a person or other beneficiary by a will.",
+            "examples": [
+              "an identical sum was bequeathed by Margaret"
+            ],
+            "synonyms": [
+              "leave to",
+              "leave in one's will to",
+              "hand on/down to",
+              "will to",
+              "make over to",
+              "pass on to",
+              "entrust to",
+              "grant to",
+              "transfer to; Moredonate to",
+              "give to; endow on",
+              "bestow on",
+              "confer on; demise to",
+              "devise to",
+              "convey to \"I bequeath the northern campgrounds to the Yellow Birch Fishing Club\""
+            ]
+          },
+          {
+            "definition": "pass (something) on or leave (something) to someone else.",
+            "examples": [
+              "he is ditching the unpopular policies bequeathed to him"
+            ],
+            "synonyms": [
+              "leave to",
+              "leave in one's will to",
+              "hand on/down to",
+              "will to",
+              "make over to",
+              "pass on to",
+              "entrust to",
+              "grant to",
+              "transfer to; Moredonate to",
+              "give to; endow on",
+              "bestow on",
+              "confer on; demise to",
+              "devise to",
+              "convey to \"I bequeath the northern campgrounds to the Yellow Birch Fishing Club\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

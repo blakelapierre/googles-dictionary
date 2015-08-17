@@ -1,0 +1,104 @@
+[
+  {
+    "word": "tangible",
+    "syllables": [
+      "tan",
+      "gi",
+      "ble"
+    ],
+    "pronunciation": "ˈtanjəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "tangible"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "perceptible by touch.",
+            "examples": [
+              "the atmosphere of neglect and abandonment was almost tangible"
+            ],
+            "synonyms": [
+              "touchable",
+              "palpable",
+              "material",
+              "physical",
+              "real",
+              "substantial",
+              "corporeal",
+              "solid",
+              "concrete; Morevisible",
+              "noticeable; actual",
+              "definite",
+              "clear",
+              "clear-cut",
+              "distinct",
+              "manifest",
+              "evident",
+              "unmistakable",
+              "perceptible",
+              "discernible \"I'd prefer a reward more tangible than praise—say",
+              "cash\""
+            ],
+            "antonyms": [
+              "abstract"
+            ]
+          },
+          {
+            "definition": "clear and definite; real.",
+            "examples": [
+              "the emphasis is now on tangible results"
+            ],
+            "synonyms": [
+              "touchable",
+              "palpable",
+              "material",
+              "physical",
+              "real",
+              "substantial",
+              "corporeal",
+              "solid",
+              "concrete; Morevisible",
+              "noticeable; actual",
+              "definite",
+              "clear",
+              "clear-cut",
+              "distinct",
+              "manifest",
+              "evident",
+              "unmistakable",
+              "perceptible",
+              "discernible \"I'd prefer a reward more tangible than praise—say",
+              "cash\""
+            ],
+            "antonyms": [
+              "abstract"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tangible"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tangibles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is perceptible by touch."
+          }
+        ]
+      }
+    ]
+  }
+]

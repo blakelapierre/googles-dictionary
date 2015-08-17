@@ -1,0 +1,111 @@
+[
+  {
+    "word": "intelligence",
+    "syllables": [
+      "in",
+      "tel",
+      "li",
+      "gence"
+    ],
+    "pronunciation": "inˈteləjəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intelligence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the ability to acquire and apply knowledge and skills.",
+            "examples": [
+              "an eminent man of great intelligence"
+            ],
+            "synonyms": [
+              "intellectual capacity",
+              "mental capacity",
+              "intellect",
+              "mind",
+              "brain(s)",
+              "IQ",
+              "brainpower",
+              "judgment",
+              "reasoning",
+              "understanding",
+              "comprehension; Moreacumen",
+              "wit",
+              "sense",
+              "insight",
+              "perception",
+              "penetration",
+              "discernment",
+              "smartness",
+              "canniness",
+              "astuteness",
+              "intuition",
+              "acuity",
+              "cleverness",
+              "brilliance",
+              "ability; informalbraininess \"a man of great intelligence\""
+            ]
+          },
+          {
+            "definition": "a person or being with the ability to acquire and apply knowledge.",
+            "examples": [
+              "plural noun: intelligences"
+            ]
+          },
+          {
+            "definition": "the collection of information of military or political value.",
+            "examples": [
+              "the chief of military intelligence"
+            ],
+            "synonyms": [
+              "information gathering",
+              "surveillance",
+              "observation",
+              "reconnaissance",
+              "spying",
+              "espionage",
+              "infiltration",
+              "ELINT",
+              "humint; Moreblack operations; informalrecon",
+              "black ops \"an intelligence operation\""
+            ]
+          },
+          {
+            "definition": "people employed in the collection of military or political information.",
+            "examples": [
+              "French intelligence has been able to secure numerous local informers"
+            ]
+          },
+          {
+            "definition": "military or political information.",
+            "examples": [
+              "the gathering of intelligence"
+            ],
+            "synonyms": [
+              "information",
+              "facts",
+              "details",
+              "particulars",
+              "data",
+              "knowledge",
+              "reports",
+              "inside story",
+              "hot tip; Moreinformalinfo",
+              "dope",
+              "skinny",
+              "lowdown \"we're awaiting the latest intelligence from our operatives\""
+            ]
+          },
+          {
+            "definition": "information in general; news."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "word": "hairpiece",
+    "syllables": [
+      "hair",
+      "piece"
+    ],
+    "pronunciation": "ˈherˌpēs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hairpiece"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hairpieces"
+          },
+          {
+            "part": "noun",
+            "variant": "hair-piece"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hair-pieces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quantity or switch of detached hair used to augment a person's natural hair.",
+            "examples": [
+              "wig, toupee, periwig; rug they claim the hairpiece was worn by an aide of George Washington"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

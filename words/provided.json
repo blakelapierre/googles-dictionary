@@ -1,0 +1,205 @@
+[
+  {
+    "word": "provided",
+    "syllables": [
+      "pro",
+      "vid",
+      "ed"
+    ],
+    "pronunciation": "prəˈvīdəd",
+    "parts": [
+      {
+        "part": "conjunction",
+        "variants": [
+          {
+            "part": "conjunction",
+            "variant": "provided"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "on the condition or understanding that.",
+            "examples": [
+              "cutting corners was acceptable, provided that you could get away with it"
+            ],
+            "synonyms": [
+              "if",
+              "on condition that",
+              "providing (that)",
+              "provided that",
+              "presuming (that)",
+              "assuming (that)",
+              "on the assumption that",
+              "as long as",
+              "given (that)",
+              "with the provision/proviso that",
+              "with/on the understanding that",
+              "contingent on \"we'll take care of the horses",
+              "provided we can stay at your house while you're gone\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "provide",
+    "syllables": [
+      "pro",
+      "vide"
+    ],
+    "pronunciation": "prəˈvīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "provided"
+          },
+          {
+            "part": "past participle",
+            "variant": "provided"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make available for use; supply.",
+            "examples": [
+              "these clubs provide a much appreciated service for this area"
+            ],
+            "synonyms": [
+              "supply",
+              "give",
+              "issue",
+              "furnish",
+              "come up with",
+              "dispense",
+              "bestow",
+              "impart",
+              "produce",
+              "yield",
+              "bring forth",
+              "bear",
+              "deliver",
+              "donate",
+              "contribute",
+              "pledge",
+              "advance",
+              "spare",
+              "part with",
+              "allocate",
+              "distribute",
+              "allot",
+              "put up; Moreinformalfork out",
+              "lay out",
+              "ante up",
+              "pony up \"the foundation will provide funds\""
+            ],
+            "antonyms": [
+              "refuse",
+              "withhold"
+            ]
+          },
+          {
+            "definition": "equip or supply someone with (something useful or necessary).",
+            "examples": [
+              "we were provided with a map of the area"
+            ],
+            "synonyms": [
+              "equip",
+              "furnish",
+              "issue",
+              "supply",
+              "outfit; Morefit out",
+              "rig out",
+              "arm",
+              "provision; informalfix up \"she was provided with enough tools\""
+            ],
+            "antonyms": [
+              "deprive"
+            ]
+          },
+          {
+            "definition": "present or yield (something useful).",
+            "examples": [
+              "neither will provide answers to these problems"
+            ],
+            "synonyms": [
+              "make available",
+              "present",
+              "offer",
+              "afford",
+              "give",
+              "add",
+              "bring",
+              "yield",
+              "impart \"the test may provide the answer\""
+            ]
+          },
+          {
+            "definition": "make adequate preparation for (a possible event).",
+            "examples": [
+              "new qualifications must provide for changes in technology"
+            ],
+            "synonyms": [
+              "prepare",
+              "allow",
+              "make provision",
+              "be prepared",
+              "arrange",
+              "get ready",
+              "plan",
+              "cater \"we have provided for further restructuring\""
+            ]
+          },
+          {
+            "definition": "supply sufficient money to ensure the maintenance of (someone).",
+            "examples": [
+              "Emma was handsomely provided for in Frank's will"
+            ],
+            "synonyms": [
+              "feed",
+              "nurture",
+              "nourish; Moresupport",
+              "maintain",
+              "keep",
+              "sustain",
+              "provide sustenance for",
+              "fend for",
+              "finance",
+              "endow \"he had to provide for his family\""
+            ],
+            "antonyms": [
+              "neglect"
+            ]
+          },
+          {
+            "definition": "(of a law) enable or allow (something to be done)."
+          },
+          {
+            "definition": "stipulate in a will or other legal document.",
+            "examples": [
+              "the order should be varied to provide that there would be no contact with the father"
+            ],
+            "synonyms": [
+              "stipulate",
+              "lay down",
+              "make it a condition",
+              "require",
+              "order",
+              "ordain",
+              "demand",
+              "prescribe",
+              "state",
+              "specify \"the legislation provides that factories must be kept clean\""
+            ]
+          },
+          {
+            "definition": "appoint an incumbent to (a benefice)."
+          }
+        ]
+      }
+    ]
+  }
+]

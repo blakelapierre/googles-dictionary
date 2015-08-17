@@ -1,0 +1,81 @@
+[
+  {
+    "word": "overeat",
+    "syllables": [
+      "o",
+      "ver",
+      "eat"
+    ],
+    "pronunciation": "ˌōvərˈēt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "overeat"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "overeats"
+          },
+          {
+            "part": "past tense",
+            "variant": "overate"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "overeating"
+          },
+          {
+            "part": "past participle",
+            "variant": "overeaten"
+          },
+          {
+            "part": "verb",
+            "variant": "over-eat"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "over-eats"
+          },
+          {
+            "part": "past tense",
+            "variant": "over-ate"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "over-eating"
+          },
+          {
+            "part": "past participle",
+            "variant": "over-eaten"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "eat too much.",
+            "examples": [
+              "the effect of overeating is weight gain"
+            ],
+            "synonyms": [
+              "eat too much",
+              "be greedy",
+              "gorge (oneself)",
+              "overindulge (oneself)",
+              "feast",
+              "gourmandize",
+              "gluttonize; Moreinformalbinge",
+              "make a pig of oneself",
+              "pig out",
+              "have eyes bigger than one's stomach \"it's hard not to overeat at one of their buffets\""
+            ],
+            "antonyms": [
+              "starve"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

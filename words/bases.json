@@ -1,0 +1,281 @@
+[
+  {
+    "word": "bases",
+    "syllables": [
+      "ba",
+      "ses"
+    ],
+    "pronunciation": "ˈbāsēz",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "base",
+    "syllables": [
+      "base"
+    ],
+    "pronunciation": "bās",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bases"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the lowest part or edge of something, especially the part on which it rests or is supported.",
+            "examples": [
+              "she sat down at the base of a tree"
+            ],
+            "synonyms": [
+              "foundation",
+              "bottom",
+              "foot",
+              "support",
+              "stand",
+              "pedestal",
+              "plinth \"the base of the tower\""
+            ],
+            "antonyms": [
+              "top"
+            ]
+          },
+          {
+            "definition": "the part of a column between the shaft and pedestal or pavement."
+          },
+          {
+            "definition": "the end at which a part or organ is attached to the trunk or main part.",
+            "examples": [
+              "a shoot is produced at the base of the stem"
+            ]
+          },
+          {
+            "definition": "a line or surface on which a figure is regarded as standing.",
+            "examples": [
+              "the base of the triangle"
+            ]
+          },
+          {
+            "definition": "a line of known length used in triangulation."
+          },
+          {
+            "definition": "the lowest part of a shield."
+          },
+          {
+            "definition": "a conceptual structure or entity on which something draws or depends.",
+            "examples": [
+              "the town's economic base collapsed"
+            ]
+          },
+          {
+            "definition": "something used as a foundation or starting point for further work; a basis.",
+            "examples": [
+              "uses existing data as the base for the study"
+            ],
+            "synonyms": [
+              "basis",
+              "foundation",
+              "bedrock",
+              "starting point",
+              "source",
+              "origin",
+              "root(s)",
+              "core",
+              "key component",
+              "heart",
+              "backbone \"the system uses existing technology as its base\""
+            ]
+          },
+          {
+            "definition": "a group of people regarded as supporting an organization, for example by buying its products.",
+            "examples": [
+              "a client base"
+            ]
+          },
+          {
+            "definition": "the main place where a person works or stays.",
+            "examples": [
+              "she makes the studio her base"
+            ]
+          },
+          {
+            "definition": "a place used as a center of operations by the armed forces or others; a headquarters.",
+            "examples": [
+              "the corporal headed back to base"
+            ],
+            "synonyms": [
+              "headquarters",
+              "camp",
+              "site",
+              "station",
+              "settlement",
+              "post",
+              "center",
+              "starting point \"the troops returned to their base\""
+            ]
+          },
+          {
+            "definition": "a main or important element or ingredient to which other things are added.",
+            "examples": [
+              "soaps with a vegetable oil base"
+            ]
+          },
+          {
+            "definition": "a substance used as a foundation for makeup."
+          },
+          {
+            "definition": "a substance such as water or oil into which a pigment is mixed to form paint."
+          },
+          {
+            "definition": "a substance capable of reacting with an acid to form a salt and water, or (more broadly) of accepting or neutralizing hydrogen ions."
+          },
+          {
+            "definition": "a purine or pyrimidine group in a nucleotide or nucleic acid."
+          },
+          {
+            "definition": "the middle part of a bipolar transistor, separating the emitter from the collector."
+          },
+          {
+            "definition": "the root or stem of a word or a derivative."
+          },
+          {
+            "definition": "the uninflected form of a verb."
+          },
+          {
+            "definition": "a number used as the basis of a numeration scale."
+          },
+          {
+            "definition": "a number in terms of which other numbers are expressed as logarithms."
+          },
+          {
+            "definition": "one of the four stations that must be reached in turn to score a run."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bases"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have as the foundation for (something); use as a point from which (something) can develop.",
+            "examples": [
+              "the film is based on a novel by Pat Conroy"
+            ],
+            "synonyms": [
+              "found",
+              "build",
+              "construct",
+              "form",
+              "ground",
+              "root; Moreuse as a basis; derive from",
+              "spring from",
+              "stem from",
+              "originate in",
+              "have its origin in",
+              "issue from \"he based his idea on a movie\""
+            ]
+          },
+          {
+            "definition": "situate as the center of operations.",
+            "examples": [
+              "a research program based at the University of Arizona"
+            ],
+            "synonyms": [
+              "locate",
+              "situate",
+              "position",
+              "install",
+              "station",
+              "site",
+              "establish; garrison \"the company was based in Quebec\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "basis",
+    "syllables": [
+      "ba",
+      "sis"
+    ],
+    "pronunciation": "ˈbāsəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bases"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the underlying support or foundation for an idea, argument, or process.",
+            "examples": [
+              "trust is the only basis for a good working relationship"
+            ]
+          },
+          {
+            "definition": "the system or principles according to which an activity or process is carried on.",
+            "examples": [
+              "she needed coaching on a regular basis"
+            ],
+            "synonyms": [
+              "starting point",
+              "base",
+              "point of departure",
+              "beginning",
+              "premise",
+              "fundamental point/principle",
+              "principal constituent",
+              "main ingredient",
+              "cornerstone",
+              "core",
+              "heart",
+              "thrust",
+              "essence",
+              "kernel",
+              "nub More\"the basis of discussion\"footing",
+              "condition",
+              "status",
+              "position; arrangement",
+              "system",
+              "method \"on a part-time basis\""
+            ]
+          },
+          {
+            "definition": "the justification for or reasoning behind something.",
+            "examples": [
+              "on the basis of these statistics, important decisions are made"
+            ],
+            "synonyms": [
+              "foundation",
+              "support",
+              "base; Morereasoning",
+              "rationale",
+              "defense; reason",
+              "grounds",
+              "justification",
+              "motivation \"the basis of his method\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

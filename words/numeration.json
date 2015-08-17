@@ -1,0 +1,34 @@
+[
+  {
+    "word": "numeration",
+    "syllables": [
+      "nu",
+      "mer",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "ˌn(y)o͞oməˈrāSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "numeration"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of calculating or assigning a number to something."
+          },
+          {
+            "definition": "a method or process of numbering, counting, or computing.",
+            "examples": [
+              "plural noun: numerations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

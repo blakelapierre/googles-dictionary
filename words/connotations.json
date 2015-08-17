@@ -1,0 +1,50 @@
+[
+  {
+    "word": "connotation",
+    "syllables": [
+      "con",
+      "no",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "ˌkänəˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "connotations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an idea or feeling that a word invokes in addition to its literal or primary meaning.",
+            "examples": [
+              "the word “discipline” has unhappy connotations of punishment and repression"
+            ],
+            "synonyms": [
+              "overtone",
+              "undertone",
+              "undercurrent",
+              "implication",
+              "hidden meaning",
+              "nuance",
+              "hint",
+              "echo",
+              "vibrations",
+              "association",
+              "intimation",
+              "suggestion",
+              "suspicion",
+              "insinuation \"there was a connotation of distrust in his voice\""
+            ]
+          },
+          {
+            "definition": "the abstract meaning or intension of a term, which forms a principle determining which objects or concepts it applies to."
+          }
+        ]
+      }
+    ]
+  }
+]

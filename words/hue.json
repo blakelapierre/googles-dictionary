@@ -1,0 +1,55 @@
+[
+  {
+    "word": "hue",
+    "syllables": [
+      "hue"
+    ],
+    "pronunciation": "(h)yo͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a color or shade.",
+            "examples": [
+              "her face lost its golden hue"
+            ],
+            "synonyms": [
+              "color",
+              "shade",
+              "tone",
+              "tint",
+              "tinge \"a lovely hue of lilac\""
+            ]
+          },
+          {
+            "definition": "the attribute of a color by virtue of which it is discernible as red, green, etc., and which is dependent on its dominant wavelength, and independent of intensity or lightness."
+          },
+          {
+            "definition": "character; aspect.",
+            "examples": [
+              "men of all political hues submerged their feuds"
+            ],
+            "synonyms": [
+              "color",
+              "shade",
+              "tone",
+              "tint",
+              "tinge \"a lovely hue of lilac\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

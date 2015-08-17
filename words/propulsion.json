@@ -1,0 +1,42 @@
+[
+  {
+    "word": "propulsion",
+    "syllables": [
+      "pro",
+      "pul",
+      "sion"
+    ],
+    "pronunciation": "prəˈpəlSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "propulsion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of driving or pushing forward.",
+            "examples": [
+              "they dive and use their wings for propulsion under water"
+            ],
+            "synonyms": [
+              "thrust",
+              "motive force",
+              "impetus",
+              "impulse",
+              "drive",
+              "driving force",
+              "actuation",
+              "push",
+              "pressure",
+              "power \"these birds use their wings for propulsion under water\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "word": "newton",
+    "syllables": [
+      "new",
+      "ton"
+    ],
+    "pronunciation": "ˈn(y)o͞otn",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "newton"
+          },
+          {
+            "part": "plural noun",
+            "variant": "newtons"
+          },
+          {
+            "part": "symbol",
+            "variant": "N"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the SI unit of force. It is equal to the force that would give a mass of one kilogram an acceleration of one meter per second per second, and is equivalent to 100,000 dynes."
+          }
+        ]
+      }
+    ]
+  }
+]

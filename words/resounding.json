@@ -1,0 +1,132 @@
+[
+  {
+    "word": "resounding",
+    "syllables": [
+      "re",
+      "sound",
+      "ing"
+    ],
+    "pronunciation": "rəˈzoundiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "resounding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a sound) loud enough to reverberate.",
+            "examples": [
+              "a resounding smack across the face"
+            ],
+            "synonyms": [
+              "reverberant",
+              "reverberating",
+              "resonant",
+              "resonating",
+              "echoing",
+              "ringing",
+              "sonorous",
+              "deep",
+              "full-throated",
+              "rich",
+              "clear; Moreloud",
+              "booming \"a resounding voice\""
+            ]
+          },
+          {
+            "definition": "unmistakable; emphatic.",
+            "examples": [
+              "the evening was a resounding success"
+            ],
+            "synonyms": [
+              "enormous",
+              "huge",
+              "very great",
+              "tremendous",
+              "terrific",
+              "colossal; Moreemphatic",
+              "decisive",
+              "conclusive",
+              "outstanding",
+              "remarkable",
+              "phenomenal \"a resounding success\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "resound",
+    "syllables": [
+      "re",
+      "sound"
+    ],
+    "pronunciation": "rəˈzound",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "resounding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a sound, voice, etc.) fill a place with sound; be loud enough to echo.",
+            "examples": [
+              "another scream resounded through the school"
+            ],
+            "synonyms": [
+              "echo",
+              "re-echo",
+              "reverberate",
+              "ring out",
+              "boom",
+              "thunder",
+              "rumble \"the explosion resounded around the silent street\""
+            ]
+          },
+          {
+            "definition": "(of a place) be filled or echo with a particular sound or sounds.",
+            "examples": [
+              "the office resounds with the metronomic clicking of keyboards"
+            ],
+            "synonyms": [
+              "reverberate",
+              "echo",
+              "re-echo",
+              "resonate",
+              "ring \"the great hall resounded with applause and cheers\""
+            ]
+          },
+          {
+            "definition": "(of fame, a person's reputation, etc.) be much talked of.",
+            "examples": [
+              "whatever they do in the nineties will not resound in the way that their earlier achievements did"
+            ],
+            "synonyms": [
+              "be acclaimed",
+              "be celebrated",
+              "be renowned",
+              "be famed",
+              "be glorified",
+              "be trumpeted \"nothing will resound like their earlier achievements\""
+            ]
+          },
+          {
+            "definition": "sing (the praises) of.",
+            "examples": [
+              "Horace resounds the praises of Italy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "virginity",
+    "syllables": [
+      "vir",
+      "gin",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "vərˈjinədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "virginity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of never having had sexual intercourse.",
+            "examples": [
+              "he lost his virginity in college"
+            ],
+            "synonyms": [
+              "chastity",
+              "maidenhood",
+              "maidenhead",
+              "honor",
+              "purity",
+              "innocence; Morecelibacy",
+              "abstinence; informal",
+              "cherry; archaicvirtue \"the sleazy tabloids speculated on the loss of her virginity\""
+            ]
+          },
+          {
+            "definition": "the state of being naive, innocent, or inexperienced in a particular context.",
+            "examples": [
+              "his political virginity"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

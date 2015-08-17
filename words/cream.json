@@ -1,0 +1,153 @@
+[
+  {
+    "word": "cream",
+    "syllables": [
+      "cream"
+    ],
+    "pronunciation": "krēm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cream"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the thick white or pale yellow fatty liquid that rises to the top when milk is left to stand and that can be eaten as an accompaniment to desserts or used as a cooking ingredient.",
+            "examples": [
+              "strawberries and cream"
+            ]
+          },
+          {
+            "definition": "the part of a liquid that gathers at the top."
+          },
+          {
+            "definition": "a sauce, soup, dessert, or similar food containing cream or milk or having the consistency of cream.",
+            "examples": [
+              "a can of cream of mushroom soup"
+            ]
+          },
+          {
+            "definition": "a candy of a specified flavor that is creamy in texture, typically covered with chocolate.",
+            "examples": [
+              "plural noun: creams"
+            ]
+          },
+          {
+            "definition": "a thick liquid or semisolid cosmetic or medical preparation applied to the skin.",
+            "examples": [
+              "shaving cream"
+            ],
+            "synonyms": [
+              "lotion",
+              "ointment",
+              "moisturizer",
+              "emollient",
+              "unguent",
+              "cosmetic; Moresalve",
+              "rub",
+              "embrocation",
+              "balm",
+              "liniment \"skin creams\""
+            ]
+          },
+          {
+            "definition": "the very best of a group of people or things.",
+            "examples": [
+              "the paper's readership is the cream of American society"
+            ],
+            "synonyms": [
+              "best",
+              "finest",
+              "pick",
+              "flower",
+              "crème de la crème",
+              "elite \"the cream of the crop\""
+            ],
+            "antonyms": [
+              "dregs"
+            ]
+          },
+          {
+            "definition": "a very pale yellow or off-white color.",
+            "examples": [
+              "the dress is available in white or cream"
+            ],
+            "synonyms": [
+              "off-white",
+              "whitish",
+              "cream-colored",
+              "creamy",
+              "ivory",
+              "yellowish-white",
+              "ecru \"a cream dress\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cream"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "creams"
+          },
+          {
+            "part": "past tense",
+            "variant": "creamed"
+          },
+          {
+            "part": "past participle",
+            "variant": "creamed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "creaming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "work (butter, typically with sugar) to form a smooth soft paste."
+          },
+          {
+            "definition": "mash (a cooked vegetable) and mix with milk or cream.",
+            "examples": [
+              "creamed turnips"
+            ]
+          },
+          {
+            "definition": "add cream to (coffee)."
+          },
+          {
+            "definition": "rub a cosmetic cream into (the skin).",
+            "examples": [
+              "Madge was creaming her face in front of the mirror"
+            ]
+          },
+          {
+            "definition": "defeat (someone) heavily, especially in a sports contest."
+          },
+          {
+            "definition": "hit or collide heavily and violently with (someone), especially in a car.",
+            "examples": [
+              "she got creamed by a speeding car"
+            ]
+          },
+          {
+            "definition": "(of a person) be sexually aroused, especially to the point of producing sexual secretions."
+          },
+          {
+            "definition": "moisten (one's underpants) due to sexual arousal."
+          }
+        ]
+      }
+    ]
+  }
+]

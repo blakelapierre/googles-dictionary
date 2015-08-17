@@ -1,0 +1,47 @@
+[
+  {
+    "word": "dismember",
+    "syllables": [
+      "dis",
+      "mem",
+      "ber"
+    ],
+    "pronunciation": "disˈmembər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "dismembered"
+          },
+          {
+            "part": "past participle",
+            "variant": "dismembered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cut off the limbs of (a person or animal).",
+            "examples": [
+              "I can picture you in a white jacket dismembering rats"
+            ],
+            "synonyms": [
+              "disjoint",
+              "joint; Morepull apart",
+              "cut up",
+              "chop up",
+              "butcher \"coyotes dismembered what was left of the moose\""
+            ]
+          },
+          {
+            "definition": "partition or divide up (a territory or organization).",
+            "examples": [
+              "Russia intended to dismember the Ottoman Empire"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

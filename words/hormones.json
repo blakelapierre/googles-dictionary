@@ -1,0 +1,32 @@
+[
+  {
+    "word": "hormone",
+    "syllables": [
+      "hor",
+      "mone"
+    ],
+    "pronunciation": "ˈhôrˌmōn",
+    "parts": [
+      {
+        "part": "nounPhysiology",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "hormones"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a regulatory substance produced in an organism and transported in tissue fluids such as blood or sap to stimulate specific cells or tissues into action."
+          },
+          {
+            "definition": "a synthetic substance with an effect similar to that of an animal or plant hormone."
+          },
+          {
+            "definition": "a person's sex hormones as held to influence behavior or mood."
+          }
+        ]
+      }
+    ]
+  }
+]

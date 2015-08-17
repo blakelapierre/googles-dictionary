@@ -1,0 +1,75 @@
+[
+  {
+    "word": "contraction",
+    "syllables": [
+      "con",
+      "trac",
+      "tion"
+    ],
+    "pronunciation": "kənˈtrakSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "contraction"
+          },
+          {
+            "part": "plural noun",
+            "variant": "contractions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of becoming smaller.",
+            "examples": [
+              "the general contraction of the industry did further damage to morale"
+            ],
+            "synonyms": [
+              "shrinking",
+              "shrinkage",
+              "decline",
+              "decrease",
+              "diminution",
+              "dwindling \"the contraction of the industry\""
+            ]
+          },
+          {
+            "definition": "the process in which a muscle becomes or is made shorter and tighter.",
+            "examples": [
+              "neurons control the contraction of muscles"
+            ],
+            "synonyms": [
+              "tightening",
+              "tensing",
+              "flexing \"the contraction of muscles\""
+            ]
+          },
+          {
+            "definition": "a shortening of the uterine muscles occurring at intervals before and during childbirth.",
+            "examples": [
+              "labor pains, labor; cramps my contractions started at midnight"
+            ]
+          },
+          {
+            "definition": "a word or group of words resulting from shortening an original form.",
+            "examples": [
+              "“goodbye” is a contraction of “God be with you.”"
+            ],
+            "synonyms": [
+              "abbreviation",
+              "short form",
+              "shortened form",
+              "elision",
+              "diminutive \"“goodbye” is a contraction of “God be with you”\""
+            ]
+          },
+          {
+            "definition": "the process of shortening a word by combination or elision."
+          }
+        ]
+      }
+    ]
+  }
+]

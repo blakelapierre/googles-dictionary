@@ -1,0 +1,77 @@
+[
+  {
+    "word": "furnish",
+    "syllables": [
+      "fur",
+      "nish"
+    ],
+    "pronunciation": "ˈfərniSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "furnish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "furnishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "furnished"
+          },
+          {
+            "part": "past participle",
+            "variant": "furnished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "furnishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide (a house or room) with furniture and fittings.",
+            "examples": [
+              "the proprietor has furnished the bedrooms in a variety of styles"
+            ],
+            "synonyms": [
+              "fit out",
+              "provide with furniture",
+              "appoint",
+              "outfit \"the bedrooms are elegantly furnished\""
+            ]
+          },
+          {
+            "definition": "supply someone with (something); give (something) to someone.",
+            "examples": [
+              "she was able to furnish me with details of the incident"
+            ]
+          },
+          {
+            "definition": "be a source of; provide.",
+            "examples": [
+              "fish furnish an important source of protein"
+            ],
+            "synonyms": [
+              "supply",
+              "provide",
+              "equip",
+              "provision",
+              "issue",
+              "kit out",
+              "present",
+              "give",
+              "offer",
+              "afford",
+              "purvey",
+              "bestow; informalfix up \"grooms furnished us with horses for our journey\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "word": "axle",
+    "syllables": [
+      "ax",
+      "le"
+    ],
+    "pronunciation": "ˈaksəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "axle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "axles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rod or spindle (either fixed or rotating) passing through the center of a wheel or group of wheels.",
+            "examples": [
+              "axle grease"
+            ],
+            "synonyms": [
+              "shaft",
+              "spindle",
+              "rod",
+              "arbor",
+              "mandrel",
+              "pivot \"the wagon's rear axle\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

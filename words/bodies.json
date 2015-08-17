@@ -1,0 +1,190 @@
+[
+  {
+    "word": "body",
+    "syllables": [
+      "bod",
+      "y"
+    ],
+    "pronunciation": "ˈbädē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bodies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the physical structure of a person or an animal, including the bones, flesh, and organs.",
+            "examples": [
+              "it's important to keep your body in good condition"
+            ],
+            "synonyms": [
+              "figure",
+              "frame",
+              "form",
+              "physique",
+              "anatomy",
+              "skeleton; Moresoma; informalbod",
+              "soul case \"the human body\""
+            ]
+          },
+          {
+            "definition": "the trunk apart from the head and the limbs.",
+            "examples": [
+              "the blow almost severed his head from his body"
+            ],
+            "synonyms": [
+              "torso",
+              "trunk \"he was hit by shrapnel in the head and body\""
+            ]
+          },
+          {
+            "definition": "a corpse.",
+            "examples": [
+              "they found his body washed up on the beach"
+            ],
+            "synonyms": [
+              "corpse",
+              "carcass",
+              "skeleton",
+              "remains; Moreinformalstiff; cadaver \"the body was exhumed\""
+            ]
+          },
+          {
+            "definition": "the physical and mortal aspect of a person as opposed to the soul or spirit.",
+            "examples": [
+              "a duality of body and soul"
+            ]
+          },
+          {
+            "definition": "a person's body regarded as an object of sexual desire.",
+            "examples": [
+              "he was just after her body"
+            ]
+          },
+          {
+            "definition": "a person, often one of a specified type or character.",
+            "examples": [
+              "a motherly body"
+            ]
+          },
+          {
+            "definition": "the main section of a car or aircraft.",
+            "examples": [
+              "the body of the aircraft was filled with smoke"
+            ]
+          },
+          {
+            "definition": "the main or central part of something, especially a building or text.",
+            "examples": [
+              "information that changes regularly is kept apart from the main body of the text"
+            ],
+            "synonyms": [
+              "main part",
+              "central part",
+              "core",
+              "heart \"the body of the essay\""
+            ]
+          },
+          {
+            "definition": "the part of an e-mail containing the message, as opposed to information such as the subject and sender.",
+            "examples": [
+              "put your name, address, and daytime phone number in the e-mail's body"
+            ]
+          },
+          {
+            "definition": "a large or substantial amount of something; a mass or collection of something.",
+            "examples": [
+              "a rich body of Canadian folklore"
+            ],
+            "synonyms": [
+              "expanse",
+              "mass",
+              "area",
+              "stretch",
+              "tract",
+              "sweep",
+              "extent More\"a body of water\"quantity",
+              "amount",
+              "volume",
+              "collection",
+              "mass",
+              "corpus \"a growing body of evidence\""
+            ]
+          },
+          {
+            "definition": "a group of people with a common purpose or function acting as an organized unit.",
+            "examples": [
+              "a regulatory body"
+            ],
+            "synonyms": [
+              "association",
+              "organization",
+              "group",
+              "party",
+              "company",
+              "society",
+              "circle",
+              "syndicate",
+              "guild",
+              "corporation",
+              "contingent \"the representative body of the employers\""
+            ]
+          },
+          {
+            "definition": "a distinct material object.",
+            "examples": [
+              "the path taken by the falling body"
+            ]
+          },
+          {
+            "definition": "a full or substantial quality of flavor in wine."
+          },
+          {
+            "definition": "fullness or thickness of a person's hair.",
+            "examples": [
+              "designed to add body to limp and straight hair"
+            ],
+            "synonyms": [
+              "fullness",
+              "thickness",
+              "substance",
+              "bounce",
+              "lift",
+              "shape \"add body to your hair\""
+            ]
+          },
+          {
+            "definition": "(in pottery) a clay used for making the main part of ceramic ware, as distinct from a glaze."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bodies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give material form to something abstract.",
+            "examples": [
+              "he bodied forth the traditional Prussian remedy for all ills"
+            ]
+          },
+          {
+            "definition": "build the bodywork of (a motor vehicle).",
+            "examples": [
+              "an era when automobiles were bodied over wooden frames"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

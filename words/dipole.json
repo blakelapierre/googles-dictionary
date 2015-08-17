@@ -1,0 +1,36 @@
+[
+  {
+    "word": "dipole",
+    "syllables": [
+      "di",
+      "pole"
+    ],
+    "pronunciation": "ˈdīˌpōl",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dipole"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dipoles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a pair of equal and oppositely charged or magnetized poles separated by a distance."
+          },
+          {
+            "definition": "an antenna consisting of a horizontal metal rod with a connecting wire at its center."
+          },
+          {
+            "definition": "a molecule in which a concentration of positive electric charge is separated from a concentration of negative charge."
+          }
+        ]
+      }
+    ]
+  }
+]

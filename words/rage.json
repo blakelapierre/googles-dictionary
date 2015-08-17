@@ -1,0 +1,170 @@
+[
+  {
+    "word": "rage",
+    "syllables": [
+      "rage"
+    ],
+    "pronunciation": "rāj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "violent, uncontrollable anger.",
+            "examples": [
+              "her face was distorted with rage"
+            ],
+            "synonyms": [
+              "fury",
+              "anger",
+              "wrath",
+              "outrage",
+              "indignation",
+              "temper",
+              "spleen",
+              "resentment",
+              "pique",
+              "annoyance",
+              "vexation",
+              "displeasure; Moretantrum",
+              "bad mood; literaryire",
+              "choler \"his rage is due to frustration\""
+            ]
+          },
+          {
+            "definition": "the violent action of a natural agency.",
+            "examples": [
+              "the rising rage of the sea"
+            ]
+          },
+          {
+            "definition": "a vehement desire or passion.",
+            "examples": [
+              "a rage for absolute honesty informs much western art"
+            ],
+            "synonyms": [
+              "craze",
+              "passion",
+              "fashion",
+              "taste",
+              "trend",
+              "vogue",
+              "fad",
+              "enthusiasm",
+              "obsession",
+              "compulsion",
+              "fixation",
+              "fetish",
+              "mania",
+              "preoccupation; informalthing \"the current rage for home improvement\""
+            ]
+          },
+          {
+            "definition": "an instance of aggressive behavior or violent anger caused by a stressful or frustrating situation.",
+            "examples": [
+              "desk rage"
+            ]
+          },
+          {
+            "definition": "a widespread temporary enthusiasm or fashion.",
+            "examples": [
+              "noun: the rage"
+            ]
+          },
+          {
+            "definition": "intense feeling, especially prophetic, poetic, or martial enthusiasm or ardor."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rage"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rages"
+          },
+          {
+            "part": "past tense",
+            "variant": "raged"
+          },
+          {
+            "part": "past participle",
+            "variant": "raged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "raging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel or express violent uncontrollable anger.",
+            "examples": [
+              "he raged at the futility of it all"
+            ],
+            "synonyms": [
+              "be angry",
+              "be furious",
+              "be enraged",
+              "be incensed",
+              "seethe",
+              "be beside oneself",
+              "rave",
+              "storm",
+              "fume",
+              "spit; Moreinformalbe livid",
+              "be wild",
+              "foam at the mouth",
+              "have a fit",
+              "be steamed up \"she raged silently\"protest about",
+              "complain about",
+              "oppose",
+              "denounce; fulminate against",
+              "storm about",
+              "rail against \"he raged against the reforms\""
+            ]
+          },
+          {
+            "definition": "continue with great force or intensity.",
+            "examples": [
+              "the argument raged for days"
+            ],
+            "synonyms": [
+              "thunder",
+              "rampage",
+              "be violent",
+              "be turbulent",
+              "be tempestuous \"a storm was raging\""
+            ]
+          },
+          {
+            "definition": "(of an illness) spread very rapidly or uncontrollably.",
+            "examples": [
+              "the great cholera epidemic that raged across Europe in 1831"
+            ]
+          },
+          {
+            "definition": "(of an emotion) have or reach a high degree of intensity.",
+            "examples": [
+              "she couldn't hide the fear that raged within her"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "intervene",
+    "syllables": [
+      "in",
+      "ter",
+      "vene"
+    ],
+    "pronunciation": "ˌin(t)ərˈvēn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "intervene"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "intervenes"
+          },
+          {
+            "part": "past tense",
+            "variant": "intervened"
+          },
+          {
+            "part": "past participle",
+            "variant": "intervened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "intervening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come between so as to prevent or alter a result or course of events.",
+            "examples": [
+              "he acted outside his authority when he intervened in the dispute"
+            ],
+            "synonyms": [
+              "intercede",
+              "involve oneself",
+              "get involved",
+              "interpose oneself",
+              "step in; Moremediate",
+              "referee; interfere",
+              "intrude",
+              "meddle",
+              "interrupt \"she intervened in the dispute\""
+            ]
+          },
+          {
+            "definition": "(of an event or circumstance) occur as a delay or obstacle to something being done.",
+            "examples": [
+              "Christmas intervened, and the investigation was suspended"
+            ],
+            "synonyms": [
+              "occur",
+              "happen",
+              "take place",
+              "arise",
+              "crop up",
+              "come about; Moreliterarycome to pass",
+              "befall",
+              "betide \"had the war not intervened",
+              "they might have married\""
+            ]
+          },
+          {
+            "definition": "interrupt verbally.",
+            "examples": [
+              "“It's true!” he intervened"
+            ]
+          },
+          {
+            "definition": "interpose in a lawsuit as a third party."
+          },
+          {
+            "definition": "occur in time between events.",
+            "examples": [
+              "to occupy the intervening months, she took a job in a hospital"
+            ]
+          },
+          {
+            "definition": "be situated between things.",
+            "examples": [
+              "they heard the sound of distant gunfire, muffled by the intervening trees"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

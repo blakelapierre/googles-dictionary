@@ -1,0 +1,38 @@
+[
+  {
+    "word": "greenhouse",
+    "syllables": [
+      "green",
+      "house"
+    ],
+    "pronunciation": "ˈɡrēnˌhous",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "greenhouse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "greenhouses"
+          },
+          {
+            "part": "noun",
+            "variant": "green-house"
+          },
+          {
+            "part": "plural noun",
+            "variant": "green-houses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a glass building in which plants are grown that need protection from cold weather."
+          }
+        ]
+      }
+    ]
+  }
+]

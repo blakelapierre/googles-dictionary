@@ -1,0 +1,83 @@
+[
+  {
+    "word": "circulation",
+    "syllables": [
+      "cir",
+      "cu",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌsərkyəˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "circulation"
+          },
+          {
+            "part": "noun",
+            "variant": "cir."
+          },
+          {
+            "part": "noun",
+            "variant": "circ."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "movement to and fro or around something, especially that of fluid in a closed system.",
+            "examples": [
+              "an extra pump for good water circulation"
+            ],
+            "synonyms": [
+              "flow",
+              "motion",
+              "movement",
+              "course",
+              "passage \"the circulation of fresh air\""
+            ]
+          },
+          {
+            "definition": "the continuous motion by which the blood travels through all parts of the body under the action of the heart."
+          },
+          {
+            "definition": "the movement of sap through a plant."
+          },
+          {
+            "definition": "the public availability or knowledge of something.",
+            "examples": [
+              "his music has achieved wide circulation"
+            ],
+            "synonyms": [
+              "dissemination",
+              "spreading",
+              "communication",
+              "transmission",
+              "making known",
+              "putting out/about; Morebroadcasting",
+              "publication",
+              "propagation",
+              "promulgation; distribution",
+              "diffusion",
+              "issuance \"the circulation of the information\""
+            ]
+          },
+          {
+            "definition": "the movement, exchange, or availability of money in a country.",
+            "examples": [
+              "the new coins go into circulation today"
+            ]
+          },
+          {
+            "definition": "the number of copies sold of a newspaper or magazine.",
+            "examples": [
+              "plural noun: circulations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

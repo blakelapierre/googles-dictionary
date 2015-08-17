@@ -1,0 +1,140 @@
+[
+  {
+    "word": "triple",
+    "syllables": [
+      "tri",
+      "ple"
+    ],
+    "pronunciation": "ˈtripəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "triple"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "consisting of or involving three parts, things, or people.",
+            "examples": [
+              "a triple murder"
+            ],
+            "synonyms": [
+              "three-way",
+              "tripartite; Morethreefold",
+              "trifold \"a triple alliance\""
+            ]
+          },
+          {
+            "definition": "having three times the usual size, quality, or strength.",
+            "examples": [
+              "a triple dark rum"
+            ],
+            "synonyms": [
+              "three times",
+              "treble \"they paid her triple the standard fee\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "predeterminer",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "triple"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "three times as much or as many.",
+            "examples": [
+              "the copper energy cells had triple the efficiency of silicon cells"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "triple"
+          },
+          {
+            "part": "plural noun",
+            "variant": "triples"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Triples"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is three times as large as usual or is made up of three standard units or items."
+          },
+          {
+            "definition": "a sporting contest in which each side has three players."
+          },
+          {
+            "definition": "a system of change ringing using seven bells, with three pairs changing places each time."
+          },
+          {
+            "definition": "a hit that enables the batter to reach third base."
+          },
+          {
+            "definition": "another term for trifecta."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "triple"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "triples"
+          },
+          {
+            "part": "past tense",
+            "variant": "tripled"
+          },
+          {
+            "part": "past participle",
+            "variant": "tripled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tripling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become three times as much or as many.",
+            "examples": [
+              "grain prices were expected to triple"
+            ]
+          },
+          {
+            "definition": "multiply (something) by three.",
+            "examples": [
+              "the party more than tripled its share of the vote"
+            ]
+          },
+          {
+            "definition": "hit a triple.",
+            "examples": [
+              "he tripled into right field"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

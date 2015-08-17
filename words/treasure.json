@@ -1,0 +1,89 @@
+[
+  {
+    "word": "treasure",
+    "syllables": [
+      "treas",
+      "ure"
+    ],
+    "pronunciation": "ˈtreZHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "treasure"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quantity of precious metals, gems, or other valuable objects.",
+            "examples": [
+              "riches, valuables, jewels, gems, gold, silver, precious metals, money, cash; Morewealth, fortune; treasure trove \"a casket of treasure\"Morewealth, fortune; treasure trove a casket of treasure"
+            ]
+          },
+          {
+            "definition": "a very valuable object.",
+            "examples": [
+              "plural noun: treasures"
+            ]
+          },
+          {
+            "definition": "a person whom the speaker loves or who is valued for the assistance they can give.",
+            "examples": [
+              "the housekeeper is a real treasure—I don't know what he would do without her"
+            ],
+            "synonyms": [
+              "paragon",
+              "gem",
+              "angel",
+              "find",
+              "star",
+              "one of a kind",
+              "one in a million \"she's a real treasure\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "treasure"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "treasures"
+          },
+          {
+            "part": "past tense",
+            "variant": "treasured"
+          },
+          {
+            "part": "past participle",
+            "variant": "treasured"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "treasuring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "keep carefully (a valuable or valued item).",
+            "examples": [
+              "cherish, hold dear, prize, value greatly; Moreadore, dote on, love, be devoted to, worship, venerate \"I treasure the photographs I took of Jack\"Moreadore, dote on, love, be devoted to, worship, venerate I treasure the photographs I took of Jack"
+            ]
+          },
+          {
+            "definition": "value highly.",
+            "examples": [
+              "the island is treasured by walkers and conservationists"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

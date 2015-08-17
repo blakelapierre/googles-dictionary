@@ -1,0 +1,63 @@
+[
+  {
+    "word": "barrier",
+    "syllables": [
+      "bar",
+      "ri",
+      "er"
+    ],
+    "pronunciation": "ˈberēər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "barrier"
+          },
+          {
+            "part": "plural noun",
+            "variant": "barriers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fence or other obstacle that prevents movement or access.",
+            "examples": [
+              "fence, railing, barricade, hurdle, bar, blockade, roadblock the barrier across the entrance"
+            ]
+          },
+          {
+            "definition": "a circumstance or obstacle that keeps people or things apart or prevents communication or progress.",
+            "examples": [
+              "a language barrier"
+            ],
+            "synonyms": [
+              "obstacle",
+              "obstruction",
+              "hurdle",
+              "stumbling block",
+              "bar",
+              "block",
+              "impediment",
+              "hindrance",
+              "curb \"a barrier to international trade\""
+            ]
+          },
+          {
+            "definition": "the starting gate of a racecourse."
+          },
+          {
+            "definition": "a gate at a parking lot that controls access by being raised or lowered."
+          },
+          {
+            "definition": "a long narrow island lying parallel and close to the mainland, protecting the mainland from erosion and storms.",
+            "examples": [
+              "noun: barrier island; plural noun: barrier islands"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

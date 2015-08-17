@@ -1,0 +1,45 @@
+[
+  {
+    "word": "container",
+    "syllables": [
+      "con",
+      "tain",
+      "er"
+    ],
+    "pronunciation": "kənˈtānər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "containers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an object that can be used to hold or transport something.",
+            "examples": [
+              "a microwaveable glass container"
+            ],
+            "synonyms": [
+              "receptacle",
+              "vessel",
+              "canister",
+              "can",
+              "box",
+              "holder",
+              "repository \"a container of leftover beets\""
+            ]
+          },
+          {
+            "definition": "a large metal box of a standard design and size used for the transportation of goods by road, rail, sea, or air.",
+            "examples": [
+              "a container ship"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

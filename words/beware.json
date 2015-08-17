@@ -1,0 +1,44 @@
+[
+  {
+    "word": "beware",
+    "syllables": [
+      "be",
+      "ware"
+    ],
+    "pronunciation": "bəˈwer",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "beware"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be cautious and alert to the dangers of.",
+            "examples": [
+              "consumers were warned to beware of faulty packaging"
+            ],
+            "synonyms": [
+              "be on your guard",
+              "watch out",
+              "look out",
+              "be alert",
+              "be on the lookout",
+              "keep your eyes open/peeled",
+              "keep an eye out",
+              "keep a sharp lookout",
+              "be on the qui vive; Moretake care",
+              "be careful",
+              "be cautious",
+              "watch your step; fore \"there are loose rocks underfoot",
+              "so beware!\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

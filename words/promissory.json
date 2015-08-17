@@ -1,0 +1,37 @@
+[
+  {
+    "word": "promissory",
+    "syllables": [
+      "prom",
+      "is",
+      "so",
+      "ry"
+    ],
+    "pronunciation": "ˈpräməˌsôrē",
+    "parts": [
+      {
+        "part": "adjectiveLaw",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "promissory"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "conveying or implying a promise.",
+            "examples": [
+              "statements that are promissory in nature"
+            ]
+          },
+          {
+            "definition": "indicative of something to come; full of promise.",
+            "examples": [
+              "the glow of evening is promissory of the splendid days to come"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

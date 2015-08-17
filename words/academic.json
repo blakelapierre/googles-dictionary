@@ -1,0 +1,115 @@
+[
+  {
+    "word": "academic",
+    "syllables": [
+      "ac",
+      "a",
+      "dem",
+      "ic"
+    ],
+    "pronunciation": "ˌakəˈdemik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "academic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to education and scholarship.",
+            "examples": [
+              "academic achievement"
+            ],
+            "synonyms": [
+              "educational",
+              "scholastic",
+              "instructional",
+              "pedagogical More\"an academic institution\"scholarly",
+              "studious",
+              "literary",
+              "well read",
+              "intellectual",
+              "clever",
+              "erudite",
+              "learned",
+              "educated",
+              "cultured",
+              "bookish",
+              "highbrow",
+              "pedantic",
+              "donnish",
+              "cerebral; informalbrainy",
+              "inkhorn; datedlettered \"his academic turn of mind\""
+            ]
+          },
+          {
+            "definition": "of or relating to an educational or scholarly institution or environment.",
+            "examples": [
+              "students resplendent in academic dress"
+            ]
+          },
+          {
+            "definition": "(of an institution or a course of study) placing a greater emphasis on reading and study than on technical or practical work.",
+            "examples": [
+              "an academic high school that prepares students for the best colleges and universities"
+            ]
+          },
+          {
+            "definition": "(of a person) interested in or excelling at scholarly pursuits and activities.",
+            "examples": [
+              "Ben is not an academic child but he tries hard"
+            ]
+          },
+          {
+            "definition": "(of an art form) conventional, especially in an idealized or excessively formal way.",
+            "examples": [
+              "academic painting"
+            ]
+          },
+          {
+            "definition": "not of practical relevance; of only theoretical interest.",
+            "examples": [
+              "the debate has been largely academic"
+            ],
+            "synonyms": [
+              "theoretical",
+              "conceptual",
+              "notional",
+              "philosophical",
+              "hypothetical",
+              "speculative",
+              "conjectural",
+              "suppositional; Moreimpractical",
+              "unrealistic",
+              "ivory-tower \"the debate has been largely academic\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "academic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "academics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a teacher or scholar in a college or institute of higher education.",
+            "examples": [
+              "scholar, lecturer, teacher, tutor, professor, fellow, man/woman of letters, don, bluestocking; Moreinformalegghead, bookworm; formalpedagogue \"a group of Russian academics\"Moreegghead, bookworm; pedagogue a group of Russian academics"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "word": "accommodate",
+    "syllables": [
+      "ac",
+      "com",
+      "mo",
+      "date"
+    ],
+    "pronunciation": "əˈkäməˌdāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "accommodate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "accommodates"
+          },
+          {
+            "part": "past tense",
+            "variant": "accommodated"
+          },
+          {
+            "part": "past participle",
+            "variant": "accommodated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "accommodating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of physical space, especially a building) provide lodging or sufficient space for.",
+            "examples": [
+              "the cabins accommodate up to 6 people"
+            ],
+            "synonyms": [
+              "lodge",
+              "house",
+              "put up",
+              "billet",
+              "quarter",
+              "board",
+              "take in",
+              "shelter",
+              "give someone a roof over their head; Moreharbor \"refugees were accommodated in army camps\"hold",
+              "take",
+              "have room for \"each cottage accommodates up to six people\""
+            ]
+          },
+          {
+            "definition": "fit in with the wishes or needs of.",
+            "examples": [
+              "any language must accommodate new concepts"
+            ],
+            "synonyms": [
+              "help",
+              "assist",
+              "aid",
+              "oblige; Moremeet the needs/wants of",
+              "satisfy \"our staff will make every effort to accommodate you\""
+            ]
+          },
+          {
+            "definition": "adapt to.",
+            "examples": [
+              "making consumers accommodate to the realities of today's marketplace"
+            ],
+            "synonyms": [
+              "adjust to",
+              "adapt to",
+              "accustom oneself to",
+              "habituate oneself to",
+              "acclimatize (oneself) to",
+              "acclimate (oneself) to",
+              "acculturate to",
+              "get (oneself) accustomed to",
+              "get used to",
+              "come to terms with \"she tried to accommodate herself to her new situation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "word": "averse",
+    "syllables": [
+      "a",
+      "verse"
+    ],
+    "pronunciation": "əˈvərs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "averse"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a strong dislike of or opposition to something.",
+            "examples": [
+              "as a former CIA director, he is not averse to secrecy"
+            ],
+            "synonyms": [
+              "opposed to",
+              "against",
+              "antipathetic to",
+              "hostile to",
+              "ill-disposed to",
+              "resistant to; Moredisinclined to",
+              "reluctant to",
+              "unwilling to",
+              "loath to; informalanti \"why are you so averse to being hospitalized?\""
+            ],
+            "antonyms": [
+              "keen"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

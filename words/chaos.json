@@ -1,0 +1,73 @@
+[
+  {
+    "word": "chaos",
+    "syllables": [
+      "cha",
+      "os"
+    ],
+    "pronunciation": "ˈkāˌäs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chaos"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chaoses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "complete disorder and confusion.",
+            "examples": [
+              "snow caused chaos in the region"
+            ],
+            "synonyms": [
+              "disorder",
+              "disarray",
+              "disorganization",
+              "confusion",
+              "mayhem",
+              "bedlam",
+              "pandemonium",
+              "havoc",
+              "turmoil",
+              "tumult",
+              "commotion",
+              "disruption",
+              "upheaval",
+              "uproar",
+              "maelstrom; Moremuddle",
+              "mess",
+              "shambles",
+              "free-for-all; anarchy",
+              "lawlessness",
+              "entropy; informalhullabaloo",
+              "hoopla",
+              "train wreck",
+              "all hell broken loose \"police were called in to quell the chaos\""
+            ],
+            "antonyms": [
+              "order"
+            ]
+          },
+          {
+            "definition": "behavior so unpredictable as to appear random, owing to great sensitivity to small changes in conditions."
+          },
+          {
+            "definition": "the formless matter supposed to have existed before the creation of the universe."
+          },
+          {
+            "definition": "the first created being, from which came the primeval deities Gaia, Tartarus, Erebus, and Nyx.",
+            "examples": [
+              "noun: Chaos"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

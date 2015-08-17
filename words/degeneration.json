@@ -1,0 +1,38 @@
+[
+  {
+    "word": "degeneration",
+    "syllables": [
+      "de",
+      "gen",
+      "er",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "dəˌjenəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "degeneration"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or process of being or becoming degenerate; decline or deterioration.",
+            "examples": [
+              "overgrazing has caused serious degeneration of grassland"
+            ]
+          },
+          {
+            "definition": "deterioration and loss of function in the cells of a tissue or organ.",
+            "examples": [
+              "degeneration of the muscle fibers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

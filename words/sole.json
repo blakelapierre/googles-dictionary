@@ -1,0 +1,145 @@
+[
+  {
+    "word": "sole",
+    "syllables": [
+      "sole"
+    ],
+    "pronunciation": "sōl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sole"
+          },
+          {
+            "part": "plural noun",
+            "variant": "soles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the undersurface of a person's foot.",
+            "examples": [
+              "the soles of their feet were nearly black with dirt"
+            ]
+          },
+          {
+            "definition": "the section forming the underside of a piece of footwear (typically excluding the heel when this forms a distinct part)."
+          },
+          {
+            "definition": "the part of the undersurface of a person's foot between the toes and the instep."
+          },
+          {
+            "definition": "the undersurface of a tool or implement such as a plane or the head of a golf club."
+          },
+          {
+            "definition": "the floor of a ship's cabin or cockpit."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sole"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "soles"
+          },
+          {
+            "part": "past tense",
+            "variant": "soled"
+          },
+          {
+            "part": "past participle",
+            "variant": "soled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "soling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put a new sole onto (a shoe)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sole",
+    "syllables": [
+      "sole"
+    ],
+    "pronunciation": "sōl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sole"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a marine flatfish of almost worldwide distribution, important as a food fish."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sole",
+    "syllables": [
+      "sole"
+    ],
+    "pronunciation": "sōl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sole"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "one and only.",
+            "examples": [
+              "my sole aim was to contribute to the national team"
+            ],
+            "synonyms": [
+              "only",
+              "one (and only)",
+              "single",
+              "solitary",
+              "lone",
+              "unique",
+              "exclusive",
+              "isolated \"my sole excuse is that I once loved her\""
+            ]
+          },
+          {
+            "definition": "belonging or restricted to one person or group of people.",
+            "examples": [
+              "loans can be in sole or joint names"
+            ]
+          },
+          {
+            "definition": "(especially of a woman) unmarried."
+          },
+          {
+            "definition": "alone; unaccompanied."
+          }
+        ]
+      }
+    ]
+  }
+]

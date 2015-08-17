@@ -1,0 +1,92 @@
+[
+  {
+    "word": "determine",
+    "syllables": [
+      "de",
+      "ter",
+      "mine"
+    ],
+    "pronunciation": "dəˈtərmən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "determines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something) to occur in a particular way; be the decisive factor in.",
+            "examples": [
+              "it will be her mental attitude that determines her future"
+            ],
+            "synonyms": [
+              "control",
+              "decide",
+              "regulate",
+              "direct",
+              "dictate",
+              "govern; Moreaffect",
+              "influence",
+              "mold \"chromosomes determine the sex of the embryo\"deciding",
+              "decisive",
+              "conclusive",
+              "final",
+              "definitive",
+              "key",
+              "pivotal",
+              "crucial",
+              "critical",
+              "major",
+              "chief",
+              "prime \"money is the determining factor\""
+            ]
+          },
+          {
+            "definition": "ascertain or establish exactly, typically as a result of research or calculation.",
+            "examples": [
+              "officials are working with state police to determine the cause of a deadly bus crash"
+            ],
+            "synonyms": [
+              "ascertain",
+              "find out",
+              "discover",
+              "learn",
+              "establish",
+              "calculate",
+              "work out",
+              "make out",
+              "deduce",
+              "diagnose",
+              "discern; Morecheck",
+              "verify",
+              "confirm; informalfigure out \"determine the composition of the fibers\""
+            ]
+          },
+          {
+            "definition": "specify the value, position, or form of (a mathematical or geometric object) uniquely."
+          },
+          {
+            "definition": "firmly decide.",
+            "examples": [
+              "he determined on a withdrawal of his forces"
+            ],
+            "synonyms": [
+              "resolve",
+              "decide",
+              "make up one's mind",
+              "choose",
+              "elect",
+              "opt; formalpurpose \"he determined to sell\""
+            ]
+          },
+          {
+            "definition": "bring or come to an end."
+          }
+        ]
+      }
+    ]
+  }
+]

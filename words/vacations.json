@@ -1,0 +1,75 @@
+[
+  {
+    "word": "vacation",
+    "syllables": [
+      "va",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "vāˈkāSH(ə)nvəˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "vacations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an extended period of recreation, especially one spent away from home or in traveling.",
+            "examples": [
+              "he took a vacation in the south of France"
+            ],
+            "synonyms": [
+              "break",
+              "time off",
+              "recess",
+              "leave",
+              "leave of absence",
+              "furlough",
+              "sabbatical",
+              "spring break; Moretrip",
+              "tour; holiday; informalgetaway",
+              "staycation; formalsojourn \"their summer vacations in Hawaii\""
+            ]
+          },
+          {
+            "definition": "a fixed holiday period between terms in schools and law courts."
+          },
+          {
+            "definition": "the action of leaving something one previously occupied.",
+            "examples": [
+              "his marriage was the reason for the vacation of his fellowship"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbNorth American",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "vacations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take a vacation.",
+            "examples": [
+              "I was vacationing in Europe with my family"
+            ],
+            "synonyms": [
+              "travel",
+              "tour",
+              "stay",
+              "visit",
+              "stop over; formalsojourn \"I was vacationing in Europe with my family\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

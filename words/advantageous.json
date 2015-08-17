@@ -1,0 +1,53 @@
+[
+  {
+    "word": "advantageous",
+    "syllables": [
+      "ad",
+      "van",
+      "ta",
+      "geous"
+    ],
+    "pronunciation": "ˌadvənˈtājəsadvənˈtājəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "advantageous"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "involving or creating favorable circumstances that increase the chances of success or effectiveness; beneficial.",
+            "examples": [
+              "the scheme is advantageous to your company"
+            ],
+            "synonyms": [
+              "superior",
+              "dominant",
+              "powerful; Moregood",
+              "fortunate",
+              "lucky",
+              "favorable \"an advantageous position\"beneficial",
+              "of benefit",
+              "helpful",
+              "of assistance",
+              "useful",
+              "of use",
+              "of value",
+              "of service",
+              "profitable",
+              "fruitful; convenient",
+              "expedient \"the arrangement is advantageous to both sides\""
+            ],
+            "antonyms": [
+              "inferior",
+              "detrimental"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

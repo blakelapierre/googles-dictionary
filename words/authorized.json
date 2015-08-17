@@ -1,0 +1,92 @@
+[
+  {
+    "word": "authorized",
+    "syllables": [
+      "au",
+      "thor",
+      "ized"
+    ],
+    "pronunciation": "ˈôTHəˌrīzd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "authorized"
+          },
+          {
+            "part": "adjective",
+            "variant": "authorised"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having official permission or approval.",
+            "examples": [
+              "an authorized dealer"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "authorize",
+    "syllables": [
+      "au",
+      "thor",
+      "ize"
+    ],
+    "pronunciation": "ˈôTHəˌrīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "authorized"
+          },
+          {
+            "part": "past participle",
+            "variant": "authorized"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give official permission for or approval to (an undertaking or agent).",
+            "examples": [
+              "the government authorized further aircraft production"
+            ],
+            "synonyms": [
+              "sanction",
+              "permit",
+              "allow",
+              "approve",
+              "consent to",
+              "assent to; Moreratify",
+              "endorse",
+              "validate; informalgive the green light to",
+              "give the go-ahead to",
+              "OK",
+              "give the thumbs up to \"they authorized further action\"empower",
+              "mandate",
+              "commission; entitle \"the troops were authorized to fire\"approved",
+              "recognized",
+              "sanctioned; accredited",
+              "licensed",
+              "certified; official",
+              "lawful",
+              "legal",
+              "legitimate \"an authorized biography\""
+            ],
+            "antonyms": [
+              "forbid",
+              "unofficial"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

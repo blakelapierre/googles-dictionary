@@ -1,0 +1,60 @@
+[
+  {
+    "word": "productivity",
+    "syllables": [
+      "pro",
+      "duc",
+      "tiv",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌprōˌdəkˈtivədēˌprädəkˈtivədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "productivity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or quality of producing something, especially crops.",
+            "examples": [
+              "the long-term productivity of land"
+            ]
+          },
+          {
+            "definition": "the effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
+            "examples": [
+              "workers have boosted productivity by 30 percent"
+            ],
+            "synonyms": [
+              "efficiency",
+              "work rate; Moreoutput",
+              "yield",
+              "production \"workers have boosted productivity\""
+            ]
+          },
+          {
+            "definition": "the rate of production of new biomass by an individual, population, or community; the fertility or capacity of a given habitat or area.",
+            "examples": [
+              "nutrient-rich waters with high productivity"
+            ],
+            "synonyms": [
+              "fruitfulness",
+              "fertility",
+              "richness",
+              "fecundity \"the productivity of the soil\""
+            ],
+            "antonyms": [
+              "sterility",
+              "barrenness"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

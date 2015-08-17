@@ -1,0 +1,30 @@
+[
+  {
+    "word": "utensil",
+    "syllables": [
+      "u",
+      "ten",
+      "sil"
+    ],
+    "pronunciation": "yo͞oˈtensəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "utensils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an implement, container, or other article, especially for household use.",
+            "examples": [
+              "implement, tool, instrument, device, apparatus, gadget, appliance, contrivance, contraption, aid; gizmo kitchen utensils"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

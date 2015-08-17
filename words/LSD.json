@@ -1,0 +1,51 @@
+[
+  {
+    "word": "LSD",
+    "syllables": [
+      "LSD"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "LSD"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a synthetic crystalline compound, lysergic acid diethylamide, that is a potent hallucinogenic drug."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lysergic acid",
+    "syllables": [
+      "ly",
+      "ser",
+      "gic ac",
+      "id"
+    ],
+    "pronunciation": "līˈsərjikli-",
+    "parts": [
+      {
+        "part": "nounChemistry",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "LSD"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a crystalline compound prepared from natural ergot alkaloids or synthetically, from which the drug LSD ( lysergic acid diethylamide ) can be made."
+          }
+        ]
+      }
+    ]
+  }
+]

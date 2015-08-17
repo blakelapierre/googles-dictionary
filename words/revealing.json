@@ -1,0 +1,114 @@
+[
+  {
+    "word": "revealing",
+    "syllables": [
+      "re",
+      "veal",
+      "ing"
+    ],
+    "pronunciation": "rəˈvēliNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "revealing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "making interesting or significant information known, especially about a person's attitude or character.",
+            "examples": [
+              "a revealing radio interview"
+            ]
+          },
+          {
+            "definition": "(of an item of clothing) allowing more of the wearer's body to be seen than is usual.",
+            "examples": [
+              "a very revealing dress"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reveal",
+    "syllables": [
+      "re",
+      "veal"
+    ],
+    "pronunciation": "rəˈvēl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "revealing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (previously unknown or secret information) known to others.",
+            "examples": [
+              "Brenda was forced to reveal Robbie's whereabouts"
+            ],
+            "synonyms": [
+              "divulge",
+              "disclose",
+              "tell",
+              "let slip",
+              "let drop",
+              "give away",
+              "give out",
+              "blurt (out)",
+              "release",
+              "leak; Moremake known",
+              "make public",
+              "broadcast",
+              "publicize",
+              "circulate",
+              "disseminate; informallet on \"the police can't reveal his whereabouts\""
+            ],
+            "antonyms": [
+              "hide",
+              "conceal"
+            ]
+          },
+          {
+            "definition": "cause or allow (something) to be seen.",
+            "examples": [
+              "the clouds were breaking up to reveal a clear blue sky"
+            ],
+            "synonyms": [
+              "show",
+              "display",
+              "exhibit",
+              "disclose",
+              "uncover",
+              "unveil; literaryuncloak \"the screen moved back to reveal the new car\""
+            ],
+            "antonyms": [
+              "hide"
+            ]
+          },
+          {
+            "definition": "make (something) known to humans by divine or supernatural means.",
+            "examples": [
+              "the truth revealed at the Incarnation"
+            ],
+            "synonyms": [
+              "bring to light",
+              "uncover",
+              "lay bare",
+              "unearth",
+              "expose; Moreformalevince; literaryuncloak \"the data can reveal a good deal of information\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "depot",
+    "syllables": [
+      "de",
+      "pot"
+    ],
+    "pronunciation": "ˈdēpōˈdepō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "depot"
+          },
+          {
+            "part": "plural noun",
+            "variant": "depots"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a place for the storage of large quantities of equipment, food, or some other commodity.",
+            "examples": [
+              "an arms depot"
+            ],
+            "synonyms": [
+              "storehouse",
+              "warehouse",
+              "store",
+              "repository",
+              "depository",
+              "cache; Morearsenal",
+              "magazine",
+              "armory",
+              "ammunition dump",
+              "drop-off \"an arms depot\""
+            ]
+          },
+          {
+            "definition": "a railroad or bus station.",
+            "examples": [
+              "terminal, terminus, station, garage; Moreheadquarters, base \"the bus depot\"Moreheadquarters, base the bus depot"
+            ]
+          },
+          {
+            "definition": "a place where buses, trains, or other vehicles are housed and maintained and from which they are dispatched for service."
+          },
+          {
+            "definition": "the headquarters of a regiment; a place where recruits or other troops are assembled."
+          }
+        ]
+      }
+    ]
+  }
+]

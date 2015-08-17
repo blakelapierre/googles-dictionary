@@ -1,0 +1,96 @@
+[
+  {
+    "word": "husband",
+    "syllables": [
+      "hus",
+      "band"
+    ],
+    "pronunciation": "ˈhəzbənd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "husband"
+          },
+          {
+            "part": "plural noun",
+            "variant": "husbands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a married man considered in relation to his spouse.",
+            "examples": [
+              "she and her husband are both retired"
+            ],
+            "synonyms": [
+              "spouse",
+              "partner",
+              "life partner",
+              "mate",
+              "consort",
+              "man",
+              "helpmate",
+              "helpmeet; Moregroom",
+              "bridegroom; informalhubby",
+              "old man",
+              "better half",
+              "other half",
+              "significant other \"her husband is a South American businessman\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "husband"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "husbands"
+          },
+          {
+            "part": "past tense",
+            "variant": "husbanded"
+          },
+          {
+            "part": "past participle",
+            "variant": "husbanded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "husbanding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "use (resources) economically; conserve.",
+            "examples": [
+              "the need to husband his remaining strength"
+            ],
+            "synonyms": [
+              "spouse",
+              "partner",
+              "life partner",
+              "mate",
+              "consort",
+              "man",
+              "helpmate",
+              "helpmeet; Moregroom",
+              "bridegroom; informalhubby",
+              "old man",
+              "better half",
+              "other half",
+              "significant other \"her husband is a South American businessman\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

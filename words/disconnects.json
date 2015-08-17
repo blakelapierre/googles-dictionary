@@ -1,0 +1,86 @@
+[
+  {
+    "word": "disconnect",
+    "syllables": [
+      "dis",
+      "con",
+      "nect"
+    ],
+    "pronunciation": "ˌdiskəˈnekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "disconnects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "break the connection of or between.",
+            "examples": [
+              "take all violence out of television drama and you disconnect it from reality"
+            ],
+            "synonyms": [
+              "detach",
+              "disengage",
+              "uncouple",
+              "decouple",
+              "unhook",
+              "unhitch",
+              "undo",
+              "unfasten",
+              "unyoke More\"the trucks were disconnected from the train\"separate",
+              "cut off",
+              "divorce",
+              "sever",
+              "isolate",
+              "divide",
+              "part",
+              "disengage",
+              "dissociate",
+              "disassociate",
+              "remove \"she felt as if she were disconnected from the real world\""
+            ],
+            "antonyms": [
+              "attach"
+            ]
+          },
+          {
+            "definition": "take (an electrical device) out of action by detaching it from a power supply.",
+            "examples": [
+              "deactivate, shut off, turn off, switch off, unplug an engineer disconnected the power source"
+            ]
+          },
+          {
+            "definition": "interrupt or terminate (a telephone conversation) by breaking the connection.",
+            "examples": [
+              "that might explain why her call got disconnected mid-expletive"
+            ]
+          },
+          {
+            "definition": "terminate the connection of (a household) to water, electricity, gas, or telephone, typically because of nonpayment of bills."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "disconnects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a discrepancy or lack of connection.",
+            "examples": [
+              "there can be a disconnect between boardrooms and IT departments when it comes to technology"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

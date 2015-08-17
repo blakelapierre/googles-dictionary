@@ -1,0 +1,127 @@
+[
+  {
+    "word": "dismiss",
+    "syllables": [
+      "dis",
+      "miss"
+    ],
+    "pronunciation": "disˈmis",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "dismiss"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "dismisses"
+          },
+          {
+            "part": "past tense",
+            "variant": "dismissed"
+          },
+          {
+            "part": "past participle",
+            "variant": "dismissed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "dismissing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "order or allow to leave; send away.",
+            "examples": [
+              "she dismissed the taxi at the corner of the road"
+            ],
+            "synonyms": [
+              "send away",
+              "let go; Moredisband",
+              "dissolve",
+              "discharge \"the guards were dismissed\""
+            ],
+            "antonyms": [
+              "assemble"
+            ]
+          },
+          {
+            "definition": "discharge from employment or office.",
+            "examples": [
+              "CBS Records dismissed another 120 people"
+            ],
+            "synonyms": [
+              "give someone their notice",
+              "get rid of",
+              "discharge",
+              "terminate; Morelay off; informalsack",
+              "give someone the sack",
+              "fire",
+              "boot out",
+              "give someone the boot",
+              "give someone their marching orders",
+              "show someone the door",
+              "can",
+              "pink-slip; cashier \"the president dismissed five aides\""
+            ],
+            "antonyms": [
+              "engage"
+            ]
+          },
+          {
+            "definition": "treat as unworthy of serious consideration.",
+            "examples": [
+              "it would be easy to dismiss him as all brawn and no brain"
+            ],
+            "synonyms": [
+              "banish",
+              "set aside",
+              "disregard",
+              "shrug off",
+              "put out of one's mind; Morereject",
+              "deny",
+              "repudiate",
+              "spurn \"he dismissed all morbid thoughts\""
+            ],
+            "antonyms": [
+              "entertain"
+            ]
+          },
+          {
+            "definition": "deliberately cease to think about.",
+            "examples": [
+              "he suspected a double meaning in her words, but dismissed the thought"
+            ],
+            "synonyms": [
+              "banish",
+              "set aside",
+              "disregard",
+              "shrug off",
+              "put out of one's mind; Morereject",
+              "deny",
+              "repudiate",
+              "spurn \"he dismissed all morbid thoughts\""
+            ],
+            "antonyms": [
+              "entertain"
+            ]
+          },
+          {
+            "definition": "(of a group assembled under someone's authority) disperse.",
+            "examples": [
+              "he told his company to dismiss"
+            ]
+          },
+          {
+            "definition": "refuse further hearing to (a case).",
+            "examples": [
+              "the judge dismissed the case for lack of evidence"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "face-off",
+    "syllables": [
+      "face-off"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "faceoff"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a direct confrontation between two people or groups.",
+            "examples": [
+              "a face-off for the championship title"
+            ]
+          },
+          {
+            "definition": "the start or a restart of play, in which the referee drops the puck between two opposing players."
+          }
+        ]
+      }
+    ]
+  }
+]

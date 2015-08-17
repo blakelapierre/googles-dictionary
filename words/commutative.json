@@ -1,0 +1,31 @@
+[
+  {
+    "word": "commutative",
+    "syllables": [
+      "com",
+      "mu",
+      "ta",
+      "tive"
+    ],
+    "pronunciation": "ˈkämyəˌtātivkəˈmyo͞otətiv",
+    "parts": [
+      {
+        "part": "adjectiveMathematics",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "commutative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "involving the condition that a group of quantities connected by operators gives the same result whatever the order of the quantities involved, e.g., a × b = b × a."
+          },
+          {
+            "definition": "relating to or involving substitution or exchange."
+          }
+        ]
+      }
+    ]
+  }
+]

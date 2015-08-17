@@ -1,0 +1,94 @@
+[
+  {
+    "word": "crest",
+    "syllables": [
+      "crest"
+    ],
+    "pronunciation": "krest",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "crests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a comb or tuft of feathers, fur, or skin on the head of a bird or other animal.",
+            "examples": [
+              "comb, plume, tuft of feathers the bird's crest"
+            ]
+          },
+          {
+            "definition": "a thing resembling a tuft, especially a plume of feathers on a helmet."
+          },
+          {
+            "definition": "the top of something, especially a mountain or hill.",
+            "examples": [
+              "she reached the crest of the hill"
+            ],
+            "synonyms": [
+              "summit",
+              "peak",
+              "top",
+              "tip",
+              "pinnacle",
+              "brow",
+              "crown",
+              "apex \"the crest of the hill\""
+            ]
+          },
+          {
+            "definition": "the curling foamy top of a wave."
+          },
+          {
+            "definition": "a ridge along the surface of a bone."
+          },
+          {
+            "definition": "the upper line of the neck of a horse or other mammal."
+          },
+          {
+            "definition": "a distinctive device borne above the shield of a coat of arms (originally as worn on a helmet), or separately reproduced, for example on writing paper or silverware, to represent a family or corporate body.",
+            "examples": [
+              "insignia, regalia, badge, emblem, heraldic device, coat of arms, arms our family crest"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "crests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reach the top of (something such as a hill or wave).",
+            "examples": [
+              "she crested a hill and saw the valley spread out before her"
+            ]
+          },
+          {
+            "definition": "(of a river) rise to its highest level.",
+            "examples": [
+              "the river was expected to crest at eight feet above flood stage"
+            ]
+          },
+          {
+            "definition": "(of a wave) form a curling foamy top."
+          },
+          {
+            "definition": "have attached or affixed at the top.",
+            "examples": [
+              "his helmet was crested with a fan of spikes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

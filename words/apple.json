@@ -1,0 +1,47 @@
+[
+  {
+    "word": "apple",
+    "syllables": [
+      "ap",
+      "ple"
+    ],
+    "pronunciation": "ˈapəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "apple"
+          },
+          {
+            "part": "plural noun",
+            "variant": "apples"
+          },
+          {
+            "part": "noun",
+            "variant": "apple tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "apple trees"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider."
+          },
+          {
+            "definition": "an unrelated fruit that resembles an apple in some way."
+          },
+          {
+            "definition": "the tree which bears apples."
+          },
+          {
+            "definition": "short for Big Apple."
+          }
+        ]
+      }
+    ]
+  }
+]

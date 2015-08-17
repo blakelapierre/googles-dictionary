@@ -1,0 +1,55 @@
+[
+  {
+    "word": "palate",
+    "syllables": [
+      "pal",
+      "ate"
+    ],
+    "pronunciation": "ˈpalət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "palate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "palates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the roof of the mouth, separating the cavities of the nose and the mouth in vertebrates.",
+            "examples": [
+              "roof of the mouth, hard/soft palate the tea burned her palate"
+            ]
+          },
+          {
+            "definition": "a person's appreciation of taste and flavor, especially when sophisticated and discriminating.",
+            "examples": [
+              "a fine range of drink for sophisticated palates"
+            ],
+            "synonyms": [
+              "(sense of) taste",
+              "appetite",
+              "stomach \"menus to suit the tourist palate\""
+            ]
+          },
+          {
+            "definition": "taste or flavor of wine or beer.",
+            "examples": [
+              "a wine with a zingy, peachy palate"
+            ],
+            "synonyms": [
+              "flavor",
+              "savor",
+              "taste \"wine with a peachy palate\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "bullet",
+    "syllables": [
+      "bul",
+      "let"
+    ],
+    "pronunciation": "ˈbo͝olət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bullet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bullets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a projectile for firing from a rifle, revolver, or other small firearm, typically made of metal, cylindrical and pointed, and sometimes containing an explosive.",
+            "examples": [
+              "ball, shot, cartridge; Moreinformalslug; lead, ammunition, ammo \"the bullet was taken to the police lab\"Moreslug; lead, ammunition, ammo the bullet was taken to the police lab"
+            ]
+          },
+          {
+            "definition": "used in similes and comparisons to refer to someone or something that moves very fast.",
+            "examples": [
+              "the ball sped across the grass like a bullet"
+            ],
+            "synonyms": [
+              "ball",
+              "shot",
+              "cartridge; Moreinformalslug; lead",
+              "ammunition",
+              "ammo \"the bullet was taken to the police lab\""
+            ]
+          },
+          {
+            "definition": "(in a sporting context) a very fast ball.",
+            "examples": [
+              "ball, shot, cartridge; Moreinformalslug; lead, ammunition, ammo \"the bullet was taken to the police lab\"Moreslug; lead, ammunition, ammo the bullet was taken to the police lab"
+            ]
+          },
+          {
+            "definition": "a small symbol, such as a solid circle, printed just before a line of type, such as an item in a list, to emphasize it."
+          }
+        ]
+      }
+    ]
+  }
+]

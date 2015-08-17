@@ -1,0 +1,121 @@
+[
+  {
+    "word": "gloom",
+    "syllables": [
+      "gloom"
+    ],
+    "pronunciation": "ɡlo͞om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gloom"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "partial or total darkness.",
+            "examples": [
+              "he strained his eyes peering into the gloom"
+            ],
+            "synonyms": [
+              "darkness",
+              "dark",
+              "dimness",
+              "blackness",
+              "murkiness",
+              "shadows",
+              "shade; Moredusk",
+              "twilight",
+              "gloaming \"she peered into the gloom\""
+            ],
+            "antonyms": [
+              "light"
+            ]
+          },
+          {
+            "definition": "a dark or shady place.",
+            "examples": [
+              "plural noun: glooms"
+            ]
+          },
+          {
+            "definition": "a state of depression or despondency.",
+            "examples": [
+              "a year of economic gloom for the car industry"
+            ],
+            "synonyms": [
+              "despondency",
+              "depression",
+              "dejection",
+              "melancholy",
+              "melancholia",
+              "downheartedness",
+              "unhappiness",
+              "sadness",
+              "glumness",
+              "gloominess",
+              "misery",
+              "sorrow",
+              "woe",
+              "wretchedness; Moredespair",
+              "pessimism",
+              "hopelessness; informalthe blues",
+              "the dumps \"his gloom deepened\""
+            ],
+            "antonyms": [
+              "happiness"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "gloom"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "glooms"
+          },
+          {
+            "part": "past tense",
+            "variant": "gloomed"
+          },
+          {
+            "part": "past participle",
+            "variant": "gloomed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "glooming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have a dark or somber appearance.",
+            "examples": [
+              "the black gibbet glooms beside the way"
+            ]
+          },
+          {
+            "definition": "cover with gloom; make dark or dismal.",
+            "examples": [
+              "a black yew gloom'd the stagnant air"
+            ]
+          },
+          {
+            "definition": "be or look depressed or despondent.",
+            "examples": [
+              "Charles was always glooming about money"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

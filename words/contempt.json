@@ -1,0 +1,66 @@
+[
+  {
+    "word": "contempt",
+    "syllables": [
+      "con",
+      "tempt"
+    ],
+    "pronunciation": "kənˈtem(p)t",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "contempt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
+            "examples": [
+              "he showed his contempt for his job by doing it very badly"
+            ],
+            "synonyms": [
+              "scorn",
+              "disdain",
+              "disrespect",
+              "scornfulness",
+              "contemptuousness",
+              "derision; Moredisgust",
+              "loathing",
+              "hatred",
+              "abhorrence \"she regarded him with contempt\""
+            ],
+            "antonyms": [
+              "respect"
+            ]
+          },
+          {
+            "definition": "disregard for something that should be taken into account.",
+            "examples": [
+              "this action displays an arrogant contempt for the wishes of the majority"
+            ],
+            "synonyms": [
+              "disrespect",
+              "disregard",
+              "slighting \"he is guilty of contempt of court\""
+            ],
+            "antonyms": [
+              "respect"
+            ]
+          },
+          {
+            "definition": "the offense of being disobedient to or disrespectful of a court of law and its officers.",
+            "examples": [
+              "plural noun: contempts; noun: contempt of court; plural noun: contempts of court"
+            ]
+          },
+          {
+            "definition": "the offense of being similarly disobedient to or disrespectful of the lawful operation of a legislative body (e.g., its investigations)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "creature",
+    "syllables": [
+      "crea",
+      "ture"
+    ],
+    "pronunciation": "ˈkrēCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "creatures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an animal, as distinct from a human being.",
+            "examples": [
+              "night sounds of birds and other creatures"
+            ],
+            "synonyms": [
+              "animal",
+              "beast",
+              "brute; Moreliving thing",
+              "living being; informalcritter",
+              "varmint \"the earth and its creatures\""
+            ]
+          },
+          {
+            "definition": "an animal or person.",
+            "examples": [
+              "as fellow creatures on this planet, animals deserve respect"
+            ]
+          },
+          {
+            "definition": "a fictional or imaginary being, typically a frightening one.",
+            "examples": [
+              "a creature from outer space"
+            ]
+          },
+          {
+            "definition": "anything living or existing.",
+            "examples": [
+              "dress, jewels, and other transitory creatures"
+            ]
+          },
+          {
+            "definition": "a person of a specified kind, typically one viewed with pity, contempt, or desire.",
+            "examples": [
+              "you heartless creature!"
+            ],
+            "synonyms": [
+              "person",
+              "individual",
+              "human being",
+              "character",
+              "soul",
+              "wretch",
+              "customer; Moreinformaldevil",
+              "beggar",
+              "sort",
+              "type \"you're such a lazy creature!\""
+            ]
+          },
+          {
+            "definition": "a person or organization considered to be under the complete control of another.",
+            "examples": [
+              "the village teacher was expected to be the creature of his employer"
+            ],
+            "synonyms": [
+              "lackey",
+              "minion",
+              "hireling",
+              "servant",
+              "puppet",
+              "tool",
+              "cat's paw",
+              "pawn; Moreinformalstooge",
+              "yes-man \"the boss's truckling creatures\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

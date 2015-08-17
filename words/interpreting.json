@@ -1,0 +1,70 @@
+[
+  {
+    "word": "interpret",
+    "syllables": [
+      "in",
+      "ter",
+      "pret"
+    ],
+    "pronunciation": "inˈtərprət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "interpreting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "explain the meaning of (information, words, or actions).",
+            "examples": [
+              "the evidence is difficult to interpret"
+            ],
+            "synonyms": [
+              "explain",
+              "elucidate",
+              "expound",
+              "explicate",
+              "clarify",
+              "illuminate",
+              "shed light on More\"the rabbis interpret the Jewish laws\"decipher",
+              "decode",
+              "unscramble",
+              "make intelligible; understand",
+              "comprehend",
+              "make sense of",
+              "figure out; informalcrack \"the symbols are difficult to interpret\""
+            ]
+          },
+          {
+            "definition": "translate orally or into sign language the words of a person speaking a different language.",
+            "examples": [
+              "I agreed to interpret for Jean-Claude"
+            ]
+          },
+          {
+            "definition": "perform (a dramatic role or piece of music) in a particular way that conveys one's understanding of the creator's ideas.",
+            "examples": [
+              "perform, act, play, render, depict, portray he interpreted the role of Hamlet"
+            ]
+          },
+          {
+            "definition": "understand (an action, mood, or way of behaving) as having a particular meaning or significance.",
+            "examples": [
+              "her self-confidence was often interpreted as brashness"
+            ],
+            "synonyms": [
+              "understand",
+              "construe",
+              "take (to mean)",
+              "see",
+              "regard \"the remark was interpreted as an invitation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

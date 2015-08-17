@@ -1,0 +1,59 @@
+[
+  {
+    "word": "approachable",
+    "syllables": [
+      "ap",
+      "proach",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "əˈprōCHəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "approachable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "friendly and easy to talk to.",
+            "examples": [
+              "managers should be approachable"
+            ],
+            "synonyms": [
+              "friendly",
+              "welcoming",
+              "pleasant",
+              "agreeable",
+              "congenial",
+              "affable",
+              "cordial; Moreobliging",
+              "communicative",
+              "helpful \"students found the staff approachable\""
+            ],
+            "antonyms": [
+              "aloof"
+            ]
+          },
+          {
+            "definition": "(of a place) able to be reached from a particular direction or by a particular means.",
+            "examples": [
+              "at night parrotfish are approachable as they sleep in nooks and crannies on the reef"
+            ],
+            "synonyms": [
+              "accessible",
+              "attainable",
+              "reachable; informalget-at-able \"the south landing is approachable by boat\""
+            ],
+            "antonyms": [
+              "inaccessible"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

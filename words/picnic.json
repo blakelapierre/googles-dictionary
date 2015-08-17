@@ -1,0 +1,66 @@
+[
+  {
+    "word": "picnic",
+    "syllables": [
+      "pic",
+      "nic"
+    ],
+    "pronunciation": "ˈpikˌnik",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "picnic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "picnics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an outing or occasion that involves taking a packed meal to be eaten outdoors.",
+            "examples": [
+              "outdoor meal, al fresco meal, cookout, barbecue a picnic on the beach"
+            ]
+          },
+          {
+            "definition": "a packed meal taken on an outing and eaten outdoors."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "picnic"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "picnics"
+          },
+          {
+            "part": "past tense",
+            "variant": "picnicked"
+          },
+          {
+            "part": "past participle",
+            "variant": "picnicked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "picnicking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have or take part in a picnic."
+          }
+        ]
+      }
+    ]
+  }
+]

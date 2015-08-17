@@ -1,0 +1,78 @@
+[
+  {
+    "word": "seam",
+    "syllables": [
+      "seam"
+    ],
+    "pronunciation": "sēm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "seams"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a line along which two pieces of fabric are sewn together in a garment or other article.",
+            "examples": [
+              "join, stitching; suture the seam was coming undone"
+            ]
+          },
+          {
+            "definition": "a line where the edges of two pieces of wood, wallpaper, or another material touch each other."
+          },
+          {
+            "definition": "a long thin indentation or scar.",
+            "examples": [
+              "a sun-scorched face fissured with delicate seams"
+            ],
+            "synonyms": [
+              "wrinkle",
+              "line",
+              "crow's foot",
+              "furrow",
+              "crease",
+              "corrugation",
+              "crinkle",
+              "pucker",
+              "groove",
+              "ridge \"the seams of his face\""
+            ]
+          },
+          {
+            "definition": "an underground layer, as of ore or coal.",
+            "examples": [
+              "layer, stratum, vein, lode a seam of coal"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "seams"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join with a seam.",
+            "examples": [
+              "it can be used for seaming garments"
+            ]
+          },
+          {
+            "definition": "make a long narrow indentation in.",
+            "examples": [
+              "men in middle age have seamed faces"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

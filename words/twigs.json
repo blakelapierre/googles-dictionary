@@ -1,0 +1,70 @@
+[
+  {
+    "word": "twig",
+    "syllables": [
+      "twig"
+    ],
+    "pronunciation": "twiɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "twigs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a slender woody shoot growing from a branch or stem of a tree or shrub.",
+            "examples": [
+              "stick, sprig, shoot, stem, branchlet leafy twigs"
+            ]
+          },
+          {
+            "definition": "a small branch of a blood vessel or nerve."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "twig",
+    "syllables": [
+      "twig"
+    ],
+    "pronunciation": "twiɡ",
+    "parts": [
+      {
+        "part": "verbBritishinformal",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "twigs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "understand or realize something.",
+            "examples": [
+              "it was amazing that Graham hadn't twigged before"
+            ],
+            "synonyms": [
+              "stick",
+              "sprig",
+              "shoot",
+              "stem",
+              "branchlet \"leafy twigs\""
+            ]
+          },
+          {
+            "definition": "perceive; observe.",
+            "examples": [
+              "nine days now since my eyes have twigged any terra firma"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

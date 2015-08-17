@@ -1,0 +1,136 @@
+[
+  {
+    "word": "save",
+    "syllables": [
+      "save"
+    ],
+    "pronunciation": "sāv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "saved"
+          },
+          {
+            "part": "past participle",
+            "variant": "saved"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "keep safe or rescue (someone or something) from harm or danger.",
+            "examples": [
+              "she saved a boy from drowning"
+            ],
+            "synonyms": [
+              "rescue",
+              "come to someone's rescue",
+              "save someone's life; Moreset free",
+              "free",
+              "liberate",
+              "deliver",
+              "extricate; bail out; informalsave someone's bacon/neck/skin \"the captain was saved by his crew\"preserve",
+              "keep safe",
+              "keep",
+              "protect",
+              "safeguard; salvage",
+              "retrieve",
+              "reclaim",
+              "rescue \"the farmhouse has been saved from demolition\""
+            ]
+          },
+          {
+            "definition": "prevent (someone) from dying.",
+            "examples": [
+              "the doctors did everything they could to save him"
+            ]
+          },
+          {
+            "definition": "(in Christian use) preserve (a person's soul) from damnation."
+          },
+          {
+            "definition": "keep (someone) in health (used in exclamations and formulaic expressions).",
+            "examples": [
+              "God save the Queen"
+            ]
+          },
+          {
+            "definition": "keep and store up (something, especially money) for future use.",
+            "examples": [
+              "she had never been able to save much from her salary"
+            ],
+            "synonyms": [
+              "put aside",
+              "set aside",
+              "put by",
+              "put to one side",
+              "save up",
+              "keep",
+              "retain",
+              "reserve",
+              "conserve",
+              "stockpile",
+              "store",
+              "hoard",
+              "save for a rainy day; Moreinformalsalt away",
+              "squirrel away",
+              "stash away",
+              "hang on to \"start saving money\""
+            ]
+          },
+          {
+            "definition": "keep (data) by moving a copy to a storage location, especially from memory.",
+            "examples": [
+              "save it to a new file"
+            ]
+          },
+          {
+            "definition": "preserve (something) by not expending or using it.",
+            "examples": [
+              "save your strength till later"
+            ]
+          },
+          {
+            "definition": "used to tell someone to stop talking.",
+            "examples": [
+              "save it, Joey—I'm in big trouble now"
+            ]
+          },
+          {
+            "definition": "avoid the need to use up or spend (money, time, or other resources).",
+            "examples": [
+              "save $20 on a new camcorder"
+            ]
+          },
+          {
+            "definition": "avoid, lessen, or guard against.",
+            "examples": [
+              "this approach saves wear and tear on the books"
+            ],
+            "synonyms": [
+              "prevent",
+              "obviate",
+              "forestall",
+              "spare; Morestop; avoid",
+              "avert \"asking me first would have saved a lot of trouble\""
+            ]
+          },
+          {
+            "definition": "prevent an opponent from scoring (a goal or point) in a game or from winning (the game).",
+            "examples": [
+              "the powerful German saved three match points"
+            ]
+          },
+          {
+            "definition": "(of a relief pitcher in certain game situations) finish (a game) while preserving a winning position gained by another pitcher."
+          },
+          {
+            "definition": "(of a goalkeeper) stop (a shot) from entering the goal."
+          }
+        ]
+      }
+    ]
+  }
+]

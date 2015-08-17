@@ -1,0 +1,75 @@
+[
+  {
+    "word": "orthodox",
+    "syllables": [
+      "or",
+      "tho",
+      "dox"
+    ],
+    "pronunciation": "ˈôrTHəˌdäks",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "orthodox"
+          },
+          {
+            "part": "adjective",
+            "variant": "Orthodox"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or their views, especially religious or political ones, or other beliefs or practices) conforming to what is generally or traditionally accepted as right or true; established and approved.",
+            "examples": [
+              "the orthodox economics of today"
+            ],
+            "synonyms": [
+              "conservative",
+              "traditional",
+              "observant",
+              "devout",
+              "strict \"an orthodox Hindu\""
+            ]
+          },
+          {
+            "definition": "(of a person) not independent-minded; conventional and unoriginal.",
+            "examples": [
+              "a relatively orthodox artist"
+            ],
+            "synonyms": [
+              "conventional",
+              "mainstream",
+              "conformist",
+              "established",
+              "well established",
+              "traditional",
+              "traditionalist",
+              "prevalent",
+              "popular",
+              "conservative",
+              "unoriginal \"orthodox views\""
+            ],
+            "antonyms": [
+              "unconventional"
+            ]
+          },
+          {
+            "definition": "(of a thing) of the ordinary or usual type; normal.",
+            "examples": [
+              "they avoided orthodox jazz venues"
+            ]
+          },
+          {
+            "definition": "(of the Jews or Judaism) strictly keeping to traditional doctrine and ritual."
+          },
+          {
+            "definition": "of or relating to the Orthodox Church."
+          }
+        ]
+      }
+    ]
+  }
+]

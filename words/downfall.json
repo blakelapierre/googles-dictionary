@@ -1,0 +1,59 @@
+[
+  {
+    "word": "downfall",
+    "syllables": [
+      "down",
+      "fall"
+    ],
+    "pronunciation": "ˈdounˌfôl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "downfall"
+          },
+          {
+            "part": "plural noun",
+            "variant": "downfalls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a loss of power, prosperity, or status.",
+            "examples": [
+              "the crisis led to the downfall of the government"
+            ],
+            "synonyms": [
+              "undoing",
+              "ruin",
+              "ruination; Moredefeat",
+              "conquest",
+              "deposition",
+              "overthrow; nemesis",
+              "destruction",
+              "annihilation",
+              "elimination; end",
+              "collapse",
+              "fall",
+              "crash",
+              "failure; debasement",
+              "degradation",
+              "disgrace; Waterloo \"the downfall of Napoleon III in 1870\""
+            ],
+            "antonyms": [
+              "rise"
+            ]
+          },
+          {
+            "definition": "the cause of a downfall.",
+            "examples": [
+              "his intractability will prove to be his downfall"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

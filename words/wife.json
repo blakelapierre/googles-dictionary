@@ -1,0 +1,41 @@
+[
+  {
+    "word": "wife",
+    "syllables": [
+      "wife"
+    ],
+    "pronunciation": "wīf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wife"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a married woman considered in relation to her spouse.",
+            "examples": [
+              "spouse, partner, life partner, mate, consort, woman, helpmate, helpmeet, bride; Moreinformalold lady, wifey, better half, other half, missus, ball and chain, significant other \"after seventeen years, he was still madly in love with his wife\"Moreold lady, wifey, better half, other half, missus, ball and chain, significant other after seventeen years, he was still madly in love with his wife"
+            ]
+          },
+          {
+            "definition": "the wife of a person with a specified occupation.",
+            "examples": [
+              "a faculty wife"
+            ]
+          },
+          {
+            "definition": "a woman, especially an old or uneducated one."
+          }
+        ]
+      }
+    ]
+  }
+]

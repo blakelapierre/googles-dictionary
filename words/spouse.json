@@ -1,0 +1,32 @@
+[
+  {
+    "word": "spouse",
+    "syllables": [
+      "spouse"
+    ],
+    "pronunciation": "spousspouz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spouse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spouses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a husband or wife, considered in relation to their partner.",
+            "examples": [
+              "(life) partner, mate, consort; Moreinformalbetter half, other half \"are spouses invited to the office party?\"Morebetter half, other half are spouses invited to the office party?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

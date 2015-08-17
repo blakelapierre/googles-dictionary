@@ -1,0 +1,64 @@
+[
+  {
+    "word": "rudimentary",
+    "syllables": [
+      "ru",
+      "di",
+      "men",
+      "ta",
+      "ry"
+    ],
+    "pronunciation": "ˌro͞odəˈment(ə)rē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "rudimentary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "involving or limited to basic principles.",
+            "examples": [
+              "he received a rudimentary education"
+            ],
+            "synonyms": [
+              "basic",
+              "elementary",
+              "primary",
+              "fundamental",
+              "essential \"rudimentary carpentry skills\""
+            ],
+            "antonyms": [
+              "advanced"
+            ]
+          },
+          {
+            "definition": "of or relating to an immature, undeveloped, or basic form.",
+            "examples": [
+              "a rudimentary stage of evolution"
+            ],
+            "synonyms": [
+              "primitive",
+              "crude",
+              "simple",
+              "unsophisticated",
+              "rough",
+              "rough and ready",
+              "makeshift More\"the equipment was rudimentary\"vestigial",
+              "undeveloped",
+              "incomplete; abortive",
+              "primitive \"a rudimentary thumb\""
+            ],
+            "antonyms": [
+              "sophisticated",
+              "developed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

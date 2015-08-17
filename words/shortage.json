@@ -1,0 +1,53 @@
+[
+  {
+    "word": "shortage",
+    "syllables": [
+      "short",
+      "age"
+    ],
+    "pronunciation": "ˈSHôrdij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "shortage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "shortages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a state or situation in which something needed cannot be obtained in sufficient amounts.",
+            "examples": [
+              "a shortage of hard cash"
+            ],
+            "synonyms": [
+              "scarcity",
+              "sparseness",
+              "sparsity",
+              "dearth",
+              "paucity",
+              "poverty",
+              "insufficiency",
+              "deficiency",
+              "inadequacy",
+              "famine",
+              "lack",
+              "want",
+              "deficit",
+              "shortfall",
+              "rarity \"the islanders are accustomed to a shortage of fresh water\""
+            ],
+            "antonyms": [
+              "abundance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

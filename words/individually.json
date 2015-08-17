@@ -1,0 +1,57 @@
+[
+  {
+    "word": "individually",
+    "syllables": [
+      "in",
+      "di",
+      "vid",
+      "u",
+      "al",
+      "ly"
+    ],
+    "pronunciation": "ˌindəˈvij(o͞o)əlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "individually"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "one by one; singly; separately.",
+            "examples": [
+              "individually wrapped cheeses"
+            ],
+            "synonyms": [
+              "one at a time",
+              "one by one",
+              "singly",
+              "separately",
+              "severally",
+              "independently",
+              "apart \"the applications will be reviewed individually\""
+            ],
+            "antonyms": [
+              "together"
+            ]
+          },
+          {
+            "definition": "in a distinctive manner.",
+            "examples": [
+              "each sign is individually designed and crafted"
+            ]
+          },
+          {
+            "definition": "personally; in an individual capacity.",
+            "examples": [
+              "partnerships and individually owned firms"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

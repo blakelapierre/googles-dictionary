@@ -1,0 +1,90 @@
+[
+  {
+    "word": "heavenly",
+    "syllables": [
+      "heav",
+      "en",
+      "ly"
+    ],
+    "pronunciation": "ˈhevənlē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "heavenly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of heaven; divine.",
+            "examples": [
+              "heavenly Father"
+            ],
+            "synonyms": [
+              "divine",
+              "holy",
+              "celestial",
+              "supernal; Moreangelic",
+              "seraphic",
+              "cherubic; literaryempyrean \"heavenly choirs\""
+            ],
+            "antonyms": [
+              "mortal",
+              "infernal"
+            ]
+          },
+          {
+            "definition": "of the heavens or sky.",
+            "examples": [
+              "heavenly constellations"
+            ],
+            "synonyms": [
+              "celestial",
+              "cosmic",
+              "stellar",
+              "astral; Moreplanetary; extraterrestrial",
+              "superterrestrial \"heavenly constellations\""
+            ],
+            "antonyms": [
+              "terrestrial",
+              "earthly"
+            ]
+          },
+          {
+            "definition": "very pleasing; wonderful.",
+            "examples": [
+              "their shampoos smell heavenly"
+            ],
+            "synonyms": [
+              "delightful",
+              "wonderful",
+              "glorious",
+              "perfect",
+              "excellent",
+              "sublime",
+              "idyllic",
+              "first-class",
+              "first-rate; Moreblissful",
+              "pleasurable",
+              "enjoyable; exquisite",
+              "beautiful",
+              "lovely",
+              "gorgeous",
+              "enchanting; informaldivine",
+              "super",
+              "great",
+              "fantastic",
+              "fabulous",
+              "terrific \"a heavenly morning\""
+            ],
+            "antonyms": [
+              "dreadful"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

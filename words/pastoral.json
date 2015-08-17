@@ -1,0 +1,84 @@
+[
+  {
+    "word": "pastoral",
+    "syllables": [
+      "pas",
+      "to",
+      "ral"
+    ],
+    "pronunciation": "ˈpastərəlpasˈtôrəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "pastoral"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of land or a farm) used for or related to the keeping or grazing of sheep or cattle.",
+            "examples": [
+              "scattered pastoral farms"
+            ]
+          },
+          {
+            "definition": "associated with country life.",
+            "examples": [
+              "the view was pastoral, with rolling fields and grazing sheep"
+            ],
+            "synonyms": [
+              "rural",
+              "country",
+              "countryside",
+              "rustic",
+              "agricultural",
+              "bucolic; Moreliterarysylvan",
+              "Arcadian \"a pastoral scene\""
+            ],
+            "antonyms": [
+              "urban"
+            ]
+          },
+          {
+            "definition": "(of a work of art) portraying or evoking country life, typically in a romanticized or idealized form."
+          },
+          {
+            "definition": "(in the Christian Church) concerning or appropriate to the giving of spiritual guidance.",
+            "examples": [
+              "pastoral and doctrinal issues"
+            ],
+            "synonyms": [
+              "priestly",
+              "clerical",
+              "ecclesiastical",
+              "ministerial \"his pastoral duties\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pastoral"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pastorals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a work of literature portraying an idealized version of country life.",
+            "examples": [
+              "the story, though a pastoral, has an actual connection with the life of agricultural labor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

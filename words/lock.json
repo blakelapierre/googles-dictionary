@@ -1,0 +1,222 @@
+[
+  {
+    "word": "lock",
+    "syllables": [
+      "lock"
+    ],
+    "pronunciation": "läk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lock"
+          },
+          {
+            "part": "plural noun",
+            "variant": "locks"
+          },
+          {
+            "part": "noun",
+            "variant": "a lock"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form.",
+            "examples": [
+              "the key turned firmly in the lock"
+            ],
+            "synonyms": [
+              "bolt",
+              "catch",
+              "fastener",
+              "clasp",
+              "bar",
+              "hasp",
+              "latch \"the lock on the door\""
+            ]
+          },
+          {
+            "definition": "a device used to prevent the operation or movement of a vehicle or other machine.",
+            "examples": [
+              "a bicycle lock"
+            ]
+          },
+          {
+            "definition": "a facility on a computer or mobile phone that requires a user to verify their identity with a passcode or other form of authentication in order to access the full functionality of the device.",
+            "examples": [
+              "there's a security lock on the phone and he doesn't know the code"
+            ]
+          },
+          {
+            "definition": "(in wrestling and martial arts) a hold that prevents an opponent from moving a limb."
+          },
+          {
+            "definition": "a number of interlocked or jammed items.",
+            "examples": [
+              "a street closed by a lock of carriages"
+            ]
+          },
+          {
+            "definition": "a short confined section of a canal or other waterway in which the water level can be changed by the use of gates and sluices, used for raising and lowering vessels between two gates."
+          },
+          {
+            "definition": "an airlock."
+          },
+          {
+            "definition": "a person or thing that is certain to succeed; a certainty."
+          },
+          {
+            "definition": "a mechanism for exploding the charge of a gun."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lock"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "locks"
+          },
+          {
+            "part": "past tense",
+            "variant": "locked"
+          },
+          {
+            "part": "past participle",
+            "variant": "locked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "locking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten or secure (something) with a lock.",
+            "examples": [
+              "she closed and locked her desk"
+            ],
+            "synonyms": [
+              "bolt",
+              "fasten",
+              "bar",
+              "secure",
+              "seal; Morepadlock",
+              "latch",
+              "chain \"he locked the door\""
+            ],
+            "antonyms": [
+              "unlock",
+              "open"
+            ]
+          },
+          {
+            "definition": "enclose or shut in by locking or fastening a door, lid, etc.",
+            "examples": [
+              "the prisoners are locked in overnight"
+            ]
+          },
+          {
+            "definition": "(of a door, window, box, etc.) become or be able to be secured through activation of a lock.",
+            "examples": [
+              "the door will automatically lock behind you"
+            ]
+          },
+          {
+            "definition": "restrict access to the full functionality or data of (a computer, mobile phone, file, etc.), especially by requiring a user to verify their identity with a passcode or other form of authentication.",
+            "examples": [
+              "my computer is locked and I've forgotten my login info"
+            ]
+          },
+          {
+            "definition": "(of a mobile phone) operate only on the network of a particular carrier.",
+            "examples": [
+              "the phone is locked to T-mobile"
+            ]
+          },
+          {
+            "definition": "make or become rigidly fixed or immovable.",
+            "examples": [
+              "he locked his hands behind her neck"
+            ],
+            "synonyms": [
+              "join",
+              "interlock",
+              "intertwine",
+              "link",
+              "mesh",
+              "engage",
+              "unite",
+              "connect",
+              "yoke",
+              "mate; Morecouple \"they locked arms\"become stuck",
+              "stick",
+              "jam",
+              "become/make immovable",
+              "become/make rigid \"the wheels locked\""
+            ],
+            "antonyms": [
+              "separate",
+              "divide"
+            ]
+          },
+          {
+            "definition": "go through a lock on a canal.",
+            "examples": [
+              "we locked through at Moore Haven"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lock",
+    "syllables": [
+      "lock"
+    ],
+    "pronunciation": "läk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lock"
+          },
+          {
+            "part": "plural noun",
+            "variant": "locks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of a person's hair that coils or hangs together.",
+            "examples": [
+              "she pushed back a lock of hair"
+            ]
+          },
+          {
+            "definition": "a person's hair.",
+            "examples": [
+              "flowing locks and a long white beard"
+            ]
+          },
+          {
+            "definition": "a tuft of wool or cotton."
+          },
+          {
+            "definition": "short for dreadlocks."
+          }
+        ]
+      }
+    ]
+  }
+]

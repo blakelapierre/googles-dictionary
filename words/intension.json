@@ -1,0 +1,34 @@
+[
+  {
+    "word": "intension",
+    "syllables": [
+      "in",
+      "ten",
+      "sion"
+    ],
+    "pronunciation": "inˈtenSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intension"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intensions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the internal content of a concept."
+          },
+          {
+            "definition": "resolution or determination."
+          }
+        ]
+      }
+    ]
+  }
+]

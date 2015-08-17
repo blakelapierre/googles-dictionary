@@ -1,0 +1,100 @@
+[
+  {
+    "word": "unique",
+    "syllables": [
+      "u",
+      "nique"
+    ],
+    "pronunciation": "yo͞oˈnēk",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unique"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "being the only one of its kind; unlike anything else.",
+            "examples": [
+              "the situation was unique in modern politics"
+            ],
+            "synonyms": [
+              "distinctive",
+              "distinct",
+              "individual",
+              "special",
+              "idiosyncratic; Moresingle",
+              "sole",
+              "lone",
+              "unrepeated",
+              "unrepeatable",
+              "solitary",
+              "exclusive",
+              "rare",
+              "uncommon",
+              "unusual",
+              "sui generis; informalone-off",
+              "one-of-a-kind",
+              "once-in-a-lifetime",
+              "one-shot \"each site is unique\""
+            ]
+          },
+          {
+            "definition": "particularly remarkable, special, or unusual.",
+            "examples": [
+              "a unique opportunity to see the spectacular Bolshoi Ballet"
+            ],
+            "synonyms": [
+              "remarkable",
+              "special",
+              "singular",
+              "exceptional",
+              "noteworthy",
+              "notable",
+              "extraordinary; Moreunequaled",
+              "unparalleled",
+              "unmatched",
+              "unsurpassed",
+              "unrivaled",
+              "peerless",
+              "nonpareil",
+              "incomparable; formalunexampled \"a unique insight\""
+            ]
+          },
+          {
+            "definition": "belonging or connected to (one particular person, group, or place).",
+            "examples": [
+              "a style of architecture that is unique to Portugal"
+            ],
+            "synonyms": [
+              "peculiar",
+              "specific",
+              "limited \"species unique to the island\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "unique"
+          },
+          {
+            "part": "plural noun",
+            "variant": "uniques"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a unique person or thing."
+          }
+        ]
+      }
+    ]
+  }
+]

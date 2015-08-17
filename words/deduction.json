@@ -1,0 +1,59 @@
+[
+  {
+    "word": "deduction",
+    "syllables": [
+      "de",
+      "duc",
+      "tion"
+    ],
+    "pronunciation": "dəˈdəkSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deduction"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of deducting or subtracting something.",
+            "examples": [
+              "the dividend will be paid without deduction of tax"
+            ],
+            "synonyms": [
+              "subtraction",
+              "removal",
+              "debit",
+              "abstraction \"the deduction of tax\""
+            ]
+          },
+          {
+            "definition": "an amount that is or may be deducted from something, especially from taxable income or tax to be paid.",
+            "examples": [
+              "plural noun: deductions"
+            ]
+          },
+          {
+            "definition": "the inference of particular instances by reference to a general law or principle.",
+            "examples": [
+              "the detective must uncover the murderer by deduction from facts"
+            ],
+            "synonyms": [
+              "conclusion",
+              "inference",
+              "supposition",
+              "hypothesis",
+              "assumption",
+              "presumption; Moresuspicion",
+              "conviction",
+              "belief",
+              "reasoning; archaicillation \"she was right in her deduction\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

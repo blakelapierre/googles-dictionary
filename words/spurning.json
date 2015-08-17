@@ -1,0 +1,57 @@
+[
+  {
+    "word": "spurn",
+    "syllables": [
+      "spurn"
+    ],
+    "pronunciation": "spərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "spurning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reject with disdain or contempt.",
+            "examples": [
+              "he spoke gruffly, as if afraid that his invitation would be spurned"
+            ],
+            "synonyms": [
+              "reject",
+              "rebuff",
+              "scorn",
+              "turn down",
+              "treat with contempt",
+              "disdain",
+              "look down one's nose at",
+              "despise; Moresnub",
+              "slight",
+              "jilt",
+              "dismiss",
+              "brush off",
+              "turn one's back on; give someone the cold shoulder",
+              "cold-shoulder; informalturn one's nose up at",
+              "give someone the brush-off",
+              "kick in the teeth",
+              "give someone the bum's rush \"he's been spurned by every woman he ever loved\""
+            ],
+            "antonyms": [
+              "welcome",
+              "accept"
+            ]
+          },
+          {
+            "definition": "strike, tread, or push away with the foot.",
+            "examples": [
+              "with one touch of my feet, I spurn the solid Earth"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

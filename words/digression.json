@@ -1,0 +1,43 @@
+[
+  {
+    "word": "digression",
+    "syllables": [
+      "di",
+      "gres",
+      "sion"
+    ],
+    "pronunciation": "ˌdīˈɡreSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "digression"
+          },
+          {
+            "part": "plural noun",
+            "variant": "digressions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a temporary departure from the main subject in speech or writing.",
+            "examples": [
+              "let's return to the main topic after that brief digression"
+            ],
+            "synonyms": [
+              "deviation",
+              "detour",
+              "diversion",
+              "departure",
+              "divergence",
+              "excursus; Moreaside",
+              "incidental remark \"a book full of long digressions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

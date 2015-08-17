@@ -1,0 +1,35 @@
+[
+  {
+    "word": "improvisation",
+    "syllables": [
+      "im",
+      "prov",
+      "i",
+      "sa",
+      "tion"
+    ],
+    "pronunciation": "imˌprävəˈzāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "improvisation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of improvising."
+          },
+          {
+            "definition": "something that is improvised, especially a piece of music, drama, etc., created without preparation.",
+            "examples": [
+              "plural noun: improvisations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

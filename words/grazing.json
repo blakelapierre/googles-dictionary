@@ -1,0 +1,142 @@
+[
+  {
+    "word": "grazing",
+    "syllables": [
+      "graz",
+      "ing"
+    ],
+    "pronunciation": "ˈɡrāziNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grazing"
+          },
+          {
+            "part": "plural noun",
+            "variant": "grazings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grassland suitable for pasturage.",
+            "examples": [
+              "pastures and rough grazing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "graze",
+    "syllables": [
+      "graze"
+    ],
+    "pronunciation": "ɡrāz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "grazing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of cattle, sheep, etc.) eat grass in a field.",
+            "examples": [
+              "cattle graze on the open meadows"
+            ],
+            "synonyms": [
+              "feed",
+              "eat",
+              "nibble",
+              "browse \"the deer grazed\""
+            ]
+          },
+          {
+            "definition": "(of an animal) feed on (grass or land covered by grass).",
+            "examples": [
+              "llamas graze the tufts of grass"
+            ]
+          },
+          {
+            "definition": "put (cattle, sheep, etc.) to feed on land covered by grass.",
+            "examples": [
+              "shepherds who grazed animals on common land"
+            ]
+          },
+          {
+            "definition": "(of a person) eat small quantities of food at frequent but irregular intervals.",
+            "examples": [
+              "advertisers should not encourage children to graze on snacks or sweets"
+            ]
+          },
+          {
+            "definition": "casually sample something.",
+            "examples": [
+              "we grazed up and down the channels"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "graze",
+    "syllables": [
+      "graze"
+    ],
+    "pronunciation": "ɡrāz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "grazing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "scrape the skin of (a part of the body) so as to break the surface but cause little or no bleeding.",
+            "examples": [
+              "she fell down and grazed her knees"
+            ],
+            "synonyms": [
+              "scrape",
+              "abrade",
+              "skin",
+              "scratch",
+              "chafe",
+              "bark",
+              "scuff",
+              "rasp; Morecut",
+              "nick \"she grazed her knuckles on the box\""
+            ]
+          },
+          {
+            "definition": "touch or scrape lightly in passing.",
+            "examples": [
+              "his hands just grazed hers"
+            ],
+            "synonyms": [
+              "touch",
+              "brush",
+              "shave",
+              "skim",
+              "kiss",
+              "scrape",
+              "clip",
+              "glance off \"his shot grazed the far post\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

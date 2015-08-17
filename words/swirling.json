@@ -1,0 +1,47 @@
+[
+  {
+    "word": "swirl",
+    "syllables": [
+      "swirl"
+    ],
+    "pronunciation": "swərl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "swirling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move in a twisting or spiraling pattern.",
+            "examples": [
+              "the smoke was swirling around him"
+            ],
+            "synonyms": [
+              "whirl",
+              "eddy",
+              "billow",
+              "spiral",
+              "circulate",
+              "revolve",
+              "spin",
+              "twist; Moreflow",
+              "stream",
+              "surge",
+              "seethe \"the snow swirled around them\""
+            ]
+          },
+          {
+            "definition": "cause to move in a twisting or spiraling pattern.",
+            "examples": [
+              "swirl a little cream into the soup"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

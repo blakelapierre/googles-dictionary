@@ -1,0 +1,76 @@
+[
+  {
+    "word": "messenger",
+    "syllables": [
+      "mes",
+      "sen",
+      "ger"
+    ],
+    "pronunciation": "ˈmes(ə)njər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "messenger"
+          },
+          {
+            "part": "plural noun",
+            "variant": "messengers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who carries a message or is employed to carry messages.",
+            "examples": [
+              "courier, runner, envoy, emissary, agent, go-between, message-bearer; Morepostman, letter carrier, mailman; historicalherald; archaiclegate \"the messenger arrived by motorcycle\"Morepostman, letter carrier, mailman; herald; legate the messenger arrived by motorcycle"
+            ]
+          },
+          {
+            "definition": "a substance that conveys information or a stimulus within the body."
+          },
+          {
+            "definition": "an endless rope, cable, or chain used with a capstan to haul an anchor cable or to drive a powered winch."
+          },
+          {
+            "definition": "a light line used to haul or support a larger cable."
+          }
+        ]
+      },
+      {
+        "part": "verbUS",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "messenger"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "messengers"
+          },
+          {
+            "part": "past tense",
+            "variant": "messengered"
+          },
+          {
+            "part": "past participle",
+            "variant": "messengered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "messengering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "send (a document or package) by messenger.",
+            "examples": [
+              "could you have it messengered over to me?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

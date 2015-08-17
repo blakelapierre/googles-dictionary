@@ -1,0 +1,121 @@
+[
+  {
+    "word": "bleeding",
+    "syllables": [
+      "bleed",
+      "ing"
+    ],
+    "pronunciation": "ˈblēdiNG",
+    "parts": [
+      {
+        "part": "adjectiveBritishinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bleeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used for emphasis or to express annoyance."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bleed",
+    "syllables": [
+      "bleed"
+    ],
+    "pronunciation": "blēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "bleeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lose blood from the body as a result of injury or illness.",
+            "examples": [
+              "the cut was bleeding steadily"
+            ],
+            "synonyms": [
+              "lose blood",
+              "hemorrhage \"his arm was bleeding\""
+            ]
+          },
+          {
+            "definition": "(of a dye or color) seep into an adjacent color or area.",
+            "examples": [
+              "I worked loosely with the oils, allowing colors to bleed into one another"
+            ],
+            "synonyms": [
+              "flow",
+              "run",
+              "seep",
+              "filter",
+              "percolate",
+              "leach \"one color bled into another\""
+            ]
+          },
+          {
+            "definition": "(with reference to an illustration or design) print or be printed so that it runs off the page after trimming.",
+            "examples": [
+              "the picture bleeds on three sides"
+            ]
+          },
+          {
+            "definition": "draw blood from (someone), especially as a once-common method of treatment in medicine.",
+            "examples": [
+              "draw blood from; Moreexsanguinate; archaicphlebotomize \"the doctor bled him\"Moreexsanguinate; phlebotomize the doctor bled him"
+            ]
+          },
+          {
+            "definition": "remove blood from (an animal carcass).",
+            "examples": [
+              "the first steer rolled out on the floor to be bled, skinned, and dressed"
+            ]
+          },
+          {
+            "definition": "drain (someone) of money or resources.",
+            "examples": [
+              "his policy of attempting to bleed unions of funds"
+            ],
+            "synonyms": [
+              "drain",
+              "sap",
+              "deplete",
+              "milk",
+              "exhaust \"funds are in danger of being bled dry\""
+            ]
+          },
+          {
+            "definition": "allow (fluid or gas) to escape from a closed system through a valve.",
+            "examples": [
+              "open the valves and bleed air from the pump chamber"
+            ],
+            "synonyms": [
+              "flow",
+              "run",
+              "ooze",
+              "seep",
+              "exude",
+              "weep \"sap was bleeding from the trunk\""
+            ]
+          },
+          {
+            "definition": "treat (a system) by allowing fluid or gas to escape through a valve.",
+            "examples": [
+              "bleeding the radiator at the air vent"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "word": "inflame",
+    "syllables": [
+      "in",
+      "flame"
+    ],
+    "pronunciation": "inˈflām",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "inflame"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "inflames"
+          },
+          {
+            "part": "past tense",
+            "variant": "inflamed"
+          },
+          {
+            "part": "past participle",
+            "variant": "inflamed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "inflaming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provoke or intensify (strong feelings, especially anger) in someone.",
+            "examples": [
+              "high fines further inflamed public feelings"
+            ],
+            "synonyms": [
+              "enrage",
+              "incense",
+              "anger",
+              "madden",
+              "infuriate",
+              "exasperate",
+              "provoke",
+              "antagonize",
+              "rile; Moreinformalmake someone see red",
+              "make someone's blood boil \"his opinions inflamed his rival\"incite",
+              "arouse",
+              "rouse",
+              "provoke",
+              "stir up",
+              "whip up",
+              "kindle",
+              "ignite",
+              "touch off",
+              "foment",
+              "inspire",
+              "stimulate",
+              "agitate \"the case inflamed passions against the pit bull\"aggravate",
+              "exacerbate",
+              "intensify",
+              "worsen",
+              "compound \"he inflamed an already tense situation\"angry",
+              "infuriated",
+              "furious",
+              "enraged; excited",
+              "aroused",
+              "stimulated",
+              "titillated \"inflamed feelings\""
+            ],
+            "antonyms": [
+              "placate",
+              "calm",
+              "dampen",
+              "soothe"
+            ]
+          },
+          {
+            "definition": "provoke (someone) to strong feelings.",
+            "examples": [
+              "her sister was inflamed with jealousy"
+            ]
+          },
+          {
+            "definition": "make (a situation) worse."
+          },
+          {
+            "definition": "cause inflammation in (a part of the body).",
+            "examples": [
+              "the finger joints were inflamed with rheumatoid arthritis"
+            ],
+            "synonyms": [
+              "swollen",
+              "puffed up; Morered; raw",
+              "sore",
+              "painful",
+              "tender; infected",
+              "septic \"the cut became inflamed\""
+            ]
+          },
+          {
+            "definition": "light up with or as if with flames.",
+            "examples": [
+              "the torches inflame the night to the eastward"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

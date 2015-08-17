@@ -1,0 +1,132 @@
+[
+  {
+    "word": "smear",
+    "syllables": [
+      "smear"
+    ],
+    "pronunciation": "smir",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "smears"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "coat or mark (something) messily or carelessly with a greasy or sticky substance.",
+            "examples": [
+              "his face was smeared with dirt"
+            ],
+            "synonyms": [
+              "streak",
+              "smudge",
+              "mark",
+              "soil",
+              "dirty; Moreinformalsplotch; literarybesmear \"the table was smeared with grease\""
+            ]
+          },
+          {
+            "definition": "spread (a greasy, oily, or sticky substance) over something.",
+            "examples": [
+              "Barbara smeared peanut butter on a slice of bread"
+            ],
+            "synonyms": [
+              "cover",
+              "coat",
+              "grease; Moreliterarybedaub \"smear the meat with olive oil\"spread",
+              "rub",
+              "daub",
+              "slap",
+              "slather",
+              "smother",
+              "plaster",
+              "slick; apply; literarybesmear \"she smeared sunblock on her skin\""
+            ]
+          },
+          {
+            "definition": "messily blur the outline of (something such as writing or paint); smudge.",
+            "examples": [
+              "her lipstick was smeared"
+            ]
+          },
+          {
+            "definition": "damage the reputation of (someone) by false accusations; slander.",
+            "examples": [
+              "someone was trying to smear her by faking letters"
+            ],
+            "synonyms": [
+              "sully",
+              "tarnish",
+              "blacken",
+              "drag through the mud",
+              "taint",
+              "damage",
+              "defame",
+              "discredit",
+              "malign",
+              "slander",
+              "libel",
+              "slur; Moreinformaldo a hatchet job on; formalcalumniate",
+              "impugn; literarybesmirch \"they are trying to smear our reputation\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "smears"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mark or streak of a greasy or sticky substance.",
+            "examples": [
+              "there was an oil smear on his jacket"
+            ],
+            "synonyms": [
+              "streak",
+              "smudge",
+              "daub",
+              "dab",
+              "spot",
+              "patch",
+              "blotch",
+              "mark; informalsplotch \"smears of blood\""
+            ]
+          },
+          {
+            "definition": "a sample of material spread thinly on a microscope slide for examination, typically for medical diagnosis.",
+            "examples": [
+              "the smears were stained for cryptosporidium"
+            ]
+          },
+          {
+            "definition": "a false accusation intended to damage someone's reputation.",
+            "examples": [
+              "the media were indulging in unwarranted smears"
+            ],
+            "synonyms": [
+              "false accusation",
+              "lie",
+              "untruth",
+              "slur",
+              "slander",
+              "libel",
+              "defamation",
+              "calumny \"they printed smears about his closest aides\""
+            ]
+          },
+          {
+            "definition": "an insecure foothold."
+          }
+        ]
+      }
+    ]
+  }
+]

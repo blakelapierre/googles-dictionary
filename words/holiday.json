@@ -1,0 +1,106 @@
+[
+  {
+    "word": "holiday",
+    "syllables": [
+      "hol",
+      "i",
+      "day"
+    ],
+    "pronunciation": "ˈhäləˌdā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "holiday"
+          },
+          {
+            "part": "plural noun",
+            "variant": "holidays"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a day of festivity or recreation when no work is done.",
+            "examples": [
+              "December 25 is an official public holiday"
+            ],
+            "synonyms": [
+              "day of observance",
+              "festival",
+              "feast day",
+              "fête",
+              "fiesta",
+              "celebration",
+              "anniversary",
+              "jubilee; Moresaint's day",
+              "holy day \"Presidents' Day is a federal holiday\""
+            ]
+          },
+          {
+            "definition": "characteristic of a holiday; festive.",
+            "examples": [
+              "modifier noun: holiday"
+            ]
+          },
+          {
+            "definition": "a vacation.",
+            "examples": [
+              "I spent my summer holidays on a farm"
+            ],
+            "synonyms": [
+              "vacation",
+              "break",
+              "rest",
+              "respite",
+              "recess; Moretime off",
+              "time out",
+              "leave",
+              "furlough",
+              "sabbatical",
+              "spring break; trip",
+              "tour",
+              "journey",
+              "voyage; informalgetaway",
+              "staycation; formalsojourn \"Sara and Lou's ten-day holiday\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbBritish",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "holiday"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "holidays"
+          },
+          {
+            "part": "past tense",
+            "variant": "holidayed"
+          },
+          {
+            "part": "past participle",
+            "variant": "holidayed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "holidaying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spend a holiday in a specified place.",
+            "examples": [
+              "he is holidaying in Italy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

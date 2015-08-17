@@ -1,0 +1,99 @@
+[
+  {
+    "word": "international",
+    "syllables": [
+      "in",
+      "ter",
+      "na",
+      "tion",
+      "al"
+    ],
+    "pronunciation": "ˌin(t)ərˈnaSH(ə)n(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "international"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "existing, occurring, or carried on between two or more nations.",
+            "examples": [
+              "international trade"
+            ],
+            "synonyms": [
+              "global",
+              "worldwide",
+              "intercontinental",
+              "universal; multinational \"international business concerns\""
+            ],
+            "antonyms": [
+              "national",
+              "local"
+            ]
+          },
+          {
+            "definition": "agreed on by all or many nations.",
+            "examples": [
+              "a violation of international law"
+            ],
+            "synonyms": [
+              "global",
+              "worldwide",
+              "intercontinental",
+              "universal; multinational \"international business concerns\""
+            ],
+            "antonyms": [
+              "national",
+              "local"
+            ]
+          },
+          {
+            "definition": "used by people of many nations.",
+            "examples": [
+              "large international hotels"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "international"
+          },
+          {
+            "part": "plural noun",
+            "variant": "internationals"
+          },
+          {
+            "part": "noun",
+            "variant": "International"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Internationals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a game or contest between teams representing different countries in a sport."
+          },
+          {
+            "definition": "a player who has taken part in a contest between teams representing different countries in a sport."
+          },
+          {
+            "definition": "any of four associations founded (1864–1936) to promote socialist or communist action."
+          },
+          {
+            "definition": "a member of any of these."
+          }
+        ]
+      }
+    ]
+  }
+]

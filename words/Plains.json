@@ -1,0 +1,60 @@
+[
+  {
+    "word": "plain",
+    "syllables": [
+      "plain"
+    ],
+    "pronunciation": "plān",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "plains"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large area of flat land with few trees.",
+            "examples": [
+              "grassland, prairie, flatland, lowland, pasture, meadowland, savanna, steppe; Moretableland, tundra, pampas, veld \"the endless grassy plains\"Moretableland, tundra, pampas, veld the endless grassy plains"
+            ]
+          },
+          {
+            "definition": "another term for Great Plains."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plain",
+    "syllables": [
+      "plain"
+    ],
+    "pronunciation": "plān",
+    "parts": [
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "plains"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mourn; lament."
+          },
+          {
+            "definition": "complain."
+          },
+          {
+            "definition": "emit a mournful or plaintive sound."
+          }
+        ]
+      }
+    ]
+  }
+]

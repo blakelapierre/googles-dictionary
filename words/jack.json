@@ -1,0 +1,171 @@
+[
+  {
+    "word": "jack",
+    "syllables": [
+      "jack"
+    ],
+    "pronunciation": "jak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jack"
+          },
+          {
+            "part": "plural noun",
+            "variant": "jacks"
+          },
+          {
+            "part": "noun",
+            "variant": "Jack"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a device for lifting heavy objects, especially one for raising the axle of a motor vehicle off the ground so that a wheel can be changed or the underside inspected."
+          },
+          {
+            "definition": "a playing card bearing a representation of a soldier, page, or knave, normally ranking next below a queen."
+          },
+          {
+            "definition": "a socket with two or more pairs of terminals, designed to receive a jack plug.",
+            "examples": [
+              "socket, outlet, plug, connection a phone jack"
+            ]
+          },
+          {
+            "definition": "a game played by tossing and catching small round pebbles or star-shaped pieces of metal or plastic."
+          },
+          {
+            "definition": "a small round pebble or star-shaped piece of metal used in the game of jacks.",
+            "examples": [
+              "noun: jackstone"
+            ]
+          },
+          {
+            "definition": "in lawn bowling, the small ball at which the players aim."
+          },
+          {
+            "definition": "used as a form of address to a man whose name is not known."
+          },
+          {
+            "definition": "a lumberjack."
+          },
+          {
+            "definition": "a steeplejack."
+          },
+          {
+            "definition": "the figure of a man striking the bell on a clock."
+          },
+          {
+            "definition": "a small version of a national flag flown at the bow of a vessel in harbor to indicate its nationality."
+          },
+          {
+            "definition": "money."
+          },
+          {
+            "definition": "a device for turning a spit."
+          },
+          {
+            "definition": "a part of the mechanism in a spinet or harpsichord that connects a key to its corresponding string and causes the string to be plucked when the key is pressed down."
+          },
+          {
+            "definition": "a marine fish that is typically laterally compressed with a row of large spiky scales along each side. Jacks are important in many places as food or game fish."
+          },
+          {
+            "definition": "the male of some animals, especially a merlin or an ass."
+          },
+          {
+            "definition": "used in names of animals that are smaller than similar kinds, e.g., jacksnipe."
+          },
+          {
+            "definition": "short for jackrabbit."
+          },
+          {
+            "definition": "short for jack shit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jack",
+    "syllables": [
+      "jack"
+    ],
+    "pronunciation": "jak",
+    "parts": [
+      {
+        "part": "nounhistorical",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jack"
+          },
+          {
+            "part": "plural noun",
+            "variant": "jacks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "another term for blackjack (sense 4)."
+          },
+          {
+            "definition": "a sleeveless padded tunic worn by foot soldiers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jack",
+    "syllables": [
+      "jack"
+    ],
+    "pronunciation": "jak",
+    "parts": [
+      {
+        "part": "verbNorth Americaninformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "jack"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "jacks"
+          },
+          {
+            "part": "past tense",
+            "variant": "jacked"
+          },
+          {
+            "part": "past participle",
+            "variant": "jacked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "jacking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take (something) illicitly; steal.",
+            "examples": [
+              "his MO in the studio remains the same—jack other people's tracks and present them in a new context"
+            ]
+          },
+          {
+            "definition": "rob (someone).",
+            "examples": [
+              "they jacked him for his car"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

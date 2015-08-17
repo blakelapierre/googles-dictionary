@@ -1,0 +1,169 @@
+[
+  {
+    "word": "cry",
+    "syllables": [
+      "cry"
+    ],
+    "pronunciation": "krī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "cries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shed tears, especially as an expression of distress or pain.",
+            "examples": [
+              "don't cry—it'll be all right"
+            ],
+            "synonyms": [
+              "weep",
+              "shed tears",
+              "sob",
+              "wail",
+              "cry one's eyes out",
+              "bawl",
+              "howl",
+              "snivel",
+              "whimper",
+              "squall",
+              "mewl",
+              "bleat; Morelament",
+              "grieve",
+              "mourn",
+              "keen; informalboo-hoo",
+              "blubber",
+              "turn on the waterworks; literarypule \"Mandy started to cry\""
+            ],
+            "antonyms": [
+              "laugh"
+            ]
+          },
+          {
+            "definition": "shout or scream, especially to express one's fear, pain, or grief.",
+            "examples": [
+              "the little girl fell down and cried for her mommy"
+            ],
+            "synonyms": [
+              "call",
+              "shout",
+              "exclaim",
+              "sing out",
+              "yell",
+              "shriek",
+              "scream",
+              "screech",
+              "bawl",
+              "bellow",
+              "roar",
+              "vociferate",
+              "squeal",
+              "yelp",
+              "holler; datedejaculate \"“Wait!” he cried\""
+            ],
+            "antonyms": [
+              "whisper"
+            ]
+          },
+          {
+            "definition": "say something in an excited or anguished tone of voice.",
+            "examples": [
+              "“Where will it end?” he cried out"
+            ]
+          },
+          {
+            "definition": "(of a bird or other animal) make a loud characteristic call.",
+            "examples": [
+              "the wild birds cried out over the water"
+            ]
+          },
+          {
+            "definition": "(of a hawker) proclaim (wares) for sale in the street."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "cries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a spell of weeping.",
+            "examples": [
+              "I still have a cry, sometimes, when I realize that my mother is dead"
+            ],
+            "synonyms": [
+              "sob",
+              "weep",
+              "crying fit",
+              "crying jag; vagitus \"Leonora had a good cry\""
+            ]
+          },
+          {
+            "definition": "a loud inarticulate shout or scream expressing a powerful feeling or emotion.",
+            "examples": [
+              "a cry of despair"
+            ],
+            "synonyms": [
+              "call",
+              "shout",
+              "exclamation",
+              "yell",
+              "shriek",
+              "scream",
+              "screech",
+              "bawl",
+              "bellow",
+              "roar",
+              "howl",
+              "yowl",
+              "squeal",
+              "yelp",
+              "interjection",
+              "holler; datedejaculation \"a cry of despair\""
+            ]
+          },
+          {
+            "definition": "a distinctive call of a bird or other animal."
+          },
+          {
+            "definition": "a loud excited utterance of a word or words.",
+            "examples": [
+              "there was a cry of “Silence!”"
+            ]
+          },
+          {
+            "definition": "the call of a hawker selling wares on the street."
+          },
+          {
+            "definition": "an urgent appeal or entreaty.",
+            "examples": [
+              "fund-raisers have issued a cry for help"
+            ],
+            "synonyms": [
+              "appeal",
+              "plea",
+              "entreaty",
+              "cry from the heart",
+              "cri de cœur \"they've issued a cry for help\""
+            ]
+          },
+          {
+            "definition": "a demand or opinion expressed by many people.",
+            "examples": [
+              "peace became the popular cry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

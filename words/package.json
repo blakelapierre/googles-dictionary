@@ -1,0 +1,122 @@
+[
+  {
+    "word": "package",
+    "syllables": [
+      "pack",
+      "age"
+    ],
+    "pronunciation": "ˈpakij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "package"
+          },
+          {
+            "part": "plural noun",
+            "variant": "packages"
+          },
+          {
+            "part": "noun",
+            "variant": "package deal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "package deals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an object or group of objects wrapped in paper or plastic, or packed in a box.",
+            "examples": [
+              "parcel, packet, container, box the delivery of a package"
+            ]
+          },
+          {
+            "definition": "the box or bag in which things are packed."
+          },
+          {
+            "definition": "a man's genitals."
+          },
+          {
+            "definition": "a set of proposals or terms offered or agreed to as a whole.",
+            "examples": [
+              "a package of economic reforms"
+            ],
+            "synonyms": [
+              "collection",
+              "bundle",
+              "combination \"a complete package of services\""
+            ]
+          },
+          {
+            "definition": "a package tour."
+          },
+          {
+            "definition": "a collection of programs or subroutines with related functionality."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "package"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "packages"
+          },
+          {
+            "part": "past tense",
+            "variant": "packaged"
+          },
+          {
+            "part": "past participle",
+            "variant": "packaged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "packaging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put into a box or wrapping, especially for sale.",
+            "examples": [
+              "choose products that are packaged in recyclable materials"
+            ],
+            "synonyms": [
+              "wrap (up)",
+              "gift-wrap; Morepack (up)",
+              "parcel (up)",
+              "box",
+              "encase \"goods packaged in recyclable materials\""
+            ]
+          },
+          {
+            "definition": "combine (various products) for sale as one unit.",
+            "examples": [
+              "films would be packaged with the pictures of a production company"
+            ]
+          },
+          {
+            "definition": "commission and produce (a book, typically a highly illustrated one) to sell as a complete product to publishers.",
+            "examples": [
+              "it's a question of trying to package the book properly"
+            ]
+          },
+          {
+            "definition": "present (someone or something) in a particular way, especially to make them more attractive.",
+            "examples": [
+              "everything became a carefully packaged photo opportunity"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

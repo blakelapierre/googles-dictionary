@@ -1,0 +1,32 @@
+[
+  {
+    "word": "outback",
+    "syllables": [
+      "out",
+      "back"
+    ],
+    "pronunciation": "ˈoutˌbak",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "outback"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the remote and usually uninhabited inland regions of Australia."
+          },
+          {
+            "definition": "any remote or sparsely populated region.",
+            "examples": [
+              "plural noun: outbacks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

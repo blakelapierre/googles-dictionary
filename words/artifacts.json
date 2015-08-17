@@ -1,0 +1,40 @@
+[
+  {
+    "word": "artifact",
+    "syllables": [
+      "ar",
+      "ti",
+      "fact"
+    ],
+    "pronunciation": "ˈärdəfakt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "artifacts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an object made by a human being, typically an item of cultural or historical interest.",
+            "examples": [
+              "gold and silver artifacts"
+            ],
+            "synonyms": [
+              "relic",
+              "article; handiwork \"hundreds of unidentified artifacts are stored in numerous rooms beneath the museum\""
+            ]
+          },
+          {
+            "definition": "something observed in a scientific investigation or experiment that is not naturally present but occurs as a result of the preparative or investigative procedure.",
+            "examples": [
+              "widespread tissue infection may be a technical artifact"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

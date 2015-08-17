@@ -1,0 +1,59 @@
+[
+  {
+    "word": "madness",
+    "syllables": [
+      "mad",
+      "ness"
+    ],
+    "pronunciation": "ˈmadnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "madness"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being mentally ill, especially severely.",
+            "examples": [
+              "insanity, mental illness, dementia, derangement; Morelunacy, instability; mania, psychosis; informalcraziness \"today madness is called mental illness\"Morelunacy, instability; mania, psychosis; craziness today madness is called mental illness"
+            ],
+            "antonyms": [
+              "sanity"
+            ]
+          },
+          {
+            "definition": "extremely foolish behavior.",
+            "examples": [
+              "plural noun: madnesses"
+            ]
+          },
+          {
+            "definition": "a state of frenzied or chaotic activity.",
+            "examples": [
+              "from about midnight to three in the morning it's absolute madness in here"
+            ],
+            "synonyms": [
+              "bedlam",
+              "mayhem",
+              "chaos",
+              "pandemonium",
+              "craziness",
+              "uproar",
+              "turmoil",
+              "disorder",
+              "all hell broken loose",
+              "(three-ring) circus \"it's absolute madness in here\""
+            ],
+            "antonyms": [
+              "calm"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

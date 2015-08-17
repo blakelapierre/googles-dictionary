@@ -1,0 +1,63 @@
+[
+  {
+    "word": "cool",
+    "syllables": [
+      "cool"
+    ],
+    "pronunciation": "ko͞ol",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "cooled"
+          },
+          {
+            "part": "past participle",
+            "variant": "cooled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become or cause to become less hot.",
+            "examples": [
+              "we dived into the river to cool off"
+            ],
+            "synonyms": [
+              "chill",
+              "refrigerate \"cool the sauce in the fridge\""
+            ],
+            "antonyms": [
+              "heat"
+            ]
+          },
+          {
+            "definition": "become or cause to become calm or less excited.",
+            "examples": [
+              "after I'd cooled off, I realized I was being irrational"
+            ],
+            "synonyms": [
+              "calm down",
+              "recover/regain one's composure",
+              "compose oneself",
+              "control oneself",
+              "pull oneself together",
+              "simmer down; informaltake a chill pill \"after a while",
+              "she cooled off\""
+            ]
+          },
+          {
+            "definition": "recover from strenuous physical exertion by doing gentle stretches and exercises; warm down."
+          },
+          {
+            "definition": "behave in a less excitable manner.",
+            "examples": [
+              "“Cool it and tell me why you're so ecstatic.”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

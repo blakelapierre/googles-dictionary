@@ -1,0 +1,58 @@
+[
+  {
+    "word": "meringue",
+    "syllables": [
+      "me",
+      "ringue"
+    ],
+    "pronunciation": "məˈraNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "meringue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "meringues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an item of sweet food made from a mixture of well-beaten egg whites and sugar, baked until crisp and typically used as a topping for desserts, especially pies. Individual meringues are often filled with fruit or whipped cream."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "merengue",
+    "syllables": [
+      "me",
+      "ren",
+      "gue"
+    ],
+    "pronunciation": "məˈreNGɡā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "meringue"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a Caribbean style of dance music typically in duple and triple time, chiefly associated with Dominica and Haiti."
+          },
+          {
+            "definition": "a style of dancing associated with merengue music, with alternating long and short stiff-legged steps."
+          }
+        ]
+      }
+    ]
+  }
+]

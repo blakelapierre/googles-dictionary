@@ -1,0 +1,94 @@
+[
+  {
+    "word": "weep",
+    "syllables": [
+      "weep"
+    ],
+    "pronunciation": "wēp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "weep"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "weeps"
+          },
+          {
+            "part": "past tense",
+            "variant": "wept"
+          },
+          {
+            "part": "past participle",
+            "variant": "wept"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "weeping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shed tears.",
+            "examples": [
+              "a grieving mother wept over the body of her daughter"
+            ],
+            "synonyms": [
+              "cry",
+              "shed tears",
+              "sob",
+              "snivel",
+              "whimper",
+              "whine",
+              "wail",
+              "bawl; Moreinformalboo-hoo",
+              "blubber \"even the toughest soldiers wept\""
+            ]
+          },
+          {
+            "definition": "utter or express with tears.",
+            "examples": [
+              "“No!” she wept"
+            ]
+          },
+          {
+            "definition": "mourn for; shed tears over.",
+            "examples": [
+              "a young widow weeping her lost lord"
+            ]
+          },
+          {
+            "definition": "exude liquid.",
+            "examples": [
+              "she rubbed one of the sores, making it weep"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "weep"
+          },
+          {
+            "part": "plural noun",
+            "variant": "weeps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fit or spell of shedding tears.",
+            "examples": [
+              "cry, shed tears, sob, snivel, whimper, whine, wail, bawl; Moreinformalboo-hoo, blubber \"even the toughest soldiers wept\"Moreboo-hoo, blubber even the toughest soldiers wept"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

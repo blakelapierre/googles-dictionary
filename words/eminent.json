@@ -1,0 +1,80 @@
+[
+  {
+    "word": "eminent",
+    "syllables": [
+      "em",
+      "i",
+      "nent"
+    ],
+    "pronunciation": "ˈemənənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "eminent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) famous and respected within a particular sphere or profession.",
+            "examples": [
+              "one of the world's most eminent statisticians"
+            ],
+            "synonyms": [
+              "illustrious",
+              "distinguished",
+              "renowned",
+              "esteemed",
+              "preeminent",
+              "notable",
+              "noteworthy",
+              "great",
+              "prestigious",
+              "important",
+              "influential",
+              "affluential",
+              "outstanding",
+              "noted",
+              "of note; Morefamous",
+              "celebrated",
+              "prominent",
+              "well known",
+              "lionized",
+              "acclaimed",
+              "exalted",
+              "revered",
+              "august",
+              "venerable \"an eminent man of letters\""
+            ],
+            "antonyms": [
+              "unknown"
+            ]
+          },
+          {
+            "definition": "used to emphasize the presence of a positive quality.",
+            "examples": [
+              "the guitar's eminent suitability for recording studio work"
+            ],
+            "synonyms": [
+              "obvious",
+              "clear",
+              "conspicuous",
+              "marked",
+              "singular",
+              "signal; Moretotal",
+              "complete",
+              "utter",
+              "absolute",
+              "thorough",
+              "perfect",
+              "downright",
+              "sheer \"the eminent reasonableness of their claims\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

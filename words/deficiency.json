@@ -1,0 +1,73 @@
+[
+  {
+    "word": "deficiency",
+    "syllables": [
+      "de",
+      "fi",
+      "cien",
+      "cy"
+    ],
+    "pronunciation": "dəˈfiSHənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deficiency"
+          },
+          {
+            "part": "plural noun",
+            "variant": "deficiencies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a lack or shortage.",
+            "examples": [
+              "vitamin A deficiency in children"
+            ],
+            "synonyms": [
+              "insufficiency",
+              "lack",
+              "shortage",
+              "want",
+              "dearth",
+              "inadequacy",
+              "deficit",
+              "shortfall; Morescarcity",
+              "paucity",
+              "absence",
+              "deprivation",
+              "shortness \"a vitamin deficiency\""
+            ],
+            "antonyms": [
+              "surplus"
+            ]
+          },
+          {
+            "definition": "a failing or shortcoming.",
+            "examples": [
+              "they did not like having the deficiencies of their city pointed out to them"
+            ],
+            "synonyms": [
+              "defect",
+              "fault",
+              "flaw",
+              "imperfection",
+              "weakness",
+              "weak point",
+              "inadequacy",
+              "shortcoming",
+              "limitation",
+              "failing \"the team's big deficiency\""
+            ],
+            "antonyms": [
+              "strength"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

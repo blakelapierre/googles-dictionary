@@ -1,0 +1,31 @@
+[
+  {
+    "word": "alarum",
+    "syllables": [
+      "a",
+      "lar",
+      "um"
+    ],
+    "pronunciation": "əˈlärəməˈlar-",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "alarum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "alarums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "archaic term for alarm."
+          }
+        ]
+      }
+    ]
+  }
+]

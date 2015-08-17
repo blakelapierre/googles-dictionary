@@ -1,0 +1,34 @@
+[
+  {
+    "word": "remarry",
+    "syllables": [
+      "re",
+      "mar",
+      "ry"
+    ],
+    "pronunciation": "rēˈmerē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "remarried"
+          },
+          {
+            "part": "past participle",
+            "variant": "remarried"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "marry again.",
+            "examples": [
+              "he remarried shortly after his wife's death"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

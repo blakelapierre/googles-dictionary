@@ -1,0 +1,38 @@
+[
+  {
+    "word": "safekeeping",
+    "syllables": [
+      "safe",
+      "keep",
+      "ing"
+    ],
+    "pronunciation": "ˌsāfˈkēpiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "safe keeping"
+          },
+          {
+            "part": "noun",
+            "variant": "safekeeping"
+          },
+          {
+            "part": "noun",
+            "variant": "safe-keeping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "preservation in a safe place.",
+            "examples": [
+              "she'd put her wedding ring in her purse for safekeeping"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

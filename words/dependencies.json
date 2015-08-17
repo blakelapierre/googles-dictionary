@@ -1,0 +1,43 @@
+[
+  {
+    "word": "dependency",
+    "syllables": [
+      "de",
+      "pend",
+      "en",
+      "cy"
+    ],
+    "pronunciation": "dəˈpendənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "dependencies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a dependent or subordinate thing, especially a country or province controlled by another."
+          },
+          {
+            "definition": "dependence.",
+            "examples": [
+              "the country's dependency on the oil industry"
+            ],
+            "synonyms": [
+              "dependence on",
+              "reliance on; Moreneed for \"her dependency on her husband\"addiction",
+              "dependence",
+              "reliance; craving",
+              "compulsion",
+              "fixation",
+              "obsession; abuse \"drug dependency\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

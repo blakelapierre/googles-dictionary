@@ -1,0 +1,76 @@
+[
+  {
+    "word": "nitro",
+    "syllables": [
+      "ni",
+      "tro"
+    ],
+    "pronunciation": "ˈnītrō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nitro"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nitros"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for nitroglycerin."
+          }
+        ]
+      },
+      {
+        "part": "adjectiveChemistry",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "nitro"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "containing the nitro group."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nitro-",
+    "syllables": [
+      "nitro-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "nitro-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or containing nitric acid, nitrates, or nitrogen.",
+            "examples": [
+              "nitrogenous"
+            ]
+          },
+          {
+            "definition": "containing a nitro group.",
+            "examples": [
+              "nitromethane"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

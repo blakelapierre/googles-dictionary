@@ -1,0 +1,196 @@
+[
+  {
+    "word": "abandon",
+    "syllables": [
+      "a",
+      "ban",
+      "don"
+    ],
+    "pronunciation": "əˈbandən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "abandon"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "abandons"
+          },
+          {
+            "part": "past tense",
+            "variant": "abandoned"
+          },
+          {
+            "part": "past participle",
+            "variant": "abandoned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "abandoning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give up completely (a course of action, a practice, or a way of thinking).",
+            "examples": [
+              "he had clearly abandoned all pretense of trying to succeed"
+            ],
+            "synonyms": [
+              "renounce",
+              "relinquish",
+              "dispense with",
+              "disclaim",
+              "forgo",
+              "disown",
+              "disavow",
+              "discard",
+              "wash one's hands of; Moregive up",
+              "withdraw",
+              "drop",
+              "jettison",
+              "do away with; informalax",
+              "ditch",
+              "dump",
+              "scrap",
+              "scrub",
+              "junk",
+              "deep-six; formalforswear",
+              "abjure \"the party abandoned policies that made it unelectable\"give up",
+              "stop",
+              "cease",
+              "drop",
+              "forgo",
+              "desist from",
+              "dispense with",
+              "have done with",
+              "abstain from",
+              "discontinue",
+              "break off",
+              "refrain from",
+              "set aside; informalcut out",
+              "kick",
+              "pack in",
+              "quit \"by that time",
+              "she had abandoned painting\""
+            ],
+            "antonyms": [
+              "keep",
+              "retain",
+              "take up",
+              "continue"
+            ]
+          },
+          {
+            "definition": "discontinue (a scheduled event) before completion.",
+            "examples": [
+              "against the background of perceived threats, the tour was abandoned"
+            ]
+          },
+          {
+            "definition": "cease to support or look after (someone); desert.",
+            "examples": [
+              "her natural mother had abandoned her at an early age"
+            ],
+            "synonyms": [
+              "desert",
+              "leave",
+              "leave high and dry",
+              "turn one's back on",
+              "cast aside",
+              "break (up) with; Morejilt",
+              "strand",
+              "leave stranded",
+              "leave in the lurch",
+              "throw over; informalwalk out on",
+              "run out on",
+              "dump",
+              "ditch; literaryforsake \"he abandoned his wife and children\""
+            ]
+          },
+          {
+            "definition": "leave (a place or vehicle) empty or uninhabited, without intending to return.",
+            "examples": [
+              "derelict houses were abandoned"
+            ],
+            "synonyms": [
+              "vacate",
+              "leave",
+              "depart from",
+              "withdraw from",
+              "quit",
+              "evacuate \"the skipper gave the order to abandon ship\""
+            ]
+          },
+          {
+            "definition": "condemn someone or something to (a specified fate) by ceasing to take an interest in or look after them.",
+            "examples": [
+              "it was an attempt to persuade businesses not to abandon the area to inner-city deprivation"
+            ],
+            "synonyms": [
+              "relinquish",
+              "surrender",
+              "give up",
+              "cede",
+              "yield",
+              "leave \"a vast expanse of territory was abandoned to the invaders\""
+            ],
+            "antonyms": [
+              "keep",
+              "claim"
+            ]
+          },
+          {
+            "definition": "allow oneself to indulge in (a desire or impulse).",
+            "examples": [
+              "abandoning herself to moony fantasies"
+            ],
+            "synonyms": [
+              "indulge in",
+              "give way to",
+              "give oneself up to",
+              "yield to",
+              "lose oneself to/in \"she abandoned herself to the sensuousness of the music\""
+            ],
+            "antonyms": [
+              "control oneself"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "abandon"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "complete lack of inhibition or restraint.",
+            "examples": [
+              "she sings and sways with total abandon"
+            ],
+            "synonyms": [
+              "uninhibitedness",
+              "recklessness",
+              "lack of restraint",
+              "lack of inhibition",
+              "wildness",
+              "impulsiveness",
+              "impetuosity",
+              "immoderation",
+              "wantonness \"at age sixty he had no less abandon than when he was twenty\""
+            ],
+            "antonyms": [
+              "self-control"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

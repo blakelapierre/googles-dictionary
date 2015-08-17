@@ -1,0 +1,63 @@
+[
+  {
+    "word": "upbeat",
+    "syllables": [
+      "up",
+      "beat"
+    ],
+    "pronunciation": "ˈəpˌbēt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "upbeat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "upbeats"
+          },
+          {
+            "part": "noun",
+            "variant": "up-beat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "up-beats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in music) an unaccented beat preceding an accented beat."
+          }
+        ]
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "upbeat"
+          },
+          {
+            "part": "adjective",
+            "variant": "up-beat"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cheerful; optimistic.",
+            "examples": [
+              "optimistic, cheerful, cheery, positive, confident, hopeful, sanguine, bullish, buoyant, gung-ho it's nice to read an upbeat story for a change"
+            ],
+            "antonyms": [
+              "pessimistic",
+              "negative"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

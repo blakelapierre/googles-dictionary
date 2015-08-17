@@ -1,0 +1,42 @@
+[
+  {
+    "word": "subjection",
+    "syllables": [
+      "sub",
+      "jec",
+      "tion"
+    ],
+    "pronunciation": "səbˈjekSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "subjection"
+          },
+          {
+            "part": "plural noun",
+            "variant": "subjections"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of subjecting a country or person to one's control or the fact of being subjected.",
+            "examples": [
+              "the country's subjection to European colonialism"
+            ],
+            "synonyms": [
+              "subjugation",
+              "domination",
+              "oppression",
+              "mastery",
+              "repression",
+              "suppression \"the subjection of aboriginal peoples\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

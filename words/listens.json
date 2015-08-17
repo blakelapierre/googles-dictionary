@@ -1,0 +1,92 @@
+[
+  {
+    "word": "listen",
+    "syllables": [
+      "lis",
+      "ten"
+    ],
+    "pronunciation": "ˈlis(ə)n",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "listens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give one's attention to a sound.",
+            "examples": [
+              "evidently he was not listening"
+            ],
+            "synonyms": [
+              "hear",
+              "pay attention",
+              "be attentive",
+              "attend",
+              "concentrate; Morekeep one's ears open",
+              "prick up one's ears; informalbe all ears",
+              "lend an ear; literaryhark; archaichearken \"are you listening?\""
+            ]
+          },
+          {
+            "definition": "take notice of and act on what someone says; respond to advice or a request.",
+            "examples": [
+              "I told her over and over again, but she wouldn't listen"
+            ],
+            "synonyms": [
+              "pay attention to",
+              "take heed of",
+              "heed",
+              "take notice of",
+              "take note of",
+              "mind",
+              "mark",
+              "bear in mind",
+              "take into consideration",
+              "take into account",
+              "tune in to \"policy-makers should listen to popular opinion\""
+            ]
+          },
+          {
+            "definition": "make an effort to hear something; be alert and ready to hear something.",
+            "examples": [
+              "they listened for sounds from the baby's room"
+            ]
+          },
+          {
+            "definition": "used to urge someone to pay attention to what one is going to say.",
+            "examples": [
+              "listen, I've got an idea"
+            ],
+            "synonyms": [
+              "hear",
+              "pay attention",
+              "be attentive",
+              "attend",
+              "concentrate; Morekeep one's ears open",
+              "prick up one's ears; informalbe all ears",
+              "lend an ear; literaryhark; archaichearken \"are you listening?\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "listens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of listening to something."
+          }
+        ]
+      }
+    ]
+  }
+]

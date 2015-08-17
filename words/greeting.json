@@ -1,0 +1,133 @@
+[
+  {
+    "word": "greeting",
+    "syllables": [
+      "greet",
+      "ing"
+    ],
+    "pronunciation": "ˈɡrēdiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "greeting"
+          },
+          {
+            "part": "plural noun",
+            "variant": "greetings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a polite word or sign of welcome or recognition.",
+            "examples": [
+              "Mandy shouted a greeting"
+            ],
+            "synonyms": [
+              "hello",
+              "salute",
+              "salutation",
+              "address; Morewelcome; acknowledgment \"he shouted a greeting\""
+            ],
+            "antonyms": [
+              "farewell"
+            ]
+          },
+          {
+            "definition": "the action of giving a sign of welcome or recognition.",
+            "examples": [
+              "she raised her hand in greeting"
+            ]
+          },
+          {
+            "definition": "a formal expression of goodwill, said on meeting or in a written message.",
+            "examples": [
+              "warm greetings to you all"
+            ],
+            "synonyms": [
+              "best wishes",
+              "good wishes",
+              "congratulations",
+              "felicitations; Morecompliments",
+              "regards",
+              "respects \"birthday greetings\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "greet",
+    "syllables": [
+      "greet"
+    ],
+    "pronunciation": "ɡrēt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "greeting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give a polite word or sign of welcome or recognition to (someone) on meeting.",
+            "examples": [
+              "say hello to, address, salute, hail; Morewelcome, meet, receive \"she greeted Hank cheerily\"Morewelcome, meet, receive she greeted Hank cheerily"
+            ]
+          },
+          {
+            "definition": "receive or acknowledge (something) in a specified way.",
+            "examples": [
+              "everyone present greeted this idea warmly"
+            ],
+            "synonyms": [
+              "receive",
+              "acknowledge",
+              "respond to",
+              "react to",
+              "take \"the decision was greeted with outrage\""
+            ]
+          },
+          {
+            "definition": "(of a sight or sound) become apparent to or be noticed by (someone) on arrival somewhere.",
+            "examples": [
+              "flowers and cheers greeted the shipyard workers"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "greet",
+    "syllables": [
+      "greet"
+    ],
+    "pronunciation": "ɡrēt",
+    "parts": [
+      {
+        "part": "verbScottish",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "greeting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "weep; cry.",
+            "examples": [
+              "he sat down on the armchair and started to greet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

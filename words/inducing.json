@@ -1,0 +1,98 @@
+[
+  {
+    "word": "induce",
+    "syllables": [
+      "in",
+      "duce"
+    ],
+    "pronunciation": "inˈd(y)o͞os",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "inducing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "succeed in persuading or influencing (someone) to do something.",
+            "examples": [
+              "the pickets induced many workers to stay away"
+            ],
+            "synonyms": [
+              "persuade",
+              "convince",
+              "prevail upon",
+              "get",
+              "make",
+              "prompt",
+              "move",
+              "inspire",
+              "influence",
+              "encourage",
+              "motivate; Morecoax into",
+              "wheedle into",
+              "cajole into",
+              "talk into",
+              "prod into; informaltwist someone's arm \"the pickets induced many workers to stay away\""
+            ],
+            "antonyms": [
+              "dissuade"
+            ]
+          },
+          {
+            "definition": "bring about or give rise to.",
+            "examples": [
+              "none of these measures induced a change of policy"
+            ],
+            "synonyms": [
+              "bring about",
+              "cause",
+              "produce",
+              "effect",
+              "create",
+              "give rise to",
+              "generate",
+              "instigate",
+              "engender",
+              "occasion",
+              "set in motion",
+              "lead to",
+              "result in",
+              "trigger",
+              "whip up",
+              "stir up",
+              "kindle",
+              "arouse",
+              "rouse",
+              "foster",
+              "promote",
+              "encourage; Moreliterarybeget",
+              "enkindle; rareeffectuate \"how to induce hypnosis\""
+            ],
+            "antonyms": [
+              "prevent"
+            ]
+          },
+          {
+            "definition": "produce (an electric charge or current or a magnetic state) by induction."
+          },
+          {
+            "definition": "cause (radioactivity) by bombardment with radiation."
+          },
+          {
+            "definition": "bring on (the birth of a baby) artificially, typically by the use of drugs."
+          },
+          {
+            "definition": "bring on childbirth in (a pregnant woman) artificially, typically by the use of drugs."
+          },
+          {
+            "definition": "derive by inductive reasoning."
+          }
+        ]
+      }
+    ]
+  }
+]

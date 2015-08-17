@@ -1,0 +1,94 @@
+[
+  {
+    "word": "converge",
+    "syllables": [
+      "con",
+      "verge"
+    ],
+    "pronunciation": "kənˈvərj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "converge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "converges"
+          },
+          {
+            "part": "past tense",
+            "variant": "converged"
+          },
+          {
+            "part": "past participle",
+            "variant": "converged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "converging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of several people or things) come together from different directions so as eventually to meet.",
+            "examples": [
+              "convoys from America and the UK traversed thousands of miles to converge in the Atlantic"
+            ],
+            "synonyms": [
+              "close in on",
+              "bear down on",
+              "approach",
+              "move toward \"5",
+              "000 protesters converged on Capitol Hill\""
+            ],
+            "antonyms": [
+              "diverge",
+              "leave"
+            ]
+          },
+          {
+            "definition": "come from different directions and meet at (a place).",
+            "examples": [
+              "half a million sports fans will converge on the capital"
+            ]
+          },
+          {
+            "definition": "(of a number of things) gradually change so as to become similar or develop something in common.",
+            "examples": [
+              "two cultures converged as the French settled Vermont"
+            ]
+          },
+          {
+            "definition": "(of lines) tend to meet at a point.",
+            "examples": [
+              "a pair of lines of longitude are parallel at the equator but converge toward the poles"
+            ],
+            "synonyms": [
+              "meet",
+              "intersect",
+              "cross",
+              "connect",
+              "link up",
+              "coincide",
+              "join",
+              "unite",
+              "merge \"the tracks converge at Union Station\""
+            ],
+            "antonyms": [
+              "diverge"
+            ]
+          },
+          {
+            "definition": "(of a series) approximate in the sum of its terms toward a definite limit.",
+            "examples": [
+              "the powers of e therefore converge very slowly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

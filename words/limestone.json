@@ -1,0 +1,30 @@
+[
+  {
+    "word": "limestone",
+    "syllables": [
+      "lime",
+      "stone"
+    ],
+    "pronunciation": "ˈlīmˌstōn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "limestone"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limestones"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hard sedimentary rock, composed mainly of calcium carbonate or dolomite, used as building material and in the making of cement."
+          }
+        ]
+      }
+    ]
+  }
+]

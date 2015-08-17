@@ -1,0 +1,48 @@
+[
+  {
+    "word": "recess",
+    "syllables": [
+      "re",
+      "cess"
+    ],
+    "pronunciation": "ˈrēˌsesrə-ˈses",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "recessed"
+          },
+          {
+            "part": "past participle",
+            "variant": "recessed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attach (a fixture) by setting it back into the wall or surface to which it is fixed.",
+            "examples": [
+              "recessed ceiling lights"
+            ]
+          },
+          {
+            "definition": "(of formal proceedings) be temporarily suspended.",
+            "examples": [
+              "the talks recessed at 2:15"
+            ]
+          },
+          {
+            "definition": "suspend (such proceedings) temporarily."
+          },
+          {
+            "definition": "(of an official body) suspend its proceedings for a period of time.",
+            "examples": [
+              "adjourn, take a recess, stop, pause, break, take a break; Moreinformaltake five, take a time out \"let's recess for lunch\"Moretake five, take a time out let's recess for lunch"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

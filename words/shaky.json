@@ -1,0 +1,103 @@
+[
+  {
+    "word": "shaky",
+    "syllables": [
+      "shak",
+      "y"
+    ],
+    "pronunciation": "ˈSHākē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "shaky"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "shakier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "shakiest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shaking or trembling.",
+            "examples": [
+              "she managed a shaky laugh"
+            ],
+            "synonyms": [
+              "trembling",
+              "shaking",
+              "tremulous",
+              "quivering",
+              "quivery",
+              "unsteady",
+              "wobbly",
+              "weak; Moretottering",
+              "tottery",
+              "teetering",
+              "doddery; informaltrembly \"shaky legs\"faint",
+              "dizzy",
+              "lightheaded",
+              "giddy; weak",
+              "wobbly",
+              "quivery",
+              "groggy",
+              "muzzy; informaltrembly",
+              "woozy \"I feel a bit shaky\""
+            ],
+            "antonyms": [
+              "steady"
+            ]
+          },
+          {
+            "definition": "unstable because of poor construction or heavy use.",
+            "examples": [
+              "a cracked, dangerously shaky table"
+            ],
+            "synonyms": [
+              "unsteady",
+              "unstable",
+              "wobbly",
+              "precarious",
+              "rocky",
+              "rickety",
+              "ramshackle \"a shaky table\""
+            ],
+            "antonyms": [
+              "stable"
+            ]
+          },
+          {
+            "definition": "not safe or reliable; liable to fail or falter.",
+            "examples": [
+              "thoroughly shaky evidence"
+            ],
+            "synonyms": [
+              "unreliable",
+              "untrustworthy",
+              "questionable",
+              "dubious",
+              "doubtful",
+              "tenuous",
+              "suspect",
+              "flimsy",
+              "weak",
+              "unsound",
+              "unsupported",
+              "unsubstantiated",
+              "unfounded; informaliffy \"the evidence is shaky\""
+            ],
+            "antonyms": [
+              "sound"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

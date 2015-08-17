@@ -1,0 +1,79 @@
+[
+  {
+    "word": "midway",
+    "syllables": [
+      "mid",
+      "way"
+    ],
+    "pronunciation": "ˈmidˌwāˌmidˈwā",
+    "parts": [
+      {
+        "part": "adverb & adjective",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "midway"
+          },
+          {
+            "part": "adjective",
+            "variant": "midway"
+          },
+          {
+            "part": "adverb",
+            "variant": "mid-way"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in or toward the middle of something.",
+            "examples": [
+              "Father Peter came to a halt midway down the street"
+            ],
+            "synonyms": [
+              "halfway",
+              "in the middle",
+              "at the midpoint",
+              "in the center; Morepart-way",
+              "at some point \"he was explaining what happened and then just stopped midway\""
+            ]
+          },
+          {
+            "definition": "having some of the characteristics of one thing and some of another.",
+            "examples": [
+              "a midway path is chosen between the diverging aspirations of the two factions"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "midway"
+          },
+          {
+            "part": "plural noun",
+            "variant": "midways"
+          },
+          {
+            "part": "noun",
+            "variant": "mid-way"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mid-ways"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of sideshows, games of chance or skill, or other amusements at a fair or exhibition.",
+            "examples": [
+              "the kids head straight for the midway"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

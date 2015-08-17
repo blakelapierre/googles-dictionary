@@ -1,0 +1,121 @@
+[
+  {
+    "word": "appear",
+    "syllables": [
+      "ap",
+      "pear"
+    ],
+    "pronunciation": "əˈpir",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "appeared"
+          },
+          {
+            "part": "past participle",
+            "variant": "appeared"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come into sight; become visible or noticeable, typically without visible agent or apparent cause.",
+            "examples": [
+              "smoke appeared on the horizon"
+            ],
+            "synonyms": [
+              "become visible",
+              "come into view",
+              "come into sight",
+              "materialize",
+              "pop up More\"a cloud of dust appeared on the horizon\"be revealed",
+              "emerge",
+              "surface",
+              "manifest itself",
+              "become apparent",
+              "become evident",
+              "come to light; arise",
+              "crop up \"fundamental differences were beginning to appear\""
+            ],
+            "antonyms": [
+              "vanish"
+            ]
+          },
+          {
+            "definition": "come into existence or use.",
+            "examples": [
+              "the major life forms appeared on earth"
+            ]
+          },
+          {
+            "definition": "(of a book) be published.",
+            "examples": [
+              "the paperback edition didn't appear for another two years"
+            ],
+            "synonyms": [
+              "become available",
+              "come on the market",
+              "go on sale",
+              "come out",
+              "be published",
+              "be produced \"the paperback edition didn't appear for two years\""
+            ]
+          },
+          {
+            "definition": "feature or be shown.",
+            "examples": [
+              "the symbol appears in many paintings of the period"
+            ]
+          },
+          {
+            "definition": "perform publicly in a movie, play, etc.",
+            "examples": [
+              "he appeared on Broadway"
+            ],
+            "synonyms": [
+              "perform",
+              "play",
+              "act \"she appeared on Broadway\""
+            ]
+          },
+          {
+            "definition": "(of an accused person, witness, or lawyer) make an official appearance in a court of law.",
+            "examples": [
+              "he appeared on six charges of theft"
+            ]
+          },
+          {
+            "definition": "arrive at a place.",
+            "examples": [
+              "by ten o'clock Bill still hadn't appeared"
+            ],
+            "synonyms": [
+              "arrive",
+              "turn up",
+              "put in an appearance",
+              "come",
+              "get here/there; Moreinformalshow (up)",
+              "roll in",
+              "blow in \"Bill still hadn't appeared\""
+            ]
+          },
+          {
+            "definition": "seem; give the impression of being.",
+            "examples": [
+              "she appeared not to know what was happening"
+            ],
+            "synonyms": [
+              "seem to be",
+              "look to be",
+              "give the impression of being",
+              "come across as being",
+              "strike someone as being \"they appear to be completely devoted\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "harrow",
+    "syllables": [
+      "har",
+      "row"
+    ],
+    "pronunciation": "ˈherō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "harrow"
+          },
+          {
+            "part": "plural noun",
+            "variant": "harrows"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an implement consisting of a heavy frame set with teeth or tines that is dragged over plowed land to break up clods, remove weeds, and cover seed."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "harrow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "harrows"
+          },
+          {
+            "part": "past tense",
+            "variant": "harrowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "harrowed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "harrowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "draw a harrow over (land)."
+          },
+          {
+            "definition": "cause distress to.",
+            "examples": [
+              "Todd could take it, whereas I'm harrowed by it"
+            ],
+            "synonyms": [
+              "distress",
+              "trouble",
+              "bother",
+              "afflict",
+              "grieve",
+              "torment",
+              "disturb",
+              "pain",
+              "hurt",
+              "mortify More\"his words harrowed her very soul\"distressing",
+              "distressful",
+              "traumatic",
+              "upsetting; shocking",
+              "disturbing",
+              "painful",
+              "haunting",
+              "appalling",
+              "horrifying \"a harrowing experience for the hostages\""
+            ],
+            "antonyms": [
+              "comfort"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

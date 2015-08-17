@@ -1,0 +1,93 @@
+[
+  {
+    "word": "distressing",
+    "syllables": [
+      "dis",
+      "tress",
+      "ing"
+    ],
+    "pronunciation": "ˌdisˈtresiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "distressing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing anxiety, sorrow or pain; upsetting.",
+            "examples": [
+              "some very distressing news"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "distress",
+    "syllables": [
+      "dis",
+      "tress"
+    ],
+    "pronunciation": "dəˈstres",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "distressing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) anxiety, sorrow, or pain.",
+            "examples": [
+              "I didn't mean to distress you"
+            ],
+            "synonyms": [
+              "cause anguish to",
+              "cause suffering to",
+              "pain",
+              "upset",
+              "make miserable; Moretrouble",
+              "worry",
+              "bother",
+              "perturb",
+              "disturb",
+              "disquiet",
+              "agitate",
+              "harrow",
+              "torment \"he was distressed by the trial\"upsetting",
+              "worrying",
+              "disturbing",
+              "disquieting",
+              "painful",
+              "traumatic",
+              "agonizing",
+              "harrowing; sad",
+              "saddening",
+              "heartbreaking",
+              "heart-rending; informalgut-wrenching \"the news was terribly distressing\""
+            ],
+            "antonyms": [
+              "calm",
+              "please",
+              "comforting"
+            ]
+          },
+          {
+            "definition": "give (furniture, leather, or clothing) simulated marks of age and wear.",
+            "examples": [
+              "the manner in which leather jackets are industrially distressed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

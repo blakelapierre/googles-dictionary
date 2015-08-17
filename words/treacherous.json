@@ -1,0 +1,75 @@
+[
+  {
+    "word": "treacherous",
+    "syllables": [
+      "treach",
+      "er",
+      "ous"
+    ],
+    "pronunciation": "ˈtreCH(ə)rəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "treacherous"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "guilty of or involving betrayal or deception.",
+            "examples": [
+              "a treacherous Gestapo agent"
+            ],
+            "synonyms": [
+              "traitorous",
+              "disloyal",
+              "faithless",
+              "unfaithful",
+              "duplicitous",
+              "deceitful",
+              "deceptive",
+              "false",
+              "backstabbing",
+              "double-crossing",
+              "double-dealing",
+              "two-faced",
+              "Janus-faced",
+              "weaselly",
+              "untrustworthy",
+              "unreliable; Moreapostate",
+              "renegade",
+              "two-timing; literaryperfidious \"her treacherous brother betrayed her\""
+            ],
+            "antonyms": [
+              "loyal",
+              "faithful"
+            ]
+          },
+          {
+            "definition": "(of ground, water, conditions, etc.) hazardous because of presenting hidden or unpredictable dangers.",
+            "examples": [
+              "a vacationer was swept away by treacherous currents"
+            ],
+            "synonyms": [
+              "dangerous",
+              "hazardous",
+              "perilous",
+              "unsafe",
+              "precarious",
+              "risky",
+              "deceptive",
+              "unreliable; Moreinformaldicey",
+              "hairy \"treacherous driving conditions\""
+            ],
+            "antonyms": [
+              "safe",
+              "reliable"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
