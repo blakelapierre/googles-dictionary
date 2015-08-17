@@ -1,0 +1,54 @@
+[
+  {
+    "word": "headache",
+    "syllables": [
+      "head",
+      "ache"
+    ],
+    "pronunciation": "ˈhedˌāk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "headache"
+          },
+          {
+            "part": "plural noun",
+            "variant": "headaches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a continuous pain in the head.",
+            "examples": [
+              "pain in the head, migraine; Moreneuralgia; informalhead \"I've got a headache\"Moreneuralgia; head I've got a headache"
+            ]
+          },
+          {
+            "definition": "a thing or person that causes worry or trouble; a problem.",
+            "examples": [
+              "an administrative headache"
+            ],
+            "synonyms": [
+              "nuisance",
+              "trouble",
+              "problem",
+              "bother",
+              "bugbear",
+              "pest",
+              "worry",
+              "inconvenience",
+              "vexation",
+              "irritant",
+              "thorn in one's side; Moreinformalaggravation",
+              "hassle",
+              "pain (in the neck) \"their behavior was a headache for the teacher\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

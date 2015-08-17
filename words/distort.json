@@ -1,0 +1,94 @@
+[
+  {
+    "word": "distort",
+    "syllables": [
+      "dis",
+      "tort"
+    ],
+    "pronunciation": "dəˈstôrt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "distort"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "distorts"
+          },
+          {
+            "part": "past tense",
+            "variant": "distorted"
+          },
+          {
+            "part": "past participle",
+            "variant": "distorted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "distorting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pull or twist out of shape.",
+            "examples": [
+              "a grimace distorted her fine mouth"
+            ],
+            "synonyms": [
+              "twisted",
+              "warped",
+              "contorted",
+              "buckled",
+              "deformed",
+              "malformed",
+              "misshapen",
+              "disfigured",
+              "dysmorphic",
+              "crooked",
+              "awry",
+              "out of shape \"a distorted face\""
+            ]
+          },
+          {
+            "definition": "become twisted out of shape.",
+            "examples": [
+              "the pipe will distort as you bend it"
+            ]
+          },
+          {
+            "definition": "give a misleading or false account or impression of.",
+            "examples": [
+              "many factors can distort the results"
+            ],
+            "synonyms": [
+              "misrepresented",
+              "perverted",
+              "twisted",
+              "falsified",
+              "misreported",
+              "misstated",
+              "garbled",
+              "inaccurate; Morebiased",
+              "prejudiced",
+              "slanted",
+              "colored",
+              "loaded",
+              "weighted",
+              "altered",
+              "changed \"a distorted version\""
+            ]
+          },
+          {
+            "definition": "change the form of (an electrical signal or sound wave) during transmission, amplification, or other processing.",
+            "examples": [
+              "you're distorting the sound by overdriving the amp"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

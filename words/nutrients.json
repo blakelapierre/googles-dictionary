@@ -1,0 +1,30 @@
+[
+  {
+    "word": "nutrient",
+    "syllables": [
+      "nu",
+      "tri",
+      "ent"
+    ],
+    "pronunciation": "ˈn(y)o͞otrēənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "nutrients"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance that provides nourishment essential for growth and the maintenance of life.",
+            "examples": [
+              "fish is a source of many important nutrients, including protein, vitamins, and minerals"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

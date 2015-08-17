@@ -1,0 +1,65 @@
+[
+  {
+    "word": "rain",
+    "syllables": [
+      "rain"
+    ],
+    "pronunciation": "rān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "raining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "rain falls.",
+            "examples": [
+              "it was beginning to rain"
+            ],
+            "synonyms": [
+              "pour",
+              "pour down",
+              "come down",
+              "pelt down",
+              "teem down",
+              "beat down",
+              "rain cats and dogs; Morefall",
+              "drizzle \"it rained heavily\""
+            ]
+          },
+          {
+            "definition": "(of the sky, the clouds, etc.) send down rain."
+          },
+          {
+            "definition": "(of objects) fall in large or overwhelming quantities.",
+            "examples": [
+              "bombs rained down"
+            ],
+            "synonyms": [
+              "fall",
+              "hail",
+              "drop",
+              "shower \"bombs rained on the city\""
+            ]
+          },
+          {
+            "definition": "used to convey that a specified thing is falling in large or overwhelming quantities.",
+            "examples": [
+              "it was just raining glass"
+            ]
+          },
+          {
+            "definition": "send down in large or overwhelming quantities.",
+            "examples": [
+              "she rained blows onto him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

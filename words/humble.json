@@ -1,0 +1,159 @@
+[
+  {
+    "word": "humble",
+    "syllables": [
+      "hum",
+      "ble"
+    ],
+    "pronunciation": "ˈhəmbəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "humble"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "humbler"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "humblest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing a modest or low estimate of one's own importance.",
+            "examples": [
+              "he was humble about his stature as one of rock history's most influential guitarists"
+            ],
+            "synonyms": [
+              "meek",
+              "deferential",
+              "respectful",
+              "submissive",
+              "diffident",
+              "self-effacing",
+              "unassertive; Moreunpresuming",
+              "modest",
+              "unassuming",
+              "self-deprecating; subdued",
+              "chastened \"her bearing was humble\""
+            ],
+            "antonyms": [
+              "proud",
+              "overbearing"
+            ]
+          },
+          {
+            "definition": "(of an action or thought) offered with or affected by a modest estimate of one's own importance.",
+            "examples": [
+              "my humble apologies"
+            ]
+          },
+          {
+            "definition": "of low social, administrative, or political rank.",
+            "examples": [
+              "she came from a humble, unprivileged background"
+            ],
+            "synonyms": [
+              "lowly",
+              "working-class",
+              "lower-class",
+              "poor",
+              "undistinguished",
+              "mean",
+              "modest",
+              "ignoble",
+              "low-born",
+              "plebeian",
+              "underprivileged; Morecommon",
+              "ordinary",
+              "simple",
+              "inferior",
+              "unremarkable",
+              "insignificant",
+              "inconsequential \"a humble background\""
+            ],
+            "antonyms": [
+              "noble"
+            ]
+          },
+          {
+            "definition": "(of a thing) of modest pretensions or dimensions.",
+            "examples": [
+              "he built the business empire from humble beginnings"
+            ],
+            "synonyms": [
+              "modest",
+              "plain",
+              "simple",
+              "ordinary",
+              "unostentatious",
+              "unpretentious \"my humble abode\""
+            ],
+            "antonyms": [
+              "grand"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "humble"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "humbles"
+          },
+          {
+            "part": "past tense",
+            "variant": "humbled"
+          },
+          {
+            "part": "past participle",
+            "variant": "humbled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "humbling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lower (someone) in dignity or importance.",
+            "examples": [
+              "I knew he had humbled himself to ask for my help"
+            ],
+            "synonyms": [
+              "humiliate",
+              "abase",
+              "demean",
+              "lower",
+              "degrade",
+              "debase; Moremortify",
+              "shame",
+              "abash; informalcut down to size",
+              "deflate",
+              "make eat humble pie",
+              "take down a peg or two",
+              "settle someone's hash",
+              "make eat crow \"he had to humble himself to ask for my help\""
+            ]
+          },
+          {
+            "definition": "decisively defeat (another team or competitor, typically one that was previously thought to be superior).",
+            "examples": [
+              "he was humbled by his political opponents"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

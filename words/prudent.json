@@ -1,0 +1,52 @@
+[
+  {
+    "word": "prudent",
+    "syllables": [
+      "pru",
+      "dent"
+    ],
+    "pronunciation": "ˈpro͞odnt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "prudent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "acting with or showing care and thought for the future.",
+            "examples": [
+              "no prudent money manager would authorize a loan without first knowing its purpose"
+            ],
+            "synonyms": [
+              "wise",
+              "well judged",
+              "sensible",
+              "politic",
+              "judicious",
+              "sagacious",
+              "sage",
+              "shrewd",
+              "advisable",
+              "well advised More\"it is prudent to obtain consent\"cautious",
+              "careful",
+              "provident",
+              "farsighted",
+              "judicious",
+              "shrewd",
+              "circumspect; thrifty",
+              "economical \"a prudent approach to borrowing\""
+            ],
+            "antonyms": [
+              "unwise",
+              "reckless"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

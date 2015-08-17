@@ -1,0 +1,70 @@
+[
+  {
+    "word": "tenant",
+    "syllables": [
+      "ten",
+      "ant"
+    ],
+    "pronunciation": "ˈtenənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tenant"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tenants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who occupies land or property rented from a landlord.",
+            "examples": [
+              "occupant, resident, inhabitant; Morerenter, leaseholder, lessee, lodger, roomer; squatter \"the tenants' rent is due on the first of each month\"Morerenter, leaseholder, lessee, lodger, roomer; squatter the tenants' rent is due on the first of each month"
+            ],
+            "antonyms": [
+              "owner",
+              "freeholder"
+            ]
+          },
+          {
+            "definition": "a person holding real property by private ownership."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tenant"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tenants"
+          },
+          {
+            "part": "past tense",
+            "variant": "tenanted"
+          },
+          {
+            "part": "past participle",
+            "variant": "tenanted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tenanting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "occupy (property) as a tenant."
+          }
+        ]
+      }
+    ]
+  }
+]

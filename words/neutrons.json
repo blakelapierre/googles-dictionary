@@ -1,0 +1,26 @@
+[
+  {
+    "word": "neutron",
+    "syllables": [
+      "neu",
+      "tron"
+    ],
+    "pronunciation": "ˈn(y)o͞oträn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "neutrons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a subatomic particle of about the same mass as a proton but without an electric charge, present in all atomic nuclei except those of ordinary hydrogen."
+          }
+        ]
+      }
+    ]
+  }
+]

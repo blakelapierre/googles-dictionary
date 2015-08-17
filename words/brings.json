@@ -1,0 +1,134 @@
+[
+  {
+    "word": "bring",
+    "syllables": [
+      "bring"
+    ],
+    "pronunciation": "briNG",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "brings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come to a place with (someone or something).",
+            "examples": [
+              "she brought Luke home from the hospital"
+            ],
+            "synonyms": [
+              "escort",
+              "conduct",
+              "guide",
+              "lead",
+              "usher",
+              "show",
+              "shepherd \"Seth brought his bride to the club\""
+            ]
+          },
+          {
+            "definition": "cause (someone or something) to come to a place.",
+            "examples": [
+              "what brings you here?"
+            ],
+            "synonyms": [
+              "carry",
+              "fetch",
+              "bear",
+              "take; Moreconvey",
+              "transport",
+              "tote; move",
+              "haul",
+              "shift",
+              "lug \"he brought a tray\""
+            ]
+          },
+          {
+            "definition": "make (someone or something) move in a particular direction or way.",
+            "examples": [
+              "he brought his hands out of his pockets"
+            ]
+          },
+          {
+            "definition": "cause (something).",
+            "examples": [
+              "the bad weather brought famine"
+            ],
+            "synonyms": [
+              "cause",
+              "produce",
+              "create",
+              "generate",
+              "precipitate",
+              "lead to",
+              "give rise to",
+              "result in; Morestir up",
+              "whip up",
+              "promote; literarybeget \"the wind changed and brought rain\""
+            ]
+          },
+          {
+            "definition": "cause (someone or something) to be in or change to a particular state or condition.",
+            "examples": [
+              "I'll give you some aspirin to bring down his temperature"
+            ]
+          },
+          {
+            "definition": "involve (someone) in a particular activity.",
+            "examples": [
+              "he has brought in a consultant"
+            ]
+          },
+          {
+            "definition": "initiate (legal action) against someone.",
+            "examples": [
+              "riot and conspiracy charges should be brought against them"
+            ],
+            "synonyms": [
+              "put forward",
+              "prefer",
+              "lay",
+              "submit",
+              "present",
+              "initiate",
+              "institute \"the police contemplated bringing charges\""
+            ]
+          },
+          {
+            "definition": "force oneself to do something unpleasant or distressing.",
+            "examples": [
+              "she could not bring herself to mention it"
+            ],
+            "synonyms": [
+              "force oneself to",
+              "make oneself",
+              "bear to \"she could not bring herself to complain\""
+            ]
+          },
+          {
+            "definition": "cause someone to receive (an amount of money) as income or profit.",
+            "examples": [
+              "two important Chippendale lots brought $10,000 each"
+            ],
+            "synonyms": [
+              "earn",
+              "make",
+              "fetch",
+              "bring in",
+              "yield",
+              "net",
+              "gross",
+              "return",
+              "produce; Morecommand",
+              "attract \"this job brings him a regular salary\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

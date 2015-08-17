@@ -1,0 +1,95 @@
+[
+  {
+    "word": "incident",
+    "syllables": [
+      "in",
+      "ci",
+      "dent"
+    ],
+    "pronunciation": "ˈinsəd(ə)nt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "incidents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an event or occurrence.",
+            "examples": [
+              "several amusing incidents"
+            ],
+            "synonyms": [
+              "event",
+              "occurrence",
+              "episode",
+              "experience",
+              "happening",
+              "occasion",
+              "proceeding",
+              "eventuality",
+              "affair",
+              "business; Moreadventure",
+              "exploit",
+              "escapade; matter",
+              "circumstance",
+              "fact",
+              "development \"incidents in his youth\""
+            ]
+          },
+          {
+            "definition": "a violent event, such as a fracas or assault.",
+            "examples": [
+              "one person was stabbed in the incident"
+            ],
+            "synonyms": [
+              "disturbance",
+              "fracas",
+              "melee",
+              "commotion",
+              "rumpus",
+              "scene; Morefight",
+              "skirmish",
+              "clash",
+              "brawl",
+              "free-for-all",
+              "encounter",
+              "conflict",
+              "ruckus",
+              "confrontation",
+              "altercation",
+              "contretemps; informalruction \"police were investigating the incident\""
+            ]
+          },
+          {
+            "definition": "a hostile clash between forces of rival countries."
+          },
+          {
+            "definition": "a case or instance of something happening.",
+            "examples": [
+              "a single incident of rudeness does not support a finding of contemptuous conduct"
+            ]
+          },
+          {
+            "definition": "the occurrence of dangerous or exciting things.",
+            "examples": [
+              "the winter passed without incident"
+            ],
+            "synonyms": [
+              "excitement",
+              "adventure",
+              "drama; Moredanger",
+              "peril \"the journey was not without incident\""
+            ]
+          },
+          {
+            "definition": "a distinct piece of action in a play or a poem."
+          }
+        ]
+      }
+    ]
+  }
+]

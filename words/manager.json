@@ -1,0 +1,75 @@
+[
+  {
+    "word": "manager",
+    "syllables": [
+      "man",
+      "ag",
+      "er"
+    ],
+    "pronunciation": "ˈmanijər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "manager"
+          },
+          {
+            "part": "plural noun",
+            "variant": "managers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person responsible for controlling or administering all or part of a company or similar organization.",
+            "examples": [
+              "the manager of a bar"
+            ],
+            "synonyms": [
+              "executive",
+              "head of department",
+              "supervisor",
+              "principal",
+              "administrator",
+              "head",
+              "director",
+              "managing director",
+              "CEO",
+              "employer",
+              "superintendent",
+              "foreman",
+              "forewoman",
+              "overseer; Moreproprietor; informalboss",
+              "chief",
+              "head honcho \"the plant manager\""
+            ]
+          },
+          {
+            "definition": "a person who controls the activities, business dealings, and other aspects of the career of an entertainer, athlete, group of musicians, etc.",
+            "examples": [
+              "she left it to her manager to deal with the canceled concerts"
+            ],
+            "synonyms": [
+              "organizer",
+              "controller",
+              "comptroller; impresario \"the band's manager\""
+            ]
+          },
+          {
+            "definition": "a person in charge of the activities, tactics, and training of a sports team.",
+            "examples": [
+              "Frank Robinson became baseball's first black manager"
+            ]
+          },
+          {
+            "definition": "a program or system that controls or organizes a peripheral device or process.",
+            "examples": [
+              "a file manager"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

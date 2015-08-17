@@ -1,0 +1,31 @@
+[
+  {
+    "word": "museum",
+    "syllables": [
+      "mu",
+      "se",
+      "um"
+    ],
+    "pronunciation": "myo͞oˈzēəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "museum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "museums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited."
+          }
+        ]
+      }
+    ]
+  }
+]

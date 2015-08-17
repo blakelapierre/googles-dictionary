@@ -1,0 +1,66 @@
+[
+  {
+    "word": "belittle",
+    "syllables": [
+      "be",
+      "lit",
+      "tle"
+    ],
+    "pronunciation": "bəˈlidl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "belittle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "belittles"
+          },
+          {
+            "part": "past tense",
+            "variant": "belittled"
+          },
+          {
+            "part": "past participle",
+            "variant": "belittled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "belittling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (someone or something) seem unimportant.",
+            "examples": [
+              "this is not to belittle his role"
+            ],
+            "synonyms": [
+              "disparage",
+              "denigrate",
+              "run down",
+              "deprecate",
+              "depreciate",
+              "downgrade",
+              "play down",
+              "trivialize",
+              "minimize",
+              "make light of",
+              "pooh-pooh",
+              "treat lightly",
+              "scoff at",
+              "sneer at; Moreformalderogate; raremisprize \"he had been warned on two previous occasions to stop belittling his students\""
+            ],
+            "antonyms": [
+              "praise",
+              "magnify"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

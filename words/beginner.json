@@ -1,0 +1,38 @@
+[
+  {
+    "word": "beginner",
+    "syllables": [
+      "be",
+      "gin",
+      "ner"
+    ],
+    "pronunciation": "bəˈɡinər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "beginner"
+          },
+          {
+            "part": "plural noun",
+            "variant": "beginners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person just starting to learn a skill or take part in an activity.",
+            "examples": [
+              "novice, newcomer, fledgling, neophyte, starter, learner, student, apprentice, trainee; Morerecruit, raw recruit, initiate, freshman; tenderfoot, tyro; postulant, novitiate; informalrookie, newbie, cub, greenhorn, new kid (on the block) \"a yoga video for beginners\"Morerecruit, raw recruit, initiate, freshman; tenderfoot, tyro; postulant, novitiate; rookie, newbie, cub, greenhorn, new kid (on the block) a yoga video for beginners"
+            ],
+            "antonyms": [
+              "expert",
+              "veteran"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

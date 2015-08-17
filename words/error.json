@@ -1,0 +1,70 @@
+[
+  {
+    "word": "error",
+    "syllables": [
+      "er",
+      "ror"
+    ],
+    "pronunciation": "ˈerər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "error"
+          },
+          {
+            "part": "plural noun",
+            "variant": "errors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mistake.",
+            "examples": [
+              "spelling errors"
+            ],
+            "synonyms": [
+              "mistake",
+              "inaccuracy",
+              "miscalculation",
+              "blunder",
+              "oversight; Morefallacy",
+              "misconception",
+              "delusion; misprint",
+              "erratum; informalslip-up",
+              "boo-boo",
+              "goof \"leaving the door unlocked was my error\""
+            ]
+          },
+          {
+            "definition": "the state or condition of being wrong in conduct or judgment.",
+            "examples": [
+              "the money had been paid in error"
+            ],
+            "synonyms": [
+              "wrongly",
+              "by mistake",
+              "mistakenly",
+              "incorrectly; Moreaccidentally",
+              "by accident",
+              "inadvertently",
+              "unintentionally",
+              "by chance \"millions of tax dollars were collected in error\""
+            ]
+          },
+          {
+            "definition": "a misplay by a fielder that allows a batter to reach base or a runner to advance."
+          },
+          {
+            "definition": "a measure of the estimated difference between the observed or calculated value of a quantity and its true value."
+          },
+          {
+            "definition": "a mistake of fact or of law in a court's opinion, judgment or order."
+          }
+        ]
+      }
+    ]
+  }
+]

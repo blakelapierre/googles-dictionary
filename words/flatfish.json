@@ -1,0 +1,34 @@
+[
+  {
+    "word": "flatfish",
+    "syllables": [
+      "flat",
+      "fish"
+    ],
+    "pronunciation": "ˈflatˌfiSH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "flatfish"
+          },
+          {
+            "part": "plural noun",
+            "variant": "flatfish"
+          },
+          {
+            "part": "plural noun",
+            "variant": "flatfishes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flattened marine fish that swims on its side with both eyes on the upper side. They live typically on the seabed and are colored to resemble it."
+          }
+        ]
+      }
+    ]
+  }
+]

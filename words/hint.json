@@ -1,0 +1,133 @@
+[
+  {
+    "word": "hint",
+    "syllables": [
+      "hint"
+    ],
+    "pronunciation": "hint",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hint"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hints"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a slight or indirect indication or suggestion.",
+            "examples": [
+              "he has given no hint of his views"
+            ],
+            "synonyms": [
+              "clue",
+              "inkling",
+              "suggestion",
+              "indication",
+              "indicator",
+              "sign",
+              "signal",
+              "pointer",
+              "intimation",
+              "insinuation",
+              "innuendo",
+              "mention",
+              "whisper \"a hint that he would leave\""
+            ]
+          },
+          {
+            "definition": "a small piece of practical information or advice.",
+            "examples": [
+              "handy hints about what to buy"
+            ],
+            "synonyms": [
+              "tip",
+              "suggestion",
+              "pointer",
+              "clue",
+              "guideline",
+              "recommendation; Moreadvice",
+              "help; informalhow-to \"handy hints about painting\""
+            ]
+          },
+          {
+            "definition": "a very small trace of something.",
+            "examples": [
+              "Randy smiled with a hint of mockery"
+            ],
+            "synonyms": [
+              "trace",
+              "touch",
+              "suspicion",
+              "suggestion",
+              "dash",
+              "soupçon",
+              "tinge",
+              "modicum",
+              "whiff",
+              "taste",
+              "undertone; Moreinformalsmidgen",
+              "tad",
+              "speck \"a hint of mint\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hint"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hints"
+          },
+          {
+            "part": "past tense",
+            "variant": "hinted"
+          },
+          {
+            "part": "past participle",
+            "variant": "hinted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hinting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "suggest or indicate something indirectly or covertly.",
+            "examples": [
+              "there were those who hinted at doctored evidence"
+            ],
+            "synonyms": [
+              "imply",
+              "insinuate",
+              "intimate",
+              "suggest",
+              "indicate",
+              "signal; Moreallude to",
+              "refer to",
+              "drive at",
+              "mean; informalget at \"what are you hinting at ?\""
+            ]
+          },
+          {
+            "definition": "(of a thing) be a slight or possible indication of.",
+            "examples": [
+              "the restrained fronts of the terraced houses only hinted at the wealth within"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "word": "ace",
+    "syllables": [
+      "ace"
+    ],
+    "pronunciation": "ās",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ace"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a playing card with a single spot on it, ranked as the highest card in its suit in most card games.",
+            "examples": [
+              "the ace of diamonds"
+            ]
+          },
+          {
+            "definition": "a hole in one."
+          },
+          {
+            "definition": "a person who excels at a particular sport or other activity.",
+            "examples": [
+              "a motorcycle ace"
+            ],
+            "synonyms": [
+              "expert",
+              "master",
+              "genius",
+              "virtuoso",
+              "maestro",
+              "adept",
+              "past master",
+              "doyen",
+              "champion",
+              "record holder",
+              "star; Moreinformaldemon",
+              "hotshot",
+              "wizard",
+              "pro",
+              "whiz; informalmaven",
+              "crackerjack \"a snowboarding ace\""
+            ],
+            "antonyms": [
+              "amateur",
+              "beginner"
+            ]
+          },
+          {
+            "definition": "a pilot who has shot down many enemy aircraft, especially in World War I or World War II."
+          },
+          {
+            "definition": "(in tennis and similar games) a service that an opponent is unable to touch and thus wins a point."
+          }
+        ]
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "ace"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very good.",
+            "examples": [
+              "an ace swimmer"
+            ],
+            "synonyms": [
+              "excellent",
+              "first-rate",
+              "first-class",
+              "marvelous",
+              "wonderful",
+              "magnificent",
+              "outstanding",
+              "superlative",
+              "formidable",
+              "virtuoso",
+              "masterly",
+              "expert",
+              "champion",
+              "consummate",
+              "skillful",
+              "adept; Moregreat",
+              "terrific",
+              "tremendous",
+              "superb",
+              "fantastic",
+              "sensational",
+              "fabulous; informalfab",
+              "crack",
+              "hotshot",
+              "A1",
+              "mean",
+              "demon",
+              "awesome",
+              "magic",
+              "tip-top",
+              "top-notch; killer",
+              "blue-ribbon",
+              "blue-chip",
+              "brilliant",
+              "wicked \"an ace tennis player\""
+            ],
+            "antonyms": [
+              "mediocre"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ace"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "aces"
+          },
+          {
+            "part": "past tense",
+            "variant": "aced"
+          },
+          {
+            "part": "past participle",
+            "variant": "aced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "acing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in tennis and similar games) serve an ace against (an opponent)."
+          },
+          {
+            "definition": "score an ace on (a hole) or with (a shot)."
+          },
+          {
+            "definition": "get an A or its equivalent in (a test or exam).",
+            "examples": [
+              "I aced my grammar test"
+            ]
+          },
+          {
+            "definition": "outdo someone in a competitive situation.",
+            "examples": [
+              "the magazine won an award, acing out its rivals"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ACE",
+    "syllables": [
+      "ACE"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviationUS",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

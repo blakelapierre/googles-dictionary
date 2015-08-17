@@ -1,0 +1,64 @@
+[
+  {
+    "word": "alliance",
+    "syllables": [
+      "al",
+      "li",
+      "ance"
+    ],
+    "pronunciation": "əˈlīəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "alliance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "alliances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a union or association formed for mutual benefit, especially between countries or organizations.",
+            "examples": [
+              "a defensive alliance between Australia and New Zealand"
+            ],
+            "synonyms": [
+              "association",
+              "union",
+              "league",
+              "confederation",
+              "federation",
+              "confederacy",
+              "coalition",
+              "consortium",
+              "affiliation",
+              "partnership \"a defense alliance\""
+            ]
+          },
+          {
+            "definition": "a relationship based on an affinity in interests, nature, or qualities.",
+            "examples": [
+              "an alliance between medicine and morality"
+            ],
+            "synonyms": [
+              "relationship",
+              "affinity",
+              "association",
+              "connection \"an alliance between medicine and morality\""
+            ]
+          },
+          {
+            "definition": "a state of being joined or associated.",
+            "examples": [
+              "his party is in alliance with the Greens"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "exasperation",
+    "syllables": [
+      "ex",
+      "as",
+      "per",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "iɡˌzaspəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exasperation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "exasperations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of intense irritation or annoyance.",
+            "examples": [
+              "she rolled her eyes in exasperation"
+            ],
+            "synonyms": [
+              "irritation",
+              "annoyance",
+              "vexation",
+              "anger",
+              "fury",
+              "rage",
+              "ill humor",
+              "crossness",
+              "testiness",
+              "tetchiness; Moredisgruntlement",
+              "discontent",
+              "displeasure",
+              "chagrin; informalaggravation \"she provoked exasperation among her colleagues\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

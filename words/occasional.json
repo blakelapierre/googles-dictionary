@@ -1,0 +1,65 @@
+[
+  {
+    "word": "occasional",
+    "syllables": [
+      "oc",
+      "ca",
+      "sion",
+      "al"
+    ],
+    "pronunciation": "əˈkāZHənl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "occasional"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "occurring, appearing, or done infrequently and irregularly.",
+            "examples": [
+              "the occasional car went by but no taxis"
+            ],
+            "synonyms": [
+              "infrequent",
+              "intermittent",
+              "irregular",
+              "sporadic",
+              "odd",
+              "random; Moreperiodic; uncommon",
+              "rare",
+              "isolated",
+              "few and far between",
+              "sometime \"the admiral made occasional appearances on board our ship\""
+            ],
+            "antonyms": [
+              "regular",
+              "frequent"
+            ]
+          },
+          {
+            "definition": "(of furniture) made or adapted for use on a particular occasion or for irregular use.",
+            "examples": [
+              "an occasional table"
+            ]
+          },
+          {
+            "definition": "(of a literary composition, speech, religious service, etc.) produced on or intended for a special occasion.",
+            "examples": [
+              "he wrote occasional verse for patrons"
+            ]
+          },
+          {
+            "definition": "employed for a particular occasion or on an irregular basis.",
+            "examples": [
+              "occasional freelancer seeks full-time position"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

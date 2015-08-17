@@ -1,0 +1,61 @@
+[
+  {
+    "word": "prohibition",
+    "syllables": [
+      "pro",
+      "hi",
+      "bi",
+      "tion"
+    ],
+    "pronunciation": "ˌprō(h)əˈbiSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prohibition"
+          },
+          {
+            "part": "noun",
+            "variant": "Prohibition"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of forbidding something, especially by law.",
+            "examples": [
+              "they argue that prohibition of drugs will always fail"
+            ],
+            "synonyms": [
+              "banning",
+              "forbidding",
+              "prohibiting",
+              "barring",
+              "debarment",
+              "vetoing",
+              "proscription",
+              "interdiction",
+              "outlawing More\"the prohibition of marijuana\"ban",
+              "bar",
+              "interdict",
+              "veto",
+              "embargo",
+              "injunction",
+              "moratorium \"a prohibition was imposed\""
+            ]
+          },
+          {
+            "definition": "a law or regulation forbidding something.",
+            "examples": [
+              "plural noun: prohibitions"
+            ]
+          },
+          {
+            "definition": "the prevention by law of the manufacture and sale of alcohol, especially in the US between 1920 and 1933."
+          }
+        ]
+      }
+    ]
+  }
+]

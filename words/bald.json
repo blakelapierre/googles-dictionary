@@ -1,0 +1,107 @@
+[
+  {
+    "word": "bald",
+    "syllables": [
+      "bald"
+    ],
+    "pronunciation": "bôld",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bald"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "balder"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "baldest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a scalp wholly or partly lacking hair.",
+            "examples": [
+              "he had a shiny bald head"
+            ],
+            "synonyms": [
+              "hairless",
+              "smooth",
+              "shaven",
+              "depilated; Morebald-headed; informalchrome-domed; technicalglabrous; archaicbald-pated \"a bald head\""
+            ],
+            "antonyms": [
+              "hairy",
+              "hirsute"
+            ]
+          },
+          {
+            "definition": "(of an animal) not covered by the usual fur, hair, or feathers.",
+            "examples": [
+              "hedgehogs are born bald"
+            ]
+          },
+          {
+            "definition": "(of a plant or an area of land) not covered by the usual leaves, bark, or vegetation.",
+            "examples": [
+              "the bald trunks with their empty branches"
+            ],
+            "synonyms": [
+              "leafless",
+              "bare",
+              "uncovered \"a few bald bushes\""
+            ],
+            "antonyms": [
+              "lush",
+              "leafy"
+            ]
+          },
+          {
+            "definition": "(of a tire) having the tread worn away.",
+            "examples": [
+              "my car had two bald tires"
+            ]
+          },
+          {
+            "definition": "not having any extra detail or explanation; plain or blunt.",
+            "examples": [
+              "the bald statement in the preceding paragraph requires amplification"
+            ],
+            "synonyms": [
+              "plain",
+              "simple",
+              "unadorned",
+              "unvarnished",
+              "unembellished",
+              "undisguised",
+              "unveiled",
+              "stark",
+              "severe",
+              "austere",
+              "brutal",
+              "harsh; Moreblunt",
+              "direct",
+              "forthright",
+              "plain-spoken",
+              "straight",
+              "straightforward",
+              "candid",
+              "honest",
+              "truthful",
+              "realistic",
+              "frank",
+              "outspoken; informalupfront \"a bald statement\""
+            ],
+            "antonyms": [
+              "vague"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

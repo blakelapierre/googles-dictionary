@@ -1,0 +1,100 @@
+[
+  {
+    "word": "hinge",
+    "syllables": [
+      "hinge"
+    ],
+    "pronunciation": "hinj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hinge"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hinges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a movable joint or mechanism on which a door, gate, or lid swings as it opens and closes, or that connects linked objects."
+          },
+          {
+            "definition": "a natural joint that performs a function similar to a hinge, for example that of a bivalve shell."
+          },
+          {
+            "definition": "a central point or principle on which everything depends.",
+            "examples": [
+              "this period can be called the hinge of history"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hinge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hinges"
+          },
+          {
+            "part": "past tense",
+            "variant": "hinged"
+          },
+          {
+            "part": "past participle",
+            "variant": "hinged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hingeing"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hinging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attach or join with or as if with a hinge.",
+            "examples": [
+              "the ironing board was set into the wall and hinged at the bottom"
+            ]
+          },
+          {
+            "definition": "(of a door or part of a structure) hang and turn on a hinge.",
+            "examples": [
+              "the skull's jaw hinged down"
+            ]
+          },
+          {
+            "definition": "depend entirely on.",
+            "examples": [
+              "the future of the industry could hinge on the outcome of next month's election"
+            ],
+            "synonyms": [
+              "depend on",
+              "hang on",
+              "rest on",
+              "turn on",
+              "center on",
+              "pivot on",
+              "be contingent on",
+              "be dependent on",
+              "be conditional on; Morebe determined by",
+              "be decided by",
+              "revolve around \"our future hinges on the election\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

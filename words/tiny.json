@@ -1,0 +1,68 @@
+[
+  {
+    "word": "tiny",
+    "syllables": [
+      "ti",
+      "ny"
+    ],
+    "pronunciation": "ˈtīnē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "tiny"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "tinier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "tiniest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very small.",
+            "examples": [
+              "a tiny hummingbird"
+            ],
+            "synonyms": [
+              "minute",
+              "minuscule",
+              "microscopic",
+              "nanoscale",
+              "infinitesimal",
+              "very small",
+              "little",
+              "mini",
+              "diminutive",
+              "miniature",
+              "scaled down",
+              "baby",
+              "toy",
+              "dwarf",
+              "pygmy",
+              "peewee",
+              "Lilliputian; Moreinformalteeny",
+              "teeny-weeny",
+              "teensy",
+              "teensy-weensy",
+              "itty-bitty",
+              "itsy-bitsy",
+              "eensy",
+              "eensy-weensy",
+              "little-bitty; bite-sized",
+              "pint-sized; wee \"what are these tiny red insects?\""
+            ],
+            "antonyms": [
+              "huge"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

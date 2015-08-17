@@ -1,0 +1,85 @@
+[
+  {
+    "word": "prescription",
+    "syllables": [
+      "pre",
+      "scrip",
+      "tion"
+    ],
+    "pronunciation": "prəˈskripSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prescription"
+          },
+          {
+            "part": "plural noun",
+            "variant": "prescriptions"
+          },
+          {
+            "part": "noun",
+            "variant": "positive prescription"
+          },
+          {
+            "part": "plural noun",
+            "variant": "positive prescriptions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an instruction written by a medical practitioner that authorizes a patient to be provided a medicine or treatment.",
+            "examples": [
+              "he scribbled a prescription for tranquilizers"
+            ],
+            "synonyms": [
+              "instruction",
+              "authorization; Moreinformalscrip; archaicrecipe \"the doctor wrote a prescription\""
+            ]
+          },
+          {
+            "definition": "the action of prescribing a medicine or treatment.",
+            "examples": [
+              "the unnecessary prescription of antibiotics"
+            ]
+          },
+          {
+            "definition": "a medicine or remedy that is prescribed.",
+            "examples": [
+              "I've got to pick up my prescription"
+            ],
+            "synonyms": [
+              "medicine",
+              "drugs",
+              "medication \"he fetched the prescription from the drug store\""
+            ]
+          },
+          {
+            "definition": "a recommendation that is authoritatively put forward.",
+            "examples": [
+              "effective prescriptions for sustaining rural communities"
+            ],
+            "synonyms": [
+              "method",
+              "measure; Morerecommendation",
+              "suggestion",
+              "recipe",
+              "formula \"a painless prescription for improvement\""
+            ]
+          },
+          {
+            "definition": "the authoritative recommendation of an action or procedure.",
+            "examples": [
+              "rather than prescription there would be guidance"
+            ]
+          },
+          {
+            "definition": "the establishment of a claim founded on the basis of a long or indefinite period of uninterrupted use or of long-standing custom."
+          }
+        ]
+      }
+    ]
+  }
+]

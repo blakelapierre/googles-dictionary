@@ -1,0 +1,75 @@
+[
+  {
+    "word": "nonconformist",
+    "syllables": [
+      "non",
+      "con",
+      "form",
+      "ist"
+    ],
+    "pronunciation": "ˌnänkənˈfôrməst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nonconformist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nonconformists"
+          },
+          {
+            "part": "noun",
+            "variant": "non-conformist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "non-conformists"
+          },
+          {
+            "part": "noun",
+            "variant": "Nonconformist"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person whose behavior or views do not conform to prevailing ideas or practices.",
+            "examples": [
+              "dissenter, dissentient, protester, rebel, renegade, schismatic; Morefreethinker, apostate, heretic; individualist, free spirit, maverick, eccentric, original, deviant, misfit, dropout, outsider, Bohemian; informalbad boy \"our college has the reputation of being a haven for nonconformists\"Morefreethinker, apostate, heretic; individualist, free spirit, maverick, eccentric, original, deviant, misfit, dropout, outsider, Bohemian; bad boy our college has the reputation of being a haven for nonconformists"
+            ]
+          },
+          {
+            "definition": "a member of a Protestant church in England that dissents from the established Anglican Church."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "nonconformist"
+          },
+          {
+            "part": "adjective",
+            "variant": "non-conformist"
+          },
+          {
+            "part": "adjective",
+            "variant": "Nonconformist"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or characterized by behavior or views that do not conform to prevailing ideas or practices."
+          },
+          {
+            "definition": "of or relating to Nonconformists or their principles and practices."
+          }
+        ]
+      }
+    ]
+  }
+]

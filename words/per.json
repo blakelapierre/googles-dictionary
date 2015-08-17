@@ -1,0 +1,104 @@
+[
+  {
+    "word": "per",
+    "syllables": [
+      "per"
+    ],
+    "pronunciation": "pər",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "per"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "for each (used with units to express a rate).",
+            "examples": [
+              "a gas station that charges $1.29 per gallon"
+            ]
+          },
+          {
+            "definition": "by means of.",
+            "examples": [
+              "send it per express"
+            ]
+          },
+          {
+            "definition": "in accordance with.",
+            "examples": [
+              "made as per instructions"
+            ]
+          },
+          {
+            "definition": "divided by a line in the direction of.",
+            "examples": [
+              "per bend"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "per-",
+    "syllables": [
+      "per-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "per-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "through; all over.",
+            "examples": [
+              "percuss"
+            ]
+          },
+          {
+            "definition": "completely; very.",
+            "examples": [
+              "perfect"
+            ]
+          },
+          {
+            "definition": "to destruction; to ill effect.",
+            "examples": [
+              "perdition"
+            ]
+          },
+          {
+            "definition": "having the maximum proportion of some element in combination.",
+            "examples": [
+              "peroxide"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "per.",
+    "syllables": [
+      "per."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

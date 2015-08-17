@@ -1,0 +1,224 @@
+[
+  {
+    "word": "Mass",
+    "syllables": [
+      "Mass"
+    ],
+    "pronunciation": "mas",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "Masses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the Christian Eucharist or Holy Communion, especially in the Roman Catholic Church.",
+            "examples": [
+              "we went to Mass"
+            ],
+            "synonyms": [
+              "Eucharist",
+              "Holy Communion",
+              "Communion",
+              "service",
+              "liturgy \"we attended the six o'clock Mass\""
+            ]
+          },
+          {
+            "definition": "a celebration of the Eucharist.",
+            "examples": [
+              "there was a Mass and the whole family was supposed to go"
+            ],
+            "synonyms": [
+              "Eucharist",
+              "Holy Communion",
+              "Communion",
+              "service",
+              "liturgy \"we attended the six o'clock Mass\""
+            ]
+          },
+          {
+            "definition": "a musical setting of parts of the liturgy used in the Mass."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mass",
+    "syllables": [
+      "mass"
+    ],
+    "pronunciation": "mas",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "masses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a coherent, typically large body of matter with no definite shape.",
+            "examples": [
+              "a mass of curly hair"
+            ],
+            "synonyms": [
+              "pile",
+              "heap; Moreaccumulation",
+              "aggregation",
+              "accretion",
+              "concretion",
+              "buildup; informalbatch",
+              "wad \"a soggy mass of fallen leaves\""
+            ]
+          },
+          {
+            "definition": "a large number of people or objects crowded together.",
+            "examples": [
+              "a mass of cyclists"
+            ],
+            "synonyms": [
+              "crowd",
+              "horde",
+              "large group",
+              "throng",
+              "host",
+              "troop",
+              "army",
+              "herd",
+              "flock",
+              "drove",
+              "swarm",
+              "mob",
+              "pack",
+              "press",
+              "crush",
+              "flood",
+              "multitude \"a mass of cyclists\""
+            ]
+          },
+          {
+            "definition": "a large amount of material.",
+            "examples": [
+              "a mass of conflicting evidence"
+            ]
+          },
+          {
+            "definition": "a large quantity or amount of something.",
+            "examples": [
+              "we get masses of homework"
+            ]
+          },
+          {
+            "definition": "any of the main portions in a painting or drawing that each have some unity in color, lighting, or some other quality.",
+            "examples": [
+              "the masterly distribution of masses"
+            ]
+          },
+          {
+            "definition": "the majority of.",
+            "examples": [
+              "the great mass of the population had little interest in the project"
+            ],
+            "synonyms": [
+              "majority",
+              "greater part/number",
+              "best/better part",
+              "major part",
+              "bulk",
+              "main body",
+              "lion's share; most \"the mass of our students are licensed drivers\""
+            ]
+          },
+          {
+            "definition": "the ordinary people.",
+            "examples": [
+              "plural noun: the masses"
+            ],
+            "synonyms": [
+              "common people",
+              "populace",
+              "public",
+              "people",
+              "rank and file",
+              "crowd",
+              "proletariat; Moremob; derogatoryhoi polloi",
+              "rabble",
+              "riffraff",
+              "(great) unwashed",
+              "(common) herd",
+              "proles",
+              "plebs; humoroussheeple; historicalthird estate \"bringing the news to the masses\""
+            ]
+          },
+          {
+            "definition": "the quantity of matter that a body contains, as measured by its acceleration under a given force or by the force exerted on it by a gravitational field."
+          },
+          {
+            "definition": "(in general use) weight."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "masses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "assemble or cause to assemble into a mass or as one body.",
+            "examples": [
+              "both countries began massing troops in the region"
+            ],
+            "synonyms": [
+              "assemble",
+              "marshal",
+              "gather together",
+              "muster",
+              "round up",
+              "mobilize",
+              "rally \"they began massing troops in the region\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "massé",
+    "syllables": [
+      "mas",
+      "sé"
+    ],
+    "pronunciation": "maˈsā",
+    "parts": [
+      {
+        "part": "nounBilliards",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "massés"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a stroke made with an inclined cue, imparting swerve to the ball.",
+            "examples": [
+              "a massé shot"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

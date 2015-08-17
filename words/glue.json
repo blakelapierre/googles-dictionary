@@ -1,0 +1,89 @@
+[
+  {
+    "word": "glue",
+    "syllables": [
+      "glue"
+    ],
+    "pronunciation": "ɡlo͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "glue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "glues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an adhesive substance used for sticking objects or materials together.",
+            "examples": [
+              "adhesive, fixative, gum, paste, cement; Moreepoxy, epoxy resin, size, sizing, mucilage, stickum \"a tube of glue\"Moreepoxy, epoxy resin, size, sizing, mucilage, stickum a tube of glue"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "glue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "glues"
+          },
+          {
+            "part": "past tense",
+            "variant": "glued"
+          },
+          {
+            "part": "past participle",
+            "variant": "glued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "gluing"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "glueing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten or join with or as if with glue.",
+            "examples": [
+              "the wood is cut up into small pieces which are then glued together"
+            ],
+            "synonyms": [
+              "stick",
+              "gum",
+              "paste; Moreaffix",
+              "fix",
+              "cement",
+              "bond \"the planks were glued together\""
+            ]
+          },
+          {
+            "definition": "be paying very close attention to (something, especially a television or computer screen).",
+            "examples": [
+              "I was glued to the television when the Olympics were on"
+            ],
+            "synonyms": [
+              "be riveted to",
+              "be gripped by",
+              "be hypnotized by",
+              "be mesmerized by \"she is glued to the television\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

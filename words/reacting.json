@@ -1,0 +1,63 @@
+[
+  {
+    "word": "react",
+    "syllables": [
+      "re",
+      "act"
+    ],
+    "pronunciation": "rēˈakt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "reacting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "respond or behave in a particular way in response to something.",
+            "examples": [
+              "he reacted angrily to the news of his dismissal"
+            ],
+            "synonyms": [
+              "behave",
+              "act",
+              "take it",
+              "conduct oneself; Morerespond",
+              "reply",
+              "answer \"how would he react if she told him the truth?\"rebel against",
+              "oppose",
+              "rise up against \"she reacted against the new regulations\""
+            ]
+          },
+          {
+            "definition": "respond with hostility, opposition, or a contrary course of action to.",
+            "examples": [
+              "they reacted against the elite art music of their time"
+            ]
+          },
+          {
+            "definition": "(of a person) suffer from adverse physiological effects after ingesting, breathing, or touching a substance.",
+            "examples": [
+              "many babies react to soy-based formulas"
+            ]
+          },
+          {
+            "definition": "interact and undergo a chemical or physical change.",
+            "examples": [
+              "the sulfur in the coal reacts with the limestone during combustion"
+            ]
+          },
+          {
+            "definition": "cause (a substance) to undergo a change by interacting with another substance."
+          },
+          {
+            "definition": "(of stock prices) fall or rise in reaction to events, developments, etc."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "funding",
+    "syllables": [
+      "fund",
+      "ing"
+    ],
+    "pronunciation": "ˈfəndiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "funding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "money provided, especially by an organization or government, for a particular purpose."
+          },
+          {
+            "definition": "the action or practice of providing money for a particular purpose."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fund",
+    "syllables": [
+      "fund"
+    ],
+    "pronunciation": "fənd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "funding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide with money for a particular purpose.",
+            "examples": [
+              "the World Bank refused to fund the project"
+            ],
+            "synonyms": [
+              "finance",
+              "pay for",
+              "back",
+              "capitalize",
+              "sponsor",
+              "put up the money for",
+              "subsidize",
+              "underwrite",
+              "endow",
+              "support",
+              "maintain; Moreinformalfoot the bill for",
+              "pick up the tab for",
+              "bankroll",
+              "stake \"the agency was funded by a federal grant\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

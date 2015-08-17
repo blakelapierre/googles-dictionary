@@ -1,0 +1,102 @@
+[
+  {
+    "word": "defect",
+    "syllables": [
+      "de",
+      "fect"
+    ],
+    "pronunciation": "ˈdēfekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "defect"
+          },
+          {
+            "part": "plural noun",
+            "variant": "defects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shortcoming, imperfection, or lack.",
+            "examples": [
+              "genetic defects"
+            ],
+            "synonyms": [
+              "fault",
+              "flaw",
+              "imperfection",
+              "deficiency",
+              "weakness",
+              "weak spot",
+              "inadequacy",
+              "shortcoming",
+              "limitation",
+              "failing; Morekink",
+              "deformity",
+              "blemish; mistake",
+              "error; informalglitch; bug \"he spotted a defect in my work\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "defect",
+    "syllables": [
+      "de",
+      "fect"
+    ],
+    "pronunciation": "dəˈfekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "defect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "defects"
+          },
+          {
+            "part": "past tense",
+            "variant": "defected"
+          },
+          {
+            "part": "past participle",
+            "variant": "defected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "defecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "abandon one's country or cause in favor of an opposing one.",
+            "examples": [
+              "he defected to the Soviet Union after the war"
+            ],
+            "synonyms": [
+              "desert",
+              "change sides",
+              "turn traitor",
+              "rebel",
+              "renege; Moreabscond",
+              "quit",
+              "jump ship",
+              "escape; break faith; secede from",
+              "revolt against; go AWOL; cross the floor; literaryforsake \"his chief intelligence officer defected\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

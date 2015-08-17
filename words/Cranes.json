@@ -1,0 +1,83 @@
+[
+  {
+    "word": "crane",
+    "syllables": [
+      "crane"
+    ],
+    "pronunciation": "krān",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "cranes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large, tall machine used for moving heavy objects, typically by suspending them from a projecting arm or beam.",
+            "examples": [
+              "derrick, winch, hoist, davit, windlass; block and tackle the cargo is lifted by a crane"
+            ]
+          },
+          {
+            "definition": "a moving platform supporting a television or movie camera."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "cranes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stretch out one's body or neck in order to see something.",
+            "examples": [
+              "she craned forward to look more clearly"
+            ]
+          },
+          {
+            "definition": "stretch out (one's neck) so as to see something.",
+            "examples": [
+              "craning their necks to get a glimpse of the president"
+            ]
+          },
+          {
+            "definition": "move (a heavy object) with a crane.",
+            "examples": [
+              "the wheelhouse module is craned into position on the hull"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "crane",
+    "syllables": [
+      "crane"
+    ],
+    "pronunciation": "krān",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "cranes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tall, long-legged, long-necked bird, typically with white or gray plumage and often with tail plumes and patches of bare red skin on the head. Cranes are noted for their elaborate courtship dances."
+          }
+        ]
+      }
+    ]
+  }
+]

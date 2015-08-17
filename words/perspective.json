@@ -1,0 +1,85 @@
+[
+  {
+    "word": "perspective",
+    "syllables": [
+      "per",
+      "spec",
+      "tive"
+    ],
+    "pronunciation": "pərˈspektiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "perspective"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the art of drawing solid objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other when viewed from a particular point.",
+            "examples": [
+              "a perspective drawing"
+            ]
+          },
+          {
+            "definition": "a picture drawn in perspective, especially one appearing to enlarge or extend the actual space, or to give the effect of distance."
+          },
+          {
+            "definition": "a view or prospect.",
+            "examples": [
+              "plural noun: perspectives"
+            ],
+            "synonyms": [
+              "view",
+              "vista",
+              "panorama",
+              "prospect",
+              "bird's-eye view",
+              "outlook",
+              "aspect \"a perspective of the whole valley\""
+            ]
+          },
+          {
+            "definition": "the relation of two figures in the same plane, such that pairs of corresponding points lie on concurrent lines, and corresponding lines meet in collinear points."
+          },
+          {
+            "definition": "a particular attitude toward or way of regarding something; a point of view.",
+            "examples": [
+              "most guidebook history is written from the editor's perspective"
+            ],
+            "synonyms": [
+              "outlook",
+              "view",
+              "viewpoint",
+              "point of view",
+              "POV",
+              "standpoint",
+              "position",
+              "stand",
+              "stance",
+              "angle",
+              "slant",
+              "attitude",
+              "frame of mind",
+              "frame of reference",
+              "approach",
+              "way of looking",
+              "interpretation \"her perspective on things had changed\""
+            ]
+          },
+          {
+            "definition": "true understanding of the relative importance of things; a sense of proportion.",
+            "examples": [
+              "we must keep a sense of perspective about what he's done"
+            ]
+          },
+          {
+            "definition": "an apparent spatial distribution in perceived sound."
+          }
+        ]
+      }
+    ]
+  }
+]

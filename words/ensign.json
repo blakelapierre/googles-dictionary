@@ -1,0 +1,48 @@
+[
+  {
+    "word": "ensign",
+    "syllables": [
+      "en",
+      "sign"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ensign"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ensigns"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flag or standard, especially a military or naval one indicating nationality.",
+            "examples": [
+              "flag, standard, color(s), banner, pennant, pennon, streamer, banderole the ship flew a Greek ensign"
+            ]
+          },
+          {
+            "definition": "a sign or emblem of a particular thing.",
+            "examples": [
+              "all the ensigns of our greatness"
+            ]
+          },
+          {
+            "definition": "a commissioned officer of the lowest rank in the US Navy and Coast Guard, ranking above chief warrant officer and below lieutenant."
+          },
+          {
+            "definition": "the lowest rank of commissioned infantry officer in the British army."
+          },
+          {
+            "definition": "a standard-bearer."
+          }
+        ]
+      }
+    ]
+  }
+]

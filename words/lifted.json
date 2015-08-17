@@ -1,0 +1,205 @@
+[
+  {
+    "word": "lift",
+    "syllables": [
+      "lift"
+    ],
+    "pronunciation": "lift",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "lifted"
+          },
+          {
+            "part": "past participle",
+            "variant": "lifted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "raise to a higher position or level.",
+            "examples": [
+              "he lifted his trophy over his head"
+            ],
+            "synonyms": [
+              "raise",
+              "hoist",
+              "heave",
+              "haul up",
+              "heft",
+              "raise up/aloft",
+              "elevate",
+              "hold high; Morepick up",
+              "grab",
+              "take up",
+              "scoop up",
+              "snatch up; winch up",
+              "jack up",
+              "lever up; informalhump; literaryupheave \"lift the pack onto your back\""
+            ],
+            "antonyms": [
+              "drop",
+              "put down"
+            ]
+          },
+          {
+            "definition": "move (one's eyes or face) to face upward and look at someone or something.",
+            "examples": [
+              "he lifted his eyes from the paper for an instant"
+            ]
+          },
+          {
+            "definition": "increase the volume or pitch of (one's voice).",
+            "examples": [
+              "Willie sang boldly, lifting up his voice"
+            ],
+            "synonyms": [
+              "amplify",
+              "raise",
+              "make louder",
+              "increase \"he lifted his voice\""
+            ],
+            "antonyms": [
+              "soften",
+              "quiet"
+            ]
+          },
+          {
+            "definition": "increase (a price or amount).",
+            "examples": [
+              "higher than expected oil prices lifted Oklahoma's revenue"
+            ]
+          },
+          {
+            "definition": "transport by air.",
+            "examples": [
+              "a helicopter lifted 11 crew members to safety from the ship"
+            ]
+          },
+          {
+            "definition": "hit or kick (a ball) high into the air."
+          },
+          {
+            "definition": "move upward; be raised.",
+            "examples": [
+              "Thomas's eyelids drowsily lifted"
+            ]
+          },
+          {
+            "definition": "(of a cloud, fog, etc.) move upward or away.",
+            "examples": [
+              "the factory smoke hung low, never lifted"
+            ],
+            "synonyms": [
+              "clear",
+              "rise",
+              "disperse",
+              "dissipate",
+              "disappear",
+              "vanish",
+              "dissolve \"the fog had lifted\""
+            ],
+            "antonyms": [
+              "appear"
+            ]
+          },
+          {
+            "definition": "perform cosmetic surgery on (especially the face or breasts) to reduce sagging.",
+            "examples": [
+              "surgeons lift and remove excess skin from the face and neck"
+            ]
+          },
+          {
+            "definition": "pick up and move to a different position.",
+            "examples": [
+              "he lifted her down from the pony's back"
+            ]
+          },
+          {
+            "definition": "enable (someone or something) to escape from an unpleasant situation.",
+            "examples": [
+              "two billion barrels of oil that could lift this nation out of chronic poverty"
+            ]
+          },
+          {
+            "definition": "raise (a person's spirits or confidence); encourage or cheer.",
+            "examples": [
+              "we heard inspiring talks that lifted our spirits"
+            ],
+            "synonyms": [
+              "boost",
+              "raise",
+              "buoy up",
+              "elevate",
+              "cheer up",
+              "perk up",
+              "uplift",
+              "brighten up",
+              "gladden",
+              "encourage",
+              "stimulate",
+              "revive; informalbuck up \"the news lifted his spirits\""
+            ],
+            "antonyms": [
+              "subdue"
+            ]
+          },
+          {
+            "definition": "(of a person's mood) become happier.",
+            "examples": [
+              "suddenly his heart lifted, and he could have wept with relief"
+            ]
+          },
+          {
+            "definition": "formally remove or end (a legal restriction, decision, or ban).",
+            "examples": [
+              "the European Community lifted its oil embargo against South Africa"
+            ],
+            "synonyms": [
+              "cancel",
+              "remove",
+              "withdraw",
+              "revoke",
+              "rescind",
+              "annul",
+              "void",
+              "discontinue",
+              "end",
+              "stop",
+              "terminate \"the ban has been lifted\""
+            ],
+            "antonyms": [
+              "establish",
+              "impose"
+            ]
+          },
+          {
+            "definition": "steal (something, especially a minor item of property).",
+            "examples": [
+              "the shirt she had lifted from a supermarket"
+            ]
+          },
+          {
+            "definition": "use (a person's work or ideas) without permission or acknowledgment; plagiarize.",
+            "examples": [
+              "this is a hackneyed adventure lifted straight from a vintage Lassie episode"
+            ],
+            "synonyms": [
+              "plagiarize",
+              "pirate",
+              "copy",
+              "reproduce",
+              "poach",
+              "steal; Moreinformalcrib",
+              "rip off",
+              "pinch \"he lifted sections from a 1986 article\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

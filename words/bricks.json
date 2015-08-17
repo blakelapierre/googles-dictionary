@@ -1,0 +1,84 @@
+[
+  {
+    "word": "brick",
+    "syllables": [
+      "brick"
+    ],
+    "pronunciation": "brik",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "bricks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small rectangular block typically made of fired or sun-dried clay, used in building.",
+            "examples": [
+              "block, cinder block, firebrick, adobe, clinker bricks and mortar"
+            ]
+          },
+          {
+            "definition": "bricks collectively as a building material.",
+            "examples": [
+              "this mill was built of brick"
+            ]
+          },
+          {
+            "definition": "a small, rectangular object.",
+            "examples": [
+              "a brick of ice cream"
+            ],
+            "synonyms": [
+              "block",
+              "cube",
+              "bar",
+              "cake \"a brick of ice cream\""
+            ]
+          },
+          {
+            "definition": "a large and relatively heavy cellular phone, typically an early model with limited functionality.",
+            "examples": [
+              "I had one of those Motorola bricks as my first cell phone"
+            ]
+          },
+          {
+            "definition": "a smartphone or other electronic device that has completely ceased to function.",
+            "examples": [
+              "while updating the firmware the USB cable got disconnected and the phone is now a brick"
+            ]
+          },
+          {
+            "definition": "a generous, helpful, and reliable person."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "bricks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "block or enclose with a wall of bricks.",
+            "examples": [
+              "the doors have been bricked up"
+            ]
+          },
+          {
+            "definition": "cause (a smartphone or other electronic device) to become completely unable to function, typically on a permanent basis.",
+            "examples": [
+              "installing an unofficial OS voids the warranty and may brick the phone"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

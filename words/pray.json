@@ -1,0 +1,85 @@
+[
+  {
+    "word": "pray",
+    "syllables": [
+      "pray"
+    ],
+    "pronunciation": "prā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pray"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "prays"
+          },
+          {
+            "part": "past tense",
+            "variant": "prayed"
+          },
+          {
+            "part": "past participle",
+            "variant": "prayed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "praying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "address a solemn request or expression of thanks to a deity or other object of worship.",
+            "examples": [
+              "the whole family is praying for Michael"
+            ],
+            "synonyms": [
+              "say one's prayers",
+              "make one's devotions",
+              "offer a prayer/prayers More\"let us pray\"invoke",
+              "call on",
+              "implore",
+              "appeal to",
+              "entreat",
+              "beg",
+              "petition",
+              "supplicate; literarybeseech \"she prayed God to forgive her\""
+            ]
+          },
+          {
+            "definition": "wish or hope strongly for a particular outcome or situation.",
+            "examples": [
+              "after several days of rain, we were praying for sun"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverbformalarchaic",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "pray"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used as a preface to polite requests or instructions.",
+            "examples": [
+              "pray continue"
+            ]
+          },
+          {
+            "definition": "used as a way of adding ironic or sarcastic emphasis to a question.",
+            "examples": [
+              "and what, pray, was the purpose of that?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

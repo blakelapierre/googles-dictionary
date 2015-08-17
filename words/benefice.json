@@ -1,0 +1,31 @@
+[
+  {
+    "word": "benefice",
+    "syllables": [
+      "ben",
+      "e",
+      "fice"
+    ],
+    "pronunciation": "ˈbenəfis",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "benefice"
+          },
+          {
+            "part": "plural noun",
+            "variant": "benefices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a permanent Church appointment, typically that of a rector or vicar, for which property and income are provided in respect of pastoral duties."
+          }
+        ]
+      }
+    ]
+  }
+]

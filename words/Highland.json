@@ -1,0 +1,57 @@
+[
+  {
+    "word": "highland",
+    "syllables": [
+      "high",
+      "land"
+    ],
+    "pronunciation": "ˈhīlənd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "highland"
+          },
+          {
+            "part": "plural noun",
+            "variant": "highlands"
+          },
+          {
+            "part": "plural proper noun",
+            "variant": "Highlands"
+          },
+          {
+            "part": "plural noun",
+            "variant": "the Highlands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of high or mountainous land.",
+            "examples": [
+              "the highlands of Madagascar"
+            ],
+            "synonyms": [
+              "uplands",
+              "highlands",
+              "mountains",
+              "hills",
+              "heights",
+              "moors; Moreupland",
+              "tableland",
+              "plateau \"Peru's Andean highland\""
+            ]
+          },
+          {
+            "definition": "the mountainous part of Scotland, north of Glasgow, often associated with Gaelic culture.",
+            "examples": [
+              "a Highland regiment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "word": "fetch",
+    "syllables": [
+      "fetch"
+    ],
+    "pronunciation": "feCH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fetch"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fetches"
+          },
+          {
+            "part": "past tense",
+            "variant": "fetched"
+          },
+          {
+            "part": "past participle",
+            "variant": "fetched"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fetching"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "go for and then bring back (someone or something).",
+            "examples": [
+              "he ran to fetch help"
+            ],
+            "synonyms": [
+              "(go and) get",
+              "go for",
+              "call for",
+              "summon",
+              "pick up",
+              "collect",
+              "bring",
+              "carry",
+              "convey",
+              "transport \"he went to fetch a doctor\""
+            ]
+          },
+          {
+            "definition": "bring forth (blood or tears).",
+            "examples": [
+              "kind offers fetched tears from me"
+            ]
+          },
+          {
+            "definition": "draw or take a (breath); heave (a sigh)."
+          },
+          {
+            "definition": "achieve (a particular price) when sold.",
+            "examples": [
+              "handwoven blankets and rugs that can fetch as much as $45,000"
+            ],
+            "synonyms": [
+              "sell for",
+              "bring in",
+              "raise",
+              "realize",
+              "yield",
+              "make",
+              "command",
+              "cost",
+              "be priced at; Moreinformalgo for",
+              "set one back",
+              "pull in \"the land could fetch a million dollars\""
+            ]
+          },
+          {
+            "definition": "inflict (a blow or slap) on (someone).",
+            "examples": [
+              "he always used to slam the gate and try and fetch her shins a wallop"
+            ]
+          },
+          {
+            "definition": "cause great interest or delight in (someone).",
+            "examples": [
+              "Nadine thought his deductions were good, but she was not as fetched by them as Larry was"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fetch"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fetches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the distance traveled by wind or waves across open water."
+          },
+          {
+            "definition": "the distance a vessel must sail to reach open water."
+          },
+          {
+            "definition": "a contrivance, dodge, or trick.",
+            "examples": [
+              "it is no ingenious fetches of argument that we want"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fetch",
+    "syllables": [
+      "fetch"
+    ],
+    "pronunciation": "feCH",
+    "parts": [
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fetch"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fetches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the apparition or double of a living person, formerly believed to be a warning of that person's impending death."
+          }
+        ]
+      }
+    ]
+  }
+]

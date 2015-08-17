@@ -1,0 +1,66 @@
+[
+  {
+    "word": "highlight",
+    "syllables": [
+      "high",
+      "light"
+    ],
+    "pronunciation": "ˈhīˌlīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "highlighted"
+          },
+          {
+            "part": "past participle",
+            "variant": "highlighted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pick out and emphasize.",
+            "examples": [
+              "the issues highlighted by the report"
+            ],
+            "synonyms": [
+              "spotlight",
+              "call attention to",
+              "point out",
+              "single out",
+              "focus on",
+              "underline",
+              "feature",
+              "play up",
+              "show up",
+              "bring out",
+              "accentuate",
+              "accent",
+              "give prominence to",
+              "zero in on",
+              "stress",
+              "emphasize \"he has highlighted shortcomings in the plan\""
+            ]
+          },
+          {
+            "definition": "make visually prominent.",
+            "examples": [
+              "a vast backdrop with the colorful logo highlighted with lasers"
+            ]
+          },
+          {
+            "definition": "mark with a highlighter.",
+            "examples": [
+              "a photocopy with sections highlighted in green"
+            ]
+          },
+          {
+            "definition": "create highlights in (hair)."
+          }
+        ]
+      }
+    ]
+  }
+]

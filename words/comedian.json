@@ -1,0 +1,44 @@
+[
+  {
+    "word": "comedian",
+    "syllables": [
+      "co",
+      "me",
+      "di",
+      "an"
+    ],
+    "pronunciation": "kəˈmēdēən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "comedian"
+          },
+          {
+            "part": "plural noun",
+            "variant": "comedians"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an entertainer whose act is designed to make an audience laugh.",
+            "examples": [
+              "comic, comedienne, funny man, funny woman, humorist, gagster, stand-up a famous comedian"
+            ]
+          },
+          {
+            "definition": "an amusing or entertaining person.",
+            "examples": [
+              "joker, jester, wit, wag, comic, wisecracker, jokester; Moreprankster, clown, fool, buffoon; informallaugh, hoot, riot; informal,card \"Dad was such a comedian\"Moreprankster, clown, fool, buffoon; laugh, hoot, riot; card Dad was such a comedian"
+            ]
+          },
+          {
+            "definition": "a comic actor."
+          }
+        ]
+      }
+    ]
+  }
+]

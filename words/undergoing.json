@@ -1,0 +1,48 @@
+[
+  {
+    "word": "undergo",
+    "syllables": [
+      "un",
+      "der",
+      "go"
+    ],
+    "pronunciation": "ˌəndərˈɡō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "undergoing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "experience or be subjected to (something, typically something unpleasant, painful, or arduous).",
+            "examples": [
+              "the baby underwent a life-saving brain operation"
+            ],
+            "synonyms": [
+              "go through",
+              "experience",
+              "undertake",
+              "face",
+              "submit to",
+              "be subjected to",
+              "come in for",
+              "receive",
+              "sustain",
+              "endure",
+              "brave",
+              "bear",
+              "tolerate",
+              "stand",
+              "withstand",
+              "weather \"she underwent a lengthy cross-examination\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

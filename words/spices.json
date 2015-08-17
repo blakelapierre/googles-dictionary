@@ -1,0 +1,85 @@
+[
+  {
+    "word": "spice",
+    "syllables": [
+      "spice"
+    ],
+    "pronunciation": "spīs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "spices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an aromatic or pungent vegetable substance used to flavor food, e.g., cloves, pepper, or mace.",
+            "examples": [
+              "enjoy the taste and aroma of freshly ground spices"
+            ],
+            "synonyms": [
+              "seasoning",
+              "flavoring",
+              "condiment \"the spices in curry powder\""
+            ]
+          },
+          {
+            "definition": "an element providing interest and excitement.",
+            "examples": [
+              "healthy rivalry adds spice to the game"
+            ],
+            "synonyms": [
+              "excitement",
+              "interest",
+              "color",
+              "piquancy",
+              "zest; Morean edge; informala kick; literarysalt \"the risk added spice to their affair\""
+            ]
+          },
+          {
+            "definition": "a russet color."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "spices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "flavor with spice.",
+            "examples": [
+              "turbot with a spiced sauce"
+            ]
+          },
+          {
+            "definition": "add an interesting or piquant quality to; make more exciting.",
+            "examples": [
+              "she was probably adding details to spice up the story"
+            ],
+            "synonyms": [
+              "enliven",
+              "make more exciting",
+              "vitalize",
+              "perk up",
+              "put some life into",
+              "ginger up",
+              "galvanize",
+              "electrify",
+              "boost; Moreinformalpep up",
+              "jazz up",
+              "buck up \"they spiced up the party with some wild dancing\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

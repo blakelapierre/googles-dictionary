@@ -1,0 +1,54 @@
+[
+  {
+    "word": "superficially",
+    "syllables": [
+      "su",
+      "per",
+      "fi",
+      "cial",
+      "ly"
+    ],
+    "pronunciation": "ˌso͞opərˈfiSHəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "superficially"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "as to the outward appearance only; on the surface.",
+            "examples": [
+              "the theory is superficially attractive"
+            ],
+            "synonyms": [
+              "apparently",
+              "seemingly",
+              "ostensibly",
+              "outwardly",
+              "on the surface",
+              "on the face of it",
+              "at first glance",
+              "to the casual eye \"some reptiles and amphibians are superficially alike\""
+            ]
+          },
+          {
+            "definition": "not thoroughly or deeply.",
+            "examples": [
+              "I understood the issue only superficially"
+            ]
+          },
+          {
+            "definition": "at or on the surface or skin.",
+            "examples": [
+              "he was superficially wounded in the neck"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

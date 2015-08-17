@@ -1,0 +1,39 @@
+[
+  {
+    "word": "predator",
+    "syllables": [
+      "pred",
+      "a",
+      "tor"
+    ],
+    "pronunciation": "ˈpredədər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "predators"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an animal that naturally preys on others.",
+            "examples": [
+              "wolves are major predators of rodents"
+            ]
+          },
+          {
+            "definition": "a person or group that ruthlessly exploits others.",
+            "examples": [
+              "a website frequented by sexual predators"
+            ]
+          },
+          {
+            "definition": "a company that tries to take over another."
+          }
+        ]
+      }
+    ]
+  }
+]

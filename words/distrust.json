@@ -1,0 +1,94 @@
+[
+  {
+    "word": "distrust",
+    "syllables": [
+      "dis",
+      "trust"
+    ],
+    "pronunciation": "disˈtrəst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "distrust"
+          },
+          {
+            "part": "plural noun",
+            "variant": "distrusts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the feeling that someone or something cannot be relied on.",
+            "examples": [
+              "his distrust of his mother's new suitor"
+            ],
+            "synonyms": [
+              "mistrust",
+              "suspicion",
+              "wariness",
+              "chariness",
+              "leeriness",
+              "lack of trust",
+              "lack of confidence; Moreskepticism",
+              "doubt",
+              "doubtfulness",
+              "cynicism; misgivings",
+              "qualms",
+              "disbelief; formaldubiety \"the general distrust of authority\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "distrust"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "distrusts"
+          },
+          {
+            "part": "past tense",
+            "variant": "distrusted"
+          },
+          {
+            "part": "past participle",
+            "variant": "distrusted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "distrusting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "doubt the honesty or reliability of; regard with suspicion.",
+            "examples": [
+              "like a skillful gambler, Dave distrusted a sure thing"
+            ],
+            "synonyms": [
+              "mistrust",
+              "be suspicious of",
+              "be wary/chary of",
+              "be leery of",
+              "regard with suspicion",
+              "suspect; Morebe skeptical of",
+              "have doubts about",
+              "doubt",
+              "be unsure of/about",
+              "have misgivings about",
+              "wonder about",
+              "disbelieve (in) \"Louise distrusted him\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "word": "collinear",
+    "syllables": [
+      "col",
+      "lin",
+      "e",
+      "ar"
+    ],
+    "pronunciation": "kəˈlinēərkä-",
+    "parts": [
+      {
+        "part": "adjectiveGeometry",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "collinear"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of points) lying in the same straight line."
+          }
+        ]
+      }
+    ]
+  }
+]

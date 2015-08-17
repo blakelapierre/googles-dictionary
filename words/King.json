@@ -1,0 +1,135 @@
+[
+  {
+    "word": "king",
+    "syllables": [
+      "king"
+    ],
+    "pronunciation": "kiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "king"
+          },
+          {
+            "part": "plural noun",
+            "variant": "kings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the male ruler of an independent state, especially one who inherits the position by right of birth.",
+            "examples": [
+              "King Henry VIII"
+            ],
+            "synonyms": [
+              "ruler",
+              "sovereign",
+              "monarch",
+              "crowned head",
+              "Crown",
+              "emperor",
+              "prince",
+              "potentate",
+              "lord \"the king of France\""
+            ]
+          },
+          {
+            "definition": "a person or thing regarded as the finest or most important in its sphere or group.",
+            "examples": [
+              "a country where football is king"
+            ],
+            "synonyms": [
+              "star",
+              "leading light",
+              "luminary",
+              "superstar",
+              "giant",
+              "master; Moreinformalsupremo",
+              "megastar \"the king of country music\""
+            ]
+          },
+          {
+            "definition": "(in the UK) the national anthem when there is a male sovereign.",
+            "examples": [
+              "singular proper noun: King; noun: the King"
+            ]
+          },
+          {
+            "definition": "used in names of animals and plants that are particularly large, e.g., king cobra."
+          },
+          {
+            "definition": "the most important chess piece, of which each player has one, which the opponent has to checkmate in order to win. The king can move in any direction, including diagonally, to any adjacent square that is not attacked by an opponent's piece or pawn."
+          },
+          {
+            "definition": "a piece in the game of checkers with extra capacity for moving, made by crowning an ordinary piece that has reached the opponent's baseline."
+          },
+          {
+            "definition": "a playing card bearing a representation of a king, normally ranking next below an ace."
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "king"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "kings"
+          },
+          {
+            "part": "past tense",
+            "variant": "kinged"
+          },
+          {
+            "part": "past participle",
+            "variant": "kinged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "kinging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (someone) king."
+          },
+          {
+            "definition": "act in an unpleasantly superior and domineering manner.",
+            "examples": [
+              "he kings it over the natives on his atoll"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "God Save the Queen",
+    "syllables": [
+      "God Save the Queen"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "King"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the British national anthem."
+          }
+        ]
+      }
+    ]
+  }
+]

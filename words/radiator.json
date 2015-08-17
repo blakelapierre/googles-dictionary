@@ -1,0 +1,41 @@
+[
+  {
+    "word": "radiator",
+    "syllables": [
+      "ra",
+      "di",
+      "a",
+      "tor"
+    ],
+    "pronunciation": "ˈrādēˌādər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "radiator"
+          },
+          {
+            "part": "plural noun",
+            "variant": "radiators"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that radiates or emits light, heat, or sound."
+          },
+          {
+            "definition": "a device for heating a room consisting of a metal tank connected by pipes through which hot water is pumped by a central heating system."
+          },
+          {
+            "definition": "a portable heater resembling a radiator."
+          },
+          {
+            "definition": "an engine-cooling device in a motor vehicle or aircraft consisting of a bank of thin tubes in which circulating fluid is cooled by the surrounding air."
+          }
+        ]
+      }
+    ]
+  }
+]

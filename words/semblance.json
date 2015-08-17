@@ -1,0 +1,49 @@
+[
+  {
+    "word": "semblance",
+    "syllables": [
+      "sem",
+      "blance"
+    ],
+    "pronunciation": "ˈsembləns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "semblance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "semblances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the outward appearance or apparent form of something, especially when the reality is different.",
+            "examples": [
+              "she tried to force her thoughts back into some semblance of order"
+            ],
+            "synonyms": [
+              "(outward) appearance",
+              "air",
+              "show",
+              "facade",
+              "front",
+              "veneer",
+              "guise",
+              "pretense \"there remained at least a semblance of discipline\""
+            ]
+          },
+          {
+            "definition": "resemblance; similarity.",
+            "examples": [
+              "it bears some semblance to the thing I have in mind"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

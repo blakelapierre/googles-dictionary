@@ -1,0 +1,51 @@
+[
+  {
+    "word": "bivalve",
+    "syllables": [
+      "bi",
+      "valve"
+    ],
+    "pronunciation": "ˈbīˌvalv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bivalve"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bivalves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an aquatic mollusk that has a compressed body enclosed within a hinged shell, such as oysters, clams, mussels, and scallops."
+          }
+        ]
+      },
+      {
+        "part": "adjectiveZoology",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bivalve"
+          },
+          {
+            "part": "adjective",
+            "variant": "bivalved"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a mollusk or other aquatic invertebrate) with a hinged shell."
+          },
+          {
+            "definition": "having two valves."
+          }
+        ]
+      }
+    ]
+  }
+]

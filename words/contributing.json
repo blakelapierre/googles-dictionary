@@ -1,0 +1,83 @@
+[
+  {
+    "word": "contribute",
+    "syllables": [
+      "con",
+      "trib",
+      "ute"
+    ],
+    "pronunciation": "kənˈtribyo͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "contributing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give (something, especially money) in order to help achieve or provide something.",
+            "examples": [
+              "he contributed more than $500,000 to the center"
+            ],
+            "synonyms": [
+              "give",
+              "donate",
+              "put up",
+              "subscribe",
+              "hand out",
+              "grant",
+              "bestow",
+              "present",
+              "provide",
+              "supply",
+              "furnish; Moreinformalchip in",
+              "pitch in",
+              "fork out",
+              "shell out",
+              "cough up",
+              "kick in",
+              "ante up",
+              "pony up \"the government contributed a million dollars\""
+            ]
+          },
+          {
+            "definition": "help to cause or bring about.",
+            "examples": [
+              "gases that contribute to global warming"
+            ],
+            "synonyms": [
+              "play a part in",
+              "be instrumental in",
+              "be a factor in",
+              "have a hand in",
+              "be conducive to",
+              "make for",
+              "lead to",
+              "cause \"numerous factors contribute to job satisfaction\""
+            ]
+          },
+          {
+            "definition": "supply (an article) for publication.",
+            "examples": [
+              "he contributed articles to the magazine"
+            ],
+            "synonyms": [
+              "supply",
+              "provide",
+              "submit \"an article contributed by Dr. Clouson\""
+            ]
+          },
+          {
+            "definition": "give one's views in a discussion.",
+            "examples": [
+              "he did not contribute to the meetings"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

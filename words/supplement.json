@@ -1,0 +1,53 @@
+[
+  {
+    "word": "supplement",
+    "syllables": [
+      "sup",
+      "ple",
+      "ment"
+    ],
+    "pronunciation": "ˈsəpləməntˈsəpləˌmentˈsəpləˌmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "supplement"
+          },
+          {
+            "part": "plural noun",
+            "variant": "supplements"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "supplement"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "supplements"
+          },
+          {
+            "part": "past tense",
+            "variant": "supplemented"
+          },
+          {
+            "part": "past participle",
+            "variant": "supplemented"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "supplementing"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "pretension",
+    "syllables": [
+      "pre",
+      "ten",
+      "sion"
+    ],
+    "pronunciation": "prəˈten(t)SH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pretensions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a claim or the assertion of a claim to something.",
+            "examples": [
+              "their pretensions to culture"
+            ],
+            "synonyms": [
+              "aspiration",
+              "claim",
+              "assertion",
+              "pretense",
+              "profession \"the author has no pretension to exhaustive coverage\""
+            ]
+          },
+          {
+            "definition": "an aspiration or claim to a certain status or quality.",
+            "examples": [
+              "another aging rocker with literary pretensions"
+            ]
+          },
+          {
+            "definition": "the use of affectation to impress; ostentatiousness.",
+            "examples": [
+              "he spoke simply, without pretension"
+            ],
+            "synonyms": [
+              "pretentiousness",
+              "affectation",
+              "ostentation",
+              "artificiality",
+              "airs",
+              "posing",
+              "posturing",
+              "show",
+              "flashiness; Morepomposity",
+              "pompousness",
+              "grandiosity",
+              "grandiloquence",
+              "magniloquence \"she spoke without pretension\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pretension",
+    "syllables": [
+      "pre",
+      "ten",
+      "sion"
+    ],
+    "pronunciation": "prēˈten(t)SHən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pretensions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "apply tension to (an object) before some other process or event.",
+            "examples": [
+              "the safety system pretensions the seat belts"
+            ]
+          },
+          {
+            "definition": "strengthen (reinforced concrete) by applying tension to the reinforcing rods before the concrete has set."
+          }
+        ]
+      }
+    ]
+  }
+]

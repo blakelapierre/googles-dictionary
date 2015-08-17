@@ -1,0 +1,26 @@
+[
+  {
+    "word": "soccer",
+    "syllables": [
+      "soc",
+      "cer"
+    ],
+    "pronunciation": "ˈsäkər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "soccer"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeepers. The object of the game is to score goals by kicking or heading the ball into the opponents' goal."
+          }
+        ]
+      }
+    ]
+  }
+]

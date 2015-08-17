@@ -1,0 +1,49 @@
+[
+  {
+    "word": "bedroom",
+    "syllables": [
+      "bed",
+      "room"
+    ],
+    "pronunciation": "ˈbedˌro͞omˈbedˌro͝om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bedroom"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bedrooms"
+          },
+          {
+            "part": "noun",
+            "variant": "bdrm."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a room for sleeping in.",
+            "examples": [
+              "a three-bedroom house"
+            ]
+          },
+          {
+            "definition": "relating to sexual relations.",
+            "examples": [
+              "modifier noun: bedroom"
+            ]
+          },
+          {
+            "definition": "denoting a small town or suburb whose residents travel to work in a nearby city.",
+            "examples": [
+              "a bedroom community"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

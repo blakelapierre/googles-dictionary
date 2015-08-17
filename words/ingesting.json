@@ -1,0 +1,35 @@
+[
+  {
+    "word": "ingest",
+    "syllables": [
+      "in",
+      "gest"
+    ],
+    "pronunciation": "inˈjest",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "ingesting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take (food, drink, or another substance) into the body by swallowing or absorbing it.",
+            "examples": [
+              "consume, swallow, take in, eat, devour, imbibe, drink; Moreinformalgobble up, wolf down, put away, down, inhale, scarf (down) \"you may gargle with the solution but do not ingest it\"Moregobble up, wolf down, put away, down, inhale, scarf (down) you may gargle with the solution but do not ingest it"
+            ]
+          },
+          {
+            "definition": "absorb (information).",
+            "examples": [
+              "he spent his days ingesting the contents of the library"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

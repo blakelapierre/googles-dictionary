@@ -1,0 +1,27 @@
+[
+  {
+    "word": "barrister",
+    "syllables": [
+      "bar",
+      "ris",
+      "ter"
+    ],
+    "pronunciation": "ˈberəstər",
+    "parts": [
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "barristers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a lawyer entitled to practice as an advocate, particularly in the higher courts."
+          }
+        ]
+      }
+    ]
+  }
+]

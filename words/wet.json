@@ -1,0 +1,204 @@
+[
+  {
+    "word": "wet",
+    "syllables": [
+      "wet"
+    ],
+    "pronunciation": "wet",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "wet"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "wetter"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "wettest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "covered or saturated with water or another liquid.",
+            "examples": [
+              "she followed, slipping on the wet rock"
+            ],
+            "synonyms": [
+              "damp",
+              "moist",
+              "soaked",
+              "drenched",
+              "saturated",
+              "sopping",
+              "dripping",
+              "soggy; waterlogged \"wet clothes\""
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          },
+          {
+            "definition": "(of the weather) rainy.",
+            "examples": [
+              "a wet, windy evening"
+            ],
+            "synonyms": [
+              "rainy",
+              "raining",
+              "pouring",
+              "teeming",
+              "inclement",
+              "showery",
+              "drizzly",
+              "drizzling; Moredamp; humid",
+              "muggy \"it was cold and wet\""
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          },
+          {
+            "definition": "(of paint, ink, plaster, or a similar substance) not yet having dried or hardened.",
+            "examples": [
+              "sticky, tacky; Morefresh \"the paint is still wet\"aqueous, watery, sloppy \"a wet mortar mix\"Morefresh the paint is still wetaqueous, watery, sloppy a wet mortar mix"
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          },
+          {
+            "definition": "(of a baby or young child) having urinated in its diaper or underwear."
+          },
+          {
+            "definition": "involving the use of water or liquid.",
+            "examples": [
+              "wet methods of photography"
+            ]
+          },
+          {
+            "definition": "(of a country or region or of its legislation) allowing the sale of alcoholic beverages."
+          },
+          {
+            "definition": "(of a person) addicted to alcohol."
+          },
+          {
+            "definition": "showing a lack of forcefulness or strength of character; feeble.",
+            "examples": [
+              "they thought the cadets were a bit wet"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "wet"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wets"
+          },
+          {
+            "part": "past tense",
+            "variant": "wet"
+          },
+          {
+            "part": "past participle",
+            "variant": "wet"
+          },
+          {
+            "part": "past tense",
+            "variant": "wetted"
+          },
+          {
+            "part": "past participle",
+            "variant": "wetted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "wetting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover or touch with liquid; moisten.",
+            "examples": [
+              "he wet a finger and flicked through the pages"
+            ],
+            "synonyms": [
+              "dampen",
+              "damp",
+              "moisten; Moresprinkle",
+              "spray",
+              "splash",
+              "spritz; soak",
+              "saturate",
+              "flood",
+              "douse",
+              "souse",
+              "drench \"wet the clothes before ironing them\""
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          },
+          {
+            "definition": "(especially of a baby or young child) urinate in or on.",
+            "examples": [
+              "the child wet the bed"
+            ]
+          },
+          {
+            "definition": "urinate involuntarily."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wet"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "liquid that makes something damp.",
+            "examples": [
+              "I could feel the wet of his tears"
+            ],
+            "synonyms": [
+              "wetness",
+              "damp",
+              "moisture",
+              "moistness",
+              "sogginess; wateriness \"the wet of his tears\""
+            ]
+          },
+          {
+            "definition": "rainy weather.",
+            "examples": [
+              "noun: the wet"
+            ]
+          },
+          {
+            "definition": "a person opposed to the prohibition of alcoholic beverages.",
+            "examples": [
+              "plural noun: wets"
+            ]
+          },
+          {
+            "definition": "a person lacking forcefulness or strength of character."
+          }
+        ]
+      }
+    ]
+  }
+]

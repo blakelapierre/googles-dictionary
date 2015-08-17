@@ -1,0 +1,45 @@
+[
+  {
+    "word": "subtract",
+    "syllables": [
+      "sub",
+      "tract"
+    ],
+    "pronunciation": "səbˈtrakt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "subtracting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take away (a number or amount) from another to calculate the difference.",
+            "examples": [
+              "subtract 43 from 60"
+            ],
+            "synonyms": [
+              "take away/off",
+              "deduct",
+              "debit",
+              "dock; Moreinformalknock off",
+              "minus \"we'll subtract the cost of shipping\""
+            ],
+            "antonyms": [
+              "add"
+            ]
+          },
+          {
+            "definition": "take away (something) from something else so as to decrease the size, number, or amount.",
+            "examples": [
+              "programs were added and subtracted as called for"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

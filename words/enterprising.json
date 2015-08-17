@@ -1,0 +1,55 @@
+[
+  {
+    "word": "enterprising",
+    "syllables": [
+      "en",
+      "ter",
+      "pris",
+      "ing"
+    ],
+    "pronunciation": "ˈen(t)ərˌprīziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "enterprising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing initiative and resourcefulness.",
+            "examples": [
+              "some enterprising teachers have started their own recycling programs"
+            ],
+            "synonyms": [
+              "resourceful",
+              "entrepreneurial",
+              "imaginative",
+              "ingenious",
+              "inventive",
+              "creative; Morequick-witted",
+              "clever",
+              "bright",
+              "sharp",
+              "sharp-witted; enthusiastic",
+              "dynamic",
+              "proactive",
+              "ambitious",
+              "energetic; bold",
+              "daring",
+              "courageous",
+              "adventurous; informalgo-ahead",
+              "take-charge",
+              "self-motivated \"an enterprising farmer is now charging visitors\""
+            ],
+            "antonyms": [
+              "unimaginative"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "word": "restart",
+    "syllables": [
+      "re",
+      "start"
+    ],
+    "pronunciation": "rēˈstärtˈrēstärt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "restart"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "restarts"
+          },
+          {
+            "part": "past tense",
+            "variant": "restarted"
+          },
+          {
+            "part": "past participle",
+            "variant": "restarted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "restarting"
+          },
+          {
+            "part": "verb",
+            "variant": "re-start"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "re-starts"
+          },
+          {
+            "part": "past tense",
+            "variant": "re-started"
+          },
+          {
+            "part": "past participle",
+            "variant": "re-started"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "re-starting"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "restart"
+          },
+          {
+            "part": "plural noun",
+            "variant": "restarts"
+          },
+          {
+            "part": "noun",
+            "variant": "re-start"
+          },
+          {
+            "part": "plural noun",
+            "variant": "re-starts"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

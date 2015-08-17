@@ -1,0 +1,66 @@
+[
+  {
+    "word": "gilt",
+    "syllables": [
+      "gilt"
+    ],
+    "pronunciation": "ɡilt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "gilt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "covered thinly with gold leaf or gold paint."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gilt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gold leaf or gold paint applied in a thin layer to a surface."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gilt",
+    "syllables": [
+      "gilt"
+    ],
+    "pronunciation": "ɡilt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gilt"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gilts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a young sow."
+          }
+        ]
+      }
+    ]
+  }
+]

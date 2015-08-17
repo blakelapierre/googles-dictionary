@@ -1,0 +1,39 @@
+[
+  {
+    "word": "antifreeze",
+    "syllables": [
+      "an",
+      "ti",
+      "freeze"
+    ],
+    "pronunciation": "ˈan(t)ēˌfrēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "antifreeze"
+          },
+          {
+            "part": "plural noun",
+            "variant": "antifreezes"
+          },
+          {
+            "part": "noun",
+            "variant": "anti-freeze"
+          },
+          {
+            "part": "plural noun",
+            "variant": "anti-freezes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a liquid, typically one based on ethylene glycol, which can be added to water to lower the freezing point, chiefly used in the radiator of a motor vehicle."
+          }
+        ]
+      }
+    ]
+  }
+]

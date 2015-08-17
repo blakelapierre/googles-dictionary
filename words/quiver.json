@@ -1,0 +1,124 @@
+[
+  {
+    "word": "quiver",
+    "syllables": [
+      "quiv",
+      "er"
+    ],
+    "pronunciation": "ˈkwivər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "quiver"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "quivers"
+          },
+          {
+            "part": "past tense",
+            "variant": "quivered"
+          },
+          {
+            "part": "past participle",
+            "variant": "quivered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "quivering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tremble or shake with a slight rapid motion.",
+            "examples": [
+              "the tree's branches stopped quivering"
+            ],
+            "synonyms": [
+              "tremble",
+              "shake",
+              "shiver",
+              "quaver",
+              "quake",
+              "shudder More\"I quivered with terror\"flutter",
+              "flap",
+              "beat",
+              "agitate",
+              "vibrate \"the bird quivers its wings\""
+            ]
+          },
+          {
+            "definition": "cause (something) to make a slight rapid motion.",
+            "examples": [
+              "the bird runs along in a zigzag path, quivering its wings"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "quiver"
+          },
+          {
+            "part": "plural noun",
+            "variant": "quivers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a slight trembling movement or sound, especially one caused by a sudden strong emotion.",
+            "examples": [
+              "Meredith felt a quiver of fear"
+            ],
+            "synonyms": [
+              "tremor",
+              "tremble",
+              "shake",
+              "quaver",
+              "flutter",
+              "fluctuation",
+              "waver \"a quiver in her voice\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quiver",
+    "syllables": [
+      "quiv",
+      "er"
+    ],
+    "pronunciation": "ˈkwivər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "quiver"
+          },
+          {
+            "part": "plural noun",
+            "variant": "quivers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an archer's portable case for holding arrows."
+          },
+          {
+            "definition": "a set of surfboards of different lengths and shapes for use with different types of waves."
+          }
+        ]
+      }
+    ]
+  }
+]

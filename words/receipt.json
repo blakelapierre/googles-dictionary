@@ -1,0 +1,97 @@
+[
+  {
+    "word": "receipt",
+    "syllables": [
+      "re",
+      "ceipt"
+    ],
+    "pronunciation": "rəˈsēt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "receipt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of receiving something or the fact of its being received.",
+            "examples": [
+              "I would be grateful if you would acknowledge receipt of this letter"
+            ],
+            "synonyms": [
+              "receiving",
+              "getting",
+              "obtaining",
+              "gaining; Morearrival",
+              "delivery \"the receipt of a letter\""
+            ]
+          },
+          {
+            "definition": "a written or printed statement acknowledging that something has been paid for or that goods have been received.",
+            "examples": [
+              "plural noun: receipts"
+            ],
+            "synonyms": [
+              "proof of purchase",
+              "bill",
+              "bill of sale",
+              "invoice",
+              "sales ticket \"make sure you get a receipt\""
+            ]
+          },
+          {
+            "definition": "an amount of money received during a particular period by an organization or business.",
+            "examples": [
+              "plural noun: receipts"
+            ]
+          },
+          {
+            "definition": "a recipe."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "receipt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "receipts"
+          },
+          {
+            "part": "past tense",
+            "variant": "receipted"
+          },
+          {
+            "part": "past participle",
+            "variant": "receipted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "receipting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark (a bill) as paid.",
+            "examples": [
+              "the receipted hotel bill"
+            ]
+          },
+          {
+            "definition": "write a receipt for (goods or money).",
+            "examples": [
+              "all fish shall be receipted at time of purchase"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

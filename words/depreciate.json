@@ -1,0 +1,93 @@
+[
+  {
+    "word": "depreciate",
+    "syllables": [
+      "de",
+      "pre",
+      "ci",
+      "ate"
+    ],
+    "pronunciation": "dəˈprēSHēˌāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "depreciate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "depreciates"
+          },
+          {
+            "part": "past tense",
+            "variant": "depreciated"
+          },
+          {
+            "part": "past participle",
+            "variant": "depreciated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "depreciating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "diminish in value over a period of time.",
+            "examples": [
+              "the pound is expected to depreciate against the dollar"
+            ],
+            "synonyms": [
+              "decrease in value",
+              "lose value",
+              "fall in price \"these cars will depreciate quickly\""
+            ]
+          },
+          {
+            "definition": "reduce the recorded value in a company's books of (an asset) each year over a predetermined period.",
+            "examples": [
+              "the computers would be depreciated at 50 percent per annum"
+            ],
+            "synonyms": [
+              "devalue",
+              "cheapen",
+              "reduce",
+              "lower in price",
+              "mark down",
+              "discount \"the decision to depreciate property\""
+            ]
+          },
+          {
+            "definition": "disparage or belittle (something).",
+            "examples": [
+              "she was already depreciating her own aesthetic taste"
+            ],
+            "synonyms": [
+              "belittle",
+              "disparage",
+              "denigrate",
+              "decry",
+              "deprecate",
+              "underrate",
+              "undervalue",
+              "underestimate",
+              "diminish",
+              "trivialize; Moredisdain",
+              "sneer at",
+              "scoff at",
+              "scorn; informalknock",
+              "badmouth",
+              "sell short",
+              "pooh-pooh \"they depreciate the importance of art\""
+            ],
+            "antonyms": [
+              "overrate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

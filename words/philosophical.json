@@ -1,0 +1,67 @@
+[
+  {
+    "word": "philosophical",
+    "syllables": [
+      "phil",
+      "o",
+      "soph",
+      "i",
+      "cal"
+    ],
+    "pronunciation": "ˌfiləˈsäfək(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "philosophical"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating or devoted to the study of the fundamental nature of knowledge, reality, and existence.",
+            "examples": [
+              "philosophical discussions about free will"
+            ],
+            "synonyms": [
+              "theoretical",
+              "metaphysical \"a philosophical question\""
+            ]
+          },
+          {
+            "definition": "having or showing a calm attitude toward disappointments or difficulties.",
+            "examples": [
+              "he was philosophical about losing the contract"
+            ],
+            "synonyms": [
+              "calm",
+              "composed",
+              "cool",
+              "collected",
+              "'calm",
+              "cool",
+              "and collected'",
+              "self-possessed",
+              "serene",
+              "tranquil",
+              "stoical",
+              "impassive",
+              "dispassionate",
+              "phlegmatic",
+              "unperturbed",
+              "imperturbable",
+              "unruffled",
+              "patient",
+              "forbearing",
+              "long-suffering",
+              "resigned",
+              "rational",
+              "realistic \"he was philosophical about losing the contract\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

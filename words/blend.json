@@ -1,0 +1,135 @@
+[
+  {
+    "word": "blend",
+    "syllables": [
+      "blend"
+    ],
+    "pronunciation": "blend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "blend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "blends"
+          },
+          {
+            "part": "past tense",
+            "variant": "blended"
+          },
+          {
+            "part": "past participle",
+            "variant": "blended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "blending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mix (a substance) with another substance so that they combine together as a mass.",
+            "examples": [
+              "blend the cornstarch with a tablespoon of water"
+            ],
+            "synonyms": [
+              "mix",
+              "mingle",
+              "combine",
+              "merge",
+              "fuse",
+              "meld",
+              "coalesce",
+              "integrate",
+              "intermix; Morestir",
+              "whisk",
+              "fold in; technicaladmix; literarycommingle \"blend the ingredients until smooth\""
+            ]
+          },
+          {
+            "definition": "mix (different types of the same substance, such as tea, coffee, liquor, etc.) together so as to make a product of the desired quality.",
+            "examples": [
+              "a blended whiskey"
+            ]
+          },
+          {
+            "definition": "put or combine (abstract things) together.",
+            "examples": [
+              "blend basic information for the novice with some scientific gardening for the more experienced"
+            ]
+          },
+          {
+            "definition": "merge (a color) with another so that one is not clearly distinguishable from the other."
+          },
+          {
+            "definition": "form a harmonious combination.",
+            "examples": [
+              "costumes, music, and lighting all blend together beautifully"
+            ],
+            "synonyms": [
+              "harmonize",
+              "go (well)",
+              "fit (in)",
+              "be in tune",
+              "be compatible; Morecoordinate",
+              "match",
+              "complement \"the new buildings blend with the older ones\""
+            ]
+          },
+          {
+            "definition": "be unobtrusive or harmonious by being similar in appearance or behavior.",
+            "examples": [
+              "she would have to employ a permanent bodyguard in the house, someone who would blend in"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blend"
+          },
+          {
+            "part": "plural noun",
+            "variant": "blends"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mixture of different things or qualities.",
+            "examples": [
+              "knitting yarns in mohair blends"
+            ],
+            "synonyms": [
+              "mixture",
+              "mix",
+              "combination",
+              "amalgamation",
+              "amalgam",
+              "union",
+              "marriage",
+              "fusion",
+              "meld",
+              "synthesis",
+              "concoction; technicaladmixture \"a blend of bananas",
+              "raisins",
+              "and ginger\""
+            ]
+          },
+          {
+            "definition": "a mixture of different types or grades of a substance, such as tea, coffee, whiskey, etc."
+          },
+          {
+            "definition": "a word made up of the parts of others and combining their meanings, for example motel from motor and hotel."
+          }
+        ]
+      }
+    ]
+  }
+]

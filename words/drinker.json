@@ -1,0 +1,39 @@
+[
+  {
+    "word": "drinker",
+    "syllables": [
+      "drink",
+      "er"
+    ],
+    "pronunciation": "ˈdriNGkər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "drinker"
+          },
+          {
+            "part": "plural noun",
+            "variant": "drinkers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who drinks a particular drink.",
+            "examples": [
+              "coffee drinkers"
+            ]
+          },
+          {
+            "definition": "a person who drinks alcohol, especially to excess.",
+            "examples": [
+              "a heavy drinker"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

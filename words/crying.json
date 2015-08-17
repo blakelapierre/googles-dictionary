@@ -1,0 +1,118 @@
+[
+  {
+    "word": "crying",
+    "syllables": [
+      "cry",
+      "ing"
+    ],
+    "pronunciation": "ˈkrīiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "crying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very great.",
+            "examples": [
+              "it would be a crying shame to let some other woman have it"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cry",
+    "syllables": [
+      "cry"
+    ],
+    "pronunciation": "krī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "crying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shed tears, especially as an expression of distress or pain.",
+            "examples": [
+              "don't cry—it'll be all right"
+            ],
+            "synonyms": [
+              "weep",
+              "shed tears",
+              "sob",
+              "wail",
+              "cry one's eyes out",
+              "bawl",
+              "howl",
+              "snivel",
+              "whimper",
+              "squall",
+              "mewl",
+              "bleat; Morelament",
+              "grieve",
+              "mourn",
+              "keen; informalboo-hoo",
+              "blubber",
+              "turn on the waterworks; literarypule \"Mandy started to cry\""
+            ],
+            "antonyms": [
+              "laugh"
+            ]
+          },
+          {
+            "definition": "shout or scream, especially to express one's fear, pain, or grief.",
+            "examples": [
+              "the little girl fell down and cried for her mommy"
+            ],
+            "synonyms": [
+              "call",
+              "shout",
+              "exclaim",
+              "sing out",
+              "yell",
+              "shriek",
+              "scream",
+              "screech",
+              "bawl",
+              "bellow",
+              "roar",
+              "vociferate",
+              "squeal",
+              "yelp",
+              "holler; datedejaculate \"“Wait!” he cried\""
+            ],
+            "antonyms": [
+              "whisper"
+            ]
+          },
+          {
+            "definition": "say something in an excited or anguished tone of voice.",
+            "examples": [
+              "“Where will it end?” he cried out"
+            ]
+          },
+          {
+            "definition": "(of a bird or other animal) make a loud characteristic call.",
+            "examples": [
+              "the wild birds cried out over the water"
+            ]
+          },
+          {
+            "definition": "(of a hawker) proclaim (wares) for sale in the street."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "directive",
+    "syllables": [
+      "di",
+      "rec",
+      "tive"
+    ],
+    "pronunciation": "dəˈrektiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "directive"
+          },
+          {
+            "part": "plural noun",
+            "variant": "directives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an official or authoritative instruction.",
+            "examples": [
+              "moral and ethical directives"
+            ],
+            "synonyms": [
+              "instruction",
+              "direction",
+              "command",
+              "order",
+              "charge",
+              "injunction",
+              "prescription",
+              "rule",
+              "ruling",
+              "regulation",
+              "law",
+              "dictate",
+              "decree",
+              "dictum",
+              "edict",
+              "mandate",
+              "fiat; formalordinance \"a directive from the front office\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "directive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "involving the management or guidance of operations.",
+            "examples": [
+              "he is seeking a directive role in energy policy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "word": "incur",
+    "syllables": [
+      "in",
+      "cur"
+    ],
+    "pronunciation": "inˈkər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "incurred"
+          },
+          {
+            "part": "past participle",
+            "variant": "incurred"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become subject to (something unwelcome or unpleasant) as a result of one's own behavior or actions.",
+            "examples": [
+              "I will pay any expenses incurred"
+            ],
+            "synonyms": [
+              "bring upon oneself",
+              "expose oneself to",
+              "lay oneself open to; Morerun up; attract",
+              "invite",
+              "earn",
+              "arouse",
+              "cause",
+              "give rise to",
+              "be liable/subject to",
+              "meet with",
+              "sustain",
+              "experience",
+              "contract \"it is astonishing how many expenses they incurred in just one evening\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

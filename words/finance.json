@@ -1,0 +1,100 @@
+[
+  {
+    "word": "finance",
+    "syllables": [
+      "fi",
+      "nance"
+    ],
+    "pronunciation": "ˈfīnansfəˈnans",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "finance"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the management of large amounts of money, especially by governments or large companies.",
+            "examples": [
+              "financial affairs, money matters, fiscal matters, economics, money management, commerce, business, investment he knows about finance"
+            ]
+          },
+          {
+            "definition": "monetary support for an enterprise.",
+            "examples": [
+              "housing finance"
+            ],
+            "synonyms": [
+              "funds",
+              "assets",
+              "money",
+              "capital",
+              "resources",
+              "cash",
+              "reserves",
+              "revenue",
+              "income; Morefunding",
+              "backing",
+              "sponsorship \"short-term finance\""
+            ]
+          },
+          {
+            "definition": "the monetary resources and affairs of a country, organization, or person.",
+            "examples": [
+              "plural noun: finances"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "finance"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "finances"
+          },
+          {
+            "part": "past tense",
+            "variant": "financed"
+          },
+          {
+            "part": "past participle",
+            "variant": "financed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "financing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide funding for (a person or enterprise).",
+            "examples": [
+              "the city and county originally financed the project"
+            ],
+            "synonyms": [
+              "fund",
+              "pay for",
+              "back",
+              "capitalize",
+              "endow",
+              "subsidize",
+              "invest in; Moreunderwrite",
+              "guarantee",
+              "sponsor",
+              "support",
+              "bankroll \"the project was financed by grants\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "adverbial",
+    "syllables": [
+      "ad",
+      "ver",
+      "bi",
+      "al"
+    ],
+    "pronunciation": "adˈvərbēəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "adverbial"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "like or relating to an adverb."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "adverbial"
+          },
+          {
+            "part": "plural noun",
+            "variant": "adverbials"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a word or phrase functioning like an adverb."
+          }
+        ]
+      }
+    ]
+  }
+]

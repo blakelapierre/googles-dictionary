@@ -1,0 +1,48 @@
+[
+  {
+    "word": "Phoenician",
+    "syllables": [
+      "Phoe",
+      "ni",
+      "cian"
+    ],
+    "pronunciation": "fəˈnēSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Phoenician"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Phoenicians"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of a Semitic people inhabiting ancient Phoenicia and its colonies. The Phoenicians prospered from trade and manufacturing until the capital, Tyre, was sacked by Alexander the Great in 332 BC."
+          },
+          {
+            "definition": "the Semitic language of the Phoenicians, written in an alphabet that was the ancestor of the Greek and Roman alphabets."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "Phoenician"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to Phoenicia or its colonies, or its people, language, or alphabet."
+          }
+        ]
+      }
+    ]
+  }
+]

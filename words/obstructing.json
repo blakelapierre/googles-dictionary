@@ -1,0 +1,83 @@
+[
+  {
+    "word": "obstruct",
+    "syllables": [
+      "ob",
+      "struct"
+    ],
+    "pronunciation": "əbˈstrəktäbˈstrəkt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "obstructing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "block (an opening, path, road, etc.); be or get in the way of.",
+            "examples": [
+              "she was obstructing the entrance"
+            ],
+            "synonyms": [
+              "block (up)",
+              "clog (up)",
+              "get in the way of",
+              "jam (up)",
+              "cut off",
+              "shut off",
+              "bung up",
+              "choke",
+              "dam up; Morebarricade",
+              "bar; technicalocclude \"ensure that the air vents are not obstructed\""
+            ],
+            "antonyms": [
+              "clear"
+            ]
+          },
+          {
+            "definition": "prevent or hinder (movement or someone or something in motion).",
+            "examples": [
+              "they had to alter the course of the stream and obstruct the natural flow of the water"
+            ],
+            "synonyms": [
+              "hold up",
+              "bring to a standstill",
+              "stop",
+              "halt",
+              "block \"he was charged with obstructing traffic\""
+            ]
+          },
+          {
+            "definition": "deliberately make (something) difficult.",
+            "examples": [
+              "fears that the regime would obstruct the distribution of food"
+            ],
+            "synonyms": [
+              "hold up",
+              "bring to a standstill",
+              "stop",
+              "halt",
+              "block \"he was charged with obstructing traffic\""
+            ]
+          },
+          {
+            "definition": "commit the offense of intentionally hindering (a legal process)."
+          },
+          {
+            "definition": "(in various sports) impede (a player on the opposing team) in a manner that constitutes an offense.",
+            "examples": [
+              "impede, hinder, interfere with, hamper, hobble, block, interrupt, hold up, stand in the way of, frustrate, thwart, balk, inhibit, hamstring, sabotage; Moreslow down, retard, delay, stonewall, stall, stop, halt, stay, restrict, limit, curb, put a brake on, bridle; informalstymie \"fears that the regime would obstruct the distribution of food\"Moreslow down, retard, delay, stonewall, stall, stop, halt, stay, restrict, limit, curb, put a brake on, bridle; stymie fears that the regime would obstruct the distribution of food"
+            ],
+            "antonyms": [
+              "facilitate",
+              "further"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

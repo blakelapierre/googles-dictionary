@@ -1,0 +1,80 @@
+[
+  {
+    "word": "oil",
+    "syllables": [
+      "oil"
+    ],
+    "pronunciation": "oil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "oils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a viscous liquid derived from petroleum, especially for use as a fuel or lubricant.",
+            "examples": [
+              "lubricant, lubrication, grease; Morecrude, crude oil, fuel oil, petroleum; informalblack gold; humorousTexas tea \"make sure the car has enough oil\"Morecrude, crude oil, fuel oil, petroleum; black gold; Texas tea make sure the car has enough oil"
+            ]
+          },
+          {
+            "definition": "petroleum."
+          },
+          {
+            "definition": "any of various thick, viscous, typically flammable liquids that are insoluble in water but soluble in organic solvents and are obtained from animals or plants.",
+            "examples": [
+              "potatoes fried in vegetable oil"
+            ]
+          },
+          {
+            "definition": "a liquid preparation used on the hair or skin as a cosmetic.",
+            "examples": [
+              "suntan oil"
+            ]
+          },
+          {
+            "definition": "any of a group of natural esters of glycerol and various fatty acids that are liquid at room temperature."
+          },
+          {
+            "definition": "oil paint.",
+            "examples": [
+              "a portrait in oils"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "oils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lubricate or coat (something) with oil.",
+            "examples": [
+              "a lightly oiled baking tray"
+            ],
+            "synonyms": [
+              "lubricate",
+              "grease",
+              "smear/cover/rub with oil; informallube \"I'll oil that gate for you\""
+            ]
+          },
+          {
+            "definition": "impregnate or treat (something) with oil.",
+            "examples": [
+              "her hair was heavily oiled"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "word": "orient",
+    "syllables": [
+      "o",
+      "ri",
+      "ent"
+    ],
+    "pronunciation": "ˈôrēˌəntˈôrēˌent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "singular proper noun",
+            "variant": "Orient"
+          },
+          {
+            "part": "noun",
+            "variant": "the Orient"
+          },
+          {
+            "part": "noun",
+            "variant": "orient"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the countries of Asia, especially eastern Asia."
+          },
+          {
+            "definition": "the special luster of a pearl of the finest quality."
+          },
+          {
+            "definition": "a pearl of the finest quality.",
+            "examples": [
+              "plural noun: orients"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjectiveliterary",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "orient"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "situated in or belonging to the east; oriental."
+          },
+          {
+            "definition": "(of the sun, daylight, etc.) rising."
+          },
+          {
+            "definition": "(especially of precious stones) lustrous (with reference to fine pearls from the East)."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "orient"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "orients"
+          },
+          {
+            "part": "past tense",
+            "variant": "oriented"
+          },
+          {
+            "part": "past participle",
+            "variant": "oriented"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "orienting"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "word": "season",
+    "syllables": [
+      "sea",
+      "son"
+    ],
+    "pronunciation": "ˈsēzən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "season"
+          },
+          {
+            "part": "plural noun",
+            "variant": "seasons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours, resulting from the earth's changing position with regard to the sun."
+          },
+          {
+            "definition": "a period of the year characterized by a particular climatic feature or marked by a particular activity, event, or festivity.",
+            "examples": [
+              "the rainy season"
+            ],
+            "synonyms": [
+              "period",
+              "time",
+              "time of year",
+              "spell",
+              "term \"the rainy season\""
+            ]
+          },
+          {
+            "definition": "a fixed time in the year when a particular sport is played.",
+            "examples": [
+              "basketball season is over"
+            ]
+          },
+          {
+            "definition": "the time of year when a particular fruit, vegetable, or other food is plentiful and in good condition.",
+            "examples": [
+              "the pies are made with fruit that is in season"
+            ],
+            "synonyms": [
+              "available",
+              "obtainable",
+              "to be had",
+              "on the market; Moreplentiful",
+              "abundant \"we make gallons of sauce when the local tomatoes are in season\""
+            ]
+          },
+          {
+            "definition": "a proper or suitable time.",
+            "examples": [
+              "to everything there is a season"
+            ]
+          },
+          {
+            "definition": "an indefinite or unspecified period of time; a while.",
+            "examples": [
+              "this most beautiful soul, who walked with me for a season in this world"
+            ]
+          },
+          {
+            "definition": "a period when a female mammal is ready to mate.",
+            "examples": [
+              "this system of communication works very well, especially when a female is in season"
+            ]
+          },
+          {
+            "definition": "a set or sequence of related television programs.",
+            "examples": [
+              "the first two seasons of the show"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "season"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "seasons"
+          },
+          {
+            "part": "past tense",
+            "variant": "seasoned"
+          },
+          {
+            "part": "past participle",
+            "variant": "seasoned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "seasoning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "add salt, herbs, pepper, or other spices to (food).",
+            "examples": [
+              "season the soup to taste with salt and pepper"
+            ],
+            "synonyms": [
+              "flavor",
+              "add flavoring to",
+              "add salt (and pepper) to",
+              "spice \"season the casserole to taste\""
+            ]
+          },
+          {
+            "definition": "add a quality or feature to (something), especially so as to make it more lively or exciting.",
+            "examples": [
+              "his conversation is seasoned liberally with exclamation points and punch lines"
+            ],
+            "synonyms": [
+              "enliven",
+              "leaven",
+              "spice (up)",
+              "liven up; informalpep up \"his answers were seasoned with wit\""
+            ]
+          },
+          {
+            "definition": "make (wood) suitable for use as timber by adjusting its moisture content to that of the environment in which it will be used."
+          }
+        ]
+      }
+    ]
+  }
+]

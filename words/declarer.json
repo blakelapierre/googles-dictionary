@@ -1,0 +1,31 @@
+[
+  {
+    "word": "declarer",
+    "syllables": [
+      "de",
+      "clar",
+      "er"
+    ],
+    "pronunciation": "dəˈklerər",
+    "parts": [
+      {
+        "part": "nounBridge",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "declarer"
+          },
+          {
+            "part": "plural noun",
+            "variant": "declarers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the player whose bid establishes the suit of the contract and who must therefore play both their own hand and the exposed hand of the dummy."
+          }
+        ]
+      }
+    ]
+  }
+]

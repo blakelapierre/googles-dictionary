@@ -1,0 +1,83 @@
+[
+  {
+    "word": "aim",
+    "syllables": [
+      "aim"
+    ],
+    "pronunciation": "ām",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "aiming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "point or direct (a weapon or camera) at a target.",
+            "examples": [
+              "aim the camcorder at some suitable object"
+            ],
+            "synonyms": [
+              "point",
+              "direct",
+              "train",
+              "sight",
+              "line up \"he aimed the rifle\""
+            ]
+          },
+          {
+            "definition": "direct (an object or blow) at someone or something.",
+            "examples": [
+              "she had aimed the bottle at his head"
+            ],
+            "synonyms": [
+              "take aim at",
+              "fix on",
+              "zero in on",
+              "draw a bead on \"she aimed at the target\""
+            ]
+          },
+          {
+            "definition": "direct information or an action toward (a particular group).",
+            "examples": [
+              "the TV campaign is aimed at the 16-24 age group"
+            ],
+            "synonyms": [
+              "target at",
+              "intend for",
+              "destine for",
+              "direct at",
+              "design for",
+              "tailor for",
+              "market to",
+              "pitch to/at \"this system is aimed at the home entertainment market\""
+            ]
+          },
+          {
+            "definition": "have the intention of achieving.",
+            "examples": [
+              "new French cooking aims at producing clear, fresh flavors and light textures"
+            ],
+            "synonyms": [
+              "work toward",
+              "be after",
+              "set one's sights on",
+              "try for",
+              "strive for",
+              "aspire to",
+              "endeavor to achieve; Moreformalessay for \"undergraduates aiming for a degree\"intend",
+              "mean",
+              "have in mind/view; plan",
+              "resolve",
+              "propose",
+              "design \"we aim to give you the best possible service\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "word": "ulcer",
+    "syllables": [
+      "ul",
+      "cer"
+    ],
+    "pronunciation": "ˈəlsər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ulcer"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ulcers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an open sore on an external or internal surface of the body, caused by a break in the skin or mucous membrane that fails to heal.",
+            "examples": [
+              "sore, ulceration, abscess, boil, carbuncle, blister, gumboil, cyst; Moreaphtha, chancre, furuncle \"something to soothe the ulcers in his mouth\"Moreaphtha, chancre, furuncle something to soothe the ulcers in his mouth"
+            ]
+          },
+          {
+            "definition": "a moral blemish or corrupting influence.",
+            "examples": [
+              "he's a con man with an incurable ulcer called gambling"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

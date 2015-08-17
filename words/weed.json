@@ -1,0 +1,83 @@
+[
+  {
+    "word": "weed",
+    "syllables": [
+      "weed"
+    ],
+    "pronunciation": "wēd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "weed"
+          },
+          {
+            "part": "plural noun",
+            "variant": "weeds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a wild plant growing where it is not wanted and in competition with cultivated plants."
+          },
+          {
+            "definition": "any wild plant growing in salt or fresh water."
+          },
+          {
+            "definition": "marijuana."
+          },
+          {
+            "definition": "tobacco.",
+            "examples": [
+              "noun: the weed"
+            ]
+          },
+          {
+            "definition": "a leggy, loosely built horse."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "weed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "weeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "weeded"
+          },
+          {
+            "part": "past participle",
+            "variant": "weeded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "weeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remove unwanted plants from (an area of ground or the plants cultivated in it).",
+            "examples": [
+              "I was weeding a flower bed"
+            ]
+          },
+          {
+            "definition": "remove an inferior or unwanted component of a group or collection.",
+            "examples": [
+              "we must raise the level of research and weed out the poorest work"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

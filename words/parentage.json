@@ -1,0 +1,51 @@
+[
+  {
+    "word": "parentage",
+    "syllables": [
+      "par",
+      "ent",
+      "age"
+    ],
+    "pronunciation": "ˈperən(t)ij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "parentage"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the identity and origins of one's parents.",
+            "examples": [
+              "a boy of Jamaican parentage"
+            ]
+          },
+          {
+            "definition": "the origin of something.",
+            "examples": [
+              "this ice cream boasts American parentage"
+            ],
+            "synonyms": [
+              "origins",
+              "extraction",
+              "birth",
+              "family",
+              "ancestry",
+              "lineage",
+              "pedigree",
+              "descent",
+              "blood",
+              "stock",
+              "roots",
+              "heritage",
+              "dual heritage \"Deedham was bound by tradition to marry only a woman of the finest parentage\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

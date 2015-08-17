@@ -1,0 +1,30 @@
+[
+  {
+    "word": "zygote",
+    "syllables": [
+      "zy",
+      "gote"
+    ],
+    "pronunciation": "ˈzīˌɡōt",
+    "parts": [
+      {
+        "part": "nounBiology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "zygote"
+          },
+          {
+            "part": "plural noun",
+            "variant": "zygotes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a diploid cell resulting from the fusion of two haploid gametes; a fertilized ovum."
+          }
+        ]
+      }
+    ]
+  }
+]

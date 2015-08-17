@@ -1,0 +1,41 @@
+[
+  {
+    "word": "provision",
+    "syllables": [
+      "pro",
+      "vi",
+      "sion"
+    ],
+    "pronunciation": "prəˈviZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "provisions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "supply with food, drink, or equipment, especially for a journey.",
+            "examples": [
+              "civilian contractors were responsible for provisioning these armies"
+            ]
+          },
+          {
+            "definition": "set aside an amount in an organization's accounts for a known liability.",
+            "examples": [
+              "financial institutions have to provision against loan losses"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

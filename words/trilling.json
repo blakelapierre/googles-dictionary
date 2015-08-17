@@ -1,0 +1,41 @@
+[
+  {
+    "word": "trill",
+    "syllables": [
+      "trill"
+    ],
+    "pronunciation": "tril",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "trilling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "produce a quavering or warbling sound.",
+            "examples": [
+              "a skylark was trilling overhead"
+            ],
+            "synonyms": [
+              "warble",
+              "sing",
+              "chirp",
+              "chirrup",
+              "tweet",
+              "twitter",
+              "cheep",
+              "peep \"songbirds trill their sweet music\""
+            ]
+          },
+          {
+            "definition": "pronounce (a consonant) by rapid vibration of the tongue against the hard or soft palate or the uvula."
+          }
+        ]
+      }
+    ]
+  }
+]

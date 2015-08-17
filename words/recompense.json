@@ -1,0 +1,116 @@
+[
+  {
+    "word": "recompense",
+    "syllables": [
+      "rec",
+      "om",
+      "pense"
+    ],
+    "pronunciation": "ˈrekəmˌpens",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "recompense"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "recompenses"
+          },
+          {
+            "part": "past tense",
+            "variant": "recompensed"
+          },
+          {
+            "part": "past participle",
+            "variant": "recompensed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "recompensing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make amends to (someone) for loss or harm suffered; compensate.",
+            "examples": [
+              "offenders should recompense their victims"
+            ],
+            "synonyms": [
+              "compensate",
+              "indemnify",
+              "repay",
+              "reimburse",
+              "make reparation to",
+              "make restitution to",
+              "make amends to \"offenders should recompense their victims\""
+            ]
+          },
+          {
+            "definition": "pay or reward (someone) for effort or work.",
+            "examples": [
+              "he was handsomely recompensed"
+            ],
+            "synonyms": [
+              "reward",
+              "pay back \"she wanted to recompense him\""
+            ]
+          },
+          {
+            "definition": "make amends to or reward someone for (loss, harm, or effort).",
+            "examples": [
+              "he thought his loyalty had been inadequately recompensed"
+            ],
+            "synonyms": [
+              "make up for",
+              "compensate for",
+              "make amends for",
+              "make restitution for",
+              "make reparation for",
+              "restore",
+              "redress",
+              "make good \"nothing could recompense her loss\""
+            ]
+          },
+          {
+            "definition": "punish or reward (someone) appropriately for an action.",
+            "examples": [
+              "according to their doings will he recompense them"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "recompense"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "compensation or reward given for loss or harm suffered or effort made.",
+            "examples": [
+              "substantial damages were paid in recompense"
+            ],
+            "synonyms": [
+              "compensation",
+              "reparation",
+              "restitution",
+              "indemnification",
+              "indemnity; Morereimbursement",
+              "repayment",
+              "redress; archaicguerdon \"damages were paid in recompense\""
+            ]
+          },
+          {
+            "definition": "restitution made or punishment inflicted for a wrong or injury."
+          }
+        ]
+      }
+    ]
+  }
+]

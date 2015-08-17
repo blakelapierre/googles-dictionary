@@ -1,0 +1,29 @@
+[
+  {
+    "word": "intone",
+    "syllables": [
+      "in",
+      "tone"
+    ],
+    "pronunciation": "inˈtōn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "intoning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "say or recite with little rise and fall of the pitch of the voice.",
+            "examples": [
+              "he intoned a short Latin prayer"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

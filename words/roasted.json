@@ -1,0 +1,65 @@
+[
+  {
+    "word": "roast",
+    "syllables": [
+      "roast"
+    ],
+    "pronunciation": "rōst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "roasted"
+          },
+          {
+            "part": "past participle",
+            "variant": "roasted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.",
+            "examples": [
+              "she was going to roast a leg of lamb for Sunday dinner"
+            ],
+            "synonyms": [
+              "cook",
+              "bake",
+              "grill",
+              "broil \"potatoes roasted in olive oil\""
+            ]
+          },
+          {
+            "definition": "(of food) be cooked by roasting.",
+            "examples": [
+              "she checked the meat roasting in the oven"
+            ]
+          },
+          {
+            "definition": "process (a foodstuff, metal ore, etc.) by subjecting it to intense heat.",
+            "examples": [
+              "coffee beans are roasted and ground"
+            ]
+          },
+          {
+            "definition": "make or become very warm, especially by exposure to the heat of the sun or a fire.",
+            "examples": [
+              "the fire was hot enough to roast anyone who stood close to it"
+            ]
+          },
+          {
+            "definition": "criticize or reprimand severely.",
+            "examples": [
+              "if you waste his time he'll roast you"
+            ]
+          },
+          {
+            "definition": "offer a mocking tribute to (someone) at a roast."
+          }
+        ]
+      }
+    ]
+  }
+]

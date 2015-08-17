@@ -1,0 +1,35 @@
+[
+  {
+    "word": "innards",
+    "syllables": [
+      "in",
+      "nards"
+    ],
+    "pronunciation": "ˈinərdz",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "innards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "entrails.",
+            "examples": [
+              "entrails, internal organs, viscera, intestines, bowels, guts; insides the pig's innards"
+            ]
+          },
+          {
+            "definition": "internal workings (of a device or machine).",
+            "examples": [
+              "(inner) workings, mechanism, machinery, components, parts the innards of the engine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "word": "wise",
+    "syllables": [
+      "wise"
+    ],
+    "pronunciation": "wīz",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "wise"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "wiser"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "wisest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having or showing experience, knowledge, and good judgment.",
+            "examples": [
+              "she seems kind and wise"
+            ],
+            "synonyms": [
+              "sage",
+              "sagacious",
+              "intelligent",
+              "clever",
+              "learned",
+              "knowledgeable",
+              "enlightened; Moreastute",
+              "smart",
+              "shrewd",
+              "sharp-witted",
+              "canny",
+              "knowing; sensible",
+              "prudent",
+              "discerning",
+              "discriminating",
+              "sophisticated",
+              "judicious",
+              "perceptive",
+              "insightful",
+              "perspicacious; rational",
+              "logical",
+              "sound",
+              "sane; formalsapient \"a wise old man\""
+            ],
+            "antonyms": [
+              "foolish"
+            ]
+          },
+          {
+            "definition": "responding sensibly or shrewdly to a particular situation.",
+            "examples": [
+              "it would be wise to discuss the matter with the chairman of the committee"
+            ]
+          },
+          {
+            "definition": "having knowledge in a specified subject.",
+            "examples": [
+              "families wise in the way of hurricane survival"
+            ]
+          },
+          {
+            "definition": "alert to or aware of.",
+            "examples": [
+              "at seven she was already wise to the police"
+            ],
+            "synonyms": [
+              "aware of",
+              "familiar with",
+              "acquainted with; formalcognizant of \"countless generations of local fishermen have been wise to these riptides\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "wise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wises"
+          },
+          {
+            "part": "past tense",
+            "variant": "wised"
+          },
+          {
+            "part": "past participle",
+            "variant": "wised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "wising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make wisecracks.",
+            "examples": [
+              "Jake and I would wise off to him"
+            ]
+          },
+          {
+            "definition": "become alert to or aware of something.",
+            "examples": [
+              "wise up and sort yourselves out before it's too late"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wise",
+    "syllables": [
+      "wise"
+    ],
+    "pronunciation": "wīz",
+    "parts": [
+      {
+        "part": "nounarchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wise"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the manner or extent of something.",
+            "examples": [
+              "he did it this wise"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-wise",
+    "syllables": [
+      "-wise"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-wise"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming adjectives and adverbs of manner or respect such as clockwise, otherwise."
+          },
+          {
+            "definition": "with respect to; concerning.",
+            "examples": [
+              "security-wise, there are few problems"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

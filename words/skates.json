@@ -1,0 +1,92 @@
+[
+  {
+    "word": "skate",
+    "syllables": [
+      "skate"
+    ],
+    "pronunciation": "skāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "skates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an ice skate or roller skate."
+          },
+          {
+            "definition": "a device, typically with wheels on the underside, used to move a heavy or unwieldy object."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "skates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move on ice skates or roller skates in a gliding fashion.",
+            "examples": [
+              "the boys were skating on the ice"
+            ]
+          },
+          {
+            "definition": "perform (a specified figure) on skates.",
+            "examples": [
+              "figure eights skated entirely on one foot"
+            ]
+          },
+          {
+            "definition": "ride on a skateboard."
+          },
+          {
+            "definition": "pass over or refer only fleetingly to (a subject or problem).",
+            "examples": [
+              "she seemed to skate over the next part of her story"
+            ]
+          },
+          {
+            "definition": "make quick and easy progress through.",
+            "examples": [
+              "he admits he had expected to skate through the system"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "skate",
+    "syllables": [
+      "skate"
+    ],
+    "pronunciation": "skāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "skates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a typically large marine fish of the ray family with a cartilaginous skeleton and a flattened diamond-shaped body."
+          },
+          {
+            "definition": "the flesh of a skate or thornback used as food."
+          }
+        ]
+      }
+    ]
+  }
+]

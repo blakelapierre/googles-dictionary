@@ -1,0 +1,68 @@
+[
+  {
+    "word": "cheek",
+    "syllables": [
+      "cheek"
+    ],
+    "pronunciation": "CHēk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "cheeks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "either side of the face below the eye.",
+            "examples": [
+              "tears rolled down her cheeks"
+            ]
+          },
+          {
+            "definition": "either of the inner sides of the mouth.",
+            "examples": [
+              "Sam had to bite his cheeks to keep from laughing"
+            ]
+          },
+          {
+            "definition": "either of the buttocks."
+          },
+          {
+            "definition": "either of two side pieces or parts in a structure."
+          },
+          {
+            "definition": "impertinent talk or behavior.",
+            "examples": [
+              "he had the cheek to complain"
+            ],
+            "synonyms": [
+              "impudence",
+              "cheekiness",
+              "insolence",
+              "effrontery",
+              "audacity",
+              "impertinence",
+              "cockiness; Morepresumption",
+              "presumptuousness",
+              "disrespect",
+              "flippancy",
+              "bumptiousness",
+              "brashness; rudeness",
+              "impoliteness",
+              "ill manners",
+              "gall; informalchutzpah",
+              "nerve",
+              "sauciness",
+              "sauce",
+              "sass",
+              "sassiness \"that's enough of your cheek!\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

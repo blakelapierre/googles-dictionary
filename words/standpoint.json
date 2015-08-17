@@ -1,0 +1,49 @@
+[
+  {
+    "word": "standpoint",
+    "syllables": [
+      "stand",
+      "point"
+    ],
+    "pronunciation": "ˈstan(d)ˌpoint",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "standpoint"
+          },
+          {
+            "part": "plural noun",
+            "variant": "standpoints"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an attitude to or outlook on issues, typically arising from one's circumstances or beliefs.",
+            "examples": [
+              "she writes on religion from the standpoint of a believer"
+            ],
+            "synonyms": [
+              "point of view",
+              "viewpoint",
+              "vantage point",
+              "attitude",
+              "stance",
+              "view",
+              "opinion",
+              "position",
+              "way of thinking",
+              "outlook",
+              "perspective \"she writes on religion from the standpoint of a believer\""
+            ]
+          },
+          {
+            "definition": "the position from which someone is able to view a scene or an object."
+          }
+        ]
+      }
+    ]
+  }
+]

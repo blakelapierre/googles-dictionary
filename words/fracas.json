@@ -1,0 +1,37 @@
+[
+  {
+    "word": "fracas",
+    "syllables": [
+      "fra",
+      "cas"
+    ],
+    "pronunciation": "ˈfrākəsˈfrakəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fracas"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fracas"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fracases"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a noisy disturbance or quarrel.",
+            "examples": [
+              "disturbance, brawl, melee, rumpus, skirmish, struggle, scuffle, scrum, clash, fisticuffs, altercation; Moreinformalscrap, dust-up, set-to, donnybrook; vulgar slangshitstorm \"the fracas in the alley drew the attention of a passing patrol car\"Morescrap, dust-up, set-to, donnybrook; shitstorm the fracas in the alley drew the attention of a passing patrol car"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

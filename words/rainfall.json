@@ -1,0 +1,36 @@
+[
+  {
+    "word": "rainfall",
+    "syllables": [
+      "rain",
+      "fall"
+    ],
+    "pronunciation": "ˈrānˌfôl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rainfall"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rainfalls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fall of rain."
+          },
+          {
+            "definition": "the quantity of rain falling within a given area in a given time.",
+            "examples": [
+              "low rainfall"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

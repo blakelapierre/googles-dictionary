@@ -1,0 +1,50 @@
+[
+  {
+    "word": "abnormality",
+    "syllables": [
+      "ab",
+      "nor",
+      "mal",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌabnôrˈmalədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "abnormality"
+          },
+          {
+            "part": "plural noun",
+            "variant": "abnormalities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an abnormal feature, characteristic, or occurrence, typically in a medical context.",
+            "examples": [
+              "a chromosome abnormality"
+            ],
+            "synonyms": [
+              "malformation",
+              "deformity",
+              "irregularity",
+              "flaw",
+              "defect",
+              "anomaly \"born with a heart abnormality\""
+            ]
+          },
+          {
+            "definition": "the quality or state of being abnormal.",
+            "examples": [
+              "unusualness, uncommonness, atypicality, irregularity, anomalousness, deviation, divergence, aberrance, aberration, freakishness; Morestrangeness, oddness, peculiarity, unexpectedness, singularity \"the abnormality of such behavior\"Morestrangeness, oddness, peculiarity, unexpectedness, singularity the abnormality of such behavior"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

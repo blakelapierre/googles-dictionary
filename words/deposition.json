@@ -1,0 +1,70 @@
+[
+  {
+    "word": "deposition",
+    "syllables": [
+      "dep",
+      "o",
+      "si",
+      "tion"
+    ],
+    "pronunciation": "ˌdepəˈziSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "deposition"
+          },
+          {
+            "part": "plural noun",
+            "variant": "depositions"
+          },
+          {
+            "part": "noun",
+            "variant": "Deposition"
+          },
+          {
+            "part": "noun",
+            "variant": "the Deposition"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of deposing someone, especially a monarch.",
+            "examples": [
+              "Edward V's deposition"
+            ]
+          },
+          {
+            "definition": "the process of giving sworn evidence.",
+            "examples": [
+              "the deposition of four expert witnesses"
+            ]
+          },
+          {
+            "definition": "a formal, usually written, statement to be used as evidence.",
+            "examples": [
+              "statement, affidavit, attestation, affirmation, assertion; Moreallegation, declaration; testimony, evidence; rareasseveration \"depositions from witnesses\"Moreallegation, declaration; testimony, evidence; asseveration depositions from witnesses"
+            ]
+          },
+          {
+            "definition": "the action of depositing something.",
+            "examples": [
+              "pebbles formed by the deposition of calcium in solution"
+            ],
+            "synonyms": [
+              "depositing",
+              "accumulation",
+              "buildup",
+              "precipitation \"the deposition of calcium\""
+            ]
+          },
+          {
+            "definition": "the taking down of the body of Jesus Christ from the Cross."
+          }
+        ]
+      }
+    ]
+  }
+]

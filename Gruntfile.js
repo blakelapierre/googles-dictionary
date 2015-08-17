@@ -9,7 +9,6 @@ module.exports = function(grunt) {
       options: {
         modules: 'commonjs',
         sourceMaps: true,
-        includeRuntime: true,
         generators: 'parse'
       },
       src: {

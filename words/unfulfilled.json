@@ -1,0 +1,33 @@
+[
+  {
+    "word": "unfulfilled",
+    "syllables": [
+      "un",
+      "ful",
+      "filled"
+    ],
+    "pronunciation": "ˌənfo͝o(l)ˈfild",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unfulfilled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not carried out or brought to completion.",
+            "examples": [
+              "it was his unfulfilled ambition to write"
+            ]
+          },
+          {
+            "definition": "not having fully utilized or exploited one's abilities or character."
+          }
+        ]
+      }
+    ]
+  }
+]

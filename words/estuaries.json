@@ -1,0 +1,31 @@
+[
+  {
+    "word": "estuary",
+    "syllables": [
+      "es",
+      "tu",
+      "ar",
+      "y"
+    ],
+    "pronunciation": "ˈesCHəˌwerē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "estuaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the tidal mouth of a large river, where the tide meets the stream.",
+            "examples": [
+              "(river) mouth, delta; Morearchaicembouchure, debouchure, debouchment, discharge, disemboguement \"we paddled down the estuary, observing herons and ospreys\"Moreembouchure, debouchure, debouchment, discharge, disemboguement we paddled down the estuary, observing herons and ospreys"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

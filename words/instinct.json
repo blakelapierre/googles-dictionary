@@ -1,0 +1,36 @@
+[
+  {
+    "word": "instinct",
+    "syllables": [
+      "in",
+      "stinct"
+    ],
+    "pronunciation": "ˈinstiNG(k)tinˈstiNGkt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "instinct"
+          },
+          {
+            "part": "plural noun",
+            "variant": "instincts"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjectiveformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "instinct"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

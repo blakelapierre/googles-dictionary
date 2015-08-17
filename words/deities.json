@@ -1,0 +1,54 @@
+[
+  {
+    "word": "deity",
+    "syllables": [
+      "de",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˈdēədēˈdāədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "deities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a god or goddess (in a polytheistic religion).",
+            "examples": [
+              "a deity of ancient Greece"
+            ],
+            "synonyms": [
+              "god",
+              "goddess",
+              "divine being",
+              "supreme being",
+              "divinity",
+              "immortal; Morecreator",
+              "demiurge; godhead \"the deities of ancient Greece\""
+            ]
+          },
+          {
+            "definition": "divine status, quality, or nature.",
+            "examples": [
+              "a ruler driven by delusions of deity"
+            ]
+          },
+          {
+            "definition": "the creator and supreme being (in a monotheistic religion such as Christianity).",
+            "examples": [
+              "noun: Deity; noun: the Deity"
+            ]
+          },
+          {
+            "definition": "a representation of a god or goddess, such as a statue or carving."
+          }
+        ]
+      }
+    ]
+  }
+]

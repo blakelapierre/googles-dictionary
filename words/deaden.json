@@ -1,0 +1,101 @@
+[
+  {
+    "word": "deaden",
+    "syllables": [
+      "dead",
+      "en"
+    ],
+    "pronunciation": "ˈdedn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deaden"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deadens"
+          },
+          {
+            "part": "past tense",
+            "variant": "deadened"
+          },
+          {
+            "part": "past participle",
+            "variant": "deadened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deadening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a noise or sensation) less intense.",
+            "examples": [
+              "ether was used to deaden the pain"
+            ],
+            "synonyms": [
+              "numb",
+              "dull",
+              "blunt",
+              "suppress; Morealleviate",
+              "mitigate",
+              "diminish",
+              "reduce",
+              "lessen",
+              "ease",
+              "soothe",
+              "relieve",
+              "assuage",
+              "kill \"surgeons tried to deaden the pain\"muffle",
+              "mute",
+              "smother",
+              "stifle",
+              "dull",
+              "dampen; silence",
+              "quieten",
+              "soften; cushion",
+              "buffer",
+              "absorb \"the wood paneling deadened any noise\""
+            ],
+            "antonyms": [
+              "intensify",
+              "amplify"
+            ]
+          },
+          {
+            "definition": "deprive of the power of sensation.",
+            "examples": [
+              "diabetes can deaden the nerve endings"
+            ],
+            "synonyms": [
+              "desensitize",
+              "numb",
+              "anesthetize; Moreharden (one's heart)",
+              "toughen",
+              "inure \"laughing might deaden us to the moral issue\""
+            ],
+            "antonyms": [
+              "sensitize"
+            ]
+          },
+          {
+            "definition": "deprive of force or vitality; stultify.",
+            "examples": [
+              "the syllabus has deadened the teaching process"
+            ]
+          },
+          {
+            "definition": "make (someone) insensitive to something.",
+            "examples": [
+              "laughter might deaden us to the moral issue"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

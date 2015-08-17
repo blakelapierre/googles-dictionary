@@ -1,0 +1,62 @@
+[
+  {
+    "word": "pollute",
+    "syllables": [
+      "pol",
+      "lute"
+    ],
+    "pronunciation": "pəˈlo͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "polluted"
+          },
+          {
+            "part": "past participle",
+            "variant": "polluted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "contaminate (water, air, or a place) with harmful or poisonous substances.",
+            "examples": [
+              "the explosion polluted the town with dioxin"
+            ],
+            "synonyms": [
+              "contaminate",
+              "adulterate",
+              "taint",
+              "poison",
+              "foul",
+              "dirty",
+              "soil",
+              "infect; literarybefoul \"fish farms will pollute the lake\""
+            ],
+            "antonyms": [
+              "purify"
+            ]
+          },
+          {
+            "definition": "defile; corrupt.",
+            "examples": [
+              "a society polluted by racism"
+            ],
+            "synonyms": [
+              "corrupt",
+              "poison",
+              "warp",
+              "pervert",
+              "deprave",
+              "defile",
+              "blight",
+              "sully; literarybesmirch \"propaganda polluted this nation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

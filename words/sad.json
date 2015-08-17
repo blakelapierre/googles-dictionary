@@ -1,0 +1,132 @@
+[
+  {
+    "word": "sad",
+    "syllables": [
+      "sad"
+    ],
+    "pronunciation": "sad",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sad"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "sadder"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "saddest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feeling or showing sorrow; unhappy.",
+            "examples": [
+              "I was sad and subdued"
+            ],
+            "synonyms": [
+              "unhappy",
+              "sorrowful",
+              "dejected",
+              "depressed",
+              "downcast",
+              "miserable",
+              "down",
+              "despondent",
+              "despairing",
+              "disconsolate",
+              "desolate",
+              "wretched",
+              "glum",
+              "gloomy",
+              "doleful",
+              "dismal",
+              "melancholy",
+              "mournful",
+              "woebegone",
+              "forlorn",
+              "crestfallen",
+              "heartbroken",
+              "inconsolable; Moreinformalblue",
+              "down in/at the mouth",
+              "down in the dumps",
+              "blah \"we felt sad when we left\""
+            ],
+            "antonyms": [
+              "happy",
+              "cheerful"
+            ]
+          },
+          {
+            "definition": "causing or characterized by sorrow or regret; unfortunate and regrettable.",
+            "examples": [
+              "he told her the sad story of his life"
+            ],
+            "synonyms": [
+              "tragic",
+              "unhappy",
+              "unfortunate",
+              "awful",
+              "miserable",
+              "wretched",
+              "sorry",
+              "pitiful",
+              "pathetic",
+              "traumatic",
+              "heartbreaking",
+              "heart-rending",
+              "harrowing More\"they knew her sad story\"unfortunate",
+              "regrettable",
+              "sorry",
+              "deplorable",
+              "lamentable",
+              "pitiful",
+              "shameful",
+              "disgraceful \"a sad state of affairs\""
+            ],
+            "antonyms": [
+              "cheerful",
+              "fortunate"
+            ]
+          },
+          {
+            "definition": "pathetically inadequate or unfashionable.",
+            "examples": [
+              "the show is tongue-in-cheek—anyone who takes it seriously is a bit sad"
+            ]
+          },
+          {
+            "definition": "(of dough) heavy through having failed to rise."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "SAD",
+    "syllables": [
+      "SAD"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "SAD"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "seasonal affective disorder."
+          }
+        ]
+      }
+    ]
+  }
+]

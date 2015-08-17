@@ -1,0 +1,117 @@
+[
+  {
+    "word": "pace",
+    "syllables": [
+      "pace"
+    ],
+    "pronunciation": "pās",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "paces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a single step taken when walking or running.",
+            "examples": [
+              "step, stride he stepped back a pace"
+            ]
+          },
+          {
+            "definition": "a unit of length representing the distance between two successive steps in walking."
+          },
+          {
+            "definition": "a gait of a horse or other animal, especially one of the recognized trained gaits of a horse."
+          },
+          {
+            "definition": "a person's manner of walking or running.",
+            "examples": [
+              "I steal with quiet pace"
+            ],
+            "synonyms": [
+              "gait",
+              "stride",
+              "walk",
+              "march \"a slow",
+              "steady pace\""
+            ]
+          },
+          {
+            "definition": "consistent and continuous speed in walking, running, or moving.",
+            "examples": [
+              "most traffic moved at the pace of the riverboat"
+            ],
+            "synonyms": [
+              "speed",
+              "rate",
+              "velocity; Moreinformalclip",
+              "lick \"he drove home at a furious pace\""
+            ]
+          },
+          {
+            "definition": "the speed or rate at which something happens, changes, or develops.",
+            "examples": [
+              "the children work separately in the classroom at their own pace"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "paces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "walk at a steady and consistent speed, especially back and forth and as an expression of one's anxiety or annoyance.",
+            "examples": [
+              "we paced up and down in exasperation"
+            ],
+            "synonyms": [
+              "walk",
+              "stride",
+              "tread",
+              "march",
+              "pound",
+              "patrol \"she paced up and down\""
+            ]
+          },
+          {
+            "definition": "measure (a distance) by walking it and counting the number of steps taken.",
+            "examples": [
+              "I paced out the dimensions of my new home"
+            ]
+          },
+          {
+            "definition": "lead (another runner in a race) in order to establish a competitive speed.",
+            "examples": [
+              "Morales paced us for four miles"
+            ]
+          },
+          {
+            "definition": "do something at a slow and steady rate or speed in order to avoid overexerting oneself.",
+            "examples": [
+              "Frank was pacing himself for the long night and day ahead"
+            ]
+          },
+          {
+            "definition": "move or develop (something) at a particular rate or speed.",
+            "examples": [
+              "the action is paced to the beat of a perky march"
+            ]
+          },
+          {
+            "definition": "(of a horse) move in a distinctive lateral gait in which both legs on the same side are lifted together, seen mostly in specially bred or trained horses."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "word": "mayor",
+    "syllables": [
+      "may",
+      "or"
+    ],
+    "pronunciation": "ˈmāər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mayor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mayors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the elected head of a city, town, or other municipality."
+          },
+          {
+            "definition": "the titular head of a municipality that is administered by a city manager."
+          }
+        ]
+      }
+    ]
+  }
+]

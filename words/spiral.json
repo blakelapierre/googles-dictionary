@@ -1,0 +1,200 @@
+[
+  {
+    "word": "spiral",
+    "syllables": [
+      "spi",
+      "ral"
+    ],
+    "pronunciation": "ˈspīrəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "spiral"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "winding in a continuous and gradually widening (or tightening) curve, either around a central point on a flat plane or about an axis so as to form a cone.",
+            "examples": [
+              "a spiral pattern"
+            ]
+          },
+          {
+            "definition": "winding in a continuous curve of constant diameter about a central axis, as though along a cylinder; helical.",
+            "examples": [
+              "coiled, helical, corkscrew, curling, winding, twisting, whorled; Moretechnicalvoluted, helicoid, helicoidal \"a spiral column of smoke\"Morevoluted, helicoid, helicoidal a spiral column of smoke"
+            ]
+          },
+          {
+            "definition": "(of a staircase) constantly turning in one direction as it rises, around a solid or open center."
+          },
+          {
+            "definition": "(of a fracture) curving around a long bone lengthwise."
+          },
+          {
+            "definition": "short for spiral-bound.",
+            "examples": [
+              "a spiral notebook"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spiral"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spirals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a spiral curve, shape, or pattern.",
+            "examples": [
+              "he spotted a spiral of smoke"
+            ],
+            "synonyms": [
+              "coil",
+              "helix",
+              "corkscrew",
+              "curl",
+              "twist",
+              "gyre",
+              "whorl",
+              "scroll; Moretechnicalvolute",
+              "volution \"a spiral of smoke\""
+            ]
+          },
+          {
+            "definition": "a spiral spring."
+          },
+          {
+            "definition": "short for spiral galaxy."
+          },
+          {
+            "definition": "a progressive rise or fall of prices, wages, etc., each responding to an upward or downward stimulus provided by a previous one.",
+            "examples": [
+              "an inflationary spiral"
+            ]
+          },
+          {
+            "definition": "a process of deterioration through the continuous increase or decrease of a specified feature.",
+            "examples": [
+              "a downward spiral of sex and drink"
+            ]
+          },
+          {
+            "definition": "a pass or kick that moves smoothly through the air while spinning on its long axis."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "spiral"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "spirals"
+          },
+          {
+            "part": "past tense",
+            "variant": "spiralled"
+          },
+          {
+            "part": "past participle",
+            "variant": "spiralled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spiralling"
+          },
+          {
+            "part": "past tense",
+            "variant": "spiraled"
+          },
+          {
+            "part": "past participle",
+            "variant": "spiraled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spiraling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move in a spiral course.",
+            "examples": [
+              "a wisp of smoke spiraled up from the trees"
+            ],
+            "synonyms": [
+              "coil",
+              "wind",
+              "swirl",
+              "twist",
+              "wreathe",
+              "snake",
+              "gyrate; literarygyre \"smoke spiraled up\""
+            ]
+          },
+          {
+            "definition": "cause to have a spiral shape or follow a spiral course.",
+            "examples": [
+              "spiral the bandage around the injured limb"
+            ]
+          },
+          {
+            "definition": "show a continuous and dramatic increase.",
+            "examples": [
+              "inflation continued to spiral"
+            ],
+            "synonyms": [
+              "soar",
+              "shoot up",
+              "rocket",
+              "increase rapidly",
+              "rise rapidly",
+              "escalate",
+              "climb; Moreinformalskyrocket",
+              "go through the roof \"prices spiraled\""
+            ],
+            "antonyms": [
+              "fall"
+            ]
+          },
+          {
+            "definition": "decrease or deteriorate continuously.",
+            "examples": [
+              "he expects the figures to spiral down further"
+            ],
+            "synonyms": [
+              "deteriorate",
+              "decline",
+              "degenerate",
+              "worsen",
+              "get worse; Moreinformalgo downhill",
+              "take a nosedive",
+              "go to pot",
+              "go to the dogs",
+              "hit the skids",
+              "go down the tubes \"the economy is spiraling downward\""
+            ],
+            "antonyms": [
+              "improve"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

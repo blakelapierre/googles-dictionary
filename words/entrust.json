@@ -1,0 +1,74 @@
+[
+  {
+    "word": "entrust",
+    "syllables": [
+      "en",
+      "trust"
+    ],
+    "pronunciation": "ənˈtrəst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "entrust"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "entrusts"
+          },
+          {
+            "part": "past tense",
+            "variant": "entrusted"
+          },
+          {
+            "part": "past participle",
+            "variant": "entrusted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "entrusting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "assign the responsibility for doing something to (someone).",
+            "examples": [
+              "I've been entrusted with the task of getting him safely back"
+            ],
+            "synonyms": [
+              "charge",
+              "invest",
+              "endow; Moreburden",
+              "encumber",
+              "saddle \"he was entrusted with the task\"assign to",
+              "confer on",
+              "bestow on",
+              "vest in",
+              "consign to; delegate to",
+              "depute to",
+              "devolve to; give to",
+              "grant to",
+              "vouchsafe to \"the powers entrusted to the treasury department\""
+            ]
+          },
+          {
+            "definition": "put (something) into someone's care or protection.",
+            "examples": [
+              "you persuade people to entrust their savings to you"
+            ],
+            "synonyms": [
+              "hand over",
+              "give custody of",
+              "turn over",
+              "commit",
+              "consign",
+              "deliver; formalcommend \"she entrusted them to the hospital\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

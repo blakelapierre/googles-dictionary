@@ -1,0 +1,92 @@
+[
+  {
+    "word": "thirst",
+    "syllables": [
+      "thirst"
+    ],
+    "pronunciation": "THərst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "thirst"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of needing or wanting to drink something.",
+            "examples": [
+              "they quenched their thirst with spring water"
+            ],
+            "synonyms": [
+              "thirstiness",
+              "dryness; dehydration \"I need a drink—I'm dying of thirst\""
+            ]
+          },
+          {
+            "definition": "lack of the liquid needed to sustain life.",
+            "examples": [
+              "tens of thousands died of thirst and starvation"
+            ]
+          },
+          {
+            "definition": "a strong desire for something.",
+            "examples": [
+              "plural noun: thirsts"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "thirst"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "thirsts"
+          },
+          {
+            "part": "past tense",
+            "variant": "thirsted"
+          },
+          {
+            "part": "past participle",
+            "variant": "thirsted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "thirsting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or animal) feel a need to drink something."
+          },
+          {
+            "definition": "have a strong desire for something.",
+            "examples": [
+              "an opponent thirsting for revenge"
+            ],
+            "synonyms": [
+              "crave",
+              "want",
+              "covet",
+              "desire",
+              "hunger for",
+              "burn for",
+              "lust after",
+              "hanker after",
+              "have one's heart set on; Morewish",
+              "long \"she thirsted for power\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

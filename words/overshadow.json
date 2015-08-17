@@ -1,0 +1,93 @@
+[
+  {
+    "word": "overshadow",
+    "syllables": [
+      "o",
+      "ver",
+      "shad",
+      "ow"
+    ],
+    "pronunciation": "ˌōvərˈSHadō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "overshadow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "overshadows"
+          },
+          {
+            "part": "past tense",
+            "variant": "overshadowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "overshadowed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "overshadowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tower above and cast a shadow over.",
+            "examples": [
+              "an enormous oak tree stood overshadowing the cottage"
+            ],
+            "synonyms": [
+              "cast a shadow over",
+              "shade",
+              "darken",
+              "conceal",
+              "obscure",
+              "screen; Moredominate",
+              "overlook \"a massive hill overshadows the town\""
+            ]
+          },
+          {
+            "definition": "cast a gloom over.",
+            "examples": [
+              "it is easy to let this feeling of tragedy overshadow his story"
+            ],
+            "synonyms": [
+              "cast gloom over",
+              "blight",
+              "take the edge off",
+              "mar",
+              "spoil",
+              "ruin \"this feeling of tragedy overshadowed his story\""
+            ]
+          },
+          {
+            "definition": "appear much more prominent or important than.",
+            "examples": [
+              "his competitive nature often overshadows the other qualities"
+            ]
+          },
+          {
+            "definition": "be more impressive or successful than (another person).",
+            "examples": [
+              "he was always overshadowed by his brilliant elder brother"
+            ],
+            "synonyms": [
+              "outshine",
+              "eclipse",
+              "surpass",
+              "exceed",
+              "be superior to",
+              "outclass",
+              "outstrip",
+              "outdo",
+              "upstage; informalbe head and shoulders above \"he was overshadowed by his brilliant elder brother\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

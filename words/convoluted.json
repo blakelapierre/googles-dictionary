@@ -1,0 +1,83 @@
+[
+  {
+    "word": "convoluted",
+    "syllables": [
+      "con",
+      "vo",
+      "lut",
+      "ed"
+    ],
+    "pronunciation": "ˈkänvəˌlo͞odəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "convoluted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of an argument, story, or sentence) extremely complex and difficult to follow.",
+            "examples": [
+              "its convoluted narrative encompasses all manner of digressions"
+            ],
+            "synonyms": [
+              "complicated",
+              "complex",
+              "involved",
+              "elaborate",
+              "serpentine",
+              "labyrinthine",
+              "tortuous",
+              "tangled",
+              "Byzantine; MoreRube Goldberg; confused",
+              "confusing",
+              "bewildering",
+              "baffling \"his convoluted answers did nothing to help his credibility\""
+            ],
+            "antonyms": [
+              "straightforward"
+            ]
+          },
+          {
+            "definition": "intricately folded, twisted, or coiled.",
+            "examples": [
+              "walnuts come in hard and convoluted shells"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "convolute",
+    "syllables": [
+      "con",
+      "vo",
+      "lute"
+    ],
+    "pronunciation": "ˈkänvəˌlo͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "convoluted"
+          },
+          {
+            "part": "past participle",
+            "variant": "convoluted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (an argument, story, etc.) complex and difficult to follow."
+          }
+        ]
+      }
+    ]
+  }
+]

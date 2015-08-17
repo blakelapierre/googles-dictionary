@@ -1,0 +1,80 @@
+[
+  {
+    "word": "regulation",
+    "syllables": [
+      "reg",
+      "u",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌreɡ(y)əˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "regulations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rule or directive made and maintained by an authority.",
+            "examples": [
+              "planning regulations"
+            ],
+            "synonyms": [
+              "rule",
+              "ruling",
+              "order",
+              "directive",
+              "act",
+              "law",
+              "bylaw",
+              "statute",
+              "edict",
+              "canon",
+              "pronouncement",
+              "dictate",
+              "dictum",
+              "decree",
+              "fiat",
+              "command",
+              "precept \"they obey all the regulations\""
+            ]
+          },
+          {
+            "definition": "in accordance with regulations; of the correct type.",
+            "examples": [
+              "modifier noun: regulation"
+            ]
+          },
+          {
+            "definition": "of a familiar or predictable type; formulaic; standardized.",
+            "examples": [
+              "a regulation Western parody"
+            ]
+          },
+          {
+            "definition": "the action or process of regulating or being regulated.",
+            "examples": [
+              "the regulation of financial markets"
+            ],
+            "synonyms": [
+              "adjustment",
+              "control",
+              "management",
+              "balancing More\"the regulation of blood sugar\"supervision",
+              "policing",
+              "superintendence",
+              "monitoring",
+              "inspection; control",
+              "management",
+              "ordering \"the regulation of financial services\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

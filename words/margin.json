@@ -1,0 +1,142 @@
+[
+  {
+    "word": "margin",
+    "syllables": [
+      "mar",
+      "gin"
+    ],
+    "pronunciation": "ˈmärjən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "margin"
+          },
+          {
+            "part": "plural noun",
+            "variant": "margins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the edge or border of something.",
+            "examples": [
+              "the eastern margin of the Indian Ocean"
+            ],
+            "synonyms": [
+              "edge",
+              "side",
+              "verge",
+              "border",
+              "perimeter",
+              "brink",
+              "brim",
+              "rim",
+              "fringe",
+              "boundary",
+              "limits",
+              "periphery",
+              "bound",
+              "extremity; Moreliterarybourn",
+              "skirt \"the margin of the lake\""
+            ]
+          },
+          {
+            "definition": "the blank border on each side of the print on a page.",
+            "examples": [
+              "leeway, latitude, scope, room, room to maneuver, space, allowance, extra, surplus there's no margin for error"
+            ]
+          },
+          {
+            "definition": "a line ruled on paper to mark off a margin."
+          },
+          {
+            "definition": "an amount by which a thing is won or falls short.",
+            "examples": [
+              "they won by a convincing 17-point margin"
+            ],
+            "synonyms": [
+              "gap",
+              "majority",
+              "amount",
+              "difference \"they won by a narrow margin\""
+            ]
+          },
+          {
+            "definition": "an amount of something included so as to be sure of success or safety.",
+            "examples": [
+              "there was no margin for error"
+            ],
+            "synonyms": [
+              "leeway",
+              "latitude",
+              "scope",
+              "room",
+              "room to maneuver",
+              "space",
+              "allowance",
+              "extra",
+              "surplus \"there's no margin for error\""
+            ]
+          },
+          {
+            "definition": "the lower limit of possibility, success, etc.",
+            "examples": [
+              "the lighting is considerably brighter than before but is still at the margins of acceptability"
+            ]
+          },
+          {
+            "definition": "a profit margin."
+          },
+          {
+            "definition": "a sum deposited with a broker to cover the risk of loss on a transaction or account."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "margin"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "margins"
+          },
+          {
+            "part": "past tense",
+            "variant": "margined"
+          },
+          {
+            "part": "past participle",
+            "variant": "margined"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "margining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide with an edge or border.",
+            "examples": [
+              "its leaves are margined with yellow"
+            ]
+          },
+          {
+            "definition": "annotate or summarize (a text) in the margins."
+          },
+          {
+            "definition": "deposit an amount of money with a broker as security for (an account or transaction).",
+            "examples": [
+              "a margined transaction"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

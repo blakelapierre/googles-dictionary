@@ -1,0 +1,134 @@
+[
+  {
+    "word": "grasping",
+    "syllables": [
+      "grasp",
+      "ing"
+    ],
+    "pronunciation": "ˈɡraspiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "grasping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "greedy; avaricious.",
+            "examples": [
+              "grasping, power-hungry individuals"
+            ],
+            "synonyms": [
+              "avaricious",
+              "acquisitive",
+              "greedy",
+              "rapacious",
+              "mercenary",
+              "materialistic; Moremean",
+              "miserly",
+              "parsimonious",
+              "niggardly",
+              "hoarding",
+              "selfish",
+              "possessive",
+              "close; informaltightfisted",
+              "tight",
+              "stingy",
+              "money-grubbing",
+              "cheap",
+              "grabby \"a grasping corporate executive\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grasp",
+    "syllables": [
+      "grasp"
+    ],
+    "pronunciation": "ɡrasp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "grasping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "seize and hold firmly.",
+            "examples": [
+              "she grasped the bottle"
+            ],
+            "synonyms": [
+              "grip",
+              "clutch",
+              "clasp",
+              "hold",
+              "clench; Morecatch",
+              "seize",
+              "grab",
+              "snatch",
+              "latch on to \"she grasped his hands\""
+            ],
+            "antonyms": [
+              "release"
+            ]
+          },
+          {
+            "definition": "try to seize hold of.",
+            "examples": [
+              "they grasped at each other with numbed fingers"
+            ]
+          },
+          {
+            "definition": "get mental hold of; comprehend fully.",
+            "examples": [
+              "the way in which children could grasp complex ideas"
+            ],
+            "synonyms": [
+              "understand",
+              "comprehend",
+              "follow",
+              "take in",
+              "perceive",
+              "see",
+              "apprehend",
+              "assimilate",
+              "absorb; Moreinformalget",
+              "catch on to",
+              "figure out",
+              "get one's head around",
+              "take on board \"everybody grasped the important points\""
+            ]
+          },
+          {
+            "definition": "act decisively to the advantage of (something).",
+            "examples": [
+              "we must grasp the opportunities offered"
+            ],
+            "synonyms": [
+              "take advantage of",
+              "act on; Moreseize",
+              "leap at",
+              "snatch",
+              "jump at",
+              "pounce on \"he grasped the opportunity\""
+            ],
+            "antonyms": [
+              "miss",
+              "overlook"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

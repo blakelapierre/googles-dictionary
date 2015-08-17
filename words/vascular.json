@@ -1,0 +1,33 @@
+[
+  {
+    "word": "vascular",
+    "syllables": [
+      "vas",
+      "cu",
+      "lar"
+    ],
+    "pronunciation": "ˈvaskyələr",
+    "parts": [
+      {
+        "part": "adjectiveAnatomyZoologyMedicine",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "vascular"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, affecting, or consisting of a vessel or vessels, especially those that carry blood.",
+            "examples": [
+              "vascular disease"
+            ]
+          },
+          {
+            "definition": "relating to or denoting the plant tissues (xylem and phloem) that conduct water, sap, and nutrients in flowering plants, ferns, and their relatives."
+          }
+        ]
+      }
+    ]
+  }
+]

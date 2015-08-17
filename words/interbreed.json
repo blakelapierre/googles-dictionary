@@ -1,0 +1,72 @@
+[
+  {
+    "word": "interbreed",
+    "syllables": [
+      "in",
+      "ter",
+      "breed"
+    ],
+    "pronunciation": "ˌin(t)ərˈbrēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "interbreed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "interbreeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "interbred"
+          },
+          {
+            "part": "past participle",
+            "variant": "interbred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "interbreeding"
+          },
+          {
+            "part": "verb",
+            "variant": "inter-breed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "inter-breeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "inter-bred"
+          },
+          {
+            "part": "past participle",
+            "variant": "inter-bred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "inter-breeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(with reference to an animal) breed or cause to breed with another of a different race or species.",
+            "examples": [
+              "wolves and dogs can interbreed"
+            ]
+          },
+          {
+            "definition": "(of an animal) inbreed.",
+            "examples": [
+              "their energy and physique had been sapped by interbreeding"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

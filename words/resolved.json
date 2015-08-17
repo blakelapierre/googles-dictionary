@@ -1,0 +1,165 @@
+[
+  {
+    "word": "resolved",
+    "syllables": [
+      "re",
+      "solved"
+    ],
+    "pronunciation": "riˈzälvd-ˈzôlvd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "resolved"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "firmly determined to do something.",
+            "examples": [
+              "Constance was resolved not to cry"
+            ],
+            "synonyms": [
+              "determined",
+              "hell-bent",
+              "intent",
+              "set \"he was resolved to marry her\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "resolve",
+    "syllables": [
+      "re",
+      "solve"
+    ],
+    "pronunciation": "rəˈzälv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "resolved"
+          },
+          {
+            "part": "past participle",
+            "variant": "resolved"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "settle or find a solution to (a problem, dispute, or contentious matter).",
+            "examples": [
+              "the firm aims to resolve problems within 30 days"
+            ],
+            "synonyms": [
+              "settle",
+              "sort out",
+              "solve",
+              "find a solution to",
+              "fix",
+              "straighten out",
+              "deal with",
+              "put right",
+              "put to rights",
+              "rectify; Moreinformalhammer out",
+              "thrash out",
+              "figure out \"this matter cannot be resolved overnight\""
+            ]
+          },
+          {
+            "definition": "cause (a symptom or condition) to disperse, subside, or heal.",
+            "examples": [
+              "endoscopic biliary drainage can rapidly resolve jaundice"
+            ]
+          },
+          {
+            "definition": "(of a symptom or condition) disperse, subside, or heal.",
+            "examples": [
+              "symptoms resolved after a median of four weeks"
+            ]
+          },
+          {
+            "definition": "(of a discord) lead into a concord during the course of harmonic change."
+          },
+          {
+            "definition": "cause (a discord) to pass into a concord."
+          },
+          {
+            "definition": "decide firmly on a course of action.",
+            "examples": [
+              "she resolved to call Dana as soon as she got home"
+            ],
+            "synonyms": [
+              "determine",
+              "decide",
+              "make up one's mind",
+              "make a decision \"Bob resolved not to wait any longer\""
+            ]
+          },
+          {
+            "definition": "(of a legislative body, committee, or other formal meeting) make a decision by a formal vote.",
+            "examples": [
+              "the committee resolved that teachers should make their recommendations without knowledge of test scores"
+            ],
+            "synonyms": [
+              "vote",
+              "pass a resolution",
+              "rule",
+              "decide formally",
+              "agree \"the committee resolved that the project should proceed\""
+            ]
+          },
+          {
+            "definition": "separate or cause to be separated into components.",
+            "examples": [
+              "break down/up, separate, reduce, divide the compounds were resolved into their active constituents"
+            ]
+          },
+          {
+            "definition": "reduce a subject, statement, etc., by mental analysis into (separate elements or a more elementary form).",
+            "examples": [
+              "the ability to resolve facts into their legal categories"
+            ],
+            "synonyms": [
+              "analyze",
+              "dissect",
+              "break down",
+              "categorize \"the ability to resolve facts into their legal categories\""
+            ]
+          },
+          {
+            "definition": "(of something seen at a distance) turn into a different form when seen more clearly.",
+            "examples": [
+              "the orange glow resolved itself into four lanterns"
+            ],
+            "synonyms": [
+              "turn",
+              "change",
+              "be transformed",
+              "be converted \"the gray smudge resolved into a sandy beach\""
+            ]
+          },
+          {
+            "definition": "(of optical or photographic equipment) separate or distinguish between (closely adjacent objects).",
+            "examples": [
+              "Hubble was able to resolve six variable stars in M31"
+            ]
+          },
+          {
+            "definition": "separately distinguish (peaks in a graph or spectrum)."
+          },
+          {
+            "definition": "analyze (a force or velocity) into components acting in particular directions."
+          }
+        ]
+      }
+    ]
+  }
+]

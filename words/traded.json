@@ -1,0 +1,77 @@
+[
+  {
+    "word": "trade",
+    "syllables": [
+      "trade"
+    ],
+    "pronunciation": "trād",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "traded"
+          },
+          {
+            "part": "past participle",
+            "variant": "traded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "buy and sell goods and services.",
+            "examples": [
+              "middlemen trading in luxury goods"
+            ],
+            "synonyms": [
+              "deal (in)",
+              "buy and sell",
+              "traffic (in)",
+              "market",
+              "merchandise",
+              "peddle",
+              "vend; Moreinformalhawk",
+              "run \"he made his fortune trading in beaver pelts\"operate",
+              "run",
+              "do business \"the business is trading at a loss\""
+            ]
+          },
+          {
+            "definition": "buy or sell (a particular item or product).",
+            "examples": [
+              "she has traded millions of dollars' worth of metals"
+            ]
+          },
+          {
+            "definition": "(especially of shares or currency) be bought and sold at a specified price.",
+            "examples": [
+              "the dollar was trading where it was in January"
+            ]
+          },
+          {
+            "definition": "exchange (something) for something else, typically as a commercial transaction.",
+            "examples": [
+              "they trade mud-shark livers for fish oil"
+            ],
+            "synonyms": [
+              "swap",
+              "exchange",
+              "switch; Morebarter",
+              "trade in \"I traded the old machine for a newer model\""
+            ]
+          },
+          {
+            "definition": "give and receive (something, typically insults or blows).",
+            "examples": [
+              "they traded a few punches"
+            ]
+          },
+          {
+            "definition": "transfer (a player) to another club or team."
+          }
+        ]
+      }
+    ]
+  }
+]

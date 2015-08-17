@@ -1,0 +1,57 @@
+[
+  {
+    "word": "calculation",
+    "syllables": [
+      "cal",
+      "cu",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "ˌkalkyəˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "calculation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "calculations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mathematical determination of the size or number of something.",
+            "examples": [
+              "finding ways of saving money involves complicated calculations"
+            ],
+            "synonyms": [
+              "computation",
+              "reckoning",
+              "adding up",
+              "counting up",
+              "working out",
+              "figuring",
+              "totaling up",
+              "totting up \"the calculation of the overall cost\""
+            ]
+          },
+          {
+            "definition": "an assessment of the risks, possibilities, or effects of a situation or course of action.",
+            "examples": [
+              "decisions are shaped by political calculations"
+            ],
+            "synonyms": [
+              "assessment",
+              "judgment; Moreforecast",
+              "projection",
+              "prediction \"political calculations\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

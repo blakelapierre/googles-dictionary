@@ -1,0 +1,84 @@
+[
+  {
+    "word": "spiral",
+    "syllables": [
+      "spi",
+      "ral"
+    ],
+    "pronunciation": "ˈspīrəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "spiraling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move in a spiral course.",
+            "examples": [
+              "a wisp of smoke spiraled up from the trees"
+            ],
+            "synonyms": [
+              "coil",
+              "wind",
+              "swirl",
+              "twist",
+              "wreathe",
+              "snake",
+              "gyrate; literarygyre \"smoke spiraled up\""
+            ]
+          },
+          {
+            "definition": "cause to have a spiral shape or follow a spiral course.",
+            "examples": [
+              "spiral the bandage around the injured limb"
+            ]
+          },
+          {
+            "definition": "show a continuous and dramatic increase.",
+            "examples": [
+              "inflation continued to spiral"
+            ],
+            "synonyms": [
+              "soar",
+              "shoot up",
+              "rocket",
+              "increase rapidly",
+              "rise rapidly",
+              "escalate",
+              "climb; Moreinformalskyrocket",
+              "go through the roof \"prices spiraled\""
+            ],
+            "antonyms": [
+              "fall"
+            ]
+          },
+          {
+            "definition": "decrease or deteriorate continuously.",
+            "examples": [
+              "he expects the figures to spiral down further"
+            ],
+            "synonyms": [
+              "deteriorate",
+              "decline",
+              "degenerate",
+              "worsen",
+              "get worse; Moreinformalgo downhill",
+              "take a nosedive",
+              "go to pot",
+              "go to the dogs",
+              "hit the skids",
+              "go down the tubes \"the economy is spiraling downward\""
+            ],
+            "antonyms": [
+              "improve"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

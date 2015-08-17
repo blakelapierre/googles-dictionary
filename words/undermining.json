@@ -1,0 +1,63 @@
+[
+  {
+    "word": "undermine",
+    "syllables": [
+      "un",
+      "der",
+      "mine"
+    ],
+    "pronunciation": "ˌəndərˈmīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "undermining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "erode the base or foundation of (a rock formation).",
+            "examples": [
+              "erode, wear away, eat away at rivers undermined their banks"
+            ]
+          },
+          {
+            "definition": "dig or excavate beneath (a building or fortification) so as to make it collapse."
+          },
+          {
+            "definition": "damage or weaken (someone or something), especially gradually or insidiously.",
+            "examples": [
+              "this could undermine years of hard work"
+            ],
+            "synonyms": [
+              "subvert",
+              "undercut",
+              "sabotage",
+              "threaten",
+              "weaken",
+              "compromise",
+              "diminish",
+              "reduce",
+              "impair",
+              "mar",
+              "spoil",
+              "ruin",
+              "damage",
+              "hurt",
+              "injure",
+              "cripple",
+              "sap",
+              "shake; informaldrag through the mud \"their integrity is being undermined\""
+            ],
+            "antonyms": [
+              "strengthen",
+              "enhance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "costume",
+    "syllables": [
+      "cos",
+      "tume"
+    ],
+    "pronunciation": "ˈkäsˌt(y)o͞omkäsˈt(y)o͞omˈkäst(y)o͞omˈkästəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "costumes"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "costumes"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "word": "entreaty",
+    "syllables": [
+      "en",
+      "treat",
+      "y"
+    ],
+    "pronunciation": "inˈtrēdēenˈtrēdē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "entreaty"
+          },
+          {
+            "part": "plural noun",
+            "variant": "entreaties"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an earnest or humble request.",
+            "examples": [
+              "the king turned a deaf ear to his entreaties"
+            ],
+            "synonyms": [
+              "plea",
+              "appeal",
+              "request",
+              "petition; Moresuit",
+              "application",
+              "claim; solicitation",
+              "supplication; prayer \"he ignored Gert's entreaties\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

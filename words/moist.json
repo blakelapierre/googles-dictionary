@@ -1,0 +1,60 @@
+[
+  {
+    "word": "moist",
+    "syllables": [
+      "moist"
+    ],
+    "pronunciation": "moist",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "moist"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "moister"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "moistest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "slightly wet; damp or humid.",
+            "examples": [
+              "the air was moist and heavy"
+            ]
+          },
+          {
+            "definition": "(of the eyes) wet with tears.",
+            "examples": [
+              "her brother's eyes became moist"
+            ],
+            "synonyms": [
+              "tearful",
+              "watery",
+              "misty",
+              "dewy \"her eyes grew moist\""
+            ]
+          },
+          {
+            "definition": "(of a climate) rainy.",
+            "examples": [
+              "damp, dampish, steamy, humid, muggy, clammy, dank, wet, wettish, soggy, sweaty, sticky the air was moist"
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          },
+          {
+            "definition": "marked by a fluid discharge."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "word": "hind",
+    "syllables": [
+      "hind"
+    ],
+    "pronunciation": "hīnd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "hind"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of a bodily part) situated at the back; posterior.",
+            "examples": [
+              "he snagged a calf by the hind leg"
+            ],
+            "synonyms": [
+              "back",
+              "rear",
+              "hinder",
+              "hindmost",
+              "posterior; dorsal \"the left hind leg\""
+            ],
+            "antonyms": [
+              "fore",
+              "front"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hind",
+    "syllables": [
+      "hind"
+    ],
+    "pronunciation": "hīnd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hind"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hinds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a female deer, especially a red deer or sika in and after its third year."
+          },
+          {
+            "definition": "any of several large edible groupers with spotted markings."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hind",
+    "syllables": [
+      "hind"
+    ],
+    "pronunciation": "hīnd",
+    "parts": [
+      {
+        "part": "nounScottisharchaic",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hind"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hinds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a skilled farm worker."
+          },
+          {
+            "definition": "a peasant or rustic."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hind-",
+    "syllables": [
+      "hind-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "hind-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(added to nouns) at the back; posterior.",
+            "examples": [
+              "hindquarters"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Hind.",
+    "syllables": [
+      "Hind."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

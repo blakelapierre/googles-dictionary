@@ -1,0 +1,210 @@
+[
+  {
+    "word": "casual",
+    "syllables": [
+      "ca",
+      "su",
+      "al"
+    ],
+    "pronunciation": "ˈkaZHo͞oəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "casual"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relaxed and unconcerned.",
+            "examples": [
+              "she regarded his affairs with a casual indulgence"
+            ],
+            "synonyms": [
+              "relaxed",
+              "friendly",
+              "informal",
+              "unceremonious",
+              "easygoing",
+              "free and easy; informallaid-back \"the inn's casual atmosphere\""
+            ],
+            "antonyms": [
+              "formal"
+            ]
+          },
+          {
+            "definition": "made or done without much thought or premeditation.",
+            "examples": [
+              "a casual remark"
+            ],
+            "synonyms": [
+              "offhand",
+              "spontaneous",
+              "unpremeditated",
+              "unthinking",
+              "unconsidered",
+              "impromptu",
+              "throwaway",
+              "unguarded; informaloff-the-cuff \"a casual remark\""
+            ],
+            "antonyms": [
+              "premeditated"
+            ]
+          },
+          {
+            "definition": "done or acting in a desultory way.",
+            "examples": [
+              "to the casual observer, rugby looks something like soccer"
+            ],
+            "synonyms": [
+              "cursory",
+              "perfunctory",
+              "superficial",
+              "passing",
+              "fleeting; Morehasty",
+              "brief",
+              "quick \"a casual glance\""
+            ],
+            "antonyms": [
+              "careful",
+              "thorough"
+            ]
+          },
+          {
+            "definition": "done or acting without sufficient care or thoroughness.",
+            "examples": [
+              "the casual way in which victims were treated"
+            ],
+            "synonyms": [
+              "indifferent",
+              "apathetic",
+              "uncaring",
+              "unconcerned; Morelackadaisical",
+              "blasé",
+              "nonchalant",
+              "insouciant",
+              "offhand",
+              "flippant; easygoing",
+              "free and easy",
+              "blithe",
+              "carefree",
+              "devil-may-care; low-pressure; informallaid-back",
+              "loosey-goosey",
+              "Type-B \"a casual attitude to life\""
+            ],
+            "antonyms": [
+              "careful",
+              "concerned"
+            ]
+          },
+          {
+            "definition": "not regular or permanent, in particular.",
+            "examples": [
+              "temporary, part-time, freelance, impermanent, irregular, occasional casual work"
+            ],
+            "antonyms": [
+              "permanent",
+              "full-time"
+            ]
+          },
+          {
+            "definition": "employed or established on a temporary or irregular basis.",
+            "examples": [
+              "casual staff"
+            ],
+            "synonyms": [
+              "temporary",
+              "part-time",
+              "freelance",
+              "impermanent",
+              "irregular",
+              "occasional \"casual work\""
+            ],
+            "antonyms": [
+              "permanent",
+              "full-time"
+            ]
+          },
+          {
+            "definition": "(of a sexual relationship or encounter) occurring between people who are not regular or established sexual partners.",
+            "examples": [
+              "they don't do one-night stands or casual flings"
+            ],
+            "synonyms": [
+              "promiscuous",
+              "extramarital",
+              "free \"casual sex\""
+            ]
+          },
+          {
+            "definition": "happening by chance; accidental.",
+            "examples": [
+              "he pretended it was a casual meeting"
+            ],
+            "synonyms": [
+              "chance",
+              "accidental",
+              "unplanned",
+              "unintended",
+              "unexpected",
+              "unforeseen",
+              "unanticipated",
+              "fortuitous",
+              "serendipitous",
+              "adventitious \"a casual meeting changed his life\""
+            ],
+            "antonyms": [
+              "intentional",
+              "planned"
+            ]
+          },
+          {
+            "definition": "without formality of style or manner, in particular (of clothing) suitable for everyday wear rather than formal occasions.",
+            "examples": [
+              "a casual short-sleeved shirt"
+            ],
+            "synonyms": [
+              "informal",
+              "comfortable",
+              "leisure",
+              "everyday; informalsporty \"a casual shirt\""
+            ],
+            "antonyms": [
+              "formal",
+              "dressy"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "casual"
+          },
+          {
+            "part": "plural noun",
+            "variant": "casuals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who does something irregularly.",
+            "examples": [
+              "a number of casuals became regular customers"
+            ]
+          },
+          {
+            "definition": "a worker employed on an irregular or temporary basis."
+          },
+          {
+            "definition": "clothes or shoes suitable for everyday wear rather than formal occasions."
+          }
+        ]
+      }
+    ]
+  }
+]

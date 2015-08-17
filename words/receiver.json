@@ -1,0 +1,81 @@
+[
+  {
+    "word": "receiver",
+    "syllables": [
+      "re",
+      "ceiv",
+      "er"
+    ],
+    "pronunciation": "rəˈsēvər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "receiver"
+          },
+          {
+            "part": "plural noun",
+            "variant": "receivers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the part of a telephone apparatus contained in the earpiece, in which electrical signals are converted into sounds."
+          },
+          {
+            "definition": "a complete telephone handset.",
+            "examples": [
+              "he picked up the receiver"
+            ],
+            "synonyms": [
+              "handset \"a telephone receiver\""
+            ]
+          },
+          {
+            "definition": "a piece of radio or television apparatus that detects broadcast signals and converts them into visible or audible form.",
+            "examples": [
+              "a satellite receiver"
+            ]
+          },
+          {
+            "definition": "a person who gets or accepts something that has been sent or given to them.",
+            "examples": [
+              "the receiver of a gift"
+            ],
+            "synonyms": [
+              "recipient",
+              "beneficiary",
+              "donee \"the receiver of a gift\""
+            ],
+            "antonyms": [
+              "donor"
+            ]
+          },
+          {
+            "definition": "(in tennis and similar games) the player to whom the ball is served to begin play."
+          },
+          {
+            "definition": "a player who catches a pass or a kick."
+          },
+          {
+            "definition": "a person who buys or accepts stolen goods in the knowledge that they have been stolen."
+          },
+          {
+            "definition": "a person or company appointed by a court to manage the financial affairs of a business or person that has gone bankrupt.",
+            "examples": [
+              "the company is in the hands of the receivers"
+            ]
+          },
+          {
+            "definition": "a container for collecting the products of distillation, chromatography, or other process."
+          },
+          {
+            "definition": "the part of a firearm that houses the action and to which the barrel and other parts are attached."
+          }
+        ]
+      }
+    ]
+  }
+]

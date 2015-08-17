@@ -1,0 +1,46 @@
+[
+  {
+    "word": "sacrament",
+    "syllables": [
+      "sac",
+      "ra",
+      "ment"
+    ],
+    "pronunciation": "ˈsakrəmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sacrament"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sacraments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a religious ceremony or act of the Christian Church that is regarded as an outward and visible sign of inward and spiritual divine grace, in particular."
+          },
+          {
+            "definition": "(in the Roman Catholic and many Orthodox Churches) the rites of baptism, confirmation, the Eucharist, penance, anointing of the sick, ordination, and matrimony."
+          },
+          {
+            "definition": "(among Protestants) baptism and the Eucharist."
+          },
+          {
+            "definition": "(in Roman Catholic use) the consecrated elements of the Eucharist, especially the Host.",
+            "examples": [
+              "noun: Blessed Sacrament; noun: Holy Sacrament; noun: the Blessed Sacrament"
+            ]
+          },
+          {
+            "definition": "a thing of mysterious and sacred significance; a religious symbol."
+          }
+        ]
+      }
+    ]
+  }
+]

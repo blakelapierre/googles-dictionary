@@ -1,0 +1,62 @@
+[
+  {
+    "word": "habitation",
+    "syllables": [
+      "hab",
+      "i",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "ˌhabəˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "habitation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state or process of living in a particular place.",
+            "examples": [
+              "signs of human habitation"
+            ],
+            "synonyms": [
+              "occupancy",
+              "occupation",
+              "residence",
+              "residency",
+              "living in",
+              "tenancy \"a house fit for human habitation\""
+            ]
+          },
+          {
+            "definition": "a place in which to live; a house or home.",
+            "examples": [
+              "plural noun: habitations"
+            ],
+            "synonyms": [
+              "residence",
+              "place of residence",
+              "house",
+              "home",
+              "seat",
+              "lodging place",
+              "billet",
+              "quarters",
+              "living quarters",
+              "rooms",
+              "accommodations; Moreinformalpad",
+              "digs; formaldwelling",
+              "dwelling place",
+              "abode",
+              "domicile \"his main habitation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

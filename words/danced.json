@@ -1,0 +1,99 @@
+[
+  {
+    "word": "dance",
+    "syllables": [
+      "dance"
+    ],
+    "pronunciation": "dans",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "danced"
+          },
+          {
+            "part": "past participle",
+            "variant": "danced"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move rhythmically to music, typically following a set sequence of steps.",
+            "examples": [
+              "their cheeks were pressed together as they danced"
+            ],
+            "synonyms": [
+              "sway",
+              "trip",
+              "twirl",
+              "whirl",
+              "pirouette",
+              "gyrate; Moreinformalbop",
+              "disco",
+              "rock",
+              "boogie",
+              "shake a leg",
+              "hoof it",
+              "cut a/the rug",
+              "trip the light fantastic",
+              "get down",
+              "mosh",
+              "groove \"he danced with Katherine\""
+            ]
+          },
+          {
+            "definition": "perform (a particular dance or a role in a ballet).",
+            "examples": [
+              "they danced a tango"
+            ]
+          },
+          {
+            "definition": "lead (someone) in a particular direction while dancing.",
+            "examples": [
+              "I danced her out of the room"
+            ]
+          },
+          {
+            "definition": "(of a person) move in a quick and lively way.",
+            "examples": [
+              "Sheila danced in gaily"
+            ],
+            "synonyms": [
+              "caper",
+              "cavort",
+              "frisk",
+              "frolic",
+              "skip",
+              "prance",
+              "gambol",
+              "jig; Moreleap",
+              "jump",
+              "hop",
+              "bounce \"little girls danced around me\""
+            ]
+          },
+          {
+            "definition": "move up and down lightly and quickly.",
+            "examples": [
+              "midges danced over the stream"
+            ],
+            "synonyms": [
+              "flicker",
+              "leap",
+              "dart",
+              "play",
+              "flit",
+              "quiver; Moretwinkle",
+              "shimmer \"flames danced in the fireplace\""
+            ]
+          },
+          {
+            "definition": "(of someone's eyes) sparkle brightly with pleasure or excitement."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "fertilize",
+    "syllables": [
+      "fer",
+      "ti",
+      "lize"
+    ],
+    "pronunciation": "ˈfərdlˌīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fertilize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fertilizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "fertilized"
+          },
+          {
+            "part": "past participle",
+            "variant": "fertilized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fertilizing"
+          },
+          {
+            "part": "verb",
+            "variant": "fertilise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fertilises"
+          },
+          {
+            "part": "past tense",
+            "variant": "fertilised"
+          },
+          {
+            "part": "past participle",
+            "variant": "fertilised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fertilising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (an egg, female animal, or plant) to develop a new individual by introducing male reproductive material.",
+            "examples": [
+              "pollinate, cross-pollinate, cross-fertilize, fecundate these orchids are fertilized by insects"
+            ]
+          },
+          {
+            "definition": "make (soil or land) more fertile or productive by adding suitable substances to it.",
+            "examples": [
+              "feed, mulch, compost, green manure, manure, dress, top-dress, add fertilizer to the field was fertilized"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

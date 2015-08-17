@@ -1,0 +1,30 @@
+[
+  {
+    "word": "dolomite",
+    "syllables": [
+      "do",
+      "lo",
+      "mite"
+    ],
+    "pronunciation": "ˈdäləˌmītˈdō-",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dolomite"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a translucent mineral consisting of a carbonate of calcium and magnesium."
+          },
+          {
+            "definition": "a sedimentary rock formed chiefly of dolomite."
+          }
+        ]
+      }
+    ]
+  }
+]

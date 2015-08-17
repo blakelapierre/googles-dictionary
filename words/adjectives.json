@@ -1,0 +1,27 @@
+[
+  {
+    "word": "adjective",
+    "syllables": [
+      "ad",
+      "jec",
+      "tive"
+    ],
+    "pronunciation": "ˈajəktiv",
+    "parts": [
+      {
+        "part": "nounGrammar",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "adjectives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "oust",
+    "syllables": [
+      "oust"
+    ],
+    "pronunciation": "oust",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "oust"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ousts"
+          },
+          {
+            "part": "past tense",
+            "variant": "ousted"
+          },
+          {
+            "part": "past participle",
+            "variant": "ousted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "ousting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "drive out or expel (someone) from a position or place.",
+            "examples": [
+              "he ousted a long-term incumbent by only 500 votes"
+            ],
+            "synonyms": [
+              "drive out",
+              "expel",
+              "force out",
+              "throw out",
+              "remove (from office/power)",
+              "eject",
+              "get rid of",
+              "depose",
+              "dethrone",
+              "topple",
+              "unseat",
+              "overthrow",
+              "bring down",
+              "overturn",
+              "dismiss",
+              "dislodge",
+              "displace; Moreinformalboot out",
+              "kick out \"armed forces ousted the new coalition government\""
+            ]
+          },
+          {
+            "definition": "deprive (someone) of or exclude (someone) from possession of something."
+          }
+        ]
+      }
+    ]
+  }
+]

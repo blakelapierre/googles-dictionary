@@ -1,0 +1,177 @@
+[
+  {
+    "word": "nap",
+    "syllables": [
+      "nap"
+    ],
+    "pronunciation": "nap",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "nap"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "naps"
+          },
+          {
+            "part": "past tense",
+            "variant": "napped"
+          },
+          {
+            "part": "past participle",
+            "variant": "napped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "napping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sleep lightly or briefly, especially during the day.",
+            "examples": [
+              "doze, sleep, sleep lightly, take a nap, catnap, rest, take a siesta; Moreinformalsnooze, catch forty winks, get some shut-eye, catch some Zs, catch a few Zs \"they were napping on the sofa\"Moresnooze, catch forty winks, get some shut-eye, catch some Zs, catch a few Zs they were napping on the sofa"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nap"
+          },
+          {
+            "part": "plural noun",
+            "variant": "naps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a short sleep, especially during the day.",
+            "examples": [
+              "excuse me, I'll just take a little nap"
+            ],
+            "synonyms": [
+              "(some) sleep",
+              "a little sleep",
+              "a catnap",
+              "a siesta",
+              "a doze",
+              "a lie-down",
+              "(a/some) rest",
+              "a little rest; Moreinformala snooze",
+              "forty winks",
+              "(some) shut-eye",
+              "a little shut-eye",
+              "(some) beauty sleep/rest",
+              "a little beauty sleep/rest",
+              "a power nap \"a nap will make you feel better\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nap",
+    "syllables": [
+      "nap"
+    ],
+    "pronunciation": "nap",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nap"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the raised hairs, threads, or similar small projections on the surface of fabric or suede (used especially with reference to the direction in which they naturally lie).",
+            "examples": [
+              "carefully machine the seam, following the direction of the nap"
+            ],
+            "synonyms": [
+              "pile",
+              "fibers",
+              "threads",
+              "weave",
+              "surface",
+              "grain \"the nap of the velvet\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nap",
+    "syllables": [
+      "nap"
+    ],
+    "pronunciation": "nap",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nap"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a card game resembling whist in which players declare the number of tricks they expect to take, up to five."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nap",
+    "syllables": [
+      "nap"
+    ],
+    "pronunciation": "nap",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "nap"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "naps"
+          },
+          {
+            "part": "past tense",
+            "variant": "napped"
+          },
+          {
+            "part": "past participle",
+            "variant": "napped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "napping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a horse) refuse, especially habitually, to go on at the rider's instruction; jib."
+          }
+        ]
+      }
+    ]
+  }
+]

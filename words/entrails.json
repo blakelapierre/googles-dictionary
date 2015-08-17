@@ -1,0 +1,39 @@
+[
+  {
+    "word": "entrails",
+    "syllables": [
+      "en",
+      "trails"
+    ],
+    "pronunciation": "ˈentrālzˈentrəlz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "entrails"
+          },
+          {
+            "part": "plural noun",
+            "variant": "entrail"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or animal's intestines or internal organs, especially when removed or exposed.",
+            "examples": [
+              "intestines, bowels, guts, viscera, internal organs, vital organs; Moreoffal; informalinsides, innards \"the entrails are removed by the butcher\"Moreoffal; insides, innards the entrails are removed by the butcher"
+            ]
+          },
+          {
+            "definition": "the innermost parts of something.",
+            "examples": [
+              "digging copper out of the entrails of the earth"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

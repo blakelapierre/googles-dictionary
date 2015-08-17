@@ -1,0 +1,46 @@
+[
+  {
+    "word": "coagulate",
+    "syllables": [
+      "co",
+      "ag",
+      "u",
+      "late"
+    ],
+    "pronunciation": "kōˈaɡyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "coagulates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a fluid, especially blood) change to a solid or semisolid state.",
+            "examples": [
+              "blood had coagulated around the edges of the wound"
+            ],
+            "synonyms": [
+              "congeal",
+              "clot",
+              "thicken",
+              "jell; Moresolidify",
+              "harden",
+              "set",
+              "dry \"a drug that helps the blood to coagulate\""
+            ]
+          },
+          {
+            "definition": "cause (a fluid) to change to a solid or semisolid state.",
+            "examples": [
+              "epinephrine coagulates the blood"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

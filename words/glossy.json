@@ -1,0 +1,99 @@
+[
+  {
+    "word": "glossy",
+    "syllables": [
+      "gloss",
+      "y"
+    ],
+    "pronunciation": "ˈɡläsēˈɡlôsē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "glossy"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "glossier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "glossiest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shiny and smooth.",
+            "examples": [
+              "thick, glossy, manageable hair"
+            ],
+            "synonyms": [
+              "shiny",
+              "gleaming",
+              "lustrous",
+              "brilliant",
+              "shimmering",
+              "glistening",
+              "satiny",
+              "sheeny",
+              "smooth",
+              "glassy; Morepolished",
+              "lacquered",
+              "glazed \"a glossy wooden floor\""
+            ],
+            "antonyms": [
+              "dull",
+              "lusterless"
+            ]
+          },
+          {
+            "definition": "(of a magazine or photograph) printed on high-quality smooth shiny paper."
+          },
+          {
+            "definition": "superficially attractive and stylish, and suggesting wealth or expense.",
+            "examples": [
+              "glossy TV miniseries and soaps"
+            ],
+            "synonyms": [
+              "expensive",
+              "high-quality; Morestylish",
+              "fashionable",
+              "glamorous; attractive",
+              "artistic",
+              "upmarket; informalclassy",
+              "ritzy",
+              "glitzy \"a glossy magazine\""
+            ],
+            "antonyms": [
+              "downmarket",
+              "cheap"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "glossy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "glossies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a magazine printed on glossy paper, expensively produced with many color photographs."
+          },
+          {
+            "definition": "a photograph printed on glossy paper."
+          }
+        ]
+      }
+    ]
+  }
+]

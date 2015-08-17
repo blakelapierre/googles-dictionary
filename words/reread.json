@@ -1,0 +1,80 @@
+[
+  {
+    "word": "reread",
+    "syllables": [
+      "re",
+      "read"
+    ],
+    "pronunciation": "ˌrēˈrēdˈrērēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reread"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rereads"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rereading"
+          },
+          {
+            "part": "past tense",
+            "variant": "reread"
+          },
+          {
+            "part": "past participle",
+            "variant": "reread"
+          },
+          {
+            "part": "verb",
+            "variant": "re-read"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "re-reads"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "re-reading"
+          },
+          {
+            "part": "past tense",
+            "variant": "re-read"
+          },
+          {
+            "part": "past participle",
+            "variant": "re-read"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reread"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rereads"
+          },
+          {
+            "part": "noun",
+            "variant": "re-read"
+          },
+          {
+            "part": "plural noun",
+            "variant": "re-reads"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

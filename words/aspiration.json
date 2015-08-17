@@ -1,0 +1,62 @@
+[
+  {
+    "word": "aspiration",
+    "syllables": [
+      "as",
+      "pi",
+      "ra",
+      "tion"
+    ],
+    "pronunciation": "ˌaspəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "aspiration"
+          },
+          {
+            "part": "plural noun",
+            "variant": "aspirations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hope or ambition of achieving something.",
+            "examples": [
+              "he had nothing tangible to back up his literary aspirations"
+            ],
+            "synonyms": [
+              "desire",
+              "hope",
+              "dream",
+              "wish",
+              "longing",
+              "yearning; Moreaim",
+              "ambition",
+              "expectation",
+              "goal",
+              "target \"his greatest aspiration is to win an Olympic gold medal\""
+            ]
+          },
+          {
+            "definition": "the object of one's hope or ambition; a goal.",
+            "examples": [
+              "fabrics and oriental rugs were my aspirations"
+            ]
+          },
+          {
+            "definition": "the action or process of drawing breath."
+          },
+          {
+            "definition": "the action of drawing fluid by suction from a vessel or cavity."
+          },
+          {
+            "definition": "the action of pronouncing a sound with an exhalation of breath."
+          }
+        ]
+      }
+    ]
+  }
+]

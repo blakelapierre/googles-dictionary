@@ -1,0 +1,132 @@
+[
+  {
+    "word": "stay",
+    "syllables": [
+      "stay"
+    ],
+    "pronunciation": "stā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "staying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remain in the same place.",
+            "examples": [
+              "you stay here and I'll be back soon"
+            ]
+          },
+          {
+            "definition": "delay leaving so as to join in (an activity).",
+            "examples": [
+              "why not stay for lunch?"
+            ]
+          },
+          {
+            "definition": "(of food) remain in the stomach, rather than be thrown up as vomit."
+          },
+          {
+            "definition": "remain in a specified state or position.",
+            "examples": [
+              "her ability to stay calm"
+            ],
+            "synonyms": [
+              "remain (behind)",
+              "stay behind",
+              "stay put; Morewait",
+              "linger",
+              "stick",
+              "be left",
+              "hold on",
+              "hang on",
+              "lodge; informalhang around; archaicbide",
+              "tarry \"he stayed where he was\"continue (to be)",
+              "remain",
+              "keep",
+              "persist in being",
+              "carry on being",
+              "go on being \"they won't stay hidden\""
+            ],
+            "antonyms": [
+              "leave"
+            ]
+          },
+          {
+            "definition": "(of a person) live somewhere temporarily as a visitor or guest.",
+            "examples": [
+              "the girls had gone to stay with friends"
+            ]
+          },
+          {
+            "definition": "live permanently.",
+            "examples": [
+              "where do you stay?"
+            ]
+          },
+          {
+            "definition": "stop, delay, or prevent (something), in particular suspend or postpone (judicial proceedings) or refrain from pressing (charges).",
+            "examples": [
+              "postpone, put off, delay, defer, put back, hold over/off; Moreadjourn, suspend, prorogue, put over, table, lay on the table, take a rain check on; continue; informalput on ice, put on the back burner \"legal proceedings were stayed\"delay, slow down/up, hold back/up, set back, keep back, put back, put a brake on, retard; hinder, hamper, obstruct, inhibit, impede, curb, check, restrain, restrict, arrest; informalthrow a (monkey) wrench in the works of \"we must stay the enemy's advance\"Moreadjourn, suspend, prorogue, put over, table, lay on the table, take a rain check on; continue; put on ice, put on the back burner legal proceedings were stayeddelay, slow down/up, hold back/up, set back, keep back, put back, put a brake on, retard; hinder, hamper, obstruct, inhibit, impede, curb, check, restrain, restrict, arrest; throw a (monkey) wrench in the works of we must stay the enemy's advance"
+            ],
+            "antonyms": [
+              "advance",
+              "promote"
+            ]
+          },
+          {
+            "definition": "assuage (hunger) for a short time.",
+            "examples": [
+              "I grabbed something to stay the pangs of hunger"
+            ]
+          },
+          {
+            "definition": "curb; check.",
+            "examples": [
+              "he tries to stay the destructive course of barbarism"
+            ]
+          },
+          {
+            "definition": "wait a moment in order to allow someone time to think or speak.",
+            "examples": [
+              "stay, stand apart, I know not which is which"
+            ]
+          },
+          {
+            "definition": "support or prop up."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "syllables": [
+      "stay"
+    ],
+    "pronunciation": "stā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "staying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "secure or steady (a mast) by means of stays.",
+            "examples": [
+              "brace, tether, strut, wire, guy, prop, support, truss her masts were well stayed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "word": "pet",
+    "syllables": [
+      "pet"
+    ],
+    "pronunciation": "pet",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a domestic or tamed animal or bird kept for companionship or pleasure and treated with care and affection.",
+            "examples": [
+              "the pony was a family pet"
+            ]
+          },
+          {
+            "definition": "a person treated with special favor, especially in a way that others regard as unfair.",
+            "examples": [
+              "Liz was teacher's pet"
+            ],
+            "synonyms": [
+              "favorite",
+              "darling",
+              "the apple of one's eye; Moreinformalfair-haired boy/girl",
+              "daddy's girl \"the teacher's pet\""
+            ]
+          },
+          {
+            "definition": "used as an affectionate form of address.",
+            "examples": [
+              "don't cry, pet, it's all right"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pet"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pets"
+          },
+          {
+            "part": "past tense",
+            "variant": "petted"
+          },
+          {
+            "part": "past participle",
+            "variant": "petted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "petting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stroke or pat (an animal) affectionately.",
+            "examples": [
+              "the cats came to be petted"
+            ],
+            "synonyms": [
+              "stroke",
+              "caress",
+              "fondle",
+              "pat \"the cats came to be petted\""
+            ]
+          },
+          {
+            "definition": "treat (someone) with affection or favoritism; pamper.",
+            "examples": [
+              "I was cosseted and petted and never shouted at"
+            ],
+            "synonyms": [
+              "pamper",
+              "spoil",
+              "mollycoddle",
+              "coddle",
+              "cosset",
+              "baby",
+              "indulge",
+              "overindulge \"she had always been petted by her parents\""
+            ]
+          },
+          {
+            "definition": "engage in sexually stimulating caressing and touching.",
+            "examples": [
+              "couples necking and petting in the cars"
+            ],
+            "synonyms": [
+              "kiss and cuddle",
+              "kiss",
+              "cuddle",
+              "embrace",
+              "caress; Moreinformalmake out",
+              "canoodle",
+              "neck",
+              "smooch",
+              "get it on \"couples were petting in their cars\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "syllables": [
+      "pet"
+    ],
+    "pronunciation": "pet",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fit of sulking or ill humor.",
+            "examples": [
+              "Mother's in a pet"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Pet.",
+    "syllables": [
+      "Pet."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviationBible",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "PET",
+    "syllables": [
+      "PET"
+    ],
+    "pronunciation": "pet",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "polyethylene terephthalate",
+    "syllables": [
+      "pol",
+      "y",
+      "eth",
+      "yl",
+      "ene ter",
+      "eph",
+      "thal",
+      "ate"
+    ],
+    "pronunciation": "pälēˌeTHəlēn ˌterəfˈTHalāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "PET"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a synthetic resin made by copolymerizing ethylene glycol and terephthalic acid, widely used to make polyester fibers."
+          }
+        ]
+      }
+    ]
+  }
+]

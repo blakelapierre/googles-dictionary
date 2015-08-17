@@ -1,0 +1,37 @@
+[
+  {
+    "word": "beneficiary",
+    "syllables": [
+      "ben",
+      "e",
+      "fi",
+      "ci",
+      "ar",
+      "y"
+    ],
+    "pronunciation": "ˌbenəˈfiSHēˌerē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "beneficiary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "beneficiaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who derives advantage from something, especially a trust, will, or life insurance policy.",
+            "examples": [
+              "heir, heiress, inheritor, legatee; Morerecipient, receiver, payee, donee, assignee; devisee, grantee \"her beneficiaries include several godchildren\"Morerecipient, receiver, payee, donee, assignee; devisee, grantee her beneficiaries include several godchildren"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "deprecate",
+    "syllables": [
+      "dep",
+      "re",
+      "cate"
+    ],
+    "pronunciation": "ˈdeprəˌkāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deprecate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deprecates"
+          },
+          {
+            "part": "past tense",
+            "variant": "deprecated"
+          },
+          {
+            "part": "past participle",
+            "variant": "deprecated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deprecating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express disapproval of.",
+            "examples": [
+              "he sniffed in a deprecating way"
+            ],
+            "synonyms": [
+              "deplore",
+              "abhor",
+              "disapprove of",
+              "frown on",
+              "take a dim view of",
+              "take exception to",
+              "detest",
+              "despise; Morecriticize",
+              "censure \"the school deprecates this behavior\""
+            ],
+            "antonyms": [
+              "praise",
+              "overrate"
+            ]
+          },
+          {
+            "definition": "another term for depreciate (sense 2).",
+            "examples": [
+              "he deprecates the value of children's television"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

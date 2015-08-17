@@ -1,0 +1,71 @@
+[
+  {
+    "word": "audiotape",
+    "syllables": [
+      "au",
+      "di",
+      "o",
+      "tape"
+    ],
+    "pronunciation": "ˈôdēōˌtāp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "audio tape"
+          },
+          {
+            "part": "noun",
+            "variant": "audiotape"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "magnetic tape on which sound can be recorded."
+          },
+          {
+            "definition": "a length of this, typically in the form of a cassette.",
+            "examples": [
+              "plural noun: audio tapes; plural noun: audiotapes"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "audiotape"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "audiotapes"
+          },
+          {
+            "part": "past tense",
+            "variant": "audiotaped"
+          },
+          {
+            "part": "past participle",
+            "variant": "audiotaped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "audiotaping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "record (sound) on tape.",
+            "examples": [
+              "each interview was audiotaped and transcribed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

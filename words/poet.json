@@ -1,0 +1,50 @@
+[
+  {
+    "word": "poet",
+    "syllables": [
+      "po",
+      "et"
+    ],
+    "pronunciation": "ˈpōət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "poet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "poets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who writes poems.",
+            "examples": [
+              "writer of poetry, versifier, rhymester, rhymer, sonneteer, lyricist, lyrist; Morelaureate; literarybard; derogatorypoetaster; historicaltroubadour, balladeer \"she has the soul of a poet\"Morelaureate; bard; poetaster; troubadour, balladeer she has the soul of a poet"
+            ]
+          },
+          {
+            "definition": "a person possessing special powers of imagination or expression."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "poet.",
+    "syllables": [
+      "poet."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

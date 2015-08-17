@@ -1,0 +1,48 @@
+[
+  {
+    "word": "beacon",
+    "syllables": [
+      "bea",
+      "con"
+    ],
+    "pronunciation": "ˈbēkən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "beacon"
+          },
+          {
+            "part": "plural noun",
+            "variant": "beacons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fire or light set up in a high or prominent position as a warning, signal, or celebration.",
+            "examples": [
+              "a chain of beacons carried the news"
+            ]
+          },
+          {
+            "definition": "(often in place names) a hill suitable for beacon of fire or light.",
+            "examples": [
+              "Ivinghoe Beacon"
+            ]
+          },
+          {
+            "definition": "a light or other visible object serving as a signal, warning, or guide, especially at sea or on an airfield.",
+            "examples": [
+              "lighthouse; Moresignal light, signal fire, danger signal, bonfire, warning light, warning fire; spotlight, searchlight \"the beacon penetrated the fog\"Moresignal light, signal fire, danger signal, bonfire, warning light, warning fire; spotlight, searchlight the beacon penetrated the fog"
+            ]
+          },
+          {
+            "definition": "a radio transmitter whose signal helps to fix the position of a ship, aircraft, or spacecraft."
+          }
+        ]
+      }
+    ]
+  }
+]

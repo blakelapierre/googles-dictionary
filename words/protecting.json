@@ -1,0 +1,90 @@
+[
+  {
+    "word": "protect",
+    "syllables": [
+      "pro",
+      "tect"
+    ],
+    "pronunciation": "prəˈtekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "protecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "keep safe from harm or injury.",
+            "examples": [
+              "he tried to protect Kelly from the attack"
+            ],
+            "synonyms": [
+              "keep safe",
+              "keep from harm",
+              "save",
+              "safeguard",
+              "preserve",
+              "defend",
+              "shield",
+              "cushion",
+              "insulate",
+              "hedge",
+              "shelter",
+              "screen",
+              "secure",
+              "fortify",
+              "guard",
+              "watch over",
+              "look after",
+              "take care of",
+              "keep; inoculate \"they fought to protect their homes and families\""
+            ],
+            "antonyms": [
+              "expose",
+              "neglect",
+              "attack",
+              "harm"
+            ]
+          },
+          {
+            "definition": "aim to preserve (a threatened plant or animal species) by legislating against collecting or hunting."
+          },
+          {
+            "definition": "restrict by law access to or development of (land) so as to preserve its natural state.",
+            "examples": [
+              "logging is continuing in protected areas in violation of an international agreement"
+            ],
+            "synonyms": [
+              "secured",
+              "sheltered",
+              "in safe hands",
+              "safe",
+              "guarded",
+              "out of danger",
+              "safeguarded",
+              "preserved \"the nation's largest protected wetland\""
+            ]
+          },
+          {
+            "definition": "(of an insurance policy) promise to pay (someone) an agreed amount in the event of loss, injury, fire, theft, or other misfortune.",
+            "examples": [
+              "in the event of your death, your family will be protected against any financial problems that may arise"
+            ]
+          },
+          {
+            "definition": "shield (a domestic industry) from competition by imposing import duties on foreign goods."
+          },
+          {
+            "definition": "restrict access to or use of (data or a memory location).",
+            "examples": [
+              "security products are designed to protect information from unauthorized access"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

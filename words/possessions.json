@@ -1,0 +1,127 @@
+[
+  {
+    "word": "possession",
+    "syllables": [
+      "pos",
+      "ses",
+      "sion"
+    ],
+    "pronunciation": "pəˈzeSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "possessions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of having, owning, or controlling something.",
+            "examples": [
+              "are you in possession of any items over $500 in value?"
+            ],
+            "synonyms": [
+              "ownership",
+              "control",
+              "hands",
+              "keeping",
+              "care",
+              "custody",
+              "charge",
+              "hold",
+              "title",
+              "guardianship More\"the estate came into their possession\"seize",
+              "appropriate",
+              "impound",
+              "expropriate",
+              "sequestrate",
+              "sequester",
+              "confiscate; take",
+              "get",
+              "acquire",
+              "obtain",
+              "procure",
+              "possess oneself of",
+              "get hold of",
+              "get one's hands on; capture",
+              "commandeer",
+              "requisition; distrain; informalget one's mitts on \"they were under orders to take possession of the house and all of its contents\""
+            ]
+          },
+          {
+            "definition": "visible power or control over something, as distinct from lawful ownership; holding or occupancy.",
+            "examples": [
+              "both teams attempting to gain possession of the ball"
+            ],
+            "synonyms": [
+              "occupancy",
+              "occupation",
+              "tenure",
+              "holding",
+              "tenancy \"her possession of the premises\""
+            ]
+          },
+          {
+            "definition": "the state of possessing an illegal drug.",
+            "examples": [
+              "they're charged with possession"
+            ]
+          },
+          {
+            "definition": "(in football, basketball, and other ball games) temporary control of the ball by a particular player or team.",
+            "examples": [
+              "the ball hit a defender and Brown's quick reaction put him in possession"
+            ]
+          },
+          {
+            "definition": "an item of property; something belonging to one.",
+            "examples": [
+              "I was alone with no money or possessions"
+            ],
+            "synonyms": [
+              "belongings",
+              "things",
+              "property",
+              "(worldly) goods",
+              "(personal) effects",
+              "assets",
+              "chattels",
+              "movables",
+              "valuables; Morestuff",
+              "bits and pieces; luggage",
+              "baggage; informalgear",
+              "junk \"she packed her possessions\""
+            ]
+          },
+          {
+            "definition": "a territory or country controlled or governed by another.",
+            "examples": [
+              "France's former colonial possessions"
+            ],
+            "synonyms": [
+              "colony",
+              "dependency",
+              "territory",
+              "holding",
+              "protectorate \"colonial possessions\""
+            ]
+          },
+          {
+            "definition": "the state of being controlled by a demon or spirit.",
+            "examples": [
+              "they prayed for protection against demonic possession"
+            ]
+          },
+          {
+            "definition": "the state of being completely under the influence of an idea or emotion.",
+            "examples": [
+              "fear took possession of my soul"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "word": "acknowledgment",
+    "syllables": [
+      "ac",
+      "knowl",
+      "edg",
+      "ment"
+    ],
+    "pronunciation": "əkˈnäləjmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "acknowledgement"
+          },
+          {
+            "part": "noun",
+            "variant": "acknowledgment"
+          },
+          {
+            "part": "plural noun",
+            "variant": "acknowledgements"
+          },
+          {
+            "part": "plural noun",
+            "variant": "acknowledgments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "acceptance of the truth or existence of something.",
+            "examples": [
+              "there was no acknowledgment of the family's trauma"
+            ],
+            "synonyms": [
+              "acceptance",
+              "recognition",
+              "admission",
+              "concession",
+              "confession \"acknowledgment of the need to take new initiatives\""
+            ]
+          },
+          {
+            "definition": "the action of expressing or displaying gratitude or appreciation for something.",
+            "examples": [
+              "he received an award in acknowledgment of his work"
+            ],
+            "synonyms": [
+              "thanks",
+              "gratitude",
+              "appreciation",
+              "recognition \"she left without a word of acknowledgment\""
+            ]
+          },
+          {
+            "definition": "the action of showing that one has noticed someone or something.",
+            "examples": [
+              "he touched his hat in acknowledgment of the salute"
+            ],
+            "synonyms": [
+              "greeting",
+              "welcome",
+              "salutation \"a smile of acknowledgment\""
+            ]
+          },
+          {
+            "definition": "a letter confirming receipt of something.",
+            "examples": [
+              "I received an acknowledgment of my application"
+            ],
+            "synonyms": [
+              "answer",
+              "reply",
+              "response \"I sent off the form",
+              "but there was no acknowledgment\""
+            ]
+          },
+          {
+            "definition": "an author's or publisher's statement of indebtedness to others, typically one printed at the beginning of a book."
+          }
+        ]
+      }
+    ]
+  }
+]

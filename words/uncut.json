@@ -1,0 +1,47 @@
+[
+  {
+    "word": "uncut",
+    "syllables": [
+      "un",
+      "cut"
+    ],
+    "pronunciation": "ˌənˈkət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "uncut"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not cut.",
+            "examples": [
+              "her hair was left uncut"
+            ]
+          },
+          {
+            "definition": "(of a text, movie, or performance) complete; unabridged."
+          },
+          {
+            "definition": "(of a stone, especially a diamond) not shaped by cutting."
+          },
+          {
+            "definition": "(of alcohol or a drug) not diluted or adulterated.",
+            "examples": [
+              "large amounts of uncut heroin"
+            ]
+          },
+          {
+            "definition": "(of a book) with the edges of its pages not slit open or trimmed off."
+          },
+          {
+            "definition": "(of fabric) having its pile loops intact."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "populate",
+    "syllables": [
+      "pop",
+      "u",
+      "late"
+    ],
+    "pronunciation": "ˈpäpyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "populated"
+          },
+          {
+            "part": "past participle",
+            "variant": "populated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form the population of (a town, area, or country).",
+            "examples": [
+              "the island is populated by scarcely 40,000 people"
+            ],
+            "synonyms": [
+              "inhabit",
+              "occupy",
+              "people; Morelive in",
+              "reside in \"the town is populated by 40",
+              "000 people\""
+            ]
+          },
+          {
+            "definition": "cause people to settle in (an area or place).",
+            "examples": [
+              "Finland pursues a policy designed to populate its Russian borders"
+            ],
+            "synonyms": [
+              "settle",
+              "colonize",
+              "people",
+              "occupy",
+              "move into",
+              "make one's home in \"an attempt to populate the island\""
+            ]
+          },
+          {
+            "definition": "fill or be present in (a place, environment, or domain).",
+            "examples": [
+              "the spirit of the book and the characters who populate its pages"
+            ]
+          },
+          {
+            "definition": "add data to a previously empty section of (an electronic form, document, etc.).",
+            "examples": [
+              "use scripts to populate the graph with data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

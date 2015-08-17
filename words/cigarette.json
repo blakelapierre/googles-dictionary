@@ -1,0 +1,45 @@
+[
+  {
+    "word": "cigarette",
+    "syllables": [
+      "cig",
+      "a",
+      "rette"
+    ],
+    "pronunciation": "ˈsiɡəˌretˌsiɡəˈret",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cigarette"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cigarettes"
+          },
+          {
+            "part": "noun",
+            "variant": "cigaret"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cigarets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thin cylinder of finely cut tobacco rolled in paper for smoking.",
+            "examples": [
+              "smoke, butt, ciggie/ciggy, cancer stick, coffin nail; fag he's outside, having a cigarette"
+            ]
+          },
+          {
+            "definition": "a cylinder containing a narcotic, herbs, or a medicated substance for smoking."
+          }
+        ]
+      }
+    ]
+  }
+]

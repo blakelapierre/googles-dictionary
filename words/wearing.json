@@ -1,0 +1,194 @@
+[
+  {
+    "word": "wearing",
+    "syllables": [
+      "wear",
+      "ing"
+    ],
+    "pronunciation": "weriNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "wearing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mentally or physically tiring."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wear",
+    "syllables": [
+      "wear"
+    ],
+    "pronunciation": "wer",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "wearing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have on one's body or a part of one's body as clothing, decoration, protection, or for some other purpose.",
+            "examples": [
+              "he was wearing a dark suit"
+            ],
+            "synonyms": [
+              "dress in",
+              "be clothed in",
+              "have on",
+              "sport",
+              "model; Moreput on",
+              "don \"he wore a suit\""
+            ]
+          },
+          {
+            "definition": "habitually have on one's body or be dressed in.",
+            "examples": [
+              "although she was a widow, she didn't wear black"
+            ]
+          },
+          {
+            "definition": "exhibit or present (a particular facial expression or appearance).",
+            "examples": [
+              "they wear a frozen smile on their faces"
+            ],
+            "synonyms": [
+              "bear",
+              "have (on one's face)",
+              "show",
+              "display",
+              "exhibit; Moregive",
+              "put on",
+              "assume \"Barbara wore a smile\""
+            ]
+          },
+          {
+            "definition": "have (one's hair or beard) at a specified length or arranged in a specified style.",
+            "examples": [
+              "the students wore their hair long"
+            ]
+          },
+          {
+            "definition": "(of a ship) fly (a flag)."
+          },
+          {
+            "definition": "damage, erode, or destroy by friction or use.",
+            "examples": [
+              "the track has been worn down in part to bare rock"
+            ],
+            "synonyms": [
+              "erode",
+              "abrade",
+              "rub away",
+              "grind away",
+              "wash away",
+              "crumble (away)",
+              "wear down; Morecorrode",
+              "eat away (at)",
+              "dissolve \"the bricks have been worn down\""
+            ]
+          },
+          {
+            "definition": "undergo damage, erosion, or destruction by friction or use.",
+            "examples": [
+              "mountains are wearing down with each passing second"
+            ]
+          },
+          {
+            "definition": "form (a hole, path, etc.) by constant friction or use.",
+            "examples": [
+              "the water was forced up through holes it had worn"
+            ]
+          },
+          {
+            "definition": "cause weariness or fatigue to.",
+            "examples": [
+              "some losses can wear on you"
+            ]
+          },
+          {
+            "definition": "withstand continued use or life in a specified way.",
+            "examples": [
+              "a carpet-type finish seems to wear well"
+            ],
+            "synonyms": [
+              "last",
+              "endure",
+              "hold up",
+              "bear up",
+              "prove durable \"the tires are wearing well\""
+            ]
+          },
+          {
+            "definition": "tolerate; accept.",
+            "examples": [
+              "the environmental health people wouldn't wear it"
+            ]
+          },
+          {
+            "definition": "(of a period of time) pass, especially slowly or tediously.",
+            "examples": [
+              "as the afternoon wore on, he began to look unhappy"
+            ],
+            "synonyms": [
+              "pass",
+              "elapse",
+              "proceed",
+              "advance",
+              "progress",
+              "go by",
+              "roll by",
+              "march on",
+              "slip by/away",
+              "fly by/past \"the afternoon wore on\""
+            ]
+          },
+          {
+            "definition": "pass (a period of time) in some activity.",
+            "examples": [
+              "spinning long stories, wearing half the day"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wear",
+    "syllables": [
+      "wear"
+    ],
+    "pronunciation": "wer",
+    "parts": [
+      {
+        "part": "verbSailing",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "wearing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring (a ship) about by turning its head away from the wind.",
+            "examples": [
+              "Shannon gives the order to wear ship"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

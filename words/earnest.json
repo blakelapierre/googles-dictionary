@@ -1,0 +1,89 @@
+[
+  {
+    "word": "earnest",
+    "syllables": [
+      "ear",
+      "nest"
+    ],
+    "pronunciation": "ˈərnəst",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "earnest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "resulting from or showing sincere and intense conviction.",
+            "examples": [
+              "an earnest student"
+            ],
+            "synonyms": [
+              "serious",
+              "solemn",
+              "grave",
+              "sober",
+              "humorless",
+              "staid",
+              "intense; Morecommitted",
+              "dedicated",
+              "keen",
+              "diligent",
+              "zealous; thoughtful",
+              "cerebral",
+              "deep",
+              "profound \"he is dreadfully earnest\"devout",
+              "heartfelt",
+              "wholehearted",
+              "sincere",
+              "impassioned",
+              "fervent",
+              "ardent",
+              "intense",
+              "urgent \"earnest prayer\""
+            ],
+            "antonyms": [
+              "frivolous",
+              "apathetic",
+              "halfhearted"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "earnest",
+    "syllables": [
+      "ear",
+      "nest"
+    ],
+    "pronunciation": "ˈərnəst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "earnest"
+          },
+          {
+            "part": "plural noun",
+            "variant": "earnests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing intended or regarded as a sign or promise of what is to come.",
+            "examples": [
+              "the presence of the troops is an earnest of the world's desire not to see the conflict repeated elsewhere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "clod",
+    "syllables": [
+      "clod"
+    ],
+    "pronunciation": "kläd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "clods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a lump of earth or clay.",
+            "examples": [
+              "lump, clump, chunk, hunk clods of earth"
+            ]
+          },
+          {
+            "definition": "a stupid person (often used as a general term of abuse)."
+          }
+        ]
+      }
+    ]
+  }
+]

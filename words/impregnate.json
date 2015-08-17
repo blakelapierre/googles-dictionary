@@ -1,0 +1,71 @@
+[
+  {
+    "word": "impregnate",
+    "syllables": [
+      "im",
+      "preg",
+      "nate"
+    ],
+    "pronunciation": "imˈpreɡˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "impregnate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "impregnates"
+          },
+          {
+            "part": "past tense",
+            "variant": "impregnated"
+          },
+          {
+            "part": "past participle",
+            "variant": "impregnated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "impregnating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a woman or female animal) pregnant.",
+            "examples": [
+              "make/get pregnant, inseminate, fertilize; Moreinformalget/put in the family way; vulgar slangknock up; informalget into trouble; archaicfecundate, get with child \"the woman he had impregnated\"Moreget/put in the family way; knock up; get into trouble; fecundate, get with child the woman he had impregnated"
+            ]
+          },
+          {
+            "definition": "fertilize (a female reproductive cell or ovum)."
+          },
+          {
+            "definition": "soak or saturate (something) with a substance.",
+            "examples": [
+              "wood that had been impregnated with preservative"
+            ],
+            "synonyms": [
+              "infuse",
+              "soak",
+              "steep",
+              "saturate",
+              "drench; Morepermeate",
+              "pervade",
+              "suffuse",
+              "imbue \"a pad impregnated with natural oils\""
+            ]
+          },
+          {
+            "definition": "imbue with feelings or qualities.",
+            "examples": [
+              "an atmosphere impregnated with tension"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

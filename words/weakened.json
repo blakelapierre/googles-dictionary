@@ -1,0 +1,71 @@
+[
+  {
+    "word": "weaken",
+    "syllables": [
+      "weak",
+      "en"
+    ],
+    "pronunciation": "ˈwēkən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "weakened"
+          },
+          {
+            "part": "past participle",
+            "variant": "weakened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become weaker in power, resolve, or physical strength.",
+            "examples": [
+              "fault lines had weakened and shattered the rocks"
+            ],
+            "synonyms": [
+              "enfeeble",
+              "debilitate",
+              "incapacitate",
+              "sap",
+              "enervate",
+              "tire",
+              "exhaust",
+              "wear out; Morewither",
+              "cripple",
+              "disable",
+              "emasculate \"the virus weakened him terribly\"reduce",
+              "decrease",
+              "diminish",
+              "soften",
+              "lessen",
+              "moderate",
+              "temper",
+              "dilute",
+              "blunt",
+              "mitigate \"she tried to weaken the blow for him\"decrease",
+              "dwindle",
+              "diminish",
+              "wane",
+              "ebb",
+              "subside",
+              "peter out",
+              "fizzle out",
+              "tail off",
+              "decline",
+              "falter \"our morale weakened\"impair",
+              "undermine",
+              "erode",
+              "eat away at",
+              "compromise; invalidate",
+              "negate",
+              "discredit \"the move weakened her authority\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

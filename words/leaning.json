@@ -1,0 +1,103 @@
+[
+  {
+    "word": "leaning",
+    "syllables": [
+      "lean",
+      "ing"
+    ],
+    "pronunciation": "ˈlēniNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "leaning"
+          },
+          {
+            "part": "plural noun",
+            "variant": "leanings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tendency or partiality of a particular kind.",
+            "examples": [
+              "despite his liberal leanings, he had little sympathy for the individuals concerned"
+            ],
+            "synonyms": [
+              "inclination",
+              "tendency",
+              "bent",
+              "proclivity",
+              "propensity",
+              "penchant",
+              "predisposition",
+              "predilection",
+              "partiality",
+              "preference",
+              "bias",
+              "attraction",
+              "liking",
+              "fondness",
+              "taste; informalyen \"my leaning is definitely toward a more liberal agenda\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lean",
+    "syllables": [
+      "lean"
+    ],
+    "pronunciation": "lēn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "leaning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be in or move into a sloping position.",
+            "examples": [
+              "he leaned back in his chair"
+            ],
+            "synonyms": [
+              "slant",
+              "incline",
+              "bend",
+              "tilt",
+              "be at an angle",
+              "slope",
+              "tip",
+              "list \"trees leaning in the wind\""
+            ]
+          },
+          {
+            "definition": "incline from the perpendicular and rest for support on or against (something).",
+            "examples": [
+              "a man was leaning against the wall"
+            ],
+            "synonyms": [
+              "rest on/against",
+              "recline on/against",
+              "be supported by \"Polly leaned against the door\""
+            ]
+          },
+          {
+            "definition": "cause something to rest on or against.",
+            "examples": [
+              "he leaned his elbows on the table"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

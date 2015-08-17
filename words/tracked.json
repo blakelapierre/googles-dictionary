@@ -1,0 +1,108 @@
+[
+  {
+    "word": "track",
+    "syllables": [
+      "track"
+    ],
+    "pronunciation": "trak",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "tracked"
+          },
+          {
+            "part": "past participle",
+            "variant": "tracked"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "follow the course or trail of (someone or something), typically in order to find them or note their location at various points.",
+            "examples": [
+              "secondary radars that track the aircraft in flight"
+            ],
+            "synonyms": [
+              "follow",
+              "trail",
+              "trace",
+              "pursue",
+              "shadow",
+              "stalk",
+              "keep an eye on",
+              "keep in sight; informaltail \"he tracked a bear for 40 miles\""
+            ]
+          },
+          {
+            "definition": "follow and note the course or progress of.",
+            "examples": [
+              "they are tracking the girth and evolution of stars"
+            ]
+          },
+          {
+            "definition": "follow a particular course.",
+            "examples": [
+              "the storm was tracking across the ground at 30 mph"
+            ]
+          },
+          {
+            "definition": "(of a stylus) follow (a groove in a record)."
+          },
+          {
+            "definition": "(of a film or television camera) move in relation to the subject being filmed.",
+            "examples": [
+              "the camera eventually tracked away"
+            ]
+          },
+          {
+            "definition": "leave a trail of dirty footprints on a surface."
+          },
+          {
+            "definition": "leave a trail of dirt, debris, or snow from one's feet.",
+            "examples": [
+              "the road salt I'd tracked in from the street"
+            ]
+          },
+          {
+            "definition": "(of wheels) run so that the back ones are exactly in the track of the front ones."
+          },
+          {
+            "definition": "(of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant."
+          },
+          {
+            "definition": "assign (a student) to a course of study according to ability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "track",
+    "syllables": [
+      "track"
+    ],
+    "pronunciation": "trak",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "tracked"
+          },
+          {
+            "part": "past participle",
+            "variant": "tracked"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tow (a boat) along a waterway from the bank."
+          }
+        ]
+      }
+    ]
+  }
+]

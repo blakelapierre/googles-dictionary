@@ -1,0 +1,59 @@
+[
+  {
+    "word": "complexion",
+    "syllables": [
+      "com",
+      "plex",
+      "ion"
+    ],
+    "pronunciation": "kəmˈplekSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "complexion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "complexions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the natural color, texture, and appearance of a person's skin, especially of the face.",
+            "examples": [
+              "an attractive girl with a pale complexion"
+            ],
+            "synonyms": [
+              "skin",
+              "skin color",
+              "skin tone; pigmentation \"a pale complexion\""
+            ]
+          },
+          {
+            "definition": "the general aspect or character of something.",
+            "examples": [
+              "Congress's new complexion became boldly apparent last summer"
+            ],
+            "synonyms": [
+              "perspective",
+              "angle",
+              "slant",
+              "interpretation; Moreappearance",
+              "light",
+              "look \"this puts an entirely new complexion on things\"type",
+              "kind",
+              "sort; nature",
+              "character",
+              "stamp",
+              "ilk",
+              "kidney \"governments of all complexions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

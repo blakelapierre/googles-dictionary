@@ -1,0 +1,35 @@
+[
+  {
+    "word": "airless",
+    "syllables": [
+      "air",
+      "less"
+    ],
+    "pronunciation": "ˈerləs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "airless"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stuffy; not ventilated.",
+            "examples": [
+              "a dusty, airless basement"
+            ]
+          },
+          {
+            "definition": "without wind or breeze; still.",
+            "examples": [
+              "a hot, airless night"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

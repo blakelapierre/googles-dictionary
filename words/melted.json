@@ -1,0 +1,84 @@
+[
+  {
+    "word": "melt",
+    "syllables": [
+      "melt"
+    ],
+    "pronunciation": "melt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "melted"
+          },
+          {
+            "part": "past participle",
+            "variant": "melted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become liquefied by heat.",
+            "examples": [
+              "place under the broiler until the cheese has melted"
+            ],
+            "synonyms": [
+              "thaw",
+              "liquefy",
+              "defrost",
+              "soften",
+              "dissolve",
+              "deliquesce \"the snow was beginning to melt\""
+            ]
+          },
+          {
+            "definition": "melt something, especially a metal article, so that the material it is made of can be used again.",
+            "examples": [
+              "beautiful objects are being melted down and sold for scrap"
+            ]
+          },
+          {
+            "definition": "dissolve in liquid.",
+            "examples": [
+              "add a cup of sugar and boil until the sugar melts"
+            ]
+          },
+          {
+            "definition": "make or become more tender or loving.",
+            "examples": [
+              "she was so beautiful that I melted"
+            ],
+            "synonyms": [
+              "soften",
+              "disarm",
+              "touch",
+              "affect",
+              "move \"his smile melted her heart\""
+            ]
+          },
+          {
+            "definition": "leave or disappear unobtrusively.",
+            "examples": [
+              "the compromise was accepted and the opposition melted away"
+            ],
+            "synonyms": [
+              "vanish",
+              "disappear",
+              "fade away",
+              "dissolve",
+              "evaporate; literaryevanesce \"his anger melted away\""
+            ]
+          },
+          {
+            "definition": "change or merge imperceptibly into (another form or state).",
+            "examples": [
+              "the cheers melted into gasps of admiration"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

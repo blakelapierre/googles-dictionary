@@ -1,0 +1,37 @@
+[
+  {
+    "word": "projector",
+    "syllables": [
+      "pro",
+      "jec",
+      "tor"
+    ],
+    "pronunciation": "prəˈjektər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "projector"
+          },
+          {
+            "part": "plural noun",
+            "variant": "projectors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an object that is used to project rays of light, especially an apparatus with a system of lenses for projecting slides or film onto a screen."
+          },
+          {
+            "definition": "a person who plans and sets up a project or enterprise."
+          },
+          {
+            "definition": "a promoter of a dubious or fraudulent enterprise."
+          }
+        ]
+      }
+    ]
+  }
+]

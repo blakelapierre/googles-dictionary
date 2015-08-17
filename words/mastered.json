@@ -1,0 +1,74 @@
+[
+  {
+    "word": "master",
+    "syllables": [
+      "mas",
+      "ter"
+    ],
+    "pronunciation": "ˈmastər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "mastered"
+          },
+          {
+            "part": "past participle",
+            "variant": "mastered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "acquire complete knowledge or skill in (an accomplishment, technique, or art).",
+            "examples": [
+              "I never mastered Latin"
+            ],
+            "synonyms": [
+              "learn",
+              "become proficient in",
+              "know inside out",
+              "know (frontward and) backwards; Morepick up",
+              "grasp",
+              "understand; informalget the hang of \"it took ages to master the technique\""
+            ]
+          },
+          {
+            "definition": "gain control of; overcome.",
+            "examples": [
+              "I managed to master my fears"
+            ],
+            "synonyms": [
+              "overcome",
+              "conquer",
+              "beat",
+              "quell",
+              "quash",
+              "suppress",
+              "control",
+              "overpower",
+              "triumph over",
+              "subdue",
+              "vanquish",
+              "subjugate",
+              "prevail over",
+              "govern",
+              "curb",
+              "check",
+              "bridle",
+              "tame",
+              "defeat",
+              "get the better of",
+              "get a grip on",
+              "get over; informallick \"I managed to master my fears\""
+            ]
+          },
+          {
+            "definition": "make a master copy of (a movie or record)."
+          }
+        ]
+      }
+    ]
+  }
+]

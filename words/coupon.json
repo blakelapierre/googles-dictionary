@@ -1,0 +1,81 @@
+[
+  {
+    "word": "coupon",
+    "syllables": [
+      "cou",
+      "pon"
+    ],
+    "pronunciation": "ˈk(y)o͞oˌpän",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coupon"
+          },
+          {
+            "part": "plural noun",
+            "variant": "coupons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a voucher entitling the holder to a discount for a particular product.",
+            "examples": [
+              "voucher, token, ticket; Moreinformalcomp, rain check \"grocery coupons\"Morecomp, rain check grocery coupons"
+            ]
+          },
+          {
+            "definition": "a detachable portion of a bond that is given up in return for a payment of interest."
+          },
+          {
+            "definition": "a form in a newspaper or magazine that may be filled in and sent as an application for a purchase or information.",
+            "examples": [
+              "form, tear-off card fill in the coupon below"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbUS",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "coupon"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "coupons"
+          },
+          {
+            "part": "past tense",
+            "variant": "couponed"
+          },
+          {
+            "part": "past participle",
+            "variant": "couponed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "couponing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a business) issue or distribute coupons or vouchers offering discounts on particular goods or services.",
+            "examples": [
+              "the company announced plans to reduce its couponing and just cut prices instead"
+            ]
+          },
+          {
+            "definition": "(of a consumer) collect and use coupons or vouchers offering discounts on goods or services.",
+            "examples": [
+              "couponing has dropped their monthly grocery budget by upwards of $1,100 per month"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

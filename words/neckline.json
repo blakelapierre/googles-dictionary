@@ -1,0 +1,33 @@
+[
+  {
+    "word": "neckline",
+    "syllables": [
+      "neck",
+      "line"
+    ],
+    "pronunciation": "ˈnekˌlīn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "neckline"
+          },
+          {
+            "part": "plural noun",
+            "variant": "necklines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the edge of a woman's garment at or below the neck, used with reference to its height or shape.",
+            "examples": [
+              "a sundress with a square neckline"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

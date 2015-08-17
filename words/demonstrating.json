@@ -1,0 +1,89 @@
+[
+  {
+    "word": "demonstrate",
+    "syllables": [
+      "dem",
+      "on",
+      "strate"
+    ],
+    "pronunciation": "ˈdemənˌstrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "demonstrating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clearly show the existence or truth of (something) by giving proof or evidence.",
+            "examples": [
+              "their shameful silence demonstrates their ineptitude"
+            ],
+            "synonyms": [
+              "reveal",
+              "bespeak",
+              "indicate",
+              "signify",
+              "signal",
+              "denote",
+              "show",
+              "display",
+              "exhibit; Morebear witness to",
+              "testify to; imply",
+              "intimate",
+              "give away \"his work demonstrated an analytical ability\""
+            ]
+          },
+          {
+            "definition": "give a practical exhibition and explanation of (how a machine, skill, or craft works or is performed).",
+            "examples": [
+              "computerized design methods will be demonstrated"
+            ],
+            "synonyms": [
+              "give a demonstration of",
+              "show how something is done; Moredisplay",
+              "show",
+              "illustrate",
+              "exemplify; informaldemo \"she was asked to demonstrate quilting\""
+            ]
+          },
+          {
+            "definition": "show or express (a feeling or quality) by one's actions.",
+            "examples": [
+              "she began to demonstrate a new-found confidence"
+            ],
+            "synonyms": [
+              "show",
+              "indicate",
+              "determine",
+              "establish",
+              "prove",
+              "confirm",
+              "verify",
+              "corroborate",
+              "substantiate \"the findings demonstrate important differences between men and women\""
+            ]
+          },
+          {
+            "definition": "take part in a public demonstration.",
+            "examples": [
+              "thousands demonstrated in favor of the government"
+            ],
+            "synonyms": [
+              "protest",
+              "rally",
+              "march; Morestage a sit-in",
+              "picket",
+              "strike",
+              "walk out; mutiny",
+              "rebel \"they demonstrated against the government\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

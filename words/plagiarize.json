@@ -1,0 +1,69 @@
+[
+  {
+    "word": "plagiarize",
+    "syllables": [
+      "pla",
+      "gia",
+      "rize"
+    ],
+    "pronunciation": "ˈplājəˌrīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "plagiarize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "plagiarizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "plagiarized"
+          },
+          {
+            "part": "past participle",
+            "variant": "plagiarized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "plagiarizing"
+          },
+          {
+            "part": "verb",
+            "variant": "plagiarise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "plagiarises"
+          },
+          {
+            "part": "past tense",
+            "variant": "plagiarised"
+          },
+          {
+            "part": "past participle",
+            "variant": "plagiarised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "plagiarising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take (the work or an idea of someone else) and pass it off as one's own.",
+            "examples": [
+              "copy, infringe the copyright of, pirate, steal, poach, appropriate; Moreinformalrip off, crib, “borrow”, pinch \"he was fined for plagiarizing a song\"Morerip off, crib, “borrow”, pinch he was fined for plagiarizing a song"
+            ]
+          },
+          {
+            "definition": "copy from (someone) and pass it off as one's own."
+          }
+        ]
+      }
+    ]
+  }
+]

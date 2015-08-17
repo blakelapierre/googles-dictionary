@@ -1,0 +1,59 @@
+[
+  {
+    "word": "dispossess",
+    "syllables": [
+      "dis",
+      "pos",
+      "sess"
+    ],
+    "pronunciation": "ˌdispəˈzes",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "dispossess"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "dispossesses"
+          },
+          {
+            "part": "past tense",
+            "variant": "dispossessed"
+          },
+          {
+            "part": "past participle",
+            "variant": "dispossessed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "dispossessing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deprive (someone) of something that they own, typically land or property.",
+            "examples": [
+              "they were dispossessed of lands and properties at the time of the Reformation"
+            ],
+            "synonyms": [
+              "divest",
+              "strip",
+              "rob",
+              "cheat (out)",
+              "deprive; informaldo out \"the peasants have been dispossessed of their land\""
+            ]
+          },
+          {
+            "definition": "oust (a person) from a dwelling or position.",
+            "examples": [
+              "he used to ride out and dispossess his tenants as the spirit moved him"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

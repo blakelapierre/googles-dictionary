@@ -1,0 +1,151 @@
+[
+  {
+    "word": "apt",
+    "syllables": [
+      "apt"
+    ],
+    "pronunciation": "apt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "apt"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "apter"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "aptest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "appropriate or suitable in the circumstances.",
+            "examples": [
+              "an apt description of her nature"
+            ],
+            "synonyms": [
+              "suitable",
+              "fitting",
+              "appropriate",
+              "befitting",
+              "relevant",
+              "germane",
+              "applicable",
+              "apposite \"a very apt description of how I felt\""
+            ],
+            "antonyms": [
+              "inappropriate"
+            ]
+          },
+          {
+            "definition": "having a tendency to do something.",
+            "examples": [
+              "she was apt to confuse the past with the present"
+            ],
+            "synonyms": [
+              "inclined",
+              "given",
+              "likely",
+              "liable",
+              "disposed",
+              "predisposed",
+              "prone \"they're apt to get a bit sloppy\""
+            ],
+            "antonyms": [
+              "unlikely"
+            ]
+          },
+          {
+            "definition": "quick to learn.",
+            "examples": [
+              "he proved an apt scholar"
+            ],
+            "synonyms": [
+              "clever",
+              "quick",
+              "bright",
+              "sharp",
+              "smart",
+              "intelligent",
+              "able",
+              "gifted",
+              "adept",
+              "astute \"an apt pupil\""
+            ],
+            "antonyms": [
+              "slow"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apt.",
+    "syllables": [
+      "apt."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviationNorth American",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "apt."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "apartment."
+          },
+          {
+            "definition": "aptitude."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apartment",
+    "syllables": [
+      "a",
+      "part",
+      "ment"
+    ],
+    "pronunciation": "əˈpärtmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "apt."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a suite of rooms forming one residence, typically in a building containing a number of these.",
+            "examples": [
+              "suite (of rooms), rooms, living quarters, accommodations the royal apartments"
+            ]
+          },
+          {
+            "definition": "a large building containing residential suites; an apartment building."
+          },
+          {
+            "definition": "a suite of rooms in a very large or grand house set aside for the private use of a monarch or noble.",
+            "examples": [
+              "the Imperial apartments"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

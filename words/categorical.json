@@ -1,0 +1,55 @@
+[
+  {
+    "word": "categorical",
+    "syllables": [
+      "cat",
+      "e",
+      "go",
+      "ri",
+      "cal"
+    ],
+    "pronunciation": "ˌkadəˈɡôrək(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "categorical"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unambiguously explicit and direct.",
+            "examples": [
+              "a categorical assurance"
+            ],
+            "synonyms": [
+              "unqualified",
+              "unconditional",
+              "unequivocal",
+              "absolute",
+              "explicit",
+              "express",
+              "unambiguous",
+              "definite",
+              "direct",
+              "downright",
+              "outright",
+              "emphatic",
+              "positive",
+              "point-blank",
+              "conclusive",
+              "without reservations",
+              "out-and-out \"a categorical assurance that annual premiums would not increase\""
+            ],
+            "antonyms": [
+              "qualified",
+              "equivocal"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

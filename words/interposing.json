@@ -1,0 +1,73 @@
+[
+  {
+    "word": "interpose",
+    "syllables": [
+      "in",
+      "ter",
+      "pose"
+    ],
+    "pronunciation": "ˌintərˈpōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "interposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "place or insert between one thing and another.",
+            "examples": [
+              "he interposed himself between her and the top of the stairs"
+            ],
+            "synonyms": [
+              "insinuate",
+              "insert",
+              "place",
+              "put \"he interposed himself between the girls\""
+            ]
+          },
+          {
+            "definition": "intervene between parties.",
+            "examples": [
+              "the legislature interposed to suppress these amusements"
+            ],
+            "synonyms": [
+              "intervene",
+              "intercede",
+              "step in",
+              "involve oneself; Moreinterfere",
+              "intrude",
+              "butt in",
+              "cut in",
+              "meddle; informalbarge in",
+              "horn in",
+              "muscle in \"they interposed to uphold the truce\""
+            ]
+          },
+          {
+            "definition": "say (words) as an interruption.",
+            "examples": [
+              "if I might interpose a personal remark here"
+            ],
+            "synonyms": [
+              "introduce",
+              "insert",
+              "interject",
+              "add",
+              "put in; informalslip in \"I must interpose a note of caution\""
+            ]
+          },
+          {
+            "definition": "exercise or advance (a veto or objection) so as to interfere.",
+            "examples": [
+              "the memo interposes no objection to issuing a discharge"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

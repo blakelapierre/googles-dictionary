@@ -1,0 +1,30 @@
+[
+  {
+    "word": "krone",
+    "syllables": [
+      "kro",
+      "ne"
+    ],
+    "pronunciation": "ˈkrōnə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "krone"
+          },
+          {
+            "part": "plural noun",
+            "variant": "kroner"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the basic monetary unit of Denmark and Norway, equal to 100 øre."
+          }
+        ]
+      }
+    ]
+  }
+]

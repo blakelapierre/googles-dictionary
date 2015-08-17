@@ -1,0 +1,62 @@
+[
+  {
+    "word": "infect",
+    "syllables": [
+      "in",
+      "fect"
+    ],
+    "pronunciation": "inˈfekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "infected"
+          },
+          {
+            "part": "past participle",
+            "variant": "infected"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "affect (a person, organism, cell, etc.) with a disease-causing organism.",
+            "examples": [
+              "there is no evidence that the virus can infect humans"
+            ],
+            "synonyms": [
+              "pass infection to",
+              "spread disease to",
+              "contaminate \"he didn't want to infect others with his chickenpox\""
+            ]
+          },
+          {
+            "definition": "contaminate (air, water, etc.) with harmful organisms.",
+            "examples": [
+              "contaminate, pollute, taint, foul, dirty, blight, damage, ruin; poison nitrates were infecting rivers"
+            ]
+          },
+          {
+            "definition": "affect with a virus."
+          },
+          {
+            "definition": "(of a negative feeling or idea) take hold of or be communicated to (someone).",
+            "examples": [
+              "the panic in his voice infected her"
+            ],
+            "synonyms": [
+              "affect",
+              "influence",
+              "have an impact on",
+              "touch; Moreexcite",
+              "inspire",
+              "stimulate",
+              "animate \"his high spirits infected everyone\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

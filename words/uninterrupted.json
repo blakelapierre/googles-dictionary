@@ -1,0 +1,47 @@
+[
+  {
+    "word": "uninterrupted",
+    "syllables": [
+      "un",
+      "in",
+      "ter",
+      "rupt",
+      "ed"
+    ],
+    "pronunciation": "ˌənˌin(t)əˈrəptəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "uninterrupted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "without a break in continuity.",
+            "examples": [
+              "an uninterrupted flow of traffic"
+            ],
+            "synonyms": [
+              "unbroken",
+              "continuous",
+              "continual",
+              "constant",
+              "nonstop",
+              "ceaseless; Moreundisturbed",
+              "untroubled \"an uninterrupted 55 minutes of your favorite music\""
+            ],
+            "antonyms": [
+              "intermittent"
+            ]
+          },
+          {
+            "definition": "(of a view) unobstructed."
+          }
+        ]
+      }
+    ]
+  }
+]

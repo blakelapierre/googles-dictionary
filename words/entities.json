@@ -1,0 +1,55 @@
+[
+  {
+    "word": "entity",
+    "syllables": [
+      "en",
+      "ti",
+      "ty"
+    ],
+    "pronunciation": "ˈen(t)ədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "entities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing with distinct and independent existence.",
+            "examples": [
+              "church and empire were fused in a single entity"
+            ],
+            "synonyms": [
+              "being",
+              "creature",
+              "individual",
+              "organism",
+              "life form; Moreperson; body",
+              "object",
+              "article",
+              "thing \"a single entity\""
+            ]
+          },
+          {
+            "definition": "existence; being.",
+            "examples": [
+              "entity and nonentity"
+            ],
+            "synonyms": [
+              "existence",
+              "being; Morelife",
+              "living",
+              "animation; substance",
+              "essence",
+              "reality",
+              "actuality \"the distinction between entity and nonentity\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

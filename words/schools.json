@@ -1,0 +1,190 @@
+[
+  {
+    "word": "school",
+    "syllables": [
+      "school"
+    ],
+    "pronunciation": "sko͞ol",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "schools"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an institution for educating children.",
+            "examples": [
+              "Ryder's children did not go to school at all"
+            ],
+            "synonyms": [
+              "educational institution; Moreacademy",
+              "college",
+              "university; seminary; alma mater \"their children went to the local school\""
+            ]
+          },
+          {
+            "definition": "the buildings used by an institution for educating children.",
+            "examples": [
+              "the cost of building a new school"
+            ]
+          },
+          {
+            "definition": "the students and staff of a school.",
+            "examples": [
+              "plural noun: school"
+            ]
+          },
+          {
+            "definition": "a day's work at school; lessons.",
+            "examples": [
+              "school started at 7 a.m."
+            ]
+          },
+          {
+            "definition": "any institution at which instruction is given in a particular discipline.",
+            "examples": [
+              "a dancing school"
+            ]
+          },
+          {
+            "definition": "another term for university."
+          },
+          {
+            "definition": "a department or faculty of a college concerned with a particular subject of study.",
+            "examples": [
+              "the School of Dental Medicine"
+            ],
+            "synonyms": [
+              "department",
+              "faculty",
+              "division \"the university's School of Law\""
+            ]
+          },
+          {
+            "definition": "a group of people, particularly writers, artists, or philosophers, sharing the same or similar ideas, methods, or style.",
+            "examples": [
+              "the Frankfurt school of critical theory"
+            ],
+            "synonyms": [
+              "group",
+              "set",
+              "circle; Morefollowers",
+              "following",
+              "disciples",
+              "apostles",
+              "admirers",
+              "devotees",
+              "votaries; proponents",
+              "adherents \"the Barbizon school\""
+            ]
+          },
+          {
+            "definition": "a style, approach, or method of a specified character.",
+            "examples": [
+              "filmmakers are tired of the skin-deep school of cinema"
+            ],
+            "synonyms": [
+              "way of thinking",
+              "persuasion",
+              "creed",
+              "credo",
+              "doctrine",
+              "belief",
+              "faith",
+              "opinion",
+              "point of view; Moreapproach",
+              "method",
+              "style \"the school of linguistics associated with his ideas\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "schools"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "send to school; educate.",
+            "examples": [
+              "he was schooled in Boston"
+            ],
+            "synonyms": [
+              "educate",
+              "teach",
+              "instruct \"he was born in Paris and schooled in Lyon\""
+            ]
+          },
+          {
+            "definition": "train or discipline (someone) in a particular skill or activity.",
+            "examples": [
+              "he schooled her in horsemanship"
+            ],
+            "synonyms": [
+              "train",
+              "teach",
+              "tutor",
+              "coach",
+              "instruct",
+              "drill",
+              "discipline",
+              "direct",
+              "guide",
+              "prepare",
+              "groom; Moreprime",
+              "verse \"he schooled her in horsemanship\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "syllables": [
+      "school"
+    ],
+    "pronunciation": "sko͞ol",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "schools"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large group of fish or sea mammals.",
+            "examples": [
+              "shoal; Morepod, gam \"a school of fish\"Morepod, gam a school of fish"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "schools"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of fish or sea mammals) form a large group."
+          }
+        ]
+      }
+    ]
+  }
+]

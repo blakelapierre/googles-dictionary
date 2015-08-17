@@ -1,0 +1,26 @@
+[
+  {
+    "word": "enzyme",
+    "syllables": [
+      "en",
+      "zyme"
+    ],
+    "pronunciation": "ˈenzīm",
+    "parts": [
+      {
+        "part": "nounBiochemistry",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "enzymes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance produced by a living organism that acts as a catalyst to bring about a specific biochemical reaction."
+          }
+        ]
+      }
+    ]
+  }
+]

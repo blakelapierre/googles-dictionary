@@ -1,0 +1,40 @@
+[
+  {
+    "word": "rosary",
+    "syllables": [
+      "ro",
+      "sa",
+      "ry"
+    ],
+    "pronunciation": "ˈrōz(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rosary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rosaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in the Roman Catholic Church) a form of devotion in which five (or fifteen) decades of Hail Marys are repeated, each decade preceded by an Our Father and followed by a Glory Be.",
+            "examples": [
+              "the congregation said the rosary"
+            ]
+          },
+          {
+            "definition": "a string of beads for keeping count in a rosary or in the devotions of some other religions."
+          },
+          {
+            "definition": "a book containing a rosary."
+          }
+        ]
+      }
+    ]
+  }
+]

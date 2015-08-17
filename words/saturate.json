@@ -1,0 +1,63 @@
+[
+  {
+    "word": "saturate",
+    "syllables": [
+      "sat",
+      "u",
+      "rate"
+    ],
+    "pronunciation": "ˈsaCHəˌrātˈsaCHərətˈsaCHərət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "saturate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "saturates"
+          },
+          {
+            "part": "past tense",
+            "variant": "saturated"
+          },
+          {
+            "part": "past participle",
+            "variant": "saturated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "saturating"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "saturate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "saturates"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjectiveliterary",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "saturate"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

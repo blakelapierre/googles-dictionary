@@ -1,0 +1,137 @@
+[
+  {
+    "word": "edit",
+    "syllables": [
+      "ed",
+      "it"
+    ],
+    "pronunciation": "ˈedət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "edit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "edits"
+          },
+          {
+            "part": "past tense",
+            "variant": "edited"
+          },
+          {
+            "part": "past participle",
+            "variant": "edited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "editing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prepare (written material) for publication by correcting, condensing, or otherwise modifying it.",
+            "examples": [
+              "Volume I was edited by J. Johnson"
+            ],
+            "synonyms": [
+              "correct",
+              "check",
+              "copyedit",
+              "improve",
+              "emend",
+              "polish; Moremodify",
+              "adapt",
+              "revise",
+              "rewrite",
+              "reword",
+              "rework",
+              "redraft",
+              "rescript; shorten",
+              "condense",
+              "cut",
+              "abridge; informalclean up",
+              "blue-pencil \"she edited the text\"select",
+              "choose",
+              "assemble",
+              "organize",
+              "put together \"this volume was edited by a consultant\""
+            ]
+          },
+          {
+            "definition": "choose material for (a movie or a radio or television program) and arrange it to form a coherent whole.",
+            "examples": [
+              "the footage wasn't good enough to be edited into broadcast form"
+            ],
+            "synonyms": [
+              "select",
+              "choose",
+              "assemble",
+              "organize",
+              "put together \"this volume was edited by a consultant\""
+            ]
+          },
+          {
+            "definition": "change (text) on a computer."
+          },
+          {
+            "definition": "remove unnecessary or inappropriate words, sounds, or scenes from a text, movie, or radio or television program."
+          },
+          {
+            "definition": "be editor of (a newspaper or magazine).",
+            "examples": [
+              "be the editor of, direct, run, manage, head, lead, supervise, oversee, preside over; be the boss of he edited the school newspaper"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "edit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "edits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a change or correction made as a result of editing."
+          },
+          {
+            "definition": "a version of written, recorded, or filmed material made as a result of editing.",
+            "examples": [
+              "a rough edit of some delightful Javanese gamelan music"
+            ]
+          },
+          {
+            "definition": "a featured selection of clothes, accessories, beauty products, etc., from a particular season or collection.",
+            "examples": [
+              "this is ELLE’s personal Autumn/Winter 2012 edit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "edit.",
+    "syllables": [
+      "edit."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

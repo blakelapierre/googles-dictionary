@@ -1,0 +1,118 @@
+[
+  {
+    "word": "sprinkle",
+    "syllables": [
+      "sprin",
+      "kle"
+    ],
+    "pronunciation": "ˈspriNGk(ə)l",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sprinkle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sprinkles"
+          },
+          {
+            "part": "past tense",
+            "variant": "sprinkled"
+          },
+          {
+            "part": "past participle",
+            "variant": "sprinkled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sprinkling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "scatter or pour small drops or particles of a substance over (an object or surface).",
+            "examples": [
+              "I sprinkled the floor with water"
+            ],
+            "synonyms": [
+              "splash",
+              "trickle",
+              "spray",
+              "shower; Morespatter \"he sprinkled water over the towel\"scatter",
+              "strew; drizzle",
+              "pepper \"sprinkle sesame seeds over the top\""
+            ]
+          },
+          {
+            "definition": "scatter or pour (small drops or particles of a substance) over an object or surface.",
+            "examples": [
+              "sprinkle sesame seeds over the top"
+            ],
+            "synonyms": [
+              "dredge",
+              "dust \"sprinkle the cake with powdered sugar\""
+            ]
+          },
+          {
+            "definition": "distribute or disperse something randomly or irregularly throughout (something).",
+            "examples": [
+              "he sprinkled his conversation with quotations"
+            ],
+            "synonyms": [
+              "dot",
+              "stipple",
+              "stud",
+              "fleck",
+              "speckle",
+              "spot",
+              "pepper; Morescatter",
+              "cover \"the sky was sprinkled with stars\""
+            ]
+          },
+          {
+            "definition": "place or attach (a number of things) at irregularly spaced intervals.",
+            "examples": [
+              "a dress with little daisies sprinkled all over it"
+            ]
+          },
+          {
+            "definition": "rain very lightly.",
+            "examples": [
+              "it began to sprinkle"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sprinkle"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sprinkles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small quantity or amount of something scattered over an object or surface.",
+            "examples": [
+              "a generous sprinkle of pepper"
+            ]
+          },
+          {
+            "definition": "a light rain."
+          },
+          {
+            "definition": "tiny sugar shapes, typically rods and balls, used for decorating cakes, ice cream, and other desserts."
+          }
+        ]
+      }
+    ]
+  }
+]

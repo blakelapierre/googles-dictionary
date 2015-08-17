@@ -1,0 +1,88 @@
+[
+  {
+    "word": "mushroom",
+    "syllables": [
+      "mush",
+      "room"
+    ],
+    "pronunciation": "ˈməSHˌro͞omˈməSHˌro͝om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "mushrooms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fungal growth that typically takes the form of a domed cap on a stalk, often with gills on the underside of the cap.",
+            "examples": [
+              "fungus, button mushroom, cep, chanterelle, cremini, enoki, field mushroom, honey mushroom, horse mushroom, matsutake, morel, oyster mushroom, pine mushroom, porcini, portobello, shiitake, death cap, bolete the mushrooms thrive in this warm wet weather"
+            ]
+          },
+          {
+            "definition": "a thing resembling a mushroom in shape.",
+            "examples": [
+              "a mushroom of smoke and flames"
+            ]
+          },
+          {
+            "definition": "a pale pinkish-brown color.",
+            "examples": [
+              "a mushroom leather bag"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "mushrooms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "increase, spread, or develop rapidly.",
+            "examples": [
+              "environmental concern mushroomed in the 1960s"
+            ],
+            "synonyms": [
+              "proliferate",
+              "grow/develop rapidly",
+              "burgeon",
+              "spread",
+              "increase",
+              "expand",
+              "boom",
+              "explode",
+              "snowball",
+              "rocket",
+              "skyrocket; Morethrive",
+              "flourish",
+              "prosper \"ecotourism mushroomed in the 1980s\""
+            ],
+            "antonyms": [
+              "contract"
+            ]
+          },
+          {
+            "definition": "(of the smoke, fire, or flames produced by an explosion) spread into the air in a shape resembling that of a mushroom.",
+            "examples": [
+              "the grenade mushroomed into red fire as it hit the hillside"
+            ]
+          },
+          {
+            "definition": "(of a bullet) expand and flatten on reaching its target."
+          },
+          {
+            "definition": "(of a person) gather mushrooms."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "ardor",
+    "syllables": [
+      "ar",
+      "dor"
+    ],
+    "pronunciation": "ˈärdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ardour"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ardours"
+          },
+          {
+            "part": "noun",
+            "variant": "ardor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ardors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "enthusiasm or passion.",
+            "examples": [
+              "they felt the stirrings of revolutionary ardor"
+            ],
+            "synonyms": [
+              "passion",
+              "fervor",
+              "zeal",
+              "vehemence",
+              "intensity",
+              "verve",
+              "fire",
+              "emotion; Moreenthusiasm",
+              "eagerness",
+              "avidity",
+              "gusto",
+              "keenness",
+              "dedication \"approaching the project with ardor\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "word": "suspicion",
+    "syllables": [
+      "sus",
+      "pi",
+      "cion"
+    ],
+    "pronunciation": "səˈspiSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "suspicion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "suspicions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling or thought that something is possible, likely, or true.",
+            "examples": [
+              "she had a sneaking suspicion that he was laughing at her"
+            ],
+            "synonyms": [
+              "intuition",
+              "feeling",
+              "impression",
+              "inkling",
+              "hunch",
+              "fancy",
+              "notion",
+              "supposition",
+              "belief",
+              "idea",
+              "theory; Morepresentiment",
+              "premonition; informalgut feeling",
+              "sixth sense \"she had a suspicion that he didn't like her\""
+            ]
+          },
+          {
+            "definition": "a feeling or belief that someone is guilty of an illegal, dishonest, or unpleasant action.",
+            "examples": [
+              "police would not say what aroused their suspicions"
+            ]
+          },
+          {
+            "definition": "cautious distrust.",
+            "examples": [
+              "her activities were regarded with suspicion by the headmistress"
+            ],
+            "synonyms": [
+              "misgiving",
+              "doubt",
+              "qualm",
+              "reservation",
+              "hesitation",
+              "question; Moreskepticism",
+              "uncertainty",
+              "distrust",
+              "mistrust \"I confronted him with my suspicions\""
+            ]
+          },
+          {
+            "definition": "a very slight trace of something.",
+            "examples": [
+              "a suspicion of a smile"
+            ],
+            "synonyms": [
+              "trace",
+              "touch",
+              "suggestion",
+              "hint",
+              "soupçon",
+              "tinge",
+              "shade",
+              "whiff",
+              "bit",
+              "drop",
+              "dash",
+              "taste",
+              "jot",
+              "mite \"wine with a suspicion of soda\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

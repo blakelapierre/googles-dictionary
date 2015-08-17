@@ -1,0 +1,62 @@
+[
+  {
+    "word": "unclear",
+    "syllables": [
+      "un",
+      "clear"
+    ],
+    "pronunciation": "ˌənˈklir",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unclear"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not easy to see, hear, or understand.",
+            "examples": [
+              "the motive for this killing is unclear"
+            ]
+          },
+          {
+            "definition": "not obvious or definite; ambiguous.",
+            "examples": [
+              "their future remains unclear"
+            ],
+            "synonyms": [
+              "uncertain",
+              "unsure",
+              "unsettled",
+              "up in the air",
+              "debatable",
+              "open to question",
+              "in doubt",
+              "doubtful; Moreambiguous",
+              "equivocal",
+              "indefinite",
+              "vague",
+              "mysterious",
+              "obscure",
+              "hazy",
+              "foggy",
+              "nebulous; informaliffy \"his reason for being here is unclear\""
+            ],
+            "antonyms": [
+              "evident"
+            ]
+          },
+          {
+            "definition": "having or feeling doubt or confusion.",
+            "examples": [
+              "users are still unclear about what middleware does"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "word": "undone",
+    "syllables": [
+      "un",
+      "done"
+    ],
+    "pronunciation": "ˌənˈdən",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "undone"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not tied or fastened.",
+            "examples": [
+              "the top few buttons of his shirt were undone"
+            ]
+          },
+          {
+            "definition": "not done or finished.",
+            "examples": [
+              "he had left his homework undone"
+            ],
+            "synonyms": [
+              "unfinished",
+              "incomplete",
+              "half-done",
+              "unaccomplished",
+              "unfulfilled",
+              "unconcluded; Moreomitted",
+              "neglected",
+              "disregarded",
+              "ignored; remaining",
+              "outstanding",
+              "deferred",
+              "pending",
+              "on ice; informalon the back burner \"some work was left undone\""
+            ],
+            "antonyms": [
+              "finished"
+            ]
+          },
+          {
+            "definition": "(of a person) ruined by a disastrous or devastating setback or reverse.",
+            "examples": [
+              "I am undone!"
+            ],
+            "synonyms": [
+              "done for",
+              "finished",
+              "ruined",
+              "destroyed",
+              "doomed",
+              "lost",
+              "defeated",
+              "beaten; Moreinformalwashed up",
+              "toast \"she had lost and was utterly undone\""
+            ],
+            "antonyms": [
+              "successful"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "undo",
+    "syllables": [
+      "un",
+      "do"
+    ],
+    "pronunciation": "ˌənˈdo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "undone"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unfasten, untie, or loosen (something).",
+            "examples": [
+              "the knot was difficult to undo"
+            ],
+            "synonyms": [
+              "unfasten",
+              "unbutton",
+              "unhook",
+              "untie",
+              "unlace; Moreunlock",
+              "unbolt; loosen",
+              "disentangle",
+              "extricate",
+              "release",
+              "detach",
+              "free",
+              "open; disconnect",
+              "disengage",
+              "separate \"he undid another button\""
+            ],
+            "antonyms": [
+              "fasten"
+            ]
+          },
+          {
+            "definition": "cancel or reverse the effects or results of (a previous action or measure).",
+            "examples": [
+              "there wasn't any way Evelyn could undo the damage"
+            ],
+            "synonyms": [
+              "revoke",
+              "overrule",
+              "overturn",
+              "repeal",
+              "rescind",
+              "reverse",
+              "retract",
+              "countermand",
+              "cancel",
+              "annul",
+              "nullify",
+              "invalidate",
+              "void",
+              "negate; Morevacate; formalabrogate \"they will undo a decision by the superior court\""
+            ],
+            "antonyms": [
+              "ratify"
+            ]
+          },
+          {
+            "definition": "cancel (the last one or more commands executed by a computer)."
+          },
+          {
+            "definition": "cause the downfall or ruin of.",
+            "examples": [
+              "Iago's hatred of women undoes him"
+            ],
+            "synonyms": [
+              "ruin",
+              "undermine",
+              "subvert",
+              "overturn",
+              "scotch",
+              "sabotage",
+              "spoil",
+              "impair",
+              "mar",
+              "destroy",
+              "wreck",
+              "eradicate",
+              "obliterate; Morecancel out",
+              "neutralize",
+              "thwart",
+              "foil",
+              "frustrate",
+              "hamper",
+              "hinder",
+              "obstruct; informalblow",
+              "put the kibosh on",
+              "foul up",
+              "scuttle \"she undid much of the good work done\""
+            ],
+            "antonyms": [
+              "enhance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

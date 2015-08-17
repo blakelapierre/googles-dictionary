@@ -1,0 +1,63 @@
+[
+  {
+    "word": "marinade",
+    "syllables": [
+      "mar",
+      "i",
+      "nade"
+    ],
+    "pronunciation": "ˌmerəˈnādˈmerəˌnād",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "marinade"
+          },
+          {
+            "part": "plural noun",
+            "variant": "marinades"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sauce, typically made of oil, vinegar, spices, and herbs, in which meat, fish, or other food is soaked before cooking in order to flavor or soften it."
+          },
+          {
+            "definition": "a dish prepared using a marinade.",
+            "examples": [
+              "a chicken marinade"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "marinade"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "marinades"
+          },
+          {
+            "part": "past tense",
+            "variant": "marinaded"
+          },
+          {
+            "part": "past participle",
+            "variant": "marinaded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "marinading"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

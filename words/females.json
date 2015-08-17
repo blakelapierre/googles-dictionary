@@ -1,0 +1,26 @@
+[
+  {
+    "word": "female",
+    "syllables": [
+      "fe",
+      "male"
+    ],
+    "pronunciation": "ˈfēˌmāl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "females"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a female person, animal, or plant."
+          }
+        ]
+      }
+    ]
+  }
+]

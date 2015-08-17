@@ -1,0 +1,93 @@
+[
+  {
+    "word": "calling",
+    "syllables": [
+      "call",
+      "ing"
+    ],
+    "pronunciation": "ˈkôliNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "calling"
+          },
+          {
+            "part": "plural noun",
+            "variant": "callings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the loud cries or shouts of an animal or person.",
+            "examples": [
+              "the calling of a cuckoo"
+            ]
+          },
+          {
+            "definition": "a strong urge toward a particular way of life or career; a vocation.",
+            "examples": [
+              "those who have a special calling to minister to others' needs"
+            ],
+            "synonyms": [
+              "profession",
+              "occupation",
+              "vocation",
+              "call",
+              "summons",
+              "career",
+              "work",
+              "employment",
+              "job",
+              "business",
+              "trade",
+              "craft",
+              "line",
+              "line of work; Moreinformalbag; archaicemploy \"when I was four",
+              "I knew my calling was photography\""
+            ]
+          },
+          {
+            "definition": "a profession or occupation.",
+            "examples": [
+              "he considered engineering one of the highest possible callings"
+            ],
+            "synonyms": [
+              "profession",
+              "occupation",
+              "vocation",
+              "call",
+              "summons",
+              "career",
+              "work",
+              "employment",
+              "job",
+              "business",
+              "trade",
+              "craft",
+              "line",
+              "line of work; Moreinformalbag; archaicemploy \"when I was four",
+              "I knew my calling was photography\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "call",
+    "syllables": [
+      "call"
+    ],
+    "pronunciation": "kôl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

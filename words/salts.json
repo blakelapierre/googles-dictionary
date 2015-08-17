@@ -1,0 +1,86 @@
+[
+  {
+    "word": "salt",
+    "syllables": [
+      "salt"
+    ],
+    "pronunciation": "sôlt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "salts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a white crystalline substance that gives seawater its characteristic taste and is used for seasoning or preserving food.",
+            "examples": [
+              "sodium chloride, table salt, NaCl the potatoes need salt"
+            ]
+          },
+          {
+            "definition": "something that adds freshness or piquancy.",
+            "examples": [
+              "he described danger as the salt of pleasure"
+            ],
+            "synonyms": [
+              "zest",
+              "spice",
+              "piquancy",
+              "bite",
+              "edge; Morevitality",
+              "liveliness",
+              "spirit",
+              "sparkle; informalzing",
+              "punch \"he added salt to the conversation\""
+            ]
+          },
+          {
+            "definition": "a saltcellar."
+          },
+          {
+            "definition": "any chemical compound formed from the reaction of an acid with a base, with all or part of the hydrogen of the acid replaced by a metal or other cation."
+          },
+          {
+            "definition": "an experienced sailor."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "salts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "season or preserve with salt.",
+            "examples": [
+              "cook the carrots in boiling salted water"
+            ]
+          },
+          {
+            "definition": "make (something) piquant or more interesting.",
+            "examples": [
+              "there was good talk to salt the occasion"
+            ]
+          },
+          {
+            "definition": "sprinkle (a road or path) with salt in order to melt snow or ice."
+          },
+          {
+            "definition": "fraudulently make (a mine) appear to be a paying one by placing rich ore in it."
+          },
+          {
+            "definition": "(of a horse) having developed a resistance to disease by surviving it."
+          }
+        ]
+      }
+    ]
+  }
+]

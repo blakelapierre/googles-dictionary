@@ -1,0 +1,56 @@
+[
+  {
+    "word": "inflict",
+    "syllables": [
+      "in",
+      "flict"
+    ],
+    "pronunciation": "inˈflikt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "inflicted"
+          },
+          {
+            "part": "past participle",
+            "variant": "inflicted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something unpleasant or painful) to be suffered by someone or something.",
+            "examples": [
+              "they inflicted serious injuries on three other men"
+            ],
+            "synonyms": [
+              "administer to",
+              "deliver to",
+              "deal out to",
+              "dispense to",
+              "mete out to; Moreimpose on",
+              "exact on",
+              "wreak on; cause to",
+              "give to; informaldish out to \"he inflicted an injury on James\""
+            ]
+          },
+          {
+            "definition": "impose something unwelcome on.",
+            "examples": [
+              "she is wrong to inflict her beliefs on everyone else"
+            ],
+            "synonyms": [
+              "impose",
+              "force",
+              "thrust",
+              "foist; Moresaddle someone with",
+              "burden someone with \"I won't inflict myself on you any longer\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

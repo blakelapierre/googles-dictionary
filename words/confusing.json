@@ -1,0 +1,119 @@
+[
+  {
+    "word": "confusing",
+    "syllables": [
+      "con",
+      "fus",
+      "ing"
+    ],
+    "pronunciation": "kənˈfyo͞oziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "confusing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bewildering or perplexing.",
+            "examples": [
+              "he found being in Egypt very confusing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "confuse",
+    "syllables": [
+      "con",
+      "fuse"
+    ],
+    "pronunciation": "kənˈfyo͞oz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "confusing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) to become bewildered or perplexed.",
+            "examples": [
+              "past and present blurred together, confusing her still further"
+            ],
+            "synonyms": [
+              "bewilder",
+              "baffle",
+              "mystify",
+              "bemuse",
+              "perplex",
+              "puzzle",
+              "confound; Moreinformalflummox",
+              "faze",
+              "stump",
+              "fox",
+              "discombobulate",
+              "bedazzle \"don't confuse students with too much detail\"bewildering",
+              "baffling",
+              "unclear",
+              "perplexing",
+              "puzzling",
+              "mystifying",
+              "disconcerting; ambiguous",
+              "misleading",
+              "inconsistent",
+              "contradictory; unaccountable",
+              "inexplicable",
+              "impenetrable",
+              "unfathomable; complex",
+              "complicated \"the instructions are confusing\""
+            ],
+            "antonyms": [
+              "enlighten"
+            ]
+          },
+          {
+            "definition": "make (something) more complex or less easy to understand.",
+            "examples": [
+              "the points made by the authors confuse rather than clarify the issue"
+            ],
+            "synonyms": [
+              "complicate",
+              "muddle",
+              "jumble",
+              "overcomplicate",
+              "garble",
+              "blur",
+              "obscure",
+              "cloud \"the authors have confused the issue\""
+            ],
+            "antonyms": [
+              "simplify"
+            ]
+          },
+          {
+            "definition": "identify wrongly; mistake.",
+            "examples": [
+              "a lot of people confuse a stroke with a heart attack"
+            ],
+            "synonyms": [
+              "mistake for",
+              "take for",
+              "misinterpret as; Moremix up with",
+              "muddle up with",
+              "confound with \"some people confuse strokes with heart attacks\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

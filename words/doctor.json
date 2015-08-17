@@ -1,0 +1,152 @@
+[
+  {
+    "word": "doctor",
+    "syllables": [
+      "doc",
+      "tor"
+    ],
+    "pronunciation": "ˈdäktər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "doctor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "doctors"
+          },
+          {
+            "part": "noun",
+            "variant": "Doctor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Doctors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a qualified practitioner of medicine; a physician.",
+            "examples": [
+              "physician, MD, medical practitioner, clinician; Moregeneral practitioner, GP; medic, intern; informaldoc, medico, quack, sawbones \"Claudio went to see a doctor\"Moregeneral practitioner, GP; medic, intern; doc, medico, quack, sawbones Claudio went to see a doctor"
+            ]
+          },
+          {
+            "definition": "a qualified dentist or veterinary surgeon."
+          },
+          {
+            "definition": "a person who gives advice or makes improvements.",
+            "examples": [
+              "the script doctor rewrote the original"
+            ]
+          },
+          {
+            "definition": "a person who holds a doctorate.",
+            "examples": [
+              "he was made a Doctor of Divinity"
+            ]
+          },
+          {
+            "definition": "short for Doctor of the Church."
+          },
+          {
+            "definition": "a teacher or learned person.",
+            "examples": [
+              "the wisest doctor is graveled by the inquisitiveness of a child"
+            ]
+          },
+          {
+            "definition": "an artificial fishing fly."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "doctor"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "doctors"
+          },
+          {
+            "part": "past tense",
+            "variant": "doctored"
+          },
+          {
+            "part": "past participle",
+            "variant": "doctored"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "doctoring"
+          },
+          {
+            "part": "noun",
+            "variant": "doctoring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "change the content or appearance of (a document or picture) in order to deceive; falsify.",
+            "examples": [
+              "the reports could have been doctored"
+            ],
+            "synonyms": [
+              "falsify",
+              "tamper with",
+              "interfere with",
+              "alter",
+              "change; Moreforge",
+              "fake; informalcook",
+              "fiddle with \"the reports have been doctored\""
+            ]
+          },
+          {
+            "definition": "alter the content of (a drink, food, or substance) by adding strong or harmful ingredients.",
+            "examples": [
+              "he denied doctoring Stephen's drinks"
+            ],
+            "synonyms": [
+              "adulterate",
+              "contaminate",
+              "tamper with",
+              "lace; Moreinformalspike",
+              "dope \"he doctored Stephen's drink\""
+            ]
+          },
+          {
+            "definition": "tamper with (a ball) so as to affect its movement when pitched."
+          },
+          {
+            "definition": "treat (someone) medically.",
+            "examples": [
+              "he contemplated giving up doctoring"
+            ],
+            "synonyms": [
+              "treat",
+              "medicate",
+              "cure",
+              "heal; Moretend",
+              "attend to",
+              "minister to",
+              "care for",
+              "nurse \"he doctored their wounds\""
+            ]
+          },
+          {
+            "definition": "remove the sexual organs of (an animal) so that it cannot reproduce."
+          },
+          {
+            "definition": "repair (a machine)."
+          }
+        ]
+      }
+    ]
+  }
+]

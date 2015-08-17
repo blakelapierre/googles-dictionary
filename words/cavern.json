@@ -1,0 +1,39 @@
+[
+  {
+    "word": "cavern",
+    "syllables": [
+      "cav",
+      "ern"
+    ],
+    "pronunciation": "ˈkavərn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cavern"
+          },
+          {
+            "part": "plural noun",
+            "variant": "caverns"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cave, or a chamber in a cave, typically a large one.",
+            "examples": [
+              "large cave, grotto, underground chamber/gallery, vault the crude stone steps led down to a dank and cold cavern"
+            ]
+          },
+          {
+            "definition": "used in similes and comparisons to refer to a vast, dark space.",
+            "examples": [
+              "the dark cavern of the main performance hall"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

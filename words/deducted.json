@@ -1,0 +1,46 @@
+[
+  {
+    "word": "deduct",
+    "syllables": [
+      "de",
+      "duct"
+    ],
+    "pronunciation": "dəˈdəkt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "deducted"
+          },
+          {
+            "part": "past participle",
+            "variant": "deducted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "subtract or take away (an amount or part) from a total.",
+            "examples": [
+              "tax has been deducted from the payments"
+            ],
+            "synonyms": [
+              "subtract",
+              "take away",
+              "take off",
+              "debit",
+              "dock",
+              "discount; Moreabstract",
+              "remove",
+              "knock off \"we'll deduct ten percent from the total\""
+            ],
+            "antonyms": [
+              "add"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "teaching",
+    "syllables": [
+      "teach",
+      "ing"
+    ],
+    "pronunciation": "ˈtēCHiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "teachings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the occupation, profession, or work of a teacher."
+          },
+          {
+            "definition": "ideas or principles taught by an authority.",
+            "examples": [
+              "the teachings of the Koran"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

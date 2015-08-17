@@ -1,0 +1,130 @@
+[
+  {
+    "word": "awake",
+    "syllables": [
+      "a",
+      "wake"
+    ],
+    "pronunciation": "əˈwāk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "awake"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "awakes"
+          },
+          {
+            "part": "past tense",
+            "variant": "awoke"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "awaking"
+          },
+          {
+            "part": "past participle",
+            "variant": "awoken"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stop sleeping; wake from sleep.",
+            "examples": [
+              "she awoke to find the streets covered in snow"
+            ],
+            "synonyms": [
+              "wake (up)",
+              "awaken",
+              "stir",
+              "come to",
+              "come around; literarywaken \"she awoke the following morning\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to wake from sleep.",
+            "examples": [
+              "my screams awoke my parents"
+            ],
+            "synonyms": [
+              "wake (up)",
+              "awaken",
+              "rouse",
+              "arouse \"the alarm awoke her at 7"
+            ]
+          },
+          {
+            "definition": "regain consciousness.",
+            "examples": [
+              "I awoke six hours after the operation"
+            ]
+          },
+          {
+            "definition": "become aware of; come to a realization of.",
+            "examples": [
+              "the authorities finally awoke to the extent of the problem"
+            ],
+            "synonyms": [
+              "realize",
+              "become aware of",
+              "become conscious of; Moreinformalclue in to",
+              "get wise to \"they finally awoke to the extent of the problem\""
+            ]
+          },
+          {
+            "definition": "make or become active again.",
+            "examples": [
+              "there were echoes and scents that awoke some memory in me"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "awake"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not asleep.",
+            "examples": [
+              "the noise might keep you awake at night"
+            ],
+            "synonyms": [
+              "wakeful",
+              "sleepless",
+              "restless",
+              "restive; archaicwatchful \"she was still awake at 2"
+            ],
+            "antonyms": [
+              "asleep"
+            ]
+          },
+          {
+            "definition": "aware of.",
+            "examples": [
+              "too few are awake to the dangers"
+            ],
+            "synonyms": [
+              "aware of",
+              "conscious of",
+              "mindful of",
+              "alert to; Moreformalcognizant of; informalclued in to; archaicware of \"too few are awake to the dangers\""
+            ],
+            "antonyms": [
+              "unaware",
+              "oblivious"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

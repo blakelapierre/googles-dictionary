@@ -1,0 +1,30 @@
+[
+  {
+    "word": "washcloth",
+    "syllables": [
+      "wash",
+      "cloth"
+    ],
+    "pronunciation": "ˈwäSHˌklôTHˈwôSHˌklôTH",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "washcloth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "washcloths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cloth for washing one's face and body, typically made of terry cloth or other absorbent material."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "illusion",
+    "syllables": [
+      "il",
+      "lu",
+      "sion"
+    ],
+    "pronunciation": "iˈlo͞oZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "illusions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that is or is likely to be wrongly perceived or interpreted by the senses.",
+            "examples": [
+              "the illusion makes parallel lines seem to diverge by placing them on a zigzag-striped background"
+            ],
+            "synonyms": [
+              "mirage",
+              "hallucination",
+              "apparition",
+              "figment of the imagination",
+              "trick of the light",
+              "trompe l'oeil; Moredeception",
+              "trick",
+              "smoke and mirrors \"it's just an illusion\"(magic) trick",
+              "conjuring trick; magic",
+              "conjuring",
+              "sleight of hand",
+              "legerdemain \"Houdini's amazing illusions\""
+            ]
+          },
+          {
+            "definition": "a deceptive appearance or impression.",
+            "examples": [
+              "the illusion of family togetherness"
+            ],
+            "synonyms": [
+              "appearance",
+              "impression",
+              "semblance; Moremisperception",
+              "false appearance; raresimulacrum \"the lighting increases the illusion of depth\""
+            ]
+          },
+          {
+            "definition": "a false idea or belief.",
+            "examples": [
+              "he had no illusions about the trouble she was in"
+            ],
+            "synonyms": [
+              "delusion",
+              "misapprehension",
+              "misconception",
+              "false impression; Morefantasy",
+              "fancy",
+              "dream",
+              "chimera; fool's paradise",
+              "self-deception; false consciousness \"he had destroyed her illusions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

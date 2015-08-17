@@ -1,0 +1,39 @@
+[
+  {
+    "word": "dissent",
+    "syllables": [
+      "dis",
+      "sent"
+    ],
+    "pronunciation": "dəˈsent",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "dissents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hold or express opinions that are at variance with those previously, commonly, or officially expressed.",
+            "examples": [
+              "two members dissented from the majority"
+            ]
+          },
+          {
+            "definition": "separate from an established or orthodox church because of doctrinal disagreement.",
+            "examples": [
+              "differ, disagree, demur, fail to agree, be at variance/odds, take issue; Moredecline/refuse to support, protest, object, dispute, challenge, quibble \"two members dissented\"Moredecline/refuse to support, protest, object, dispute, challenge, quibble two members dissented"
+            ],
+            "antonyms": [
+              "agree",
+              "accept"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

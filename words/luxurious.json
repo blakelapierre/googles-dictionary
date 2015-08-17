@@ -1,0 +1,75 @@
+[
+  {
+    "word": "luxurious",
+    "syllables": [
+      "lux",
+      "u",
+      "ri",
+      "ous"
+    ],
+    "pronunciation": "ˌləɡˈZHo͝orēəsˌləkˈSHo͝orēəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "luxurious"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extremely comfortable, elegant, or enjoyable, especially in a way that involves great expense.",
+            "examples": [
+              "the bedrooms have luxurious marble bathrooms"
+            ],
+            "synonyms": [
+              "opulent",
+              "sumptuous",
+              "deluxe",
+              "rich",
+              "grand",
+              "palatial",
+              "splendid",
+              "magnificent",
+              "well appointed",
+              "extravagant",
+              "fancy",
+              "upscale",
+              "upmarket",
+              "five-star; Moreinformalplush",
+              "posh",
+              "classy",
+              "ritzy",
+              "swanky",
+              "swank \"a luxurious hotel\""
+            ],
+            "antonyms": [
+              "poor",
+              "austere",
+              "spartan"
+            ]
+          },
+          {
+            "definition": "giving self-indulgent or sensuous pleasure.",
+            "examples": [
+              "a luxurious wallow in a scented bath"
+            ],
+            "synonyms": [
+              "self-indulgent",
+              "sensual",
+              "pleasure-loving",
+              "pleasure-seeking",
+              "epicurean",
+              "hedonistic",
+              "sybaritic \"a luxurious lifestyle\""
+            ],
+            "antonyms": [
+              "abstemious"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "proviso",
+    "syllables": [
+      "pro",
+      "vi",
+      "so"
+    ],
+    "pronunciation": "prəˈvīzō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "proviso"
+          },
+          {
+            "part": "plural noun",
+            "variant": "provisos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a condition attached to an agreement.",
+            "examples": [
+              "he left his unborn grandchild a trust fund with the proviso that he be named after the old man"
+            ],
+            "synonyms": [
+              "condition",
+              "stipulation",
+              "provision",
+              "clause",
+              "rider",
+              "qualification",
+              "restriction",
+              "caveat \"he could use the company car",
+              "with the proviso that he would pay for routine maintenance\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "word": "absorb",
+    "syllables": [
+      "ab",
+      "sorb"
+    ],
+    "pronunciation": "əbˈzôrbəbˈsôrb",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "absorbs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take in or soak up (energy, or a liquid or other substance) by chemical or physical action, typically gradually.",
+            "examples": [
+              "buildings can be designed to absorb and retain heat"
+            ],
+            "synonyms": [
+              "soak up",
+              "suck up",
+              "draw up/in",
+              "take up/in",
+              "blot up",
+              "mop up",
+              "sop up \"a spongelike material that absorbs water\""
+            ],
+            "antonyms": [
+              "exude"
+            ]
+          },
+          {
+            "definition": "take in and assimilate (information, ideas, or experience).",
+            "examples": [
+              "she absorbed the information in silence"
+            ],
+            "synonyms": [
+              "assimilate",
+              "digest",
+              "take in \"she absorbed the information in silence\""
+            ]
+          },
+          {
+            "definition": "take control of (a smaller or less powerful entity), making it a part of oneself by assimilation.",
+            "examples": [
+              "the family firm was absorbed into a larger group"
+            ],
+            "synonyms": [
+              "incorporate",
+              "assimilate",
+              "integrate",
+              "take",
+              "appropriate",
+              "subsume",
+              "include",
+              "co-opt",
+              "swallow up \"the company was absorbed into the new concern\""
+            ]
+          },
+          {
+            "definition": "use or take up (time or resources).",
+            "examples": [
+              "arms spending absorbs roughly 2 percent of the national income"
+            ],
+            "synonyms": [
+              "use (up)",
+              "consume",
+              "take (up)",
+              "occupy \"these roles absorb most of his time and energy\""
+            ]
+          },
+          {
+            "definition": "take up and reduce the effect or intensity of (sound or an impact).",
+            "examples": [
+              "deep-pile carpets absorbed all sound of the outside world"
+            ]
+          },
+          {
+            "definition": "engross the attention of (someone).",
+            "examples": [
+              "the work absorbed him and continued to make him happy"
+            ],
+            "synonyms": [
+              "engross in",
+              "captivate by",
+              "occupy with",
+              "preoccupy with",
+              "engage in",
+              "rivet by",
+              "grip by",
+              "hold by",
+              "interest in",
+              "intrigue by/with",
+              "immerse in",
+              "involve in",
+              "enthrall by",
+              "spellbind by",
+              "fascinate by/with \"she was totally absorbed in her book\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

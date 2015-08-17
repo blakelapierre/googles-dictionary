@@ -1,0 +1,35 @@
+[
+  {
+    "word": "compartment",
+    "syllables": [
+      "com",
+      "part",
+      "ment"
+    ],
+    "pronunciation": "kəmˈpärtmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "compartments"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "divide (something) into separate parts or sections.",
+            "examples": [
+              "the buildings are to be compartmented by fire walls"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

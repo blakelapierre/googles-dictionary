@@ -1,0 +1,104 @@
+[
+  {
+    "word": "keel",
+    "syllables": [
+      "keel"
+    ],
+    "pronunciation": "kēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "keel"
+          },
+          {
+            "part": "plural noun",
+            "variant": "keels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the longitudinal structure along the centerline at the bottom of a vessel's hull, on which the rest of the hull is built, in some vessels extended downward as a blade or ridge to increase stability."
+          },
+          {
+            "definition": "a ridge along the breastbone of many birds to which the flight muscles are attached; the carina."
+          },
+          {
+            "definition": "a prow-shaped pair of petals present in flowers of the pea family."
+          },
+          {
+            "definition": "a ship."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "keel"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "keels"
+          },
+          {
+            "part": "past tense",
+            "variant": "keeled"
+          },
+          {
+            "part": "past participle",
+            "variant": "keeled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "keeling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a boat or ship) turn over on its side; capsize.",
+            "examples": [
+              "capsize, turn turtle, turn upside down, founder; Moreoverturn, turn over, flip (over), tip over \"the boat keeled over\"Moreoverturn, turn over, flip (over), tip over the boat keeled over"
+            ]
+          },
+          {
+            "definition": "(of a person or thing) fall over; collapse.",
+            "examples": [
+              "collapse, faint, pass out, black out, lose consciousness, swoon the slightest activity made him keel over"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "keel",
+    "syllables": [
+      "keel"
+    ],
+    "pronunciation": "kēl",
+    "parts": [
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "keel"
+          },
+          {
+            "part": "plural noun",
+            "variant": "keels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flat-bottomed freight boat; a keelboat."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "word": "inversion",
+    "syllables": [
+      "in",
+      "ver",
+      "sion"
+    ],
+    "pronunciation": "inˈvərZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inversion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inversions"
+          },
+          {
+            "part": "noun",
+            "variant": "temperature inversion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "temperature inversions"
+          },
+          {
+            "part": "noun",
+            "variant": "thermal inversion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "thermal inversions"
+          },
+          {
+            "part": "noun",
+            "variant": "sexual inversion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sexuals inversion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of inverting something or the state of being inverted.",
+            "examples": [
+              "the inversion of the normal domestic arrangement"
+            ]
+          },
+          {
+            "definition": "reversal of the normal order of words, typically for rhetorical effect but also found in the regular formation of questions in English."
+          },
+          {
+            "definition": "the process of inverting an interval, chord, or phrase."
+          },
+          {
+            "definition": "an inverted interval, chord, or phrase."
+          },
+          {
+            "definition": "a transposition in the relative numbers of atoms, molecules, etc., occupying particular energy levels."
+          },
+          {
+            "definition": "a reaction causing a change from one optically active configuration to the opposite configuration, especially the hydrolysis of dextrose to give a levorotatory solution of fructose and glucose."
+          },
+          {
+            "definition": "the conversion of direct current into alternating current."
+          },
+          {
+            "definition": "a reversal of the normal decrease of air temperature with altitude, or of water temperature with depth."
+          },
+          {
+            "definition": "a layer of the atmosphere in which temperature increases with height.",
+            "examples": [
+              "noun: inversion layer; plural noun: inversion layers"
+            ]
+          },
+          {
+            "definition": "the process of finding a quantity, function, etc., from a given one such that the product of the two under a particular operation is the identity."
+          },
+          {
+            "definition": "the interchanging of numerator and denominator of a fraction, or antecedent and consequent of a ratio."
+          },
+          {
+            "definition": "the process of finding the expression that gives a given expression under a given transformation."
+          },
+          {
+            "definition": "a transformation in which each point of a given figure is replaced by another point on the same straight line from a fixed point, especially in such a way that the product of the distances of the two points from the center of inversion is constant."
+          },
+          {
+            "definition": "the adoption of behavior typical of the opposite sex; homosexuality."
+          }
+        ]
+      }
+    ]
+  }
+]

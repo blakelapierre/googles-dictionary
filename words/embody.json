@@ -1,0 +1,83 @@
+[
+  {
+    "word": "embody",
+    "syllables": [
+      "em",
+      "bod",
+      "y"
+    ],
+    "pronunciation": "əmˈbädē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "embody"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "embodies"
+          },
+          {
+            "part": "past tense",
+            "variant": "embodied"
+          },
+          {
+            "part": "past participle",
+            "variant": "embodied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "embodying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be an expression of or give a tangible or visible form to (an idea, quality, or feeling).",
+            "examples": [
+              "a team that embodies competitive spirit and skill"
+            ],
+            "synonyms": [
+              "personify",
+              "realize",
+              "manifest",
+              "symbolize",
+              "represent",
+              "express",
+              "concretize",
+              "incarnate",
+              "epitomize",
+              "stand for",
+              "typify",
+              "exemplify; Moreformalreify",
+              "hypostatize \"he embodies the spirit of industrial capitalism\""
+            ]
+          },
+          {
+            "definition": "provide (a spirit) with a physical form."
+          },
+          {
+            "definition": "include or contain (something) as a constituent part.",
+            "examples": [
+              "the changes in law embodied in the Freedom of Information Act"
+            ],
+            "synonyms": [
+              "incorporate",
+              "include",
+              "contain",
+              "encompass; Moreassimilate",
+              "consolidate",
+              "integrate",
+              "organize",
+              "systematize; combine \"the changes embodied in the gun control legislation\""
+            ]
+          },
+          {
+            "definition": "form (people) into a body, especially for military purposes."
+          }
+        ]
+      }
+    ]
+  }
+]

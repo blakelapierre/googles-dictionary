@@ -1,0 +1,44 @@
+[
+  {
+    "word": "hollow",
+    "syllables": [
+      "hol",
+      "low"
+    ],
+    "pronunciation": "ˈhälō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "hollowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "hollowed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form by making a hole.",
+            "examples": [
+              "a tunnel was hollowed out in a mountain range"
+            ],
+            "synonyms": [
+              "gouge",
+              "scoop",
+              "dig",
+              "shovel",
+              "cut; Moreexcavate",
+              "channel \"a tunnel hollowed out of a mountain\""
+            ]
+          },
+          {
+            "definition": "make a depression in."
+          }
+        ]
+      }
+    ]
+  }
+]

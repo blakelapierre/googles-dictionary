@@ -1,0 +1,75 @@
+[
+  {
+    "word": "substitute",
+    "syllables": [
+      "sub",
+      "sti",
+      "tute"
+    ],
+    "pronunciation": "ˈsəbstəˌt(y)o͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "substituting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "use or add in place of.",
+            "examples": [
+              "dried rosemary can be substituted for the fresh herb"
+            ],
+            "synonyms": [
+              "exchange",
+              "replace",
+              "use instead of",
+              "use as an alternative to",
+              "use in place of",
+              "swap \"cottage cheese can be substituted for yogurt\""
+            ]
+          },
+          {
+            "definition": "act or serve as a substitute.",
+            "examples": [
+              "I found someone to substitute for me"
+            ],
+            "synonyms": [
+              "deputize",
+              "act as deputy",
+              "act as a substitute",
+              "stand in",
+              "cover; Morereplace",
+              "relieve",
+              "take over from; informalsub",
+              "fill someone's boots/shoes \"the senate was empowered to substitute for the president\""
+            ]
+          },
+          {
+            "definition": "replace (someone or something) with another.",
+            "examples": [
+              "customs officers substituted the drugs with another substance"
+            ]
+          },
+          {
+            "definition": "replace (a sports player) with a substitute during a contest.",
+            "examples": [
+              "he was substituted for Nichols in the fifth inning"
+            ]
+          },
+          {
+            "definition": "replace (an atom or group in a molecule, especially a hydrogen atom) with another."
+          },
+          {
+            "definition": "(of a compound) in which one or more hydrogen atoms have been replaced by other atoms or groups.",
+            "examples": [
+              "adjective: substituted"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

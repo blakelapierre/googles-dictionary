@@ -1,0 +1,91 @@
+[
+  {
+    "word": "bead",
+    "syllables": [
+      "bead"
+    ],
+    "pronunciation": "bēd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "beads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small piece of glass, stone, or similar material, typically rounded and perforated for threading with others as a necklace or rosary or for sewing onto fabric.",
+            "examples": [
+              "long strings of beads"
+            ],
+            "synonyms": [
+              "ball",
+              "pellet",
+              "pill",
+              "globule",
+              "sphere",
+              "spheroid",
+              "oval",
+              "ovoid",
+              "orb",
+              "round; Morenecklace",
+              "rosary",
+              "chaplet \"a string of beads\""
+            ]
+          },
+          {
+            "definition": "a drop of a liquid on a surface.",
+            "examples": [
+              "beads of sweat"
+            ],
+            "synonyms": [
+              "droplet",
+              "drop",
+              "blob",
+              "dot",
+              "dewdrop",
+              "teardrop \"beads of sweat\""
+            ]
+          },
+          {
+            "definition": "a small knob forming the front sight of a gun."
+          },
+          {
+            "definition": "the reinforced inner edge of a pneumatic tire that grips the rim of the wheel."
+          },
+          {
+            "definition": "an ornamental molding resembling a string of beads or having a semicircular cross-section."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "beads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decorate or cover with beads.",
+            "examples": [
+              "a beaded evening bag"
+            ]
+          },
+          {
+            "definition": "string (beads) together."
+          },
+          {
+            "definition": "cover (a surface) with drops of moisture.",
+            "examples": [
+              "his face was beaded with perspiration"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "word": "commoner",
+    "syllables": [
+      "com",
+      "mon",
+      "er"
+    ],
+    "pronunciation": "ˈkämənər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "commoner"
+          },
+          {
+            "part": "plural noun",
+            "variant": "commoners"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an ordinary person, without rank or title."
+          },
+          {
+            "definition": "a person who has the right of common (commonage)."
+          },
+          {
+            "definition": "(at some British universities) an undergraduate who does not have a scholarship."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "common",
+    "syllables": [
+      "com",
+      "mon"
+    ],
+    "pronunciation": "ˈkämən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "commoner"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "occurring, found, or done often; prevalent.",
+            "examples": [
+              "salt and pepper are the two most common seasonings"
+            ],
+            "synonyms": [
+              "usual",
+              "ordinary",
+              "familiar",
+              "regular",
+              "frequent",
+              "recurrent",
+              "everyday; Morestandard",
+              "typical",
+              "conventional",
+              "stock",
+              "commonplace",
+              "run-of-the-mill; informalgarden variety \"a very common art form\"widespread",
+              "general",
+              "universal",
+              "popular",
+              "mainstream",
+              "prevalent",
+              "prevailing",
+              "rife",
+              "established",
+              "well established",
+              "conventional",
+              "traditional",
+              "orthodox",
+              "accepted \"a common belief\""
+            ],
+            "antonyms": [
+              "unusual",
+              "rare"
+            ]
+          },
+          {
+            "definition": "(of an animal or plant) found or living in relatively large numbers; not rare."
+          },
+          {
+            "definition": "ordinary; of ordinary qualities; without special rank or position.",
+            "examples": [
+              "the dwellings of common people"
+            ],
+            "synonyms": [
+              "ordinary",
+              "normal",
+              "average",
+              "unexceptional; simple \"the common folk\""
+            ]
+          },
+          {
+            "definition": "(of a quality) of a sort or level to be generally expected.",
+            "examples": [
+              "common decency"
+            ]
+          },
+          {
+            "definition": "of the most familiar type.",
+            "examples": [
+              "the common or vernacular name"
+            ]
+          },
+          {
+            "definition": "denoting the most widespread or typical species of an animal or plant.",
+            "examples": [
+              "the common blue spruce"
+            ]
+          },
+          {
+            "definition": "showing a lack of taste and refinement; vulgar.",
+            "examples": [
+              "uncouth, vulgar, coarse, rough, boorish, unladylike, ungentlemanly, ill-bred, uncivilized, unrefined, unsophisticated; Morelowly, low-born, low-class, inferior, proletarian, plebeian, low-ranking \"they are far too common\"Morelowly, low-born, low-class, inferior, proletarian, plebeian, low-ranking they are far too common"
+            ],
+            "antonyms": [
+              "refined"
+            ]
+          },
+          {
+            "definition": "shared by, coming from, or done by more than one.",
+            "examples": [
+              "the two republics' common border"
+            ]
+          },
+          {
+            "definition": "belonging to, open to, or affecting the whole of a community or the public.",
+            "examples": [
+              "common land"
+            ],
+            "synonyms": [
+              "collective",
+              "communal",
+              "community",
+              "public",
+              "popular",
+              "general; Moreshared",
+              "combined \"the common good\""
+            ],
+            "antonyms": [
+              "individual",
+              "private"
+            ]
+          },
+          {
+            "definition": "belonging to two or more quantities."
+          },
+          {
+            "definition": "(in Latin and certain other languages) of or denoting a gender of nouns that are conventionally regarded as masculine or feminine, contrasting with neuter."
+          },
+          {
+            "definition": "(in English) denoting a noun that refers to individuals of either sex (e.g., teacher )."
+          },
+          {
+            "definition": "(of a syllable) able to be either short or long."
+          },
+          {
+            "definition": "(of a crime) of relatively minor importance.",
+            "examples": [
+              "common assault"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

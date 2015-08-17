@@ -1,0 +1,30 @@
+[
+  {
+    "word": "hillside",
+    "syllables": [
+      "hill",
+      "side"
+    ],
+    "pronunciation": "ˈhilˌsīd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hillside"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hillsides"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the sloping side of a hill."
+          }
+        ]
+      }
+    ]
+  }
+]

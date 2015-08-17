@@ -1,0 +1,67 @@
+[
+  {
+    "word": "reservation",
+    "syllables": [
+      "res",
+      "er",
+      "va",
+      "tion"
+    ],
+    "pronunciation": "ˌrezərˈvāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reservation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of reserving something.",
+            "examples": [
+              "the reservation of positions for non-Americans"
+            ]
+          },
+          {
+            "definition": "an arrangement whereby something, especially a seat or room, is booked or reserved for a particular person.",
+            "examples": [
+              "plural noun: reservations"
+            ]
+          },
+          {
+            "definition": "an area of land set aside for occupation by North American Indians or Australian Aborigines."
+          },
+          {
+            "definition": "a right or interest retained in an estate being conveyed."
+          },
+          {
+            "definition": "(in the Roman Catholic Church) the practice of retaining a portion of the consecrated elements after mass for communion of the sick or as a focus for devotion."
+          },
+          {
+            "definition": "a qualification to an expression of agreement or approval; a doubt.",
+            "examples": [
+              "some generals voiced reservations about making air strikes"
+            ],
+            "synonyms": [
+              "doubts",
+              "qualms",
+              "scruples; Moremisgivings",
+              "skepticism",
+              "unease",
+              "hesitation",
+              "objection \"grave reservations about traveling abroad\""
+            ]
+          },
+          {
+            "definition": "(in the Roman Catholic Church) the action of a superior of reserving to himself the power of absolution."
+          },
+          {
+            "definition": "a right reserved to the pope of nomination to a vacant benefice."
+          }
+        ]
+      }
+    ]
+  }
+]

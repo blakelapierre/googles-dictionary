@@ -1,0 +1,70 @@
+[
+  {
+    "word": "surfing",
+    "syllables": [
+      "surf",
+      "ing"
+    ],
+    "pronunciation": "ˈsərfiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "surfing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the sport or pastime of riding a wave toward the shore while standing or lying on a surfboard."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "surf",
+    "syllables": [
+      "surf"
+    ],
+    "pronunciation": "sərf",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "surfing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stand or lie on a surfboard and ride on a wave toward the shore.",
+            "examples": [
+              "learning to surf"
+            ]
+          },
+          {
+            "definition": "ride (a wave) toward the shore on a surfboard.",
+            "examples": [
+              "he has built a career out of surfing big waves"
+            ]
+          },
+          {
+            "definition": "ride on the roof or outside of a fast-moving vehicle, typically a train, for excitement.",
+            "examples": [
+              "he fell to his death while surfing on a 70 mph train"
+            ]
+          },
+          {
+            "definition": "short for channel-surf."
+          },
+          {
+            "definition": "move from site to site on (the Internet)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "socialist",
+    "syllables": [
+      "so",
+      "cial",
+      "ist"
+    ],
+    "pronunciation": "ˈsōSHələst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "socialist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "socialists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who advocates or practices socialism.",
+            "examples": [
+              "left-wing, progressive, leftist, labor, anti-corporate, antiglobalization; Moreradical, revolutionary, militant; communist; informallefty, red \"the socialist movement\"left-winger, leftist, progressive, progressivist; radical, revolutionary; communist, Marxist; informallefty, red \"a well-known socialist\"Moreradical, revolutionary, militant; communist; lefty, red the socialist movementleft-winger, leftist, progressive, progressivist; radical, revolutionary; communist, Marxist; lefty, red a well-known socialist"
+            ],
+            "antonyms": [
+              "conservative"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "socialist"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "adhering to or based on the principles of socialism.",
+            "examples": [
+              "the history of socialist movement"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "word": "themselves",
+    "syllables": [
+      "them",
+      "selves"
+    ],
+    "pronunciation": "T͟HəmˈselvzT͟Həmˈselvz",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "themselves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used as the object of a verb or preposition to refer to a group of people or things previously mentioned as the subject of the clause.",
+            "examples": [
+              "countries unable to look after themselves"
+            ]
+          },
+          {
+            "definition": "used to emphasize a particular group of people or things mentioned.",
+            "examples": [
+              "excellent at organizing others, they may well be disorganized themselves"
+            ]
+          },
+          {
+            "definition": "used instead of “himself” or “herself” to refer to a person of unspecified sex.",
+            "examples": [
+              "anyone who fancies themselves as a racing driver"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

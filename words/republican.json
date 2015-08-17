@@ -1,0 +1,63 @@
+[
+  {
+    "word": "republican",
+    "syllables": [
+      "re",
+      "pub",
+      "li",
+      "can"
+    ],
+    "pronunciation": "rəˈpəbləkən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "republican"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a form of government, constitution, etc.) belonging to, or characteristic of a republic."
+          },
+          {
+            "definition": "advocating or supporting republican government.",
+            "examples": [
+              "the republican movement"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "republican"
+          },
+          {
+            "part": "plural noun",
+            "variant": "republicans"
+          },
+          {
+            "part": "noun",
+            "variant": "Republican"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Republicans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person advocating or supporting republican government."
+          },
+          {
+            "definition": "a member or supporter of the Republican Party."
+          }
+        ]
+      }
+    ]
+  }
+]

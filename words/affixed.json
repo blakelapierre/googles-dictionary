@@ -1,0 +1,26 @@
+[
+  {
+    "word": "affix",
+    "syllables": [
+      "af",
+      "fix"
+    ],
+    "pronunciation": "əˈfiks",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "affixed"
+          },
+          {
+            "part": "past participle",
+            "variant": "affixed"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

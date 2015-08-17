@@ -1,0 +1,86 @@
+[
+  {
+    "word": "linger",
+    "syllables": [
+      "lin",
+      "ger"
+    ],
+    "pronunciation": "ˈliNGɡər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "linger"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lingers"
+          },
+          {
+            "part": "past tense",
+            "variant": "lingered"
+          },
+          {
+            "part": "past participle",
+            "variant": "lingered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lingering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stay in a place longer than necessary, typically because of a reluctance to leave.",
+            "examples": [
+              "she lingered in the yard, enjoying the warm sunshine"
+            ],
+            "synonyms": [
+              "wait around",
+              "stay",
+              "remain",
+              "wait",
+              "stay put; Moreloiter",
+              "dawdle",
+              "dally",
+              "take one's time; informalstick around",
+              "hang around",
+              "hang on; archaictarry \"the crowd lingered for a long time\""
+            ],
+            "antonyms": [
+              "leave"
+            ]
+          },
+          {
+            "definition": "spend a long time over (something).",
+            "examples": [
+              "she lingered over her meal"
+            ]
+          },
+          {
+            "definition": "be slow to disappear or die.",
+            "examples": [
+              "the tradition seems to linger on"
+            ],
+            "synonyms": [
+              "persist",
+              "continue",
+              "remain",
+              "stay",
+              "endure",
+              "carry on",
+              "last",
+              "keep on/up \"the infection can linger for many years\""
+            ],
+            "antonyms": [
+              "vanish",
+              "disappear"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

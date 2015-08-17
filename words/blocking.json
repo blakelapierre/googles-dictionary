@@ -1,0 +1,141 @@
+[
+  {
+    "word": "blocking",
+    "syllables": [
+      "block",
+      "ing"
+    ],
+    "pronunciation": "ˈbläkiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blocking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of obstructing movement, progress, or activity, in particular."
+          },
+          {
+            "definition": "obstructing or impeding the actions of an opponent in a game, especially (in ball sports) one who does not have control of the ball."
+          },
+          {
+            "definition": "the sudden halting of the flow of thought or speech, as a symptom of schizophrenia or other mental disorder."
+          },
+          {
+            "definition": "failure to recall or consider an unpleasant memory or train of thought."
+          },
+          {
+            "definition": "the grouping or treatment of things (e.g., items of data or shades of color) in blocks."
+          },
+          {
+            "definition": "the physical arrangement of actors on a stage or movie set."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "block",
+    "syllables": [
+      "block"
+    ],
+    "pronunciation": "bläk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "blocking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make the movement or flow in (a passage, pipe, road, etc.) difficult or impossible.",
+            "examples": [
+              "block up the holes with sticky tape"
+            ],
+            "synonyms": [
+              "clog (up)",
+              "stop up",
+              "choke",
+              "plug",
+              "obstruct",
+              "gum up",
+              "dam up",
+              "congest",
+              "jam",
+              "close; Moreinformalgunge up; technicalocclude \"weeds can block drainage ditches\"hinder",
+              "hamper",
+              "obstruct",
+              "impede",
+              "inhibit",
+              "restrict",
+              "limit; halt",
+              "stop",
+              "bar",
+              "check",
+              "prevent \"picket lines blocked access to the factory\"close up",
+              "shut off",
+              "seal off",
+              "barricade",
+              "bar",
+              "obstruct \"the bridge was blocked off\""
+            ],
+            "antonyms": [
+              "open",
+              "facilitate"
+            ]
+          },
+          {
+            "definition": "put an obstacle in the way of (something proposed or attempted).",
+            "examples": [
+              "he stood up, blocking her escape"
+            ],
+            "synonyms": [
+              "hinder",
+              "hamper",
+              "obstruct",
+              "impede",
+              "inhibit",
+              "restrict",
+              "limit; Morehalt",
+              "stop",
+              "bar",
+              "check",
+              "prevent \"picket lines blocked access to the factory\""
+            ],
+            "antonyms": [
+              "facilitate"
+            ]
+          },
+          {
+            "definition": "restrict the use or conversion of (currency or any other asset)."
+          },
+          {
+            "definition": "hinder or stop the movement or action of (an opponent, a ball, etc.)."
+          },
+          {
+            "definition": "produce insensibility in (a part of the body) by injecting an anesthetic close to the nerves that supply it."
+          },
+          {
+            "definition": "play in such a way that an opponent cannot establish (a long suit)."
+          },
+          {
+            "definition": "impress text or a design on (a book cover)."
+          },
+          {
+            "definition": "design or plan the movements of actors on a stage or movie set."
+          },
+          {
+            "definition": "shape or reshape (a hat) using a wooden mold."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "imagination",
+    "syllables": [
+      "im",
+      "ag",
+      "i",
+      "na",
+      "tion"
+    ],
+    "pronunciation": "iˌmajəˈnāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "imagination"
+          },
+          {
+            "part": "plural noun",
+            "variant": "imaginations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.",
+            "examples": [
+              "she'd never been blessed with a vivid imagination"
+            ],
+            "synonyms": [
+              "creative power",
+              "fancy",
+              "vision; Moreinformalmind's eye \"a vivid imagination\"interest",
+              "fascination",
+              "attention",
+              "passion",
+              "curiosity \"the album captured the public's imagination\""
+            ]
+          },
+          {
+            "definition": "the ability of the mind to be creative or resourceful.",
+            "examples": [
+              "technology gives workers the chance to use their imagination"
+            ],
+            "synonyms": [
+              "creativity",
+              "imaginativeness",
+              "creativeness; Morevision",
+              "inspiration",
+              "inventiveness",
+              "invention",
+              "resourcefulness",
+              "ingenuity; originality",
+              "innovation",
+              "innovativeness \"you need imagination in dealing with these problems\""
+            ]
+          },
+          {
+            "definition": "the part of the mind that imagines things.",
+            "examples": [
+              "a girl who existed only in my imagination"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

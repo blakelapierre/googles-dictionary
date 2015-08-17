@@ -1,0 +1,44 @@
+[
+  {
+    "word": "delirium",
+    "syllables": [
+      "de",
+      "lir",
+      "i",
+      "um"
+    ],
+    "pronunciation": "dəˈlirēəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "delirium"
+          },
+          {
+            "part": "plural noun",
+            "variant": "deliriums"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an acutely disturbed state of mind that occurs in fever, intoxication, and other disorders and is characterized by restlessness, illusions, and incoherence of thought and speech.",
+            "examples": [
+              "derangement, dementia, madness, insanity; Moreincoherence, irrationality, hysteria, feverishness, hallucination \"she had fits of delirium\"Moreincoherence, irrationality, hysteria, feverishness, hallucination she had fits of delirium"
+            ],
+            "antonyms": [
+              "lucidity"
+            ]
+          },
+          {
+            "definition": "wild excitement or ecstasy.",
+            "examples": [
+              "ecstasy, rapture, transports, wild emotion, passion, wildness, excitement, frenzy, feverishness, fever; Moreeuphoria, elation \"the delirium of desire\"Moreeuphoria, elation the delirium of desire"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

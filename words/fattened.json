@@ -1,0 +1,46 @@
+[
+  {
+    "word": "fatten",
+    "syllables": [
+      "fat",
+      "ten"
+    ],
+    "pronunciation": "ˈfatn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "fattened"
+          },
+          {
+            "part": "past participle",
+            "variant": "fattened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become fat or fatter.",
+            "examples": [
+              "he could do with some good food to fatten him up"
+            ],
+            "synonyms": [
+              "make fat/fatter",
+              "feed (up)",
+              "build up More\"fattening livestock\"put on weight",
+              "gain weight",
+              "get heavier",
+              "grow fatter",
+              "fill out \"we're sending her home to fatten up\""
+            ],
+            "antonyms": [
+              "lose weight",
+              "slim down"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

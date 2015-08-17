@@ -1,0 +1,46 @@
+[
+  {
+    "word": "outdoors",
+    "syllables": [
+      "out",
+      "doors"
+    ],
+    "pronunciation": "ˌoutˈdôrz",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "outdoors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in or into the open air; outside a building or shelter.",
+            "examples": [
+              "it was warm enough to eat outdoors"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "outdoors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any area outside buildings or shelter, typically far away from human habitation.",
+            "examples": [
+              "a lover of the great outdoors"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

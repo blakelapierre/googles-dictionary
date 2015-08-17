@@ -1,0 +1,102 @@
+[
+  {
+    "word": "literal",
+    "syllables": [
+      "lit",
+      "er",
+      "al"
+    ],
+    "pronunciation": "ˈlidərəlˈlitrəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "literal"
+          },
+          {
+            "part": "adjective",
+            "variant": "literal-minded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "taking words in their usual or most basic sense without metaphor or allegory.",
+            "examples": [
+              "dreadful in its literal sense, full of dread"
+            ]
+          },
+          {
+            "definition": "free from exaggeration or distortion.",
+            "examples": [
+              "you shouldn't take this as a literal record of events"
+            ],
+            "synonyms": [
+              "strict",
+              "factual",
+              "plain",
+              "simple",
+              "exact",
+              "straightforward; Moreunembellished",
+              "undistorted; objective",
+              "correct",
+              "true",
+              "accurate",
+              "genuine",
+              "authentic \"the literal sense of the word “dreadful”\""
+            ],
+            "antonyms": [
+              "figurative"
+            ]
+          },
+          {
+            "definition": "absolute (used to emphasize that a strong expression is deliberately chosen to convey one's feelings).",
+            "examples": [
+              "fifteen years of literal hell"
+            ]
+          },
+          {
+            "definition": "(of a translation) representing the exact words of the original text.",
+            "examples": [
+              "word-for-word, verbatim, letter-for-letter; Moreexact, precise, faithful, close, strict, accurate \"a literal translation\"Moreexact, precise, faithful, close, strict, accurate a literal translation"
+            ],
+            "antonyms": [
+              "loose"
+            ]
+          },
+          {
+            "definition": "(of a visual representation) exactly copied; realistic as opposed to abstract or impressionistic."
+          },
+          {
+            "definition": "(of a person or performance) lacking imagination; prosaic."
+          },
+          {
+            "definition": "of, in, or expressed by a letter or the letters of the alphabet.",
+            "examples": [
+              "literal mnemonics"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounPrintingBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "literal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "literals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a misprint of a letter."
+          }
+        ]
+      }
+    ]
+  }
+]

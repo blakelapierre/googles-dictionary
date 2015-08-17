@@ -1,0 +1,34 @@
+[
+  {
+    "word": "coverlet",
+    "syllables": [
+      "cov",
+      "er",
+      "let"
+    ],
+    "pronunciation": "ˈkəvərlət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coverlet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "coverlets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a bedspread, typically less than floor-length.",
+            "examples": [
+              "bedspread, bedcover, cover, throw, duvet, quilt, eiderdown, comforter; counterpane a queen-size flannel coverlet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

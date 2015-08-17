@@ -1,0 +1,183 @@
+[
+  {
+    "word": "tired",
+    "syllables": [
+      "tired"
+    ],
+    "pronunciation": "ˈtī(ə)rd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "tired"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in need of sleep or rest; weary.",
+            "examples": [
+              "Fisher rubbed his tired eyes"
+            ],
+            "synonyms": [
+              "exhausted",
+              "worn out",
+              "weary",
+              "fatigued",
+              "dog-tired",
+              "dead beat",
+              "bone-tired",
+              "ready to drop",
+              "drained",
+              "zonked",
+              "wasted",
+              "enervated",
+              "jaded; Moreinformaldone in",
+              "bushed",
+              "whipped",
+              "bagged",
+              "knocked out",
+              "wiped out",
+              "pooped",
+              "tuckered out \"you're just tired from traveling\""
+            ],
+            "antonyms": [
+              "energetic",
+              "wide awake",
+              "fresh"
+            ]
+          },
+          {
+            "definition": "bored with.",
+            "examples": [
+              "I have to look after these animals when you get tired of them"
+            ],
+            "synonyms": [
+              "fed up with",
+              "weary of",
+              "bored with/by",
+              "sick (to death) of; informalup to here with \"are you tired of having him here?\""
+            ]
+          },
+          {
+            "definition": "(of a thing) no longer fresh or in good condition.",
+            "examples": [
+              "a few boxes of tired vegetables"
+            ]
+          },
+          {
+            "definition": "(especially of a statement or idea) boring or uninteresting because overfamiliar.",
+            "examples": [
+              "tired clichés like the “information revolution.”"
+            ],
+            "synonyms": [
+              "hackneyed",
+              "overused",
+              "overworked",
+              "worn out",
+              "stale",
+              "clichéd",
+              "hoary",
+              "stock",
+              "stereotyped",
+              "predictable",
+              "unimaginative",
+              "unoriginal",
+              "uninspired",
+              "dull",
+              "uninvolving",
+              "boring",
+              "routine; Moreinformalold hat",
+              "corny \"tired jokes\""
+            ],
+            "antonyms": [
+              "lively",
+              "fresh"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tire",
+    "syllables": [
+      "tire"
+    ],
+    "pronunciation": "ˈtī(ə)r",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "tired"
+          },
+          {
+            "part": "past participle",
+            "variant": "tired"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "feel or cause to feel in need of rest or sleep.",
+            "examples": [
+              "soon the ascent grew steeper and he began to tire"
+            ],
+            "synonyms": [
+              "weaken",
+              "grow weak",
+              "flag",
+              "wilt",
+              "droop; Moredeteriorate \"he began to tire as the ascent grew steeper\"fatigue",
+              "tire out",
+              "exhaust",
+              "wear out",
+              "drain",
+              "weary",
+              "frazzle",
+              "overtire",
+              "enervate; informalknock out",
+              "do in",
+              "wear to a frazzle \"the journey had tired her\"exhausting",
+              "wearying",
+              "taxing",
+              "fatiguing",
+              "wearing",
+              "enervating",
+              "draining; hard",
+              "heavy",
+              "arduous",
+              "strenuous",
+              "onerous",
+              "uphill",
+              "demanding",
+              "grueling; informalmurderous \"it was very tiring work\""
+            ]
+          },
+          {
+            "definition": "lose interest in; become bored with.",
+            "examples": [
+              "she will stay with him until he tires of her"
+            ],
+            "synonyms": [
+              "weary of",
+              "get fed up with",
+              "get sick of",
+              "get bored with",
+              "get impatient with; Moreinformalhave had it up to here with",
+              "have had enough of \"we are tired of your difficult behavior\""
+            ]
+          },
+          {
+            "definition": "exhaust the patience or interest of; bore.",
+            "examples": [
+              "it tired her that Eddie felt important because he was involved behind the scenes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

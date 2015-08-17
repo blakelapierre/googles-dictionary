@@ -1,0 +1,32 @@
+[
+  {
+    "word": "Hebrew",
+    "syllables": [
+      "He",
+      "brew"
+    ],
+    "pronunciation": "ˈhēbro͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "Hebrews"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of an ancient people living in what is now Israel and Palestine and, according to biblical tradition, descended from the patriarch Jacob, grandson of Abraham. After the Exodus ( circa  1300 BC) they established the kingdoms of Israel and Judah, and their scriptures and traditions form the basis of the Jewish religion."
+          },
+          {
+            "definition": "old-fashioned and sometimes offensive term for Jew."
+          },
+          {
+            "definition": "the Semitic language of the Hebrews, in its ancient or modern form."
+          }
+        ]
+      }
+    ]
+  }
+]

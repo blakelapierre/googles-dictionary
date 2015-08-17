@@ -1,0 +1,92 @@
+[
+  {
+    "word": "fever",
+    "syllables": [
+      "fe",
+      "ver"
+    ],
+    "pronunciation": "ˈfēvər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fever"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fevers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.",
+            "examples": [
+              "I would take aspirin to help me with the pain and reduce the fever"
+            ],
+            "synonyms": [
+              "feverishness",
+              "high temperature",
+              "febrility; Morepyrexia; informaltemperature \"he developed a fever\""
+            ]
+          },
+          {
+            "definition": "a state of nervous excitement or agitation.",
+            "examples": [
+              "I was mystified, and in a fever of expectation"
+            ]
+          },
+          {
+            "definition": "the excitement felt by a group of people about a particular public event.",
+            "examples": [
+              "election fever reaches its climax tomorrow"
+            ],
+            "synonyms": [
+              "ferment",
+              "frenzy",
+              "furor; Moreecstasy",
+              "rapture \"a fever of excitement\"excitement",
+              "frenzy",
+              "agitation",
+              "passion \"Stanley Cup fever\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "fever"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fevers"
+          },
+          {
+            "part": "past tense",
+            "variant": "fevered"
+          },
+          {
+            "part": "past participle",
+            "variant": "fevered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fevering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring about a high body temperature or a state of nervous excitement in (someone).",
+            "examples": [
+              "a heart which sin has fevered"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

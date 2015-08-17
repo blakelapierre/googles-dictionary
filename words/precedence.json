@@ -1,0 +1,52 @@
+[
+  {
+    "word": "precedence",
+    "syllables": [
+      "prec",
+      "e",
+      "dence"
+    ],
+    "pronunciation": "ˈpresədənsprēˈsēdns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "precedence"
+          },
+          {
+            "part": "noun",
+            "variant": "precedency"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the condition of being considered more important than someone or something else; priority in importance, order, or rank.",
+            "examples": [
+              "his desire for power soon took precedence over any other consideration"
+            ],
+            "synonyms": [
+              "priority",
+              "rank",
+              "seniority",
+              "superiority",
+              "primacy",
+              "preeminence",
+              "eminence More\"quarrels over precedence\"take priority over",
+              "outweigh",
+              "prevail over",
+              "come before \"the children's needs take precedence over all the other concerns\""
+            ]
+          },
+          {
+            "definition": "the order to be ceremonially observed by people of different rank, according to an acknowledged or legally determined system.",
+            "examples": [
+              "quarrels over precedence among the Bonaparte family marred the coronation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

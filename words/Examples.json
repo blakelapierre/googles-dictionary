@@ -1,0 +1,78 @@
+[
+  {
+    "word": "example",
+    "syllables": [
+      "ex",
+      "am",
+      "ple"
+    ],
+    "pronunciation": "iɡˈzampəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "examples"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing characteristic of its kind or illustrating a general rule.",
+            "examples": [
+              "it's a good example of how European action can produce results"
+            ],
+            "synonyms": [
+              "specimen",
+              "sample",
+              "exemplar",
+              "exemplification",
+              "instance",
+              "case",
+              "illustration",
+              "case in point \"a fine example of Chinese porcelain\""
+            ]
+          },
+          {
+            "definition": "a printed or written problem or exercise designed to illustrate a rule."
+          },
+          {
+            "definition": "a person or thing regarded in terms of their fitness to be imitated or the likelihood of their being imitated.",
+            "examples": [
+              "it is vitally important that parents should set an example"
+            ],
+            "synonyms": [
+              "precedent",
+              "lead",
+              "model",
+              "pattern",
+              "exemplar",
+              "ideal",
+              "standard",
+              "template",
+              "paradigm; Morerole model",
+              "object lesson \"we must follow their example\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "examples"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be illustrated or exemplified.",
+            "examples": [
+              "the extent of Allied naval support is exampled by the navigational specialists provided"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

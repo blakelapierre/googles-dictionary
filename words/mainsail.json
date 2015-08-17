@@ -1,0 +1,33 @@
+[
+  {
+    "word": "mainsail",
+    "syllables": [
+      "main",
+      "sail"
+    ],
+    "pronunciation": "ˈmānsəlˈmānˌsāl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mainsail"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mainsails"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the principal sail of a ship, especially the lowest sail on the mainmast in a square-rigged vessel."
+          },
+          {
+            "definition": "the sail set on the after side of the mainmast in a fore-and-aft-rigged vessel."
+          }
+        ]
+      }
+    ]
+  }
+]

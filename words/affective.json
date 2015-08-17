@@ -1,0 +1,30 @@
+[
+  {
+    "word": "affective",
+    "syllables": [
+      "af",
+      "fec",
+      "tive"
+    ],
+    "pronunciation": "əˈfektiv",
+    "parts": [
+      {
+        "part": "adjectivePsychology",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "affective"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to moods, feelings, and attitudes.",
+            "examples": [
+              "affective disorders"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

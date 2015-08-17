@@ -1,0 +1,140 @@
+[
+  {
+    "word": "let",
+    "syllables": [
+      "let"
+    ],
+    "pronunciation": "let",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "lets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not prevent or forbid; allow.",
+            "examples": [
+              "my boss let me leave early"
+            ],
+            "synonyms": [
+              "allow to",
+              "permit to",
+              "give permission to",
+              "give leave to",
+              "authorize to",
+              "sanction to",
+              "grant the right to",
+              "license to",
+              "empower to",
+              "enable to",
+              "entitle to; archaicsuffer to \"let him sleep for now\""
+            ],
+            "antonyms": [
+              "prevent",
+              "prohibit"
+            ]
+          },
+          {
+            "definition": "allow to pass in a particular direction.",
+            "examples": [
+              "could you let the dog out?"
+            ],
+            "synonyms": [
+              "allow to go",
+              "permit to pass; make way for \"Wilcox opened the door to let her through\""
+            ]
+          },
+          {
+            "definition": "used in the imperative to formulate various expressions."
+          },
+          {
+            "definition": "used as a polite way of making or responding to a suggestion, giving an instruction, or introducing a remark.",
+            "examples": [
+              "let's have a drink"
+            ]
+          },
+          {
+            "definition": "used to make a polite offer of help.",
+            "examples": [
+              "“Here, let me,” offered Bruce"
+            ]
+          },
+          {
+            "definition": "used to express one's strong desire for something to happen or be the case.",
+            "examples": [
+              "“Dear God,” Jessica prayed, “let him be all right.”"
+            ]
+          },
+          {
+            "definition": "used as a way of expressing defiance or challenge.",
+            "examples": [
+              "if he wants to walk out, well, let him!"
+            ]
+          },
+          {
+            "definition": "used to express an assumption upon which a theory or calculation is to be based.",
+            "examples": [
+              "let A and B stand for X and Y, respectively"
+            ]
+          },
+          {
+            "definition": "allow someone to have the use of (a room or property) in return for regular payments; rent.",
+            "examples": [
+              "homeowners will be able to let rooms to lodgers without having to pay tax"
+            ]
+          },
+          {
+            "definition": "award (a contract for a particular project) to an applicant.",
+            "examples": [
+              "preliminary contracts were let and tunneling work started"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "let",
+    "syllables": [
+      "let"
+    ],
+    "pronunciation": "let",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "lets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in racket sports) a play that is nullified and has to be played again, especially when a served ball touches the top of the net."
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "lets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hinder.",
+            "examples": [
+              "pray you let us not; we fain would greet our mother"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

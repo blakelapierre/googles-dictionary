@@ -1,0 +1,31 @@
+[
+  {
+    "word": "underpants",
+    "syllables": [
+      "un",
+      "der",
+      "pants"
+    ],
+    "pronunciation": "ˈəndərˌpan(t)s",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "underpants"
+          },
+          {
+            "part": "noun",
+            "variant": "underpant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an undergarment covering the lower part of the torso and having two holes for the legs."
+          }
+        ]
+      }
+    ]
+  }
+]

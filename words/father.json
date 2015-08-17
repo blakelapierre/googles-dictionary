@@ -1,0 +1,194 @@
+[
+  {
+    "word": "father",
+    "syllables": [
+      "fa",
+      "ther"
+    ],
+    "pronunciation": "ˈfäT͟Hər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "father"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fathers"
+          },
+          {
+            "part": "noun",
+            "variant": "Father"
+          },
+          {
+            "part": "noun",
+            "variant": "Father of the Church"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Fathers of the Church"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Fathers"
+          },
+          {
+            "part": "plural noun",
+            "variant": "the Fathers"
+          },
+          {
+            "part": "plural noun",
+            "variant": "the Church Fathers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a man in relation to his natural child or children.",
+            "examples": [
+              "dad; Moredaddy, pop, pa, dada, papa; old man, patriarch, paterfamilias \"his mother and father\"Moredaddy, pop, pa, dada, papa; old man, patriarch, paterfamilias his mother and father"
+            ]
+          },
+          {
+            "definition": "a male animal in relation to its offspring."
+          },
+          {
+            "definition": "an ancestor.",
+            "examples": [
+              "ancestor, forefather, forebear, predecessor, antecedent, progenitor, primogenitor the religion of my fathers"
+            ],
+            "antonyms": [
+              "descendant"
+            ]
+          },
+          {
+            "definition": "an important figure in the origin and early history of something.",
+            "examples": [
+              "noun: founding father; plural noun: founding fathers"
+            ]
+          },
+          {
+            "definition": "a man who gives care and protection to someone or something.",
+            "examples": [
+              "the prince is widely regarded as the father of the nation"
+            ]
+          },
+          {
+            "definition": "the oldest or most respected member of a society or other body.",
+            "examples": [
+              "leader, elder, patriarch, official the city fathers"
+            ]
+          },
+          {
+            "definition": "(in Christian belief) the first person of the Trinity; God.",
+            "examples": [
+              "noun: the Father"
+            ],
+            "synonyms": [
+              "God",
+              "Lord",
+              "Lord God \"our heavenly Father\""
+            ]
+          },
+          {
+            "definition": "used in proper names, especially when personifying time or a river, to suggest an old and venerable character.",
+            "examples": [
+              "Father Thames"
+            ]
+          },
+          {
+            "definition": "(often as a title or form of address) a priest.",
+            "examples": [
+              "pray for me, Father"
+            ],
+            "synonyms": [
+              "priest",
+              "pastor",
+              "parson",
+              "clergyman",
+              "cleric",
+              "minister",
+              "preacher; Moreinformalreverend",
+              "padre \"ask the father to pray for you\""
+            ]
+          },
+          {
+            "definition": "early Christian theologians (in particular of the first five centuries) whose writings are regarded as especially authoritative."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "father"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "fathers"
+          },
+          {
+            "part": "past tense",
+            "variant": "fathered"
+          },
+          {
+            "part": "past participle",
+            "variant": "fathered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "fathering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be the father of.",
+            "examples": [
+              "he fathered three children"
+            ],
+            "synonyms": [
+              "parent",
+              "be the father of",
+              "bring into the world",
+              "spawn",
+              "sire",
+              "breed; Moreliterarybeget; archaicengender"
+            ]
+          },
+          {
+            "definition": "treat with the protective care usually associated with a father.",
+            "examples": [
+              "noun: fathering"
+            ]
+          },
+          {
+            "definition": "be the source or originator of.",
+            "examples": [
+              "a culture which has fathered half the popular music in the world"
+            ]
+          },
+          {
+            "definition": "make a woman pregnant.",
+            "examples": [
+              "he fathered a child on a one-night stand"
+            ]
+          },
+          {
+            "definition": "assign the paternity of a child or responsibility for a book, idea, or action to.",
+            "examples": [
+              "a collection of Irish stories was fathered on him"
+            ]
+          },
+          {
+            "definition": "appear as or admit that one is the father or originator of.",
+            "examples": [
+              "a singular letter from a lady, requesting I would father a novel of hers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

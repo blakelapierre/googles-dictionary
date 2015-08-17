@@ -1,0 +1,79 @@
+[
+  {
+    "word": "accessible",
+    "syllables": [
+      "ac",
+      "ces",
+      "si",
+      "ble"
+    ],
+    "pronunciation": "əkˈsesəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "accessible"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a place) able to be reached or entered.",
+            "examples": [
+              "the town is accessible by bus"
+            ],
+            "synonyms": [
+              "reachable",
+              "attainable",
+              "approachable; Moreobtainable",
+              "available; informalget-at-able \"the village is accessible only on foot\""
+            ]
+          },
+          {
+            "definition": "(of an object, service, or facility) able to be easily obtained or used.",
+            "examples": [
+              "making learning opportunities more accessible to adults"
+            ]
+          },
+          {
+            "definition": "easily understood.",
+            "examples": [
+              "his Latin grammar is lucid and accessible"
+            ],
+            "synonyms": [
+              "understandable",
+              "comprehensible",
+              "easy to understand",
+              "intelligible; formalexoteric \"his accessible style of writing\""
+            ]
+          },
+          {
+            "definition": "able to be reached or entered by people who have a disability.",
+            "examples": [
+              "features such as nonslip floors and accessible entrances"
+            ]
+          },
+          {
+            "definition": "(of a person, typically one in a position of authority or importance) friendly and easy to talk to; approachable.",
+            "examples": [
+              "he is more accessible than most tycoons"
+            ],
+            "synonyms": [
+              "approachable",
+              "friendly",
+              "agreeable",
+              "obliging",
+              "congenial",
+              "affable",
+              "cordial",
+              "welcoming",
+              "easygoing",
+              "pleasant \"Professor Cooper is very accessible\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

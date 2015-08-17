@@ -1,0 +1,131 @@
+[
+  {
+    "word": "bleak",
+    "syllables": [
+      "bleak"
+    ],
+    "pronunciation": "blēk",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bleak"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "bleaker"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "bleakest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an area of land) lacking vegetation and exposed to the elements.",
+            "examples": [
+              "a bleak and barren moor"
+            ],
+            "synonyms": [
+              "bare",
+              "exposed",
+              "desolate",
+              "stark",
+              "desert",
+              "lunar",
+              "open",
+              "empty",
+              "windswept; Moretreeless",
+              "without vegetation",
+              "denuded \"a bleak landscape\""
+            ],
+            "antonyms": [
+              "lush"
+            ]
+          },
+          {
+            "definition": "(of a building or room) charmless and inhospitable; dreary.",
+            "examples": [
+              "he looked around the bleak little room in despair"
+            ]
+          },
+          {
+            "definition": "(of the weather) cold and miserable.",
+            "examples": [
+              "a bleak midwinter's day"
+            ],
+            "synonyms": [
+              "cold",
+              "bitter",
+              "biting",
+              "raw",
+              "freezing",
+              "icy \"a bleak wind\""
+            ]
+          },
+          {
+            "definition": "(of a situation or future prospect) not hopeful or encouraging; unlikely to have a favorable outcome.",
+            "examples": [
+              "he paints a bleak picture of a company that has lost its way"
+            ],
+            "synonyms": [
+              "unpromising",
+              "unfavorable",
+              "unpropitious",
+              "inauspicious; Morediscouraging",
+              "disheartening",
+              "depressing",
+              "dreary",
+              "dismal",
+              "dim",
+              "gloomy",
+              "black",
+              "dark",
+              "grim",
+              "hopeless",
+              "somber \"the future is bleak\""
+            ],
+            "antonyms": [
+              "promising"
+            ]
+          },
+          {
+            "definition": "(of a person or a person's expression) cold and forbidding.",
+            "examples": [
+              "his bleak, near vacant eyes grew remote"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bleak",
+    "syllables": [
+      "bleak"
+    ],
+    "pronunciation": "blēk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bleak"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bleaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small silvery shoaling fish of the minnow family, found in Eurasian rivers."
+          }
+        ]
+      }
+    ]
+  }
+]

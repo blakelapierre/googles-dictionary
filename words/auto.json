@@ -1,0 +1,95 @@
+[
+  {
+    "word": "auto",
+    "syllables": [
+      "au",
+      "to"
+    ],
+    "pronunciation": "ˈôdō",
+    "parts": [
+      {
+        "part": "nounNorth Americaninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "auto"
+          },
+          {
+            "part": "plural noun",
+            "variant": "autos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an automobile.",
+            "examples": [
+              "the auto industry"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "auto-",
+    "syllables": [
+      "auto-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "auto-"
+          },
+          {
+            "part": "prefix",
+            "variant": "aut-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "self.",
+            "examples": [
+              "autoanalysis"
+            ]
+          },
+          {
+            "definition": "one's own.",
+            "examples": [
+              "autograph"
+            ]
+          },
+          {
+            "definition": "by oneself or spontaneous.",
+            "examples": [
+              "autoxidation"
+            ]
+          },
+          {
+            "definition": "by itself or automatic.",
+            "examples": [
+              "autofocusing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "auto-",
+    "syllables": [
+      "auto-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

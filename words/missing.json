@@ -1,0 +1,237 @@
+[
+  {
+    "word": "missing",
+    "syllables": [
+      "miss",
+      "ing"
+    ],
+    "pronunciation": "ˈmisiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "missing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a thing) not able to be found because it is not in its expected place.",
+            "examples": [
+              "a quantity of cash has gone missing"
+            ],
+            "synonyms": [
+              "lost",
+              "mislaid",
+              "misplaced",
+              "absent",
+              "gone (astray)",
+              "gone AWOL",
+              "unaccounted for; Moredisappeared",
+              "vanished \"his wallet is missing\""
+            ],
+            "antonyms": [
+              "at hand"
+            ]
+          },
+          {
+            "definition": "not present or included when expected or supposed to be.",
+            "examples": [
+              "passion was an element that had been missing from her life for too long"
+            ],
+            "synonyms": [
+              "absent",
+              "not present",
+              "lacking",
+              "wanting \"passion was missing from her life\""
+            ],
+            "antonyms": [
+              "present"
+            ]
+          },
+          {
+            "definition": "(of a person) absent from a place, especially home, and of unknown whereabouts.",
+            "examples": [
+              "she alerted police that her son was missing"
+            ]
+          },
+          {
+            "definition": "(of a person) not yet traced or confirmed as alive, but not known to be dead, after an accident or during wartime.",
+            "examples": [
+              "servicemen listed as missing in action"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "miss",
+    "syllables": [
+      "miss"
+    ],
+    "pronunciation": "mis",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "missing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fail to hit, reach, or come into contact with (something aimed at).",
+            "examples": [
+              "a laser-guided bomb had missed its target"
+            ]
+          },
+          {
+            "definition": "pass by without touching; chance not to hit.",
+            "examples": [
+              "a piece of shrapnel missed him by inches"
+            ],
+            "synonyms": [
+              "fail to hit",
+              "be/go wide of",
+              "fall short of \"the shot missed her by inches\""
+            ],
+            "antonyms": [
+              "hit"
+            ]
+          },
+          {
+            "definition": "fail to catch (something thrown or dropped).",
+            "examples": [
+              "fail to catch, drop, fumble, bobble, fluff, flub, mishandle, screw up Mandy missed the ball"
+            ],
+            "antonyms": [
+              "catch"
+            ]
+          },
+          {
+            "definition": "be too late to catch (a passenger vehicle, etc.).",
+            "examples": [
+              "we'll miss the train if he doesn't hurry"
+            ],
+            "synonyms": [
+              "be too late for",
+              "fail to catch/get \"I've missed my bus\""
+            ],
+            "antonyms": [
+              "catch"
+            ]
+          },
+          {
+            "definition": "fail to notice, hear, or understand.",
+            "examples": [
+              "the villa is impossible to miss—it's right by the road"
+            ],
+            "synonyms": [
+              "fail to hear",
+              "mishear More\"I missed what you said\"fail to see/notice",
+              "overlook \"you can't miss the station\""
+            ],
+            "antonyms": [
+              "see",
+              "notice"
+            ]
+          },
+          {
+            "definition": "fail to attend, participate in, or watch (something one is expected to do or habitually does).",
+            "examples": [
+              "teachers were supposed to report those students who missed class that day"
+            ],
+            "synonyms": [
+              "fail to attend",
+              "be absent from",
+              "play truant from",
+              "cut",
+              "skip \"she never missed a class\""
+            ],
+            "antonyms": [
+              "attend"
+            ]
+          },
+          {
+            "definition": "fail to see or have a meeting with (someone).",
+            "examples": [
+              "“Potter's been here this morning?” “You've just missed him.”"
+            ]
+          },
+          {
+            "definition": "not be able to experience or fail to take advantage of (an opportunity or chance).",
+            "examples": [
+              "don't miss the chance to visit the breathtaking Dolomites"
+            ],
+            "synonyms": [
+              "let slip",
+              "fail to take advantage of",
+              "let go",
+              "let pass",
+              "pass up \"don't miss this exciting opportunity!\""
+            ]
+          },
+          {
+            "definition": "avoid; escape.",
+            "examples": [
+              "smart Christmas shoppers go out early to miss the crowds"
+            ],
+            "synonyms": [
+              "avoid",
+              "beat",
+              "evade",
+              "escape",
+              "dodge",
+              "sidestep",
+              "elude",
+              "circumvent",
+              "steer clear of",
+              "find a way around",
+              "bypass \"I left early to miss rush hour\""
+            ]
+          },
+          {
+            "definition": "fail to include (someone or something); omit.",
+            "examples": [
+              "if we miss a few things in the first draft, we can add them later"
+            ]
+          },
+          {
+            "definition": "(of a woman) fail to have (a monthly period)."
+          },
+          {
+            "definition": "(of an engine or motor vehicle) undergo failure of ignition in one or more cylinders."
+          },
+          {
+            "definition": "notice the loss or absence of.",
+            "examples": [
+              "he's rich—he won't miss the money"
+            ]
+          },
+          {
+            "definition": "feel regret or sadness at no longer being able to enjoy the presence of.",
+            "examples": [
+              "she misses all her old friends"
+            ],
+            "synonyms": [
+              "pine for",
+              "yearn for",
+              "ache for",
+              "long for",
+              "long to see \"she missed him when he was away\""
+            ]
+          },
+          {
+            "definition": "feel regret or sadness at no longer being able to go to, do, or have.",
+            "examples": [
+              "I still miss France and I wish I could go back"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

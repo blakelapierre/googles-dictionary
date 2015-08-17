@@ -1,0 +1,52 @@
+[
+  {
+    "word": "appendage",
+    "syllables": [
+      "ap",
+      "pend",
+      "age"
+    ],
+    "pronunciation": "əˈpendij",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "appendage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "appendages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(often with negative or pejorative connotations) a thing that is added or attached to something larger or more important.",
+            "examples": [
+              "they treat Scotland as a mere appendage of England"
+            ],
+            "synonyms": [
+              "addition",
+              "attachment",
+              "adjunct",
+              "addendum",
+              "appurtenance",
+              "accessory \"I am not just an appendage to the family\""
+            ]
+          },
+          {
+            "definition": "a projecting part of an invertebrate or other living organism, with a distinct appearance or function.",
+            "examples": [
+              "many species have specialized clutching appendages"
+            ],
+            "synonyms": [
+              "protuberance",
+              "projection; technicalprocess \"a pair of feathery appendages\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

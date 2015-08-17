@@ -1,0 +1,34 @@
+[
+  {
+    "word": "clover",
+    "syllables": [
+      "clo",
+      "ver"
+    ],
+    "pronunciation": "ˈklōvər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "clover"
+          },
+          {
+            "part": "plural noun",
+            "variant": "clovers"
+          },
+          {
+            "part": "noun",
+            "variant": "red clover"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a herbaceous plant of the pea family that has dense, globular flower heads, and leaves that are typically three-lobed. It is an important and widely grown fodder and rotational crop."
+          }
+        ]
+      }
+    ]
+  }
+]

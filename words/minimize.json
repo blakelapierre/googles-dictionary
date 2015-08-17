@@ -1,0 +1,101 @@
+[
+  {
+    "word": "minimize",
+    "syllables": [
+      "min",
+      "i",
+      "mize"
+    ],
+    "pronunciation": "ˈminəˌmīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "minimize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "minimizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "minimized"
+          },
+          {
+            "part": "past participle",
+            "variant": "minimized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "minimizing"
+          },
+          {
+            "part": "verb",
+            "variant": "minimise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "minimises"
+          },
+          {
+            "part": "past tense",
+            "variant": "minimised"
+          },
+          {
+            "part": "past participle",
+            "variant": "minimised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "minimising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reduce (something, especially something unwanted or unpleasant) to the smallest possible amount or degree.",
+            "examples": [
+              "the aim is to minimize costs"
+            ],
+            "synonyms": [
+              "keep down",
+              "keep at/to a minimum",
+              "reduce",
+              "decrease",
+              "cut down",
+              "lessen",
+              "curtail",
+              "diminish",
+              "prune; informalslash \"the aim is to minimize costs\""
+            ],
+            "antonyms": [
+              "maximize",
+              "increase"
+            ]
+          },
+          {
+            "definition": "represent or estimate at less than the true value or importance.",
+            "examples": [
+              "they may minimize, or even overlook, the importance of such beliefs"
+            ],
+            "synonyms": [
+              "belittle",
+              "make light of",
+              "play down",
+              "underestimate",
+              "underrate",
+              "downplay",
+              "undervalue",
+              "underappreciate",
+              "understate; Moreinformalpooh-pooh; archaichold cheap \"we should not minimize his contribution\""
+            ],
+            "antonyms": [
+              "exaggerate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "laundry",
+    "syllables": [
+      "laun",
+      "dry"
+    ],
+    "pronunciation": "ˌlôndrē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "laundry"
+          },
+          {
+            "part": "plural noun",
+            "variant": "laundries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clothes and linens that need to be washed or that have been newly washed.",
+            "examples": [
+              "piles of dirty laundry"
+            ],
+            "synonyms": [
+              "washing",
+              "wash",
+              "dirty clothes \"a big pile of laundry\""
+            ]
+          },
+          {
+            "definition": "the action or process of washing clothes and linens.",
+            "examples": [
+              "I talked her into letting me help Ben with the rest of the laundry"
+            ]
+          },
+          {
+            "definition": "a room in a house, hotel, or institution where clothes and linens can be washed and ironed.",
+            "examples": [
+              "laundry room, launderette; MoretrademarkLaundromat; cleaners, dry cleaners \"the facilities include a laundry\"MoreLaundromat; cleaners, dry cleaners the facilities include a laundry"
+            ]
+          },
+          {
+            "definition": "a business that washes and irons clothes and linens commercially."
+          }
+        ]
+      }
+    ]
+  }
+]

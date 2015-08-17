@@ -1,0 +1,86 @@
+[
+  {
+    "word": "immobilize",
+    "syllables": [
+      "im",
+      "mo",
+      "bi",
+      "lize"
+    ],
+    "pronunciation": "i(m)ˈmōbəˌlīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "immobilize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "immobilizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "immobilized"
+          },
+          {
+            "part": "past participle",
+            "variant": "immobilized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "immobilizing"
+          },
+          {
+            "part": "verb",
+            "variant": "immobilise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "immobilises"
+          },
+          {
+            "part": "past tense",
+            "variant": "immobilised"
+          },
+          {
+            "part": "past participle",
+            "variant": "immobilised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "immobilising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prevent (something or someone) from moving or operating as normal.",
+            "examples": [
+              "I want you to immobilize their vehicle"
+            ],
+            "synonyms": [
+              "put out of action",
+              "disable",
+              "make inoperative",
+              "inactivate",
+              "deactivate",
+              "paralyze",
+              "freeze",
+              "cripple; Morebring to a standstill",
+              "halt",
+              "stop; restrain",
+              "stabilize \"the virus has immobilized the House's internal communication system\""
+            ]
+          },
+          {
+            "definition": "restrict the movements of (a limb or patient) to allow healing.",
+            "examples": [
+              "other children in the ward were immobilized in traction"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

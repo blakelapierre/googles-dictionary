@@ -1,0 +1,35 @@
+[
+  {
+    "word": "romanticize",
+    "syllables": [
+      "ro",
+      "man",
+      "ti",
+      "cize"
+    ],
+    "pronunciation": "rōˈman(t)əˌsīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "romanticized"
+          },
+          {
+            "part": "past participle",
+            "variant": "romanticized"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deal with or describe in an idealized or unrealistic fashion; make (something) seem better or more appealing than it really is.",
+            "examples": [
+              "the tendency to romanticize nonindustrial societies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

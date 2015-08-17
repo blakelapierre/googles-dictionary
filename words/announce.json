@@ -1,0 +1,98 @@
+[
+  {
+    "word": "announce",
+    "syllables": [
+      "an",
+      "nounce"
+    ],
+    "pronunciation": "əˈnouns",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "announce"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "announces"
+          },
+          {
+            "part": "past tense",
+            "variant": "announced"
+          },
+          {
+            "part": "past participle",
+            "variant": "announced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "announcing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a public and typically formal declaration about a fact, occurrence, or intention.",
+            "examples": [
+              "the president's office announced that the state of siege would be lifted"
+            ],
+            "synonyms": [
+              "make public",
+              "make known",
+              "report",
+              "declare",
+              "divulge",
+              "state",
+              "give out",
+              "notify",
+              "publicize",
+              "broadcast",
+              "publish",
+              "advertise",
+              "circulate",
+              "proclaim",
+              "blazon \"their financial results were announced\""
+            ]
+          },
+          {
+            "definition": "make known.",
+            "examples": [
+              "we announce our failures by warring against ourselves and others"
+            ]
+          },
+          {
+            "definition": "give information about (transportation) in a station or airport via a public address system.",
+            "examples": [
+              "they were announcing her train"
+            ],
+            "synonyms": [
+              "signal",
+              "indicate",
+              "give notice of",
+              "herald",
+              "proclaim; literarybetoken \"strains of music announced her arrival\""
+            ]
+          },
+          {
+            "definition": "(of a notice, letter, sound, etc.) give information to (someone) via the senses of sight or hearing.",
+            "examples": [
+              "storms came announced by long wisps that lashed out from a snow cloud's body"
+            ]
+          },
+          {
+            "definition": "make known the arrival or imminence of (a guest or a meal) at a formal social occasion.",
+            "examples": [
+              "dinner was announced"
+            ],
+            "synonyms": [
+              "introduce",
+              "present",
+              "name \"Victor announced the guests\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

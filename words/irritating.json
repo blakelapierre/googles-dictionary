@@ -1,0 +1,168 @@
+[
+  {
+    "word": "irritating",
+    "syllables": [
+      "ir",
+      "ri",
+      "tat",
+      "ing"
+    ],
+    "pronunciation": "ˈiriˌtādiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "irritating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing annoyance, impatience, or mild anger.",
+            "examples": [
+              "an irritating child"
+            ],
+            "synonyms": [
+              "annoying",
+              "infuriating",
+              "exasperating",
+              "maddening",
+              "trying",
+              "tiresome",
+              "vexing",
+              "vexatious",
+              "obnoxious",
+              "irksome",
+              "nagging",
+              "niggling",
+              "galling",
+              "grating",
+              "aggravating",
+              "pestilential \"a slow website is irritating to your customers\""
+            ]
+          },
+          {
+            "definition": "causing irritation to a body part.",
+            "examples": [
+              "the substance may be irritating to eyes and skin"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "irritate",
+    "syllables": [
+      "ir",
+      "ri",
+      "tate"
+    ],
+    "pronunciation": "ˈirəˌtāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "irritating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (someone) annoyed, impatient, or angry.",
+            "examples": [
+              "his tone irritated her"
+            ],
+            "synonyms": [
+              "annoy",
+              "vex",
+              "make angry",
+              "make cross",
+              "anger",
+              "exasperate",
+              "irk",
+              "gall",
+              "pique",
+              "nettle",
+              "put out",
+              "antagonize",
+              "get on someone's nerves",
+              "try someone's patience",
+              "ruffle someone's feathers",
+              "make someone's hackles rise; Moreinfuriate",
+              "madden",
+              "provoke",
+              "pester",
+              "rub the wrong way; informalaggravate",
+              "hassle",
+              "miff",
+              "rile",
+              "needle",
+              "get to",
+              "bug",
+              "get in someone's hair",
+              "get under someone's skin",
+              "get someone's dander up",
+              "rattle someone's cage",
+              "get/put someone's back up",
+              "drive mad/crazy",
+              "drive someone around the bend",
+              "drive up the wall",
+              "drive bananas",
+              "tee off",
+              "tick off",
+              "burn up",
+              "rankle",
+              "ride \"they seem to enjoy irritating me\"annoyed",
+              "cross",
+              "angry",
+              "vexed",
+              "exasperated",
+              "irked",
+              "piqued",
+              "nettled",
+              "put out",
+              "fed up",
+              "disgruntled",
+              "in a bad mood",
+              "in a temper",
+              "testy",
+              "in a huff",
+              "huffy",
+              "aggrieved; irate",
+              "infuriated",
+              "incensed; informalaggravated",
+              "peeved",
+              "miffed",
+              "mad",
+              "riled",
+              "hot under the collar",
+              "teed off",
+              "ticked off",
+              "PO'd",
+              "sore; archaicwroth \"we had never before seen the commissioner so irritated\""
+            ],
+            "antonyms": [
+              "pacify",
+              "good-humored"
+            ]
+          },
+          {
+            "definition": "cause inflammation or other discomfort in (a part of the body).",
+            "examples": [
+              "inflame, aggravate; Morepain, hurt; chafe, abrade, scratch, rasp; rareexcoriate \"paint fumes irritate my throat\"Morepain, hurt; chafe, abrade, scratch, rasp; excoriate paint fumes irritate my throat"
+            ],
+            "antonyms": [
+              "soothe"
+            ]
+          },
+          {
+            "definition": "stimulate (an organism, cell, or organ) to produce an active response."
+          }
+        ]
+      }
+    ]
+  }
+]

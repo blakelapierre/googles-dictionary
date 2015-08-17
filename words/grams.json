@@ -1,0 +1,72 @@
+[
+  {
+    "word": "gram",
+    "syllables": [
+      "gram"
+    ],
+    "pronunciation": "ɡram",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "grams"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a metric unit of mass equal to one thousandth of a kilogram."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gram",
+    "syllables": [
+      "gram"
+    ],
+    "pronunciation": "ɡram",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "grams"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for grandma."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gramma",
+    "syllables": [
+      "gram",
+      "ma"
+    ],
+    "pronunciation": "ˈɡramə",
+    "parts": [
+      {
+        "part": "nounNorth Americaninformal",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "grams"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "one's grandmother."
+          }
+        ]
+      }
+    ]
+  }
+]

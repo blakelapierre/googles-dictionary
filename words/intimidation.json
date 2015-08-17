@@ -1,0 +1,36 @@
+[
+  {
+    "word": "intimidation",
+    "syllables": [
+      "in",
+      "tim",
+      "i",
+      "da",
+      "tion"
+    ],
+    "pronunciation": "inˌtiməˈdāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intimidation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intimidations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of intimidating someone, or the state of being intimidated.",
+            "examples": [
+              "the intimidation of witnesses and jurors"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

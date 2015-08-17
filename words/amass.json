@@ -1,0 +1,68 @@
+[
+  {
+    "word": "amass",
+    "syllables": [
+      "a",
+      "mass"
+    ],
+    "pronunciation": "əˈmas",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "amass"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "amasses"
+          },
+          {
+            "part": "past tense",
+            "variant": "amassed"
+          },
+          {
+            "part": "past participle",
+            "variant": "amassed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "amassing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gather together or accumulate (a large amount or number of valuable material or things) over a period of time.",
+            "examples": [
+              "starting from nothing he had amassed a huge fortune"
+            ],
+            "synonyms": [
+              "gather",
+              "collect",
+              "assemble; Moreaccumulate",
+              "aggregate",
+              "stockpile",
+              "store (up)",
+              "pile up",
+              "heap",
+              "cumulate",
+              "accrue",
+              "lay in/up",
+              "garner; informalstash (away) \"the squirrels have amassed a huge quantity of acorns\""
+            ],
+            "antonyms": [
+              "dissipate"
+            ]
+          },
+          {
+            "definition": "(of people) gather together in a crowd or group.",
+            "examples": [
+              "the soldiers were amassing from all parts of Spain"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

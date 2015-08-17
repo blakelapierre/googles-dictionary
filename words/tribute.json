@@ -1,0 +1,96 @@
+[
+  {
+    "word": "tribute",
+    "syllables": [
+      "trib",
+      "ute"
+    ],
+    "pronunciation": "ˈtribyo͞ot",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tribute"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tributes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act, statement, or gift that is intended to show gratitude, respect, or admiration.",
+            "examples": [
+              "the video is a tribute to the musicals of the '40s"
+            ],
+            "synonyms": [
+              "accolade",
+              "praise",
+              "commendation",
+              "salute",
+              "testimonial",
+              "homage",
+              "eulogy",
+              "paean",
+              "panegyric; Morecongratulations",
+              "compliments",
+              "plaudits",
+              "appreciation; gift",
+              "present",
+              "offering; bouquet; formalencomium \"tributes flooded in from friends and colleagues\"praise",
+              "sing the praises of",
+              "speak highly of",
+              "commend",
+              "acclaim",
+              "tip one's hat to",
+              "applaud",
+              "salute",
+              "honor",
+              "show appreciation of",
+              "recognize",
+              "acknowledge",
+              "pay homage to",
+              "extol; formallaud \"the players on both teams paid tribute to the retiring Ripken\""
+            ],
+            "antonyms": [
+              "criticism",
+              "condemnation"
+            ]
+          },
+          {
+            "definition": "something resulting from something else and indicating its worth.",
+            "examples": [
+              "his victory in the championship was a tribute to his persistence"
+            ],
+            "synonyms": [
+              "testimony",
+              "indication",
+              "manifestation",
+              "testament",
+              "evidence",
+              "proof",
+              "attestation \"it is a tribute to his courage that he ever played again\""
+            ]
+          },
+          {
+            "definition": "denoting or relating to a group or musician that performs the music of a more famous one and typically imitates them in appearance and style of performance.",
+            "examples": [
+              "an Abba tribute band"
+            ]
+          },
+          {
+            "definition": "payment made periodically by one state or ruler to another, especially as a sign of dependence.",
+            "examples": [
+              "the king had at his disposal plunder and tribute amassed through warfare"
+            ]
+          },
+          {
+            "definition": "a proportion of ore or its equivalent, paid to a miner for his work, or to the owner or lessor of a mine."
+          }
+        ]
+      }
+    ]
+  }
+]

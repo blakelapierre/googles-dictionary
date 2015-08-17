@@ -1,0 +1,131 @@
+[
+  {
+    "word": "scoop",
+    "syllables": [
+      "scoop"
+    ],
+    "pronunciation": "sko͞op",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scoop"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scoops"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a utensil resembling a spoon, with a long handle and a deep bowl, used for removing powdered, granulated, or semisolid substances (such as ice cream) from a container.",
+            "examples": [
+              "spoon, ladle, dipper; bailer a measuring scoop"
+            ]
+          },
+          {
+            "definition": "a short-handled deep shovel used for moving grain, coal, etc."
+          },
+          {
+            "definition": "a moving bowl-shaped part of a digging machine, dredger, or other mechanism into which material is gathered."
+          },
+          {
+            "definition": "a long-handled spoonlike surgical instrument."
+          },
+          {
+            "definition": "a quantity taken up by a scoop.",
+            "examples": [
+              "an apple pie with scoops of ice cream on top"
+            ],
+            "synonyms": [
+              "spoonful",
+              "ladleful",
+              "portion",
+              "lump",
+              "ball; informaldollop \"a scoop of vanilla ice cream\""
+            ]
+          },
+          {
+            "definition": "a piece of news published by a newspaper or broadcast by a television or radio station in advance of its rivals.",
+            "examples": [
+              "exclusive (story), inside story, exposé, revelation, information he got the scoop on the new CEO"
+            ]
+          },
+          {
+            "definition": "the latest information about something.",
+            "examples": [
+              "noun: the scoop"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "scoop"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "scoops"
+          },
+          {
+            "part": "past tense",
+            "variant": "scooped"
+          },
+          {
+            "part": "past participle",
+            "variant": "scooped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "scooping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pick up and move (something) with a scoop.",
+            "examples": [
+              "Philip began to scoop grain into his bag"
+            ]
+          },
+          {
+            "definition": "create (a hollow or hole) with or as if with a scoop.",
+            "examples": [
+              "a hole was scooped out in the floor of the dwelling"
+            ],
+            "synonyms": [
+              "hollow out",
+              "gouge out",
+              "dig",
+              "excavate",
+              "cut out More\"a hole was scooped out in the floor\"remove",
+              "take out",
+              "spoon out",
+              "scrape out \"cut the tomatoes in half and scoop out the flesh\""
+            ]
+          },
+          {
+            "definition": "pick up (someone or something) in a swift, fluid movement.",
+            "examples": [
+              "he laughed and scooped her up in his arms"
+            ],
+            "synonyms": [
+              "pick up",
+              "gather up",
+              "lift",
+              "take up; Moresnatch up",
+              "grab \"she scooped up armfuls of clothes\""
+            ]
+          },
+          {
+            "definition": "publish a news story before (a rival reporter, newspaper, or radio or television station)."
+          }
+        ]
+      }
+    ]
+  }
+]

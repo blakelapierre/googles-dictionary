@@ -1,0 +1,52 @@
+[
+  {
+    "word": "parliament",
+    "syllables": [
+      "par",
+      "lia",
+      "ment"
+    ],
+    "pronunciation": "ˈpärləmənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Parliament"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in the UK) the highest legislature, consisting of the sovereign, the House of Lords, and the House of Commons.",
+            "examples": [
+              "the Secretary of State will lay proposals before Parliament"
+            ]
+          },
+          {
+            "definition": "the members of parliament for a particular period, especially between one dissolution and the next.",
+            "examples": [
+              "noun: parliament; plural noun: parliaments"
+            ]
+          },
+          {
+            "definition": "a legislature similar to parliament in other nations and states.",
+            "examples": [
+              "the Russian parliament"
+            ],
+            "synonyms": [
+              "legislature",
+              "legislative assembly",
+              "congress",
+              "senate",
+              "(upper/lower) house",
+              "(upper/lower) chamber",
+              "diet",
+              "assembly \"the Russian parliament\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

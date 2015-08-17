@@ -1,0 +1,33 @@
+[
+  {
+    "word": "lesion",
+    "syllables": [
+      "le",
+      "sion"
+    ],
+    "pronunciation": "ˈlēZHən",
+    "parts": [
+      {
+        "part": "nounMedicine",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lesion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lesions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a region in an organ or tissue that has suffered damage through injury or disease, such as a wound, ulcer, abscess, tumor, etc.",
+            "examples": [
+              "wound, injury, bruise, abrasion, contusion; Moreulcer, ulceration, sore, running sore, abscess; trauma \"symptoms include clusters of red lesions\"Moreulcer, ulceration, sore, running sore, abscess; trauma symptoms include clusters of red lesions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

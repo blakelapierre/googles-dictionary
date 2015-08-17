@@ -1,0 +1,36 @@
+[
+  {
+    "word": "miser",
+    "syllables": [
+      "mi",
+      "ser"
+    ],
+    "pronunciation": "ˈmīzər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "miser"
+          },
+          {
+            "part": "plural noun",
+            "variant": "misers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who hoards wealth and spends as little money as possible.",
+            "examples": [
+              "penny-pincher, Scrooge, pinchpenny; Moreinformalskinflint, money-grubber, cheapskate, tightwad, piker \"one wonders how happy a miser could ever be\"Moreskinflint, money-grubber, cheapskate, tightwad, piker one wonders how happy a miser could ever be"
+            ],
+            "antonyms": [
+              "spendthrift"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

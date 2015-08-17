@@ -1,0 +1,98 @@
+[
+  {
+    "word": "forgotten",
+    "syllables": [
+      "for",
+      "got",
+      "ten"
+    ],
+    "pronunciation": "fərˈɡätn",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "forget",
+    "syllables": [
+      "for",
+      "get"
+    ],
+    "pronunciation": "fərˈɡet",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "forgotten"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fail to remember.",
+            "examples": [
+              "he had forgotten his lines"
+            ],
+            "synonyms": [
+              "fail to remember",
+              "fail to recall",
+              "fail to think of; informaldisremember \"he forgot where he was\""
+            ],
+            "antonyms": [
+              "remember"
+            ]
+          },
+          {
+            "definition": "inadvertently neglect to attend to, do, or mention something.",
+            "examples": [
+              "she forgot to lock her door"
+            ],
+            "synonyms": [
+              "neglect",
+              "fail",
+              "omit \"I forgot to close the door\""
+            ]
+          },
+          {
+            "definition": "put out of one's mind; cease to think of or consider.",
+            "examples": [
+              "forget all this romantic stuff"
+            ],
+            "synonyms": [
+              "stop thinking about",
+              "put out of one's mind",
+              "shut out",
+              "blank out",
+              "pay no heed to",
+              "not worry about",
+              "ignore",
+              "overlook",
+              "take no notice of; Moreabandon",
+              "say goodbye to",
+              "deep-six \"you can forget that idea\""
+            ]
+          },
+          {
+            "definition": "said when insisting to someone that there is no need for apology or thanks."
+          },
+          {
+            "definition": "said when telling someone that their idea or aspiration is impracticable."
+          },
+          {
+            "definition": "stop thinking about one's own problems or feelings.",
+            "examples": [
+              "he must forget himself in his work"
+            ]
+          },
+          {
+            "definition": "act improperly or unbecomingly."
+          }
+        ]
+      }
+    ]
+  }
+]

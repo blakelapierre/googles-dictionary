@@ -1,0 +1,109 @@
+[
+  {
+    "word": "highlight",
+    "syllables": [
+      "high",
+      "light"
+    ],
+    "pronunciation": "ˈhīˌlīt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "highlights"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an outstanding part of an event or period of time.",
+            "examples": [
+              "he views that season as the highlight of his career"
+            ],
+            "synonyms": [
+              "high point",
+              "best part",
+              "climax",
+              "peak",
+              "pinnacle",
+              "height",
+              "acme",
+              "zenith",
+              "summit",
+              "crowning moment",
+              "high-water mark",
+              "centerpiece; Moreinformalwow factor",
+              "X factor \"the highlight of his career\""
+            ],
+            "antonyms": [
+              "nadir"
+            ]
+          },
+          {
+            "definition": "the best parts of a sporting or other event edited for broadcasting or recording.",
+            "examples": [
+              "he never watches TV highlights of games he has umpired"
+            ]
+          },
+          {
+            "definition": "a bright or reflective area in a painting, picture, or design."
+          },
+          {
+            "definition": "a bright tint in the hair, especially one produced by bleaching or dyeing."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "highlights"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pick out and emphasize.",
+            "examples": [
+              "the issues highlighted by the report"
+            ],
+            "synonyms": [
+              "spotlight",
+              "call attention to",
+              "point out",
+              "single out",
+              "focus on",
+              "underline",
+              "feature",
+              "play up",
+              "show up",
+              "bring out",
+              "accentuate",
+              "accent",
+              "give prominence to",
+              "zero in on",
+              "stress",
+              "emphasize \"he has highlighted shortcomings in the plan\""
+            ]
+          },
+          {
+            "definition": "make visually prominent.",
+            "examples": [
+              "a vast backdrop with the colorful logo highlighted with lasers"
+            ]
+          },
+          {
+            "definition": "mark with a highlighter.",
+            "examples": [
+              "a photocopy with sections highlighted in green"
+            ]
+          },
+          {
+            "definition": "create highlights in (hair)."
+          }
+        ]
+      }
+    ]
+  }
+]

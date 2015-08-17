@@ -1,0 +1,197 @@
+[
+  {
+    "word": "bidding",
+    "syllables": [
+      "bid",
+      "ding"
+    ],
+    "pronunciation": "ˈbidiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bidding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the offering of particular prices for something, especially at an auction.",
+            "examples": [
+              "their first sale produced a wide range of lots and some energetic bidding"
+            ],
+            "synonyms": [
+              "command",
+              "order",
+              "instruction",
+              "decree",
+              "injunction",
+              "demand",
+              "mandate",
+              "direction",
+              "summons",
+              "call; Morewish",
+              "desire; request; literarybehest; archaichest \"let's make it clear that I am not here at your bidding\""
+            ]
+          },
+          {
+            "definition": "the offers made by bidding in an auction.",
+            "examples": [
+              "from a cautious opener of $30, the bidding soared to $450"
+            ],
+            "synonyms": [
+              "command",
+              "order",
+              "instruction",
+              "decree",
+              "injunction",
+              "demand",
+              "mandate",
+              "direction",
+              "summons",
+              "call; Morewish",
+              "desire; request; literarybehest; archaichest \"let's make it clear that I am not here at your bidding\""
+            ]
+          },
+          {
+            "definition": "(in bridge and whist) the action of stating before play how many tricks one intends to make."
+          },
+          {
+            "definition": "the ordering or requesting of someone to do something.",
+            "examples": [
+              "the clandestine associations that would act at their bidding"
+            ],
+            "synonyms": [
+              "command",
+              "order",
+              "instruction",
+              "decree",
+              "injunction",
+              "demand",
+              "mandate",
+              "direction",
+              "summons",
+              "call; Morewish",
+              "desire; request; literarybehest; archaichest \"let's make it clear that I am not here at your bidding\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bid",
+    "syllables": [
+      "bid"
+    ],
+    "pronunciation": "bid",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "bidding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "offer (a certain price) for something, especially at an auction.",
+            "examples": [
+              "a consortium of dealers bid a world record price for a snuff box"
+            ],
+            "synonyms": [
+              "offer",
+              "make an offer of",
+              "put in a bid of",
+              "put up",
+              "tender",
+              "proffer",
+              "propose \"we bid $650 for the antique table\""
+            ]
+          },
+          {
+            "definition": "(of a contractor) offer to do (work) for a stated price; tender for.",
+            "examples": [
+              "nineteen companies have indicated their intention to bid for the contract"
+            ]
+          },
+          {
+            "definition": "make an effort or attempt to achieve.",
+            "examples": [
+              "the two freshmen are bidding for places in the varsity swim team"
+            ],
+            "synonyms": [
+              "try to obtain",
+              "try to get",
+              "make a pitch for",
+              "make a bid for \"she is bidding for a place on the UConn team\""
+            ]
+          },
+          {
+            "definition": "make a statement during the auction undertaking to make (a certain number of tricks with a stated suit as trumps) if the bid is successful and one becomes the declarer.",
+            "examples": [
+              "North bids four hearts"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bid",
+    "syllables": [
+      "bid"
+    ],
+    "pronunciation": "bid",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "bidding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "utter (a greeting or farewell) to.",
+            "examples": [
+              "a chance to bid farewell to their president"
+            ],
+            "synonyms": [
+              "wish; utter \"she bid him farewell\""
+            ]
+          },
+          {
+            "definition": "command or order (someone) to do something.",
+            "examples": [
+              "I did as he bade me"
+            ],
+            "synonyms": [
+              "order",
+              "command",
+              "tell",
+              "instruct",
+              "direct",
+              "enjoin",
+              "charge \"I did as he bade me\""
+            ]
+          },
+          {
+            "definition": "invite (someone) to do something.",
+            "examples": [
+              "he bade his companions enter"
+            ],
+            "synonyms": [
+              "invite to",
+              "ask to",
+              "request to \"he bade his companions enter\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

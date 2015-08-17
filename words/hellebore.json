@@ -1,0 +1,34 @@
+[
+  {
+    "word": "hellebore",
+    "syllables": [
+      "hel",
+      "le",
+      "bore"
+    ],
+    "pronunciation": "ˈheləˌbôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hellebore"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hellebores"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a poisonous winter-flowering Eurasian plant of the buttercup family, typically having coarse divided leaves and large white, green, or purplish flowers."
+          },
+          {
+            "definition": "another term for false hellebore."
+          }
+        ]
+      }
+    ]
+  }
+]

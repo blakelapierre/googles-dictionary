@@ -1,0 +1,144 @@
+[
+  {
+    "word": "shrink",
+    "syllables": [
+      "shrink"
+    ],
+    "pronunciation": "SHriNGk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "shrink"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "shrinks"
+          },
+          {
+            "part": "past tense",
+            "variant": "shrank"
+          },
+          {
+            "part": "past participle",
+            "variant": "shrunk"
+          },
+          {
+            "part": "past participle",
+            "variant": "shrunken"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "shrinking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become or make smaller in size or amount; contract or cause to contract.",
+            "examples": [
+              "the workforce has shrunk to less than a thousand"
+            ],
+            "synonyms": [
+              "get smaller",
+              "become/grow smaller",
+              "contract",
+              "diminish",
+              "lessen",
+              "reduce",
+              "decrease",
+              "dwindle",
+              "decline",
+              "fall off",
+              "drop off \"the number of competitors shrank\""
+            ],
+            "antonyms": [
+              "expand",
+              "increase"
+            ]
+          },
+          {
+            "definition": "(of clothes or material) become smaller as a result of being immersed in water."
+          },
+          {
+            "definition": "(especially of a person's face or other part of the body) withered, wrinkled, or shriveled through old age or illness.",
+            "examples": [
+              "adjective: shrunken"
+            ]
+          },
+          {
+            "definition": "become withdrawn."
+          },
+          {
+            "definition": "slip a metal tire or other fitting onto (something) while it is expanded with heat and allow it to tighten in place.",
+            "examples": [
+              "the metal is unsuitable for shrinking onto wooden staves"
+            ]
+          },
+          {
+            "definition": "move back or away, especially because of fear or disgust.",
+            "examples": [
+              "she shrank away from him, covering her face"
+            ],
+            "synonyms": [
+              "draw back",
+              "recoil",
+              "back away",
+              "retreat",
+              "withdraw",
+              "cringe",
+              "cower",
+              "quail \"he shrank back against the wall\""
+            ]
+          },
+          {
+            "definition": "be averse to or unwilling to do (something difficult or unappealing).",
+            "examples": [
+              "I don't shrink from my responsibilities"
+            ],
+            "synonyms": [
+              "recoil from",
+              "shy away from",
+              "demur from",
+              "flinch from",
+              "have scruples about",
+              "have misgivings about",
+              "have qualms about",
+              "be loath to",
+              "be reluctant to",
+              "be unwilling to",
+              "be averse to",
+              "fight shy of",
+              "be hesitant to",
+              "be afraid to",
+              "hesitate to",
+              "balk at \"he doesn't shrink from naming names\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "shrink"
+          },
+          {
+            "part": "plural noun",
+            "variant": "shrinks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a clinical psychologist, psychiatrist, or psychotherapist.",
+            "examples": [
+              "you should see a shrink"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

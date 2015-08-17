@@ -1,0 +1,35 @@
+[
+  {
+    "word": "herself",
+    "syllables": [
+      "her",
+      "self"
+    ],
+    "pronunciation": "hərˈself",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "herself"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used as the object of a verb or preposition to refer to a female person or animal previously mentioned as the subject of the clause.",
+            "examples": [
+              "she had to defend herself"
+            ]
+          },
+          {
+            "definition": "she or her personally (used to emphasize a particular female person or animal mentioned).",
+            "examples": [
+              "she told me herself"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

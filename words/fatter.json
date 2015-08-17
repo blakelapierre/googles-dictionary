@@ -1,0 +1,125 @@
+[
+  {
+    "word": "fat",
+    "syllables": [
+      "fat"
+    ],
+    "pronunciation": "fat",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "fatter"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or animal) having a large amount of excess flesh.",
+            "examples": [
+              "the driver was a fat, wheezing man"
+            ],
+            "synonyms": [
+              "plump",
+              "stout",
+              "overweight",
+              "large",
+              "chubby",
+              "portly",
+              "flabby",
+              "paunchy",
+              "potbellied",
+              "beer-bellied",
+              "meaty",
+              "of ample proportions",
+              "heavyset; Moreobese",
+              "corpulent",
+              "fleshy",
+              "gross; informalplus-sized",
+              "big-boned",
+              "tubby",
+              "roly-poly",
+              "well upholstered",
+              "beefy",
+              "porky",
+              "blubbery",
+              "chunky",
+              "pudgy \"a fat man\""
+            ],
+            "antonyms": [
+              "thin",
+              "skinny"
+            ]
+          },
+          {
+            "definition": "(of an animal bred for food) made plump for slaughter."
+          },
+          {
+            "definition": "containing much fat.",
+            "examples": [
+              "fat bacon"
+            ],
+            "synonyms": [
+              "fatty",
+              "greasy",
+              "oily",
+              "oleaginous; formalpinguid \"fat bacon\""
+            ],
+            "antonyms": [
+              "lean"
+            ]
+          },
+          {
+            "definition": "large in bulk or circumference.",
+            "examples": [
+              "a fat cigarette"
+            ],
+            "synonyms": [
+              "thick",
+              "big",
+              "chunky",
+              "bulky",
+              "substantial",
+              "voluminous; long \"a fat book\""
+            ],
+            "antonyms": [
+              "thin"
+            ]
+          },
+          {
+            "definition": "(of an asset or opportunity) financially substantial or desirable.",
+            "examples": [
+              "a fat profit"
+            ],
+            "synonyms": [
+              "large",
+              "substantial",
+              "sizable",
+              "considerable; Moregenerous",
+              "lucrative \"a fat salary\""
+            ],
+            "antonyms": [
+              "small"
+            ]
+          },
+          {
+            "definition": "used ironically to express the belief that there is none or very little of something.",
+            "examples": [
+              "fat chance she had of influencing him"
+            ]
+          },
+          {
+            "definition": "(of coal) containing a high proportion of volatile oils."
+          },
+          {
+            "definition": "(of wood) containing a high proportion of resin.",
+            "examples": [
+              "fat pine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

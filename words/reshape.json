@@ -1,0 +1,65 @@
+[
+  {
+    "word": "reshape",
+    "syllables": [
+      "re",
+      "shape"
+    ],
+    "pronunciation": "rēˈSHāp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "reshape"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reshapes"
+          },
+          {
+            "part": "past tense",
+            "variant": "reshaped"
+          },
+          {
+            "part": "past participle",
+            "variant": "reshaped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "reshaping"
+          },
+          {
+            "part": "verb",
+            "variant": "re-shape"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "re-shapes"
+          },
+          {
+            "part": "past tense",
+            "variant": "re-shaped"
+          },
+          {
+            "part": "past participle",
+            "variant": "re-shaped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "re-shaping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shape or form (something) differently or again.",
+            "examples": [
+              "the decrees will thoroughly reshape Poland's economy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

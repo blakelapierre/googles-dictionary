@@ -1,0 +1,48 @@
+[
+  {
+    "word": "reminder",
+    "syllables": [
+      "re",
+      "mind",
+      "er"
+    ],
+    "pronunciation": "rəˈmīndər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reminder"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reminders"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing that causes someone to remember something.",
+            "examples": [
+              "the watchtower is a reminder of the days when an enemy might appear at any moment"
+            ],
+            "synonyms": [
+              "prompt",
+              "prompting",
+              "aide-mémoire",
+              "mental note",
+              "mnemonic \"when the clock chimes",
+              "that'll be my reminder to get the mail\""
+            ]
+          },
+          {
+            "definition": "a message or communication designed to ensure that someone remembers something."
+          },
+          {
+            "definition": "a letter sent to remind someone of an obligation, especially to pay a bill."
+          }
+        ]
+      }
+    ]
+  }
+]

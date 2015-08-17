@@ -1,0 +1,86 @@
+[
+  {
+    "word": "apprehend",
+    "syllables": [
+      "ap",
+      "pre",
+      "hend"
+    ],
+    "pronunciation": "ˌaprəˈhend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "apprehend"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "apprehends"
+          },
+          {
+            "part": "past tense",
+            "variant": "apprehended"
+          },
+          {
+            "part": "past participle",
+            "variant": "apprehended"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "apprehending"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arrest (someone) for a crime.",
+            "examples": [
+              "a warrant was issued but he has not been apprehended"
+            ],
+            "synonyms": [
+              "arrest",
+              "catch",
+              "capture",
+              "seize; Moretake prisoner",
+              "take into custody",
+              "detain",
+              "put in jail",
+              "put behind bars",
+              "imprison",
+              "incarcerate; informalbag",
+              "collar",
+              "nab",
+              "nail",
+              "run in",
+              "bust",
+              "pick up",
+              "pull in \"the thieves were quickly apprehended\""
+            ]
+          },
+          {
+            "definition": "understand or perceive.",
+            "examples": [
+              "great art invites us to apprehend beauty"
+            ],
+            "synonyms": [
+              "appreciate",
+              "recognize",
+              "discern",
+              "perceive",
+              "make out",
+              "take in",
+              "realize",
+              "grasp",
+              "understand",
+              "comprehend; informalget the picture \"they are slow to apprehend danger\""
+            ]
+          },
+          {
+            "definition": "anticipate (something) with uneasiness or fear."
+          }
+        ]
+      }
+    ]
+  }
+]

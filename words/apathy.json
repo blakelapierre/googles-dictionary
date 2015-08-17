@@ -1,0 +1,44 @@
+[
+  {
+    "word": "apathy",
+    "syllables": [
+      "ap",
+      "a",
+      "thy"
+    ],
+    "pronunciation": "ˈapəTHē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "apathy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lack of interest, enthusiasm, or concern.",
+            "examples": [
+              "widespread apathy among students"
+            ],
+            "synonyms": [
+              "indifference",
+              "lack of interest",
+              "lack of enthusiasm",
+              "lack of concern",
+              "unconcern",
+              "uninterestedness",
+              "unresponsiveness",
+              "impassivity",
+              "dispassion",
+              "lethargy",
+              "languor",
+              "ennui; rareacedia \"widespread apathy among the voters\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

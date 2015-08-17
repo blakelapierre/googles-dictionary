@@ -1,0 +1,107 @@
+[
+  {
+    "word": "translate",
+    "syllables": [
+      "trans",
+      "late"
+    ],
+    "pronunciation": "transˈlāttranzˈlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "translate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "translates"
+          },
+          {
+            "part": "past tense",
+            "variant": "translated"
+          },
+          {
+            "part": "past participle",
+            "variant": "translated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "translating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "express the sense of (words or text) in another language.",
+            "examples": [
+              "the German original has been translated into English"
+            ],
+            "synonyms": [
+              "render",
+              "put",
+              "express",
+              "convert",
+              "change; Moretranscribe",
+              "transliterate \"the German original had been translated into English\""
+            ]
+          },
+          {
+            "definition": "be expressed or be capable of being expressed in another language.",
+            "examples": [
+              "shiatsu literally translates as “finger pressure.”"
+            ]
+          },
+          {
+            "definition": "convert or be converted into (another form or medium).",
+            "examples": [
+              "few of Shakespeare's other works have been translated into ballets"
+            ],
+            "synonyms": [
+              "render",
+              "paraphrase",
+              "reword",
+              "rephrase",
+              "convert",
+              "decipher",
+              "decode",
+              "gloss",
+              "explain More\"be prepared to translate plenty of jargon\"adapt",
+              "change",
+              "convert",
+              "transform",
+              "alter",
+              "turn",
+              "transmute; informaltransmogrify",
+              "morph \"interesting ideas cannot always be translated into effective movies\""
+            ]
+          },
+          {
+            "definition": "move from one place or condition to another.",
+            "examples": [
+              "she had been translated from familiar surroundings to a foreign court"
+            ]
+          },
+          {
+            "definition": "move (a bishop) to another see or pastoral charge."
+          },
+          {
+            "definition": "remove (a saint's relics) to another place."
+          },
+          {
+            "definition": "convey (someone, typically still alive) to heaven."
+          },
+          {
+            "definition": "convert (a sequence of nucleotides in messenger RNA) to an amino-acid sequence in a protein or polypeptide during synthesis."
+          },
+          {
+            "definition": "cause (a body) to move so that all its parts travel in the same direction, without rotation or change of shape."
+          },
+          {
+            "definition": "transform (a geometric figure) in an analogous way."
+          }
+        ]
+      }
+    ]
+  }
+]

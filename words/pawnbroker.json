@@ -1,0 +1,31 @@
+[
+  {
+    "word": "pawnbroker",
+    "syllables": [
+      "pawn",
+      "brok",
+      "er"
+    ],
+    "pronunciation": "ˈpônˌbrōkər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pawnbroker"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pawnbrokers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who lends money at interest on the security of an article pawned."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "word": "redeem",
+    "syllables": [
+      "re",
+      "deem"
+    ],
+    "pronunciation": "rəˈdēm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "redeemed"
+          },
+          {
+            "part": "past participle",
+            "variant": "redeemed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "compensate for the faults or bad aspects of (something).",
+            "examples": [
+              "a disappointing debate redeemed only by an outstanding speech"
+            ],
+            "synonyms": [
+              "save",
+              "compensate for the defects of",
+              "vindicate More\"the whimsical artwork redeems the book\"compensating",
+              "compensatory",
+              "extenuating",
+              "redemptive; salvific \"the critics are hard-pressed to find anything redeeming about his latest book\""
+            ]
+          },
+          {
+            "definition": "do something that compensates for poor past performance or behavior.",
+            "examples": [
+              "they redeemed themselves in the playoffs by pushing the Detroit Red Wings to a seventh and deciding game"
+            ],
+            "synonyms": [
+              "vindicate",
+              "free from blame",
+              "absolve \"he fully redeemed himself in the next race\""
+            ]
+          },
+          {
+            "definition": "(of a person) atone or make amends for (error or evil).",
+            "examples": [
+              "the thief on the cross who by a single act redeemed a life of evil"
+            ],
+            "synonyms": [
+              "atone for",
+              "make amends for",
+              "make restitution for \"you cannot redeem their sins\""
+            ]
+          },
+          {
+            "definition": "save (someone) from sin, error, or evil.",
+            "examples": [
+              "he was a sinner, redeemed by the grace of God"
+            ],
+            "synonyms": [
+              "save",
+              "deliver from sin",
+              "convert \"who shall redeem these sinners?\""
+            ]
+          },
+          {
+            "definition": "gain or regain possession of (something) in exchange for payment.",
+            "examples": [
+              "his best suit had been redeemed from the pawnbrokers"
+            ],
+            "synonyms": [
+              "retrieve",
+              "regain",
+              "recover",
+              "get back",
+              "reclaim",
+              "repossess; buy back \"Billy redeemed his drums from the pawnbrokers\""
+            ]
+          },
+          {
+            "definition": "repay (a stock, bond, or other instrument) at the maturity date."
+          },
+          {
+            "definition": "exchange (a coupon, voucher, or trading stamp) for merchandise, a discount, or money.",
+            "examples": [
+              "exchange, give in exchange, cash in, convert, trade in this voucher can be redeemed at any branch"
+            ]
+          },
+          {
+            "definition": "pay the necessary money to clear (a debt).",
+            "examples": [
+              "owners were unable to redeem their mortgages"
+            ],
+            "synonyms": [
+              "pay off/back",
+              "clear",
+              "discharge",
+              "honor \"they could not redeem their debts\""
+            ]
+          },
+          {
+            "definition": "fulfill or carry out (a pledge or promise).",
+            "examples": [
+              "the party prepared to redeem the pledges of the past three years"
+            ],
+            "synonyms": [
+              "fulfill",
+              "carry out",
+              "discharge",
+              "make good; Morekeep",
+              "keep to",
+              "stick to",
+              "hold to",
+              "adhere to",
+              "abide by",
+              "honor \"he made no effort to redeem his promise\""
+            ]
+          },
+          {
+            "definition": "buy the freedom of."
+          }
+        ]
+      }
+    ]
+  }
+]

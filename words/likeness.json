@@ -1,0 +1,76 @@
+[
+  {
+    "word": "likeness",
+    "syllables": [
+      "like",
+      "ness"
+    ],
+    "pronunciation": "ˈlīknəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "likeness"
+          },
+          {
+            "part": "plural noun",
+            "variant": "likenesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fact or quality of being alike; resemblance.",
+            "examples": [
+              "her likeness to him was astonishing"
+            ],
+            "synonyms": [
+              "resemblance",
+              "similarity",
+              "similitude",
+              "correspondence \"her likeness to Anne is quite uncanny\""
+            ],
+            "antonyms": [
+              "dissimilarity"
+            ]
+          },
+          {
+            "definition": "the semblance, guise, or outward appearance of.",
+            "examples": [
+              "humans are described as being made in God's likeness"
+            ],
+            "synonyms": [
+              "semblance",
+              "guise",
+              "appearance",
+              "outward form",
+              "form",
+              "shape",
+              "image \"she appeared in the likeness of a ghost\""
+            ]
+          },
+          {
+            "definition": "a portrait or representation.",
+            "examples": [
+              "the only known likeness of Dorothy as a young woman"
+            ],
+            "synonyms": [
+              "representation",
+              "image",
+              "depiction",
+              "portrayal; Morepicture",
+              "drawing",
+              "sketch",
+              "painting",
+              "portrait",
+              "photograph",
+              "study; statue",
+              "sculpture \"a likeness of the president\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "street",
+    "syllables": [
+      "street"
+    ],
+    "pronunciation": "strēt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "streets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a public road in a city or town, typically with houses and buildings on one or both sides.",
+            "examples": [
+              "the narrow, winding streets of Greenwich Village"
+            ],
+            "synonyms": [
+              "road",
+              "thoroughfare",
+              "avenue",
+              "drive",
+              "crescent",
+              "boulevard; Moreside street/road",
+              "lane",
+              "highway \"Amsterdam's narrow cobbled streets\""
+            ]
+          },
+          {
+            "definition": "used to refer to the financial markets and activities on Wall Street.",
+            "examples": [
+              "noun: the street"
+            ]
+          },
+          {
+            "definition": "the roads or public areas of a city or town.",
+            "examples": [
+              "every week, fans stop me in the street"
+            ]
+          },
+          {
+            "definition": "of or relating to the outlook, values, or lifestyle of those young people who are perceived as composing a fashionable urban subculture.",
+            "examples": [
+              "modifier noun: street"
+            ]
+          },
+          {
+            "definition": "denoting someone who is homeless.",
+            "examples": [
+              "he ministered to street people in storefront missions"
+            ]
+          },
+          {
+            "definition": "performing or being performed on the street.",
+            "examples": [
+              "street theater"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

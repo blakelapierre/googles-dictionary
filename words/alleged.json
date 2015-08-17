@@ -1,0 +1,91 @@
+[
+  {
+    "word": "alleged",
+    "syllables": [
+      "al",
+      "leged"
+    ],
+    "pronunciation": "əˈlejd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "alleged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an incident or a person) said, without proof, to have taken place or to have a specified illegal or undesirable quality.",
+            "examples": [
+              "the alleged conspirators"
+            ],
+            "synonyms": [
+              "supposed",
+              "so-called",
+              "claimed",
+              "professed",
+              "purported",
+              "ostensible",
+              "putative",
+              "unproven \"did Mr. Ramirez tell you what time this alleged crime took place?\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "allege",
+    "syllables": [
+      "al",
+      "lege"
+    ],
+    "pronunciation": "əˈlej",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "alleged"
+          },
+          {
+            "part": "past participle",
+            "variant": "alleged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "claim or assert that someone has done something illegal or wrong, typically without proof that this is the case.",
+            "examples": [
+              "he alleged that he had been assaulted"
+            ],
+            "synonyms": [
+              "claim",
+              "assert",
+              "charge",
+              "accuse",
+              "declare",
+              "state",
+              "contend",
+              "argue",
+              "affirm",
+              "maintain",
+              "attest",
+              "testify",
+              "swear; formalaver \"both children allege that the babysitter had left them alone for hours at a time\""
+            ]
+          },
+          {
+            "definition": "suppose or affirm to be the case.",
+            "examples": [
+              "the first artifact ever alleged to be from Earhart's aircraft"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

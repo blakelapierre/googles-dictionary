@@ -1,0 +1,63 @@
+[
+  {
+    "word": "impair",
+    "syllables": [
+      "im",
+      "pair"
+    ],
+    "pronunciation": "imˈper",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "impair"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "impairs"
+          },
+          {
+            "part": "past tense",
+            "variant": "impaired"
+          },
+          {
+            "part": "past participle",
+            "variant": "impaired"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "impairing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "weaken or damage something (especially a human faculty or function).",
+            "examples": [
+              "drug use that impairs job performance"
+            ],
+            "synonyms": [
+              "have a negative effect on",
+              "damage",
+              "harm",
+              "diminish",
+              "reduce",
+              "weaken",
+              "lessen",
+              "decrease",
+              "impede",
+              "hinder",
+              "hobble; Moreundermine",
+              "compromise; formalvitiate \"sagging eyelid skin can impair eyesight\""
+            ],
+            "antonyms": [
+              "improve",
+              "enhance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

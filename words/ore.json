@@ -1,0 +1,108 @@
+[
+  {
+    "word": "ore",
+    "syllables": [
+      "ore"
+    ],
+    "pronunciation": "ôr",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ore"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ores"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a naturally occurring solid material from which a metal or valuable mineral can be profitably extracted."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "öre",
+    "syllables": [
+      "ö",
+      "re"
+    ],
+    "pronunciation": "ˈərə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "öre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "öre"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a monetary unit of Sweden, equal to one hundredth of a krona."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "øre",
+    "syllables": [
+      "ø",
+      "re"
+    ],
+    "pronunciation": "ˈərə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "øre"
+          },
+          {
+            "part": "plural noun",
+            "variant": "øre"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a monetary unit of Denmark and Norway, equal to one hundredth of a krone."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Ore.",
+    "syllables": [
+      "Ore."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "Ore."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "Oregon."
+          }
+        ]
+      }
+    ]
+  }
+]

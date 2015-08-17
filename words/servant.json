@@ -1,0 +1,47 @@
+[
+  {
+    "word": "servant",
+    "syllables": [
+      "serv",
+      "ant"
+    ],
+    "pronunciation": "ˈsərvənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "servant"
+          },
+          {
+            "part": "plural noun",
+            "variant": "servants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who performs duties for others, especially a person employed in a house on domestic duties or as a personal attendant.",
+            "examples": [
+              "attendant, retainer; Moredomestic (worker), (hired) help, cleaner; lackey, flunky, minion; maid, housemaid, footman, page (boy), valet, butler, manservant; housekeeper, steward; drudge, menial, slave, water boy; archaicscullion \"servants were cleaning the hall\"Moredomestic (worker), (hired) help, cleaner; lackey, flunky, minion; maid, housemaid, footman, page (boy), valet, butler, manservant; housekeeper, steward; drudge, menial, slave, water boy; scullion servants were cleaning the hall"
+            ]
+          },
+          {
+            "definition": "a person employed in the service of a government."
+          },
+          {
+            "definition": "a devoted and helpful follower or supporter.",
+            "examples": [
+              "a tireless servant of God"
+            ],
+            "synonyms": [
+              "helper",
+              "supporter",
+              "follower \"a servant of the people\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

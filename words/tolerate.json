@@ -1,0 +1,76 @@
+[
+  {
+    "word": "tolerate",
+    "syllables": [
+      "tol",
+      "er",
+      "ate"
+    ],
+    "pronunciation": "ˈtäləˌrāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tolerate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tolerates"
+          },
+          {
+            "part": "past tense",
+            "variant": "tolerated"
+          },
+          {
+            "part": "past participle",
+            "variant": "tolerated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tolerating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "allow the existence, occurrence, or practice of (something that one does not necessarily like or agree with) without interference.",
+            "examples": [
+              "a regime unwilling to tolerate dissent"
+            ],
+            "synonyms": [
+              "allow",
+              "permit",
+              "condone",
+              "accept",
+              "swallow",
+              "countenance; Moreformalbrook; archaicsuffer \"a regime unwilling to tolerate dissent\""
+            ]
+          },
+          {
+            "definition": "accept or endure (someone or something unpleasant or disliked) with forbearance.",
+            "examples": [
+              "how was it that she could tolerate such noise?"
+            ],
+            "synonyms": [
+              "endure",
+              "put up with",
+              "bear",
+              "take",
+              "stand",
+              "support",
+              "stomach",
+              "deal with; abide \"he couldn't tolerate her mood swings any longer\""
+            ]
+          },
+          {
+            "definition": "be capable of continued subjection to (a drug, toxin, or environmental condition) without adverse reaction.",
+            "examples": [
+              "lichens grow in conditions that no other plants tolerate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

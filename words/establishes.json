@@ -1,0 +1,85 @@
+[
+  {
+    "word": "establish",
+    "syllables": [
+      "es",
+      "tab",
+      "lish"
+    ],
+    "pronunciation": "iˈstabliSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "establishes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "set up (an organization, system, or set of rules) on a firm or permanent basis.",
+            "examples": [
+              "the British established a rich trade with Portugal"
+            ],
+            "synonyms": [
+              "set up",
+              "start",
+              "initiate",
+              "institute",
+              "form",
+              "found",
+              "create",
+              "inaugurate; Morebuild",
+              "construct",
+              "install \"they established an office in Moscow\""
+            ]
+          },
+          {
+            "definition": "initiate or bring about (contact or communication).",
+            "examples": [
+              "the two countries established diplomatic relations"
+            ]
+          },
+          {
+            "definition": "achieve permanent acceptance or recognition for.",
+            "examples": [
+              "the principle of the supremacy of national parliaments needs to be firmly established"
+            ]
+          },
+          {
+            "definition": "introduce (a character, set, or location) into a film or play and allow its identification.",
+            "examples": [
+              "establish the location with a wide shot"
+            ]
+          },
+          {
+            "definition": "show (something) to be true or certain by determining the facts.",
+            "examples": [
+              "the police established that the two passports were forgeries"
+            ],
+            "synonyms": [
+              "prove",
+              "demonstrate",
+              "show",
+              "indicate",
+              "signal",
+              "exhibit",
+              "manifest",
+              "attest to",
+              "evidence",
+              "determine",
+              "confirm",
+              "verify",
+              "certify",
+              "substantiate \"evidence to establish his guilt\""
+            ]
+          },
+          {
+            "definition": "ensure that one's remaining cards in (a suit) will be winners (if not trumped) by playing off the high cards in that suit."
+          }
+        ]
+      }
+    ]
+  }
+]

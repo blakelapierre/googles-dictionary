@@ -1,0 +1,90 @@
+[
+  {
+    "word": "expect",
+    "syllables": [
+      "ex",
+      "pect"
+    ],
+    "pronunciation": "ikˈspekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "expects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "regard (something) as likely to happen.",
+            "examples": [
+              "we expect the best"
+            ],
+            "synonyms": [
+              "anticipate",
+              "await",
+              "look for",
+              "hope for",
+              "look forward to; Morecontemplate",
+              "bargain for/on",
+              "bank on; predict",
+              "forecast",
+              "envisage",
+              "envision \"a 10 percent rise was expected\""
+            ]
+          },
+          {
+            "definition": "regard (someone) as likely to do or be something.",
+            "examples": [
+              "they were not expecting him to continue"
+            ],
+            "synonyms": [
+              "suppose",
+              "presume",
+              "think",
+              "believe",
+              "imagine",
+              "assume",
+              "surmise; Moreinformalguess",
+              "reckon",
+              "figure \"I expect she'll be late\""
+            ]
+          },
+          {
+            "definition": "believe that (someone or something) will arrive soon.",
+            "examples": [
+              "Celia was expecting a visitor"
+            ]
+          },
+          {
+            "definition": "look for (something) from someone as rightfully due or requisite in the circumstances.",
+            "examples": [
+              "we expect great things of you"
+            ],
+            "synonyms": [
+              "require",
+              "ask for",
+              "call for",
+              "want",
+              "insist on",
+              "demand \"we expect total loyalty\""
+            ]
+          },
+          {
+            "definition": "require (someone) to fulfill an obligation.",
+            "examples": [
+              "we expect employers to pay a reasonable salary"
+            ]
+          },
+          {
+            "definition": "used to indicate that one supposes something to be so, but has no firm evidence or knowledge.",
+            "examples": [
+              "they're just friends of his, I expect"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

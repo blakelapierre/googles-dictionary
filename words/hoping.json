@@ -1,0 +1,53 @@
+[
+  {
+    "word": "hope",
+    "syllables": [
+      "hope"
+    ],
+    "pronunciation": "hōp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "hoping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "want something to happen or be the case.",
+            "examples": [
+              "he's hoping for an offer of compensation"
+            ],
+            "synonyms": [
+              "expect",
+              "anticipate",
+              "look for",
+              "be hopeful of",
+              "pin one's hopes on",
+              "want; Morewish for",
+              "long for",
+              "dream of \"he's hoping for a medal\""
+            ]
+          },
+          {
+            "definition": "intend if possible to do something.",
+            "examples": [
+              "we're hoping to address all these issues"
+            ],
+            "synonyms": [
+              "aim",
+              "intend",
+              "be looking",
+              "have the intention",
+              "have in mind",
+              "plan",
+              "aspire \"we're hoping to address the issue\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "park",
+    "syllables": [
+      "park"
+    ],
+    "pronunciation": "pärk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "parking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring (a vehicle that one is driving) to a halt and leave it temporarily, typically in a parking lot or by the side of the road.",
+            "examples": [
+              "he parked his car outside her house"
+            ],
+            "synonyms": [
+              "leave",
+              "position; Morestop",
+              "pull up",
+              "pull over \"she parked her car\""
+            ]
+          },
+          {
+            "definition": "deposit and leave in a convenient place until required.",
+            "examples": [
+              "come on in, and park your bag by the door"
+            ],
+            "synonyms": [
+              "put (down)",
+              "place",
+              "deposit",
+              "leave",
+              "stick",
+              "shove",
+              "dump; informalplonk \"park your bag by the door\""
+            ]
+          },
+          {
+            "definition": "sit down on or in.",
+            "examples": [
+              "after dinner, we parked ourselves on a pair of couches"
+            ],
+            "synonyms": [
+              "sit down",
+              "seat oneself",
+              "settle (oneself)",
+              "install oneself; informalplunk oneself \"park yourself there and we'll be with you in a moment\""
+            ]
+          },
+          {
+            "definition": "postpone consideration of (an idea or plan) until a later date.",
+            "examples": [
+              "could I suggest we park that suggestion for the moment?"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

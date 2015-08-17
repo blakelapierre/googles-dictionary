@@ -1,0 +1,46 @@
+[
+  {
+    "word": "terry",
+    "syllables": [
+      "ter",
+      "ry"
+    ],
+    "pronunciation": "ˈterē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "terry"
+          },
+          {
+            "part": "plural noun",
+            "variant": "terries"
+          },
+          {
+            "part": "noun",
+            "variant": "terry cloth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "terry cloths"
+          },
+          {
+            "part": "noun",
+            "variant": "terrycloth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "terrycloths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fabric with raised uncut loops of thread covering both surfaces, used especially for towels."
+          }
+        ]
+      }
+    ]
+  }
+]

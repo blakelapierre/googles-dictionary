@@ -1,0 +1,39 @@
+[
+  {
+    "word": "multiplication",
+    "syllables": [
+      "mul",
+      "ti",
+      "pli",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "ˌməltəpləˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "multiplication"
+          },
+          {
+            "part": "plural noun",
+            "variant": "multiplications"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process or skill of multiplying.",
+            "examples": [
+              "we need to use both multiplication and division to find the answers"
+            ]
+          },
+          {
+            "definition": "the process of combining matrices, vectors, or other quantities under specific rules to obtain their product."
+          }
+        ]
+      }
+    ]
+  }
+]

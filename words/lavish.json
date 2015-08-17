@@ -1,0 +1,128 @@
+[
+  {
+    "word": "lavish",
+    "syllables": [
+      "lav",
+      "ish"
+    ],
+    "pronunciation": "ˈlaviSH",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "lavish"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sumptuously rich, elaborate, or luxurious.",
+            "examples": [
+              "a lavish banquet"
+            ],
+            "synonyms": [
+              "sumptuous",
+              "luxurious",
+              "costly",
+              "expensive",
+              "opulent",
+              "grand",
+              "splendid",
+              "rich",
+              "fancy",
+              "posh; informalfancy-schmancy \"lavish parties\""
+            ],
+            "antonyms": [
+              "meager"
+            ]
+          },
+          {
+            "definition": "(of a person) very generous or extravagant.",
+            "examples": [
+              "he was lavish with his hospitality"
+            ],
+            "synonyms": [
+              "generous",
+              "liberal",
+              "bountiful",
+              "openhanded",
+              "unstinting",
+              "unsparing",
+              "free",
+              "munificent",
+              "extravagant",
+              "prodigal \"lavish hospitality\""
+            ],
+            "antonyms": [
+              "frugal"
+            ]
+          },
+          {
+            "definition": "spent or given in profusion.",
+            "examples": [
+              "lavish praise"
+            ],
+            "synonyms": [
+              "abundant",
+              "copious",
+              "plentiful",
+              "liberal",
+              "prolific",
+              "generous; literaryplenteous \"lavish amounts of champagne\""
+            ],
+            "antonyms": [
+              "scant"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lavish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lavishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "lavished"
+          },
+          {
+            "part": "past participle",
+            "variant": "lavished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lavishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bestow something in generous or extravagant quantities upon.",
+            "examples": [
+              "the media couldn't lavish enough praise on the film"
+            ],
+            "synonyms": [
+              "give freely to",
+              "spend generously on",
+              "bestow on",
+              "heap on",
+              "shower with \"she lavished money on her children\""
+            ]
+          },
+          {
+            "definition": "cover something thickly or liberally with.",
+            "examples": [
+              "she lavished our son with kisses"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

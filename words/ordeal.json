@@ -1,0 +1,51 @@
+[
+  {
+    "word": "ordeal",
+    "syllables": [
+      "or",
+      "deal"
+    ],
+    "pronunciation": "ôrˈdēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ordeal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ordeals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a painful or horrific experience, especially a protracted one.",
+            "examples": [
+              "the ordeal of having to give evidence"
+            ],
+            "synonyms": [
+              "unpleasant experience",
+              "painful experience",
+              "trial",
+              "tribulation",
+              "nightmare",
+              "trauma",
+              "hell (on earth)",
+              "misery",
+              "trouble",
+              "difficulty",
+              "torture",
+              "torment",
+              "agony \"the hostages survived the ordeal\""
+            ]
+          },
+          {
+            "definition": "an ancient test of guilt or innocence by subjection of the accused to severe pain, survival of which was taken as divine proof of innocence."
+          }
+        ]
+      }
+    ]
+  }
+]

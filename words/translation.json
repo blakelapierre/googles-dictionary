@@ -1,0 +1,66 @@
+[
+  {
+    "word": "translation",
+    "syllables": [
+      "trans",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "transˈlāSH(ə)ntranzˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "translation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the process of translating words or text from one language into another.",
+            "examples": [
+              "Constantine's translation of Arabic texts into Latin"
+            ]
+          },
+          {
+            "definition": "a written or spoken rendering of the meaning of a word, speech, book, or other text, in another language.",
+            "examples": [
+              "plural noun: translations"
+            ]
+          },
+          {
+            "definition": "the conversion of something from one form or medium into another.",
+            "examples": [
+              "the translation of research findings into clinical practice"
+            ],
+            "synonyms": [
+              "rendition",
+              "rendering",
+              "conversion; Moretranscription",
+              "transliteration \"the translation of the Bible into English\""
+            ]
+          },
+          {
+            "definition": "the process by which a sequence of nucleotide triplets in a messenger RNA molecule gives rise to a specific sequence of amino acids during synthesis of a polypeptide or protein."
+          },
+          {
+            "definition": "the process of moving something from one place to another.",
+            "examples": [
+              "the translation of the relics of St. Thomas of Canterbury"
+            ],
+            "synonyms": [
+              "rendition",
+              "rendering",
+              "conversion; Moretranscription",
+              "transliteration \"the translation of the Bible into English\""
+            ]
+          },
+          {
+            "definition": "movement of a body from one point of space to another such that every point of the body moves in the same direction and over the same distance, without any rotation, reflection, or change in size."
+          }
+        ]
+      }
+    ]
+  }
+]

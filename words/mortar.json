@@ -1,0 +1,126 @@
+[
+  {
+    "word": "mortar",
+    "syllables": [
+      "mor",
+      "tar"
+    ],
+    "pronunciation": "ˈmôrdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mortar"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mortars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cup-shaped receptacle made of hard material, in which ingredients are crushed or ground, used especially in cooking or pharmacy.",
+            "examples": [
+              "a mortar and pestle"
+            ]
+          },
+          {
+            "definition": "a short, smoothbore gun for firing shells (technically called bombs) at high angles."
+          },
+          {
+            "definition": "a device used for firing a lifeline or firework."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "mortar"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "mortars"
+          },
+          {
+            "part": "past tense",
+            "variant": "mortared"
+          },
+          {
+            "part": "past participle",
+            "variant": "mortared"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "mortaring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attack or bombard with shells fired from a mortar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mortar",
+    "syllables": [
+      "mor",
+      "tar"
+    ],
+    "pronunciation": "ˈmôrdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mortar"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mixture of lime with cement, sand, and water, used in building to bond bricks or stones."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "mortar"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "mortars"
+          },
+          {
+            "part": "past tense",
+            "variant": "mortared"
+          },
+          {
+            "part": "past participle",
+            "variant": "mortared"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "mortaring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fix or join using mortar.",
+            "examples": [
+              "the pipe can be mortared in place"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

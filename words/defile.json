@@ -1,0 +1,144 @@
+[
+  {
+    "word": "defile",
+    "syllables": [
+      "de",
+      "file"
+    ],
+    "pronunciation": "dəˈfīl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "defile"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "defiles"
+          },
+          {
+            "part": "past tense",
+            "variant": "defiled"
+          },
+          {
+            "part": "past participle",
+            "variant": "defiled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "defiling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "sully, mar, or spoil.",
+            "examples": [
+              "the land was defiled by a previous owner"
+            ],
+            "synonyms": [
+              "spoil",
+              "sully",
+              "mar",
+              "impair",
+              "debase",
+              "degrade; Morepoison",
+              "taint",
+              "tarnish; destroy",
+              "ruin \"her capacity for love had been defiled\""
+            ],
+            "antonyms": [
+              "purify"
+            ]
+          },
+          {
+            "definition": "desecrate or profane (something sacred).",
+            "examples": [
+              "the tomb had been defiled and looted"
+            ],
+            "synonyms": [
+              "desecrate",
+              "profane",
+              "violate; Morecontaminate",
+              "pollute",
+              "debase",
+              "degrade",
+              "dishonor \"the sacred bones were defiled\""
+            ],
+            "antonyms": [
+              "sanctify"
+            ]
+          },
+          {
+            "definition": "violate the chastity of (a woman).",
+            "examples": [
+              "rape, violate; Moreliteraryravish; dateddeflower \"she was defiled by a married man\"Moreravish; deflower she was defiled by a married man"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "defile",
+    "syllables": [
+      "de",
+      "file"
+    ],
+    "pronunciation": "dəˈfīlˈdēˌfīl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "defile"
+          },
+          {
+            "part": "plural noun",
+            "variant": "defiles"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a steep-sided, narrow gorge or passage (originally one requiring troops to march in single file)."
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "defile"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "defiles"
+          },
+          {
+            "part": "past tense",
+            "variant": "defiled"
+          },
+          {
+            "part": "past participle",
+            "variant": "defiled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "defiling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of troops) march in single file.",
+            "examples": [
+              "we emerged after defiling through the mountainsides"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

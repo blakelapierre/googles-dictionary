@@ -1,0 +1,76 @@
+[
+  {
+    "word": "devastate",
+    "syllables": [
+      "dev",
+      "as",
+      "tate"
+    ],
+    "pronunciation": "ˈdevəˌstāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "devastate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "devastates"
+          },
+          {
+            "part": "past tense",
+            "variant": "devastated"
+          },
+          {
+            "part": "past participle",
+            "variant": "devastated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "devastating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "destroy or ruin (something).",
+            "examples": [
+              "the city was devastated by a huge earthquake"
+            ],
+            "synonyms": [
+              "destroy",
+              "ruin",
+              "wreck",
+              "lay waste",
+              "ravage",
+              "demolish",
+              "raze (to the ground)",
+              "level",
+              "flatten; Moreinformaltrash",
+              "total \"the city was devastated by an earthquake\""
+            ]
+          },
+          {
+            "definition": "cause (someone) severe and overwhelming shock or grief.",
+            "examples": [
+              "she was devastated by the loss of Damian"
+            ],
+            "synonyms": [
+              "shatter",
+              "shock",
+              "stun",
+              "daze",
+              "dumbfound",
+              "traumatize",
+              "crush",
+              "overwhelm",
+              "overcome",
+              "distress \"he was devastated by the news\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

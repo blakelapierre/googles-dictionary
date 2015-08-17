@@ -1,0 +1,119 @@
+[
+  {
+    "word": "null",
+    "syllables": [
+      "null"
+    ],
+    "pronunciation": "nəl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "null"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having no legal or binding force; invalid.",
+            "examples": [
+              "the establishment of a new interim government was declared null and void"
+            ],
+            "synonyms": [
+              "invalid",
+              "null and void",
+              "void; Moreannulled",
+              "nullified",
+              "canceled",
+              "revoked \"their marriage was declared null\""
+            ],
+            "antonyms": [
+              "valid"
+            ]
+          },
+          {
+            "definition": "having or associated with the value zero."
+          },
+          {
+            "definition": "(of a set or matrix) having no elements, or only zeros as elements."
+          },
+          {
+            "definition": "lacking distinctive qualities; having no positive substance or content.",
+            "examples": [
+              "his curiously null life"
+            ],
+            "synonyms": [
+              "invalid",
+              "null and void",
+              "void; Moreannulled",
+              "nullified",
+              "canceled",
+              "revoked \"their marriage was declared null\""
+            ],
+            "antonyms": [
+              "valid"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "nounliterary",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "null"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nulls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a zero."
+          },
+          {
+            "definition": "a dummy letter in a cipher."
+          },
+          {
+            "definition": "a condition of no signal."
+          },
+          {
+            "definition": "a direction in which no electromagnetic radiation is detected or emitted."
+          }
+        ]
+      },
+      {
+        "part": "verbElectronics",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "null"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "nulls"
+          },
+          {
+            "part": "past tense",
+            "variant": "nulled"
+          },
+          {
+            "part": "past participle",
+            "variant": "nulled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "nulling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "combine (a signal) with another in order to create a null; cancel out."
+          }
+        ]
+      }
+    ]
+  }
+]

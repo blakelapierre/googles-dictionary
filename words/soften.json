@@ -1,0 +1,100 @@
+[
+  {
+    "word": "soften",
+    "syllables": [
+      "soft",
+      "en"
+    ],
+    "pronunciation": "ˈsôfən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "soften"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "softens"
+          },
+          {
+            "part": "past tense",
+            "variant": "softened"
+          },
+          {
+            "part": "past participle",
+            "variant": "softened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "softening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become less hard.",
+            "examples": [
+              "plant extracts to soften and moisturize the skin"
+            ]
+          },
+          {
+            "definition": "(of a market, currency, or commodity) fall in value.",
+            "examples": [
+              "the share price has softened recently"
+            ]
+          },
+          {
+            "definition": "make or become less severe.",
+            "examples": [
+              "some Democrats tried to soften the blow by substituting a smaller cut in the property tax rate"
+            ],
+            "synonyms": [
+              "alleviate",
+              "ease",
+              "relieve",
+              "soothe",
+              "take the edge off",
+              "assuage",
+              "cushion",
+              "moderate",
+              "mitigate",
+              "palliate",
+              "diminish",
+              "blunt",
+              "deaden More\"she tried to soften the blow of new service cuts\"die down",
+              "abate",
+              "subside",
+              "moderate",
+              "let up",
+              "calm",
+              "diminish",
+              "slacken",
+              "weaken \"the winds softened\""
+            ]
+          },
+          {
+            "definition": "undermine the resistance of (someone).",
+            "examples": [
+              "the blockade appears a better weapon with which to soften them up for eventual surrender"
+            ],
+            "synonyms": [
+              "charm",
+              "win over",
+              "persuade",
+              "influence",
+              "weaken",
+              "disarm",
+              "sweeten",
+              "butter up",
+              "soft-soap \"she knows how to soften up Dad just before reaching into his wallet\""
+            ]
+          },
+          {
+            "definition": "remove mineral salts from (water)."
+          }
+        ]
+      }
+    ]
+  }
+]

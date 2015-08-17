@@ -1,0 +1,83 @@
+[
+  {
+    "word": "whirl",
+    "syllables": [
+      "whirl"
+    ],
+    "pronunciation": "(h)wərl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "whirls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move or cause to move rapidly around and around.",
+            "examples": [
+              "leaves whirled in eddies of wind"
+            ],
+            "synonyms": [
+              "rotate",
+              "circle",
+              "wheel",
+              "turn",
+              "revolve",
+              "orbit",
+              "spin",
+              "twirl \"leaves whirled in eddies\""
+            ]
+          },
+          {
+            "definition": "move or cause to move rapidly.",
+            "examples": [
+              "Sybil stood waving as they whirled past"
+            ],
+            "synonyms": [
+              "hurry",
+              "race",
+              "dash",
+              "rush",
+              "run",
+              "sprint",
+              "bolt",
+              "dart",
+              "gallop",
+              "career",
+              "charge",
+              "shoot",
+              "hurtle",
+              "fly",
+              "speed",
+              "scurry; Moreinformaltear",
+              "belt",
+              "pelt",
+              "scoot",
+              "bomb",
+              "hightail it \"they whirled past\""
+            ]
+          },
+          {
+            "definition": "(of the head, mind, or senses) seem to spin around.",
+            "examples": [
+              "Kate made her way back to the office, her mind whirling"
+            ],
+            "synonyms": [
+              "spin",
+              "reel",
+              "swim \"his mind was whirling\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

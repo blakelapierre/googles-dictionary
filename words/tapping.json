@@ -1,0 +1,189 @@
+[
+  {
+    "word": "tapping",
+    "syllables": [
+      "tap",
+      "ping"
+    ],
+    "pronunciation": "ˈtapiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tapping"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tappings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of a person or thing that taps."
+          },
+          {
+            "definition": "a sound made by this."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tap",
+    "syllables": [
+      "tap"
+    ],
+    "pronunciation": "tap",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "tapping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "draw liquid through the tap or spout of (a cask, barrel, or other container).",
+            "examples": [
+              "bragging of tests they had aced and kegs they had tapped"
+            ],
+            "synonyms": [
+              "drain",
+              "bleed",
+              "milk; Morebroach",
+              "open \"several barrels were tapped\""
+            ]
+          },
+          {
+            "definition": "draw (liquid) from a cask, barrel, or other container.",
+            "examples": [
+              "the butlers were tapping new ale"
+            ],
+            "synonyms": [
+              "pour (out)",
+              "draw off",
+              "siphon off",
+              "pump out",
+              "decant \"butlers were tapping ale\""
+            ]
+          },
+          {
+            "definition": "connect a device to (a telephone) so that conversation can be listened to secretly.",
+            "examples": [
+              "the telephones were tapped by the state security police"
+            ],
+            "synonyms": [
+              "bug",
+              "wiretap",
+              "monitor",
+              "overhear",
+              "eavesdrop on",
+              "spy on \"their telephones are tapped\""
+            ]
+          },
+          {
+            "definition": "obtain money or information from (someone).",
+            "examples": [
+              "he considered whom he could tap for information"
+            ]
+          },
+          {
+            "definition": "exploit or draw a supply from (a resource).",
+            "examples": [
+              "clients from industry seeking to tap Philadelphia's resources of expertise"
+            ],
+            "synonyms": [
+              "draw on",
+              "exploit",
+              "milk",
+              "mine",
+              "use",
+              "utilize",
+              "turn to account \"the resources were to be tapped for our benefit\""
+            ]
+          },
+          {
+            "definition": "draw sap from (a tree) by cutting into it."
+          },
+          {
+            "definition": "cut a thread in (something) to accept a screw."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tap",
+    "syllables": [
+      "tap"
+    ],
+    "pronunciation": "tap",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "tapping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strike (someone or something) with a quick light blow or blows.",
+            "examples": [
+              "one of my staff tapped me on the shoulder"
+            ],
+            "synonyms": [
+              "knock",
+              "rap",
+              "strike",
+              "beat",
+              "drum More\"she tapped on the door\"pat",
+              "hit",
+              "strike",
+              "slap",
+              "jab",
+              "poke",
+              "dig \"Dad tapped me on the knee\"knock",
+              "rap",
+              "drumming \"a sharp tap at the door\""
+            ]
+          },
+          {
+            "definition": "strike (something) against something else with a quick light blow or blows.",
+            "examples": [
+              "Gloria was tapping her feet in time to the music"
+            ]
+          },
+          {
+            "definition": "produce (a rhythm) with a series of quick light blows on a surface.",
+            "examples": [
+              "drums that tapped out a rumba beat"
+            ]
+          },
+          {
+            "definition": "write or enter (something) using a keyboard or keypad.",
+            "examples": [
+              "he tapped out a few words on the keyboard"
+            ]
+          },
+          {
+            "definition": "designate or select (someone) for a task or honor, especially membership in an organization or committee.",
+            "examples": [
+              "he had been tapped earlier to serve in Costa Rica"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

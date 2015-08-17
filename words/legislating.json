@@ -1,0 +1,45 @@
+[
+  {
+    "word": "legislate",
+    "syllables": [
+      "leg",
+      "is",
+      "late"
+    ],
+    "pronunciation": "ˈlejəˌslāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "legislating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or enact laws.",
+            "examples": [
+              "he didn't want to name anyone to the Court who would legislate from the bench"
+            ],
+            "synonyms": [
+              "make laws",
+              "pass laws",
+              "enact laws",
+              "formulate laws; Moreauthorize",
+              "decree",
+              "order",
+              "sanction \"we urge Congress to legislate against human cloning\""
+            ]
+          },
+          {
+            "definition": "cover, affect, or create by making or enacting laws.",
+            "examples": [
+              "Congress must legislate strong new laws"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

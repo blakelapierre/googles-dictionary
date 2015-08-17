@@ -1,0 +1,158 @@
+[
+  {
+    "word": "signing",
+    "syllables": [
+      "sign",
+      "ing"
+    ],
+    "pronunciation": "ˈsīniNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "signing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of writing one's signature on an official document.",
+            "examples": [
+              "he plans to oversee the signing of modest agreements on energy, education, and the environment"
+            ]
+          },
+          {
+            "definition": "the action of recruiting someone, especially to a professional sports team or record company.",
+            "examples": [
+              "the signing of overseas players"
+            ]
+          },
+          {
+            "definition": "a person who has recently been recruited, especially to join a professional sports team or record company.",
+            "examples": [
+              "plural noun: signings"
+            ]
+          },
+          {
+            "definition": "an event in a bookstore or other place at which an author signs a number of books to gain publicity and sales."
+          },
+          {
+            "definition": "sign language."
+          },
+          {
+            "definition": "the provision of signs in a street or other place."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sign",
+    "syllables": [
+      "sign"
+    ],
+    "pronunciation": "sīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "signing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "write one's name on (a letter, card, or similar item) to identify oneself as the writer or sender.",
+            "examples": [
+              "the card was signed by the whole class"
+            ],
+            "synonyms": [
+              "write",
+              "inscribe",
+              "pen \"he signed his name\""
+            ]
+          },
+          {
+            "definition": "indicate agreement with or authorization of the contents of (a document or other written or printed material) by attaching a signature.",
+            "examples": [
+              "the two countries signed a nonaggression treaty"
+            ],
+            "synonyms": [
+              "endorse",
+              "validate",
+              "certify",
+              "authenticate",
+              "sanction",
+              "authorize; Moreagree to",
+              "approve",
+              "ratify",
+              "adopt",
+              "give one's approval to; informalgive something the go-ahead",
+              "give something the green light",
+              "give something the thumbs up \"the government signed the agreement\""
+            ]
+          },
+          {
+            "definition": "write (one's name) for purposes of identification or authorization.",
+            "examples": [
+              "she signed her name in the book"
+            ],
+            "synonyms": [
+              "write one's name on",
+              "autograph",
+              "endorse",
+              "initial",
+              "countersign",
+              "ink; formalsubscribe \"he signed the letter\""
+            ]
+          },
+          {
+            "definition": "engage (someone, typically a sports player or a musician) to work for one by signing a contract with them.",
+            "examples": [
+              "the company signed 30 bands"
+            ],
+            "synonyms": [
+              "recruit",
+              "hire",
+              "engage",
+              "employ",
+              "take on",
+              "appoint",
+              "sign on/up",
+              "enlist \"we have signed a new player\""
+            ]
+          },
+          {
+            "definition": "sign a contract committing oneself to work for a particular person or organization.",
+            "examples": [
+              "Sherman has signed for another two seasons"
+            ]
+          },
+          {
+            "definition": "use gestures to convey information or instructions.",
+            "examples": [
+              "she signed to her husband to leave the room"
+            ]
+          },
+          {
+            "definition": "communicate in sign language.",
+            "examples": [
+              "she was learning to sign"
+            ]
+          },
+          {
+            "definition": "express or perform (something) in sign language.",
+            "examples": [
+              "the theater routinely puts on signed performances"
+            ]
+          },
+          {
+            "definition": "mark or consecrate with the sign of the cross."
+          }
+        ]
+      }
+    ]
+  }
+]

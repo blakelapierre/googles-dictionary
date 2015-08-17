@@ -1,0 +1,393 @@
+[
+  {
+    "word": "roll",
+    "syllables": [
+      "roll"
+    ],
+    "pronunciation": "rōl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "rolls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move or cause to move in a particular direction by turning over and over on an axis.",
+            "examples": [
+              "the car rolled down into a ditch"
+            ],
+            "synonyms": [
+              "turn round and round",
+              "go round and round",
+              "turn over and over",
+              "spin",
+              "rotate \"the bottle rolled down the table\""
+            ]
+          },
+          {
+            "definition": "turn or cause to turn over to face a different direction.",
+            "examples": [
+              "she rolled onto her side"
+            ]
+          },
+          {
+            "definition": "turn (one's eyes) upward, typically to show surprise or disapproval.",
+            "examples": [
+              "Sarah rolled her eyes"
+            ]
+          },
+          {
+            "definition": "(of a person or animal) lie down and turn over and over while remaining in the same place.",
+            "examples": [
+              "the buffalo rolled in the dust"
+            ]
+          },
+          {
+            "definition": "(of a moving ship, aircraft, or vehicle) rock or oscillate around an axis parallel to the direction of motion.",
+            "examples": [
+              "the ship pitched and rolled"
+            ],
+            "synonyms": [
+              "lurch",
+              "toss",
+              "rock",
+              "pitch",
+              "plunge",
+              "sway",
+              "reel",
+              "list",
+              "keel \"the ship began to roll\""
+            ]
+          },
+          {
+            "definition": "move along or from side to side unsteadily or uncontrollably.",
+            "examples": [
+              "they were rolling about with laughter"
+            ],
+            "synonyms": [
+              "stagger",
+              "lurch",
+              "reel",
+              "totter",
+              "teeter",
+              "wobble \"they rolled about with laughter\""
+            ]
+          },
+          {
+            "definition": "overturn (a vehicle).",
+            "examples": [
+              "he rolled his Mercedes in a 100 mph crash"
+            ]
+          },
+          {
+            "definition": "throw (a die or dice)."
+          },
+          {
+            "definition": "obtain (a particular score) by doing this.",
+            "examples": [
+              "roll a 2, 3, or 12"
+            ]
+          },
+          {
+            "definition": "(of a vehicle) move or run on wheels.",
+            "examples": [
+              "the van was rolling along the highway"
+            ],
+            "synonyms": [
+              "travel",
+              "go",
+              "move",
+              "pass",
+              "cruise",
+              "sweep \"we rolled past fields\""
+            ]
+          },
+          {
+            "definition": "move or push (a wheeled object).",
+            "examples": [
+              "Pat rolled the cart back and forth"
+            ],
+            "synonyms": [
+              "wheel",
+              "push",
+              "trundle \"waiters rolled in the trolleys\""
+            ]
+          },
+          {
+            "definition": "make a car window or a window blind move up or down."
+          },
+          {
+            "definition": "(of time) elapse steadily.",
+            "examples": [
+              "the years rolled by"
+            ],
+            "synonyms": [
+              "pass",
+              "pass by",
+              "go by",
+              "slip by",
+              "fly by",
+              "elapse",
+              "wear on",
+              "march on \"the months rolled by\""
+            ]
+          },
+          {
+            "definition": "(of a drop of liquid) flow.",
+            "examples": [
+              "huge tears rolled down her cheeks"
+            ],
+            "synonyms": [
+              "flow",
+              "run",
+              "course",
+              "stream",
+              "pour",
+              "spill",
+              "trickle \"tears rolled down her cheeks\""
+            ]
+          },
+          {
+            "definition": "(of a product) issue from (an assembly line or machine).",
+            "examples": [
+              "the first copies of the newspaper rolled off the presses"
+            ]
+          },
+          {
+            "definition": "(of waves, smoke, cloud, or fog) move or flow forward with an undulating motion.",
+            "examples": [
+              "the fog rolled across the fields"
+            ],
+            "synonyms": [
+              "billow",
+              "undulate",
+              "tumble \"the mist rolled in\""
+            ]
+          },
+          {
+            "definition": "(of land) extend in gentle undulations."
+          },
+          {
+            "definition": "(of credits for a movie or television program) be displayed as if moving on a roller up the screen."
+          },
+          {
+            "definition": "(with reference to a machine, device, or system) operate or begin operating.",
+            "examples": [
+              "the cameras started to roll"
+            ]
+          },
+          {
+            "definition": "start moving; take action.",
+            "examples": [
+              "the coast's clear—let's roll"
+            ]
+          },
+          {
+            "definition": "behave in a particular way.",
+            "examples": [
+              "that's just how I roll, guys—I'll smile until I physically can't"
+            ]
+          },
+          {
+            "definition": "turn (something flexible) over and over on itself to form a cylinder, tube, or ball.",
+            "examples": [
+              "she started to roll up her sleeping bag"
+            ],
+            "synonyms": [
+              "wind",
+              "coil",
+              "fold",
+              "curl; twist \"he rolled his handkerchief into a ball\""
+            ]
+          },
+          {
+            "definition": "make by forming material into a cylinder or ball.",
+            "examples": [
+              "Harry rolled himself a joint"
+            ]
+          },
+          {
+            "definition": "(of a person or animal) curl up tightly.",
+            "examples": [
+              "the shock made the armadillo roll into a ball"
+            ]
+          },
+          {
+            "definition": "flatten or spread (something) by using a roller or by passing it between rollers.",
+            "examples": [
+              "roll out the dough on a floured surface"
+            ],
+            "synonyms": [
+              "flatten (out)",
+              "level (out); even out \"roll out the pastry\""
+            ]
+          },
+          {
+            "definition": "(of a loud, deep sound such as that of thunder or drums) reverberate.",
+            "examples": [
+              "the first peals of thunder rolled across the sky"
+            ],
+            "synonyms": [
+              "rumble",
+              "reverberate",
+              "echo",
+              "resound",
+              "boom",
+              "roar",
+              "grumble \"thunder rolled\""
+            ]
+          },
+          {
+            "definition": "pronounce (a consonant, typically an r ) with a trill.",
+            "examples": [
+              "when he wanted to emphasize a point he rolled his rrrs"
+            ]
+          },
+          {
+            "definition": "utter (a word or words) with a reverberating or vibratory effect.",
+            "examples": [
+              "he rolled the word around his mouth"
+            ]
+          },
+          {
+            "definition": "(of words) flow effortlessly or mellifluously.",
+            "examples": [
+              "the names of his colleagues rolled off his lips"
+            ]
+          },
+          {
+            "definition": "rob (someone, typically when they are intoxicated or asleep).",
+            "examples": [
+              "if you don't get drunk, you don't get rolled"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "rolls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cylinder formed by winding flexible material around a tube or by turning it over and over on itself without folding.",
+            "examples": [
+              "a roll of carpet"
+            ],
+            "synonyms": [
+              "cylinder",
+              "tube",
+              "scroll; Morebolt \"a roll of wallpaper\"reel",
+              "spool \"a roll of film\""
+            ]
+          },
+          {
+            "definition": "a cylindrical mass of something or a number of items arranged in a cylindrical shape.",
+            "examples": [
+              "a roll of mints"
+            ]
+          },
+          {
+            "definition": "an item of food that is made by wrapping a flat sheet of pastry, cake, meat, or fish around a sweet or savory filling.",
+            "examples": [
+              "salmon and rice rolls"
+            ]
+          },
+          {
+            "definition": "money, typically a quantity of banknotes rolled together.",
+            "examples": [
+              "wad, bundle a roll of $20 bills"
+            ]
+          },
+          {
+            "definition": "a roller for flattening something, especially one used to shape metal in a rolling mill."
+          },
+          {
+            "definition": "a movement in which someone or something turns or is turned over on itself.",
+            "examples": [
+              "a roll of the dice"
+            ],
+            "synonyms": [
+              "throw",
+              "toss",
+              "turn",
+              "spin \"a roll of the dice\""
+            ]
+          },
+          {
+            "definition": "a gymnastic exercise in which the body is rolled into a tucked position and turned in a forward or backward circle.",
+            "examples": [
+              "a forward roll"
+            ]
+          },
+          {
+            "definition": "a swaying or oscillation of a ship, aircraft, or vehicle around an axis parallel to the direction of motion.",
+            "examples": [
+              "the car corners capably with a minimum of roll"
+            ]
+          },
+          {
+            "definition": "undulation of the landscape.",
+            "examples": [
+              "hidden by the roll of the land was a refinery"
+            ]
+          },
+          {
+            "definition": "a prolonged, deep, reverberating sound, typically made by thunder or a drum.",
+            "examples": [
+              "thunder exploded, roll after roll"
+            ],
+            "synonyms": [
+              "rumble",
+              "reverberation",
+              "echo",
+              "boom",
+              "clap",
+              "crack",
+              "roar",
+              "grumble \"a roll of thunder\""
+            ]
+          },
+          {
+            "definition": "one of the basic patterns (rudiments) of drumming, consisting of a sustained, rapid alternation of single or double strokes of each stick."
+          },
+          {
+            "definition": "a very small loaf of bread, typically eaten with butter or a filling.",
+            "examples": [
+              "a sausage roll"
+            ],
+            "synonyms": [
+              "bread roll",
+              "bun",
+              "bagel",
+              "hoagie",
+              "kaiser roll \"crusty rolls\""
+            ]
+          },
+          {
+            "definition": "an official list or register of names.",
+            "examples": [
+              "list, register, directory, record, file, index, catalog, inventory, address book; census the electoral roll"
+            ]
+          },
+          {
+            "definition": "the total numbers on an official list of names.",
+            "examples": [
+              "a review of secondary schools to assess the effects of falling rolls"
+            ]
+          },
+          {
+            "definition": "a document, typically an official record, in scroll form."
+          }
+        ]
+      }
+    ]
+  }
+]

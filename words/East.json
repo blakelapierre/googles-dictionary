@@ -1,0 +1,124 @@
+[
+  {
+    "word": "east",
+    "syllables": [
+      "east"
+    ],
+    "pronunciation": "ēst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "east"
+          },
+          {
+            "part": "noun",
+            "variant": "East"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the direction toward the point of the horizon where the sun rises at the equinoxes, on the right-hand side of a person facing north, or the point on the horizon itself.",
+            "examples": [
+              "a gale was blowing from the east"
+            ]
+          },
+          {
+            "definition": "the compass point corresponding to this."
+          },
+          {
+            "definition": "the eastern part of the world or of a specified country, region, or town.",
+            "examples": [
+              "a factory in the east of the city"
+            ]
+          },
+          {
+            "definition": "the regions or countries lying to the east of Europe, especially China, Japan, and India.",
+            "examples": [
+              "singular proper noun: East; noun: the East"
+            ]
+          },
+          {
+            "definition": "the eastern part of the US from the Alleghenies on the west and north of the Mason–Dixon line.",
+            "examples": [
+              "noun: the East"
+            ]
+          },
+          {
+            "definition": "short for East Coast."
+          },
+          {
+            "definition": "the former communist states of eastern Europe.",
+            "examples": [
+              "noun: the East"
+            ]
+          },
+          {
+            "definition": "the player sitting to the left of North and partnering West."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "east"
+          },
+          {
+            "part": "adjective",
+            "variant": "East"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lying toward, near, or facing the east.",
+            "examples": [
+              "the hospital's east wing"
+            ]
+          },
+          {
+            "definition": "(of a wind) blowing from the east.",
+            "examples": [
+              "eastern, easterly, eastward, oriental an east wind"
+            ]
+          },
+          {
+            "definition": "situated in the part of a church containing the altar or high altar, usually the actual east."
+          },
+          {
+            "definition": "of or denoting the eastern part of a specified area, city, or country or its inhabitants.",
+            "examples": [
+              "East Texas"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "east"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to or toward the east.",
+            "examples": [
+              "traveling east, he met two men"
+            ],
+            "synonyms": [
+              "eastern",
+              "easterly",
+              "eastward",
+              "oriental \"an east wind\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "word": "platitude",
+    "syllables": [
+      "plat",
+      "i",
+      "tude"
+    ],
+    "pronunciation": "ˈpladəˌt(y)o͞od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "platitude"
+          },
+          {
+            "part": "plural noun",
+            "variant": "platitudes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.",
+            "examples": [
+              "she began uttering liberal platitudes"
+            ],
+            "synonyms": [
+              "cliché",
+              "truism",
+              "commonplace",
+              "banality",
+              "old chestnut",
+              "bromide",
+              "inanity",
+              "banal/trite/hackneyed/stock phrase \"boring us with his platitudes\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

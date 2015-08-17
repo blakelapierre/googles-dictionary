@@ -1,0 +1,81 @@
+[
+  {
+    "word": "denounce",
+    "syllables": [
+      "de",
+      "nounce"
+    ],
+    "pronunciation": "dəˈnouns",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "denounce"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "denounces"
+          },
+          {
+            "part": "past tense",
+            "variant": "denounced"
+          },
+          {
+            "part": "past participle",
+            "variant": "denounced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "denouncing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "publicly declare to be wrong or evil.",
+            "examples": [
+              "the Assembly denounced the use of violence"
+            ],
+            "synonyms": [
+              "condemn",
+              "criticize",
+              "attack",
+              "censure",
+              "decry",
+              "revile",
+              "vilify",
+              "discredit",
+              "damn",
+              "reject; Moreproscribe; malign",
+              "rail against",
+              "run down",
+              "slur; informalknock",
+              "slam",
+              "hit out at",
+              "lay into; formalcastigate \"other theorists of his time denounced cinema as a crude mass art form\""
+            ],
+            "antonyms": [
+              "praise"
+            ]
+          },
+          {
+            "definition": "inform against.",
+            "examples": [
+              "some of his own priests denounced him to the King for heresy"
+            ],
+            "synonyms": [
+              "expose",
+              "betray",
+              "inform on; Moreincriminate",
+              "implicate",
+              "cite",
+              "name",
+              "accuse \"he was denounced as a traitor\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

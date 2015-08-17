@@ -1,0 +1,136 @@
+[
+  {
+    "word": "collar",
+    "syllables": [
+      "col",
+      "lar"
+    ],
+    "pronunciation": "ˈkälər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "collar"
+          },
+          {
+            "part": "plural noun",
+            "variant": "collars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a band of material around the neck of a shirt, dress, coat, or jacket, either upright or turned over and generally an integral part of the garment.",
+            "examples": [
+              "we turned our collars up against the chill"
+            ],
+            "synonyms": [
+              "neckband",
+              "choker; Morehistoricalruff",
+              "gorget",
+              "bertha \"a shirt collar\""
+            ]
+          },
+          {
+            "definition": "short for clerical collar."
+          },
+          {
+            "definition": "a band of leather or other material put around the neck of a domestic animal, especially a dog or cat."
+          },
+          {
+            "definition": "a colored marking resembling a collar around the neck of a bird or other animal."
+          },
+          {
+            "definition": "a heavy rounded part of the harness worn by a draft animal, which rests at the base of its neck on the shoulders."
+          },
+          {
+            "definition": "a restraining or connecting band, ring, or pipe in machinery.",
+            "examples": [
+              "ring, band, collet, sleeve, flange a collar around the pipe"
+            ]
+          },
+          {
+            "definition": "a piece of meat rolled up and tied."
+          },
+          {
+            "definition": "a cut of bacon taken from the neck of a pig."
+          },
+          {
+            "definition": "the part of a plant where the stem joins the roots."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "collar"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "collars"
+          },
+          {
+            "part": "past tense",
+            "variant": "collared"
+          },
+          {
+            "part": "past participle",
+            "variant": "collared"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "collaring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put a collar on.",
+            "examples": [
+              "biologists who were collaring polar bears"
+            ]
+          },
+          {
+            "definition": "seize, grasp, or apprehend (someone).",
+            "examples": [
+              "police collared the culprit"
+            ],
+            "synonyms": [
+              "apprehend",
+              "arrest",
+              "catch",
+              "capture",
+              "seize; Moretake prisoner",
+              "take into custody",
+              "detain; informalnab",
+              "pinch",
+              "bust",
+              "pick up",
+              "pull in \"he collared a thief\""
+            ]
+          },
+          {
+            "definition": "approach aggressively and talk to (someone who wishes to leave).",
+            "examples": [
+              "he collared a departing guest for some last words"
+            ],
+            "synonyms": [
+              "accost",
+              "waylay",
+              "hail",
+              "approach",
+              "detain",
+              "stop",
+              "halt",
+              "catch",
+              "confront",
+              "importune; informalbuttonhole \"she collared me in the street\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

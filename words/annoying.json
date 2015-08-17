@@ -1,0 +1,140 @@
+[
+  {
+    "word": "annoying",
+    "syllables": [
+      "an",
+      "noy",
+      "ing"
+    ],
+    "pronunciation": "əˈnoiiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "annoying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing irritation or annoyance.",
+            "examples": [
+              "annoying habits"
+            ],
+            "synonyms": [
+              "irritating",
+              "infuriating",
+              "exasperating",
+              "maddening",
+              "trying",
+              "tiresome",
+              "troublesome",
+              "bothersome",
+              "nettlesome",
+              "obnoxious",
+              "irksome",
+              "vexing",
+              "cursed",
+              "vexatious",
+              "galling; Moreinformalaggravating",
+              "pesky; informal",
+              "cursed \"what are these annoying little insects?\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "annoy",
+    "syllables": [
+      "an",
+      "noy"
+    ],
+    "pronunciation": "əˈnoi",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "annoying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "irritate (someone); make (someone) a little angry.",
+            "examples": [
+              "your damned cheerfulness has always annoyed me"
+            ],
+            "synonyms": [
+              "irritate",
+              "vex",
+              "make angry/cross",
+              "anger",
+              "exasperate",
+              "irk",
+              "gall",
+              "pique",
+              "put out",
+              "antagonize",
+              "get on someone's nerves",
+              "get to",
+              "ruffle someone's feathers",
+              "make someone's hackles rise",
+              "nettle; Morerub the wrong way; informalaggravate",
+              "peeve",
+              "hassle",
+              "miff",
+              "rile",
+              "needle",
+              "frost",
+              "bug",
+              "get someone's goat",
+              "get someone's back up",
+              "get in someone's hair",
+              "give someone the gears",
+              "drive mad/crazy/bananas",
+              "drive around the bend",
+              "drive up the wall",
+              "tee off",
+              "tick off",
+              "burn up",
+              "rankle \"their barking dog annoys me\"irritated",
+              "cross",
+              "angry",
+              "vexed",
+              "exasperated",
+              "irked",
+              "piqued",
+              "displeased",
+              "put out",
+              "disgruntled",
+              "chagrined",
+              "nettled",
+              "in a bad mood",
+              "in a temper; informalaggravated",
+              "peeved",
+              "miffed",
+              "riled; teed off",
+              "ticked off",
+              "sore",
+              "bent out of shape \"the debate moderator was clearly annoyed\""
+            ],
+            "antonyms": [
+              "please",
+              "gratify"
+            ]
+          },
+          {
+            "definition": "harm or attack repeatedly.",
+            "examples": [
+              "a gallant Saxon, who annoyed this Coast"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

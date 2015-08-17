@@ -1,0 +1,45 @@
+[
+  {
+    "word": "inoculation",
+    "syllables": [
+      "in",
+      "oc",
+      "u",
+      "la",
+      "tion"
+    ],
+    "pronunciation": "iˌnäkyəˈlāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inoculation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inoculations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of inoculating or of being inoculated; vaccination.",
+            "examples": [
+              "inoculation against flu was readily available"
+            ],
+            "synonyms": [
+              "immunization",
+              "vaccination",
+              "vaccine; Moreinjection",
+              "booster; informaljab",
+              "shot",
+              "hypo",
+              "needle \"the school nurse has no record of your child's most recent inoculation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "coordination",
+    "syllables": [
+      "co",
+      "or",
+      "di",
+      "na",
+      "tion"
+    ],
+    "pronunciation": "kōˌôrdnˈāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coordination"
+          },
+          {
+            "part": "noun",
+            "variant": "co-ordination"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the organization of the different elements of a complex body or activity so as to enable them to work together effectively.",
+            "examples": [
+              "both countries agreed to intensify efforts at economic policy coordination"
+            ]
+          },
+          {
+            "definition": "cooperative effort resulting in an effective relationship.",
+            "examples": [
+              "action groups work in coordination with local groups to end rain forest destruction"
+            ]
+          },
+          {
+            "definition": "the ability to use different parts of the body together smoothly and efficiently.",
+            "examples": [
+              "changing from one foot position to another requires coordination and balance"
+            ]
+          },
+          {
+            "definition": "the linking of atoms by coordinate bonds."
+          }
+        ]
+      }
+    ]
+  }
+]

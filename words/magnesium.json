@@ -1,0 +1,32 @@
+[
+  {
+    "word": "magnesium",
+    "syllables": [
+      "mag",
+      "ne",
+      "si",
+      "um"
+    ],
+    "pronunciation": "maɡˈnēSHəmmaɡˈnēsēəmmaɡˈnēZHəmmaɡˈnēzēəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "magnesium"
+          },
+          {
+            "part": "symbol",
+            "variant": "Mg"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the chemical element of atomic number 12, a silver-white metal of the alkaline earth series. It is used to make strong lightweight alloys, especially for the aerospace industry, and is also used in flashbulbs and pyrotechnics because it burns with a brilliant white flame."
+          }
+        ]
+      }
+    ]
+  }
+]

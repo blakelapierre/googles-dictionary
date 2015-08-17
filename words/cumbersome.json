@@ -1,0 +1,64 @@
+[
+  {
+    "word": "cumbersome",
+    "syllables": [
+      "cum",
+      "ber",
+      "some"
+    ],
+    "pronunciation": "ˈkəmbərsəm",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "cumbersome"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "large or heavy and therefore difficult to carry or use; unwieldy.",
+            "examples": [
+              "cumbersome diving suits"
+            ],
+            "synonyms": [
+              "unwieldy",
+              "unmanageable",
+              "awkward",
+              "clumsy",
+              "inconvenient",
+              "incommodious; Morebulky",
+              "large",
+              "heavy",
+              "hefty",
+              "weighty",
+              "burdensome; informalhulking",
+              "clunky \"a cumbersome diving suit\""
+            ],
+            "antonyms": [
+              "manageable"
+            ]
+          },
+          {
+            "definition": "slow or complicated and therefore inefficient.",
+            "examples": [
+              "organizations with cumbersome hierarchical structures"
+            ],
+            "synonyms": [
+              "complicated",
+              "complex",
+              "involved",
+              "inefficient",
+              "unwieldy",
+              "slow \"cumbersome procedures\""
+            ],
+            "antonyms": [
+              "straightforward"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

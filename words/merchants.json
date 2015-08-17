@@ -1,0 +1,63 @@
+[
+  {
+    "word": "merchant",
+    "syllables": [
+      "mer",
+      "chant"
+    ],
+    "pronunciation": "ˈmərCHənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "merchants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or company involved in wholesale trade, especially one dealing with foreign countries or supplying merchandise to a particular trade.",
+            "examples": [
+              "the area's leading timber merchant"
+            ]
+          },
+          {
+            "definition": "a retail trader; a store owner.",
+            "examples": [
+              "the credit cards are accepted by 10 million merchants worldwide"
+            ],
+            "synonyms": [
+              "trader",
+              "dealer",
+              "wholesaler",
+              "broker",
+              "agent",
+              "seller",
+              "buyer",
+              "buyer and seller",
+              "vendor",
+              "distributor",
+              "peddler",
+              "retailer",
+              "shopkeeper",
+              "storekeeper \"a tea merchant from Bombay\""
+            ]
+          },
+          {
+            "definition": "(especially in historical contexts) a person involved in trade or commerce.",
+            "examples": [
+              "prosperous merchants and clothiers had established a middle class"
+            ]
+          },
+          {
+            "definition": "a person with a partiality or aptitude for a particular activity or viewpoint.",
+            "examples": [
+              "his driver was no speed merchant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

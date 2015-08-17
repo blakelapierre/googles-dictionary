@@ -1,0 +1,92 @@
+[
+  {
+    "word": "pale",
+    "syllables": [
+      "pale"
+    ],
+    "pronunciation": "pāl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "comparative adjective",
+            "variant": "paler"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "light in color or having little color.",
+            "examples": [
+              "choose pale floral patterns for walls"
+            ],
+            "synonyms": [
+              "light",
+              "light-colored",
+              "pastel",
+              "muted",
+              "subtle",
+              "soft; Morefaded",
+              "bleached",
+              "washed out \"pale colors\""
+            ]
+          },
+          {
+            "definition": "(of a person's face or complexion) having less color than usual, typically as a result of shock, fear, or ill health.",
+            "examples": [
+              "she looked pale and drawn"
+            ],
+            "synonyms": [
+              "white",
+              "pallid",
+              "pasty",
+              "wan",
+              "colorless",
+              "anemic",
+              "bloodless",
+              "washed out",
+              "peaked",
+              "ashen",
+              "gray",
+              "whitish",
+              "white-faced",
+              "whey-faced",
+              "drained",
+              "sickly",
+              "sallow",
+              "as white as a sheet",
+              "deathly pale; Moremilky",
+              "creamy",
+              "cream",
+              "ivory",
+              "milk-white",
+              "alabaster; informallike death warmed over \"she looked pale and drawn\""
+            ],
+            "antonyms": [
+              "rosy",
+              "flushed"
+            ]
+          },
+          {
+            "definition": "feeble and unimpressive.",
+            "examples": [
+              "unconvincing rock that came across as a pale imitation of Bruce Springsteen"
+            ],
+            "synonyms": [
+              "feeble",
+              "weak",
+              "insipid",
+              "bland",
+              "poor",
+              "inadequate; Moreuninspired",
+              "unimaginative",
+              "lackluster",
+              "spiritless",
+              "lifeless; informalpathetic \"a pale imitation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

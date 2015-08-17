@@ -1,0 +1,146 @@
+[
+  {
+    "word": "lent",
+    "syllables": [
+      "lent"
+    ],
+    "pronunciation": "lent",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "-lent",
+    "syllables": [
+      "-lent"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-lent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(forming adjectives) full of; characterized by.",
+            "examples": [
+              "pestilent"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Lent",
+    "syllables": [
+      "Lent"
+    ],
+    "pronunciation": "lent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Lent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the period preceding Easter that in the Christian Church is devoted to fasting, abstinence, and penitence in commemoration of Christ's fasting in the wilderness. In the Western Church it runs from Ash Wednesday to Holy Saturday and so includes forty weekdays."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lend",
+    "syllables": [
+      "lend"
+    ],
+    "pronunciation": "lend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "lent"
+          },
+          {
+            "part": "past participle",
+            "variant": "lent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grant to (someone) the use of (something) on the understanding that it shall be returned.",
+            "examples": [
+              "Stewart asked me to lend him my car"
+            ],
+            "synonyms": [
+              "loan",
+              "let someone use; advance \"I'll lend you my towel\""
+            ],
+            "antonyms": [
+              "borrow"
+            ]
+          },
+          {
+            "definition": "allow (a person or organization) the use of (a sum of money) under an agreement to pay it back later, typically with interest.",
+            "examples": [
+              "no one would lend him the money"
+            ]
+          },
+          {
+            "definition": "contribute or add (something, especially a quality) to.",
+            "examples": [
+              "the smile lent his face a boyish charm"
+            ],
+            "synonyms": [
+              "add",
+              "impart",
+              "give",
+              "bestow",
+              "confer",
+              "provide",
+              "supply",
+              "furnish",
+              "contribute \"these examples lend weight to his assertions\""
+            ],
+            "antonyms": [
+              "detract"
+            ]
+          },
+          {
+            "definition": "accommodate or adapt oneself to.",
+            "examples": [
+              "John stiffly lent himself to her enthusiastic embraces"
+            ]
+          },
+          {
+            "definition": "(of a thing) be suitable for.",
+            "examples": [
+              "bay windows lend themselves to blinds"
+            ],
+            "synonyms": [
+              "be suitable for",
+              "be suited to",
+              "be appropriate for",
+              "be applicable for \"the terrain lends itself to downhill skiing\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

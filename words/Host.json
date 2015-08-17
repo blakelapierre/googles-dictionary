@@ -1,0 +1,229 @@
+[
+  {
+    "word": "host",
+    "syllables": [
+      "host"
+    ],
+    "pronunciation": "hōst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "host"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hosts"
+          },
+          {
+            "part": "noun",
+            "variant": "host computer"
+          },
+          {
+            "part": "plural noun",
+            "variant": "host computers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who receives or entertains other people as guests.",
+            "examples": [
+              "a dinner-party host"
+            ],
+            "synonyms": [
+              "party-giver",
+              "hostess",
+              "entertainer \"the host greeted the guests\""
+            ],
+            "antonyms": [
+              "guest"
+            ]
+          },
+          {
+            "definition": "a person, place, or organization that holds and organizes an event to which others are invited.",
+            "examples": [
+              "Innsbruck once played host to the Winter Olympics"
+            ]
+          },
+          {
+            "definition": "an area in which particular living things are found.",
+            "examples": [
+              "Australia is host to some of the world's most dangerous animals"
+            ]
+          },
+          {
+            "definition": "the landlord or landlady of a pub.",
+            "examples": [
+              "mine host raised his glass of whiskey"
+            ]
+          },
+          {
+            "definition": "the moderator or emcee of a television or radio program.",
+            "examples": [
+              "presenter, anchor, anchorman, anchorwoman, announcer, master of ceremonies, ringmaster; emcee the host of a TV series"
+            ]
+          },
+          {
+            "definition": "an animal or plant on or in which a parasite or commensal organism lives."
+          },
+          {
+            "definition": "a living cell in which a virus multiplies.",
+            "examples": [
+              "noun: host cell; plural noun: host cells"
+            ]
+          },
+          {
+            "definition": "a person or animal that has received transplanted tissue or a transplanted organ."
+          },
+          {
+            "definition": "a computer that mediates multiple access to databases mounted on it or provides other services to a computer network."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "host"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hosts"
+          },
+          {
+            "part": "past tense",
+            "variant": "hosted"
+          },
+          {
+            "part": "past participle",
+            "variant": "hosted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hosting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "act as host at (an event) or for (a television or radio program).",
+            "examples": [
+              "give, have, hold, throw, put on, provide, arrange, organize More\"Diane hosted a dinner party\"present, introduce, front, anchor, announce; informalemcee \"Jack hosted the show\"MoreDiane hosted a dinner partypresent, introduce, front, anchor, announce; emcee Jack hosted the show"
+            ]
+          },
+          {
+            "definition": "store (a website or other data) on a server or other computer so that it can be accessed over the Internet.",
+            "examples": [
+              "Columbia University currently hosts some 400 websites"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "host",
+    "syllables": [
+      "host"
+    ],
+    "pronunciation": "hōst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "host"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hosts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large number of people or things.",
+            "examples": [
+              "a host of memories rushed into her mind"
+            ],
+            "synonyms": [
+              "multitude",
+              "lot",
+              "abundance",
+              "wealth",
+              "profusion; Moreinformalload",
+              "buttload",
+              "heap",
+              "mass",
+              "pile",
+              "ton",
+              "number; literarymyriad \"a host of memories\"crowd",
+              "throng",
+              "group",
+              "flock",
+              "herd",
+              "swarm",
+              "horde",
+              "mob",
+              "army",
+              "legion",
+              "pack",
+              "tribe",
+              "troop; assemblage",
+              "congregation",
+              "gathering \"a host of movie stars\""
+            ]
+          },
+          {
+            "definition": "an army."
+          },
+          {
+            "definition": "(in biblical use) the sun, moon, and stars.",
+            "examples": [
+              "the starry host of heaven"
+            ]
+          },
+          {
+            "definition": "another term for heavenly host."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "host",
+    "syllables": [
+      "host"
+    ],
+    "pronunciation": "hōst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Host"
+          },
+          {
+            "part": "noun",
+            "variant": "host"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hosts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the bread consecrated in the Eucharist.",
+            "examples": [
+              "the elevation of the Host"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

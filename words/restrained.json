@@ -1,0 +1,132 @@
+[
+  {
+    "word": "restrained",
+    "syllables": [
+      "re",
+      "strained"
+    ],
+    "pronunciation": "rəˈstrānd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "restrained"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "characterized by reserve or moderation; unemotional or dispassionate.",
+            "examples": [
+              "he had restrained manners"
+            ],
+            "synonyms": [
+              "self-controlled",
+              "self-restrained",
+              "not given to excesses",
+              "sober",
+              "steady",
+              "unemotional",
+              "undemonstrative \"Julie was quite restrained\""
+            ]
+          },
+          {
+            "definition": "(of color, clothes, decoration, etc.) understated and subtle; not excessively showy or ornate.",
+            "examples": [
+              "muted, soft, discreet, subtle, quiet, unobtrusive, unostentatious, unshowy, unflashy, understated, tasteful restrained elegance"
+            ]
+          },
+          {
+            "definition": "kept under control; prevented from freedom of movement or action.",
+            "examples": [
+              "a patch of land turned into a restrained wilderness"
+            ]
+          },
+          {
+            "definition": "(of a person) held down and back in a vehicle seat by a seat belt."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "restrain",
+    "syllables": [
+      "re",
+      "strain"
+    ],
+    "pronunciation": "rəˈstrān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "restrained"
+          },
+          {
+            "part": "past participle",
+            "variant": "restrained"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prevent (someone or something) from doing something; keep under control or within limits.",
+            "examples": [
+              "he had to be restrained from walking out of the meeting"
+            ],
+            "synonyms": [
+              "prevent",
+              "stop",
+              "keep",
+              "hold back \"she could barely restrain herself from swearing\""
+            ]
+          },
+          {
+            "definition": "prevent oneself from displaying or giving way to (a strong urge or emotion).",
+            "examples": [
+              "Amos had to restrain his impatience"
+            ],
+            "synonyms": [
+              "control",
+              "keep under control",
+              "check",
+              "hold/keep in check",
+              "curb",
+              "suppress",
+              "repress",
+              "contain",
+              "dampen",
+              "subdue",
+              "smother",
+              "choke back",
+              "stifle",
+              "bottle up",
+              "rein back/in; informalkeep the lid on \"Charles restrained his anger\""
+            ]
+          },
+          {
+            "definition": "deprive (someone) of freedom of movement or personal liberty.",
+            "examples": [
+              "leg cuffs are used in the U.S. for restraining and transporting extremely violent and dangerous criminals"
+            ],
+            "synonyms": [
+              "tie up",
+              "bind",
+              "tether",
+              "chain (up)",
+              "fetter",
+              "shackle",
+              "manacle",
+              "put in irons; informalhog-tie \"that beast ought to be restrained\""
+            ]
+          },
+          {
+            "definition": "(of a seat belt) hold (a person or part of their body) down and back while in a vehicle seat."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "word": "canonize",
+    "syllables": [
+      "can",
+      "on",
+      "ize"
+    ],
+    "pronunciation": "ˈkanəˌnīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "canonize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "canonizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "canonized"
+          },
+          {
+            "part": "past participle",
+            "variant": "canonized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "canonizing"
+          },
+          {
+            "part": "verb",
+            "variant": "canonise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "canonises"
+          },
+          {
+            "part": "past tense",
+            "variant": "canonised"
+          },
+          {
+            "part": "past participle",
+            "variant": "canonised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "canonising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in the Roman Catholic Church) officially declare (a dead person) to be a saint.",
+            "examples": [
+              "he was the last English saint to be canonized prior to the Reformation"
+            ],
+            "synonyms": [
+              "declare to be a saint; Morebeatify; glorify",
+              "deify",
+              "idolize \"Bernadette was canonized in 1933\""
+            ]
+          },
+          {
+            "definition": "regard as being above reproach or of great significance.",
+            "examples": [
+              "we have canonized freedom of speech as an absolute value overriding all others"
+            ],
+            "synonyms": [
+              "declare to be a saint; Morebeatify; glorify",
+              "deify",
+              "idolize \"Bernadette was canonized in 1933\""
+            ]
+          },
+          {
+            "definition": "accept into the literary or artistic canon.",
+            "examples": [
+              "a familiar, canonized writer"
+            ]
+          },
+          {
+            "definition": "sanction by Church authority."
+          }
+        ]
+      }
+    ]
+  }
+]

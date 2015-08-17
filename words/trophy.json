@@ -1,0 +1,68 @@
+[
+  {
+    "word": "trophy",
+    "syllables": [
+      "tro",
+      "phy"
+    ],
+    "pronunciation": "ˈtrōfē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "trophy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "trophies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a cup or other decorative object awarded as a prize for a victory or success.",
+            "examples": [
+              "cup, medal; Moreprize, award \"a swimming trophy\"Moreprize, award a swimming trophy"
+            ]
+          },
+          {
+            "definition": "a souvenir of an achievement, especially a part of an animal taken when hunting.",
+            "examples": [
+              "souvenir, memento, keepsake; Morespoils, booty \"a cabinet full of trophies from his travels\"Morespoils, booty a cabinet full of trophies from his travels"
+            ]
+          },
+          {
+            "definition": "(in ancient Greece or Rome) the weapons and other spoils of a defeated army set up as a memorial of victory."
+          },
+          {
+            "definition": "a representation of a memorial of victory; an ornamental group of symbolic objects arranged for display."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-trophy",
+    "syllables": [
+      "-trophy"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-trophy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in nouns corresponding to adjectives ending in -trophic (such as phototrophy corresponding to phototrophic )."
+          }
+        ]
+      }
+    ]
+  }
+]

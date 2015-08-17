@@ -1,0 +1,42 @@
+[
+  {
+    "word": "inexact",
+    "syllables": [
+      "in",
+      "ex",
+      "act"
+    ],
+    "pronunciation": "ˌiniɡˈzakt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inexact"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not quite accurate or correct.",
+            "examples": [
+              "an inexact description"
+            ],
+            "synonyms": [
+              "imprecise",
+              "inaccurate",
+              "approximate",
+              "rough",
+              "crude",
+              "general",
+              "vague",
+              "fuzzy",
+              "ill-defined; Moreinformaloff-base",
+              "ballpark \"inexact diagnostic practices\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

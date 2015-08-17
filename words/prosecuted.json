@@ -1,0 +1,93 @@
+[
+  {
+    "word": "prosecute",
+    "syllables": [
+      "pros",
+      "e",
+      "cute"
+    ],
+    "pronunciation": "ˈpräsəˌkyo͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "prosecuted"
+          },
+          {
+            "part": "past participle",
+            "variant": "prosecuted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "institute legal proceedings against (a person or organization).",
+            "examples": [
+              "they were prosecuted for obstructing the highway"
+            ]
+          },
+          {
+            "definition": "institute legal proceedings in respect of (a claim or offense).",
+            "examples": [
+              "the state's attorney's office seemed to decide that this was a case worth prosecuting"
+            ],
+            "synonyms": [
+              "take to court",
+              "bring/institute legal proceedings against",
+              "bring an action against",
+              "take legal action against",
+              "sue",
+              "try",
+              "impeach",
+              "bring to trial",
+              "put on trial",
+              "put in the dock",
+              "bring a suit against",
+              "indict",
+              "arraign \"they prosecute offenders\""
+            ],
+            "antonyms": [
+              "defend",
+              "let off",
+              "pardon"
+            ]
+          },
+          {
+            "definition": "(of a lawyer) conduct the case against the party being accused or sued in a lawsuit.",
+            "examples": [
+              "Mr. Ryan will be prosecuting this morning"
+            ]
+          },
+          {
+            "definition": "continue with (a course of action) with a view to its completion.",
+            "examples": [
+              "a serious threat to the government's ability to prosecute the war"
+            ]
+          },
+          {
+            "definition": "carry on (a trade or pursuit).",
+            "examples": [
+              "waiting for permission to prosecute my craft"
+            ],
+            "synonyms": [
+              "pursue",
+              "fight",
+              "wage",
+              "carry on",
+              "conduct",
+              "direct",
+              "engage in",
+              "proceed with",
+              "continue (with)",
+              "keep on with \"they helped him prosecute the war\""
+            ],
+            "antonyms": [
+              "give up"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

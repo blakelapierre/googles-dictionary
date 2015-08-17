@@ -1,0 +1,170 @@
+[
+  {
+    "word": "pipe",
+    "syllables": [
+      "pipe"
+    ],
+    "pronunciation": "pīp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pipes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tube of metal, plastic, or other material used to convey water, gas, oil, or other fluid substances.",
+            "examples": [
+              "tube, conduit, hose, main, duct, line, channel, pipeline, drain; Moretubing, piping, siphon \"a water pipe\"Moretubing, piping, siphon a water pipe"
+            ]
+          },
+          {
+            "definition": "a cylindrical vein of ore or rock, especially one in which diamonds are found."
+          },
+          {
+            "definition": "a cavity in cast metal."
+          },
+          {
+            "definition": "a duct, vessel, or tubular structure in the body, or in an animal or plant."
+          },
+          {
+            "definition": "a connection to the Internet or to a website."
+          },
+          {
+            "definition": "a narrow tube made from wood, clay, etc., with a bowl at one end for containing burning tobacco, the smoke from which is drawn into the mouth.",
+            "examples": [
+              "brier (pipe), meerschaum, chibouk; Morehookah, narghile, bong, churchwarden \"he smokes a pipe\"Morehookah, narghile, bong, churchwarden he smokes a pipe"
+            ]
+          },
+          {
+            "definition": "a quantity of tobacco held by this."
+          },
+          {
+            "definition": "a device for smoking illegal drugs.",
+            "examples": [
+              "a crack pipe"
+            ]
+          },
+          {
+            "definition": "a wind instrument consisting of a single tube with holes along its length that are covered by the fingers to produce different notes.",
+            "examples": [
+              "a reed pipe"
+            ],
+            "synonyms": [
+              "whistle",
+              "pennywhistle",
+              "tin whistle",
+              "flute",
+              "recorder",
+              "fife; chanter \"she was playing a pipe\""
+            ]
+          },
+          {
+            "definition": "bagpipes.",
+            "examples": [
+              "bagpipes, uillean pipes; pan pipes regimental pipes and drums"
+            ]
+          },
+          {
+            "definition": "a set of pipes joined together, as in panpipes."
+          },
+          {
+            "definition": "a tube by which sound is produced in an organ."
+          },
+          {
+            "definition": "voice or vocal ability, especially of a powerful singer."
+          },
+          {
+            "definition": "a high-pitched cry or song, especially of a bird."
+          },
+          {
+            "definition": "a boatswain's whistle."
+          },
+          {
+            "definition": "a command that causes the output from one routine to be the input for another."
+          },
+          {
+            "definition": "the symbol |."
+          },
+          {
+            "definition": "a cask for wine, especially as a measure equal to two hogsheads, usually equivalent to 105 gallons (about 477 liters)."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pipes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convey (water, gas, oil, or other fluid substances) through a pipe or pipes.",
+            "examples": [
+              "water from the lakes is piped to several towns"
+            ],
+            "synonyms": [
+              "siphon",
+              "feed",
+              "channel",
+              "run",
+              "convey \"the beer is piped into barrels\""
+            ]
+          },
+          {
+            "definition": "transmit (music, a radio or television program, signals, etc.) by wire or cable.",
+            "examples": [
+              "transmit, feed, patch television shows piped in from New York"
+            ]
+          },
+          {
+            "definition": "play (a tune) on a pipe or pipes.",
+            "examples": [
+              "play on a pipe, tootle, whistle; flute he heard a tune being piped"
+            ]
+          },
+          {
+            "definition": "(of a bird) sing in a high or shrill voice.",
+            "examples": [
+              "chirp, cheep, chirrup, twitter, warble, trill, peep, sing, shrill a curlew piped"
+            ]
+          },
+          {
+            "definition": "say something in a high, shrill voice.",
+            "examples": [
+              "“No, ma'am,” piped Lucy"
+            ],
+            "synonyms": [
+              "chirp",
+              "cheep",
+              "chirrup",
+              "twitter",
+              "warble",
+              "trill",
+              "peep",
+              "sing",
+              "shrill \"a curlew piped\""
+            ]
+          },
+          {
+            "definition": "use a boatswain's whistle to summon (the crew) to work or a meal.",
+            "examples": [
+              "the hands were piped to breakfast"
+            ]
+          },
+          {
+            "definition": "decorate (clothing or soft furnishings) with a thin cord covered in fabric."
+          },
+          {
+            "definition": "put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc."
+          }
+        ]
+      }
+    ]
+  }
+]

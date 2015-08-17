@@ -1,0 +1,124 @@
+[
+  {
+    "word": "royal",
+    "syllables": [
+      "roy",
+      "al"
+    ],
+    "pronunciation": "ˈroi(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "royal"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having the status of a king or queen or a member of their family.",
+            "examples": [
+              "contributors included members of the royal family"
+            ]
+          },
+          {
+            "definition": "belonging to or carried out or exercised by a king or queen.",
+            "examples": [
+              "the royal palace"
+            ],
+            "synonyms": [
+              "regal",
+              "kingly",
+              "queenly",
+              "princely; Moresovereign",
+              "monarchical \"the royal prerogative\""
+            ]
+          },
+          {
+            "definition": "in the service or under the patronage of a king or queen.",
+            "examples": [
+              "a royal maid"
+            ]
+          },
+          {
+            "definition": "of a quality or size suitable for a king or queen; splendid.",
+            "examples": [
+              "a royal fortune"
+            ],
+            "synonyms": [
+              "excellent",
+              "fine",
+              "magnificent",
+              "splendid",
+              "superb",
+              "wonderful",
+              "first-rate",
+              "first-class; Moreinformalfantastic",
+              "great",
+              "tremendous \"a royal welcome\""
+            ]
+          },
+          {
+            "definition": "unmitigated; extreme.",
+            "examples": [
+              "he might turn out to be a royal pain"
+            ],
+            "synonyms": [
+              "complete",
+              "utter",
+              "total",
+              "absolute",
+              "real",
+              "thorough \"she's a royal pain in the neck\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "royal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "royals"
+          },
+          {
+            "part": "noun",
+            "variant": "metric royal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "metric royals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of a royal family, especially in England."
+          },
+          {
+            "definition": "short for royal sail or royal mast."
+          },
+          {
+            "definition": "a paper size, now standardized at 636 × 480 mm."
+          },
+          {
+            "definition": "a book size, now standardized at 234 × 156 mm.",
+            "examples": [
+              "noun: royal octavo; plural noun: royal octavos"
+            ]
+          },
+          {
+            "definition": "a book size, now standardized at 312 × 237 mm.",
+            "examples": [
+              "noun: royal quarto; plural noun: royal quartos"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "him",
+    "syllables": [
+      "him"
+    ],
+    "pronunciation": "him",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "him"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used as the object of a verb or preposition to refer to a male person or animal previously mentioned or easily identified.",
+            "examples": [
+              "his wife survived him"
+            ]
+          },
+          {
+            "definition": "referring to a person or animal of unspecified sex (in modern use chiefly replaced by “him or her” or “them”).",
+            "examples": [
+              "withdrawing your child from school to educate him at home may seem drastic"
+            ]
+          },
+          {
+            "definition": "often used in place of “he” after the verb “to be” and after “than” or “as” to refer to a male person or animal.",
+            "examples": [
+              "that's him all right"
+            ]
+          },
+          {
+            "definition": "himself.",
+            "examples": [
+              "in the depths of him, he too didn't want to go"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "HIM",
+    "syllables": [
+      "HIM"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviationBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "HIM"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "Her or His Imperial Majesty."
+          }
+        ]
+      }
+    ]
+  }
+]

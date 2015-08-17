@@ -1,0 +1,51 @@
+[
+  {
+    "word": "enact",
+    "syllables": [
+      "en",
+      "act"
+    ],
+    "pronunciation": "enˈaktinˈakt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "enacting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (a bill or other proposal) law.",
+            "examples": [
+              "legislation was enacted in 1987 to attract international companies"
+            ],
+            "synonyms": [
+              "pass",
+              "make law",
+              "legislate; Moreapprove",
+              "ratify",
+              "sanction",
+              "authorize; impose",
+              "lay down",
+              "bring down \"the charter was enacted in 1982\""
+            ],
+            "antonyms": [
+              "repeal"
+            ]
+          },
+          {
+            "definition": "put into practice (a belief, idea, or suggestion)."
+          },
+          {
+            "definition": "act out (a role or play) on stage.",
+            "examples": [
+              "act out, act, perform, appear in, stage, mount, put on, present members of the church enacted the Nativity"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

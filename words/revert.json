@@ -1,0 +1,101 @@
+[
+  {
+    "word": "revert",
+    "syllables": [
+      "re",
+      "vert"
+    ],
+    "pronunciation": "rəˈvərt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "revert"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "reverts"
+          },
+          {
+            "part": "past tense",
+            "variant": "reverted"
+          },
+          {
+            "part": "past participle",
+            "variant": "reverted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "reverting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "return to (a previous state, condition, practice, etc.).",
+            "examples": [
+              "he reverted to his native language"
+            ],
+            "synonyms": [
+              "return",
+              "go back",
+              "change back",
+              "default; Morefall back",
+              "regress",
+              "relapse \"life will soon revert to normal\""
+            ]
+          },
+          {
+            "definition": "return to (a previous topic).",
+            "examples": [
+              "he ignored her words by reverting to the former subject"
+            ]
+          },
+          {
+            "definition": "convert to (the Islamic faith).",
+            "examples": [
+              "I reverted to Islam five years ago"
+            ]
+          },
+          {
+            "definition": "return to (a former or ancestral type).",
+            "examples": [
+              "it is impossible that a fishlike mammal will actually revert to being a true fish"
+            ]
+          },
+          {
+            "definition": "(of property) return or pass to (the original owner) by reversion.",
+            "examples": [
+              "be returned; escheat the property reverted to the landlord"
+            ]
+          },
+          {
+            "definition": "turn (one's eyes or steps) back.",
+            "examples": [
+              "on reverting our eyes, every step presented some new and admirable scene"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "revert"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reverts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who has converted to the Islamic faith."
+          }
+        ]
+      }
+    ]
+  }
+]

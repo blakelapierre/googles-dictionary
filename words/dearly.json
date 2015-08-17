@@ -1,0 +1,51 @@
+[
+  {
+    "word": "dearly",
+    "syllables": [
+      "dear",
+      "ly"
+    ],
+    "pronunciation": "ˈdirlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "dearly"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very much.",
+            "examples": [
+              "he loved his parents dearly"
+            ],
+            "synonyms": [
+              "very much",
+              "a great deal",
+              "greatly",
+              "deeply",
+              "profoundly",
+              "extremely; Morefondly",
+              "devotedly",
+              "tenderly \"I love my son dearly\""
+            ]
+          },
+          {
+            "definition": "with much loss or suffering; at great cost.",
+            "examples": [
+              "freedom to worship our religion has been bought dearly"
+            ],
+            "synonyms": [
+              "at great cost",
+              "at a high price",
+              "with much suffering",
+              "with much sacrifice \"our freedom has been bought dearly\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

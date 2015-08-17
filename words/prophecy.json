@@ -1,0 +1,58 @@
+[
+  {
+    "word": "prophecy",
+    "syllables": [
+      "proph",
+      "e",
+      "cy"
+    ],
+    "pronunciation": "ˈpräfəsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prophecy"
+          },
+          {
+            "part": "plural noun",
+            "variant": "prophecies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a prediction.",
+            "examples": [
+              "a bleak prophecy of war and ruin"
+            ],
+            "synonyms": [
+              "prediction",
+              "forecast",
+              "prognostication",
+              "prognosis",
+              "divination",
+              "augury \"her prophecy is coming true\""
+            ]
+          },
+          {
+            "definition": "the faculty, function, or practice of prophesying.",
+            "examples": [
+              "the gift of prophecy"
+            ],
+            "synonyms": [
+              "divination",
+              "fortune-telling",
+              "crystal-gazing",
+              "prediction",
+              "second sight",
+              "prognostication",
+              "augury",
+              "soothsaying \"the gift of prophecy\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

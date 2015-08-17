@@ -1,0 +1,47 @@
+[
+  {
+    "word": "canal",
+    "syllables": [
+      "ca",
+      "nal"
+    ],
+    "pronunciation": "kəˈnal",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "canal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "canals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an artificial waterway constructed to allow the passage of boats or ships inland or to convey water for irrigation.",
+            "examples": [
+              "inland waterway, watercourse, channel barges chugged up the canal"
+            ]
+          },
+          {
+            "definition": "a tubular duct in a plant or animal, serving to convey or contain food, liquid, or air.",
+            "examples": [
+              "the ear canal"
+            ],
+            "synonyms": [
+              "duct",
+              "tube",
+              "passage \"the ear canal\""
+            ]
+          },
+          {
+            "definition": "any of a number of linear markings formerly reported as seen by telescope on the planet Mars."
+          }
+        ]
+      }
+    ]
+  }
+]

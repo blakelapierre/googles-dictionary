@@ -1,0 +1,128 @@
+[
+  {
+    "word": "catalog",
+    "syllables": [
+      "cat",
+      "a",
+      "log"
+    ],
+    "pronunciation": "ˈkadlˌôɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "catalogue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "catalogues"
+          },
+          {
+            "part": "noun",
+            "variant": "catalog"
+          },
+          {
+            "part": "plural noun",
+            "variant": "catalogs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a complete list of items, typically one in alphabetical or other systematic order, in particular."
+          },
+          {
+            "definition": "a list of all the books or resources in a library."
+          },
+          {
+            "definition": "a publication containing details and often photographs of items for sale, especially one produced by a mail-order company.",
+            "examples": [
+              "brochure, mailer, wish book; lookbook a mail-order catalog"
+            ]
+          },
+          {
+            "definition": "a descriptive list of works of art in an exhibition or collection giving detailed comments and explanations.",
+            "examples": [
+              "directory, register, index, list, listing, record, archive, inventory a library catalog"
+            ]
+          },
+          {
+            "definition": "a list of courses offered by a university or college."
+          },
+          {
+            "definition": "a series of unfortunate or bad things.",
+            "examples": [
+              "his life was a catalog of dismal failures"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "catalogue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "catalogues"
+          },
+          {
+            "part": "past tense",
+            "variant": "catalogued"
+          },
+          {
+            "part": "past participle",
+            "variant": "catalogued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cataloguing"
+          },
+          {
+            "part": "verb",
+            "variant": "catalog"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "catalogs"
+          },
+          {
+            "part": "past tense",
+            "variant": "cataloged"
+          },
+          {
+            "part": "past participle",
+            "variant": "cataloged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cataloging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make a systematic list of (items of the same type).",
+            "examples": [
+              "classify, categorize, systematize, index, list, archive, make an inventory of, inventory, record, itemize the collection is fully cataloged"
+            ]
+          },
+          {
+            "definition": "enter (an item) in a systematic list.",
+            "examples": [
+              "the picture was withdrawn before being cataloged"
+            ]
+          },
+          {
+            "definition": "list (similar situations, qualities, or events) in succession.",
+            "examples": [
+              "the report catalogs dangerous work practices in the company"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "slogan",
+    "syllables": [
+      "slo",
+      "gan"
+    ],
+    "pronunciation": "ˈslōɡən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "slogans"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a short and striking or memorable phrase used in advertising."
+          },
+          {
+            "definition": "a motto associated with a political party or movement or other group.",
+            "examples": [
+              "catchphrase, jingle, byword, motto; Moreinformaltag line, buzzword, mantra \"familiar advertising slogans\"Moretag line, buzzword, mantra familiar advertising slogans"
+            ]
+          },
+          {
+            "definition": "a Scottish Highland war cry."
+          }
+        ]
+      }
+    ]
+  }
+]

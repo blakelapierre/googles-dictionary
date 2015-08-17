@@ -1,0 +1,46 @@
+[
+  {
+    "word": "irritation",
+    "syllables": [
+      "ir",
+      "ri",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "ˌirəˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "irritation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of feeling annoyed, impatient, or angry.",
+            "examples": [
+              "annoyance, exasperation, vexation, indignation, impatience, crossness, displeasure, chagrin, pique; Moreanger, rage, fury, wrath, aggravation; literaryire \"she tried not to show her irritation\"Moreanger, rage, fury, wrath, aggravation; ire she tried not to show her irritation"
+            ],
+            "antonyms": [
+              "delight"
+            ]
+          },
+          {
+            "definition": "a cause of this.",
+            "examples": [
+              "plural noun: irritations"
+            ]
+          },
+          {
+            "definition": "the production of inflammation or other discomfort in a bodily part or organ."
+          },
+          {
+            "definition": "the stimulation of an organism, cell, or organ to produce an active response."
+          }
+        ]
+      }
+    ]
+  }
+]

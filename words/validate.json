@@ -1,0 +1,85 @@
+[
+  {
+    "word": "validate",
+    "syllables": [
+      "val",
+      "i",
+      "date"
+    ],
+    "pronunciation": "ˈvaləˌdāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "validate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "validates"
+          },
+          {
+            "part": "past tense",
+            "variant": "validated"
+          },
+          {
+            "part": "past participle",
+            "variant": "validated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "validating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "check or prove the validity or accuracy of (something).",
+            "examples": [
+              "these estimates have been validated by periodic surveys"
+            ]
+          },
+          {
+            "definition": "demonstrate or support the truth or value of.",
+            "examples": [
+              "in a healthy family a child's feelings are validated"
+            ],
+            "synonyms": [
+              "prove",
+              "substantiate",
+              "corroborate",
+              "verify",
+              "support",
+              "back up",
+              "bear out",
+              "lend force to",
+              "confirm",
+              "justify",
+              "vindicate",
+              "authenticate \"clinical trials now exist to validate this claim\""
+            ],
+            "antonyms": [
+              "disprove"
+            ]
+          },
+          {
+            "definition": "make or declare legally valid.",
+            "examples": [
+              "ratify, endorse, approve, agree to, accept, authorize, legalize, legitimize, warrant, license, certify, recognize 250 certificates need to be validated"
+            ],
+            "antonyms": [
+              "reject",
+              "revoke"
+            ]
+          },
+          {
+            "definition": "recognize or affirm the validity or worth of (a person or their feelings or opinions); cause (a person) to feel valued or worthwhile.",
+            "examples": [
+              "without Patti to validate my feelings, they seemed not to exist"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

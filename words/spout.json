@@ -1,0 +1,128 @@
+[
+  {
+    "word": "spout",
+    "syllables": [
+      "spout"
+    ],
+    "pronunciation": "spout",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spout"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spouts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tube or lip projecting from a container, through which liquid can be poured.",
+            "examples": [
+              "a teapot with a chipped spout"
+            ],
+            "synonyms": [
+              "nozzle",
+              "lip \"a can with a spout\""
+            ]
+          },
+          {
+            "definition": "a pipe or trough through which water may be carried away or from which it can flow out."
+          },
+          {
+            "definition": "a sloping trough for conveying something to a lower level; a chute."
+          },
+          {
+            "definition": "a lift in a pawnshop used to convey pawned items up for storage."
+          },
+          {
+            "definition": "a stream of liquid issuing from somewhere with great force.",
+            "examples": [
+              "the tall spouts of geysers"
+            ]
+          },
+          {
+            "definition": "the plume of water vapor ejected from the blowhole of a whale.",
+            "examples": [
+              "the spout of an occasional whale"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "spout"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "spouts"
+          },
+          {
+            "part": "past tense",
+            "variant": "spouted"
+          },
+          {
+            "part": "past participle",
+            "variant": "spouted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spouting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "send out (liquid) forcibly in a stream.",
+            "examples": [
+              "volcanoes spouted ash and lava"
+            ]
+          },
+          {
+            "definition": "(of a liquid) flow out forcibly in a stream.",
+            "examples": [
+              "blood was spouting from the cuts on my hand"
+            ],
+            "synonyms": [
+              "spurt",
+              "gush",
+              "spew",
+              "erupt",
+              "shoot",
+              "squirt",
+              "spray; Moredisgorge",
+              "discharge",
+              "emit",
+              "belch forth \"lava was spouting from the crater\""
+            ]
+          },
+          {
+            "definition": "(of a whale or dolphin) eject (water vapor and air) through its blowhole."
+          },
+          {
+            "definition": "express (one's views or ideas) in a lengthy, declamatory, and unreflecting way.",
+            "examples": [
+              "he was spouting platitudes about animal rights"
+            ],
+            "synonyms": [
+              "hold forth",
+              "sound off",
+              "go on",
+              "talk at length",
+              "expatiate; Moreinformalmouth off",
+              "speechify",
+              "spiel \"there he is",
+              "spouting off about religion",
+              "as usual\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

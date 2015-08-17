@@ -1,0 +1,123 @@
+[
+  {
+    "word": "scattering",
+    "syllables": [
+      "scat",
+      "ter",
+      "ing"
+    ],
+    "pronunciation": "ˈskad(ə)riNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scattering"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scatterings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of scattering something."
+          },
+          {
+            "definition": "a small, dispersed amount of something.",
+            "examples": [
+              "the scattering of freckles across her cheeks and forehead"
+            ]
+          },
+          {
+            "definition": "the process in which electromagnetic radiation or particles are deflected or diffused."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scatter",
+    "syllables": [
+      "scat",
+      "ter"
+    ],
+    "pronunciation": "ˈskadər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "scattering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "throw in various random directions.",
+            "examples": [
+              "scatter the coconut over the icing"
+            ]
+          },
+          {
+            "definition": "occur or be found at intervals rather than all together.",
+            "examples": [
+              "there are many mills scattered throughout the marshlands"
+            ]
+          },
+          {
+            "definition": "(of a group of people or animals) separate and move off quickly in different directions.",
+            "examples": [
+              "the roar made the dogs scatter"
+            ],
+            "synonyms": [
+              "disperse",
+              "break up",
+              "disband",
+              "separate",
+              "move/go in different directions",
+              "go separate ways; Moredissipate",
+              "dissolve; drive",
+              "send",
+              "put to flight",
+              "chase \"the crowd scattered\""
+            ],
+            "antonyms": [
+              "assemble"
+            ]
+          },
+          {
+            "definition": "cause (a group of people or animals) to separate and move off quickly in different directions.",
+            "examples": [
+              "he charged across the foyer, scattering people"
+            ]
+          },
+          {
+            "definition": "cover (a surface) with objects thrown or spread randomly over it.",
+            "examples": [
+              "sandy beaches scattered with driftwood"
+            ],
+            "synonyms": [
+              "throw",
+              "strew",
+              "toss",
+              "fling; Moresprinkle",
+              "spread",
+              "distribute",
+              "sow",
+              "broadcast",
+              "disseminate; literarybestrew \"the papers were scattered by the sudden breeze\""
+            ],
+            "antonyms": [
+              "gather"
+            ]
+          },
+          {
+            "definition": "deflect or diffuse (electromagnetic radiation or particles)."
+          }
+        ]
+      }
+    ]
+  }
+]

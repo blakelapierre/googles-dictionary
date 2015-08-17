@@ -1,0 +1,104 @@
+[
+  {
+    "word": "empire",
+    "syllables": [
+      "em",
+      "pire"
+    ],
+    "pronunciation": "ˈemˌpī(ə)rämˈpir",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "empire"
+          },
+          {
+            "part": "plural noun",
+            "variant": "empires"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an extensive group of states or countries under a single supreme authority, formerly especially an emperor or empress.",
+            "examples": [
+              "the Roman Empire"
+            ],
+            "synonyms": [
+              "kingdom",
+              "realm",
+              "domain",
+              "territory",
+              "imperium; Morecommonwealth; power",
+              "world power",
+              "superpower \"the Ottoman Empire\""
+            ]
+          },
+          {
+            "definition": "a large commercial organization owned or controlled by one person or group.",
+            "examples": [
+              "her business empire grew"
+            ],
+            "synonyms": [
+              "organization",
+              "corporation",
+              "multinational",
+              "conglomerate",
+              "consortium",
+              "company",
+              "business",
+              "firm",
+              "operation \"a worldwide shipping empire\""
+            ]
+          },
+          {
+            "definition": "an extensive operation or sphere of activity controlled by one person or group.",
+            "examples": [
+              "the kitchen had once been the ladies' empire"
+            ]
+          },
+          {
+            "definition": "supreme political power over several countries when exercised by a single authority.",
+            "examples": [
+              "he encouraged the Greeks in their dream of empire in Asia Minor"
+            ],
+            "synonyms": [
+              "power",
+              "rule",
+              "ascendancy",
+              "supremacy",
+              "command",
+              "control",
+              "authority",
+              "sway",
+              "dominance",
+              "domination",
+              "dominion \"his dream of empire\""
+            ]
+          },
+          {
+            "definition": "absolute control over a person or group."
+          },
+          {
+            "definition": "a variety of apple."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "Empire"
+          },
+          {
+            "part": "adjective",
+            "variant": "empire"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

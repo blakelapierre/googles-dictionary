@@ -1,0 +1,107 @@
+[
+  {
+    "word": "jog",
+    "syllables": [
+      "jog"
+    ],
+    "pronunciation": "jäɡ",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "jog"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "jogs"
+          },
+          {
+            "part": "past tense",
+            "variant": "jogged"
+          },
+          {
+            "part": "past participle",
+            "variant": "jogged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "jogging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "run at a steady gentle pace, especially on a regular basis as a form of physical exercise.",
+            "examples": [
+              "he began to jog along the road"
+            ],
+            "synonyms": [
+              "run slowly",
+              "trot",
+              "lope",
+              "dog-trot; datedjog-trot \"he jogged along the road\""
+            ]
+          },
+          {
+            "definition": "(of a horse) move at a slow trot."
+          },
+          {
+            "definition": "move in an unsteady way, typically slowly.",
+            "examples": [
+              "the bus jogged and jolted"
+            ]
+          },
+          {
+            "definition": "continue in a steady, uneventful way.",
+            "examples": [
+              "our marriage worked, and we jogged along"
+            ]
+          },
+          {
+            "definition": "nudge or knock slightly.",
+            "examples": [
+              "a hand jogged his elbow"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jog"
+          },
+          {
+            "part": "plural noun",
+            "variant": "jogs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a spell of jogging.",
+            "examples": [
+              "his morning jog"
+            ]
+          },
+          {
+            "definition": "a gentle running pace.",
+            "examples": [
+              "he set off along the bank at a jog"
+            ],
+            "synonyms": [
+              "run",
+              "trot",
+              "lope",
+              "dog-trot; datedjog trot \"he set off at a jog\""
+            ]
+          },
+          {
+            "definition": "a slight push or nudge."
+          }
+        ]
+      }
+    ]
+  }
+]

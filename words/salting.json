@@ -1,0 +1,71 @@
+[
+  {
+    "word": "salting",
+    "syllables": [
+      "salt",
+      "ing"
+    ],
+    "pronunciation": "ˈsôltiNG",
+    "parts": [
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "salting"
+          },
+          {
+            "part": "plural noun",
+            "variant": "saltings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of coastal land that is regularly covered by the tide."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "salt",
+    "syllables": [
+      "salt"
+    ],
+    "pronunciation": "sôlt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "salting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "season or preserve with salt.",
+            "examples": [
+              "cook the carrots in boiling salted water"
+            ]
+          },
+          {
+            "definition": "make (something) piquant or more interesting.",
+            "examples": [
+              "there was good talk to salt the occasion"
+            ]
+          },
+          {
+            "definition": "sprinkle (a road or path) with salt in order to melt snow or ice."
+          },
+          {
+            "definition": "fraudulently make (a mine) appear to be a paying one by placing rich ore in it."
+          },
+          {
+            "definition": "(of a horse) having developed a resistance to disease by surviving it."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "word": "visionary",
+    "syllables": [
+      "vi",
+      "sion",
+      "ar",
+      "y"
+    ],
+    "pronunciation": "ˈviZHəˌnerē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "visionary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of a person) thinking about or planning the future with imagination or wisdom.",
+            "examples": [
+              "a visionary leader"
+            ],
+            "synonyms": [
+              "inspired",
+              "imaginative",
+              "creative",
+              "inventive",
+              "ingenious",
+              "enterprising",
+              "innovative; Moreinsightful",
+              "perceptive",
+              "intuitive",
+              "prescient",
+              "discerning",
+              "shrewd",
+              "wise",
+              "clever",
+              "resourceful; idealistic",
+              "romantic",
+              "quixotic",
+              "dreamy; informalstarry-eyed \"a visionary person\""
+            ]
+          },
+          {
+            "definition": "(of a scheme or idea) not practical."
+          },
+          {
+            "definition": "of, relating to, or able to see visions in a dream or trance, or as a supernatural apparition.",
+            "examples": [
+              "a visionary experience"
+            ]
+          },
+          {
+            "definition": "existing only in a vision or in the imagination."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "visionary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "visionaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person with original ideas about what the future will or could be like."
+          }
+        ]
+      }
+    ]
+  }
+]

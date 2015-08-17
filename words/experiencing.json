@@ -1,0 +1,47 @@
+[
+  {
+    "word": "experience",
+    "syllables": [
+      "ex",
+      "pe",
+      "ri",
+      "ence"
+    ],
+    "pronunciation": "ˌikˈspirēəns",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "experiencing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "encounter or undergo (an event or occurrence).",
+            "examples": [
+              "the company is experiencing difficulties"
+            ],
+            "synonyms": [
+              "undergo",
+              "encounter",
+              "meet",
+              "come into contact with",
+              "come across",
+              "come up against",
+              "face",
+              "be faced with \"some policemen experience harassment\""
+            ]
+          },
+          {
+            "definition": "feel (an emotion).",
+            "examples": [
+              "an opportunity to experience the excitement of New York"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

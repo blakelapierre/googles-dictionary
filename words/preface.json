@@ -1,0 +1,85 @@
+[
+  {
+    "word": "preface",
+    "syllables": [
+      "pref",
+      "ace"
+    ],
+    "pronunciation": "ˈprefəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "preface"
+          },
+          {
+            "part": "plural noun",
+            "variant": "prefaces"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an introduction to a book, typically stating its subject, scope, or aims.",
+            "examples": [
+              "introduction, foreword, preamble, prologue, prelude; Morefront matter; informalprelims, intro, lead-in; formalexordium, proem, prolegomenon \"the preface to the novel\"Morefront matter; prelims, intro, lead-in; exordium, proem, prolegomenon the preface to the novel"
+            ]
+          },
+          {
+            "definition": "the introduction or preliminary part of a speech or event."
+          },
+          {
+            "definition": "the introduction to the central part of the Eucharist, historically forming the first part of the canon or prayer of consecration."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "preface"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "prefaces"
+          },
+          {
+            "part": "past tense",
+            "variant": "prefaced"
+          },
+          {
+            "part": "past participle",
+            "variant": "prefaced"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "prefacing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide (a book) with a preface.",
+            "examples": [
+              "the book is prefaced by a quotation from William Faulkner"
+            ],
+            "synonyms": [
+              "precede",
+              "introduce",
+              "begin",
+              "open",
+              "start \"the chapter is prefaced by a poem\""
+            ]
+          },
+          {
+            "definition": "introduce or begin (a speech or event) with or by doing something.",
+            "examples": [
+              "it is important to preface the debate with a general comment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

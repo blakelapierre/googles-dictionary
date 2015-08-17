@@ -1,0 +1,60 @@
+[
+  {
+    "word": "ski",
+    "syllables": [
+      "ski"
+    ],
+    "pronunciation": "skē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "skis"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each of a pair of long narrow pieces of hard flexible material, typically pointed and turned up at the front, fastened under the feet for gliding over snow."
+          },
+          {
+            "definition": "a device similar to a ski attached beneath a vehicle or aircraft."
+          },
+          {
+            "definition": "of, relating to, or used for skiing.",
+            "examples": [
+              "modifier noun: ski"
+            ]
+          },
+          {
+            "definition": "another term for waterski."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "skis"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "travel over snow on skis; take part in the sport or recreation of skiing.",
+            "examples": [
+              "they skied down the mountain"
+            ]
+          },
+          {
+            "definition": "ski on (a particular ski run or type of snow).",
+            "examples": [
+              "spring snow is not always easy to ski"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

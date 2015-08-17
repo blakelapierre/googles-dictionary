@@ -1,0 +1,90 @@
+[
+  {
+    "word": "pencil",
+    "syllables": [
+      "pen",
+      "cil"
+    ],
+    "pronunciation": "ˈpensəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pencils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a metal or plastic case.",
+            "examples": [
+              "lead pencil, mechanical pencil, colored pencil; Moregrease pencil; eyebrow pencil, lip pencil \"a sharpened pencil\"Moregrease pencil; eyebrow pencil, lip pencil a sharpened pencil"
+            ]
+          },
+          {
+            "definition": "graphite or a similar substance used as a medium for writing or drawing.",
+            "examples": [
+              "the words were scribbled in pencil"
+            ]
+          },
+          {
+            "definition": "a cosmetic in a long thin stick, designed to be applied to a particular part of the face.",
+            "examples": [
+              "an eyebrow pencil"
+            ],
+            "synonyms": [
+              "lead pencil",
+              "mechanical pencil",
+              "colored pencil; Moregrease pencil; eyebrow pencil",
+              "lip pencil \"a sharpened pencil\""
+            ]
+          },
+          {
+            "definition": "something with the shape of a pencil.",
+            "examples": [
+              "a pencil of light"
+            ],
+            "synonyms": [
+              "beam",
+              "ray",
+              "shaft",
+              "finger",
+              "gleam \"a pencil of light\""
+            ]
+          },
+          {
+            "definition": "a set of light rays, lines, etc., converging to or diverging narrowly from a single point."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pencils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "write, draw, or color (something) with a pencil.",
+            "examples": [
+              "a previous owner has penciled their name inside the cover"
+            ],
+            "synonyms": [
+              "write",
+              "write down",
+              "jot down",
+              "scribble",
+              "note",
+              "take down More\"he penciled his name inside the cover\"draw",
+              "trace",
+              "sketch \"pencil a line along the top of the molding\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

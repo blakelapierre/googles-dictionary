@@ -1,0 +1,81 @@
+[
+  {
+    "word": "disperse",
+    "syllables": [
+      "dis",
+      "perse"
+    ],
+    "pronunciation": "dəˈspərs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "dispersed"
+          },
+          {
+            "part": "past participle",
+            "variant": "dispersed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "distribute or spread over a wide area.",
+            "examples": [
+              "storms can disperse seeds via high altitudes"
+            ],
+            "synonyms": [
+              "scatter",
+              "disseminate",
+              "distribute",
+              "spread",
+              "broadcast \"seeds dispersed by birds\""
+            ],
+            "antonyms": [
+              "gather"
+            ]
+          },
+          {
+            "definition": "go or cause to go in different directions or to different destinations.",
+            "examples": [
+              "the crowd dispersed"
+            ],
+            "synonyms": [
+              "break up",
+              "split up",
+              "disband",
+              "scatter",
+              "leave",
+              "go their separate ways; Moredrive away/off",
+              "chase away \"the crowd began to disperse\""
+            ],
+            "antonyms": [
+              "assemble"
+            ]
+          },
+          {
+            "definition": "(with reference to gas, smoke, mist, or cloud) thin out or cause to thin out and disappear.",
+            "examples": [
+              "the earlier mist had dispersed"
+            ],
+            "synonyms": [
+              "dissipate",
+              "dissolve",
+              "melt away",
+              "fade away",
+              "clear",
+              "lift \"the fog finally dispersed\""
+            ]
+          },
+          {
+            "definition": "divide (light) into constituents of different wavelengths."
+          },
+          {
+            "definition": "distribute (small particles) uniformly in a medium."
+          }
+        ]
+      }
+    ]
+  }
+]

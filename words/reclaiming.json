@@ -1,0 +1,63 @@
+[
+  {
+    "word": "reclaim",
+    "syllables": [
+      "re",
+      "claim"
+    ],
+    "pronunciation": "rəˈklām",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "reclaiming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "retrieve or recover (something previously lost, given, or paid); obtain the return of.",
+            "examples": [
+              "he returned three years later to reclaim his title as director of advertising"
+            ],
+            "synonyms": [
+              "get back",
+              "recoup",
+              "claim back",
+              "recover",
+              "regain",
+              "retrieve \"traveling expenses can be reclaimed\""
+            ]
+          },
+          {
+            "definition": "redeem (someone) from a state of vice; reform.",
+            "examples": [
+              "societies for reclaiming beggars and prostitutes"
+            ],
+            "synonyms": [
+              "save",
+              "rescue",
+              "redeem; reform \"Henrietta had reclaimed him from a life of despair\""
+            ]
+          },
+          {
+            "definition": "tame or civilize (an animal or person)."
+          },
+          {
+            "definition": "bring (waste land or land formerly under water) under cultivation.",
+            "examples": [
+              "little money is available to reclaim and cultivate the desert"
+            ]
+          },
+          {
+            "definition": "recover (material) for reuse; recycle.",
+            "examples": [
+              "a sufficient weight of plastic could easily be reclaimed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

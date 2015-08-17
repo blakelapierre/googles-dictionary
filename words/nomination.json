@@ -1,0 +1,41 @@
+[
+  {
+    "word": "nomination",
+    "syllables": [
+      "nom",
+      "i",
+      "na",
+      "tion"
+    ],
+    "pronunciation": "ˌnäməˈnāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nomination"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nominations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of nominating or state of being nominated.",
+            "examples": [
+              "women's groups opposed the nomination of the judge"
+            ]
+          },
+          {
+            "definition": "a person or thing nominated.",
+            "examples": [
+              "send your nominations in by November 30th"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

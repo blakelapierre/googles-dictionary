@@ -1,0 +1,200 @@
+[
+  {
+    "word": "hawk",
+    "syllables": [
+      "hawk"
+    ],
+    "pronunciation": "hôk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hawk"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hawks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a diurnal bird of prey with broad rounded wings and a long tail, typically taking prey by surprise with a short chase."
+          },
+          {
+            "definition": "a bird of prey related to the buteos."
+          },
+          {
+            "definition": "any diurnal bird of prey used in falconry."
+          },
+          {
+            "definition": "a person who advocates an aggressive or warlike policy, especially in foreign affairs."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hawk"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hawks"
+          },
+          {
+            "part": "past tense",
+            "variant": "hawked"
+          },
+          {
+            "part": "past participle",
+            "variant": "hawked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hawking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) hunt game with a trained hawk.",
+            "examples": [
+              "he spent the afternoon hawking"
+            ]
+          },
+          {
+            "definition": "(of a bird or dragonfly) hunt on the wing for food.",
+            "examples": [
+              "swifts hawked low over the water"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hawk",
+    "syllables": [
+      "hawk"
+    ],
+    "pronunciation": "hôk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hawk"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hawks"
+          },
+          {
+            "part": "past tense",
+            "variant": "hawked"
+          },
+          {
+            "part": "past participle",
+            "variant": "hawked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hawking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carry around and offer (goods) for sale, typically advertising them by shouting.",
+            "examples": [
+              "street traders were hawking costume jewelry"
+            ],
+            "synonyms": [
+              "peddle",
+              "sell",
+              "tout",
+              "vend",
+              "trade in",
+              "traffic in",
+              "push \"hawking his wares on the street\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hawk",
+    "syllables": [
+      "hawk"
+    ],
+    "pronunciation": "hôk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "hawk"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "hawks"
+          },
+          {
+            "part": "past tense",
+            "variant": "hawked"
+          },
+          {
+            "part": "past participle",
+            "variant": "hawked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "hawking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clear the throat noisily.",
+            "examples": [
+              "he hawked and spat into the flames"
+            ]
+          },
+          {
+            "definition": "bring phlegm up from the throat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hawk",
+    "syllables": [
+      "hawk"
+    ],
+    "pronunciation": "hôk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hawk"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hawks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plasterer's square board with a handle underneath for carrying plaster or mortar."
+          }
+        ]
+      }
+    ]
+  }
+]

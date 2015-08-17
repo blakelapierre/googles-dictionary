@@ -1,0 +1,183 @@
+[
+  {
+    "word": "dear",
+    "syllables": [
+      "dear"
+    ],
+    "pronunciation": "dir",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "dear"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "dearer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "dearest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "regarded with deep affection; cherished by someone.",
+            "examples": [
+              "a dear friend"
+            ],
+            "synonyms": [
+              "beloved",
+              "loved",
+              "adored",
+              "cherished",
+              "precious; Moreesteemed",
+              "respected",
+              "worshiped; close",
+              "intimate",
+              "bosom",
+              "best \"a dear friend\"precious",
+              "treasured",
+              "valued",
+              "prized",
+              "cherished",
+              "special \"her pictures were too dear to part with\""
+            ],
+            "antonyms": [
+              "hated"
+            ]
+          },
+          {
+            "definition": "used in speech as a way of addressing a person in a polite way.",
+            "examples": [
+              "Martin, my dear fellow"
+            ]
+          },
+          {
+            "definition": "used as part of the polite introduction to a letter, especially in a formula denoting the degree of formality involved.",
+            "examples": [
+              "Dear Sir or Madam"
+            ]
+          },
+          {
+            "definition": "endearing; sweet.",
+            "examples": [
+              "a dear little puppy"
+            ],
+            "synonyms": [
+              "endearing",
+              "adorable",
+              "lovable",
+              "appealing",
+              "engaging",
+              "charming",
+              "captivating",
+              "winsome",
+              "lovely",
+              "nice",
+              "pleasant",
+              "delightful",
+              "sweet",
+              "darling \"such a dear man\""
+            ],
+            "antonyms": [
+              "disagreeable"
+            ]
+          },
+          {
+            "definition": "expensive.",
+            "examples": [
+              "expensive, costly, high-priced, overpriced, exorbitant, extortionate; Moreinformalpricey, spendy, steep, stiff \"the meals are rather dear\"Morepricey, spendy, steep, stiff the meals are rather dear"
+            ],
+            "antonyms": [
+              "inexpensive",
+              "cheap"
+            ]
+          },
+          {
+            "definition": "(of money) available as a loan only at a high rate of interest."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "dear"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dears"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used as an affectionate or friendly form of address.",
+            "examples": [
+              "don't you worry, dear"
+            ],
+            "synonyms": [
+              "darling",
+              "dearest",
+              "love",
+              "beloved",
+              "sweetheart",
+              "sweet",
+              "precious",
+              "treasure; Moreinformalsweetie",
+              "sugar",
+              "honey",
+              "hon",
+              "baby",
+              "pet \"don't worry",
+              "my dear\""
+            ]
+          },
+          {
+            "definition": "a sweet or endearing person.",
+            "examples": [
+              "lovable person; Moredarling, sweetheart, pet, angel, gem, treasure, star \"he's such a dear\"Moredarling, sweetheart, pet, angel, gem, treasure, star he's such a dear"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "dear"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "at a high cost.",
+            "examples": [
+              "they buy property cheaply and sell dear"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamation",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "dear"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used in expressions of surprise, dismay, or sympathy.",
+            "examples": [
+              "oh dear, I've upset you"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

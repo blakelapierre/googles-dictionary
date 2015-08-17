@@ -1,0 +1,37 @@
+[
+  {
+    "word": "divisor",
+    "syllables": [
+      "di",
+      "vi",
+      "sor"
+    ],
+    "pronunciation": "diˈvīzər",
+    "parts": [
+      {
+        "part": "nounMathematics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "divisor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "divisors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a number by which another number is to be divided."
+          },
+          {
+            "definition": "a number that divides into another without a remainder.",
+            "examples": [
+              "the greatest common divisor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

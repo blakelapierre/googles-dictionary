@@ -1,0 +1,42 @@
+[
+  {
+    "word": "liquefy",
+    "syllables": [
+      "liq",
+      "ue",
+      "fy"
+    ],
+    "pronunciation": "ˈlikwəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "liquefied"
+          },
+          {
+            "part": "past participle",
+            "variant": "liquefied"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become liquid.",
+            "examples": [
+              "the minimum pressure required to liquefy a gas"
+            ],
+            "synonyms": [
+              "make/become liquid",
+              "condense; Moreliquidize",
+              "melt; deliquesce \"it was so warm in the kitchen that the cheese started to liquefy\""
+            ],
+            "antonyms": [
+              "solidify"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

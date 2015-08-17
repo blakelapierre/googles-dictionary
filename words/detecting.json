@@ -1,0 +1,79 @@
+[
+  {
+    "word": "detect",
+    "syllables": [
+      "de",
+      "tect"
+    ],
+    "pronunciation": "dəˈtekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "detecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "discover or identify the presence or existence of.",
+            "examples": [
+              "cancer may soon be detected in its earliest stages"
+            ]
+          },
+          {
+            "definition": "discover or investigate (a crime or its perpetrators).",
+            "examples": [
+              "the public can help the police to detect crime"
+            ],
+            "synonyms": [
+              "discover",
+              "uncover",
+              "find out",
+              "turn up",
+              "unearth",
+              "dig up",
+              "root out",
+              "expose",
+              "reveal More\"they are responsible for detecting fraud\"catch",
+              "hunt down",
+              "track down",
+              "find",
+              "expose",
+              "reveal",
+              "unmask",
+              "smoke out; apprehend",
+              "arrest; informalnail \"the hackers were detected\""
+            ]
+          },
+          {
+            "definition": "discern (something intangible or barely perceptible).",
+            "examples": [
+              "Paul detected a faint note of weariness in his father's voice"
+            ],
+            "synonyms": [
+              "notice",
+              "perceive",
+              "discern",
+              "be aware of",
+              "note",
+              "make out",
+              "spot",
+              "recognize",
+              "distinguish",
+              "remark",
+              "identify",
+              "diagnose; Morecatch",
+              "sense",
+              "see",
+              "smell",
+              "scent",
+              "taste \"no one detected the smell of gas\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

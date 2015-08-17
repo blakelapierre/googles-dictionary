@@ -1,0 +1,61 @@
+[
+  {
+    "word": "medicinal",
+    "syllables": [
+      "me",
+      "dic",
+      "i",
+      "nal"
+    ],
+    "pronunciation": "məˈdisənl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "medicinal"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a substance or plant) having healing properties.",
+            "examples": [
+              "medicinal herbs"
+            ],
+            "synonyms": [
+              "curative",
+              "healing",
+              "remedial",
+              "therapeutic",
+              "restorative",
+              "corrective",
+              "health-giving; medical \"an infusion of medicinal herbs\""
+            ]
+          },
+          {
+            "definition": "relating to or involving medicines or drugs."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "medicinal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "medicinals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a medicinal substance."
+          }
+        ]
+      }
+    ]
+  }
+]

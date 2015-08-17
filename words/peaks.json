@@ -1,0 +1,143 @@
+[
+  {
+    "word": "peak",
+    "syllables": [
+      "peak"
+    ],
+    "pronunciation": "pēk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "peaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the pointed top of a mountain.",
+            "examples": [
+              "the snowy peaks rose against the blue of a cloudless sky"
+            ],
+            "synonyms": [
+              "summit",
+              "top",
+              "crest",
+              "pinnacle",
+              "apex",
+              "crown",
+              "cap \"the peaks of the mountains\""
+            ]
+          },
+          {
+            "definition": "a mountain, especially one with a pointed top.",
+            "examples": [
+              "the rocky outcrops of peaks such as the Cassongrat offer a challenge to rock climbers"
+            ],
+            "synonyms": [
+              "mountain",
+              "hill",
+              "height",
+              "mount",
+              "alp \"the highest peak\""
+            ]
+          },
+          {
+            "definition": "a projecting pointed part or shape.",
+            "examples": [
+              "whisk 2 egg whites to stiff peaks"
+            ]
+          },
+          {
+            "definition": "a point in a curve or on a graph, or a value of a physical quantity, higher than those around it.",
+            "examples": [
+              "a slight increase in velocity provides a second peak on the general velocity curve"
+            ]
+          },
+          {
+            "definition": "the point of highest activity, quality, or achievement.",
+            "examples": [
+              "anyone who saw Jones at his peak looked upon genius"
+            ],
+            "synonyms": [
+              "height",
+              "high point/spot",
+              "pinnacle",
+              "summit",
+              "top",
+              "climax",
+              "culmination",
+              "apex",
+              "zenith",
+              "crowning point",
+              "acme",
+              "capstone",
+              "apogee",
+              "prime",
+              "heyday \"the peak of his career\""
+            ]
+          },
+          {
+            "definition": "a stiff brim at the front of a cap.",
+            "examples": [
+              "brim, visor the peak of a cap"
+            ]
+          },
+          {
+            "definition": "the narrow part of a ship's hold at the bow or stern."
+          },
+          {
+            "definition": "the upper, outer corner of a sail extended by a gaff."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "peaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reach a highest point, either of a specified value or at a specified time.",
+            "examples": [
+              "its popularity peaked in the 1940s"
+            ],
+            "synonyms": [
+              "reach its height",
+              "climax",
+              "reach a climax",
+              "come to a head \"conservative support has peaked\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "peak",
+    "syllables": [
+      "peak"
+    ],
+    "pronunciation": "pēk",
+    "parts": [
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "peaks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decline in health and spirits; waste away."
+          }
+        ]
+      }
+    ]
+  }
+]

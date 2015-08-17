@@ -1,0 +1,66 @@
+[
+  {
+    "word": "moderation",
+    "syllables": [
+      "mod",
+      "er",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "ˌmädəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "moderation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the avoidance of excess or extremes, especially in one's behavior or political opinions.",
+            "examples": [
+              "he urged the police to show moderation"
+            ],
+            "synonyms": [
+              "self-restraint",
+              "restraint",
+              "self-control",
+              "self-command",
+              "self-discipline; Moretemperance",
+              "leniency",
+              "fairness \"he urged them to show moderation\""
+            ]
+          },
+          {
+            "definition": "the action of making something less extreme, intense, or violent.",
+            "examples": [
+              "the union's approach was based on increased dialogue and the moderation of demands"
+            ],
+            "synonyms": [
+              "relaxation",
+              "easing (off)",
+              "reduction",
+              "abatement",
+              "weakening",
+              "slackening",
+              "tempering",
+              "softening",
+              "diminution",
+              "diminishing",
+              "lessening; Moredecline",
+              "modulation",
+              "modification",
+              "mitigation",
+              "allaying; informalletup \"a moderation of their confrontational style\""
+            ]
+          },
+          {
+            "definition": "the retardation of neutrons by a moderator."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "ancestor",
+    "syllables": [
+      "an",
+      "ces",
+      "tor"
+    ],
+    "pronunciation": "ˈanˌsestər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "ancestors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person, typically one more remote than a grandparent, from whom one is descended.",
+            "examples": [
+              "my ancestor Admiral Anson circumnavigated the globe 250 years ago"
+            ],
+            "synonyms": [
+              "forebear",
+              "forefather",
+              "predecessor",
+              "antecedent",
+              "progenitor",
+              "primogenitor \"he could trace his ancestors back to colonial Boston\""
+            ],
+            "antonyms": [
+              "descendant",
+              "successor"
+            ]
+          },
+          {
+            "definition": "an early type of animal or plant from which others have evolved."
+          },
+          {
+            "definition": "an early version of a machine, system, etc.",
+            "examples": [
+              "this instrument is an ancestor of the lute"
+            ],
+            "synonyms": [
+              "forerunner",
+              "precursor",
+              "predecessor \"the instrument is an ancestor of the lute\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

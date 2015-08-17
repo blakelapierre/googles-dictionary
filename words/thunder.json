@@ -1,0 +1,133 @@
+[
+  {
+    "word": "thunder",
+    "syllables": [
+      "thun",
+      "der"
+    ],
+    "pronunciation": "ˈTHəndər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "thunder"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.",
+            "examples": [
+              "thunderclap, peal of thunder, roll of thunder, rumble of thunder, crack of thunder, crash of thunder; thunderbolt thunder and lightning"
+            ]
+          },
+          {
+            "definition": "a resounding loud deep noise.",
+            "examples": [
+              "you can hear the thunder of the falls in the distance"
+            ],
+            "synonyms": [
+              "rumble",
+              "rumbling",
+              "boom",
+              "booming",
+              "roar",
+              "roaring",
+              "pounding",
+              "thud",
+              "thudding",
+              "crash",
+              "crashing",
+              "reverberation More\"the ceaseless thunder of the traffic\"rumble",
+              "boom",
+              "roar",
+              "pound",
+              "thud",
+              "thump",
+              "bang; resound",
+              "reverberate",
+              "beat \"below me the surf thrashed and thundered\""
+            ]
+          },
+          {
+            "definition": "used in similes and comparisons to refer to an angry facial expression or tone of voice.",
+            "examples": [
+              "“I am Brother Joachim,” he announced in a voice like thunder"
+            ]
+          },
+          {
+            "definition": "used to express anger, annoyance, or incredulity.",
+            "examples": [
+              "exclamation: thunder"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "thunder"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "thunders"
+          },
+          {
+            "part": "past tense",
+            "variant": "thundered"
+          },
+          {
+            "part": "past participle",
+            "variant": "thundered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "thundering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "thunder sounds.",
+            "examples": [
+              "it began to thunder"
+            ]
+          },
+          {
+            "definition": "make a loud, deep resounding noise.",
+            "examples": [
+              "the motorcycle thundered into life"
+            ]
+          },
+          {
+            "definition": "strike powerfully.",
+            "examples": [
+              "McGwire thundered that one out of the stadium"
+            ]
+          },
+          {
+            "definition": "speak loudly and forcefully or angrily, especially to denounce or criticize.",
+            "examples": [
+              "he thundered against the evils of the age"
+            ],
+            "synonyms": [
+              "rail against",
+              "fulminate against",
+              "inveigh against",
+              "rage against/about",
+              "rant about; Morecondemn",
+              "denounce \"she thundered against the evils of the age\"roar",
+              "bellow",
+              "bark",
+              "yell",
+              "shout",
+              "bawl; informalholler \"“Answer me!” he thundered\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "word": "blossom",
+    "syllables": [
+      "blos",
+      "som"
+    ],
+    "pronunciation": "ˈbläsəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "blossoms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flower or a mass of flowers on a tree or bush.",
+            "examples": [
+              "tiny white blossoms"
+            ],
+            "synonyms": [
+              "flower",
+              "bloom",
+              "floweret",
+              "floret \"pink blossoms\""
+            ]
+          },
+          {
+            "definition": "the state or period of flowering.",
+            "examples": [
+              "fruit trees in blossom"
+            ],
+            "synonyms": [
+              "in flower",
+              "flowering",
+              "blossoming",
+              "blooming",
+              "in (full) bloom",
+              "abloom",
+              "open",
+              "out; formalinflorescent \"the cactus is in blossom\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "blossoms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a tree or bush) produce flowers or masses of flowers.",
+            "examples": [
+              "the mango trees have shed their fruit and blossomed again"
+            ],
+            "synonyms": [
+              "flower",
+              "bloom",
+              "floweret",
+              "floret More\"pink blossoms\"bloom",
+              "flower",
+              "open",
+              "unfold; mature \"the trilliums have blossomed\"in flower",
+              "flowering",
+              "blossoming",
+              "blooming",
+              "in (full) bloom",
+              "abloom",
+              "open",
+              "out; formalinflorescent \"the cactus is in blossom\""
+            ],
+            "antonyms": [
+              "fade"
+            ]
+          },
+          {
+            "definition": "mature or develop in a promising or healthy way.",
+            "examples": [
+              "their friendship blossomed into romance"
+            ],
+            "synonyms": [
+              "develop",
+              "grow",
+              "mature",
+              "progress",
+              "evolve; Moreflourish",
+              "thrive",
+              "prosper",
+              "bloom",
+              "burgeon \"the whole region had blossomed\""
+            ],
+            "antonyms": [
+              "decline"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

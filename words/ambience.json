@@ -1,0 +1,68 @@
+[
+  {
+    "word": "ambience",
+    "syllables": [
+      "am",
+      "bi",
+      "ence"
+    ],
+    "pronunciation": "ˈambēəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "ambience"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ambiences"
+          },
+          {
+            "part": "noun",
+            "variant": "ambiance"
+          },
+          {
+            "part": "plural noun",
+            "variant": "ambiances"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the character and atmosphere of a place.",
+            "examples": [
+              "the relaxed ambience of the cocktail lounge is popular with guests"
+            ],
+            "synonyms": [
+              "atmosphere",
+              "air",
+              "aura",
+              "climate",
+              "mood",
+              "feel",
+              "feeling",
+              "character",
+              "quality",
+              "impression",
+              "complexion",
+              "flavor",
+              "look",
+              "tone",
+              "tenor; Moresetting",
+              "milieu",
+              "background",
+              "backdrop",
+              "element; environment",
+              "conditions",
+              "situation; informalvibe(s) \"candlelight creates a certain ambience\""
+            ]
+          },
+          {
+            "definition": "background noise added to a musical recording to give the impression that it was recorded live."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "word": "delight",
+    "syllables": [
+      "de",
+      "light"
+    ],
+    "pronunciation": "dəˈlīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "delight"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "delights"
+          },
+          {
+            "part": "past tense",
+            "variant": "delighted"
+          },
+          {
+            "part": "past participle",
+            "variant": "delighted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "delighting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "please (someone) greatly.",
+            "examples": [
+              "an experience guaranteed to delight both young and old"
+            ],
+            "synonyms": [
+              "please greatly",
+              "charm",
+              "enchant",
+              "captivate",
+              "entrance",
+              "thrill; Moregladden",
+              "gratify",
+              "appeal to; entertain",
+              "amuse",
+              "divert; informalsend",
+              "tickle pink",
+              "bowl over \"her manners delighted him\""
+            ],
+            "antonyms": [
+              "dismay",
+              "disgust",
+              "displease"
+            ]
+          },
+          {
+            "definition": "take great pleasure in.",
+            "examples": [
+              "they delight in playing tricks"
+            ],
+            "synonyms": [
+              "take pleasure in",
+              "revel in",
+              "luxuriate in",
+              "wallow in",
+              "glory in; Moreadore",
+              "love",
+              "relish",
+              "savor",
+              "lap up; informalget a kick out of",
+              "get a thrill out of",
+              "get a charge out of",
+              "dig \"Meg delighted in his touch\""
+            ],
+            "antonyms": [
+              "loathe",
+              "dislike"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "delight"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "great pleasure.",
+            "examples": [
+              "she took great delight in telling your story"
+            ],
+            "synonyms": [
+              "pleasure",
+              "happiness",
+              "joy",
+              "glee",
+              "gladness; Moreexcitement",
+              "amusement; bliss",
+              "rapture",
+              "elation",
+              "euphoria \"she squealed with delight\""
+            ],
+            "antonyms": [
+              "displeasure"
+            ]
+          },
+          {
+            "definition": "a cause or source of great pleasure.",
+            "examples": [
+              "plural noun: delights"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

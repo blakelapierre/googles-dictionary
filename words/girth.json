@@ -1,0 +1,77 @@
+[
+  {
+    "word": "girth",
+    "syllables": [
+      "girth"
+    ],
+    "pronunciation": "ɡərTH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "girth"
+          },
+          {
+            "part": "plural noun",
+            "variant": "girths"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the measurement around the middle of something, especially a person's waist.",
+            "examples": [
+              "circumference, perimeter; Morewidth, breadth \"a tree ten feet in girth\"Morewidth, breadth a tree ten feet in girth"
+            ]
+          },
+          {
+            "definition": "a person's middle or stomach, especially when large.",
+            "examples": [
+              "stomach, midriff, middle, abdomen, belly, gut; Moreinformaltummy, tum \"he tied the towel around his girth\"Moretummy, tum he tied the towel around his girth"
+            ]
+          },
+          {
+            "definition": "a band attached to a saddle, used to secure it on a horse by being fastened around its belly.",
+            "examples": [
+              "cinch a horse's girth"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "girth"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "girths"
+          },
+          {
+            "part": "past tense",
+            "variant": "girthed"
+          },
+          {
+            "part": "past participle",
+            "variant": "girthed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "girthing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "surround; encircle.",
+            "examples": [
+              "the four seas that girth Britain"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

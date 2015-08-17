@@ -1,0 +1,305 @@
+[
+  {
+    "word": "blown",
+    "syllables": [
+      "blown"
+    ],
+    "pronunciation": "blōn",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "blown"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a vehicle or its engine) provided with a turbocharger."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "blown",
+    "syllables": [
+      "blown"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "blow",
+    "syllables": [
+      "blow"
+    ],
+    "pronunciation": "blō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "blown"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of wind) move creating an air current.",
+            "examples": [
+              "a cold wind began to blow"
+            ],
+            "synonyms": [
+              "gust",
+              "bluster",
+              "puff",
+              "blast",
+              "roar",
+              "rush",
+              "storm \"the icy wind blew around us\""
+            ]
+          },
+          {
+            "definition": "(of wind) cause to move; propel.",
+            "examples": [
+              "a gust of wind blew a cloud of smoke into his face"
+            ],
+            "synonyms": [
+              "sweep",
+              "carry",
+              "toss",
+              "drive",
+              "push",
+              "force \"his ship was blown on to the rocks\""
+            ]
+          },
+          {
+            "definition": "be carried, driven, or moved by the wind or an air current.",
+            "examples": [
+              "it was so windy that the tent nearly blew away"
+            ],
+            "synonyms": [
+              "drift",
+              "flutter",
+              "waft",
+              "float",
+              "glide",
+              "whirl",
+              "move \"leaves blew across the road\""
+            ]
+          },
+          {
+            "definition": "leave (a place).",
+            "examples": [
+              "I'm ready to blow town"
+            ]
+          },
+          {
+            "definition": "(of a person) expel air through pursed lips.",
+            "examples": [
+              "Willie took a deep breath, and blew"
+            ]
+          },
+          {
+            "definition": "use one's breath to propel.",
+            "examples": [
+              "he blew cigar smoke in her face"
+            ],
+            "synonyms": [
+              "exhale",
+              "puff",
+              "breathe out; Moreemit",
+              "expel",
+              "discharge",
+              "issue \"he blew a smoke ring\""
+            ]
+          },
+          {
+            "definition": "breathe hard; pant.",
+            "examples": [
+              "Uncle Albert was soon puffing and blowing"
+            ]
+          },
+          {
+            "definition": "cause to breathe hard; exhaust of breath.",
+            "examples": [
+              "adjective: blown"
+            ]
+          },
+          {
+            "definition": "(of a person) force air through the mouth into (an instrument) in order to make a sound.",
+            "examples": [
+              "the umpire blew his whistle"
+            ],
+            "synonyms": [
+              "sound",
+              "blast",
+              "toot",
+              "pipe",
+              "trumpet; play \"he blew a trumpet\""
+            ]
+          },
+          {
+            "definition": "(of such an instrument) make a noise by having air forced through it.",
+            "examples": [
+              "police whistles blew"
+            ]
+          },
+          {
+            "definition": "sound (the horn of a vehicle)."
+          },
+          {
+            "definition": "play jazz or rock music in an unrestrained style.",
+            "examples": [
+              "it took him maybe five choruses to warm up, but then he could really blow"
+            ]
+          },
+          {
+            "definition": "force air through a tube into (molten glass) in order to create an artifact."
+          },
+          {
+            "definition": "remove the contents of (an egg) by forcing air through it."
+          },
+          {
+            "definition": "(of flies) lay eggs in or on something.",
+            "examples": [
+              "to repel the hordes of flies that would otherwise blow on the buffalo hide"
+            ]
+          },
+          {
+            "definition": "(of a whale) eject air and vapor through the blowhole."
+          },
+          {
+            "definition": "(of an explosion or explosive device) displace violently or send flying.",
+            "examples": [
+              "the blast had blown the windows out of the van"
+            ]
+          },
+          {
+            "definition": "(of a vehicle tire) burst suddenly while the vehicle is in motion."
+          },
+          {
+            "definition": "burst or cause to burst due to pressure or overheating.",
+            "examples": [
+              "the engines sounded as if their exhausts had blown"
+            ],
+            "synonyms": [
+              "burst",
+              "explode",
+              "blow out",
+              "split",
+              "rupture",
+              "puncture \"a rear tire had blown\""
+            ]
+          },
+          {
+            "definition": "(of an electrical circuit) burn out or cause to burn out through overloading.",
+            "examples": [
+              "the fuse in the plug had blown"
+            ]
+          },
+          {
+            "definition": "spend recklessly.",
+            "examples": [
+              "they blew $100,000 in just eighteen months"
+            ],
+            "synonyms": [
+              "squander",
+              "waste",
+              "misspend",
+              "throw away",
+              "fritter away",
+              "go through",
+              "lose",
+              "lavish",
+              "dissipate",
+              "use up; Morespend recklessly; informalsplurge \"he blew his money on gambling\""
+            ]
+          },
+          {
+            "definition": "completely lose or miss (an opportunity).",
+            "examples": [
+              "the wider issues were to show that politicians had blown it"
+            ],
+            "synonyms": [
+              "spoil",
+              "ruin",
+              "bungle",
+              "mess up",
+              "fudge",
+              "muff; Morewaste",
+              "lose",
+              "squander; informalbotch",
+              "screw up",
+              "foul up \"don't blow this opportunity\""
+            ]
+          },
+          {
+            "definition": "expose (a stratagem).",
+            "examples": [
+              "a man whose cover was blown"
+            ],
+            "synonyms": [
+              "expose",
+              "reveal",
+              "uncover",
+              "disclose",
+              "divulge",
+              "unveil",
+              "betray",
+              "leak \"his cover was blown\""
+            ]
+          },
+          {
+            "definition": "damn.",
+            "examples": [
+              "“Well, blow me ,” he said, “I never knew that”"
+            ]
+          },
+          {
+            "definition": "perform fellatio."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "blow",
+    "syllables": [
+      "blow"
+    ],
+    "pronunciation": "blō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "blown"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "produce flowers or be in flower.",
+            "examples": [
+              "I know a bank where the wild thyme blows"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

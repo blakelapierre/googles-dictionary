@@ -1,0 +1,50 @@
+[
+  {
+    "word": "discount",
+    "syllables": [
+      "dis",
+      "count"
+    ],
+    "pronunciation": "ˈdiskountˌdisˈkount",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "discounts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a deduction from the usual cost of something, typically given for prompt or advance payment or to a special category of buyers.",
+            "examples": [
+              "many stores will offer a discount on bulk purchases"
+            ],
+            "synonyms": [
+              "reduction",
+              "deduction",
+              "markdown",
+              "price cut",
+              "cut",
+              "rebate \"students get a 10 percent discount\""
+            ]
+          },
+          {
+            "definition": "a percentage deducted from the face value of a bill of exchange or promissory note when it changes hands before the due date."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "discounts"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

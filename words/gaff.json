@@ -1,0 +1,122 @@
+[
+  {
+    "word": "gaff",
+    "syllables": [
+      "gaff"
+    ],
+    "pronunciation": "ɡaf",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gaff"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gaffs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a stick with a hook, or a barbed spear, for landing large fish."
+          },
+          {
+            "definition": "a spar to which the head of a fore-and-aft sail is bent."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "gaff"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "gaffs"
+          },
+          {
+            "part": "past tense",
+            "variant": "gaffed"
+          },
+          {
+            "part": "past participle",
+            "variant": "gaffed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "gaffing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "seize or impale with a gaff."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gaff",
+    "syllables": [
+      "gaff"
+    ],
+    "pronunciation": "ɡaf",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gaff"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gaffs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "rough treatment; criticism.",
+            "examples": [
+              "if wages increase, perhaps we can stand the gaff"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gaff",
+    "syllables": [
+      "gaff"
+    ],
+    "pronunciation": "ɡaf",
+    "parts": [
+      {
+        "part": "nounBritishinformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "gaff"
+          },
+          {
+            "part": "plural noun",
+            "variant": "gaffs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a house, apartment, or other building, especially as being a person's home.",
+            "examples": [
+              "John's new gaff is on McDonald Road"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

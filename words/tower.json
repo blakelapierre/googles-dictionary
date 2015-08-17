@@ -1,0 +1,102 @@
+[
+  {
+    "word": "tower",
+    "syllables": [
+      "tow",
+      "er"
+    ],
+    "pronunciation": "ˈtou(ə)r",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tower"
+          },
+          {
+            "part": "plural noun",
+            "variant": "towers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tall narrow building, either freestanding or forming part of a building such as a church or castle.",
+            "examples": [
+              "steeple, spire; Moreminaret; turret; bell tower, belfry, campanile; skyscraper, high-rise, edifice; transmission tower \"a church tower\"Moreminaret; turret; bell tower, belfry, campanile; skyscraper, high-rise, edifice; transmission tower a church tower"
+            ]
+          },
+          {
+            "definition": "a tall structure that houses machinery, operators, etc."
+          },
+          {
+            "definition": "a tall structure used as a receptacle or for storage.",
+            "examples": [
+              "a CD tower"
+            ]
+          },
+          {
+            "definition": "a tall pile or mass of something.",
+            "examples": [
+              "a titanic tower of garbage"
+            ]
+          },
+          {
+            "definition": "see Tower of London.",
+            "examples": [
+              "noun: the Tower"
+            ]
+          },
+          {
+            "definition": "a place of defense; a protection."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tower"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "towers"
+          },
+          {
+            "part": "past tense",
+            "variant": "towered"
+          },
+          {
+            "part": "past participle",
+            "variant": "towered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "towering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "rise to or reach a great height.",
+            "examples": [
+              "he seemed to tower over everyone else"
+            ],
+            "synonyms": [
+              "soar",
+              "rise",
+              "rear",
+              "loom; Moreovershadow",
+              "overhang",
+              "hang over",
+              "dominate \"snow-capped peaks towered over the valley\""
+            ]
+          },
+          {
+            "definition": "(of a bird) soar to a great height, especially (of a falcon) so as to be able to swoop down on the quarry."
+          }
+        ]
+      }
+    ]
+  }
+]

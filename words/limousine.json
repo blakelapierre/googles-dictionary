@@ -1,0 +1,34 @@
+[
+  {
+    "word": "limousine",
+    "syllables": [
+      "lim",
+      "ou",
+      "sine"
+    ],
+    "pronunciation": "ˈliməˌzēnˌliməˈzēn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "limousine"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limousines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large, luxurious automobile, especially one driven by a chauffeur who is separated from the passengers by a partition."
+          },
+          {
+            "definition": "a passenger vehicle carrying people to and from an airport."
+          }
+        ]
+      }
+    ]
+  }
+]

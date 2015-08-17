@@ -1,0 +1,110 @@
+[
+  {
+    "word": "honor",
+    "syllables": [
+      "hon",
+      "or"
+    ],
+    "pronunciation": "ˈänər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "honored"
+          },
+          {
+            "part": "past participle",
+            "variant": "honored"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "regard with great respect.",
+            "examples": [
+              "Joyce has now learned to honor her father's memory"
+            ],
+            "synonyms": [
+              "esteem",
+              "respect",
+              "admire",
+              "defer to",
+              "look up to; Moreappreciate",
+              "value",
+              "cherish",
+              "adore; reverence",
+              "revere",
+              "venerate",
+              "worship; informalput on a pedestal \"we should honor our parents\""
+            ],
+            "antonyms": [
+              "disrespect"
+            ]
+          },
+          {
+            "definition": "pay public respect to.",
+            "examples": [
+              "talented writers were honored at a special ceremony"
+            ],
+            "synonyms": [
+              "applaud",
+              "acclaim",
+              "praise",
+              "salute",
+              "recognize",
+              "celebrate",
+              "commemorate",
+              "commend",
+              "hail",
+              "lionize",
+              "exalt",
+              "eulogize",
+              "pay homage to",
+              "pay tribute to",
+              "sing the praises of; formallaud \"they were honored at a special ceremony\""
+            ],
+            "antonyms": [
+              "disgrace",
+              "criticize"
+            ]
+          },
+          {
+            "definition": "fulfill (an obligation) or keep (an agreement).",
+            "examples": [
+              "make sure the franchisees honor the terms of the contract"
+            ],
+            "synonyms": [
+              "fulfill",
+              "observe",
+              "keep",
+              "obey",
+              "heed",
+              "follow",
+              "carry out",
+              "discharge",
+              "implement",
+              "execute",
+              "effect; Morekeep to",
+              "abide by",
+              "adhere to",
+              "comply with",
+              "conform to",
+              "be true to",
+              "live up to \"he honored the contract\""
+            ],
+            "antonyms": [
+              "disobey"
+            ]
+          },
+          {
+            "definition": "accept (a bill) or pay (a check) when due.",
+            "examples": [
+              "the bank informed him that the check would not be honored"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

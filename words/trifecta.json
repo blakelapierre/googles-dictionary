@@ -1,0 +1,37 @@
+[
+  {
+    "word": "trifecta",
+    "syllables": [
+      "tri",
+      "fect",
+      "a"
+    ],
+    "pronunciation": "trīˈfektə",
+    "parts": [
+      {
+        "part": "nounNorth AmericanAustralian/New Zealand",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "trifecta"
+          },
+          {
+            "part": "plural noun",
+            "variant": "trifectas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a bet in which the person betting forecasts the first three finishers in a race in the correct order."
+          },
+          {
+            "definition": "a run of three wins or grand events.",
+            "examples": [
+              "today is a trifecta of birthdays"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

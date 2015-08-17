@@ -1,0 +1,111 @@
+[
+  {
+    "word": "exceeding",
+    "syllables": [
+      "ex",
+      "ceed",
+      "ing"
+    ],
+    "pronunciation": "ikˈsēdiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "exceeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very great.",
+            "examples": [
+              "she spoke warmly of his exceeding kindness"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "exceeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extremely; exceedingly.",
+            "examples": [
+              "an ale of exceeding poor quality"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "exceed",
+    "syllables": [
+      "ex",
+      "ceed"
+    ],
+    "pronunciation": "ikˈsēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "exceeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be greater in number or size than (a quantity, number, or other measurable thing).",
+            "examples": [
+              "production costs have exceeded $60,000"
+            ]
+          },
+          {
+            "definition": "go beyond what is allowed or stipulated by (a set limit, especially of one's authority).",
+            "examples": [
+              "the Tribunal's decision clearly exceeds its powers under the statute"
+            ],
+            "synonyms": [
+              "be more than",
+              "be greater than",
+              "be over",
+              "go beyond",
+              "overreach",
+              "top \"the cost will exceed $400\""
+            ]
+          },
+          {
+            "definition": "be better than; surpass.",
+            "examples": [
+              "catalog sales have exceeded expectations"
+            ],
+            "synonyms": [
+              "surpass",
+              "outdo",
+              "outstrip",
+              "outshine",
+              "outclass",
+              "transcend",
+              "top",
+              "cap",
+              "beat",
+              "excel",
+              "better",
+              "eclipse",
+              "overshadow; Moreinformalbest",
+              "leave standing",
+              "be head and shoulders above \"Brazil exceeds the U.S. in fertile land\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "word": "jet",
+    "syllables": [
+      "jet"
+    ],
+    "pronunciation": "jet",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "jets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rapid stream of liquid or gas forced out of a small opening.",
+            "examples": [
+              "a high-pressure shower with pulsating jets"
+            ],
+            "synonyms": [
+              "stream",
+              "spurt",
+              "squirt",
+              "spray",
+              "spout; Moregush",
+              "rush",
+              "surge",
+              "burst \"a jet of water\""
+            ]
+          },
+          {
+            "definition": "a nozzle or narrow opening for sending out a jet of liquid or gas.",
+            "examples": [
+              "Agnes turned up the gas jet"
+            ]
+          },
+          {
+            "definition": "an aircraft powered by one or more jet engines.",
+            "examples": [
+              "a private jet"
+            ],
+            "synonyms": [
+              "jet plane",
+              "jetliner; Moreaircraft",
+              "plane",
+              "jumbo jet \"an executive jet\""
+            ]
+          },
+          {
+            "definition": "a jet engine."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "jet"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "jets"
+          },
+          {
+            "part": "past tense",
+            "variant": "jetted"
+          },
+          {
+            "part": "past participle",
+            "variant": "jetted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "jetting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "travel by jet aircraft.",
+            "examples": [
+              "the newlyweds jetted off for a honeymoon in New York"
+            ]
+          },
+          {
+            "definition": "spurt out in jets.",
+            "examples": [
+              "blood jetted from his nostrils"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jet",
+    "syllables": [
+      "jet"
+    ],
+    "pronunciation": "jet",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "jet"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hard black semiprecious variety of lignite, capable of being carved and highly polished."
+          },
+          {
+            "definition": "a glossy black color.",
+            "examples": [
+              "noun: jet black; adjective: jet-black; plural noun: jet blacks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

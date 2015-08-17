@@ -1,0 +1,132 @@
+[
+  {
+    "word": "evening",
+    "syllables": [
+      "eve",
+      "ning"
+    ],
+    "pronunciation": "ˈēvniNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "evening"
+          },
+          {
+            "part": "plural noun",
+            "variant": "evenings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+            "examples": [
+              "it was seven o'clock in the evening"
+            ],
+            "synonyms": [
+              "night",
+              "late afternoon",
+              "end of day",
+              "close of day; Moretwilight",
+              "dusk",
+              "nightfall",
+              "sunset",
+              "sundown; literaryeve",
+              "eventide",
+              "evenfall",
+              "gloaming \"they met in town nearly every evening\""
+            ]
+          },
+          {
+            "definition": "evening characterized by a specified type of activity or particular weather conditions.",
+            "examples": [
+              "they could have a relaxing evening"
+            ]
+          },
+          {
+            "definition": "prescribed by fashion as suitable for relatively formal social events held in the evening.",
+            "examples": [
+              "modifier noun: evening"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverbinformal",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "evenings"
+          },
+          {
+            "part": "adverb",
+            "variant": "evening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in the evening; every evening.",
+            "examples": [
+              "Saturday evenings he invariably fell asleep"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamationinformal",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "evening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for good evening."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "even",
+    "syllables": [
+      "e",
+      "ven"
+    ],
+    "pronunciation": "ˈēvən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "evening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become even.",
+            "examples": [
+              "she cut the hair again to even up the ends"
+            ],
+            "synonyms": [
+              "flatten",
+              "level (off/out)",
+              "smooth (off/out)",
+              "plane; Moremake uniform",
+              "make regular \"the canal bottom was evened out\"equalize",
+              "make equal",
+              "balance",
+              "square; standardize",
+              "regularize",
+              "homogenize \"even up the portions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

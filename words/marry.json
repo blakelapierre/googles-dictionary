@@ -1,0 +1,158 @@
+[
+  {
+    "word": "marry",
+    "syllables": [
+      "mar",
+      "ry"
+    ],
+    "pronunciation": "ˈmerē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "marry"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "marries"
+          },
+          {
+            "part": "past tense",
+            "variant": "married"
+          },
+          {
+            "part": "past participle",
+            "variant": "married"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "marrying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "join in marriage.",
+            "examples": [
+              "I was married in church"
+            ],
+            "synonyms": [
+              "get/be married",
+              "wed",
+              "be wed",
+              "become man and wife; Moreinformaltie the knot",
+              "walk down the aisle",
+              "take the plunge",
+              "get spliced",
+              "get hitched",
+              "say “I do”; datedplight/pledge one's troth \"the couple married last year\""
+            ]
+          },
+          {
+            "definition": "take (someone) as one's wife or husband in marriage.",
+            "examples": [
+              "Eric asked me to marry him"
+            ],
+            "synonyms": [
+              "wed; Moreinformalmake an honest woman of; archaicespouse \"John wanted to marry her\""
+            ],
+            "antonyms": [
+              "divorce"
+            ]
+          },
+          {
+            "definition": "enter into marriage.",
+            "examples": [
+              "they had no plans to marry"
+            ],
+            "synonyms": [
+              "join",
+              "unite",
+              "combine",
+              "fuse",
+              "mix",
+              "blend",
+              "merge",
+              "amalgamate",
+              "link",
+              "connect",
+              "couple",
+              "knit",
+              "yoke \"the show marries poetry with art\""
+            ],
+            "antonyms": [
+              "separate"
+            ]
+          },
+          {
+            "definition": "become a member of (a family) by marriage."
+          },
+          {
+            "definition": "(of a parent or guardian) give (a son or daughter) in marriage, especially for reasons of expediency.",
+            "examples": [
+              "her parents married her to a wealthy landowner"
+            ],
+            "synonyms": [
+              "join",
+              "unite",
+              "combine",
+              "fuse",
+              "mix",
+              "blend",
+              "merge",
+              "amalgamate",
+              "link",
+              "connect",
+              "couple",
+              "knit",
+              "yoke \"the show marries poetry with art\""
+            ],
+            "antonyms": [
+              "separate"
+            ]
+          },
+          {
+            "definition": "cause to meet or fit together; combine.",
+            "examples": [
+              "the two halves are trimmed and married up"
+            ]
+          },
+          {
+            "definition": "meet or blend with something.",
+            "examples": [
+              "most Chardonnays don't marry well with salmon"
+            ]
+          },
+          {
+            "definition": "splice (ropes) end to end without increasing their girth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marry",
+    "syllables": [
+      "mar",
+      "ry"
+    ],
+    "pronunciation": "ˈmerē",
+    "parts": [
+      {
+        "part": "exclamationarchaic",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "marry"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing surprise, indignation, or emphatic assertion."
+          }
+        ]
+      }
+    ]
+  }
+]

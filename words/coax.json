@@ -1,0 +1,109 @@
+[
+  {
+    "word": "coax",
+    "syllables": [
+      "coax"
+    ],
+    "pronunciation": "kōks",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "coax"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "coaxes"
+          },
+          {
+            "part": "past tense",
+            "variant": "coaxed"
+          },
+          {
+            "part": "past participle",
+            "variant": "coaxed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "coaxing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "persuade (someone) gradually or by flattery to do something.",
+            "examples": [
+              "the trainees were coaxed into doing hard, boring work"
+            ],
+            "synonyms": [
+              "persuade",
+              "wheedle",
+              "cajole",
+              "get around; Morebeguile",
+              "seduce",
+              "inveigle",
+              "maneuver; informalsweet-talk",
+              "soft-soap",
+              "butter up",
+              "twist someone's arm \"you have to coax some of the children to speak\""
+            ]
+          },
+          {
+            "definition": "use flattery or gradual persuasion to obtain something from.",
+            "examples": [
+              "we coaxed money out of my father"
+            ]
+          },
+          {
+            "definition": "manipulate (something) carefully into a particular shape or position.",
+            "examples": [
+              "her lovely hair had been coaxed into ringlets"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "coax",
+    "syllables": [
+      "co",
+      "ax"
+    ],
+    "pronunciation": "ˈkōaks",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "coax"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "coaxial cable."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "coax"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "coaxial.",
+            "examples": [
+              "coax connectors"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

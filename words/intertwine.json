@@ -1,0 +1,65 @@
+[
+  {
+    "word": "intertwine",
+    "syllables": [
+      "in",
+      "ter",
+      "twine"
+    ],
+    "pronunciation": "ˌin(t)ərˈtwīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "intertwine"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "intertwines"
+          },
+          {
+            "part": "past tense",
+            "variant": "intertwined"
+          },
+          {
+            "part": "past participle",
+            "variant": "intertwined"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "intertwining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "twist or twine together.",
+            "examples": [
+              "a net made of cotton intertwined with other natural fibers"
+            ],
+            "synonyms": [
+              "entwine",
+              "interweave",
+              "interlace",
+              "twist",
+              "braid",
+              "plait",
+              "splice",
+              "knit",
+              "weave",
+              "mesh \"a wreath of laurel",
+              "intertwined with daffodils\""
+            ]
+          },
+          {
+            "definition": "connect or link (two or more things) closely.",
+            "examples": [
+              "Dickens has been very clever to intertwine all these aspects and ideas"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

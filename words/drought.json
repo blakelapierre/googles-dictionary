@@ -1,0 +1,41 @@
+[
+  {
+    "word": "drought",
+    "syllables": [
+      "drought"
+    ],
+    "pronunciation": "drout",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "drought"
+          },
+          {
+            "part": "plural noun",
+            "variant": "droughts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a prolonged period of abnormally low rainfall; a shortage of water resulting from this.",
+            "examples": [
+              "dry spell, lack of rain, shortage of water this year's drought was devastating to cotton growers"
+            ]
+          },
+          {
+            "definition": "a prolonged absence of something specified.",
+            "examples": [
+              "he ended a five-game hitting drought"
+            ]
+          },
+          {
+            "definition": "thirst."
+          }
+        ]
+      }
+    ]
+  }
+]

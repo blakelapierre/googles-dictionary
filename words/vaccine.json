@@ -1,0 +1,36 @@
+[
+  {
+    "word": "vaccine",
+    "syllables": [
+      "vac",
+      "cine"
+    ],
+    "pronunciation": "vakˈsēn",
+    "parts": [
+      {
+        "part": "nounMedicine",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vaccine"
+          },
+          {
+            "part": "plural noun",
+            "variant": "vaccines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance used to stimulate the production of antibodies and provide immunity against one or several diseases, prepared from the causative agent of a disease, its products, or a synthetic substitute, treated to act as an antigen without inducing the disease.",
+            "examples": [
+              "there is no vaccine against HIV infection"
+            ]
+          },
+          {
+            "definition": "a program designed to detect computer viruses and inactivate them."
+          }
+        ]
+      }
+    ]
+  }
+]

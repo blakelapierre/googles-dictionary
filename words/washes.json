@@ -1,0 +1,253 @@
+[
+  {
+    "word": "wash",
+    "syllables": [
+      "wash"
+    ],
+    "pronunciation": "wäSHwôSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "washes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clean with water and, typically, soap or detergent.",
+            "examples": [
+              "I stripped and washed myself all over"
+            ],
+            "synonyms": [
+              "clean",
+              "cleanse",
+              "rinse",
+              "launder",
+              "scour; Moreshampoo",
+              "lather",
+              "sponge",
+              "scrub",
+              "wipe; sluice",
+              "douse",
+              "swab",
+              "disinfect; literarylave \"he washed her socks\""
+            ],
+            "antonyms": [
+              "soil"
+            ]
+          },
+          {
+            "definition": "clean oneself, especially one's hands and face with soap and water.",
+            "examples": [
+              "clean oneself; Morebathe, take a bath, shower, soak, freshen up; formalperform one's ablutions \"he is washing in the guest bathroom\"Morebathe, take a bath, shower, soak, freshen up; perform one's ablutions he is washing in the guest bathroom"
+            ]
+          },
+          {
+            "definition": "(with reference to a stain or dirt) remove or be removed by cleaning with water and detergent.",
+            "examples": [
+              "they have to keep washing the mold off the walls"
+            ]
+          },
+          {
+            "definition": "(of fabric, a garment, or dye) withstand cleaning to a specified degree without shrinking or fading.",
+            "examples": [
+              "a linen-mix yarn that washes well"
+            ]
+          },
+          {
+            "definition": "do one's laundry.",
+            "examples": [
+              "I need someone to cook and wash for me"
+            ]
+          },
+          {
+            "definition": "wet or moisten (something) thoroughly.",
+            "examples": [
+              "you are beautiful with your face washed with rain"
+            ]
+          },
+          {
+            "definition": "(of flowing water) carry (someone or something) in a particular direction.",
+            "examples": [
+              "floods washed away the bridges"
+            ],
+            "synonyms": [
+              "sweep",
+              "carry",
+              "convey",
+              "transport \"the wreckage was washed downriver\""
+            ]
+          },
+          {
+            "definition": "be carried by flowing water.",
+            "examples": [
+              "an oil slick washed up on the beaches"
+            ],
+            "synonyms": [
+              "land",
+              "come to rest",
+              "be deposited",
+              "be beached \"it washed up on my front lawn\""
+            ]
+          },
+          {
+            "definition": "(especially of waves) sweep, move, or splash in a particular direction.",
+            "examples": [
+              "the sea began to wash along the decks"
+            ],
+            "synonyms": [
+              "splash",
+              "lap",
+              "splosh",
+              "dash",
+              "crash",
+              "break",
+              "beat",
+              "surge",
+              "ripple",
+              "roll \"waves washed against the hull\""
+            ]
+          },
+          {
+            "definition": "(of a river, sea, or lake) flow through or lap against (a country, coast, etc.).",
+            "examples": [
+              "offshore islands washed by warm blue seas"
+            ]
+          },
+          {
+            "definition": "sift metallic particles from (earth or gravel) by running water through it."
+          },
+          {
+            "definition": "brush with a thin coat of diluted paint or ink.",
+            "examples": [
+              "the walls were washed with shades of umber"
+            ]
+          },
+          {
+            "definition": "coat inferior metal with (a film of gold or silver from a solution)."
+          },
+          {
+            "definition": "seem convincing or genuine.",
+            "examples": [
+              "charm won't wash with this crew"
+            ],
+            "synonyms": [
+              "be accepted",
+              "be acceptable",
+              "be plausible",
+              "be convincing",
+              "hold up",
+              "hold water",
+              "stand up",
+              "bear scrutiny; do \"this story just won't wash\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "washes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of washing something or an instance of being washed.",
+            "examples": [
+              "clean, shower, dip, bath, soak; ablutions she needs a wash"
+            ]
+          },
+          {
+            "definition": "a quantity of clothes needing to be or just having been washed.",
+            "examples": [
+              "she hung out her Tuesday wash"
+            ],
+            "synonyms": [
+              "laundry",
+              "washing \"that shirt should go in the wash\""
+            ]
+          },
+          {
+            "definition": "a medicinal or cleansing solution.",
+            "examples": [
+              "mouth wash"
+            ],
+            "synonyms": [
+              "lotion",
+              "salve",
+              "preparation",
+              "rinse",
+              "liquid; liniment \"antiseptic skin wash\""
+            ]
+          },
+          {
+            "definition": "the disturbed water or air behind a moving boat or aircraft or the sound made by this.",
+            "examples": [
+              "the wash of a motorboat"
+            ],
+            "synonyms": [
+              "backwash",
+              "wake",
+              "trail",
+              "path \"the wash of the boat\""
+            ]
+          },
+          {
+            "definition": "the surging of water or breaking of waves or the sound made by this.",
+            "examples": [
+              "the wash of waves on the pebbled beach"
+            ],
+            "synonyms": [
+              "surge",
+              "flow",
+              "swell",
+              "sweep",
+              "rise and fall",
+              "roll",
+              "splash \"the wash of the waves on the beach\""
+            ]
+          },
+          {
+            "definition": "a layer of paint or metal spread thinly on a surface.",
+            "examples": [
+              "the walls were covered with a pale lemon wash"
+            ],
+            "synonyms": [
+              "paint",
+              "stain",
+              "film",
+              "coat",
+              "coating; Moretint",
+              "glaze \"a light watercolor wash\""
+            ]
+          },
+          {
+            "definition": "silt or gravel carried by a stream or river and deposited as sediment."
+          },
+          {
+            "definition": "a sandbank exposed only at low tide."
+          },
+          {
+            "definition": "(in the western US) a dry bed of a stream, typically in a ravine, that flows only seasonally."
+          },
+          {
+            "definition": "kitchen slops and other food waste fed to pigs."
+          },
+          {
+            "definition": "malt fermenting in preparation for distillation."
+          },
+          {
+            "definition": "a situation or result that is of no benefit to either of two opposing sides.",
+            "examples": [
+              "the plan's impact on jobs would be a wash, creating as many as it costs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "rental",
+    "syllables": [
+      "ren",
+      "tal"
+    ],
+    "pronunciation": "ˈren(t)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rental"
+          },
+          {
+            "part": "plural noun",
+            "variant": "rentals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an amount paid or received as rent."
+          },
+          {
+            "definition": "the action of renting something.",
+            "examples": [
+              "the office was on weekly rental"
+            ]
+          },
+          {
+            "definition": "a rented house or car."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "rental"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of, relating to, or available for rent.",
+            "examples": [
+              "rental properties"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

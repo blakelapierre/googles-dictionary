@@ -1,0 +1,127 @@
+[
+  {
+    "word": "judge",
+    "syllables": [
+      "judge"
+    ],
+    "pronunciation": "jəj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "judges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a public official appointed to decide cases in a court of law.",
+            "examples": [
+              "justice, magistrate, sheriff, jurist the judge sentenced him to five years"
+            ]
+          },
+          {
+            "definition": "a person who decides the results of a competition or watches for infractions of the rules.",
+            "examples": [
+              "adjudicator, arbiter, arbitrator, assessor, evaluator, referee, ombudsman, ombudsperson, appraiser, examiner, moderator, mediator a panel of judges will select the winner"
+            ]
+          },
+          {
+            "definition": "a person able or qualified to give an opinion on something.",
+            "examples": [
+              "she was a good judge of character"
+            ],
+            "synonyms": [
+              "adjudicator",
+              "arbiter",
+              "arbitrator",
+              "assessor",
+              "evaluator",
+              "referee",
+              "ombudsman",
+              "ombudsperson",
+              "appraiser",
+              "examiner",
+              "moderator",
+              "mediator \"a panel of judges will select the winner\""
+            ]
+          },
+          {
+            "definition": "a leader having temporary authority in ancient Israel in the period between Joshua and the kings."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "judges"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form an opinion or conclusion about.",
+            "examples": [
+              "scientists were judged according to competence"
+            ],
+            "synonyms": [
+              "form the opinion",
+              "conclude",
+              "decide; Moreconsider",
+              "believe",
+              "think",
+              "deem",
+              "view; deduce",
+              "gather",
+              "infer",
+              "gauge",
+              "estimate",
+              "guess",
+              "surmise",
+              "conjecture; regard as",
+              "look on as",
+              "take to be",
+              "rate as",
+              "class as; informalreckon",
+              "figure \"we judged that it was too late to proceed\""
+            ]
+          },
+          {
+            "definition": "decide (a case) in court.",
+            "examples": [
+              "other cases were judged by tribunal"
+            ],
+            "synonyms": [
+              "try",
+              "hear; Moreadjudicate",
+              "decide",
+              "give a ruling on",
+              "give a verdict on \"the case was judged by a tribunal\""
+            ]
+          },
+          {
+            "definition": "give a verdict on (someone) in court.",
+            "examples": [
+              "she was judged innocent of murder"
+            ],
+            "synonyms": [
+              "adjudge",
+              "pronounce",
+              "decree",
+              "rule",
+              "find \"she was judged innocent of murder\""
+            ]
+          },
+          {
+            "definition": "decide the results of (a competition).",
+            "examples": [
+              "adjudicate, arbitrate, mediate, moderate More\"the competition will be judged by last year's winner\"assess, appraise, evaluate; examine, review \"entries were judged by a panel of experts\"Morethe competition will be judged by last year's winnerassess, appraise, evaluate; examine, review entries were judged by a panel of experts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

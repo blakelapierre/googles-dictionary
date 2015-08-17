@@ -1,0 +1,88 @@
+[
+  {
+    "word": "emerge",
+    "syllables": [
+      "e",
+      "merge"
+    ],
+    "pronunciation": "əˈmərj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "emerge"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "emerges"
+          },
+          {
+            "part": "past tense",
+            "variant": "emerged"
+          },
+          {
+            "part": "past participle",
+            "variant": "emerged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "emerging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move out of or away from something and come into view.",
+            "examples": [
+              "black ravens emerged from the fog"
+            ],
+            "synonyms": [
+              "come out",
+              "appear",
+              "come into view",
+              "become visible",
+              "surface",
+              "materialize",
+              "manifest oneself",
+              "issue",
+              "come forth \"a policeman emerged from the alley\""
+            ]
+          },
+          {
+            "definition": "become apparent, important, or prominent.",
+            "examples": [
+              "Philadelphia has emerged as the clear favorite"
+            ],
+            "synonyms": [
+              "become known",
+              "become apparent",
+              "be revealed",
+              "come to light",
+              "come out",
+              "turn up",
+              "transpire",
+              "unfold",
+              "prove to be the case \"several unexpected facts emerged\""
+            ]
+          },
+          {
+            "definition": "(of facts or circumstances) become known.",
+            "examples": [
+              "reports of a deadlock emerged during preliminary discussions"
+            ]
+          },
+          {
+            "definition": "recover from or survive a difficult or demanding situation.",
+            "examples": [
+              "the economy has started to emerge from recession"
+            ]
+          },
+          {
+            "definition": "(of an insect or other invertebrate) break out from an egg, cocoon, or pupal case."
+          }
+        ]
+      }
+    ]
+  }
+]

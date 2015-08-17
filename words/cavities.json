@@ -1,0 +1,45 @@
+[
+  {
+    "word": "cavity",
+    "syllables": [
+      "cav",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˈkavədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "cavities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an empty space within a solid object, in particular the human body.",
+            "examples": [
+              "the abdominal cavity"
+            ],
+            "synonyms": [
+              "space",
+              "chamber",
+              "hollow",
+              "hole",
+              "pocket",
+              "pouch; Moreorifice",
+              "aperture; socket",
+              "gap",
+              "crater",
+              "pit \"microscopic photos show a surface covered with nodes and cavities\""
+            ]
+          },
+          {
+            "definition": "a decayed part of a tooth."
+          }
+        ]
+      }
+    ]
+  }
+]

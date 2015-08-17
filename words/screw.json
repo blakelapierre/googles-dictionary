@@ -1,0 +1,196 @@
+[
+  {
+    "word": "screw",
+    "syllables": [
+      "screw"
+    ],
+    "pronunciation": "skro͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "screw"
+          },
+          {
+            "part": "plural noun",
+            "variant": "screws"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a short, slender, sharp-pointed metal pin with a raised helical thread running around it and a slotted head, used to join things together by being rotated so that it pierces wood or other material and is held tightly in place.",
+            "examples": [
+              "bolt, fastener; Morenail, pin, tack, spike, rivet, brad \"stainless steel screws\"Morenail, pin, tack, spike, rivet, brad stainless steel screws"
+            ]
+          },
+          {
+            "definition": "a cylinder with a helical ridge or thread running around the outside (a male screw ) that can be turned to seal an opening, apply pressure, adjust position, etc., especially one fitting into a corresponding internally grooved or threaded piece (a female screw )."
+          },
+          {
+            "definition": "an instrument of torture having the action of a screw.",
+            "examples": [
+              "plural noun: the screws"
+            ]
+          },
+          {
+            "definition": "a ship's or aircraft's propeller (considered as acting like a screw in moving through water or air).",
+            "examples": [
+              "noun: screw propeller; plural noun: screw propellers"
+            ],
+            "synonyms": [
+              "propeller",
+              "rotor \"the ship's twin screws\""
+            ]
+          },
+          {
+            "definition": "an act of turning a screw or other object having a thread.",
+            "examples": [
+              "turn, twist, wrench the handle needs a couple of screws to tighten it"
+            ]
+          },
+          {
+            "definition": "another term for draw."
+          },
+          {
+            "definition": "a small twisted-up piece of paper, used as a container for a substance such as salt or tobacco."
+          },
+          {
+            "definition": "a prisoner's derogatory term for a prison guard or warden."
+          },
+          {
+            "definition": "an act of sexual intercourse."
+          },
+          {
+            "definition": "a sexual partner of a specified ability."
+          },
+          {
+            "definition": "an amount of salary or wages.",
+            "examples": [
+              "he's offered me the job with a jolly good screw"
+            ]
+          },
+          {
+            "definition": "a mean or miserly person."
+          },
+          {
+            "definition": "a worn-out horse."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "screw"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "screws"
+          },
+          {
+            "part": "past tense",
+            "variant": "screwed"
+          },
+          {
+            "part": "past participle",
+            "variant": "screwed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "screwing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten or tighten with a screw or screws.",
+            "examples": [
+              "screw the hinge to your new door"
+            ],
+            "synonyms": [
+              "fasten",
+              "secure",
+              "fix",
+              "attach \"the bracket was screwed in place\""
+            ]
+          },
+          {
+            "definition": "rotate (something) so as to fit it into or on to a surface or object by means of a spiral thread.",
+            "examples": [
+              "Philip screwed the top on the flask"
+            ],
+            "synonyms": [
+              "tighten",
+              "turn",
+              "twist",
+              "wind \"he screwed the lid back on the jar\""
+            ]
+          },
+          {
+            "definition": "(of an object) be attached or removed by being rotated in this way.",
+            "examples": [
+              "a connector that screws on to the gas cylinder"
+            ]
+          },
+          {
+            "definition": "turn one's head or body around sharply.",
+            "examples": [
+              "he screwed his head around to try and find the enemy"
+            ]
+          },
+          {
+            "definition": "cheat or swindle (someone), especially by charging them too much for something.",
+            "examples": [
+              "if you do what they tell you, you're screwed"
+            ],
+            "synonyms": [
+              "cheat",
+              "trick",
+              "deceive",
+              "swindle",
+              "con",
+              "scam",
+              "dupe",
+              "fool; Moreinformalrip off",
+              "hose",
+              "gyp",
+              "bamboozle",
+              "stiff \"he realized he had been screwed\""
+            ]
+          },
+          {
+            "definition": "extort or force something, especially money, from (someone) by putting them under strong pressure.",
+            "examples": [
+              "your grandmother screwed cash out of him for ten years"
+            ],
+            "synonyms": [
+              "extort",
+              "force",
+              "extract",
+              "wrest",
+              "wring",
+              "squeeze; informalbleed \"she intended to screw money out of them\""
+            ]
+          },
+          {
+            "definition": "have sexual intercourse with."
+          },
+          {
+            "definition": "(of a couple) have sexual intercourse."
+          },
+          {
+            "definition": "used to express anger or contempt.",
+            "examples": [
+              "Screw him!"
+            ]
+          },
+          {
+            "definition": "another term for draw (sense 8 of the verb)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "word": "violate",
+    "syllables": [
+      "vi",
+      "o",
+      "late"
+    ],
+    "pronunciation": "ˈvīəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "violating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "break or fail to comply with (a rule or formal agreement).",
+            "examples": [
+              "they violated the terms of a ceasefire"
+            ],
+            "synonyms": [
+              "contravene",
+              "breach",
+              "infringe",
+              "break",
+              "transgress",
+              "overstep",
+              "disobey",
+              "defy",
+              "flout; Moredisregard",
+              "ignore",
+              "trample on \"this violates fundamental human rights\""
+            ],
+            "antonyms": [
+              "comply with"
+            ]
+          },
+          {
+            "definition": "fail to respect (someone's peace, privacy, or rights).",
+            "examples": [
+              "they denied that human rights were being violated"
+            ],
+            "synonyms": [
+              "invade",
+              "trespass upon",
+              "encroach upon",
+              "intrude upon; disrespect \"they felt their privacy had been violated\""
+            ],
+            "antonyms": [
+              "respect"
+            ]
+          },
+          {
+            "definition": "treat (something sacred) with irreverence or disrespect.",
+            "examples": [
+              "he was accused of violating a tomb"
+            ],
+            "synonyms": [
+              "desecrate",
+              "profane",
+              "defile",
+              "degrade",
+              "debase; Moredamage",
+              "vandalize",
+              "deface",
+              "destroy \"the tomb was violated\""
+            ]
+          },
+          {
+            "definition": "rape or sexually assault (someone).",
+            "examples": [
+              "rape, sexually assault, assault, force oneself on, abuse, attack, molest, interfere with; Morearchaicdefile, deflower, dishonor, ruin; literaryravish \"he drugged and then violated her\"Moredefile, deflower, dishonor, ruin; ravish he drugged and then violated her"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

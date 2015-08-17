@@ -1,0 +1,34 @@
+[
+  {
+    "word": "commodity",
+    "syllables": [
+      "com",
+      "mod",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "kəˈmädədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "commodities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a raw material or primary agricultural product that can be bought and sold, such as copper or coffee.",
+            "examples": [
+              "item, material, product, article, object; Moreimport, export \"the prices of basic commodities have risen again\"Moreimport, export the prices of basic commodities have risen again"
+            ]
+          },
+          {
+            "definition": "a useful or valuable thing, such as water or time."
+          }
+        ]
+      }
+    ]
+  }
+]

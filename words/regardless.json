@@ -1,0 +1,45 @@
+[
+  {
+    "word": "regardless",
+    "syllables": [
+      "re",
+      "gard",
+      "less"
+    ],
+    "pronunciation": "rəˈɡärdləs",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "regardless"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "without paying attention to the present situation; despite the prevailing circumstances.",
+            "examples": [
+              "they were determined to carry on regardless"
+            ],
+            "synonyms": [
+              "anyway",
+              "anyhow",
+              "in any case",
+              "nevertheless",
+              "nonetheless",
+              "despite everything",
+              "in spite of everything",
+              "even so",
+              "all the same",
+              "in any event",
+              "come what may; Moreinformalstill and all",
+              "irregardless \"he decided to go",
+              "regardless\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

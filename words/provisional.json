@@ -1,0 +1,89 @@
+[
+  {
+    "word": "provisional",
+    "syllables": [
+      "pro",
+      "vi",
+      "sion",
+      "al"
+    ],
+    "pronunciation": "prəˈviZHənl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "provisional"
+          },
+          {
+            "part": "adjective",
+            "variant": "Provisional"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arranged or existing for the present, possibly to be changed later.",
+            "examples": [
+              "a provisional government"
+            ],
+            "synonyms": [
+              "interim",
+              "temporary",
+              "pro tem; Moretransitional",
+              "changeover",
+              "stopgap",
+              "short-term",
+              "fill-in",
+              "acting",
+              "caretaker",
+              "subject to confirmation; penciled in",
+              "working",
+              "tentative",
+              "contingent \"a provisional government\""
+            ],
+            "antonyms": [
+              "permanent",
+              "definite"
+            ]
+          },
+          {
+            "definition": "(of a postage stamp) put into circulation temporarily, usually owing to the unavailability of the definitive issue."
+          },
+          {
+            "definition": "of or relating to the unofficial wings of the Irish Republican Army and Sinn Fein established in 1969 and advocating terrorism."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "provisional"
+          },
+          {
+            "part": "plural noun",
+            "variant": "provisionals"
+          },
+          {
+            "part": "noun",
+            "variant": "Provisional"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Provisionals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a provisional postage stamp."
+          },
+          {
+            "definition": "a member of the Provisional wings of the Irish Republican Army or Sinn Fein."
+          }
+        ]
+      }
+    ]
+  }
+]

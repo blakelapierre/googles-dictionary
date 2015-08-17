@@ -1,0 +1,61 @@
+[
+  {
+    "word": "responsive",
+    "syllables": [
+      "re",
+      "spon",
+      "sive"
+    ],
+    "pronunciation": "rəˈspänsiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "responsive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reacting quickly and positively.",
+            "examples": [
+              "a flexible service that is responsive to changing social and economic patterns"
+            ],
+            "synonyms": [
+              "quick to react to",
+              "reactive to",
+              "receptive to",
+              "open to suggestions about",
+              "amenable to",
+              "flexible to",
+              "sensitive to",
+              "sympathetic to; aware of \"several consumers said the company hadn't been responsive to their needs\""
+            ]
+          },
+          {
+            "definition": "responding readily and with interest or enthusiasm.",
+            "examples": [
+              "our most enthusiastic and responsive students"
+            ]
+          },
+          {
+            "definition": "denoting or relating to a website whose page design changes automatically according to the size of the screen on which it is viewed.",
+            "examples": [
+              "a responsive site that would work on PCs and tablets equally well"
+            ]
+          },
+          {
+            "definition": "answering.",
+            "examples": [
+              "I'm distracted by a nibble on my line: I jig it several times, but there is no responsive tug"
+            ]
+          },
+          {
+            "definition": "(of a section of liturgy) using responses."
+          }
+        ]
+      }
+    ]
+  }
+]

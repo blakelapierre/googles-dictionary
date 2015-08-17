@@ -1,0 +1,84 @@
+[
+  {
+    "word": "tamper",
+    "syllables": [
+      "tam",
+      "per"
+    ],
+    "pronunciation": "ˈtampər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tamper"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tampers"
+          },
+          {
+            "part": "past tense",
+            "variant": "tampered"
+          },
+          {
+            "part": "past participle",
+            "variant": "tampered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tampering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "interfere with (something) in order to cause damage or make unauthorized alterations.",
+            "examples": [
+              "someone tampered with the brakes on my car"
+            ],
+            "synonyms": [
+              "interfere with",
+              "monkey around with",
+              "meddle with",
+              "tinker with",
+              "fiddle with",
+              "fool around with",
+              "play around with; Moredoctor",
+              "alter",
+              "change",
+              "adjust",
+              "damage",
+              "deface",
+              "vandalize; informalmess around with \"she saw them tampering with her car\""
+            ]
+          },
+          {
+            "definition": "exert a secret or corrupt influence upon (someone).",
+            "examples": [
+              "influence, get at, rig, manipulate, bribe, corrupt, bias; fix the defendant tampered with the jury"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tamper"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tampers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person or thing that tamps something down, especially a machine or tool for tamping down earth or ballast."
+          }
+        ]
+      }
+    ]
+  }
+]

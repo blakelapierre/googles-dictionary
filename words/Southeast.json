@@ -1,0 +1,108 @@
+[
+  {
+    "word": "southeast",
+    "syllables": [
+      "south",
+      "east"
+    ],
+    "pronunciation": "ˌsouTHˈēst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "south-east"
+          },
+          {
+            "part": "noun",
+            "variant": "the south-east"
+          },
+          {
+            "part": "noun",
+            "variant": "southeast"
+          },
+          {
+            "part": "noun",
+            "variant": "the southeast"
+          },
+          {
+            "part": "noun",
+            "variant": "the Southeast"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the direction toward the point of the horizon midway between south and east, or the point on the horizon itself.",
+            "examples": [
+              "a ship was coming in from the southeast"
+            ]
+          },
+          {
+            "definition": "the compass point corresponding to this.",
+            "examples": [
+              "plural noun: southeasts"
+            ]
+          },
+          {
+            "definition": "the southeastern part of a country, region, or town.",
+            "examples": [
+              "most “Mexican” foods in the southeast are actually Texan"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "south-east"
+          },
+          {
+            "part": "adjective",
+            "variant": "southeast"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lying toward, near, or facing the southeast.",
+            "examples": [
+              "a table stood in the southeast corner"
+            ]
+          },
+          {
+            "definition": "(of a wind) blowing from the southeast."
+          },
+          {
+            "definition": "of or denoting the southeastern part of a specified country, region, or town or its inhabitants.",
+            "examples": [
+              "Southeast Asia"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "south-east"
+          },
+          {
+            "part": "adverb",
+            "variant": "southeast"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "to or toward the southeast.",
+            "examples": [
+              "turn southeast to return to your starting point"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "chromosphere",
+    "syllables": [
+      "chro",
+      "mo",
+      "sphere"
+    ],
+    "pronunciation": "ˈkrōməˌsfir",
+    "parts": [
+      {
+        "part": "nounAstronomy",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chromosphere"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chromospheres"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a reddish gaseous layer immediately above the photosphere of the sun or another star. Together with the corona, it constitutes the star's outer atmosphere."
+          }
+        ]
+      }
+    ]
+  }
+]

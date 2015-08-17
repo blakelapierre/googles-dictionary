@@ -1,0 +1,95 @@
+[
+  {
+    "word": "conform",
+    "syllables": [
+      "con",
+      "form"
+    ],
+    "pronunciation": "kənˈfôrm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "conforms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "comply with rules, standards, or laws.",
+            "examples": [
+              "the kitchen does not conform to hygiene regulations"
+            ],
+            "synonyms": [
+              "comply with",
+              "abide by",
+              "obey",
+              "observe",
+              "follow",
+              "keep to",
+              "stick to",
+              "adhere to",
+              "uphold",
+              "heed",
+              "accept",
+              "go along with",
+              "fall in with",
+              "respect",
+              "defer to; Moresatisfy",
+              "meet",
+              "fulfill \"visitors have to conform to our rules\""
+            ],
+            "antonyms": [
+              "flout"
+            ]
+          },
+          {
+            "definition": "(of a person) behave according to socially acceptable conventions or standards.",
+            "examples": [
+              "the pressure to conform"
+            ],
+            "synonyms": [
+              "follow convention",
+              "be conventional",
+              "fit in",
+              "adapt",
+              "adjust",
+              "follow the crowd; Morecomply",
+              "acquiesce",
+              "toe the line",
+              "follow the rules; submit",
+              "yield; informalplay it by the book",
+              "play by the rules \"they refuse to conform\""
+            ],
+            "antonyms": [
+              "rebel"
+            ]
+          },
+          {
+            "definition": "be similar in form or type; agree.",
+            "examples": [
+              "the countryside should conform to a certain idea of the picturesque"
+            ],
+            "synonyms": [
+              "match",
+              "fit",
+              "suit",
+              "answer",
+              "agree with",
+              "be like",
+              "correspond to",
+              "be consistent with",
+              "measure up to",
+              "tally with",
+              "square with \"goods must conform to their description\""
+            ],
+            "antonyms": [
+              "differ"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

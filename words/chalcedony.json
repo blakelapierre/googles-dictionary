@@ -1,0 +1,32 @@
+[
+  {
+    "word": "chalcedony",
+    "syllables": [
+      "chal",
+      "ced",
+      "o",
+      "ny"
+    ],
+    "pronunciation": "kalˈsednˌēCHal-ˈkalsəˌdōnēˈCHalsə-",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chalcedony"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chalcedonies"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a microcrystalline type of quartz occurring in several different forms, including onyx, agate, and jasper."
+          }
+        ]
+      }
+    ]
+  }
+]

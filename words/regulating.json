@@ -1,0 +1,56 @@
+[
+  {
+    "word": "regulate",
+    "syllables": [
+      "reg",
+      "u",
+      "late"
+    ],
+    "pronunciation": "ˈreɡyəˌlāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "regulating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "control or maintain the rate or speed of (a machine or process) so that it operates properly.",
+            "examples": [
+              "a hormone that regulates metabolism and organ function"
+            ],
+            "synonyms": [
+              "control",
+              "adjust",
+              "manage \"the flow of the river has been regulated\""
+            ]
+          },
+          {
+            "definition": "control or supervise (something, especially a company or business activity) by means of rules and regulations.",
+            "examples": [
+              "the organization that regulates fishing in the region"
+            ],
+            "synonyms": [
+              "supervise",
+              "police",
+              "monitor",
+              "check",
+              "check up on",
+              "be responsible for; Morecontrol",
+              "manage",
+              "direct",
+              "guide",
+              "govern \"a new act regulating businesses\""
+            ]
+          },
+          {
+            "definition": "set (a clock or other apparatus) according to an external standard."
+          }
+        ]
+      }
+    ]
+  }
+]

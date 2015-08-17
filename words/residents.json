@@ -1,0 +1,42 @@
+[
+  {
+    "word": "resident",
+    "syllables": [
+      "res",
+      "i",
+      "dent"
+    ],
+    "pronunciation": "ˈrez(ə)dənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "residents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who lives somewhere permanently or on a long-term basis.",
+            "examples": [
+              "inhabitant, local, citizen, native; Moretownsfolk, townspeople; householder, homeowner, occupier, tenant; formaldenizen \"the residents of Ivoryton\"Moretownsfolk, townspeople; householder, homeowner, occupier, tenant; denizen the residents of Ivoryton"
+            ]
+          },
+          {
+            "definition": "a bird, butterfly, or other animal of a species that does not migrate."
+          },
+          {
+            "definition": "a person who boards at a boarding school."
+          },
+          {
+            "definition": "a British government agent in any semi-independent state, especially the governor general's agent at the court of an Indian state."
+          },
+          {
+            "definition": "a medical graduate engaged in specialized practice under supervision in a hospital."
+          }
+        ]
+      }
+    ]
+  }
+]

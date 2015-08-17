@@ -1,0 +1,81 @@
+[
+  {
+    "word": "insipid",
+    "syllables": [
+      "in",
+      "sip",
+      "id"
+    ],
+    "pronunciation": "inˈsipid",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "insipid"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking flavor.",
+            "examples": [
+              "mugs of insipid coffee"
+            ],
+            "synonyms": [
+              "tasteless",
+              "flavorless",
+              "bland",
+              "weak",
+              "wishy-washy; Moreunappetizing",
+              "unpalatable \"insipid coffee\""
+            ],
+            "antonyms": [
+              "tasty"
+            ]
+          },
+          {
+            "definition": "lacking vigor or interest.",
+            "examples": [
+              "many artists continued to churn out insipid, shallow works"
+            ],
+            "synonyms": [
+              "unimaginative",
+              "uninspired",
+              "uninspiring",
+              "characterless",
+              "flat",
+              "uninteresting",
+              "lackluster",
+              "dull",
+              "drab",
+              "boring",
+              "dry",
+              "humdrum",
+              "ho-hum",
+              "monochrome",
+              "tedious",
+              "uneventful",
+              "run-of-the-mill",
+              "commonplace",
+              "pedestrian",
+              "trite",
+              "tired",
+              "hackneyed",
+              "stale",
+              "lame",
+              "wishy-washy",
+              "colorless",
+              "anemic",
+              "lifeless \"insipid pictures\""
+            ],
+            "antonyms": [
+              "interesting",
+              "imaginative"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

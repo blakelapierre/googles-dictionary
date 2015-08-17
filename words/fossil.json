@@ -1,0 +1,42 @@
+[
+  {
+    "word": "fossil",
+    "syllables": [
+      "fos",
+      "sil"
+    ],
+    "pronunciation": "ˈfäsəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "fossil"
+          },
+          {
+            "part": "plural noun",
+            "variant": "fossils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the remains or impression of a prehistoric organism preserved in petrified form or as a mold or cast in rock.",
+            "examples": [
+              "petrified remains, petrified impression, remnant, relic we could detect fossils in the cornerstone of the building"
+            ]
+          },
+          {
+            "definition": "an antiquated or stubbornly unchanging person or thing.",
+            "examples": [
+              "he can be a cantankerous old fossil at times"
+            ]
+          },
+          {
+            "definition": "a word or phrase that has become obsolete except in set phrases or forms, e.g., hue in hue and cry."
+          }
+        ]
+      }
+    ]
+  }
+]

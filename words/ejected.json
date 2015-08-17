@@ -1,0 +1,135 @@
+[
+  {
+    "word": "eject",
+    "syllables": [
+      "e",
+      "ject"
+    ],
+    "pronunciation": "ēˈjekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "ejected"
+          },
+          {
+            "part": "past participle",
+            "variant": "ejected"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "force or throw (something) out, typically in a violent or sudden way.",
+            "examples": [
+              "many types of rock are ejected from volcanoes as solid, fragmentary material"
+            ],
+            "synonyms": [
+              "emit",
+              "spew out",
+              "discharge",
+              "give off",
+              "send out",
+              "belch",
+              "vent; Moreexpel",
+              "release",
+              "disgorge",
+              "spout",
+              "vomit",
+              "throw up \"the volcano ejected ash\""
+            ]
+          },
+          {
+            "definition": "cause (something) to drop out or be removed, usually mechanically.",
+            "examples": [
+              "he ejected the spent cartridge"
+            ]
+          },
+          {
+            "definition": "(of a pilot) escape from an aircraft by being explosively propelled out of it.",
+            "examples": [
+              "he flew to open sea, put the plane in a nosedive, and ejected"
+            ],
+            "synonyms": [
+              "bail out",
+              "escape",
+              "get out \"the pilot had time to eject\""
+            ]
+          },
+          {
+            "definition": "compel (someone) to leave a place.",
+            "examples": [
+              "angry supporters were forcibly ejected from the court"
+            ],
+            "synonyms": [
+              "expel",
+              "throw out",
+              "turn out",
+              "cast out",
+              "remove",
+              "oust; Moreevict",
+              "banish; informalkick out",
+              "boot out",
+              "chuck out",
+              "give someone the bum's rush \"they were ejected from the hall\""
+            ],
+            "antonyms": [
+              "admit"
+            ]
+          },
+          {
+            "definition": "dismiss (someone), especially from political office.",
+            "examples": [
+              "he was ejected from office in July"
+            ],
+            "synonyms": [
+              "dismiss",
+              "remove",
+              "discharge",
+              "oust",
+              "expel",
+              "ax",
+              "throw out",
+              "force out",
+              "drive out; Moreinformalsack",
+              "fire",
+              "send packing",
+              "boot out",
+              "kick out",
+              "chuck out",
+              "give someone their marching orders",
+              "show someone the door \"he was ejected from his post\""
+            ],
+            "antonyms": [
+              "appoint"
+            ]
+          },
+          {
+            "definition": "emit; give off.",
+            "examples": [
+              "plants utilize carbon dioxide in the atmosphere that animals eject"
+            ],
+            "synonyms": [
+              "emit",
+              "spew out",
+              "discharge",
+              "give off",
+              "send out",
+              "belch",
+              "vent; Moreexpel",
+              "release",
+              "disgorge",
+              "spout",
+              "vomit",
+              "throw up \"the volcano ejected ash\""
+            ]
+          },
+          {
+            "definition": "dispossess (a tenant) by legal process."
+          }
+        ]
+      }
+    ]
+  }
+]

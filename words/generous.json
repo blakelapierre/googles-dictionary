@@ -1,0 +1,95 @@
+[
+  {
+    "word": "generous",
+    "syllables": [
+      "gen",
+      "er",
+      "ous"
+    ],
+    "pronunciation": "ˈjen(ə)rəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "generous"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) showing a readiness to give more of something, as money or time, than is strictly necessary or expected.",
+            "examples": [
+              "she was generous with her money"
+            ],
+            "synonyms": [
+              "liberal",
+              "lavish",
+              "magnanimous",
+              "munificent",
+              "giving",
+              "openhanded",
+              "free-handed",
+              "bountiful",
+              "unselfish",
+              "ungrudging",
+              "free",
+              "indulgent",
+              "prodigal; literarybounteous \"she is generous with money\""
+            ],
+            "antonyms": [
+              "mean",
+              "stingy"
+            ]
+          },
+          {
+            "definition": "showing kindness toward others.",
+            "examples": [
+              "it was generous of them to ask her along"
+            ],
+            "synonyms": [
+              "magnanimous",
+              "kind",
+              "benevolent",
+              "altruistic",
+              "charitable",
+              "noble",
+              "big-hearted",
+              "honorable",
+              "good; Moreunselfish",
+              "self-sacrificing \"it was generous of them to offer\""
+            ],
+            "antonyms": [
+              "mean",
+              "selfish"
+            ]
+          },
+          {
+            "definition": "(of a thing) larger or more plentiful than is usual or necessary.",
+            "examples": [
+              "a generous sprinkle of pepper"
+            ],
+            "synonyms": [
+              "lavish",
+              "plentiful",
+              "copious",
+              "ample",
+              "liberal",
+              "large",
+              "great",
+              "abundant",
+              "profuse",
+              "bumper",
+              "opulent",
+              "prolific; Moreinformalgalore; literarybounteous",
+              "plenteous \"a generous amount of fabric\""
+            ],
+            "antonyms": [
+              "meager"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

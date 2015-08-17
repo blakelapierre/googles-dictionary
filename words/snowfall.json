@@ -1,0 +1,39 @@
+[
+  {
+    "word": "snowfall",
+    "syllables": [
+      "snow",
+      "fall"
+    ],
+    "pronunciation": "ˈsnōˌfôl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "snowfall"
+          },
+          {
+            "part": "plural noun",
+            "variant": "snowfalls"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fall of snow.",
+            "examples": [
+              "heavy snowfalls made travel absolutely impossible"
+            ]
+          },
+          {
+            "definition": "the quantity of snow falling within a given area in a given time.",
+            "examples": [
+              "winters with above-average snowfall"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

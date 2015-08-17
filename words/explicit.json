@@ -1,0 +1,83 @@
+[
+  {
+    "word": "explicit",
+    "syllables": [
+      "ex",
+      "plic",
+      "it"
+    ],
+    "pronunciation": "ikˈsplisit",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "explicit"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stated clearly and in detail, leaving no room for confusion or doubt.",
+            "examples": [
+              "the speaker's intentions were not made explicit"
+            ],
+            "synonyms": [
+              "clear",
+              "plain",
+              "straightforward",
+              "crystal clear",
+              "easily understandable; Moreprecise",
+              "exact",
+              "specific",
+              "unequivocal",
+              "unambiguous; detailed",
+              "comprehensive",
+              "exhaustive \"explicit instructions\""
+            ],
+            "antonyms": [
+              "vague"
+            ]
+          },
+          {
+            "definition": "(of a person) stating something in a clear and detailed way.",
+            "examples": [
+              "let me be explicit"
+            ]
+          },
+          {
+            "definition": "describing or representing sexual activity in a graphic fashion.",
+            "examples": [
+              "explicit photos showing poses and acts"
+            ],
+            "synonyms": [
+              "graphic",
+              "uncensored",
+              "candid",
+              "full-frontal",
+              "hard-core \"sexually explicit material\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "explicit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "explicits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the closing words of a text, manuscript, early printed book, or chanted liturgical text."
+          }
+        ]
+      }
+    ]
+  }
+]

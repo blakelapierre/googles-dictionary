@@ -1,0 +1,65 @@
+[
+  {
+    "word": "inbreed",
+    "syllables": [
+      "in",
+      "breed"
+    ],
+    "pronunciation": "ˈinbrēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "inbreed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "inbreeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "inbred"
+          },
+          {
+            "part": "past participle",
+            "variant": "inbred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "inbreeding"
+          },
+          {
+            "part": "verb",
+            "variant": "in-breed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "in-breeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "in-bred"
+          },
+          {
+            "part": "past participle",
+            "variant": "in-bred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "in-breeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "breed from closely related people or animals, especially over many generations.",
+            "examples": [
+              "persistent inbreeding has produced an unusually high frequency of sufferers from this disease"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

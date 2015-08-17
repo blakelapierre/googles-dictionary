@@ -1,0 +1,110 @@
+[
+  {
+    "word": "vulgar",
+    "syllables": [
+      "vul",
+      "gar"
+    ],
+    "pronunciation": "ˈvəlɡər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "vulgar"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking sophistication or good taste; unrefined.",
+            "examples": [
+              "the vulgar trappings of wealth"
+            ],
+            "synonyms": [
+              "tasteless",
+              "crass",
+              "tawdry",
+              "ostentatious",
+              "flamboyant",
+              "overdone",
+              "showy",
+              "gaudy",
+              "garish",
+              "brassy",
+              "kitsch",
+              "kitschy",
+              "tinselly",
+              "loud; Moreinformalflash",
+              "flashy",
+              "tacky \"the decor was lavish but vulgar\"impolite",
+              "ill-mannered",
+              "unmannerly",
+              "rude",
+              "indecorous",
+              "unseemly",
+              "ill-bred",
+              "boorish",
+              "uncouth",
+              "crude",
+              "rough; unsophisticated",
+              "unrefined",
+              "common",
+              "low-minded; unladylike",
+              "ungentlemanly \"it is vulgar to belch in public\""
+            ],
+            "antonyms": [
+              "tasteful",
+              "restrained",
+              "genteel",
+              "decorous"
+            ]
+          },
+          {
+            "definition": "making explicit and offensive reference to sex or bodily functions; coarse and rude.",
+            "examples": [
+              "a vulgar joke"
+            ],
+            "synonyms": [
+              "rude",
+              "indecent",
+              "indelicate",
+              "offensive",
+              "distasteful",
+              "coarse",
+              "crude",
+              "ribald",
+              "risqué",
+              "naughty",
+              "suggestive",
+              "racy",
+              "earthy",
+              "off-color",
+              "bawdy",
+              "obscene",
+              "profane",
+              "lewd",
+              "salacious",
+              "smutty",
+              "dirty",
+              "filthy",
+              "pornographic",
+              "X-rated; Moreinformalsleazy",
+              "raunchy",
+              "blue",
+              "locker-room; saucy",
+              "salty; euphemisticadult \"a vulgar joke\""
+            ],
+            "antonyms": [
+              "decent",
+              "inoffensive"
+            ]
+          },
+          {
+            "definition": "characteristic of or belonging to the masses."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "affidavit",
+    "syllables": [
+      "af",
+      "fi",
+      "da",
+      "vit"
+    ],
+    "pronunciation": "ˌafəˈdāvit",
+    "parts": [
+      {
+        "part": "nounLaw",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "affidavit"
+          },
+          {
+            "part": "plural noun",
+            "variant": "affidavits"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a written statement confirmed by oath or affirmation, for use as evidence in court."
+          }
+        ]
+      }
+    ]
+  }
+]

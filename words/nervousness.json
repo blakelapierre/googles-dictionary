@@ -1,0 +1,49 @@
+[
+  {
+    "word": "nervousness",
+    "syllables": [
+      "ner",
+      "vous",
+      "ness"
+    ],
+    "pronunciation": "ˈnərvəsnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nervousness"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality or state of being nervous.",
+            "examples": [
+              "there was a trace of nervousness in his voice"
+            ],
+            "synonyms": [
+              "anxiety",
+              "edginess",
+              "tension",
+              "agitation",
+              "stress",
+              "worry",
+              "apprehension",
+              "uneasiness",
+              "disquiet",
+              "fear",
+              "trepidation",
+              "perturbation",
+              "alarm; Moreinformalbutterflies (in one's stomach)",
+              "the jitters",
+              "the willies",
+              "the heebie-jeebies",
+              "the shakes \"she began chattering out of nervousness\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

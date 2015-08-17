@@ -1,0 +1,72 @@
+[
+  {
+    "word": "valence",
+    "syllables": [
+      "va",
+      "lence"
+    ],
+    "pronunciation": "ˈvāləns",
+    "parts": [
+      {
+        "part": "nounChemistry",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "valence"
+          },
+          {
+            "part": "plural noun",
+            "variant": "valences"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the combining power of an element, especially as measured by the number of hydrogen atoms it can displace or combine with.",
+            "examples": [
+              "carbon always has a valence of 4"
+            ]
+          },
+          {
+            "definition": "relating to or denoting electrons involved in or available for chemical bond formation.",
+            "examples": [
+              "modifier noun: valence"
+            ]
+          },
+          {
+            "definition": "the number of grammatical elements with which a particular word, especially a verb, combines in a sentence."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "valance",
+    "syllables": [
+      "val",
+      "ance"
+    ],
+    "pronunciation": "ˈvaləns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "valence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a length of decorative drapery attached to the canopy or frame of a bed in order to screen the structure or the space beneath it."
+          },
+          {
+            "definition": "a length of decorative drapery hung above a window to screen the curtain fittings."
+          },
+          {
+            "definition": "a dust ruffle."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "word": "bloated",
+    "syllables": [
+      "bloat",
+      "ed"
+    ],
+    "pronunciation": "ˈblōdəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bloated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of part of the body) swollen with fluid or gas.",
+            "examples": [
+              "he had a bloated, unshaven face"
+            ],
+            "synonyms": [
+              "swollen",
+              "distended",
+              "tumefied",
+              "bulging",
+              "inflated",
+              "enlarged",
+              "expanded",
+              "dilated",
+              "puffy",
+              "puffed (up) \"bloated bellies\""
+            ]
+          },
+          {
+            "definition": "excessive in size or amount.",
+            "examples": [
+              "the company trimmed its bloated labor force"
+            ]
+          },
+          {
+            "definition": "(of a person) excessively wealthy and pampered.",
+            "examples": [
+              "the bloated captains of industry"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bloat",
+    "syllables": [
+      "bloat"
+    ],
+    "pronunciation": "blōt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "bloated"
+          },
+          {
+            "part": "past participle",
+            "variant": "bloated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become swollen with fluid or gas.",
+            "examples": [
+              "the fungus has bloated their abdomens"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bloat",
+    "syllables": [
+      "bloat"
+    ],
+    "pronunciation": "blōt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "bloated"
+          },
+          {
+            "part": "past participle",
+            "variant": "bloated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cure (a herring) by salting and smoking it lightly."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "word": "reluctance",
+    "syllables": [
+      "re",
+      "luc",
+      "tance"
+    ],
+    "pronunciation": "rəˈləktəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reluctance"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unwillingness or disinclination to do something.",
+            "examples": [
+              "she sensed his reluctance to continue"
+            ],
+            "synonyms": [
+              "unwillingness",
+              "disinclination; Morehesitation",
+              "wavering",
+              "vacillation; doubts",
+              "second thoughts",
+              "misgivings \"he said he was glad to go",
+              "but she sensed his reluctance\""
+            ]
+          },
+          {
+            "definition": "the property of a magnetic circuit of opposing the passage of magnetic flux lines, equal to the ratio of the magnetomotive force to the magnetic flux."
+          }
+        ]
+      }
+    ]
+  }
+]

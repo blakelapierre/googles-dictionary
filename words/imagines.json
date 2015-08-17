@@ -1,0 +1,117 @@
+[
+  {
+    "word": "imagines",
+    "syllables": [
+      "im",
+      "ag",
+      "ines"
+    ],
+    "pronunciation": "iˈmāɡəˌnēziˈmä-",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "imagine",
+    "syllables": [
+      "im",
+      "ag",
+      "ine"
+    ],
+    "pronunciation": "iˈmajən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "imagines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form a mental image or concept of.",
+            "examples": [
+              "imagine a road trip from Philadelphia to Chicago"
+            ],
+            "synonyms": [
+              "visualize",
+              "envisage",
+              "envision",
+              "picture",
+              "see in the mind's eye; Moredream up",
+              "think up/of",
+              "conjure up",
+              "conceive",
+              "conceptualize; formalideate \"imagine sitting through five hours of steady air turbulence\""
+            ]
+          },
+          {
+            "definition": "believe (something unreal or untrue) to exist or be so.",
+            "examples": [
+              "they suffered from ill health, real or imagined, throughout their lives"
+            ]
+          },
+          {
+            "definition": "suppose or assume.",
+            "examples": [
+              "after Ned died, everyone imagined that Mabel would move away"
+            ],
+            "synonyms": [
+              "assume",
+              "presume",
+              "expect",
+              "take it",
+              "presuppose; Moresuppose",
+              "think (it likely)",
+              "dare say",
+              "surmise",
+              "believe",
+              "be of the view",
+              "figure; informalguess",
+              "reckon; formalopine \"I imagine he was at home\""
+            ]
+          },
+          {
+            "definition": "just suppose.",
+            "examples": [
+              "imagine! to outwit Heydrich!"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "imago",
+    "syllables": [
+      "i",
+      "ma",
+      "go"
+    ],
+    "pronunciation": "iˈmāɡōiˈmä-",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "imagines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the final and fully developed adult stage of an insect, typically winged."
+          },
+          {
+            "definition": "an unconscious, idealized mental image of someone, especially a parent, that influences a person's behavior."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "prescribe",
+    "syllables": [
+      "pre",
+      "scribe"
+    ],
+    "pronunciation": "prəˈskrīb",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "prescribing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a medical practitioner) advise and authorize the use of (a medicine or treatment) for someone, especially in writing.",
+            "examples": [
+              "Dr. Greene prescribed magnesium sulfate"
+            ],
+            "synonyms": [
+              "write a prescription for",
+              "authorize \"the doctor prescribed antibiotics\""
+            ]
+          },
+          {
+            "definition": "recommend (a substance or action) as something beneficial.",
+            "examples": [
+              "marriage is often prescribed as a universal remedy"
+            ],
+            "synonyms": [
+              "advise",
+              "recommend",
+              "advocate",
+              "suggest",
+              "endorse",
+              "champion",
+              "promote \"traditional values prescribe a life of domesticity\""
+            ]
+          },
+          {
+            "definition": "state authoritatively or as a rule that (an action or procedure) should be carried out.",
+            "examples": [
+              "rules prescribing five acts for a play are purely arbitrary"
+            ],
+            "synonyms": [
+              "stipulate",
+              "lay down",
+              "dictate",
+              "specify",
+              "determine",
+              "establish",
+              "fix \"rules prescribing your duty\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

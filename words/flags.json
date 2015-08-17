@@ -1,0 +1,241 @@
+[
+  {
+    "word": "flag",
+    "syllables": [
+      "flag"
+    ],
+    "pronunciation": "flaɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "flags"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution or as a decoration during public festivities.",
+            "examples": [
+              "the American flag"
+            ],
+            "synonyms": [
+              "banner",
+              "standard",
+              "ensign",
+              "pennant",
+              "banderole",
+              "streamer",
+              "jack",
+              "gonfalon; Morecolors; Stars and Stripes",
+              "Old Glory",
+              "Union Jack; Jolly Roger; Red Ensign",
+              "Maple Leaf \"he raised the flag\""
+            ]
+          },
+          {
+            "definition": "used in reference to the country to which a person has allegiance.",
+            "examples": [
+              "the private's heroism served as an example for every soldier under the flag"
+            ]
+          },
+          {
+            "definition": "a ship's country of registry."
+          },
+          {
+            "definition": "a small piece of cloth, typically attached at one edge to a pole, used as a marker or signal in various sports.",
+            "examples": [
+              "jumped the starter's flag, did he?"
+            ]
+          },
+          {
+            "definition": "the ensign carried by a flagship as an emblem of an admiral's rank."
+          },
+          {
+            "definition": "a device, symbol, or drawing typically resembling a flag, used as a marker.",
+            "examples": [
+              "golf courses are indicated by a numbered flag on the map"
+            ]
+          },
+          {
+            "definition": "a variable used to indicate a particular property of the data in a record."
+          },
+          {
+            "definition": "a hook attached to the stem of a musical note, determining the rhythmic value of the note."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "flags"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark (an item) for attention or treatment in a specified way.",
+            "examples": [
+              "“greatfully” would be flagged as a misspelling of “gratefully.”"
+            ],
+            "synonyms": [
+              "indicate",
+              "identify",
+              "point out",
+              "mark",
+              "label",
+              "tag",
+              "highlight \"flag the misspelled words\""
+            ]
+          },
+          {
+            "definition": "draw attention to.",
+            "examples": [
+              "problems often flag the need for organizational change"
+            ]
+          },
+          {
+            "definition": "charge (a player) with a penalty by dropping a penalty flag.",
+            "examples": [
+              "a play in which he was flagged for being offside"
+            ]
+          },
+          {
+            "definition": "direct (someone) to go in the specified direction by waving a flag or using hand signals.",
+            "examples": [
+              "have him flagged off the course"
+            ]
+          },
+          {
+            "definition": "signal to a vehicle or driver to stop, especially by waving one's arm.",
+            "examples": [
+              "she flagged down a patrol car"
+            ]
+          },
+          {
+            "definition": "(of an official in football, soccer, and other sports) raise or throw a flag to indicate a breach of the rules.",
+            "examples": [
+              "the rookie cornerback managed to get flagged for three penalties in one game"
+            ]
+          },
+          {
+            "definition": "provide or decorate with a flag or flags."
+          },
+          {
+            "definition": "register (a vessel) in a specific country, under whose flag it then sails.",
+            "examples": [
+              "the flagging out of much of the fleet to flags of convenience"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flag",
+    "syllables": [
+      "flag"
+    ],
+    "pronunciation": "flaɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "flags"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flat stone slab, typically rectangular or square, used for paving."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flag",
+    "syllables": [
+      "flag"
+    ],
+    "pronunciation": "flaɡ",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "flags"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plant with sword-shaped leaves that grow from a rhizome."
+          },
+          {
+            "definition": "the long slender leaf of a flag plant."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flag",
+    "syllables": [
+      "flag"
+    ],
+    "pronunciation": "flaɡ",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "flags"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) become tired, weaker, or less enthusiastic.",
+            "examples": [
+              "if you begin to flag, there is an excellent café to revive you"
+            ],
+            "synonyms": [
+              "tire",
+              "grow tired/weary",
+              "weaken",
+              "grow weak",
+              "wilt",
+              "droop",
+              "fade",
+              "run out of steam More\"they were flagging toward the finish\"fade",
+              "decline",
+              "wane",
+              "ebb",
+              "diminish",
+              "decrease",
+              "lessen",
+              "dwindle; wither",
+              "melt away",
+              "peter out",
+              "die away/down \"my energy flags in the afternoon\""
+            ],
+            "antonyms": [
+              "revive",
+              "increase"
+            ]
+          },
+          {
+            "definition": "(especially of an activity or quality) become weaker or less dynamic.",
+            "examples": [
+              "she should make another similar film to revive her flagging career"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

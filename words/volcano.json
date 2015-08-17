@@ -1,0 +1,41 @@
+[
+  {
+    "word": "volcano",
+    "syllables": [
+      "vol",
+      "ca",
+      "no"
+    ],
+    "pronunciation": "välˈkānō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "volcano"
+          },
+          {
+            "part": "plural noun",
+            "variant": "volcanoes"
+          },
+          {
+            "part": "plural noun",
+            "variant": "volcanos"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are being or have been erupted from the earth's crust."
+          },
+          {
+            "definition": "an intense suppressed emotion or situation liable to burst out suddenly.",
+            "examples": [
+              "what volcano of emotion must have been boiling inside that youngster"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

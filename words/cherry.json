@@ -1,0 +1,59 @@
+[
+  {
+    "word": "cherry",
+    "syllables": [
+      "cher",
+      "ry"
+    ],
+    "pronunciation": "ˈCHerē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cherry"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cherries"
+          },
+          {
+            "part": "noun",
+            "variant": "cherry tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cherry trees"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small, round stone fruit that is typically bright or dark red."
+          },
+          {
+            "definition": "the tree that bears the cherry."
+          },
+          {
+            "definition": "the wood of the cherry tree.",
+            "examples": [
+              "noun: cherrywood"
+            ]
+          },
+          {
+            "definition": "used in names of plants unrelated to the cherry but with similar fruits, e.g., cornelian cherry."
+          },
+          {
+            "definition": "a bright or deep red color.",
+            "examples": [
+              "her mouth was a bright cherry red"
+            ]
+          },
+          {
+            "definition": "the hymen, as representing a woman's virginity."
+          }
+        ]
+      }
+    ]
+  }
+]

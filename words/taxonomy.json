@@ -1,0 +1,40 @@
+[
+  {
+    "word": "taxonomy",
+    "syllables": [
+      "tax",
+      "on",
+      "o",
+      "my"
+    ],
+    "pronunciation": "takˈsänəmē",
+    "parts": [
+      {
+        "part": "nounBiology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "taxonomy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the branch of science concerned with classification, especially of organisms; systematics."
+          },
+          {
+            "definition": "the classification of something, especially organisms.",
+            "examples": [
+              "the taxonomy of these fossils"
+            ]
+          },
+          {
+            "definition": "a scheme of classification.",
+            "examples": [
+              "plural noun: taxonomies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

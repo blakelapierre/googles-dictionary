@@ -1,0 +1,180 @@
+[
+  {
+    "word": "glow",
+    "syllables": [
+      "glow"
+    ],
+    "pronunciation": "ɡlō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "glow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "glows"
+          },
+          {
+            "part": "past tense",
+            "variant": "glowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "glowed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "glowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give out steady light without flame.",
+            "examples": [
+              "the tips of their cigarettes glowed in the dark"
+            ],
+            "synonyms": [
+              "radiate heat",
+              "smolder",
+              "burn More\"a fire glowed in the hearth\"bright",
+              "shining",
+              "radiant",
+              "glimmering",
+              "flickering",
+              "twinkling",
+              "incandescent",
+              "luminous",
+              "luminescent; lit (up)",
+              "lighted",
+              "illuminated",
+              "ablaze; aglow",
+              "smoldering \"glowing coals\""
+            ]
+          },
+          {
+            "definition": "have an intense color and a slight shine.",
+            "examples": [
+              "faces that glowed red with the cold"
+            ],
+            "synonyms": [
+              "shine",
+              "radiate",
+              "gleam",
+              "glimmer",
+              "flicker",
+              "flare; Moreluminesce \"lights glowed from the windows\"rosy",
+              "pink",
+              "red",
+              "flushed",
+              "blushing; radiant",
+              "blooming",
+              "ruddy",
+              "florid; hot",
+              "burning \"his glowing cheeks\"vivid",
+              "vibrant",
+              "bright",
+              "brilliant",
+              "rich",
+              "intense",
+              "strong",
+              "radiant",
+              "warm \"glowing colors\""
+            ]
+          },
+          {
+            "definition": "have a heightened color or a bloom on the skin as a result of warmth or health.",
+            "examples": [
+              "he was glowing with health"
+            ],
+            "synonyms": [
+              "flush",
+              "blush",
+              "redden",
+              "color (up)",
+              "go pink",
+              "go scarlet; Moreburn \"she glowed with embarrassment\"rosy",
+              "pink",
+              "red",
+              "flushed",
+              "blushing; radiant",
+              "blooming",
+              "ruddy",
+              "florid; hot",
+              "burning \"his glowing cheeks\""
+            ]
+          },
+          {
+            "definition": "feel deep pleasure or satisfaction and convey it through one's expression and bearing.",
+            "examples": [
+              "Katy always glowed when he praised her"
+            ],
+            "synonyms": [
+              "tingle",
+              "thrill; beam \"she glowed with pride\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "glow"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a steady radiance of light or heat.",
+            "examples": [
+              "the setting sun cast a deep red glow over the city"
+            ],
+            "synonyms": [
+              "radiance",
+              "light",
+              "shine",
+              "gleam",
+              "glimmer",
+              "incandescence",
+              "luminescence; Morewarmth",
+              "heat \"the glow of the fire\""
+            ]
+          },
+          {
+            "definition": "a feeling of warmth in the face or body; the visible effects of this as a redness of the cheeks.",
+            "examples": [
+              "he could feel the brandy filling him with a warm glow"
+            ],
+            "synonyms": [
+              "flush",
+              "blush",
+              "rosiness",
+              "pinkness",
+              "redness",
+              "high color; Morebloom",
+              "radiance \"a glow spread over her face\""
+            ],
+            "antonyms": [
+              "pallor"
+            ]
+          },
+          {
+            "definition": "a strong feeling of pleasure or well-being.",
+            "examples": [
+              "with a glow of pride, Mildred walked away"
+            ],
+            "synonyms": [
+              "happiness",
+              "contentment",
+              "pleasure",
+              "satisfaction \"a warm glow deep inside her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

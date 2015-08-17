@@ -1,0 +1,229 @@
+[
+  {
+    "word": "bare",
+    "syllables": [
+      "bare"
+    ],
+    "pronunciation": "ber",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bare"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "barer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "barest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or part of the body) not clothed or covered.",
+            "examples": [
+              "he was bare from the waist up"
+            ],
+            "synonyms": [
+              "naked",
+              "unclothed",
+              "undressed",
+              "uncovered",
+              "stripped",
+              "having nothing on",
+              "nude",
+              "in the nude",
+              "stark naked; Moreinformalwithout a stitch on",
+              "buck-naked",
+              "butt-naked",
+              "mother-naked",
+              "in one's birthday suit",
+              "in the raw",
+              "in the altogether",
+              "in the buff \"a giggling bare infant in her arms\""
+            ],
+            "antonyms": [
+              "clothed"
+            ]
+          },
+          {
+            "definition": "without the appropriate, usual, or natural covering.",
+            "examples": [
+              "a clump of bare aspen trees"
+            ],
+            "synonyms": [
+              "barren",
+              "bleak",
+              "exposed",
+              "desolate",
+              "stark",
+              "arid",
+              "desert",
+              "lunar; Moretreeless",
+              "deforested",
+              "bald \"a bare landscape\""
+            ],
+            "antonyms": [
+              "lush"
+            ]
+          },
+          {
+            "definition": "without the appropriate or usual contents.",
+            "examples": [
+              "a bare cell with just a mattress"
+            ],
+            "synonyms": [
+              "empty",
+              "unfurnished",
+              "cleared; Morestark",
+              "austere",
+              "spartan",
+              "unadorned",
+              "unembellished",
+              "unornamented",
+              "plain \"a bare room\""
+            ],
+            "antonyms": [
+              "furnished",
+              "embellished"
+            ]
+          },
+          {
+            "definition": "unconcealed; without disguise.",
+            "examples": [
+              "an ordeal that would lay bare a troubled family background"
+            ]
+          },
+          {
+            "definition": "without addition; basic and simple.",
+            "examples": [
+              "he outlined the bare essentials of the story"
+            ],
+            "synonyms": [
+              "plain",
+              "essential",
+              "fundamental",
+              "basic",
+              "straightforward",
+              "simple",
+              "pure",
+              "stark",
+              "bald",
+              "cold",
+              "hard",
+              "brutal",
+              "harsh \"the bare facts\""
+            ]
+          },
+          {
+            "definition": "only just sufficient.",
+            "examples": [
+              "a bare majority"
+            ]
+          },
+          {
+            "definition": "surprisingly small in number or amount.",
+            "examples": [
+              "all you need to get started with this program is a bare 10K bytes of memory"
+            ],
+            "synonyms": [
+              "mere",
+              "no more than",
+              "simple; Moreslim",
+              "slight",
+              "slender",
+              "paltry",
+              "minimum \"a bare lead in the race\""
+            ],
+            "antonyms": [
+              "comfortable"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bare"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bares"
+          },
+          {
+            "part": "past tense",
+            "variant": "bared"
+          },
+          {
+            "part": "past participle",
+            "variant": "bared"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "baring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "uncover (a part of the body or other thing) and expose it to view.",
+            "examples": [
+              "he bared his chest to show his scar"
+            ],
+            "synonyms": [
+              "uncover",
+              "strip",
+              "lay bare",
+              "undress",
+              "unclothe",
+              "denude",
+              "expose \"he bared his arm\""
+            ],
+            "antonyms": [
+              "cover"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "determinerBritishinformal",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "bare"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large amount or number of.",
+            "examples": [
+              "I've got bare work to do"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverbBritishinformal",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "bare"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very; really (used as an intensifier).",
+            "examples": [
+              "that girl is bare lazy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

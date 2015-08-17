@@ -1,0 +1,95 @@
+[
+  {
+    "word": "engross",
+    "syllables": [
+      "en",
+      "gross"
+    ],
+    "pronunciation": "inˈɡrōsenˈɡrōs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "engross"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "engrosses"
+          },
+          {
+            "part": "past tense",
+            "variant": "engrossed"
+          },
+          {
+            "part": "past participle",
+            "variant": "engrossed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "engrossing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "absorb all the attention or interest of.",
+            "examples": [
+              "the notes totally engrossed him"
+            ],
+            "synonyms": [
+              "absorb",
+              "engage",
+              "rivet",
+              "grip",
+              "hold",
+              "interest",
+              "involve",
+              "occupy",
+              "preoccupy; Morefascinate",
+              "captivate",
+              "enthrall",
+              "intrigue \"Poppa's stories will engross them\"absorbed in",
+              "involved in",
+              "interested in",
+              "engaged in",
+              "occupied by/with",
+              "preoccupied by/with",
+              "immersed in",
+              "caught up in",
+              "riveted by",
+              "gripped by",
+              "rapt in",
+              "fascinated by/with",
+              "intent on",
+              "captivated by",
+              "enthralled by/with",
+              "intrigued by/with \"Leopold is engrossed in his stamp collection\"absorbing",
+              "interesting",
+              "riveting",
+              "gripping",
+              "captivating",
+              "compelling",
+              "fascinating",
+              "intriguing",
+              "enthralling",
+              "engaging; informalunputdownable \"an engrossing murder mystery\""
+            ]
+          },
+          {
+            "definition": "gain or keep exclusive possession of (something).",
+            "examples": [
+              "the country had made the best of its position to engross trade"
+            ]
+          },
+          {
+            "definition": "produce (a legal document) in its final or definitive form.",
+            "examples": [
+              "absorb, engage, rivet, grip, hold, interest, involve, occupy, preoccupy; Morefascinate, captivate, enthrall, intrigue \"Poppa's stories will engross them\"Morefascinate, captivate, enthrall, intrigue Poppa's stories will engross them"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

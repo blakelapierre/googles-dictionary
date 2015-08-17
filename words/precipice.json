@@ -1,0 +1,46 @@
+[
+  {
+    "word": "precipice",
+    "syllables": [
+      "prec",
+      "i",
+      "pice"
+    ],
+    "pronunciation": "ˈpresəpəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "precipice"
+          },
+          {
+            "part": "plural noun",
+            "variant": "precipices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a very steep rock face or cliff, typically a tall one.",
+            "examples": [
+              "we swerved toward the edge of the precipice"
+            ],
+            "synonyms": [
+              "cliff face",
+              "cliff",
+              "steep cliff",
+              "rock face",
+              "sheer drop",
+              "height",
+              "crag",
+              "bluff",
+              "escarpment",
+              "scarp; literarysteep \"it's amazing how these goats can scale such a precipice\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

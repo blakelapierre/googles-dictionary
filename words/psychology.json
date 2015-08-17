@@ -1,0 +1,43 @@
+[
+  {
+    "word": "psychology",
+    "syllables": [
+      "psy",
+      "chol",
+      "o",
+      "gy"
+    ],
+    "pronunciation": "sīˈkäləjē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "psychology"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the scientific study of the human mind and its functions, especially those affecting behavior in a given context.",
+            "examples": [
+              "study of the mind, science of the mind a degree in psychology"
+            ]
+          },
+          {
+            "definition": "the mental characteristics or attitude of a person or group.",
+            "examples": [
+              "plural noun: psychologies"
+            ]
+          },
+          {
+            "definition": "the mental and emotional factors governing a situation or activity.",
+            "examples": [
+              "the psychology of interpersonal relationships"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

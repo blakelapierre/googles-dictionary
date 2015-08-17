@@ -1,0 +1,59 @@
+[
+  {
+    "word": "assistant",
+    "syllables": [
+      "as",
+      "sis",
+      "tant"
+    ],
+    "pronunciation": "əˈsistənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "assistant"
+          },
+          {
+            "part": "plural noun",
+            "variant": "assistants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who ranks below a senior person.",
+            "examples": [
+              "the managing director and his assistant"
+            ],
+            "synonyms": [
+              "helper",
+              "deputy",
+              "second-in-command",
+              "second",
+              "number two",
+              "right-hand man/woman",
+              "aide",
+              "attendant",
+              "mate",
+              "apprentice",
+              "junior",
+              "auxiliary",
+              "subordinate; Morehired hand",
+              "hired help",
+              "man/girl Friday; informalsidekick",
+              "body man",
+              "gofer \"a photographer's assistant\""
+            ]
+          },
+          {
+            "definition": "a person who helps in particular work.",
+            "examples": [
+              "a laboratory assistant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

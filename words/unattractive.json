@@ -1,0 +1,40 @@
+[
+  {
+    "word": "unattractive",
+    "syllables": [
+      "un",
+      "at",
+      "trac",
+      "tive"
+    ],
+    "pronunciation": "ˌənəˈtraktiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unattractive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not pleasing or appealing to look at.",
+            "examples": [
+              "plain, ugly, unappealing, unpleasant, hideous, unlovely, unprepossessing, unsightly, ghastly, revolting, repellent, repulsive, repugnant; Moregrotesque, disgusting, misshapen; homely, not much to look at; informalplug ugly, butt ugly \"there were only a few unattractive dresses left on the rack\"Moregrotesque, disgusting, misshapen; homely, not much to look at; plug ugly, butt ugly there were only a few unattractive dresses left on the rack"
+            ],
+            "antonyms": [
+              "beautiful"
+            ]
+          },
+          {
+            "definition": "having no inviting or beneficial features.",
+            "examples": [
+              "if the revised bid is unattractive, it may not be accepted"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

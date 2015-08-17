@@ -1,0 +1,29 @@
+[
+  {
+    "word": "TNT",
+    "syllables": [
+      "TNT"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "TNT"
+          },
+          {
+            "part": "noun",
+            "variant": "trinitrotoluene"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a high explosive formed from toluene by substitution of nitro groups for three hydrogen atoms. It is relatively insensitive to shock and can be conveniently melted."
+          }
+        ]
+      }
+    ]
+  }
+]

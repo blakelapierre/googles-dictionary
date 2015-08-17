@@ -1,0 +1,71 @@
+[
+  {
+    "word": "adhere",
+    "syllables": [
+      "ad",
+      "here"
+    ],
+    "pronunciation": "ədˈhir",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "adhering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stick fast to (a surface or substance).",
+            "examples": [
+              "paint won't adhere well to a greasy surface"
+            ],
+            "synonyms": [
+              "stick (fast)",
+              "cohere",
+              "cling",
+              "bond",
+              "attach; Morebe stuck",
+              "be fixed",
+              "be glued",
+              "be cemented \"a dollop of cream adhered to her nose\""
+            ]
+          },
+          {
+            "definition": "believe in and follow the practices of.",
+            "examples": [
+              "the people adhere to the Muslim religion"
+            ]
+          },
+          {
+            "definition": "represent truthfully and in detail.",
+            "examples": [
+              "the account adhered firmly to fact"
+            ],
+            "synonyms": [
+              "abide by",
+              "stick to",
+              "hold to",
+              "comply with",
+              "act in accordance with",
+              "conform to",
+              "submit to",
+              "hew to; Morefollow",
+              "obey",
+              "heed",
+              "observe",
+              "respect",
+              "uphold",
+              "fulfill \"they adhere to Judaic law\""
+            ],
+            "antonyms": [
+              "flout",
+              "ignore"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

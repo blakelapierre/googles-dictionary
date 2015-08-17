@@ -1,0 +1,92 @@
+[
+  {
+    "word": "heed",
+    "syllables": [
+      "heed"
+    ],
+    "pronunciation": "hēd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "heed"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "heeds"
+          },
+          {
+            "part": "past tense",
+            "variant": "heeded"
+          },
+          {
+            "part": "past participle",
+            "variant": "heeded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "heeding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pay attention to; take notice of.",
+            "examples": [
+              "he should have heeded the warnings"
+            ],
+            "synonyms": [
+              "pay attention to",
+              "take notice of",
+              "take note of",
+              "pay heed to",
+              "attend to",
+              "listen to; Morebear in mind",
+              "be mindful of",
+              "mind",
+              "mark",
+              "consider",
+              "take into account",
+              "follow",
+              "obey",
+              "adhere to",
+              "abide by",
+              "observe",
+              "take to heart",
+              "be alert to \"heed the warnings\""
+            ],
+            "antonyms": [
+              "disregard"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "heed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "careful attention.",
+            "examples": [
+              "if he heard, he paid no heed"
+            ],
+            "synonyms": [
+              "attention",
+              "notice",
+              "note",
+              "regard; Moreconsideration",
+              "thought",
+              "care \"he paid no heed\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "word": "airfield",
+    "syllables": [
+      "air",
+      "field"
+    ],
+    "pronunciation": "ˈerˌfēld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "airfield"
+          },
+          {
+            "part": "plural noun",
+            "variant": "airfields"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of land set aside for the takeoff, landing, and maintenance of aircraft."
+          }
+        ]
+      }
+    ]
+  }
+]

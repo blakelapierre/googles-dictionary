@@ -1,0 +1,107 @@
+[
+  {
+    "word": "saint",
+    "syllables": [
+      "saint"
+    ],
+    "pronunciation": "sānt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "saint"
+          },
+          {
+            "part": "plural noun",
+            "variant": "saints"
+          },
+          {
+            "part": "noun",
+            "variant": "Saint"
+          },
+          {
+            "part": "noun",
+            "variant": "St"
+          },
+          {
+            "part": "noun",
+            "variant": "S."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person acknowledged as holy or virtuous and typically regarded as being in heaven after death."
+          },
+          {
+            "definition": "(in the Catholic and Orthodox Churches) a person formally recognized or canonized by the Church after death, who may be the object of veneration and prayers for intercession."
+          },
+          {
+            "definition": "a person who is admired or venerated because of their virtue.",
+            "examples": [
+              "he was considered a living saint by recipients of his generosity"
+            ]
+          },
+          {
+            "definition": "(in or alluding to biblical use) a Christian believer."
+          },
+          {
+            "definition": "a member of the Church of Jesus Christ of Latter-Day Saints; a Mormon.",
+            "examples": [
+              "plural noun: Saints"
+            ]
+          },
+          {
+            "definition": "used in titles of religious saints.",
+            "examples": [
+              "the epistles of Saint Paul"
+            ]
+          },
+          {
+            "definition": "used in place names or other dedications.",
+            "examples": [
+              "St. Louis"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "saint"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "saints"
+          },
+          {
+            "part": "past tense",
+            "variant": "sainted"
+          },
+          {
+            "part": "past participle",
+            "variant": "sainted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sainting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "formally recognize as a saint; canonize."
+          },
+          {
+            "definition": "worthy of being a saint; very virtuous.",
+            "examples": [
+              "adjective: sainted"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

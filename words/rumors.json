@@ -1,0 +1,62 @@
+[
+  {
+    "word": "rumor",
+    "syllables": [
+      "ru",
+      "mor"
+    ],
+    "pronunciation": "ˈro͞omər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "rumors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a currently circulating story or report of uncertain or doubtful truth.",
+            "examples": [
+              "they were investigating rumors of a massacre"
+            ],
+            "synonyms": [
+              "gossip",
+              "hearsay",
+              "talk",
+              "tittle-tattle",
+              "speculation",
+              "word; Morereports",
+              "stories",
+              "whispers",
+              "canards; informalgrapevine",
+              "word on the street",
+              "buzz",
+              "dirt",
+              "scuttlebutt",
+              "loose lips \"do you think the talk of her resignation is fact or just rumor?\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "rumors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be circulated as an unverified account.",
+            "examples": [
+              "it's rumored that he lives on a houseboat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

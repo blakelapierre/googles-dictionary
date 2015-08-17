@@ -1,0 +1,157 @@
+[
+  {
+    "word": "course",
+    "syllables": [
+      "course"
+    ],
+    "pronunciation": "kôrs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "courses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the route or direction followed by a ship, aircraft, road, or river.",
+            "examples": [
+              "the road adopts a tortuous course along the coast"
+            ],
+            "synonyms": [
+              "route",
+              "way",
+              "track",
+              "direction",
+              "tack",
+              "path",
+              "line",
+              "trail",
+              "trajectory",
+              "bearing",
+              "heading",
+              "orbit \"the island was not far off our course\""
+            ]
+          },
+          {
+            "definition": "the way in which something progresses or develops.",
+            "examples": [
+              "the course of history"
+            ],
+            "synonyms": [
+              "progression",
+              "development",
+              "progress",
+              "advance",
+              "evolution",
+              "flow",
+              "movement",
+              "sequence",
+              "order",
+              "succession",
+              "rise",
+              "march",
+              "passage",
+              "passing \"the course of history\""
+            ]
+          },
+          {
+            "definition": "a procedure adopted to deal with a situation.",
+            "examples": [
+              "procedure, plan, plan of action, course of action, line of action, MO, modus operandi, practice, approach, technique, way, means, policy, strategy, program; praxis what is the best course to adopt?"
+            ]
+          },
+          {
+            "definition": "an area of land set aside and prepared for racing, golf, or another sport.",
+            "examples": [
+              "racecourse, raceway, racetrack, track, ground a waterlogged course"
+            ]
+          },
+          {
+            "definition": "a dish, or a set of dishes served together, forming one of the successive parts of a meal.",
+            "examples": [
+              "guests are offered a choice of main course"
+            ]
+          },
+          {
+            "definition": "a series of lectures or lessons in a particular subject, typically leading to a qualification.",
+            "examples": [
+              "a business studies course"
+            ],
+            "synonyms": [
+              "class",
+              "course of study",
+              "program of study",
+              "curriculum",
+              "syllabus; Moreclasses",
+              "lectures",
+              "studies \"I'm taking a French course\""
+            ]
+          },
+          {
+            "definition": "a series of repeated treatments or doses of medication.",
+            "examples": [
+              "the doctor prescribed a course of antibiotics"
+            ],
+            "synonyms": [
+              "program",
+              "series",
+              "sequence",
+              "system",
+              "schedule",
+              "regimen \"a course of antibiotics\""
+            ]
+          },
+          {
+            "definition": "a continuous horizontal layer of brick, stone, or other material in a building."
+          },
+          {
+            "definition": "a pursuit of game (especially hares) with greyhounds by sight rather than scent."
+          },
+          {
+            "definition": "the lowest sail on a square-rigged mast."
+          },
+          {
+            "definition": "a set of adjacent strings on a guitar, lute, etc., tuned to the same note."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "courses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of liquid) move without obstruction; flow.",
+            "examples": [
+              "tears were coursing down her cheeks"
+            ],
+            "synonyms": [
+              "flow",
+              "pour",
+              "stream",
+              "run",
+              "rush",
+              "gush",
+              "cascade",
+              "flood",
+              "roll \"tears coursed down her cheeks\""
+            ]
+          },
+          {
+            "definition": "pursue (game, especially hares) with greyhounds using sight rather than scent.",
+            "examples": [
+              "many of the hares coursed escaped unharmed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

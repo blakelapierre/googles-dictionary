@@ -1,0 +1,201 @@
+[
+  {
+    "word": "spill",
+    "syllables": [
+      "spill"
+    ],
+    "pronunciation": "spil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "spill"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "spills"
+          },
+          {
+            "part": "past tense",
+            "variant": "spilt"
+          },
+          {
+            "part": "past participle",
+            "variant": "spilt"
+          },
+          {
+            "part": "past tense",
+            "variant": "spilled"
+          },
+          {
+            "part": "past participle",
+            "variant": "spilled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spilling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause or allow (liquid) to flow over the edge of its container, especially unintentionally.",
+            "examples": [
+              "you'll spill that coffee if you're not careful"
+            ],
+            "synonyms": [
+              "knock over",
+              "tip over",
+              "upset",
+              "overturn \"Kevin spilled his drink\""
+            ]
+          },
+          {
+            "definition": "(of liquid) flow over the edge of its container.",
+            "examples": [
+              "some of the wine spilled onto the floor"
+            ],
+            "synonyms": [
+              "overflow",
+              "flow",
+              "pour",
+              "run",
+              "slop",
+              "slosh",
+              "splash; Moreleak",
+              "escape; archaicoverbrim \"the bath water spilled onto the floor\""
+            ]
+          },
+          {
+            "definition": "(with reference to the contents of something) empty out or be emptied out onto a surface.",
+            "examples": [
+              "passengers' baggage had spilled out of the hold"
+            ]
+          },
+          {
+            "definition": "(of a number of people) move out of somewhere quickly.",
+            "examples": [
+              "students began to spill out of the building"
+            ],
+            "synonyms": [
+              "stream",
+              "pour",
+              "surge",
+              "swarm",
+              "flood",
+              "throng",
+              "crowd \"students spilled out of the building\""
+            ]
+          },
+          {
+            "definition": "reveal (confidential information) to someone.",
+            "examples": [
+              "he was reluctant to spill her address"
+            ],
+            "synonyms": [
+              "reveal",
+              "disclose",
+              "divulge",
+              "blurt out",
+              "babble",
+              "betray",
+              "tell; informalblab \"he's spilling out his troubles to her\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to fall off a horse or bicycle.",
+            "examples": [
+              "the horse was wrenched off course, spilling his rider"
+            ],
+            "synonyms": [
+              "unseat",
+              "throw",
+              "dislodge",
+              "unhorse \"the horse spilled its rider\""
+            ]
+          },
+          {
+            "definition": "let (wind) out of a sail, typically by slackening the sheets."
+          },
+          {
+            "definition": "(in the context of ball games) drop (the ball)."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spill"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quantity of liquid that has spilled or been spilled.",
+            "examples": [
+              "a 25-ton oil spill"
+            ]
+          },
+          {
+            "definition": "an instance of a liquid spilling or being spilled.",
+            "examples": [
+              "he was absolved from any blame for the oil spill"
+            ],
+            "synonyms": [
+              "spillage",
+              "leak",
+              "leakage",
+              "overflow",
+              "flood \"an oil spill\""
+            ]
+          },
+          {
+            "definition": "a fall from a horse or bicycle.",
+            "examples": [
+              "Granddad took a spill while riding the bay mare"
+            ],
+            "synonyms": [
+              "fall",
+              "tumble; Moreinformalheader",
+              "cropper",
+              "nosedive \"she took a spill in the opening race\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spill",
+    "syllables": [
+      "spill"
+    ],
+    "pronunciation": "spil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spill"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spills"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thin strip of wood or paper used for lighting a fire, candle, pipe, etc."
+          }
+        ]
+      }
+    ]
+  }
+]

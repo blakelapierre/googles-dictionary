@@ -1,0 +1,89 @@
+[
+  {
+    "word": "comprehensive",
+    "syllables": [
+      "com",
+      "pre",
+      "hen",
+      "sive"
+    ],
+    "pronunciation": "ˌkämprəˈhensiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "comprehensive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "complete; including all or nearly all elements or aspects of something.",
+            "examples": [
+              "a comprehensive list of sources"
+            ]
+          },
+          {
+            "definition": "of large content or scope; wide-ranging.",
+            "examples": [
+              "a comprehensive collection of photographs"
+            ],
+            "synonyms": [
+              "inclusive",
+              "all-inclusive",
+              "complete; Morethorough",
+              "full",
+              "extensive",
+              "all-embracing",
+              "exhaustive",
+              "detailed",
+              "in-depth",
+              "encyclopedic",
+              "universal",
+              "catholic; far-reaching",
+              "radical",
+              "sweeping",
+              "across the board",
+              "wholesale; broad",
+              "wide-ranging; informalwall-to-wall \"a comprehensive review of our defense policy\""
+            ],
+            "antonyms": [
+              "limited"
+            ]
+          },
+          {
+            "definition": "(of automobile insurance) providing coverage for most risks, including damage to the policyholder's own vehicle.",
+            "examples": [
+              "comprehensive and collision insurance"
+            ]
+          },
+          {
+            "definition": "an examination testing a student's command of a special field of knowledge."
+          },
+          {
+            "definition": "of or relating to understanding."
+          }
+        ]
+      },
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "comprehensive"
+          },
+          {
+            "part": "plural noun",
+            "variant": "comprehensives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a secondary school catering to children of all abilities from a given area."
+          }
+        ]
+      }
+    ]
+  }
+]

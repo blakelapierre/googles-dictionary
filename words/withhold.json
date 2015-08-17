@@ -1,0 +1,62 @@
+[
+  {
+    "word": "withhold",
+    "syllables": [
+      "with",
+      "hold"
+    ],
+    "pronunciation": "wiTHˈhōldwiT͟Hˈhōld",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "withhold"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "withholds"
+          },
+          {
+            "part": "past tense",
+            "variant": "withheld"
+          },
+          {
+            "part": "past participle",
+            "variant": "withheld"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "withholding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "refuse to give (something that is due to or is desired by another).",
+            "examples": [
+              "the name of the dead man is being withheld"
+            ],
+            "synonyms": [
+              "hold back",
+              "keep back",
+              "refuse to give; Moreretain",
+              "hold on to; hide",
+              "conceal",
+              "keep secret; informalsit on \"he withheld the information\""
+            ]
+          },
+          {
+            "definition": "suppress or hold back (an emotion or reaction).",
+            "examples": [
+              "suppress, repress, hold back, fight back, choke back, control, check, restrain, contain she could not withhold her tears"
+            ]
+          },
+          {
+            "definition": "(of an employer) deduct (tax) from an employee's paycheck and send it directly to the government."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "chromosome",
+    "syllables": [
+      "chro",
+      "mo",
+      "some"
+    ],
+    "pronunciation": "ˈkrōməˌsōm",
+    "parts": [
+      {
+        "part": "nounBiology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chromosome"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chromosomes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a threadlike structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes."
+          }
+        ]
+      }
+    ]
+  }
+]

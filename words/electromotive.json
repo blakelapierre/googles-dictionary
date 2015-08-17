@@ -1,0 +1,29 @@
+[
+  {
+    "word": "electromotive",
+    "syllables": [
+      "e",
+      "lec",
+      "tro",
+      "mo",
+      "tive"
+    ],
+    "pronunciation": "iˌlektrəˈmōtiv",
+    "parts": [
+      {
+        "part": "adjectivePhysics",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "electromotive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "producing or tending to produce an electric current."
+          }
+        ]
+      }
+    ]
+  }
+]

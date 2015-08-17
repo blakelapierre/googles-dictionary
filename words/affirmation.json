@@ -1,0 +1,61 @@
+[
+  {
+    "word": "affirmation",
+    "syllables": [
+      "af",
+      "firm",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "ˌafərˈmāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "affirmation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "affirmations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of affirming something or being affirmed.",
+            "examples": [
+              "he nodded in affirmation"
+            ],
+            "synonyms": [
+              "declaration",
+              "statement",
+              "assertion",
+              "proclamation",
+              "pronouncement",
+              "attestation; Moreoath",
+              "avowal",
+              "guarantee",
+              "pledge; deposition; formalaverment",
+              "asseveration \"an affirmation of faith\"confirmation",
+              "ratification",
+              "endorsement \"the poem ends with an affirmation of pastoral values\""
+            ],
+            "antonyms": [
+              "denial"
+            ]
+          },
+          {
+            "definition": "a formal declaration by a person who declines to take an oath for reasons of conscience."
+          },
+          {
+            "definition": "emotional support or encouragement.",
+            "examples": [
+              "the lack of one or both parents' affirmation leaves some children emotionally crippled"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

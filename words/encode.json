@@ -1,0 +1,51 @@
+[
+  {
+    "word": "encode",
+    "syllables": [
+      "en",
+      "code"
+    ],
+    "pronunciation": "inˈkōdenˈkōd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "encode"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "encodes"
+          },
+          {
+            "part": "past tense",
+            "variant": "encoded"
+          },
+          {
+            "part": "past participle",
+            "variant": "encoded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "encoding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convert into a coded form."
+          },
+          {
+            "definition": "convert (information or an instruction) into a particular form.",
+            "examples": [
+              "the amount of time required to encode a WAV file to MP3 format"
+            ]
+          },
+          {
+            "definition": "(of a gene) be responsible for producing (a substance or behavior)."
+          }
+        ]
+      }
+    ]
+  }
+]

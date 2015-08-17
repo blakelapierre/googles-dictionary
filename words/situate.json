@@ -1,0 +1,49 @@
+[
+  {
+    "word": "situate",
+    "syllables": [
+      "sit",
+      "u",
+      "ate"
+    ],
+    "pronunciation": "ˈsiCHəˌwātˈsiCHo͝oət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "situate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "situates"
+          },
+          {
+            "part": "past tense",
+            "variant": "situated"
+          },
+          {
+            "part": "past participle",
+            "variant": "situated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "situating"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjectiveLawarchaic",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "situate"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

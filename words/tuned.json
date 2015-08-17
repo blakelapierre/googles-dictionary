@@ -1,0 +1,62 @@
+[
+  {
+    "word": "tune",
+    "syllables": [
+      "tune"
+    ],
+    "pronunciation": "t(y)o͞on",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "tuned"
+          },
+          {
+            "part": "past participle",
+            "variant": "tuned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "adjust (a musical instrument) to the correct or uniform pitch.",
+            "examples": [
+              "he tuned the harp for me"
+            ],
+            "synonyms": [
+              "adjust",
+              "fine-tune",
+              "tune up \"they tuned their guitars\""
+            ]
+          },
+          {
+            "definition": "adjust (a receiver circuit such as a radio or television) to the frequency of the required signal.",
+            "examples": [
+              "the radio was tuned to the CBC"
+            ]
+          },
+          {
+            "definition": "adjust (an engine) or balance (mechanical parts) so that a vehicle runs smoothly and efficiently.",
+            "examples": [
+              "the suspension was tuned for a softer ride"
+            ]
+          },
+          {
+            "definition": "adjust or adapt (something) to a particular purpose or situation.",
+            "examples": [
+              "the animals are finely tuned to life in the desert"
+            ],
+            "synonyms": [
+              "attune",
+              "adapt",
+              "adjust",
+              "fine-tune; Moreregulate",
+              "modulate \"a body clock tuned to the lunar cycle\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "word": "tread",
+    "syllables": [
+      "tread"
+    ],
+    "pronunciation": "tred",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tread"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "treads"
+          },
+          {
+            "part": "past tense",
+            "variant": "trod"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "treading"
+          },
+          {
+            "part": "past participle",
+            "variant": "trodden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "walk in a specified way.",
+            "examples": [
+              "he trod lightly, trying to make as little contact with the mud as possible"
+            ],
+            "synonyms": [
+              "walk",
+              "step",
+              "stride",
+              "pace",
+              "go; Moremarch",
+              "tramp",
+              "plod",
+              "thump",
+              "stomp",
+              "trudge \"he trod purposefully down the hall\""
+            ]
+          },
+          {
+            "definition": "set one's foot down on top of."
+          },
+          {
+            "definition": "walk on or along.",
+            "examples": [
+              "shoppers will soon be treading the floors of the new shopping mall"
+            ]
+          },
+          {
+            "definition": "press down into the ground or another surface with the feet.",
+            "examples": [
+              "food and cigarette butts had been trodden into the carpet"
+            ]
+          },
+          {
+            "definition": "crush or flatten something with the feet.",
+            "examples": [
+              "the snow had been trodden down by the horses"
+            ],
+            "synonyms": [
+              "crush",
+              "flatten",
+              "press down",
+              "squash; Moretrample on",
+              "tramp on",
+              "stamp on",
+              "stomp on \"the snow had been trodden down by the horses\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tread"
+          },
+          {
+            "part": "plural noun",
+            "variant": "treads"
+          },
+          {
+            "part": "noun",
+            "variant": "tread board"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tread boards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a manner or the sound of someone walking.",
+            "examples": [
+              "I heard the heavy tread of Dad's boots"
+            ],
+            "synonyms": [
+              "step",
+              "footstep",
+              "footfall",
+              "tramp",
+              "thump; clip-clop \"we heard her heavy tread on the stairs\""
+            ]
+          },
+          {
+            "definition": "the top surface of a step or stair."
+          },
+          {
+            "definition": "the thick molded part of a vehicle tire that grips the road."
+          },
+          {
+            "definition": "the part of a wheel that touches the ground or rail."
+          },
+          {
+            "definition": "the upper surface of a railroad track, in contact with the wheels."
+          },
+          {
+            "definition": "the part of the sole of a shoe that rests on the ground."
+          }
+        ]
+      }
+    ]
+  }
+]

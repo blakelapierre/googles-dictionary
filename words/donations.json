@@ -1,0 +1,42 @@
+[
+  {
+    "word": "donation",
+    "syllables": [
+      "do",
+      "na",
+      "tion"
+    ],
+    "pronunciation": "dōˈnāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "donations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "something that is given to a charity, especially a sum of money.",
+            "examples": [
+              "a tax-deductible donation of $200"
+            ],
+            "synonyms": [
+              "gift",
+              "contribution",
+              "present",
+              "pledge",
+              "handout",
+              "grant",
+              "offering; Morecare package; formalbenefaction; historicalalms \"a tax-deductible donation\""
+            ]
+          },
+          {
+            "definition": "the action of donating something."
+          }
+        ]
+      }
+    ]
+  }
+]

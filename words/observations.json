@@ -1,0 +1,69 @@
+[
+  {
+    "word": "observation",
+    "syllables": [
+      "ob",
+      "ser",
+      "va",
+      "tion"
+    ],
+    "pronunciation": "ˌäbzərˈvāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "observations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of observing something or someone carefully or in order to gain information.",
+            "examples": [
+              "she was brought into the hospital for observation"
+            ],
+            "synonyms": [
+              "monitoring",
+              "watching",
+              "scrutiny",
+              "examination",
+              "inspection",
+              "survey",
+              "surveillance",
+              "consideration",
+              "study",
+              "review \"the patient has been brought in for observation\""
+            ]
+          },
+          {
+            "definition": "the ability to notice things, especially significant details.",
+            "examples": [
+              "his powers of observation"
+            ]
+          },
+          {
+            "definition": "the taking of the altitude of the sun or another celestial body for navigational purposes."
+          },
+          {
+            "definition": "a remark, statement, or comment based on something one has seen, heard, or noticed.",
+            "examples": [
+              "he made a telling observation about Hugh"
+            ],
+            "synonyms": [
+              "remark",
+              "comment",
+              "statement",
+              "utterance",
+              "pronouncement",
+              "declaration; Moreopinion",
+              "impression",
+              "thought",
+              "reflection; obiter dictum \"who was the recipient of that flattering observation?\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

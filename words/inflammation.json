@@ -1,0 +1,44 @@
+[
+  {
+    "word": "inflammation",
+    "syllables": [
+      "in",
+      "flam",
+      "ma",
+      "tion"
+    ],
+    "pronunciation": "ˌinfləˈmāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inflammation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "inflammations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury or infection.",
+            "examples": [
+              "chronic inflammation of the nasal cavities"
+            ],
+            "synonyms": [
+              "swelling",
+              "puffiness; Moreredness; rawness",
+              "soreness",
+              "tenderness; infection",
+              "festering",
+              "suppuration",
+              "septicity \"apply ice to the inflammation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

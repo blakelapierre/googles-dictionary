@@ -1,0 +1,86 @@
+[
+  {
+    "word": "govern",
+    "syllables": [
+      "gov",
+      "ern"
+    ],
+    "pronunciation": "ˈɡəvərn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "governed"
+          },
+          {
+            "part": "past participle",
+            "variant": "governed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "conduct the policy, actions, and affairs of (a state, organization, or people).",
+            "examples": [
+              "he was incapable of governing the country"
+            ],
+            "synonyms": [
+              "rule",
+              "preside over",
+              "reign over",
+              "control",
+              "be in charge of",
+              "command",
+              "lead",
+              "dominate; Morerun",
+              "head",
+              "administer",
+              "manage",
+              "regulate",
+              "oversee",
+              "supervise; informalbe in the driver's seat of \"he governs the province\""
+            ]
+          },
+          {
+            "definition": "control, influence, or regulate (a person, action, or course of events).",
+            "examples": [
+              "the future of Jamaica will be governed by geography, not history"
+            ],
+            "synonyms": [
+              "determine",
+              "decide",
+              "control",
+              "regulate",
+              "direct",
+              "rule",
+              "dictate",
+              "shape; Moreaffect",
+              "influence",
+              "sway",
+              "act on",
+              "mold",
+              "modify",
+              "impact on \"the rules governing social behavior\""
+            ]
+          },
+          {
+            "definition": "conduct oneself, especially with regard to controlling one's emotions.",
+            "examples": [
+              "men would give in to passion and become unable to govern themselves"
+            ]
+          },
+          {
+            "definition": "serve to decide (a legal case)."
+          },
+          {
+            "definition": "(of a word) require that (another word or group of words) be in a particular case.",
+            "examples": [
+              "the Latin preposition “cum” governs nouns in the ablative"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

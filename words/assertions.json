@@ -1,0 +1,52 @@
+[
+  {
+    "word": "assertion",
+    "syllables": [
+      "as",
+      "ser",
+      "tion"
+    ],
+    "pronunciation": "əˈsərSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "assertions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a confident and forceful statement of fact or belief.",
+            "examples": [
+              "his assertion that his father had deserted the family"
+            ],
+            "synonyms": [
+              "declaration",
+              "contention",
+              "statement",
+              "claim",
+              "opinion",
+              "proclamation",
+              "announcement",
+              "pronouncement",
+              "protestation",
+              "avowal; Moreformalaverment; rareasseveration \"I questioned his assertion\""
+            ]
+          },
+          {
+            "definition": "the action of stating something or exercising authority confidently and forcefully.",
+            "examples": [
+              "the assertion of his legal rights"
+            ],
+            "synonyms": [
+              "defense of",
+              "upholding of; insistence on \"an assertion of the right to march\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

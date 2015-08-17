@@ -1,0 +1,30 @@
+[
+  {
+    "word": "taxation",
+    "syllables": [
+      "tax",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "takˈsāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "taxation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the levying of tax."
+          },
+          {
+            "definition": "money paid as tax."
+          }
+        ]
+      }
+    ]
+  }
+]

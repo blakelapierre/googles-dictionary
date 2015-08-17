@@ -1,0 +1,105 @@
+[
+  {
+    "word": "intent",
+    "syllables": [
+      "in",
+      "tent"
+    ],
+    "pronunciation": "inˈtent",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "intention or purpose.",
+            "examples": [
+              "with alarm she realized his intent"
+            ],
+            "synonyms": [
+              "aim",
+              "intention",
+              "purpose",
+              "objective",
+              "object",
+              "goal",
+              "target; Moredesign",
+              "plan",
+              "scheme; wish",
+              "desire",
+              "ambition",
+              "idea",
+              "aspiration \"he tried to figure out his father's intent\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "intent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "resolved or determined to do (something).",
+            "examples": [
+              "the administration was intent on achieving greater efficiency"
+            ],
+            "synonyms": [
+              "bent on",
+              "set on",
+              "insistent on",
+              "hell-bent on; Morecommitted to",
+              "obsessive about",
+              "obsessed with",
+              "fanatical about",
+              "fixated on; determined to; anxious to",
+              "resolved to",
+              "impatient to \"he was intent on proving his point\""
+            ]
+          },
+          {
+            "definition": "attentively occupied with.",
+            "examples": [
+              "Jill was intent on her gardening magazine"
+            ],
+            "synonyms": [
+              "attentive",
+              "absorbed",
+              "engrossed",
+              "fascinated",
+              "enthralled",
+              "rapt",
+              "riveted; Morefocused",
+              "undistracted",
+              "earnest",
+              "concentrating",
+              "intense",
+              "studious",
+              "preoccupied; alert",
+              "watchful \"an intent expression\""
+            ]
+          },
+          {
+            "definition": "(especially of a look) showing earnest and eager attention.",
+            "examples": [
+              "a curiously intent look on her face"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

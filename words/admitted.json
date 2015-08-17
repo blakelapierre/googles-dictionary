@@ -1,0 +1,138 @@
+[
+  {
+    "word": "admit",
+    "syllables": [
+      "ad",
+      "mit"
+    ],
+    "pronunciation": "ədˈmit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "admitted"
+          },
+          {
+            "part": "past participle",
+            "variant": "admitted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "confess to be true or to be the case, typically with reluctance.",
+            "examples": [
+              "the office finally admitted that several prisoners had been injured"
+            ],
+            "synonyms": [
+              "confess",
+              "acknowledge",
+              "own",
+              "concede",
+              "grant",
+              "accept",
+              "allow; Morereveal",
+              "disclose",
+              "divulge; plead guilty \"Paul admitted that he was angry\""
+            ],
+            "antonyms": [
+              "deny"
+            ]
+          },
+          {
+            "definition": "confess to (a crime or fault, or one's responsibility for it).",
+            "examples": [
+              "he was sentenced to prison after admitting 47 charges of burglary"
+            ],
+            "synonyms": [
+              "confess",
+              "acknowledge",
+              "own",
+              "concede",
+              "grant",
+              "accept",
+              "allow; Morereveal",
+              "disclose",
+              "divulge; plead guilty \"Paul admitted that he was angry\""
+            ],
+            "antonyms": [
+              "deny"
+            ]
+          },
+          {
+            "definition": "acknowledge (a failure or fault).",
+            "examples": [
+              "after searching for an hour, she finally had to admit defeat"
+            ]
+          },
+          {
+            "definition": "allow (someone) to enter a place.",
+            "examples": [
+              "senior citizens are admitted free to the museum"
+            ],
+            "synonyms": [
+              "let in",
+              "allow entry",
+              "permit entry",
+              "take in",
+              "usher in",
+              "show in",
+              "receive",
+              "welcome \"he unlocked the door to admit her\""
+            ],
+            "antonyms": [
+              "exclude"
+            ]
+          },
+          {
+            "definition": "(of a ticket) give (someone) the right to enter a place.",
+            "examples": [
+              "the voucher admits up to four people to the theme park"
+            ]
+          },
+          {
+            "definition": "carry out the procedures necessary for (someone) to be received into a hospital for treatment.",
+            "examples": [
+              "she was admitted to the hospital suffering from a chest infection"
+            ]
+          },
+          {
+            "definition": "allow (a person, country, or organization) to join an organization or group.",
+            "examples": [
+              "Canada was admitted to the League of Nations"
+            ],
+            "synonyms": [
+              "accept to/into",
+              "receive into",
+              "enroll in",
+              "enlist into",
+              "register into \"she was admitted to law school\""
+            ],
+            "antonyms": [
+              "expel"
+            ]
+          },
+          {
+            "definition": "allow (someone) to share in a privilege.",
+            "examples": [
+              "the doctrine held that only a chosen few were admitted to the covenant"
+            ]
+          },
+          {
+            "definition": "accept as valid.",
+            "examples": [
+              "the courts can refuse to admit police evidence that has been illegally obtained"
+            ]
+          },
+          {
+            "definition": "allow the possibility of.",
+            "examples": [
+              "the need to inform him was too urgent to admit of further delay"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

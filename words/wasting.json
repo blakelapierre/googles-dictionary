@@ -1,0 +1,100 @@
+[
+  {
+    "word": "waste",
+    "syllables": [
+      "waste"
+    ],
+    "pronunciation": "wāst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "wasting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "use or expend carelessly, extravagantly, or to no purpose.",
+            "examples": [
+              "we can't afford to waste electricity"
+            ],
+            "synonyms": [
+              "squander",
+              "misspend",
+              "misuse",
+              "fritter away",
+              "throw away",
+              "lavish",
+              "dissipate",
+              "throw around; Moreinformalblow",
+              "splurge \"he doesn't like to waste money\""
+            ],
+            "antonyms": [
+              "conserve"
+            ]
+          },
+          {
+            "definition": "bestow or expend on an unappreciative recipient.",
+            "examples": [
+              "her small talk was wasted on this guest"
+            ]
+          },
+          {
+            "definition": "fail to make full or good use of.",
+            "examples": [
+              "we're wasted in this job"
+            ]
+          },
+          {
+            "definition": "(of a person or a part of the body) become progressively weaker and more emaciated.",
+            "examples": [
+              "she was dying of AIDS, visibly wasting away"
+            ],
+            "synonyms": [
+              "grow weak",
+              "grow thin",
+              "shrink",
+              "decline",
+              "wilt",
+              "fade",
+              "flag",
+              "deteriorate",
+              "degenerate",
+              "languish \"these children are wasting away in the streets\""
+            ],
+            "antonyms": [
+              "flourish",
+              "thrive"
+            ]
+          },
+          {
+            "definition": "cause to do this.",
+            "examples": [
+              "these symptoms wasted the patients very much"
+            ]
+          },
+          {
+            "definition": "devastate or ruin (a place).",
+            "examples": [
+              "he seized their cattle and wasted their country"
+            ]
+          },
+          {
+            "definition": "kill or severely injure (someone).",
+            "examples": [
+              "I saw them waste the guy I worked for"
+            ]
+          },
+          {
+            "definition": "(of time) pass away; be spent.",
+            "examples": [
+              "the years were wasting"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

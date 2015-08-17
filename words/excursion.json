@@ -1,0 +1,62 @@
+[
+  {
+    "word": "excursion",
+    "syllables": [
+      "ex",
+      "cur",
+      "sion"
+    ],
+    "pronunciation": "ikˈskərZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "excursion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "excursions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a short journey or trip, especially one engaged in as a leisure activity.",
+            "examples": [
+              "an excursion to Mount Etna"
+            ],
+            "synonyms": [
+              "trip",
+              "outing",
+              "jaunt",
+              "expedition",
+              "journey",
+              "tour",
+              "road trip; Moreday trip",
+              "day out",
+              "side trip",
+              "drive",
+              "run",
+              "ride; informaljunket",
+              "spin",
+              "sortie \"a lovely excursion to Nassau\""
+            ]
+          },
+          {
+            "definition": "an instance of the movement of something along a path or through an angle."
+          },
+          {
+            "definition": "a deviation from a regular pattern, path, or level of operation."
+          },
+          {
+            "definition": "a digression."
+          },
+          {
+            "definition": "alarum)."
+          }
+        ]
+      }
+    ]
+  }
+]

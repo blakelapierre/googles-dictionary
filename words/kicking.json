@@ -1,0 +1,102 @@
+[
+  {
+    "word": "kicking",
+    "syllables": [
+      "kick",
+      "ing"
+    ],
+    "pronunciation": "ˈkikiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "kicking"
+          },
+          {
+            "part": "plural noun",
+            "variant": "kickings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a punishment or assault in which the victim is kicked repeatedly.",
+            "examples": [
+              "they gave him a good kicking"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "kicking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of music) lively and exciting.",
+            "examples": [
+              "their seriously kicking debut, “Paradise.”"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kick",
+    "syllables": [
+      "kick"
+    ],
+    "pronunciation": "kik",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "kicking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strike or propel forcibly with the foot.",
+            "examples": [
+              "police kicked down the door"
+            ],
+            "synonyms": [
+              "boot",
+              "punt",
+              "drop-kick; informalhoof \"she kicked the ball over the fence\""
+            ]
+          },
+          {
+            "definition": "strike out or flail with the foot or feet.",
+            "examples": [
+              "she kicked out at him"
+            ]
+          },
+          {
+            "definition": "be annoyed with oneself for doing something foolish or missing an opportunity."
+          },
+          {
+            "definition": "(in football, rugby, etc.) score (a goal) by a kick."
+          },
+          {
+            "definition": "succeed in giving up (a habit or addiction).",
+            "examples": [
+              "give up, break, abandon, end, stop, cease, desist from, renounce; Moreinformalshake, pack in, leave off, quit \"he was struggling to kick his drug habit\"Moreshake, pack in, leave off, quit he was struggling to kick his drug habit"
+            ]
+          },
+          {
+            "definition": "(of a gun) recoil when fired."
+          }
+        ]
+      }
+    ]
+  }
+]

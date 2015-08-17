@@ -1,0 +1,48 @@
+[
+  {
+    "word": "overfamiliar",
+    "syllables": [
+      "o",
+      "ver",
+      "fa",
+      "mil",
+      "iar"
+    ],
+    "pronunciation": "ˌōvərfəˈmilyər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "overfamiliar"
+          },
+          {
+            "part": "adjective",
+            "variant": "over-familiar"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "too well known.",
+            "examples": [
+              "the overfamiliar teacher's voice"
+            ]
+          },
+          {
+            "definition": "too well acquainted with.",
+            "examples": [
+              "the researcher is overfamiliar with the community"
+            ]
+          },
+          {
+            "definition": "behaving or speaking in an inappropriately informal way.",
+            "examples": [
+              "her private detective was dismissed for being overfamiliar with her"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

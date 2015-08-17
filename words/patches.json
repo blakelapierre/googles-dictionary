@@ -1,0 +1,187 @@
+[
+  {
+    "word": "patch",
+    "syllables": [
+      "patch"
+    ],
+    "pronunciation": "paCH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "patches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a piece of cloth or other material used to mend or strengthen a torn or weak point."
+          },
+          {
+            "definition": "a pad or shield worn over a sightless or injured eye or an eye socket.",
+            "examples": [
+              "cover, eye patch, covering, pad a patch over one eye"
+            ]
+          },
+          {
+            "definition": "a piece of cloth sewn onto clothing as a badge or distinguishing mark."
+          },
+          {
+            "definition": "a small piece of code inserted into a program to improve its functioning or to correct an error."
+          },
+          {
+            "definition": "an adhesive piece of drug-impregnated material worn on the skin so that the drug can be absorbed gradually over a period of time."
+          },
+          {
+            "definition": "a part of something marked out from the rest by a particular characteristic.",
+            "examples": [
+              "his hair was combed forward to hide a growing bald patch"
+            ],
+            "synonyms": [
+              "blotch",
+              "mark",
+              "spot",
+              "smudge",
+              "speckle",
+              "smear",
+              "stain",
+              "streak",
+              "blemish; informalsplotch \"a reddish patch on her wrist\""
+            ]
+          },
+          {
+            "definition": "a small area or amount of something.",
+            "examples": [
+              "patches of bluebells in the grass"
+            ]
+          },
+          {
+            "definition": "a small disk of black silk attached to the face, especially as worn by women in the 17th and 18th centuries for adornment."
+          },
+          {
+            "definition": "a small piece of ground, especially one used for gardening.",
+            "examples": [
+              "they spent Sundays digging their vegetable patch"
+            ],
+            "synonyms": [
+              "plot",
+              "area",
+              "piece",
+              "strip",
+              "tract",
+              "parcel; Morebed",
+              "allotment",
+              "lot",
+              "plat \"a patch of ground\""
+            ]
+          },
+          {
+            "definition": "an area for which someone is responsible or in which they operate.",
+            "examples": [
+              "we didn't want any secret organizations on our patch"
+            ]
+          },
+          {
+            "definition": "a period of time seen as a distinct unit with a characteristic quality.",
+            "examples": [
+              "he may have been going through a bad patch"
+            ],
+            "synonyms": [
+              "period",
+              "time",
+              "spell",
+              "phase",
+              "stretch \"they are going through a difficult patch\""
+            ]
+          },
+          {
+            "definition": "a temporary electrical or telephone connection."
+          },
+          {
+            "definition": "a preset configuration or sound-data file in an electronic musical instrument, especially a synthesizer."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "patches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mend or strengthen (fabric or an item of clothing) by putting a piece of material over a hole or weak point in it.",
+            "examples": [
+              "her jeans were neatly patched"
+            ],
+            "synonyms": [
+              "mend",
+              "repair",
+              "put a patch on",
+              "sew (up)",
+              "stitch (up) \"her jeans were neatly patched\""
+            ]
+          },
+          {
+            "definition": "place a patch over (a good eye) in order to encourage a lazy eye to work."
+          },
+          {
+            "definition": "correct, enhance, or modify (a routine or program) by inserting a patch."
+          },
+          {
+            "definition": "cover small areas of (a surface) with something different, causing it to appear variegated.",
+            "examples": [
+              "the grass was patched with sandy stretches"
+            ]
+          },
+          {
+            "definition": "treat someone's injuries or repair the damage to something, especially hastily.",
+            "examples": [
+              "they did their best to patch up the gaping wounds"
+            ],
+            "synonyms": [
+              "repair",
+              "mend",
+              "fix hastily",
+              "do a makeshift repair on \"the houses were being patched up\""
+            ]
+          },
+          {
+            "definition": "construct something hastily from unsuitable components.",
+            "examples": [
+              "lean-tos patched together from aluminum siding and planks"
+            ]
+          },
+          {
+            "definition": "restore peaceful or friendly relations after a quarrel or dispute.",
+            "examples": [
+              "any ill feeling could be patched up with a phone call"
+            ],
+            "synonyms": [
+              "reconcile",
+              "make up",
+              "settle",
+              "remedy",
+              "put to rights",
+              "rectify",
+              "clear up",
+              "set right",
+              "make good",
+              "resolve",
+              "square \"he's trying to patch things up with his wife\""
+            ]
+          },
+          {
+            "definition": "connect by a temporary electrical, radio, or telephonic connection.",
+            "examples": [
+              "Ralph had patched her through to the meeting by walkie-talkie"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "differ",
+    "syllables": [
+      "dif",
+      "fer"
+    ],
+    "pronunciation": "ˈdifər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "differing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be unlike or dissimilar.",
+            "examples": [
+              "the second set of data differed from the first"
+            ],
+            "synonyms": [
+              "contrast with",
+              "be different from",
+              "be dissimilar to",
+              "be unlike",
+              "vary from",
+              "diverge from",
+              "deviate from",
+              "conflict with",
+              "run counter to",
+              "be incompatible with",
+              "be at odds with",
+              "go against",
+              "contradict \"the second set of data differed from the first\""
+            ],
+            "antonyms": [
+              "resemble"
+            ]
+          },
+          {
+            "definition": "disagree.",
+            "examples": [
+              "he differed from his contemporaries in ethical matters"
+            ],
+            "synonyms": [
+              "disagree",
+              "conflict",
+              "be at variance",
+              "be at odds",
+              "be in dispute",
+              "not see eye to eye \"the two sides differed over this issue\""
+            ],
+            "antonyms": [
+              "agree"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

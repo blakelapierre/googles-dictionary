@@ -1,0 +1,135 @@
+[
+  {
+    "word": "prod",
+    "syllables": [
+      "prod"
+    ],
+    "pronunciation": "präd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "prod"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "prods"
+          },
+          {
+            "part": "past tense",
+            "variant": "prodded"
+          },
+          {
+            "part": "past participle",
+            "variant": "prodded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "prodding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "poke (someone) with a finger, foot, or pointed object.",
+            "examples": [
+              "he prodded her in the ribs to stop her snoring"
+            ],
+            "synonyms": [
+              "poke",
+              "jab",
+              "dig",
+              "elbow",
+              "butt",
+              "stab \"Cassie prodded him in the chest\""
+            ]
+          },
+          {
+            "definition": "stimulate or persuade (someone who is reluctant or slow) to do something.",
+            "examples": [
+              "he has been trying to prod the White House into launching an antipoverty program"
+            ],
+            "synonyms": [
+              "spur",
+              "stimulate",
+              "stir",
+              "rouse",
+              "prompt",
+              "drive",
+              "galvanize; Morepersuade",
+              "urge",
+              "chivvy; incite",
+              "goad",
+              "egg on",
+              "provoke \"they hoped to prod the government into action\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prod"
+          },
+          {
+            "part": "plural noun",
+            "variant": "prods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a poke with a finger, foot, or pointed object.",
+            "examples": [
+              "he gave the wire netting an experimental prod"
+            ],
+            "synonyms": [
+              "poke",
+              "jab",
+              "dig",
+              "elbow",
+              "butt",
+              "thrust \"a prod in the ribs\""
+            ]
+          },
+          {
+            "definition": "an act of stimulating or reminding someone to do something.",
+            "examples": [
+              "he'll need a little prod to get back to the task at hand"
+            ],
+            "synonyms": [
+              "stimulus",
+              "push",
+              "prompt",
+              "reminder",
+              "spur; Moreincitement",
+              "goad \"they need a prod to get them to act\""
+            ]
+          },
+          {
+            "definition": "a pointed implement, typically one discharging an electric current and used as a goad.",
+            "examples": [
+              "a cattle prod"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prod.",
+    "syllables": [
+      "prod."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  }
+]

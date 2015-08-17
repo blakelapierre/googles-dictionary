@@ -1,0 +1,90 @@
+[
+  {
+    "word": "carpet",
+    "syllables": [
+      "car",
+      "pet"
+    ],
+    "pronunciation": "ˈkärpət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "carpets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a floor or stair covering made from thick woven fabric, typically shaped to fit a particular room.",
+            "examples": [
+              "the house has wall-to-wall carpets throughout"
+            ]
+          },
+          {
+            "definition": "a large rug, typically an oriental one.",
+            "examples": [
+              "priceless Persian carpets"
+            ],
+            "synonyms": [
+              "rug",
+              "mat",
+              "floor covering \"a Turkish carpet\""
+            ]
+          },
+          {
+            "definition": "a thick or soft expanse or layer of something.",
+            "examples": [
+              "carpets of snowdrops and crocuses"
+            ],
+            "synonyms": [
+              "covering",
+              "blanket",
+              "layer",
+              "cover",
+              "cloak",
+              "mantle \"a carpet of wildflowers\""
+            ]
+          },
+          {
+            "definition": "a carpetlike artificial playing surface on a tennis court or an athletic field."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "carpets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover (a floor or stairs) with a carpet.",
+            "examples": [
+              "the stairs were carpeted in a lovely shade of red"
+            ]
+          },
+          {
+            "definition": "cover with a thick or soft expanse or layer of something.",
+            "examples": [
+              "the meadows are carpeted with flowers"
+            ],
+            "synonyms": [
+              "cover",
+              "coat",
+              "overlay",
+              "overspread",
+              "blanket \"the gravel was carpeted in moss\""
+            ]
+          },
+          {
+            "definition": "reprimand severely."
+          }
+        ]
+      }
+    ]
+  }
+]

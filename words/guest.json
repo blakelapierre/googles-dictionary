@@ -1,0 +1,115 @@
+[
+  {
+    "word": "guest",
+    "syllables": [
+      "guest"
+    ],
+    "pronunciation": "ɡest",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "guest"
+          },
+          {
+            "part": "plural noun",
+            "variant": "guests"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who is invited to visit the home of or take part in a function organized by another.",
+            "examples": [
+              "I have two guests coming to dinner tonight"
+            ],
+            "synonyms": [
+              "visitor",
+              "house guest",
+              "caller; Morecompany; archaicvisitant \"I have two guests coming to dinner\""
+            ],
+            "antonyms": [
+              "host"
+            ]
+          },
+          {
+            "definition": "a person invited to participate in an official event.",
+            "examples": [
+              "the bishop went to Cuba as a guest of the Catholic Church"
+            ],
+            "synonyms": [
+              "invited",
+              "featured",
+              "special \"a guest speaker\""
+            ]
+          },
+          {
+            "definition": "a person invited to take part in a radio or television program, sports event, or other entertainment.",
+            "examples": [
+              "a regular guest on the morning show"
+            ]
+          },
+          {
+            "definition": "a person lodging at a hotel or boarding house.",
+            "examples": [
+              "a reduction for guests staying seven nights or more"
+            ],
+            "synonyms": [
+              "patron",
+              "client",
+              "visitor",
+              "boarder",
+              "lodger",
+              "roomer \"hotel guests\""
+            ],
+            "antonyms": [
+              "host",
+              "landlord",
+              "landlady"
+            ]
+          },
+          {
+            "definition": "a customer at a restaurant."
+          },
+          {
+            "definition": "a small invertebrate that lives unharmed within an ants' nest."
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "guest"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "guests"
+          },
+          {
+            "part": "past tense",
+            "variant": "guested"
+          },
+          {
+            "part": "past participle",
+            "variant": "guested"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "guesting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "appear as a guest.",
+            "examples": [
+              "he guested on one of her early albums"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

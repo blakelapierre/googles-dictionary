@@ -1,0 +1,105 @@
+[
+  {
+    "word": "scrabble",
+    "syllables": [
+      "scrab",
+      "ble"
+    ],
+    "pronunciation": "ˈskrabəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "scrabble"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "scrabbles"
+          },
+          {
+            "part": "past tense",
+            "variant": "scrabbled"
+          },
+          {
+            "part": "past participle",
+            "variant": "scrabbled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "scrabbling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "scratch or grope around with one's fingers to find, collect, or hold onto something.",
+            "examples": [
+              "she scrabbled at the grassy slope, desperate for a firm grip"
+            ],
+            "synonyms": [
+              "scratch",
+              "grope",
+              "rummage",
+              "root",
+              "grub",
+              "scavenge",
+              "fumble",
+              "feel",
+              "clamber",
+              "scramble \"they scrabbled around for the strewn coins\""
+            ]
+          },
+          {
+            "definition": "(of an animal) scratch at something with its claws.",
+            "examples": [
+              "a dog was scrabbling at the door"
+            ]
+          },
+          {
+            "definition": "scramble or crawl quickly.",
+            "examples": [
+              "lizards scrabbling across the walls"
+            ]
+          },
+          {
+            "definition": "make great efforts to get somewhere or achieve something.",
+            "examples": [
+              "I had to scrabble around to find this apartment"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scrabble"
+          },
+          {
+            "part": "noun",
+            "variant": "Scrabble"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of scratching or scrambling for something.",
+            "examples": [
+              "he heard the scrabble of claws behind him"
+            ]
+          },
+          {
+            "definition": "a struggle to get somewhere or achieve something.",
+            "examples": [
+              "a scrabble among the salesmen to avoid going to the bottom of the heap"
+            ]
+          },
+          {
+            "definition": "a board game in which players use lettered tiles to create words in a crossword fashion."
+          }
+        ]
+      }
+    ]
+  }
+]

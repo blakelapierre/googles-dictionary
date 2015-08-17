@@ -1,0 +1,101 @@
+[
+  {
+    "word": "association",
+    "syllables": [
+      "as",
+      "so",
+      "ci",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "əˌsōsēˈāSH(ə)nəˌsōSHēˈāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "associations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(often in names) a group of people organized for a joint purpose.",
+            "examples": [
+              "the National Association of Broadcasters"
+            ],
+            "synonyms": [
+              "alliance",
+              "consortium",
+              "coalition",
+              "union",
+              "league",
+              "guild",
+              "syndicate",
+              "federation",
+              "confederation",
+              "confederacy",
+              "conglomerate",
+              "cooperative",
+              "partnership",
+              "affiliation",
+              "organization; Moreclub",
+              "society",
+              "congress \"a trade association\""
+            ]
+          },
+          {
+            "definition": "a plant community defined by a characteristic group of dominant plant species."
+          },
+          {
+            "definition": "a connection or cooperative link between people or organizations.",
+            "examples": [
+              "he developed a close association with the university"
+            ],
+            "synonyms": [
+              "relationship",
+              "relation",
+              "interrelation",
+              "connection",
+              "interconnection",
+              "link",
+              "bond",
+              "union",
+              "tie",
+              "attachment",
+              "interdependence",
+              "affiliation \"the association between language and nationalism\""
+            ]
+          },
+          {
+            "definition": "the action or state of becoming a member of an organization with subordinate status.",
+            "examples": [
+              "Slovenia signed association agreements with the European Union"
+            ]
+          },
+          {
+            "definition": "the linking of molecules through hydrogen bonding or other interaction short of full bond formation."
+          },
+          {
+            "definition": "a mental connection between ideas or things.",
+            "examples": [
+              "the word bureaucracy has unpleasant associations"
+            ]
+          },
+          {
+            "definition": "the action of making a mental connection.",
+            "examples": [
+              "the association of alchemy with “hieroglyphics” and “cabala.”"
+            ]
+          },
+          {
+            "definition": "the fact of occurring with something else; co-occurrence.",
+            "examples": [
+              "cases of cancer found in association with colitis"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

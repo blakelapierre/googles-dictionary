@@ -1,0 +1,166 @@
+[
+  {
+    "word": "cue",
+    "syllables": [
+      "cue"
+    ],
+    "pronunciation": "kyo͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.",
+            "examples": [
+              "signal, sign, indication, prompt, reminder; Morenod, word, gesture \"the blinking blue light is my cue to lower the volume\"Morenod, word, gesture the blinking blue light is my cue to lower the volume"
+            ]
+          },
+          {
+            "definition": "a signal for action.",
+            "examples": [
+              "any conversational lull was my cue for asking a question"
+            ]
+          },
+          {
+            "definition": "a piece of information or circumstance that aids the memory in retrieving details not recalled spontaneously."
+          },
+          {
+            "definition": "a feature of something perceived that is used in the brain's interpretation of the perception.",
+            "examples": [
+              "expectancy is communicated both by auditory and visual cues"
+            ]
+          },
+          {
+            "definition": "a hint or indication about how to behave in particular circumstances.",
+            "examples": [
+              "my teacher joked about such attitudes and I followed her cue"
+            ]
+          },
+          {
+            "definition": "a facility for playing through an audio or video recording very rapidly until a desired starting point is reached."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cues"
+          },
+          {
+            "part": "past tense",
+            "variant": "cued"
+          },
+          {
+            "part": "past participle",
+            "variant": "cued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cueing"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give a cue to or for.",
+            "examples": [
+              "curious pedestrians are cued by the arrival of stretch limousines"
+            ]
+          },
+          {
+            "definition": "act as a prompt or reminder.",
+            "examples": [
+              "have a list of needs and questions on paper to cue you"
+            ]
+          },
+          {
+            "definition": "set a piece of audio or video equipment in readiness to play (a particular part of the recorded material).",
+            "examples": [
+              "features make it easier to cue up a tape for editing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cue",
+    "syllables": [
+      "cue"
+    ],
+    "pronunciation": "kyo͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long, straight, tapering wooden rod for striking the ball in pool, billiards, snooker, etc."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "cues"
+          },
+          {
+            "part": "past tense",
+            "variant": "cued"
+          },
+          {
+            "part": "past participle",
+            "variant": "cued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cueing"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "cuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "use a cue to strike a ball in pool, billiards, snooker, etc."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "recycle",
+    "syllables": [
+      "re",
+      "cy",
+      "cle"
+    ],
+    "pronunciation": "rēˈsīk(ə)l",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "recycle"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "recycles"
+          },
+          {
+            "part": "past tense",
+            "variant": "recycled"
+          },
+          {
+            "part": "past participle",
+            "variant": "recycled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "recycling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convert (waste) into reusable material.",
+            "examples": [
+              "car hulks were recycled into new steel"
+            ],
+            "synonyms": [
+              "reuse",
+              "reprocess",
+              "reclaim",
+              "recover; Moreupcycle; salvage",
+              "save \"the UPS Store will recycle those annoying styrofoam peanuts\""
+            ]
+          },
+          {
+            "definition": "return (material) to a previous stage in a cyclic process."
+          },
+          {
+            "definition": "use again.",
+            "examples": [
+              "he reserves the right to recycle his own text"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

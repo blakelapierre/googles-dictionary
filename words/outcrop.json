@@ -1,0 +1,63 @@
+[
+  {
+    "word": "outcrop",
+    "syllables": [
+      "out",
+      "crop"
+    ],
+    "pronunciation": "ˈoutˌkräp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "outcrop"
+          },
+          {
+            "part": "plural noun",
+            "variant": "outcrops"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rock formation that is visible on the surface.",
+            "examples": [
+              "dramatic limestone outcrops"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "outcrop"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "outcrops"
+          },
+          {
+            "part": "past tense",
+            "variant": "outcropped"
+          },
+          {
+            "part": "past participle",
+            "variant": "outcropped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "outcropping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "appear as an outcrop."
+          }
+        ]
+      }
+    ]
+  }
+]

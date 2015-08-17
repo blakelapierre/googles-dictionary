@@ -1,0 +1,64 @@
+[
+  {
+    "word": "inactivity",
+    "syllables": [
+      "in",
+      "ac",
+      "tiv",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "inakˈtivədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inactivity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being inactive; idleness.",
+            "examples": [
+              "don't suddenly take up vigorous exercise after years of inactivity"
+            ],
+            "synonyms": [
+              "idleness",
+              "indolence",
+              "laziness",
+              "lifelessness",
+              "slothfulness",
+              "lethargy",
+              "inertia",
+              "sluggishness",
+              "listlessness",
+              "inaction",
+              "torpor \"long periods of inactivity\""
+            ],
+            "antonyms": [
+              "action"
+            ]
+          },
+          {
+            "definition": "reluctance to take action; apathy.",
+            "examples": [
+              "people are frustrated with government inactivity"
+            ],
+            "synonyms": [
+              "inaction",
+              "nonintervention; Moreneglect",
+              "negligence",
+              "apathy",
+              "passivity \"government inactivity\""
+            ],
+            "antonyms": [
+              "action"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

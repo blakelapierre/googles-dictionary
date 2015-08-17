@@ -1,0 +1,87 @@
+[
+  {
+    "word": "beset",
+    "syllables": [
+      "be",
+      "set"
+    ],
+    "pronunciation": "bəˈset",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "beset"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "besets"
+          },
+          {
+            "part": "past tense",
+            "variant": "beset"
+          },
+          {
+            "part": "past participle",
+            "variant": "beset"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "besetting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a problem or difficulty) trouble or threaten persistently.",
+            "examples": [
+              "the social problems that beset the inner city"
+            ],
+            "synonyms": [
+              "plague",
+              "bedevil",
+              "assail",
+              "beleaguer",
+              "afflict",
+              "torment",
+              "rack",
+              "oppress",
+              "trouble",
+              "worry",
+              "harass",
+              "dog",
+              "harry \"he is beset by fears\""
+            ]
+          },
+          {
+            "definition": "surround and harass; assail on all sides.",
+            "examples": [
+              "I was beset by clouds of flies"
+            ],
+            "synonyms": [
+              "surround",
+              "besiege",
+              "hem in",
+              "shut in",
+              "fence in",
+              "box in",
+              "encircle \"they were beset by enemy forces\""
+            ]
+          },
+          {
+            "definition": "hem in; enclose.",
+            "examples": [
+              "the ship was beset by ice"
+            ]
+          },
+          {
+            "definition": "be covered or studded with.",
+            "examples": [
+              "blades of grass beset with glistening drops of dew"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

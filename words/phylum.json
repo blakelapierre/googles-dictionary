@@ -1,0 +1,33 @@
+[
+  {
+    "word": "phylum",
+    "syllables": [
+      "phy",
+      "lum"
+    ],
+    "pronunciation": "ˈfīləm",
+    "parts": [
+      {
+        "part": "nounZoology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "phylum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "phyla"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a principal taxonomic category that ranks above class and below kingdom."
+          },
+          {
+            "definition": "a group of languages related to each other less closely than those forming a family, especially one in which the relationships are disputed or unclear."
+          }
+        ]
+      }
+    ]
+  }
+]

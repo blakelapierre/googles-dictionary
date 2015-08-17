@@ -1,0 +1,102 @@
+[
+  {
+    "word": "definite",
+    "syllables": [
+      "def",
+      "i",
+      "nite"
+    ],
+    "pronunciation": "ˈdef(ə)nət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "definite"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "clearly stated or decided; not vague or doubtful.",
+            "examples": [
+              "we had no definite plans"
+            ],
+            "synonyms": [
+              "explicit",
+              "specific",
+              "express",
+              "precise",
+              "exact",
+              "clear-cut",
+              "direct",
+              "plain",
+              "outright; Morefixed",
+              "established",
+              "confirmed",
+              "concrete \"a definite answer\"unmistakable",
+              "certain",
+              "unequivocal",
+              "unambiguous",
+              "undisputed",
+              "decided",
+              "marked",
+              "distinct \"she had a definite dislike for dogs\""
+            ],
+            "antonyms": [
+              "vague",
+              "slight"
+            ]
+          },
+          {
+            "definition": "clearly true or real; unambiguous.",
+            "examples": [
+              "no definite proof has emerged"
+            ],
+            "synonyms": [
+              "certain",
+              "sure",
+              "positive",
+              "conclusive",
+              "decisive",
+              "firm",
+              "concrete",
+              "unambiguous",
+              "unequivocal",
+              "clear",
+              "unmistakable",
+              "proven; Moreguaranteed",
+              "assured",
+              "cut and dried \"definite evidence\""
+            ],
+            "antonyms": [
+              "uncertain",
+              "ambiguous"
+            ]
+          },
+          {
+            "definition": "(of a person) certain or sure about something.",
+            "examples": [
+              "you're very definite about that!"
+            ]
+          },
+          {
+            "definition": "clear or undeniable (used for emphasis).",
+            "examples": [
+              "video is a definite asset in the classroom"
+            ]
+          },
+          {
+            "definition": "having exact and discernible physical limits or form.",
+            "examples": [
+              "fixed, marked, demarcated, delimited, stipulated, particular a definite geographical area"
+            ],
+            "antonyms": [
+              "indeterminate"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

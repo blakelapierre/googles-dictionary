@@ -1,0 +1,85 @@
+[
+  {
+    "word": "tint",
+    "syllables": [
+      "tint"
+    ],
+    "pronunciation": "tint",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "tints"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shade or variety of color.",
+            "examples": [
+              "the sky was taking on an apricot tint"
+            ],
+            "synonyms": [
+              "shade",
+              "color",
+              "tone",
+              "hue",
+              "pigmentation",
+              "tinge",
+              "cast",
+              "tincture",
+              "flush",
+              "blush",
+              "wash \"the sky was taking on an apricot tint\""
+            ]
+          },
+          {
+            "definition": "an area of faint even color printed as a halftone, used for highlighting overprinted text."
+          },
+          {
+            "definition": "a set of parallel engraved lines to give uniform shading."
+          },
+          {
+            "definition": "a trace of something.",
+            "examples": [
+              "a tint of glamour"
+            ]
+          },
+          {
+            "definition": "an artificial dye for coloring the hair.",
+            "examples": [
+              "dye, coloring, rinse, highlights, lowlights a hair tint"
+            ]
+          },
+          {
+            "definition": "an application of hair dye.",
+            "examples": [
+              "peering into the mirror to see if any white hair showed after her last tint"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "tints"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "color (something) slightly; tinge.",
+            "examples": [
+              "her skin was tinted with delicate color"
+            ]
+          },
+          {
+            "definition": "dye (someone's hair) with a tint."
+          }
+        ]
+      }
+    ]
+  }
+]

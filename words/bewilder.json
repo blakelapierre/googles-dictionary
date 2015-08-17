@@ -1,0 +1,79 @@
+[
+  {
+    "word": "bewilder",
+    "syllables": [
+      "be",
+      "wil",
+      "der"
+    ],
+    "pronunciation": "bəˈwildər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bewilder"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bewilders"
+          },
+          {
+            "part": "past tense",
+            "variant": "bewildered"
+          },
+          {
+            "part": "past participle",
+            "variant": "bewildered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bewildering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) to become perplexed and confused.",
+            "examples": [
+              "she seemed frightened and bewildered"
+            ],
+            "synonyms": [
+              "baffle",
+              "mystify",
+              "bemuse",
+              "perplex",
+              "puzzle",
+              "addle",
+              "confuse",
+              "confound; Moreinformalflummox",
+              "faze",
+              "stump",
+              "beat",
+              "fox",
+              "make someone scratch their head",
+              "be all Greek to",
+              "floor",
+              "discombobulate \"Sally's words bewildered him\"baffled",
+              "mystified",
+              "bemused",
+              "perplexed",
+              "puzzled",
+              "confused",
+              "nonplussed",
+              "dumbfounded",
+              "at sea",
+              "at a loss",
+              "disorientated",
+              "taken aback; informalflummoxed",
+              "bamboozled; discombobulated \"she looked completely bewildered\""
+            ],
+            "antonyms": [
+              "enlighten"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

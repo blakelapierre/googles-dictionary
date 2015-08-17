@@ -1,0 +1,159 @@
+[
+  {
+    "word": "soaking",
+    "syllables": [
+      "soak",
+      "ing"
+    ],
+    "pronunciation": "ˈsōkiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "soaking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "extremely wet; wet through.",
+            "examples": [
+              "his jacket was soaking"
+            ],
+            "synonyms": [
+              "drenched",
+              "wet (through)",
+              "soaked (through)",
+              "sodden",
+              "soggy",
+              "waterlogged",
+              "saturated",
+              "sopping wet",
+              "dripping wet",
+              "wringing wet \"she turned on the hot water full blast and peeled her soaking clothes off\""
+            ],
+            "antonyms": [
+              "parched"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "soaking"
+          },
+          {
+            "part": "plural noun",
+            "variant": "soakings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of wetting something thoroughly.",
+            "examples": [
+              "in spring, give the soil a good soaking"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "soak",
+    "syllables": [
+      "soak"
+    ],
+    "pronunciation": "sōk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "soaking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or allow (something) to become thoroughly wet by immersing it in liquid.",
+            "examples": [
+              "soak the beans overnight in water"
+            ],
+            "synonyms": [
+              "immerse",
+              "steep",
+              "submerge",
+              "submerse",
+              "dip",
+              "dunk",
+              "bathe",
+              "douse",
+              "marinate",
+              "souse \"soak the beans in water\""
+            ]
+          },
+          {
+            "definition": "be immersed in water or another liquid.",
+            "examples": [
+              "she spent some time soaking in a hot bath"
+            ]
+          },
+          {
+            "definition": "(of a liquid) cause (something or someone) to become extremely wet.",
+            "examples": [
+              "the rain poured down, soaking their hair"
+            ],
+            "synonyms": [
+              "drench",
+              "wet through",
+              "saturate",
+              "waterlog",
+              "deluge",
+              "inundate",
+              "submerge",
+              "drown",
+              "swamp \"we got soaked outside\""
+            ]
+          },
+          {
+            "definition": "(of a liquid) penetrate or permeate completely.",
+            "examples": [
+              "cold water was soaking into my shoes"
+            ],
+            "synonyms": [
+              "permeate",
+              "penetrate",
+              "percolate",
+              "seep into",
+              "spread through",
+              "infuse",
+              "impregnate \"the sweat soaked through his clothes\""
+            ]
+          },
+          {
+            "definition": "remove something by immersing it in water for a period of time.",
+            "examples": [
+              "don't disturb the wound—soak the dressing off if necessary"
+            ]
+          },
+          {
+            "definition": "impose heavy charges or taxation on.",
+            "examples": [
+              "few of us common people care how much tax Congress soaks on racing motorboats"
+            ]
+          },
+          {
+            "definition": "drink heavily.",
+            "examples": [
+              "you keep soaking in taverns"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

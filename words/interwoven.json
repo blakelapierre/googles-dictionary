@@ -1,0 +1,58 @@
+[
+  {
+    "word": "interweave",
+    "syllables": [
+      "in",
+      "ter",
+      "weave"
+    ],
+    "pronunciation": "ˌin(t)ərˈwēv",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "interwoven"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "weave or become woven together.",
+            "examples": [
+              "the rugs are made by tightly interweaving the strands"
+            ],
+            "synonyms": [
+              "intertwine",
+              "entwine",
+              "interlace",
+              "splice",
+              "braid",
+              "plait; Moretwist together",
+              "weave together",
+              "wind together; marry \"the threads are interwoven\""
+            ]
+          },
+          {
+            "definition": "blend closely.",
+            "examples": [
+              "Wordsworth's political ideas are often interwoven with his philosophical and religious beliefs"
+            ],
+            "synonyms": [
+              "interlink",
+              "link",
+              "connect; Moreintermix",
+              "mix",
+              "merge",
+              "blend",
+              "interlock",
+              "bind together",
+              "knit together",
+              "fuse \"their fates were interwoven\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

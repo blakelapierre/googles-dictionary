@@ -1,0 +1,70 @@
+[
+  {
+    "word": "scallop",
+    "syllables": [
+      "scal",
+      "lop"
+    ],
+    "pronunciation": "ˈskaləpˈskäləp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "scallops"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an edible bivalve mollusk with a ribbed fan-shaped shell. Scallops swim by rapidly opening and closing the shell valves."
+          },
+          {
+            "definition": "short for scallop shell."
+          },
+          {
+            "definition": "a small pan or dish shaped like a scallop shell and used for baking or serving food."
+          },
+          {
+            "definition": "each of a series of convex rounded projections forming an ornamental edging cut in material or worked in lace or knitting in imitation of the edge of a scallop shell."
+          },
+          {
+            "definition": "another term for escalope."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "scallops"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "ornament (an edge or material) with scallops.",
+            "examples": [
+              "a scalloped V-shaped neckline"
+            ]
+          },
+          {
+            "definition": "cut, shape, or arrange in the form of a scallop shell.",
+            "examples": [
+              "gerund or present participle: scallopping; past tense: scallopped; past participle: scallopped"
+            ]
+          },
+          {
+            "definition": "gather or dredge for scallops."
+          },
+          {
+            "definition": "bake with milk or a sauce.",
+            "examples": [
+              "scalloped potatoes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

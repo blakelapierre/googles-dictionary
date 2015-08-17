@@ -1,0 +1,47 @@
+[
+  {
+    "word": "curiosity",
+    "syllables": [
+      "cu",
+      "ri",
+      "os",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˌkyo͝orēˈäsədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "curiosity"
+          },
+          {
+            "part": "plural noun",
+            "variant": "curiosities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a strong desire to know or learn something.",
+            "examples": [
+              "filled with curiosity, she peered through the window"
+            ],
+            "synonyms": [
+              "interest",
+              "spirit of inquiry",
+              "inquisitiveness \"his evasiveness roused my curiosity\""
+            ]
+          },
+          {
+            "definition": "a strange or unusual object or fact.",
+            "examples": [
+              "he showed them some of the curiosities of the house"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

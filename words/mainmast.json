@@ -1,0 +1,38 @@
+[
+  {
+    "word": "mainmast",
+    "syllables": [
+      "main",
+      "mast"
+    ],
+    "pronunciation": "ˈmānmast",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mainmast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mainmasts"
+          },
+          {
+            "part": "noun",
+            "variant": "main-mast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "main-masts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the principal mast of a ship, typically the second mast in a sailing ship of three or more masts."
+          }
+        ]
+      }
+    ]
+  }
+]

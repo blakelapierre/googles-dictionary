@@ -1,0 +1,108 @@
+[
+  {
+    "word": "camouflage",
+    "syllables": [
+      "cam",
+      "ou",
+      "flage"
+    ],
+    "pronunciation": "ˈkaməˌfläZHˈkaməˌfläj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "camouflage"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings.",
+            "examples": [
+              "on the trenches were pieces of turf, which served for camouflage"
+            ],
+            "synonyms": [
+              "disguise",
+              "concealment",
+              "cover",
+              "screen \"pieces of mossy turf served for camouflage\""
+            ]
+          },
+          {
+            "definition": "the clothing or materials used for disguise.",
+            "examples": [
+              "figures dressed in army camouflage"
+            ]
+          },
+          {
+            "definition": "an animal's natural coloring or form that enables it to blend in with its surroundings.",
+            "examples": [
+              "the whiteness of polar bears provides camouflage"
+            ]
+          },
+          {
+            "definition": "actions or devices intended to disguise or mislead.",
+            "examples": [
+              "much of my apparent indifference was merely protective camouflage"
+            ],
+            "synonyms": [
+              "disguise",
+              "concealment",
+              "cover",
+              "screen \"pieces of mossy turf served for camouflage\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "camouflage"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "camouflages"
+          },
+          {
+            "part": "past tense",
+            "variant": "camouflaged"
+          },
+          {
+            "part": "past participle",
+            "variant": "camouflaged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "camouflaging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hide or disguise the presence of (a person, animal, or object) by means of camouflage.",
+            "examples": [
+              "the war area had to be camouflaged with mud"
+            ],
+            "synonyms": [
+              "disguise",
+              "hide",
+              "conceal",
+              "keep hidden",
+              "mask",
+              "screen",
+              "cover (up) \"the van was camouflaged with branches\""
+            ]
+          },
+          {
+            "definition": "conceal the existence of (something undesirable).",
+            "examples": [
+              "grievances should be discussed, not camouflaged"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

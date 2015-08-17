@@ -1,0 +1,36 @@
+[
+  {
+    "word": "uterine",
+    "syllables": [
+      "u",
+      "ter",
+      "ine"
+    ],
+    "pronunciation": "ˈyo͞odəˌrīnˈyo͞odərən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "uterine"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to the uterus or womb.",
+            "examples": [
+              "uterine contractions"
+            ]
+          },
+          {
+            "definition": "born of the same mother but not having the same father.",
+            "examples": [
+              "a uterine sister"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

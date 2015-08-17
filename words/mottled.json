@@ -1,0 +1,52 @@
+[
+  {
+    "word": "mottle",
+    "syllables": [
+      "mot",
+      "tle"
+    ],
+    "pronunciation": "ˈmädl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "mottled"
+          },
+          {
+            "part": "past participle",
+            "variant": "mottled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "mark with spots or smears of color.",
+            "examples": [
+              "the cow's coat was light red mottled with white"
+            ],
+            "synonyms": [
+              "blotchy",
+              "blotched",
+              "spotted",
+              "spotty",
+              "speckled",
+              "streaked",
+              "streaky",
+              "marbled",
+              "flecked",
+              "freckled",
+              "dappled",
+              "stippled; Morepiebald",
+              "skewbald",
+              "brindled",
+              "brindle",
+              "pinto",
+              "calico; informalsplotchy \"mottled horses\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "sect",
+    "syllables": [
+      "sect"
+    ],
+    "pronunciation": "sekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sect"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a group of people with somewhat different religious beliefs (typically regarded as heretical) from those of a larger group to which they belong.",
+            "examples": [
+              "(religious) cult, religious group, denomination, persuasion, religious order; Moresplinter group, faction \"she had been duped into joining a sect of supposed do-gooders\"Moresplinter group, faction she had been duped into joining a sect of supposed do-gooders"
+            ]
+          },
+          {
+            "definition": "a group that has separated from an established church; a nonconformist church.",
+            "examples": [
+              "(religious) cult, religious group, denomination, persuasion, religious order; Moresplinter group, faction \"she had been duped into joining a sect of supposed do-gooders\"Moresplinter group, faction she had been duped into joining a sect of supposed do-gooders"
+            ]
+          },
+          {
+            "definition": "a philosophical or political group, especially one regarded as extreme or dangerous."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sect.",
+    "syllables": [
+      "sect."
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "sect."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "section."
+          }
+        ]
+      }
+    ]
+  }
+]

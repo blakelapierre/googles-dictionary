@@ -1,0 +1,47 @@
+[
+  {
+    "word": "sarcastic",
+    "syllables": [
+      "sar",
+      "cas",
+      "tic"
+    ],
+    "pronunciation": "särˈkastik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sarcastic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "marked by or given to using irony in order to mock or convey contempt.",
+            "examples": [
+              "sarcastic comments on their failures"
+            ],
+            "synonyms": [
+              "sardonic",
+              "ironic",
+              "ironical; Morederisive",
+              "snide",
+              "scornful",
+              "contemptuous",
+              "mocking",
+              "sneering",
+              "jeering; caustic",
+              "scathing",
+              "trenchant",
+              "cutting",
+              "biting",
+              "sharp",
+              "acerbic; informalsmart-alecky \"I've had enough of your sarcastic comments\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

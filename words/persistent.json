@@ -1,0 +1,99 @@
+[
+  {
+    "word": "persistent",
+    "syllables": [
+      "per",
+      "sist",
+      "ent"
+    ],
+    "pronunciation": "pərˈsist(ə)nt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "persistent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "continuing firmly or obstinately in a course of action in spite of difficulty or opposition.",
+            "examples": [
+              "one of the government's most persistent critics"
+            ],
+            "synonyms": [
+              "tenacious",
+              "persevering",
+              "determined",
+              "resolute",
+              "purposeful",
+              "dogged",
+              "single-minded",
+              "tireless",
+              "indefatigable",
+              "patient",
+              "unflagging",
+              "untiring",
+              "insistent",
+              "importunate",
+              "relentless",
+              "unrelenting; Morestubborn",
+              "intransigent",
+              "obstinate",
+              "obdurate; formalpertinacious \"a very persistent man\""
+            ],
+            "antonyms": [
+              "irresolute"
+            ]
+          },
+          {
+            "definition": "continuing to exist or endure over a prolonged period.",
+            "examples": [
+              "persistent rain will affect many areas"
+            ],
+            "synonyms": [
+              "constant",
+              "continuous",
+              "continuing",
+              "continual",
+              "nonstop",
+              "never-ending",
+              "steady",
+              "uninterrupted",
+              "unbroken",
+              "interminable",
+              "incessant",
+              "unceasing",
+              "endless",
+              "unending",
+              "perpetual",
+              "unremitting",
+              "unrelenting",
+              "relentless",
+              "unrelieved",
+              "sustained More\"persistent rain\"chronic",
+              "permanent",
+              "nagging",
+              "frequent; repeated",
+              "habitual \"a persistent cough\""
+            ],
+            "antonyms": [
+              "occasional",
+              "intermittent"
+            ]
+          },
+          {
+            "definition": "(of a chemical or radioactivity) remaining within the environment for a long time after its introduction.",
+            "examples": [
+              "PCBs are persistent environmental contaminants"
+            ]
+          },
+          {
+            "definition": "(of a part of an animal or plant, such as a horn, leaf, etc.) remaining attached instead of falling off in the normal manner."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "educate",
+    "syllables": [
+      "ed",
+      "u",
+      "cate"
+    ],
+    "pronunciation": "ˈejəˌkāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "educating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give intellectual, moral, and social instruction to (someone, especially a child), typically at a school or university.",
+            "examples": [
+              "she was educated at a boarding school"
+            ],
+            "synonyms": [
+              "teach",
+              "school",
+              "tutor",
+              "instruct",
+              "coach",
+              "train",
+              "drill; Moreguide",
+              "inform",
+              "enlighten; inculcate",
+              "indoctrinate; upskill; formaledify \"it's nearly impossible to educate children who hate being in school\""
+            ]
+          },
+          {
+            "definition": "provide or pay for instruction for (one's child), especially at a school."
+          },
+          {
+            "definition": "give (someone) training in or information on a particular field.",
+            "examples": [
+              "the need to educate people to conserve water"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

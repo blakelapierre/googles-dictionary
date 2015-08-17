@@ -1,0 +1,97 @@
+[
+  {
+    "word": "bake",
+    "syllables": [
+      "bake"
+    ],
+    "pronunciation": "bāk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bake"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bakes"
+          },
+          {
+            "part": "past tense",
+            "variant": "baked"
+          },
+          {
+            "part": "past participle",
+            "variant": "baked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "baking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.",
+            "examples": [
+              "they bake their own bread and cakes"
+            ],
+            "synonyms": [
+              "cook",
+              "oven-bake",
+              "roast",
+              "dry-roast \"bake the fish for 15–20 minutes\""
+            ]
+          },
+          {
+            "definition": "(of food) be cooked by baking.",
+            "examples": [
+              "the bread was baking on hot stones"
+            ]
+          },
+          {
+            "definition": "(of the sun or other agency) subject (something) to dry heat, especially so as to harden it.",
+            "examples": [
+              "the sun has baked the earth a dusty brown"
+            ],
+            "synonyms": [
+              "scorch",
+              "burn",
+              "sear",
+              "parch",
+              "dry (up)",
+              "desiccate; broil \"the earth was baked by the sun\""
+            ]
+          },
+          {
+            "definition": "(of a person or place) be or become extremely hot in prolonged sun or hot weather.",
+            "examples": [
+              "the city was baking in a heat wave"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bake"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bakes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a social gathering at which baked food is eaten.",
+            "examples": [
+              "lobster bakes on deserted islands"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

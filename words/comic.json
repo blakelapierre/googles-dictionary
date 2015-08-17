@@ -1,0 +1,90 @@
+[
+  {
+    "word": "comic",
+    "syllables": [
+      "com",
+      "ic"
+    ],
+    "pronunciation": "ˈkämik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "comic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing or meant to cause laughter.",
+            "examples": [
+              "comic and fantastic exaggeration"
+            ],
+            "synonyms": [
+              "humorous",
+              "funny",
+              "droll",
+              "amusing",
+              "hilarious",
+              "uproarious; Morecomical",
+              "farcical",
+              "silly",
+              "slapstick",
+              "zany; witty",
+              "jocular; informalpriceless",
+              "side-splitting",
+              "rib-tickling; informal",
+              "killing \"a comic play\""
+            ],
+            "antonyms": [
+              "serious"
+            ]
+          },
+          {
+            "definition": "relating to or in the style of comedy.",
+            "examples": [
+              "a comic actor"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "comic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "comics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a comedian, especially a professional one.",
+            "examples": [
+              "a stand-up comic"
+            ],
+            "synonyms": [
+              "comedian",
+              "comedienne",
+              "funny man/woman",
+              "humorist",
+              "wit; Morejoker",
+              "clown; informalkidder",
+              "wisecracker \"a professional comic\""
+            ]
+          },
+          {
+            "definition": "comic strips.",
+            "examples": [
+              "comic strip, cartoon, comic book; funny the paper no longer runs his favorite Sunday comic"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

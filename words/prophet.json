@@ -1,0 +1,80 @@
+[
+  {
+    "word": "prophet",
+    "syllables": [
+      "proph",
+      "et"
+    ],
+    "pronunciation": "ˈpräfət",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "prophet"
+          },
+          {
+            "part": "plural noun",
+            "variant": "prophets"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Prophets"
+          },
+          {
+            "part": "plural noun",
+            "variant": "the Prophets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person regarded as an inspired teacher or proclaimer of the will of God.",
+            "examples": [
+              "the Old Testament prophet Jeremiah"
+            ],
+            "synonyms": [
+              "seer",
+              "soothsayer",
+              "fortune teller",
+              "clairvoyant",
+              "diviner; Moreoracle",
+              "augur",
+              "sibyl \"the queen was disturbed by the prophet's interpretation of her dreams\""
+            ]
+          },
+          {
+            "definition": "(among Muslims) Muhammad.",
+            "examples": [
+              "singular proper noun: Prophet; noun: the Prophet"
+            ]
+          },
+          {
+            "definition": "(among Mormons) Joseph Smith or one of his successors.",
+            "examples": [
+              "noun: the Prophet"
+            ]
+          },
+          {
+            "definition": "a person who advocates or speaks in a visionary way about a new belief, cause, or theory.",
+            "examples": [
+              "a prophet of radical individualism"
+            ]
+          },
+          {
+            "definition": "a person who makes or claims to be able to make predictions.",
+            "examples": [
+              "the anti-technology prophets of doom"
+            ]
+          },
+          {
+            "definition": "(in Christian use) the books of Isaiah, Jeremiah, Ezekiel, Daniel, and the twelve minor prophets."
+          },
+          {
+            "definition": "(in Jewish use) one of the three canonical divisions of the Hebrew Bible, distinguished from the Law and the Hagiographa, and comprising the books of Joshua, Judges, Samuel, Kings, Jeremiah, Ezekiel, Isaiah, and the twelve minor prophets."
+          }
+        ]
+      }
+    ]
+  }
+]

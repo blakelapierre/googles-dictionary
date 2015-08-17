@@ -1,0 +1,53 @@
+[
+  {
+    "word": "endurance",
+    "syllables": [
+      "en",
+      "dur",
+      "ance"
+    ],
+    "pronunciation": "inˈd(y)o͝orənsenˈd(y)o͝orəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "endurance"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the fact or power of enduring an unpleasant or difficult process or situation without giving way.",
+            "examples": [
+              "she was close to the limit of her endurance"
+            ],
+            "synonyms": [
+              "toleration",
+              "tolerance",
+              "sufferance",
+              "forbearance",
+              "patience",
+              "acceptance",
+              "resignation",
+              "stoicism More\"she pushed him beyond the limit of his endurance\"stamina",
+              "staying power",
+              "fortitude",
+              "perseverance",
+              "persistence",
+              "tenacity",
+              "doggedness",
+              "grit",
+              "indefatigability",
+              "resolution",
+              "determination; formalpertinacity \"the race is a test of endurance\""
+            ]
+          },
+          {
+            "definition": "the capacity of something to last or to withstand wear and tear."
+          }
+        ]
+      }
+    ]
+  }
+]

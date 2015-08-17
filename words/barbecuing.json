@@ -1,0 +1,36 @@
+[
+  {
+    "word": "barbecue",
+    "syllables": [
+      "bar",
+      "be",
+      "cue"
+    ],
+    "pronunciation": "ˈbärbəˌkyo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "barbecuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cook (meat, fish, or other food) on a barbecue.",
+            "examples": [
+              "fish barbecued with herbs"
+            ],
+            "synonyms": [
+              "grill",
+              "spit-roast",
+              "broil",
+              "charbroil \"they barbecued some steaks\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

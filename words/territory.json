@@ -1,0 +1,106 @@
+[
+  {
+    "word": "territory",
+    "syllables": [
+      "ter",
+      "ri",
+      "to",
+      "ry"
+    ],
+    "pronunciation": "ˈterəˌtôrē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "territory"
+          },
+          {
+            "part": "plural noun",
+            "variant": "territories"
+          },
+          {
+            "part": "noun",
+            "variant": "Territory"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Territories"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of land under the jurisdiction of a ruler or state.",
+            "examples": [
+              "the government was prepared to give up the nuclear weapons on its territory"
+            ],
+            "synonyms": [
+              "area",
+              "area of land",
+              "region",
+              "enclave; Morecountry",
+              "state",
+              "land",
+              "colony",
+              "dominion",
+              "protectorate",
+              "fief",
+              "dependency",
+              "possession",
+              "jurisdiction",
+              "holding; section",
+              "turf \"the island is a U.S. territory\""
+            ]
+          },
+          {
+            "definition": "an area defended by an animal or group of animals against others of the same sex or species."
+          },
+          {
+            "definition": "an area defended by a team or player in a game or sport."
+          },
+          {
+            "definition": "an area in which one has certain rights or for which one has responsibility with regard to a particular type of activity.",
+            "examples": [
+              "a sales rep for a large territory"
+            ],
+            "synonyms": [
+              "domain",
+              "area of concern/interest/knowledge",
+              "province",
+              "department",
+              "field",
+              "preserve",
+              "bailiwick",
+              "sphere",
+              "arena",
+              "realm",
+              "world \"linguistic puzzles are Stina's territory\""
+            ]
+          },
+          {
+            "definition": "land with a specified characteristic.",
+            "examples": [
+              "woodland territory"
+            ],
+            "synonyms": [
+              "terrain",
+              "land",
+              "ground",
+              "countryside \"mountainous territory\""
+            ]
+          },
+          {
+            "definition": "(especially in the US, Canada, or Australia) an organized division of a country that is not yet admitted to the full rights of a state."
+          },
+          {
+            "definition": "an area of knowledge, activity, or experience.",
+            "examples": [
+              "the contentious territory of clinical standards"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

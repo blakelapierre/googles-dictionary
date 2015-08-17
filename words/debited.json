@@ -1,0 +1,39 @@
+[
+  {
+    "word": "debit",
+    "syllables": [
+      "deb",
+      "it"
+    ],
+    "pronunciation": "ˈdebit",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "debited"
+          },
+          {
+            "part": "past participle",
+            "variant": "debited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a bank or other financial organization) remove (an amount of money) from a customer's account, typically as payment for services or goods.",
+            "examples": [
+              "$10,000 was debited from their account"
+            ]
+          },
+          {
+            "definition": "remove an amount of money from (a bank account).",
+            "examples": [
+              "the tag on the rear window automatically activates the pump and debits any major credit card"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

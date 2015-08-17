@@ -1,0 +1,86 @@
+[
+  {
+    "word": "broadcast",
+    "syllables": [
+      "broad",
+      "cast"
+    ],
+    "pronunciation": "ˈbrôdˌkast",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "broadcasts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "transmit (a program or some information) by radio or television.",
+            "examples": [
+              "the announcement was broadcast live"
+            ],
+            "synonyms": [
+              "transmit",
+              "relay",
+              "air",
+              "beam",
+              "show",
+              "televise",
+              "telecast",
+              "webcast",
+              "simulcast",
+              "cablecast",
+              "screen \"the show will be broadcast worldwide\""
+            ]
+          },
+          {
+            "definition": "take part in a radio or television transmission.",
+            "examples": [
+              "the station broadcasts 24 hours a day"
+            ]
+          },
+          {
+            "definition": "tell (something) to many people; make widely known.",
+            "examples": [
+              "we don't want to broadcast our unhappiness to the world"
+            ],
+            "synonyms": [
+              "report",
+              "announce",
+              "publicize",
+              "proclaim; Morespread",
+              "disseminate",
+              "scatter",
+              "circulate",
+              "air",
+              "blazon",
+              "trumpet \"the result was broadcast far and wide\""
+            ]
+          },
+          {
+            "definition": "scatter (seeds) by hand or machine rather than placing in drills or rows."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "broadcasts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a radio or television program or transmission.",
+            "examples": [
+              "program, show, production, transmission, telecast, webcast, simulcast, screening radio and television broadcasts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

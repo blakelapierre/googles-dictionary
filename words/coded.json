@@ -1,0 +1,62 @@
+[
+  {
+    "word": "code",
+    "syllables": [
+      "code"
+    ],
+    "pronunciation": "kōd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "coded"
+          },
+          {
+            "part": "past participle",
+            "variant": "coded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convert (the words of a message) into a particular code in order to convey a secret meaning.",
+            "examples": [
+              "only Mitch knew how to read the message—even the name was coded"
+            ]
+          },
+          {
+            "definition": "express the meaning of (a statement or communication) in an indirect or euphemistic way.",
+            "examples": [
+              "a national campaign against “playing by ear,” a coded phrase that meant jazz"
+            ]
+          },
+          {
+            "definition": "assign a code to (something) for purposes of classification, analysis, or identification.",
+            "examples": [
+              "she coded the samples and sent them down for dissection"
+            ]
+          },
+          {
+            "definition": "write code for (a computer program).",
+            "examples": [
+              "most developers code C + + like C"
+            ]
+          },
+          {
+            "definition": "specify the genetic sequence for (an amino acid or protein).",
+            "examples": [
+              "genes that code for human growth hormone"
+            ]
+          },
+          {
+            "definition": "be the genetic determiner of (a characteristic).",
+            "examples": [
+              "one pair of homologous chromosomes that codes for eye color"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

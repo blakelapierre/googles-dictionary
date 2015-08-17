@@ -1,0 +1,95 @@
+[
+  {
+    "word": "apprentice",
+    "syllables": [
+      "ap",
+      "pren",
+      "tice"
+    ],
+    "pronunciation": "əˈpren(t)əs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "apprentice"
+          },
+          {
+            "part": "plural noun",
+            "variant": "apprentices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who is learning a trade from a skilled employer, having agreed to work for a fixed period at low wages.",
+            "examples": [
+              "an apprentice electrician"
+            ],
+            "synonyms": [
+              "trainee",
+              "learner",
+              "probationer",
+              "novice",
+              "beginner",
+              "starter",
+              "cadet",
+              "tenderfoot; Morepupil",
+              "student; informalrookie",
+              "newbie",
+              "greenhorn \"she worked with the great violin maker as his apprentice\""
+            ],
+            "antonyms": [
+              "veteran"
+            ]
+          },
+          {
+            "definition": "a beginner at something.",
+            "examples": [
+              "an apprentice confidence trickster"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "apprentice"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "apprentices"
+          },
+          {
+            "part": "past tense",
+            "variant": "apprenticed"
+          },
+          {
+            "part": "past participle",
+            "variant": "apprenticed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "apprenticing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "employ (someone) as an apprentice.",
+            "examples": [
+              "Edward was apprenticed to a printer"
+            ]
+          },
+          {
+            "definition": "serve as an apprentice.",
+            "examples": [
+              "she apprenticed with midwives in San Francisco"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

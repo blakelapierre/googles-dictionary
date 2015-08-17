@@ -1,0 +1,40 @@
+[
+  {
+    "word": "agitation",
+    "syllables": [
+      "ag",
+      "i",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "ˌajəˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "agitation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a state of anxiety or nervous excitement.",
+            "examples": [
+              "she was wringing her hands in agitation"
+            ]
+          },
+          {
+            "definition": "the action of arousing public concern about an issue and pressing for action on it.",
+            "examples": [
+              "plural noun: agitations"
+            ]
+          },
+          {
+            "definition": "the action of briskly stirring or disturbing something, especially a liquid."
+          }
+        ]
+      }
+    ]
+  }
+]

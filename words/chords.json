@@ -1,0 +1,80 @@
+[
+  {
+    "word": "chord",
+    "syllables": [
+      "chord"
+    ],
+    "pronunciation": "kôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "chords"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a group of (typically three or more) notes sounded together, as a basis of harmony.",
+            "examples": [
+              "the triumphal opening chords"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "chords"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "play, sing, or arrange notes in chords."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chord",
+    "syllables": [
+      "chord"
+    ],
+    "pronunciation": "kôrd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "chords"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a straight line joining the ends of an arc."
+          },
+          {
+            "definition": "the width of an airfoil from leading to trailing edge."
+          },
+          {
+            "definition": "each of the two principal members of a truss."
+          },
+          {
+            "definition": "variant spelling of cord.",
+            "examples": [
+              "spinal chord"
+            ]
+          },
+          {
+            "definition": "a string on a harp or other instrument."
+          }
+        ]
+      }
+    ]
+  }
+]

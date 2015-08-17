@@ -1,0 +1,98 @@
+[
+  {
+    "word": "offend",
+    "syllables": [
+      "of",
+      "fend"
+    ],
+    "pronunciation": "əˈfend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "offends"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause to feel upset, annoyed, or resentful.",
+            "examples": [
+              "viewers said they had been offended by bad language"
+            ],
+            "synonyms": [
+              "hurt someone's feelings",
+              "give offense to",
+              "affront",
+              "displease",
+              "upset",
+              "distress",
+              "hurt",
+              "wound; Moreannoy",
+              "anger",
+              "exasperate",
+              "irritate",
+              "vex",
+              "pique",
+              "gall",
+              "irk",
+              "nettle",
+              "ruffle someone's feathers",
+              "tread on someone's toes; rub the wrong way; informalrile",
+              "rattle",
+              "peeve",
+              "needle",
+              "miff",
+              "put someone's nose out of joint",
+              "put someone's back up; vulgar slangpiss off \"I'm sorry if I offended him\""
+            ]
+          },
+          {
+            "definition": "be displeasing to.",
+            "examples": [
+              "he didn't smoke and the smell of ash offended him"
+            ],
+            "synonyms": [
+              "displease",
+              "be distasteful to",
+              "be disagreeable to",
+              "be offensive to",
+              "disgust",
+              "repel",
+              "revolt",
+              "sicken",
+              "nauseate",
+              "be repugnant to; Moreinformalturn off",
+              "gross out \"the smell of cigarette smoke offended him\""
+            ],
+            "antonyms": [
+              "please",
+              "delight"
+            ]
+          },
+          {
+            "definition": "commit an illegal act.",
+            "examples": [
+              "a small hard core of young criminals who offend again and again"
+            ],
+            "synonyms": [
+              "break the law",
+              "commit a crime",
+              "do wrong",
+              "sin",
+              "go astray",
+              "transgress; archaictrespass \"criminals who offend again and again\""
+            ]
+          },
+          {
+            "definition": "break a commonly accepted rule or principle.",
+            "examples": [
+              "those activities which offend against public order and decency"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "advocate",
+    "syllables": [
+      "ad",
+      "vo",
+      "cate"
+    ],
+    "pronunciation": "ˈadvəkətˈadvəˌkāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "advocate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "advocates"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "advocate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "advocates"
+          },
+          {
+            "part": "past tense",
+            "variant": "advocated"
+          },
+          {
+            "part": "past participle",
+            "variant": "advocated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "advocating"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

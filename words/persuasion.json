@@ -1,0 +1,101 @@
+[
+  {
+    "word": "persuasion",
+    "syllables": [
+      "per",
+      "sua",
+      "sion"
+    ],
+    "pronunciation": "pərˈswāZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "persuasion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "persuasions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of persuading someone or of being persuaded to do or believe something.",
+            "examples": [
+              "Monica needed plenty of persuasion before she actually left"
+            ],
+            "synonyms": [
+              "coaxing",
+              "persuading",
+              "coercion",
+              "inducement",
+              "convincing",
+              "blandishment",
+              "encouragement",
+              "urging",
+              "inveiglement",
+              "cajolery",
+              "enticement",
+              "wheedling; Moreinformalsweet-talking",
+              "arm-twisting; formalsuasion \"Monica needed plenty of persuasion\""
+            ]
+          },
+          {
+            "definition": "a belief or set of beliefs, especially religious or political ones.",
+            "examples": [
+              "writers of all political persuasions"
+            ],
+            "synonyms": [
+              "group",
+              "grouping",
+              "sect",
+              "denomination",
+              "party",
+              "camp",
+              "side",
+              "faction",
+              "affiliation",
+              "school of thought",
+              "belief",
+              "creed",
+              "credo",
+              "faith",
+              "philosophy \"various political and religious persuasions\""
+            ]
+          },
+          {
+            "definition": "a group or sect holding a particular religious belief.",
+            "examples": [
+              "the village had two chapels for those of the Methodist persuasion"
+            ],
+            "synonyms": [
+              "group",
+              "grouping",
+              "sect",
+              "denomination",
+              "party",
+              "camp",
+              "side",
+              "faction",
+              "affiliation",
+              "school of thought",
+              "belief",
+              "creed",
+              "credo",
+              "faith",
+              "philosophy \"various political and religious persuasions\""
+            ]
+          },
+          {
+            "definition": "any group or type of person or thing linked by a specified characteristic, quality, or attribute.",
+            "examples": [
+              "an ancient gas oven of the enamel persuasion"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

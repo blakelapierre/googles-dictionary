@@ -1,0 +1,81 @@
+[
+  {
+    "word": "pistol",
+    "syllables": [
+      "pis",
+      "tol"
+    ],
+    "pronunciation": "ˈpistl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pistol"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pistols"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small firearm designed to be held in one hand.",
+            "examples": [
+              "revolver, gun, handgun, sidearm; Moreautomatic, six-shooter, thirty-eight, derringer; informalgat, piece; trademarkColt, Luger \"a concealed pistol\"Moreautomatic, six-shooter, thirty-eight, derringer; gat, piece; Colt, Luger a concealed pistol"
+            ]
+          },
+          {
+            "definition": "a very energetic or enterprising person.",
+            "examples": [
+              "when we first met, he was a pistol, full of ideals and a natural leader"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbdated",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pistol"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pistols"
+          },
+          {
+            "part": "past tense",
+            "variant": "pistolled"
+          },
+          {
+            "part": "past participle",
+            "variant": "pistolled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pistolling"
+          },
+          {
+            "part": "past tense",
+            "variant": "pistoled"
+          },
+          {
+            "part": "past participle",
+            "variant": "pistoled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pistoling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shoot (someone) with a pistol."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "word": "lapse",
+    "syllables": [
+      "lapse"
+    ],
+    "pronunciation": "laps",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lapse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lapses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a temporary failure of concentration, memory, or judgment.",
+            "examples": [
+              "a lapse of concentration in the second set cost her the match"
+            ],
+            "synonyms": [
+              "failure",
+              "failing",
+              "slip",
+              "error",
+              "mistake",
+              "blunder",
+              "fault",
+              "omission",
+              "hiccup; informalslip-up \"a lapse of concentration\""
+            ]
+          },
+          {
+            "definition": "a weak or careless decline from previously high standards.",
+            "examples": [
+              "tracing his lapse into petty crime"
+            ],
+            "synonyms": [
+              "decline",
+              "fall",
+              "falling",
+              "slipping",
+              "drop",
+              "deterioration",
+              "degeneration",
+              "backsliding",
+              "regression",
+              "retrogression",
+              "descent",
+              "sinking",
+              "slide \"his lapse into petty crime\""
+            ]
+          },
+          {
+            "definition": "the termination of a right or privilege through disuse or failure to follow appropriate procedures."
+          },
+          {
+            "definition": "an interval or passage of time.",
+            "examples": [
+              "there was a considerable lapse of time between the two events"
+            ],
+            "synonyms": [
+              "interval",
+              "gap",
+              "pause",
+              "interlude",
+              "lull",
+              "hiatus",
+              "break \"a lapse of time\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lapse"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lapses"
+          },
+          {
+            "part": "past tense",
+            "variant": "lapsed"
+          },
+          {
+            "part": "past participle",
+            "variant": "lapsed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lapsing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a right, privilege, or agreement) become invalid because it is not used, claimed, or renewed; expire.",
+            "examples": [
+              "my membership to the gym has lapsed"
+            ],
+            "synonyms": [
+              "expire",
+              "become void",
+              "become invalid",
+              "run out More\"our membership has lapsed\"expired",
+              "void",
+              "invalid",
+              "out of date \"a lapsed membership\""
+            ],
+            "antonyms": [
+              "valid"
+            ]
+          },
+          {
+            "definition": "(of a state or activity) fail to be maintained; come to an end.",
+            "examples": [
+              "if your diet has lapsed it's time you revived it"
+            ]
+          },
+          {
+            "definition": "(of an adherent to a particular religion or doctrine) cease to follow the rules and practices of that religion or doctrine.",
+            "examples": [
+              "nonpracticing, backsliding, apostate; former a lapsed Catholic"
+            ],
+            "antonyms": [
+              "practicing"
+            ]
+          },
+          {
+            "definition": "pass gradually into (an inferior state or condition).",
+            "examples": [
+              "the country has lapsed into chaos"
+            ],
+            "synonyms": [
+              "revert",
+              "relapse; Moredrift",
+              "slide",
+              "slip",
+              "sink; deteriorate",
+              "decline",
+              "fall",
+              "degenerate",
+              "backslide",
+              "regress",
+              "retrogress \"she lapsed into self-pity\""
+            ]
+          },
+          {
+            "definition": "revert to (a previous or more familiar style of speaking or behavior).",
+            "examples": [
+              "the girls lapsed into French"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "word": "decline",
+    "syllables": [
+      "de",
+      "cline"
+    ],
+    "pronunciation": "dəˈklīn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "declines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(typically of something regarded as good) become smaller, fewer, or less; decrease.",
+            "examples": [
+              "the birth rate continued to decline"
+            ],
+            "synonyms": [
+              "decrease",
+              "reduce",
+              "lessen",
+              "diminish",
+              "dwindle",
+              "contract",
+              "shrink",
+              "fall off",
+              "tail off; Moredrop",
+              "fall",
+              "go down",
+              "slump",
+              "plummet; informalnosedive",
+              "take a header",
+              "crash \"the number of traders has declined\""
+            ],
+            "antonyms": [
+              "increase"
+            ]
+          },
+          {
+            "definition": "diminish in strength or quality; deteriorate.",
+            "examples": [
+              "her health began to decline"
+            ],
+            "synonyms": [
+              "deteriorate",
+              "degenerate",
+              "decay",
+              "crumble",
+              "collapse",
+              "slump",
+              "slip",
+              "slide",
+              "go downhill",
+              "worsen; Moreweaken",
+              "wane",
+              "ebb; informalgo to pot",
+              "go to the dogs",
+              "go into/down the toilet \"standards steadily declined\""
+            ],
+            "antonyms": [
+              "rise"
+            ]
+          },
+          {
+            "definition": "politely refuse (an invitation or offer).",
+            "examples": [
+              "Caroline declined the coffee"
+            ],
+            "synonyms": [
+              "turn down",
+              "reject",
+              "brush aside",
+              "refuse",
+              "rebuff",
+              "spurn",
+              "repulse",
+              "dismiss; Moreforgo",
+              "deny oneself",
+              "pass up; abstain from",
+              "say no to; informalgive the thumbs down to",
+              "give something a miss \"she declined all invitations\""
+            ],
+            "antonyms": [
+              "accept"
+            ]
+          },
+          {
+            "definition": "politely refuse to do something.",
+            "examples": [
+              "the company declined to comment"
+            ]
+          },
+          {
+            "definition": "(especially of the sun) move downward."
+          },
+          {
+            "definition": "bend down; droop."
+          },
+          {
+            "definition": "(in the grammar of Latin, Greek, and certain other languages) state the forms of (a noun, pronoun, or adjective) corresponding to cases, number, and gender."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "declines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gradual and continuous loss of strength, numbers, quality, or value.",
+            "examples": [
+              "a serious decline in bird numbers"
+            ],
+            "synonyms": [
+              "reduction",
+              "decrease",
+              "downturn",
+              "downswing",
+              "downtrend",
+              "devaluation",
+              "depreciation",
+              "diminution",
+              "ebb",
+              "drop",
+              "slump",
+              "plunge; Moreinformalnosedive",
+              "crash \"a decline in profits\"deterioration",
+              "degeneration",
+              "degradation",
+              "shrinkage; death",
+              "decay \"forest decline\"declining",
+              "decaying",
+              "crumbling",
+              "collapsing",
+              "failing; disappearing",
+              "dying",
+              "moribund; informalon its last legs",
+              "on the way out \"sadly",
+              "our volunteer program is in decline\""
+            ]
+          },
+          {
+            "definition": "the gradual setting of the sun."
+          },
+          {
+            "definition": "any disease in which bodily strength gradually fails, especially tuberculosis."
+          }
+        ]
+      }
+    ]
+  }
+]

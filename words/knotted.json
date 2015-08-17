@@ -1,0 +1,54 @@
+[
+  {
+    "word": "knot",
+    "syllables": [
+      "knot"
+    ],
+    "pronunciation": "nät",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "knotted"
+          },
+          {
+            "part": "past participle",
+            "variant": "knotted"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fasten with a knot.",
+            "examples": [
+              "the scarves were knotted loosely around their throats"
+            ],
+            "synonyms": [
+              "tie (up)",
+              "fasten",
+              "secure",
+              "bind",
+              "do up \"a long blue scarf was knotted around her waist\""
+            ]
+          },
+          {
+            "definition": "make (a carpet or other decorative item) with knots."
+          },
+          {
+            "definition": "make (something, especially hair) tangled.",
+            "examples": [
+              "tangled, tangly, knotty, entangled, matted, snarled, unkempt, uncombed, tousled; mussed up knotted hair"
+            ]
+          },
+          {
+            "definition": "cause (a muscle) to become tense and hard."
+          },
+          {
+            "definition": "(of the stomach) tighten as a result of nervousness or tension."
+          }
+        ]
+      }
+    ]
+  }
+]

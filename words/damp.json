@@ -1,0 +1,153 @@
+[
+  {
+    "word": "damp",
+    "syllables": [
+      "damp"
+    ],
+    "pronunciation": "damp",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "damp"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "damper"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "dampest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "slightly wet.",
+            "examples": [
+              "her hair was still damp from the shower"
+            ],
+            "synonyms": [
+              "moist",
+              "moistened",
+              "wettish",
+              "dampened",
+              "dampish; Morehumid",
+              "steamy",
+              "muggy",
+              "clammy",
+              "sweaty",
+              "sticky",
+              "dank",
+              "moisture-laden",
+              "wet",
+              "wetted; rainy",
+              "drizzly",
+              "showery",
+              "misty",
+              "foggy",
+              "vaporous",
+              "dewy \"her hair was damp\""
+            ],
+            "antonyms": [
+              "dry"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "damp"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "moisture diffused through the air or a solid substance or condensed on a surface, typically with detrimental or unpleasant effects.",
+            "examples": [
+              "moisture, dampness, humidity, wetness, wet, water, condensation, steam, vapor; Moreclamminess, dankness; rain, dew, drizzle, precipitation, spray; perspiration, sweat \"the damp in the air\"Moreclamminess, dankness; rain, dew, drizzle, precipitation, spray; perspiration, sweat the damp in the air"
+            ],
+            "antonyms": [
+              "dryness"
+            ]
+          },
+          {
+            "definition": "foul, stifling, or poisonous gas, especially in a mine.",
+            "examples": [
+              "plural noun: damps"
+            ]
+          },
+          {
+            "definition": "damp air or atmosphere.",
+            "examples": [
+              "plural noun: damps"
+            ]
+          },
+          {
+            "definition": "a check or discouragement.",
+            "examples": [
+              "shame gave a damp to her triumph"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "damp"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "damps"
+          },
+          {
+            "part": "past tense",
+            "variant": "damped"
+          },
+          {
+            "part": "past participle",
+            "variant": "damped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "damping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) slightly wet.",
+            "examples": [
+              "damp a small area with water"
+            ]
+          },
+          {
+            "definition": "control or restrain (a feeling or a state of affairs).",
+            "examples": [
+              "she tried to damp down her feelings of despair"
+            ]
+          },
+          {
+            "definition": "make (a fire) burn less strongly by reducing the flow of air to it."
+          },
+          {
+            "definition": "restrict the amplitude of vibrations on (a piano or other musical instrument) so as to reduce the volume of sound.",
+            "examples": [
+              "rapidly damping the cymbals after repeatedly clashing them together"
+            ]
+          },
+          {
+            "definition": "progressively reduce the amplitude of (an oscillation or vibration).",
+            "examples": [
+              "concrete structures damp out any vibrations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

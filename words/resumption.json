@@ -1,0 +1,39 @@
+[
+  {
+    "word": "resumption",
+    "syllables": [
+      "re",
+      "sump",
+      "tion"
+    ],
+    "pronunciation": "rəˈzəm(p)SH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "resumption"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of beginning something again after a pause or interruption.",
+            "examples": [
+              "a resumption of meaningful negotiation"
+            ],
+            "synonyms": [
+              "restart to/of",
+              "restarting of",
+              "recommencement of",
+              "reopening of; Morecontinuation of",
+              "carrying on of",
+              "renewal of",
+              "return to \"they called for a resumption of negotiations\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

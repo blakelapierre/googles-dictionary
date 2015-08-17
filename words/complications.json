@@ -1,0 +1,60 @@
+[
+  {
+    "word": "complication",
+    "syllables": [
+      "com",
+      "pli",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "ˌkämpləˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "complications"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a circumstance that complicates something; a difficulty.",
+            "examples": [
+              "there is a complication concerning ownership of the site"
+            ],
+            "synonyms": [
+              "difficulty",
+              "problem",
+              "obstacle",
+              "hurdle",
+              "stumbling block; Moredrawback",
+              "snag",
+              "catch",
+              "hitch; informalfly in the ointment",
+              "headache \"a complication concerning ownership\""
+            ]
+          },
+          {
+            "definition": "an involved or confused condition or state.",
+            "examples": [
+              "to add further complication, English speakers use a different name"
+            ],
+            "synonyms": [
+              "complexity",
+              "complicatedness",
+              "intricacy",
+              "convolutedness \"the complication of life in our society\""
+            ]
+          },
+          {
+            "definition": "a secondary disease or condition aggravating an already existing one.",
+            "examples": [
+              "she developed complications after the surgery"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

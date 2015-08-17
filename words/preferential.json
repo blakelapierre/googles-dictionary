@@ -1,0 +1,53 @@
+[
+  {
+    "word": "preferential",
+    "syllables": [
+      "pref",
+      "er",
+      "en",
+      "tial"
+    ],
+    "pronunciation": "ˌprefəˈren(t)SH(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "preferential"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or involving preference or partiality; constituting a favor or privilege.",
+            "examples": [
+              "preferential interest rates may be offered to employees"
+            ],
+            "synonyms": [
+              "special",
+              "better",
+              "privileged",
+              "superior",
+              "favorable; Morepartial",
+              "discriminatory",
+              "partisan",
+              "biased \"we were not expecting this preferential treatment\""
+            ]
+          },
+          {
+            "definition": "(of a union shop) giving employment preference to union members.",
+            "examples": [
+              "a preferential shop"
+            ]
+          },
+          {
+            "definition": "(of voting or an election) in which the voter puts candidates in order of preference."
+          },
+          {
+            "definition": "(of a creditor) having a claim on the receipt of payment from a debtor that will be met before those of other creditors."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "wrong",
+    "syllables": [
+      "wrong"
+    ],
+    "pronunciation": "rôNG",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "wronged"
+          },
+          {
+            "part": "past participle",
+            "variant": "wronged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "act unjustly or dishonestly toward (someone).",
+            "examples": [
+              "please forgive me these things and the people I have wronged"
+            ]
+          },
+          {
+            "definition": "mistakenly attribute bad motives to; misrepresent.",
+            "examples": [
+              "perhaps I wrong him"
+            ],
+            "synonyms": [
+              "ill-use",
+              "mistreat",
+              "do an injustice to",
+              "do wrong to",
+              "ill-treat",
+              "abuse",
+              "harm",
+              "hurt",
+              "injure \"she was determined to forget the man who had wronged her\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

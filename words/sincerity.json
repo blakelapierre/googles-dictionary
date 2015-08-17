@@ -1,0 +1,42 @@
+[
+  {
+    "word": "sincerity",
+    "syllables": [
+      "sin",
+      "cer",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "sinˈserədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sincerity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being free from pretense, deceit, or hypocrisy.",
+            "examples": [
+              "the sincerity of his beliefs is unquestionable"
+            ],
+            "synonyms": [
+              "honesty",
+              "genuineness",
+              "truthfulness",
+              "integrity",
+              "probity",
+              "trustworthiness; Morestraightforwardness",
+              "openness",
+              "candor",
+              "candidness \"there's no reason to doubt her sincerity\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

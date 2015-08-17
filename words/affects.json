@@ -1,0 +1,129 @@
+[
+  {
+    "word": "affect",
+    "syllables": [
+      "af",
+      "fect"
+    ],
+    "pronunciation": "əˈfekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "affects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have an effect on; make a difference to.",
+            "examples": [
+              "the dampness began to affect my health"
+            ],
+            "synonyms": [
+              "have an effect on",
+              "influence",
+              "act on",
+              "work on",
+              "have an impact on",
+              "impact; Morechange",
+              "alter",
+              "modify",
+              "transform",
+              "form",
+              "shape",
+              "sway",
+              "bias \"this development may have affected the judge's decision\""
+            ]
+          },
+          {
+            "definition": "touch the feelings of (someone); move emotionally.",
+            "examples": [
+              "the atrocities he witnessed have affected him most deeply"
+            ],
+            "synonyms": [
+              "move",
+              "touch",
+              "make an impression on",
+              "hit (hard)",
+              "tug at someone's heartstrings; Moreupset",
+              "trouble",
+              "distress",
+              "disturb",
+              "agitate",
+              "shake (up) \"he was visibly affected by the experience\"touching",
+              "moving",
+              "emotive",
+              "emotional; stirring",
+              "soul-stirring",
+              "heartwarming; poignant",
+              "pathetic",
+              "pitiful",
+              "piteous",
+              "tear-jerking",
+              "heart-rending",
+              "gut-wrenching",
+              "heartbreaking",
+              "disturbing",
+              "distressing",
+              "upsetting",
+              "sad",
+              "haunting \"an affecting piece of music\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "affect",
+    "syllables": [
+      "af",
+      "fect"
+    ],
+    "pronunciation": "əˈfekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "affects"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pretend to have or feel (something).",
+            "examples": [
+              "as usual I affected a supreme unconcern"
+            ],
+            "synonyms": [
+              "pretend",
+              "feign",
+              "fake",
+              "simulate",
+              "make a show of",
+              "make a pretense of",
+              "sham; Moreinformalput on",
+              "make like \"Paul affected an air of injured innocence\""
+            ]
+          },
+          {
+            "definition": "use, wear, or assume (something) pretentiously or so as to make an impression on others.",
+            "examples": [
+              "an American who had affected a British accent"
+            ],
+            "synonyms": [
+              "assume",
+              "take on",
+              "adopt",
+              "embrace",
+              "espouse \"he deliberately affected a Republican stance\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

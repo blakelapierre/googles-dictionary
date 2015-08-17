@@ -1,0 +1,64 @@
+[
+  {
+    "word": "trophic",
+    "syllables": [
+      "troph",
+      "ic"
+    ],
+    "pronunciation": "ˈtrōfikˈträf-",
+    "parts": [
+      {
+        "part": "adjectiveEcology",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "trophic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of or relating to feeding and nutrition."
+          },
+          {
+            "definition": "(of a hormone or its effect) stimulating the activity of another endocrine gland.",
+            "examples": [
+              "adjective: tropic"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-trophic",
+    "syllables": [
+      "-trophic"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining form",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-trophic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to nutrition.",
+            "examples": [
+              "oligotrophic"
+            ]
+          },
+          {
+            "definition": "relating to maintenance or regulation of a bodily organ or function, especially by a hormone.",
+            "examples": [
+              "gonadotrophic"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

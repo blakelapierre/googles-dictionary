@@ -1,0 +1,70 @@
+[
+  {
+    "word": "harm",
+    "syllables": [
+      "harm"
+    ],
+    "pronunciation": "härm",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "harmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "harmed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "physically injure.",
+            "examples": [
+              "the villains didn't harm him"
+            ],
+            "synonyms": [
+              "injure",
+              "hurt",
+              "wound",
+              "lay a finger on",
+              "maltreat",
+              "mistreat",
+              "misuse",
+              "ill-treat",
+              "ill-use",
+              "abuse",
+              "molest \"he's never harmed anybody in his life\""
+            ]
+          },
+          {
+            "definition": "damage the health of.",
+            "examples": [
+              "smoking when pregnant can harm your baby"
+            ]
+          },
+          {
+            "definition": "have an adverse effect on.",
+            "examples": [
+              "this could harm his Olympic prospects"
+            ],
+            "synonyms": [
+              "injure",
+              "hurt",
+              "wound",
+              "lay a finger on",
+              "maltreat",
+              "mistreat",
+              "misuse",
+              "ill-treat",
+              "ill-use",
+              "abuse",
+              "molest \"he's never harmed anybody in his life\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

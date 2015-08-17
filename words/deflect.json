@@ -1,0 +1,83 @@
+[
+  {
+    "word": "deflect",
+    "syllables": [
+      "de",
+      "flect"
+    ],
+    "pronunciation": "dəˈflekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deflect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deflects"
+          },
+          {
+            "part": "past tense",
+            "variant": "deflected"
+          },
+          {
+            "part": "past participle",
+            "variant": "deflected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deflecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (something) to change direction by interposing something; turn aside from a straight course.",
+            "examples": [
+              "the bullet was deflected harmlessly into the ceiling"
+            ],
+            "synonyms": [
+              "turn aside/away",
+              "divert",
+              "avert",
+              "sidetrack; Moredistract",
+              "draw away; block",
+              "parry",
+              "fend off",
+              "stave off \"she wanted to deflect attention from herself\""
+            ]
+          },
+          {
+            "definition": "(of an object) change direction after hitting something.",
+            "examples": [
+              "the ball deflected off his body"
+            ],
+            "synonyms": [
+              "bounce",
+              "glance",
+              "ricochet",
+              "carom; Morediverge",
+              "deviate",
+              "veer",
+              "swerve",
+              "slew \"the ball deflected off the wall\""
+            ]
+          },
+          {
+            "definition": "cause (someone) to deviate from an intended purpose.",
+            "examples": [
+              "she refused to be deflected from anything she had set her mind on"
+            ]
+          },
+          {
+            "definition": "cause (something) to change orientation.",
+            "examples": [
+              "the compass needle is deflected from magnetic north by metal in the aircraft"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

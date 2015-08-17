@@ -1,0 +1,47 @@
+[
+  {
+    "word": "inactivate",
+    "syllables": [
+      "in",
+      "ac",
+      "ti",
+      "vate"
+    ],
+    "pronunciation": "inˈaktəˌvāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "inactivate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "inactivates"
+          },
+          {
+            "part": "past tense",
+            "variant": "inactivated"
+          },
+          {
+            "part": "past participle",
+            "variant": "inactivated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "inactivating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make inactive or inoperative.",
+            "examples": [
+              "household bleach does not inactivate the virus"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

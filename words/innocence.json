@@ -1,0 +1,55 @@
+[
+  {
+    "word": "innocence",
+    "syllables": [
+      "in",
+      "no",
+      "cence"
+    ],
+    "pronunciation": "ˈinəsəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "innocence"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state, quality, or fact of being innocent of a crime or offense.",
+            "examples": [
+              "they must prove their innocence"
+            ],
+            "synonyms": [
+              "guiltlessness",
+              "blamelessness",
+              "irreproachability \"he protested his innocence\""
+            ]
+          },
+          {
+            "definition": "lack of guile or corruption; purity.",
+            "examples": [
+              "the healthy bloom in her cheeks gave her an aura of innocence"
+            ]
+          },
+          {
+            "definition": "used euphemistically to refer to a person's virginity.",
+            "examples": [
+              "they'd avenge assaults on her innocence by others"
+            ],
+            "synonyms": [
+              "virginity",
+              "chastity",
+              "chasteness",
+              "purity; Moreintegrity",
+              "morality",
+              "decency; datedhonor; archaicvirtue \"the innocence of Sleeping Beauty is beyond the comprehension of these young girls\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

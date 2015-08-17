@@ -1,0 +1,107 @@
+[
+  {
+    "word": "snake",
+    "syllables": [
+      "snake"
+    ],
+    "pronunciation": "snāk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "snake"
+          },
+          {
+            "part": "plural noun",
+            "variant": "snakes"
+          },
+          {
+            "part": "noun",
+            "variant": "snake in the grass"
+          },
+          {
+            "part": "plural noun",
+            "variant": "snakes in the grass"
+          },
+          {
+            "part": "noun",
+            "variant": "plumber's snake"
+          },
+          {
+            "part": "plural noun",
+            "variant": "plumber's snakes"
+          },
+          {
+            "part": "noun",
+            "variant": "the snake"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension. Some snakes have a venomous bite.",
+            "examples": [
+              "serpent; ophidian the snake shed its skin"
+            ]
+          },
+          {
+            "definition": "(in general use) a limbless lizard or amphibian."
+          },
+          {
+            "definition": "a treacherous or deceitful person.",
+            "examples": [
+              "that man is a cold-blooded snake"
+            ]
+          },
+          {
+            "definition": "a long flexible wire for clearing obstacles in piping."
+          },
+          {
+            "definition": "a former system of interconnected exchange rates for the currencies of EC countries."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "snake"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "snakes"
+          },
+          {
+            "part": "past tense",
+            "variant": "snaked"
+          },
+          {
+            "part": "past participle",
+            "variant": "snaked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "snaking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move or extend with the twisting motion of a snake.",
+            "examples": [
+              "a rope snaked down"
+            ],
+            "synonyms": [
+              "twist",
+              "wind",
+              "meander",
+              "zigzag",
+              "curve \"the road snakes inland\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

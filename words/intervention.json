@@ -1,0 +1,53 @@
+[
+  {
+    "word": "intervention",
+    "syllables": [
+      "in",
+      "ter",
+      "ven",
+      "tion"
+    ],
+    "pronunciation": "ˌin(t)ərˈven(t)SH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intervention"
+          },
+          {
+            "part": "plural noun",
+            "variant": "interventions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of intervening.",
+            "examples": [
+              "they are plants that grow naturally without human intervention"
+            ]
+          },
+          {
+            "definition": "interference by a country in another's affairs.",
+            "examples": [
+              "the administration was reported to be considering military intervention"
+            ]
+          },
+          {
+            "definition": "action taken to improve a situation, especially a medical disorder.",
+            "examples": [
+              "two patients were referred for surgical intervention"
+            ]
+          },
+          {
+            "definition": "an occasion on which a person with an addiction or other behavioral problem is confronted by a group of friends or family members in an attempt to persuade them to address the issue.",
+            "examples": [
+              "as her health worsened, her daughters considered staging an intervention"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

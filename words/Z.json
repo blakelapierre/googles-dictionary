@@ -1,0 +1,120 @@
+[
+  {
+    "word": "Z",
+    "syllables": [
+      "Z"
+    ],
+    "pronunciation": "zē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Z"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Z's"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Zs"
+          },
+          {
+            "part": "noun",
+            "variant": "z"
+          },
+          {
+            "part": "plural noun",
+            "variant": "zes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the twenty-sixth letter of the alphabet."
+          },
+          {
+            "definition": "denoting the next after Y in a set of items, categories, etc."
+          },
+          {
+            "definition": "denoting a third unknown or unspecified person or thing.",
+            "examples": [
+              "X sold a car to Y (a car dealer) who in turn sold it to Z (a finance company)"
+            ]
+          },
+          {
+            "definition": "the third unknown quantity in an algebraic expression."
+          },
+          {
+            "definition": "denoting the third axis in a three-dimensional system of coordinates.",
+            "examples": [
+              "the z -axis"
+            ]
+          },
+          {
+            "definition": "a shape like that of a capital Z.",
+            "examples": [
+              "the same old Z-shaped crack in the paving stone"
+            ]
+          },
+          {
+            "definition": "used in repeated form to represent the sound of buzzing or snoring.",
+            "examples": [
+              "I'm being overcome with weariness as I write … zzzzz, zzzzz"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Z",
+    "syllables": [
+      "Z"
+    ],
+    "pronunciation": "zē",
+    "parts": [
+      {
+        "part": "symbolChemistry",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "Z"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "atomic number."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "atomic number",
+    "syllables": [
+      "a",
+      "tom",
+      "ic num",
+      "ber"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "nounChemistryPhysics",
+        "variants": [
+          {
+            "part": "symbol",
+            "variant": "Z"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the number of protons in the nucleus of an atom, which determines the chemical properties of an element and its place in the periodic table."
+          }
+        ]
+      }
+    ]
+  }
+]

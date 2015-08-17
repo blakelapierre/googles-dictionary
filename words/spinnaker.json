@@ -1,0 +1,31 @@
+[
+  {
+    "word": "spinnaker",
+    "syllables": [
+      "spin",
+      "na",
+      "ker"
+    ],
+    "pronunciation": "ˈspinəkər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spinnaker"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spinnakers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large three-cornered sail, typically bulging when full, set forward of the mainsail of a yacht when running before the wind."
+          }
+        ]
+      }
+    ]
+  }
+]

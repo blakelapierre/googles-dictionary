@@ -1,0 +1,49 @@
+[
+  {
+    "word": "originator",
+    "syllables": [
+      "o",
+      "rig",
+      "i",
+      "na",
+      "tor"
+    ],
+    "pronunciation": "əˈrijəˌnādər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "originator"
+          },
+          {
+            "part": "plural noun",
+            "variant": "originators"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who creates or initiates something.",
+            "examples": [
+              "Wegener was the originator of the theory of continental drift"
+            ],
+            "synonyms": [
+              "inventor",
+              "creator",
+              "architect",
+              "author",
+              "father",
+              "mother",
+              "initiator",
+              "innovator",
+              "founder",
+              "pioneer",
+              "mastermind; literarybegetter \"the originator of the Dixie cup\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

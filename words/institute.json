@@ -1,0 +1,105 @@
+[
+  {
+    "word": "institute",
+    "syllables": [
+      "in",
+      "sti",
+      "tute"
+    ],
+    "pronunciation": "ˈinstəˌt(y)o͞ot",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "institute"
+          },
+          {
+            "part": "plural noun",
+            "variant": "institutes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a society or organization having a particular object or common factor, especially a scientific, educational, or social one.",
+            "examples": [
+              "the Institute for Advanced Studies"
+            ]
+          },
+          {
+            "definition": "a commentary, treatise, or summary of principles, especially concerning law."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "institute"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "institutes"
+          },
+          {
+            "part": "past tense",
+            "variant": "instituted"
+          },
+          {
+            "part": "past participle",
+            "variant": "instituted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "instituting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "set in motion or establish (something, especially a program, system, or inquiry).",
+            "examples": [
+              "the Illinois Department of Conservation instituted a hunt to remove deer"
+            ],
+            "synonyms": [
+              "initiate",
+              "set in motion",
+              "get underway",
+              "get off the ground",
+              "get going",
+              "start",
+              "commence",
+              "begin",
+              "launch; Moreset up",
+              "inaugurate",
+              "found",
+              "establish",
+              "organize",
+              "generate",
+              "bring about; start the ball rolling on; informalkick off \"the company has asked us to institute the new hiring policies before December 31\""
+            ],
+            "antonyms": [
+              "end"
+            ]
+          },
+          {
+            "definition": "begin (legal proceedings) in a court.",
+            "examples": [
+              "initiate, set in motion, get underway, get off the ground, get going, start, commence, begin, launch; Moreset up, inaugurate, found, establish, organize, generate, bring about; start the ball rolling on; informalkick off \"the company has asked us to institute the new hiring policies before December 31\"Moreset up, inaugurate, found, establish, organize, generate, bring about; start the ball rolling on; kick off the company has asked us to institute the new hiring policies before December 31"
+            ],
+            "antonyms": [
+              "end"
+            ]
+          },
+          {
+            "definition": "appoint (someone) to a position, especially as a cleric.",
+            "examples": [
+              "his sons were instituted to his benefice in 1986"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "obligation",
+    "syllables": [
+      "ob",
+      "li",
+      "ga",
+      "tion"
+    ],
+    "pronunciation": "ˌäbləˈɡāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "obligations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act or course of action to which a person is morally or legally bound; a duty or commitment.",
+            "examples": [
+              "he has enough cash to meet his present obligations"
+            ],
+            "synonyms": [
+              "duty",
+              "commitment",
+              "responsibility",
+              "moral imperative; Morefunction",
+              "task",
+              "job",
+              "assignment",
+              "commission",
+              "burden",
+              "charge",
+              "onus",
+              "liability",
+              "accountability",
+              "requirement",
+              "debt; literarytrust \"no obligation may be placed upon you without your consent\"compulsion",
+              "duty",
+              "indebtedness; duress",
+              "necessity",
+              "pressure",
+              "constraint \"he felt an obligation to tip well\""
+            ]
+          },
+          {
+            "definition": "the condition of being morally or legally bound to do something.",
+            "examples": [
+              "they are under no obligation to stick to the scheme"
+            ]
+          },
+          {
+            "definition": "a debt of gratitude for a service or favor.",
+            "examples": [
+              "she didn't want to be under an obligation to him"
+            ]
+          },
+          {
+            "definition": "a binding agreement committing a person to a payment or other action."
+          }
+        ]
+      }
+    ]
+  }
+]

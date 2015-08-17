@@ -1,0 +1,87 @@
+[
+  {
+    "word": "disk",
+    "syllables": [
+      "disk"
+    ],
+    "pronunciation": "disk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "disks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a flat, thin, round object.",
+            "examples": [
+              "heavy metal disks the size of hockey pucks"
+            ],
+            "synonyms": [
+              "circle",
+              "round",
+              "saucer",
+              "discus",
+              "ring",
+              "round; coin \"the sun was a huge scarlet disc\""
+            ]
+          },
+          {
+            "definition": "an information storage device for a computer in the shape of a round flat plate that can be rotated to give access to all parts of the surface. The data may be stored either magnetically (in a magnetic disk ) or optically (in an optical disk such as a CD-ROM).",
+            "examples": [
+              "noun: magnetic disk; plural noun: magnetic disks; noun: optical disk; plural noun: optical disks"
+            ],
+            "synonyms": [
+              "diskette",
+              "floppy disk",
+              "floppy; Morehard disk; zip disk; CD",
+              "CD-ROM",
+              "DVD \"a box of blank disks\""
+            ]
+          },
+          {
+            "definition": "a CD or record."
+          },
+          {
+            "definition": "one of the suits in some tarot packs, corresponding to coins in others."
+          },
+          {
+            "definition": "a shape or surface that is round and flat in appearance.",
+            "examples": [
+              "the smudged yellow disk of the moon"
+            ]
+          },
+          {
+            "definition": "a roundish, flattened part in an animal or plant, in particular."
+          },
+          {
+            "definition": "a layer of cartilage separating adjacent vertebrae in the spine.",
+            "examples": [
+              "noun: intervertebral disc; plural noun: intervertebral discs"
+            ]
+          },
+          {
+            "definition": "(in a composite flower head of the daisy family) a close-packed cluster of disk florets in the center, forming the yellow part of the flower head."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "disks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cultivate (a field) with a disk harrow."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "finally",
+    "syllables": [
+      "fi",
+      "nal",
+      "ly"
+    ],
+    "pronunciation": "ˈfīn(ə)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "finally"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "after a long time, typically involving difficulty or delay.",
+            "examples": [
+              "he finally arrived to join us"
+            ],
+            "synonyms": [
+              "eventually",
+              "ultimately",
+              "in the end",
+              "after a long time",
+              "at (long) last; Morein the long run",
+              "in the fullness of time \"she finally got her man to the altar\""
+            ]
+          },
+          {
+            "definition": "as the last in a series of related events or objects.",
+            "examples": [
+              "a referendum followed by local, legislative, and, finally, presidential elections"
+            ],
+            "synonyms": [
+              "lastly",
+              "last",
+              "in conclusion",
+              "to conclude",
+              "to end \"finally",
+              "wrap the ribbon around the edge\""
+            ]
+          },
+          {
+            "definition": "used to introduce a final point or reason.",
+            "examples": [
+              "finally, it is common knowledge that travel broadens the horizons"
+            ]
+          },
+          {
+            "definition": "in such a way as to put an end to doubt and dispute.",
+            "examples": [
+              "to dispel finally the belief that auditors were clients of the company"
+            ],
+            "synonyms": [
+              "conclusively",
+              "irrevocably",
+              "decisively",
+              "definitively",
+              "for ever",
+              "for good",
+              "once and for all \"this should finally dispel that common misconception\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

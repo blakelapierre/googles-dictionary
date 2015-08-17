@@ -1,0 +1,122 @@
+[
+  {
+    "word": "trim",
+    "syllables": [
+      "trim"
+    ],
+    "pronunciation": "trim",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "trimmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "trimmed"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) neat or of the required size or form by cutting away irregular or unwanted parts.",
+            "examples": [
+              "trim the grass using a sharp mower"
+            ],
+            "synonyms": [
+              "cut",
+              "crop",
+              "bob",
+              "shorten",
+              "clip",
+              "snip",
+              "shear",
+              "barber; Moreneaten",
+              "shape",
+              "tidy up \"his hair had been washed and trimmed\""
+            ]
+          },
+          {
+            "definition": "cut off (irregular or unwanted parts).",
+            "examples": [
+              "he was trimming the fat off some pork chops"
+            ],
+            "synonyms": [
+              "cut off",
+              "remove",
+              "take off",
+              "chop off",
+              "lop off; prune \"trim off the lower leaves using a sharp knife\""
+            ]
+          },
+          {
+            "definition": "reduce the size, amount, or number of (something, typically expenditure or costs).",
+            "examples": [
+              "Congress had to decide which current defense programs should be trimmed"
+            ],
+            "synonyms": [
+              "reduce",
+              "decrease",
+              "cut down",
+              "cut back on",
+              "scale down",
+              "prune",
+              "slim down",
+              "pare down",
+              "dock More\"production costs need to be trimmed\"shorten",
+              "abridge",
+              "condense",
+              "abbreviate",
+              "telescope",
+              "truncate \"the story was severely trimmed for the movie version\""
+            ]
+          },
+          {
+            "definition": "(of a person) lose weight; become slimmer.",
+            "examples": [
+              "he works on trimming down and eating right"
+            ]
+          },
+          {
+            "definition": "firm up or lose weight from (a part of one's body)."
+          },
+          {
+            "definition": "decorate (something), typically with contrasting items or pieces of material.",
+            "examples": [
+              "a pair of black leather gloves trimmed with fake fur"
+            ],
+            "synonyms": [
+              "decorate",
+              "adorn",
+              "ornament",
+              "embellish; Moreedge",
+              "pipe",
+              "border",
+              "hem",
+              "fringe \"a pair of black leather gloves trimmed with fake fur\""
+            ]
+          },
+          {
+            "definition": "adjust (sails) to take best advantage of the wind."
+          },
+          {
+            "definition": "adjust the forward and after drafts of (a vessel) by changing the distribution of weight on board, especially cargo and ballast."
+          },
+          {
+            "definition": "keep or adjust the degree to which (an aircraft) can be maintained at a constant altitude without any control forces being present."
+          },
+          {
+            "definition": "adapt one's views to the prevailing political trends for personal advancement."
+          },
+          {
+            "definition": "get the better of (someone), typically by cheating them out of money."
+          },
+          {
+            "definition": "rebuke (someone) angrily."
+          }
+        ]
+      }
+    ]
+  }
+]

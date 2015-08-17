@@ -1,0 +1,80 @@
+[
+  {
+    "word": "originate",
+    "syllables": [
+      "o",
+      "rig",
+      "i",
+      "nate"
+    ],
+    "pronunciation": "əˈrijəˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "originate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "originates"
+          },
+          {
+            "part": "past tense",
+            "variant": "originated"
+          },
+          {
+            "part": "past participle",
+            "variant": "originated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "originating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "have a specified beginning.",
+            "examples": [
+              "the word originated as a marketing term"
+            ],
+            "synonyms": [
+              "arise",
+              "have its origin",
+              "begin",
+              "start",
+              "stem",
+              "spring",
+              "emerge",
+              "emanate \"the disease originated in Africa\""
+            ]
+          },
+          {
+            "definition": "create or initiate (something).",
+            "examples": [
+              "he is responsible for originating this particular cliché"
+            ],
+            "synonyms": [
+              "invent",
+              "create",
+              "initiate",
+              "devise",
+              "think up",
+              "dream up",
+              "conceive",
+              "formulate",
+              "form",
+              "develop",
+              "generate",
+              "engender",
+              "produce",
+              "mastermind",
+              "pioneer; literarybeget \"Tom originated the idea\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

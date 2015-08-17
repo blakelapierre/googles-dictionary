@@ -1,0 +1,61 @@
+[
+  {
+    "word": "tiling",
+    "syllables": [
+      "til",
+      "ing"
+    ],
+    "pronunciation": "ˈtīliNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tiling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a surface covered by tiles.",
+            "examples": [
+              "an area of plain tiling"
+            ]
+          },
+          {
+            "definition": "a way of arranging identical plane shapes so that they completely cover an area without overlapping."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tile",
+    "syllables": [
+      "tile"
+    ],
+    "pronunciation": "tīl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "tiling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover (something) with tiles.",
+            "examples": [
+              "the lobby was tiled in blue"
+            ]
+          },
+          {
+            "definition": "arrange (two or more windows) on a computer screen so that they do not overlap."
+          }
+        ]
+      }
+    ]
+  }
+]

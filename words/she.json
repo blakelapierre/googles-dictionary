@@ -1,0 +1,73 @@
+[
+  {
+    "word": "she",
+    "syllables": [
+      "she"
+    ],
+    "pronunciation": "SHē",
+    "parts": [
+      {
+        "part": "pronoun",
+        "variants": [
+          {
+            "part": "pronoun",
+            "variant": "she"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used to refer to a woman, girl, or female animal previously mentioned or easily identified.",
+            "examples": [
+              "my sister told me that she was not happy"
+            ]
+          },
+          {
+            "definition": "used to refer to a ship, vehicle, country, or other inanimate thing regarded as female.",
+            "examples": [
+              "I was aboard the St. Roch shortly before she sailed for the Northwest Passage"
+            ]
+          },
+          {
+            "definition": "used to refer to a person or animal of unspecified sex.",
+            "examples": [
+              "only include your child if you know she won't distract you"
+            ]
+          },
+          {
+            "definition": "any female person.",
+            "examples": [
+              "she who rocks the cradle rules the world"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "she"
+          },
+          {
+            "part": "plural noun",
+            "variant": "shes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a female; a woman.",
+            "examples": [
+              "is that a he or a she?"
+            ]
+          },
+          {
+            "definition": "female.",
+            "examples": [
+              "prefix: she-"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

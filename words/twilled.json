@@ -1,0 +1,32 @@
+[
+  {
+    "word": "twill",
+    "syllables": [
+      "twill"
+    ],
+    "pronunciation": "twil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "twilled"
+          },
+          {
+            "part": "past participle",
+            "variant": "twilled"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "weave (fabric) so it has a surface of diagonal parallel ridges.",
+            "examples": [
+              "twilled cotton"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

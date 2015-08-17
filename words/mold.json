@@ -1,0 +1,251 @@
+[
+  {
+    "word": "mold",
+    "syllables": [
+      "mold"
+    ],
+    "pronunciation": "mōld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mould"
+          },
+          {
+            "part": "plural noun",
+            "variant": "moulds"
+          },
+          {
+            "part": "noun",
+            "variant": "mold"
+          },
+          {
+            "part": "plural noun",
+            "variant": "molds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a hollow container used to give shape to molten or hot liquid material (such as wax or metal) when it cools and hardens.",
+            "examples": [
+              "cast, die, form, matrix, shape, template, pattern, frame the molten metal is poured into a mold"
+            ]
+          },
+          {
+            "definition": "something made in a mold, especially a gelatin dessert or a mousse.",
+            "examples": [
+              "lobster mold with a sauce of carrots and port"
+            ]
+          },
+          {
+            "definition": "a distinctive and typical style, form, or character.",
+            "examples": [
+              "he planned to conquer the world as a roving reporter in the mold of his hero"
+            ],
+            "synonyms": [
+              "character",
+              "nature",
+              "temperament",
+              "disposition; Morecaliber",
+              "kind",
+              "sort",
+              "variety",
+              "stamp",
+              "type \"he is a figure of heroic mold\""
+            ]
+          },
+          {
+            "definition": "the form or shape of something, especially the features or physique of a person or the build of an animal.",
+            "examples": [
+              "pattern, form, shape, format, model, kind, type, style; Morearchetype, prototype \"an actress in the traditional Hollywood mold\"Morearchetype, prototype an actress in the traditional Hollywood mold"
+            ]
+          },
+          {
+            "definition": "a frame or template for producing moldings."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "mould"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "moulds"
+          },
+          {
+            "part": "past tense",
+            "variant": "moulded"
+          },
+          {
+            "part": "past participle",
+            "variant": "moulded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "moulding"
+          },
+          {
+            "part": "verb",
+            "variant": "mold"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "molds"
+          },
+          {
+            "part": "past tense",
+            "variant": "molded"
+          },
+          {
+            "part": "past participle",
+            "variant": "molded"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "molding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "form (an object with a particular shape) out of easily manipulated material.",
+            "examples": [
+              "a Connecticut inventor molded a catamaran out of polystyrene foam"
+            ],
+            "synonyms": [
+              "shape",
+              "form",
+              "fashion",
+              "model",
+              "work",
+              "construct",
+              "make",
+              "create",
+              "manufacture",
+              "sculpt",
+              "sculpture; Moreforge",
+              "cast \"a figure molded from clay\""
+            ]
+          },
+          {
+            "definition": "give a shape to (a malleable substance).",
+            "examples": [
+              "take the marzipan and mold it into a cone shape"
+            ],
+            "synonyms": [
+              "shape",
+              "form",
+              "fashion",
+              "model",
+              "work",
+              "construct",
+              "make",
+              "create",
+              "manufacture",
+              "sculpt",
+              "sculpture; Moreforge",
+              "cast \"a figure molded from clay\""
+            ]
+          },
+          {
+            "definition": "influence the formation or development of.",
+            "examples": [
+              "the professionals who were helping to mold US policy"
+            ],
+            "synonyms": [
+              "determine",
+              "direct",
+              "control",
+              "guide",
+              "lead",
+              "influence",
+              "shape",
+              "form",
+              "fashion",
+              "make \"molding foreign policy\""
+            ]
+          },
+          {
+            "definition": "shape (a column, ceiling, or other part of a building) to a particular design, especially a decorative molding.",
+            "examples": [
+              "adjective: moulded; adjective: molded"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mold",
+    "syllables": [
+      "mold"
+    ],
+    "pronunciation": "mōld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mould"
+          },
+          {
+            "part": "plural noun",
+            "variant": "moulds"
+          },
+          {
+            "part": "noun",
+            "variant": "mold"
+          },
+          {
+            "part": "plural noun",
+            "variant": "molds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a furry growth of minute fungal hyphae occurring typically in moist warm conditions, especially on food or other organic matter.",
+            "examples": [
+              "mildew, fungus, dry rot, must, moldiness, mustiness walls stained with mold"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mold",
+    "syllables": [
+      "mold"
+    ],
+    "pronunciation": "mōld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "mould"
+          },
+          {
+            "part": "noun",
+            "variant": "mold"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "soft loose earth."
+          },
+          {
+            "definition": "the upper soil of cultivated land, especially when rich in organic matter."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "inadequate",
+    "syllables": [
+      "in",
+      "ad",
+      "e",
+      "quate"
+    ],
+    "pronunciation": "inˈadikwət",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inadequate"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking the quality or quantity required; insufficient for a purpose.",
+            "examples": [
+              "these labels prove to be wholly inadequate"
+            ],
+            "synonyms": [
+              "insufficient",
+              "deficient",
+              "poor",
+              "scant",
+              "scanty",
+              "scarce",
+              "sparse",
+              "in short supply; Morepaltry",
+              "meager",
+              "niggardly",
+              "beggarly",
+              "limited; informalmeasly",
+              "pathetic; formalexiguous \"inadequate water supplies\"incompetent",
+              "incapable",
+              "unsatisfactory",
+              "unfit",
+              "unacceptable",
+              "ineffective",
+              "ineffectual",
+              "inefficient",
+              "unskillful",
+              "inexpert",
+              "inept",
+              "amateurish",
+              "substandard",
+              "poor",
+              "useless",
+              "inferior; informalnot up to scratch",
+              "not up to snuff",
+              "no great shakes",
+              "lame",
+              "shabby \"an inadequate typist\""
+            ],
+            "antonyms": [
+              "sufficient",
+              "competent"
+            ]
+          },
+          {
+            "definition": "(of a person) unable to deal with a situation or with life.",
+            "examples": [
+              "a sad, solitary, inadequate man"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

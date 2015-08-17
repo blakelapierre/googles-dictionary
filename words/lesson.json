@@ -1,0 +1,108 @@
+[
+  {
+    "word": "lesson",
+    "syllables": [
+      "les",
+      "son"
+    ],
+    "pronunciation": "ˈles(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "lesson"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lessons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an amount of teaching given at one time; a period of learning or teaching.",
+            "examples": [
+              "an advanced lesson in math"
+            ],
+            "synonyms": [
+              "class",
+              "session",
+              "seminar",
+              "tutorial",
+              "lecture",
+              "period",
+              "period of instruction/teaching More\"a math lesson\"exercises",
+              "assignments",
+              "schoolwork",
+              "homework",
+              "study \"they should be industrious at their lessons\""
+            ]
+          },
+          {
+            "definition": "a thing learned or to be learned by a student."
+          },
+          {
+            "definition": "a thing learned by experience.",
+            "examples": [
+              "the tragedy is a lesson in disappointment"
+            ]
+          },
+          {
+            "definition": "an occurrence, example, or punishment that serves or should serve to warn or encourage.",
+            "examples": [
+              "let that be a lesson to you!"
+            ],
+            "synonyms": [
+              "warning",
+              "deterrent",
+              "caution; Moreexample",
+              "exemplar",
+              "message",
+              "moral \"Stuart's accident should be a lesson to all parents\""
+            ]
+          },
+          {
+            "definition": "a passage from the Bible read aloud during a church service, especially either of two readings at morning and evening prayer in the Anglican Church.",
+            "examples": [
+              "Bible reading, scripture, text, reading, passage reading the lesson in church"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "lesson"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "lessons"
+          },
+          {
+            "part": "past tense",
+            "variant": "lessoned"
+          },
+          {
+            "part": "past participle",
+            "variant": "lessoned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "lessoning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "instruct or teach (someone)."
+          },
+          {
+            "definition": "admonish or rebuke (someone)."
+          }
+        ]
+      }
+    ]
+  }
+]

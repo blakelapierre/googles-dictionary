@@ -1,0 +1,38 @@
+[
+  {
+    "word": "stagehand",
+    "syllables": [
+      "stage",
+      "hand"
+    ],
+    "pronunciation": "ˈstājˌhand",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "stagehand"
+          },
+          {
+            "part": "plural noun",
+            "variant": "stagehands"
+          },
+          {
+            "part": "noun",
+            "variant": "stage-hand"
+          },
+          {
+            "part": "plural noun",
+            "variant": "stage-hands"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who moves scenery or props before or during the performance of a play."
+          }
+        ]
+      }
+    ]
+  }
+]

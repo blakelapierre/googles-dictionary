@@ -1,0 +1,90 @@
+[
+  {
+    "word": "lifeless",
+    "syllables": [
+      "life",
+      "less"
+    ],
+    "pronunciation": "ˈlīfləs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "lifeless"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "dead or apparently dead.",
+            "examples": [
+              "his lifeless body was taken from the river"
+            ],
+            "synonyms": [
+              "dead",
+              "departed",
+              "perished",
+              "gone",
+              "no more",
+              "passed on/away",
+              "stiff",
+              "cold",
+              "(as) dead as a doornail; Moreformaldeceased; raredemised \"a lifeless body\""
+            ],
+            "antonyms": [
+              "alive"
+            ]
+          },
+          {
+            "definition": "lacking vigor, vitality, or excitement.",
+            "examples": [
+              "my hair always seems to look lifeless"
+            ],
+            "synonyms": [
+              "lackluster",
+              "spiritless",
+              "apathetic",
+              "torpid",
+              "lethargic; Moredull",
+              "monotonous",
+              "boring",
+              "tedious",
+              "dreary",
+              "uninvolving",
+              "unexciting",
+              "expressionless",
+              "emotionless",
+              "colorless",
+              "characterless \"a lifeless performance\""
+            ],
+            "antonyms": [
+              "vibrant",
+              "lively"
+            ]
+          },
+          {
+            "definition": "devoid of living things.",
+            "examples": [
+              "the moon is lifeless"
+            ],
+            "synonyms": [
+              "barren",
+              "sterile",
+              "bare",
+              "desolate",
+              "stark",
+              "arid",
+              "infertile",
+              "uncultivated",
+              "uninhabited; Morebleak",
+              "colorless",
+              "characterless",
+              "soulless \"a lifeless landscape\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

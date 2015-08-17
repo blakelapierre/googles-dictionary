@@ -1,0 +1,214 @@
+[
+  {
+    "word": "field",
+    "syllables": [
+      "field"
+    ],
+    "pronunciation": "fēld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "fields"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences.",
+            "examples": [
+              "a wheat field"
+            ],
+            "synonyms": [
+              "meadow",
+              "pasture",
+              "paddock",
+              "grassland",
+              "pastureland; Moreliterarylea",
+              "sward; archaicglebe \"a large plowed field\""
+            ]
+          },
+          {
+            "definition": "a piece of land used for a particular purpose, especially an area marked out for a game or sport.",
+            "examples": [
+              "a football field"
+            ],
+            "synonyms": [
+              "playing field",
+              "ground",
+              "sports field; pitch \"a soccer field\""
+            ]
+          },
+          {
+            "definition": "defensive play or the defensive positions collectively.",
+            "examples": [
+              "he is fast in the field and on the bases"
+            ]
+          },
+          {
+            "definition": "a large area of land or water completely covered in a particular substance, especially snow or ice.",
+            "examples": [
+              "an ice field"
+            ]
+          },
+          {
+            "definition": "an area rich in a natural product, typically oil or gas.",
+            "examples": [
+              "an oil field"
+            ]
+          },
+          {
+            "definition": "an area on which a battle is fought.",
+            "examples": [
+              "a field of battle"
+            ]
+          },
+          {
+            "definition": "a battle.",
+            "examples": [
+              "many a bloody field was to be fought"
+            ]
+          },
+          {
+            "definition": "a place where a subject of scientific study or artistic representation can be observed in its natural location or context."
+          },
+          {
+            "definition": "a particular branch of study or sphere of activity or interest.",
+            "examples": [
+              "we talked to professionals in various fields"
+            ],
+            "synonyms": [
+              "area",
+              "sphere",
+              "discipline",
+              "province",
+              "department",
+              "domain",
+              "sector",
+              "branch",
+              "subject; informalbailiwick \"the field of biotechnology\""
+            ]
+          },
+          {
+            "definition": "a part of a record, representing an item of data."
+          },
+          {
+            "definition": "a general area of meaning within which individual words make particular distinctions."
+          },
+          {
+            "definition": "a space or range within which objects are visible from a particular viewpoint or through a piece of apparatus.",
+            "examples": [
+              "the stars drift through this telescope's field of view"
+            ],
+            "synonyms": [
+              "scope",
+              "range",
+              "sweep",
+              "reach",
+              "extent \"your field of vision\""
+            ]
+          },
+          {
+            "definition": "an area on a flag with a single background color.",
+            "examples": [
+              "fifty white stars on a blue field"
+            ]
+          },
+          {
+            "definition": "the surface of an escutcheon or of one of its divisions."
+          },
+          {
+            "definition": "all the participants in a contest or sport.",
+            "examples": [
+              "he destroyed the rest of the field with a devastating injection of speed"
+            ],
+            "synonyms": [
+              "competitors",
+              "entrants",
+              "competition; Moreapplicants",
+              "candidates",
+              "possibles \"she is well ahead of the field\""
+            ]
+          },
+          {
+            "definition": "the region in which a particular condition prevails, especially one in which a force or influence is effective regardless of the presence or absence of a material medium."
+          },
+          {
+            "definition": "the force exerted or potentially exerted in a field.",
+            "examples": [
+              "the variation in the strength of the field"
+            ]
+          },
+          {
+            "definition": "a system subject to two binary operations analogous to those for the multiplication and addition of real numbers, and having similar commutative and distributive laws."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "fields"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "play as a fielder."
+          },
+          {
+            "definition": "catch or stop (the ball).",
+            "examples": [
+              "he fielded the ball cleanly, but threw it down the right-field line"
+            ],
+            "synonyms": [
+              "catch",
+              "stop",
+              "retrieve; Morereturn",
+              "throw back \"she fielded the ball\""
+            ]
+          },
+          {
+            "definition": "send out (a team or individual) to play in a game.",
+            "examples": [
+              "a high school that traditionally fielded mediocre teams"
+            ]
+          },
+          {
+            "definition": "(of a political party) nominate (a candidate) to run in an election.",
+            "examples": [
+              "a radical political party that is beginning to field candidates in local elections"
+            ]
+          },
+          {
+            "definition": "deploy (an army).",
+            "examples": [
+              "no one had the power to field an army of any consequence"
+            ],
+            "synonyms": [
+              "deploy",
+              "position",
+              "range",
+              "dispose \"they can field an army of about one million\""
+            ]
+          },
+          {
+            "definition": "deal with (a difficult question, telephone call, etc.).",
+            "examples": [
+              "she has fielded five calls from salespeople"
+            ],
+            "synonyms": [
+              "deal with",
+              "handle",
+              "cope with",
+              "answer",
+              "reply to",
+              "respond to \"he fielded some awkward questions\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

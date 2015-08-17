@@ -1,0 +1,71 @@
+[
+  {
+    "word": "pin",
+    "syllables": [
+      "pin"
+    ],
+    "pronunciation": "pin",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "pinned"
+          },
+          {
+            "part": "past participle",
+            "variant": "pinned"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "attach or fasten with a pin or pins in a specified position.",
+            "examples": [
+              "her hair was pinned back"
+            ],
+            "synonyms": [
+              "attach",
+              "fasten",
+              "affix",
+              "fix",
+              "tack",
+              "clip; Morejoin",
+              "secure \"she pinned the brooch to her dress\""
+            ]
+          },
+          {
+            "definition": "fix blame or responsibility for something on (someone).",
+            "examples": [
+              "don't pin the blame on me"
+            ],
+            "synonyms": [
+              "blame for",
+              "hold responsible for",
+              "attribute to",
+              "impute to",
+              "ascribe to; Morelay something at someone's door; informalstick on \"they pinned the crime on him\""
+            ]
+          },
+          {
+            "definition": "hold someone firmly in a specified position so they are unable to move.",
+            "examples": [
+              "she was standing pinned against the door"
+            ],
+            "synonyms": [
+              "hold",
+              "press",
+              "hold fast",
+              "hold down; Morerestrain",
+              "pinion",
+              "immobilize \"they pinned him to the ground\""
+            ]
+          },
+          {
+            "definition": "hinder or prevent (a piece or pawn) from moving because of the danger to a more valuable piece standing behind it along the line of an attack."
+          }
+        ]
+      }
+    ]
+  }
+]

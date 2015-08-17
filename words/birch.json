@@ -1,0 +1,88 @@
+[
+  {
+    "word": "birch",
+    "syllables": [
+      "birch"
+    ],
+    "pronunciation": "bərCH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "birch"
+          },
+          {
+            "part": "plural noun",
+            "variant": "birches"
+          },
+          {
+            "part": "noun",
+            "variant": "yellow birch"
+          },
+          {
+            "part": "plural noun",
+            "variant": "yellow birches"
+          },
+          {
+            "part": "noun",
+            "variant": "birch tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "birch trees"
+          },
+          {
+            "part": "noun",
+            "variant": "the birch"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a slender, fast-growing tree that has thin bark (often peeling) and bears catkins. Birch trees grow chiefly in north temperate regions, some reaching the northern limit of tree growth."
+          },
+          {
+            "definition": "the hard fine-grained pale wood of any of the birch trees.",
+            "examples": [
+              "noun: birchwood"
+            ]
+          },
+          {
+            "definition": "a formal punishment in which a person is flogged with a bundle of birch twigs."
+          }
+        ]
+      },
+      {
+        "part": "verbhistorical",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "birch"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "birches"
+          },
+          {
+            "part": "past tense",
+            "variant": "birched"
+          },
+          {
+            "part": "past participle",
+            "variant": "birched"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "birching"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "beat (someone) with a bundle of birch twigs as a formal punishment."
+          }
+        ]
+      }
+    ]
+  }
+]

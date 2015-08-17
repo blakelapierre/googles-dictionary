@@ -1,0 +1,130 @@
+[
+  {
+    "word": "squirt",
+    "syllables": [
+      "squirt"
+    ],
+    "pronunciation": "skwərt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "squirt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "squirts"
+          },
+          {
+            "part": "past tense",
+            "variant": "squirted"
+          },
+          {
+            "part": "past participle",
+            "variant": "squirted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "squirting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (a liquid) to be ejected from a small opening in something in a thin, fast stream or jet.",
+            "examples": [
+              "she squirted soda into a glass"
+            ]
+          },
+          {
+            "definition": "cause (a container of liquid) to eject its contents in a thin, fast stream.",
+            "examples": [
+              "some youngsters squirted a water pistol in her face"
+            ]
+          },
+          {
+            "definition": "wet (someone or something) with a jet or stream of liquid in this way.",
+            "examples": [
+              "she squirted me with the juice from her lemon wedge"
+            ],
+            "synonyms": [
+              "splash",
+              "wet",
+              "spray",
+              "shower",
+              "spatter",
+              "splatter",
+              "sprinkle; literarybesprinkle \"she squirted me with cologne\""
+            ]
+          },
+          {
+            "definition": "(of a liquid) be ejected from something in this way.",
+            "examples": [
+              "spurt, shoot, spray, fountain, jet, erupt; Moregush, rush, pump, surge, stream, spew, well, spring, burst, issue, emanate; emit, belch forth, expel, eject \"a jet of ink squirted out of the tube\"Moregush, rush, pump, surge, stream, spew, well, spring, burst, issue, emanate; emit, belch forth, expel, eject a jet of ink squirted out of the tube"
+            ]
+          },
+          {
+            "definition": "(of an object) move suddenly and unpredictably.",
+            "examples": [
+              "he got his glove on the ball but it squirted away"
+            ]
+          },
+          {
+            "definition": "transmit (information) in highly compressed or speeded-up form."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "squirt"
+          },
+          {
+            "part": "plural noun",
+            "variant": "squirts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thin stream or small quantity of liquid ejected from something.",
+            "examples": [
+              "a quick squirt of perfume"
+            ],
+            "synonyms": [
+              "spurt",
+              "jet",
+              "spray",
+              "fountain",
+              "gush",
+              "stream",
+              "surge \"a squirt of water\""
+            ]
+          },
+          {
+            "definition": "a small device from which a liquid may be ejected in a thin, fast stream."
+          },
+          {
+            "definition": "a compressed radio signal transmitted at high speed."
+          },
+          {
+            "definition": "a person perceived to be insignificant, impudent, or presumptuous.",
+            "examples": [
+              "what did he see in this patronizing little squirt?"
+            ],
+            "synonyms": [
+              "impudent person",
+              "insignificant person",
+              "gnat",
+              "insect; Moreinformalpipsqueak",
+              "whippersnapper",
+              "picayune \"he was just a little squirt\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

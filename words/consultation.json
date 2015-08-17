@@ -1,0 +1,49 @@
+[
+  {
+    "word": "consultation",
+    "syllables": [
+      "con",
+      "sul",
+      "ta",
+      "tion"
+    ],
+    "pronunciation": "ˌkänsəlˈtāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "consultation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "consultations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of formally consulting or discussing.",
+            "examples": [
+              "they improved standards in consultation with consumer representatives"
+            ],
+            "synonyms": [
+              "discussion",
+              "dialogue",
+              "discourse",
+              "debate",
+              "negotiation",
+              "deliberation \"the need for further consultation with industry\""
+            ]
+          },
+          {
+            "definition": "a meeting with an expert or professional, such as a medical doctor, in order to seek advice.",
+            "examples": [
+              "meeting, talk, discussion, interview, audience, hearing; Moreappointment, session; formalconfabulation, colloquy \"a 30-minute consultation\"Moreappointment, session; confabulation, colloquy a 30-minute consultation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

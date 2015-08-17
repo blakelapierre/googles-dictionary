@@ -1,0 +1,52 @@
+[
+  {
+    "word": "arduous",
+    "syllables": [
+      "ar",
+      "du",
+      "ous"
+    ],
+    "pronunciation": "ˈärjo͞oəs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "arduous"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "involving or requiring strenuous effort; difficult and tiring.",
+            "examples": [
+              "an arduous journey"
+            ],
+            "synonyms": [
+              "onerous",
+              "taxing",
+              "difficult",
+              "hard",
+              "heavy",
+              "laborious",
+              "burdensome",
+              "strenuous",
+              "vigorous",
+              "back-breaking; Moredemanding",
+              "tough",
+              "challenging",
+              "formidable; exhausting",
+              "tiring",
+              "punishing",
+              "grueling; uphill",
+              "steep; informalkilling; toilsome \"an arduous journey\""
+            ],
+            "antonyms": [
+              "easy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

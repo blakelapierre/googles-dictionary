@@ -1,0 +1,63 @@
+[
+  {
+    "word": "drama",
+    "syllables": [
+      "dra",
+      "ma"
+    ],
+    "pronunciation": "ˈdrämə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "drama"
+          },
+          {
+            "part": "plural noun",
+            "variant": "dramas"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a play for theater, radio, or television.",
+            "examples": [
+              "a gritty urban drama about growing up in Harlem"
+            ],
+            "synonyms": [
+              "play",
+              "show",
+              "piece",
+              "theatrical work",
+              "dramatization \"a television drama\""
+            ]
+          },
+          {
+            "definition": "drama as a genre or style of literature.",
+            "examples": [
+              "Renaissance drama"
+            ]
+          },
+          {
+            "definition": "an exciting, emotional, or unexpected series of events or set of circumstances.",
+            "examples": [
+              "a hostage drama"
+            ],
+            "synonyms": [
+              "incident",
+              "scene",
+              "spectacle",
+              "crisis; Moreexcitement",
+              "thrill",
+              "sensation; disturbance",
+              "commotion",
+              "turmoil; dramatics",
+              "theatrics \"she liked to create a drama\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

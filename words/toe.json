@@ -1,0 +1,101 @@
+[
+  {
+    "word": "toe",
+    "syllables": [
+      "toe"
+    ],
+    "pronunciation": "tō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "toe"
+          },
+          {
+            "part": "plural noun",
+            "variant": "toes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "any of the five digits at the end of the human foot.",
+            "examples": [
+              "he cut his big toe on a sharp stone"
+            ]
+          },
+          {
+            "definition": "any of the digits of the foot of a quadruped or bird."
+          },
+          {
+            "definition": "the part of an item of footwear that covers a person's toes."
+          },
+          {
+            "definition": "the lower end, tip, or point of something, in particular."
+          },
+          {
+            "definition": "the tip of the head of a golf club, furthest from the shaft."
+          },
+          {
+            "definition": "the foot or base of a cliff, slope, or embankment."
+          },
+          {
+            "definition": "a flattish portion at the foot of an otherwise steep curve on a graph."
+          },
+          {
+            "definition": "a section of a rhizome or similar fleshy root from which a new plant may be propagated."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "toe"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "toes"
+          },
+          {
+            "part": "past tense",
+            "variant": "toed"
+          },
+          {
+            "part": "past participle",
+            "variant": "toed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "toeing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "push, touch, or kick (something) with one's toe.",
+            "examples": [
+              "he toed off his shoes and flexed his feet"
+            ]
+          },
+          {
+            "definition": "strike (the ball) with the toe of the club."
+          },
+          {
+            "definition": "walk with the toes pointed in (or out).",
+            "examples": [
+              "he toes out when he walks"
+            ]
+          },
+          {
+            "definition": "(of a pair of wheels) converge (or diverge) slightly at the front.",
+            "examples": [
+              "on a turn, the inner wheel toes out more"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

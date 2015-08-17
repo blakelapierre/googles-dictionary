@@ -1,0 +1,86 @@
+[
+  {
+    "word": "everyday",
+    "syllables": [
+      "eve",
+      "ry",
+      "day"
+    ],
+    "pronunciation": "ˈevrēˌdā",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "everyday"
+          },
+          {
+            "part": "adjective",
+            "variant": "every-day"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "happening or used every day; daily.",
+            "examples": [
+              "everyday chores like shopping and housework"
+            ],
+            "synonyms": [
+              "daily",
+              "day-to-day",
+              "quotidian \"the everyday demands of a baby\""
+            ]
+          },
+          {
+            "definition": "commonplace.",
+            "examples": [
+              "everyday drugs like aspirin"
+            ],
+            "synonyms": [
+              "commonplace",
+              "ordinary",
+              "common",
+              "usual",
+              "regular",
+              "familiar",
+              "conventional",
+              "run-of-the-mill",
+              "standard",
+              "stock; Morehousehold",
+              "domestic; informalgarden variety \"everyday drugs like acetaminophen\""
+            ],
+            "antonyms": [
+              "unusual"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "every day"
+          },
+          {
+            "part": "adverb",
+            "variant": "every-day"
+          },
+          {
+            "part": "adverb",
+            "variant": "everyday"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each day; daily.",
+            "examples": [
+              "I get up at six every day"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

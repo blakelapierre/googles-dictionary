@@ -1,0 +1,112 @@
+[
+  {
+    "word": "well",
+    "syllables": [
+      "well"
+    ],
+    "pronunciation": "wel",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "wells"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shaft sunk into the ground to obtain water, oil, or gas.",
+            "examples": [
+              "borehole, bore, spring, waterhole she drew water from the well"
+            ]
+          },
+          {
+            "definition": "a plentiful source or supply.",
+            "examples": [
+              "she could feel a deep well of sympathy and compassion"
+            ],
+            "synonyms": [
+              "source",
+              "supply",
+              "fount",
+              "reservoir",
+              "wellspring",
+              "mine",
+              "fund",
+              "treasury \"he's a bottomless well of forgiveness\""
+            ]
+          },
+          {
+            "definition": "a water spring or fountain."
+          },
+          {
+            "definition": "short for inkwell."
+          },
+          {
+            "definition": "a depression made to hold liquid.",
+            "examples": [
+              "put the flour on a flat surface and make a well to hold the eggs"
+            ]
+          },
+          {
+            "definition": "(in place names) a place where there are mineral springs.",
+            "examples": [
+              "noun: Wells"
+            ]
+          },
+          {
+            "definition": "an enclosed space in the middle of a building, giving room for stairs or an elevator, or to allow light or ventilation."
+          },
+          {
+            "definition": "the place in a court of law where the clerks and ushers sit."
+          },
+          {
+            "definition": "a region of minimum potential.",
+            "examples": [
+              "a gravity well"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "wells"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a liquid) rise to the surface and spill or be about to spill.",
+            "examples": [
+              "tears were beginning to well in her eyes"
+            ],
+            "synonyms": [
+              "flow",
+              "spill",
+              "stream",
+              "run",
+              "rush",
+              "gush",
+              "roll",
+              "cascade",
+              "flood",
+              "spout; Moreseep",
+              "trickle; burst",
+              "issue",
+              "upwell \"tears welled from her eyes\""
+            ]
+          },
+          {
+            "definition": "(of an emotion) arise and become more intense.",
+            "examples": [
+              "all the old bitterness began to well up inside her again"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

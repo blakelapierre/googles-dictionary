@@ -1,0 +1,51 @@
+[
+  {
+    "word": "unwise",
+    "syllables": [
+      "un",
+      "wise"
+    ],
+    "pronunciation": "ˌənˈwīz",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unwise"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or action) not wise or sensible; foolish.",
+            "examples": [
+              "it is unwise to rely on hearsay evidence"
+            ],
+            "synonyms": [
+              "injudicious",
+              "ill-advised",
+              "ill-judged",
+              "imprudent",
+              "inexpedient",
+              "foolish",
+              "silly",
+              "inadvisable",
+              "impolitic",
+              "misguided",
+              "foolhardy",
+              "irresponsible",
+              "impetuous",
+              "rash",
+              "hasty",
+              "overhasty",
+              "reckless \"it would have been unwise to argue\""
+            ],
+            "antonyms": [
+              "sensible"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

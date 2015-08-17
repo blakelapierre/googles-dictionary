@@ -1,0 +1,47 @@
+[
+  {
+    "word": "utilize",
+    "syllables": [
+      "u",
+      "ti",
+      "lize"
+    ],
+    "pronunciation": "ˈyo͞odlˌīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "utilized"
+          },
+          {
+            "part": "past participle",
+            "variant": "utilized"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make practical and effective use of.",
+            "examples": [
+              "vitamin C helps your body utilize the iron present in your diet"
+            ],
+            "synonyms": [
+              "use",
+              "make use of",
+              "put to use",
+              "employ",
+              "avail oneself of",
+              "bring/press into service",
+              "bring into play",
+              "deploy",
+              "draw on",
+              "exploit",
+              "harness \"the foam pellets are utilized to make lightweight insulation\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

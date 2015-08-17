@@ -1,203 +1,205 @@
-{
-  "word": "snap",
-  "syllables": [
-    "snap"
-  ],
-  "pronunciation": "snap",
-  "parts": [
-    {
-      "part": "verb",
-      "variants": [
-        {
-          "part": "verb",
-          "variant": "snap"
-        },
-        {
-          "part": "3rd person present",
-          "variant": "snaps"
-        },
-        {
-          "part": "past tense",
-          "variant": "snapped"
-        },
-        {
-          "part": "past participle",
-          "variant": "snapped"
-        },
-        {
-          "part": "gerund or present participle",
-          "variant": "snapping"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "break or cause to break suddenly and completely, typically with a sharp cracking sound.",
-          "examples": [
-            "guitar strings kept snapping"
-          ],
-          "synonyms": [
-            "break",
-            "fracture",
-            "splinter",
-            "come apart",
-            "split",
-            "crack; informalbust \"the ruler snapped\""
-          ]
-        },
-        {
-          "definition": "emit a sudden, sharp cracking sound.",
-          "examples": [
-            "banners snapping in the breeze"
-          ]
-        },
-        {
-          "definition": "(of an animal) make a sudden audible bite.",
-          "examples": [
-            "a dog was snapping at his heels"
-          ],
-          "synonyms": [
-            "bite; gnash its teeth \"a dog was snapping at his heels\""
-          ]
-        },
-        {
-          "definition": "cause to move or alter in a specified way with a brisk movement and typically a sharp sound.",
-          "examples": [
-            "Rosa snapped her bag shut"
-          ]
-        },
-        {
-          "definition": "suddenly lose one's self-control.",
-          "examples": [
-            "she claims she snapped after years of violence"
-          ],
-          "synonyms": [
-            "flare up",
-            "lose one's self-control",
-            "freak out",
-            "go to pieces",
-            "get worked up; Moreinformalcrack up",
-            "lose one's cool",
-            "blow one's top",
-            "fly off the handle \"she snapped after years of violence\""
-          ]
-        },
-        {
-          "definition": "say something quickly and irritably to someone.",
-          "examples": [
-            "McIllvanney snapped at her"
-          ],
-          "synonyms": [
-            "say roughly",
-            "say brusquely",
-            "say abruptly",
-            "say angrily",
-            "bark",
-            "snarl",
-            "growl; Moreretort",
-            "rejoin",
-            "retaliate; informaljump down someone's throat \"“Be quiet!” Anna snapped\""
-          ]
-        },
-        {
-          "definition": "take a snapshot of.",
-          "examples": [
-            "he planned to spend the time snapping rare wildlife"
-          ]
-        },
-        {
-          "definition": "put (the ball) into play by a quick backward movement from the ground."
-        },
-        {
-          "definition": "fasten with snaps.",
-          "examples": [
-            "he pulled a white rubber swim hat over his head and snapped it under his chin"
-          ]
-        }
-      ]
-    },
-    {
-      "part": "noun",
-      "variants": [
-        {
-          "part": "noun",
-          "variant": "snap"
-        },
-        {
-          "part": "plural noun",
-          "variant": "snaps"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "a sudden, sharp cracking sound or movement.",
-          "examples": [
-            "she closed her purse with a snap"
-          ],
-          "synonyms": [
-            "click",
-            "crack",
-            "pop \"she closed her purse with a snap\""
-          ]
-        },
-        {
-          "definition": "a hurried, irritable tone or manner.",
-          "examples": [
-            "“I'm still waiting,” he said with a snap"
-          ]
-        },
-        {
-          "definition": "vigor or liveliness of style or action; zest.",
-          "examples": [
-            "the snap of the dialogue"
-          ]
-        },
-        {
-          "definition": "a small fastener on clothing, engaged by pressing its two halves together."
-        },
-        {
-          "definition": "an easy task.",
-          "examples": [
-            "a control panel that makes operation a snap"
-          ],
-          "synonyms": [
-            "an easy task; Moreinformala piece of cake",
-            "a cinch",
-            "a breeze",
-            "child's play",
-            "kid's stuff",
-            "duck soup \"it's a snap to put together\""
-          ]
-        },
-        {
-          "definition": "a quick backward movement of the ball from the ground that begins a play."
-        },
-        {
-          "definition": "a snapshot.",
-          "examples": [
-            "photograph, picture, photo, shot, snapshot, print, slide, frame, still; mug shot vacation snaps"
-          ]
-        },
-        {
-          "definition": "a card game in which cards from two piles are turned over simultaneously and players call “snap” as quickly as possible when two similar cards are exposed."
-        }
-      ]
-    },
-    {
-      "part": "adjective",
-      "variants": [
-        {
-          "part": "adjective",
-          "variant": "snap"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "done or taken on the spur of the moment, unexpectedly, or without notice.",
-          "examples": [
-            "a snap judgment"
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "word": "snap",
+    "syllables": [
+      "snap"
+    ],
+    "pronunciation": "snap",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "snap"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "snaps"
+          },
+          {
+            "part": "past tense",
+            "variant": "snapped"
+          },
+          {
+            "part": "past participle",
+            "variant": "snapped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "snapping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "break or cause to break suddenly and completely, typically with a sharp cracking sound.",
+            "examples": [
+              "guitar strings kept snapping"
+            ],
+            "synonyms": [
+              "break",
+              "fracture",
+              "splinter",
+              "come apart",
+              "split",
+              "crack; informalbust \"the ruler snapped\""
+            ]
+          },
+          {
+            "definition": "emit a sudden, sharp cracking sound.",
+            "examples": [
+              "banners snapping in the breeze"
+            ]
+          },
+          {
+            "definition": "(of an animal) make a sudden audible bite.",
+            "examples": [
+              "a dog was snapping at his heels"
+            ],
+            "synonyms": [
+              "bite; gnash its teeth \"a dog was snapping at his heels\""
+            ]
+          },
+          {
+            "definition": "cause to move or alter in a specified way with a brisk movement and typically a sharp sound.",
+            "examples": [
+              "Rosa snapped her bag shut"
+            ]
+          },
+          {
+            "definition": "suddenly lose one's self-control.",
+            "examples": [
+              "she claims she snapped after years of violence"
+            ],
+            "synonyms": [
+              "flare up",
+              "lose one's self-control",
+              "freak out",
+              "go to pieces",
+              "get worked up; Moreinformalcrack up",
+              "lose one's cool",
+              "blow one's top",
+              "fly off the handle \"she snapped after years of violence\""
+            ]
+          },
+          {
+            "definition": "say something quickly and irritably to someone.",
+            "examples": [
+              "McIllvanney snapped at her"
+            ],
+            "synonyms": [
+              "say roughly",
+              "say brusquely",
+              "say abruptly",
+              "say angrily",
+              "bark",
+              "snarl",
+              "growl; Moreretort",
+              "rejoin",
+              "retaliate; informaljump down someone's throat \"“Be quiet!” Anna snapped\""
+            ]
+          },
+          {
+            "definition": "take a snapshot of.",
+            "examples": [
+              "he planned to spend the time snapping rare wildlife"
+            ]
+          },
+          {
+            "definition": "put (the ball) into play by a quick backward movement from the ground."
+          },
+          {
+            "definition": "fasten with snaps.",
+            "examples": [
+              "he pulled a white rubber swim hat over his head and snapped it under his chin"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "snap"
+          },
+          {
+            "part": "plural noun",
+            "variant": "snaps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sudden, sharp cracking sound or movement.",
+            "examples": [
+              "she closed her purse with a snap"
+            ],
+            "synonyms": [
+              "click",
+              "crack",
+              "pop \"she closed her purse with a snap\""
+            ]
+          },
+          {
+            "definition": "a hurried, irritable tone or manner.",
+            "examples": [
+              "“I'm still waiting,” he said with a snap"
+            ]
+          },
+          {
+            "definition": "vigor or liveliness of style or action; zest.",
+            "examples": [
+              "the snap of the dialogue"
+            ]
+          },
+          {
+            "definition": "a small fastener on clothing, engaged by pressing its two halves together."
+          },
+          {
+            "definition": "an easy task.",
+            "examples": [
+              "a control panel that makes operation a snap"
+            ],
+            "synonyms": [
+              "an easy task; Moreinformala piece of cake",
+              "a cinch",
+              "a breeze",
+              "child's play",
+              "kid's stuff",
+              "duck soup \"it's a snap to put together\""
+            ]
+          },
+          {
+            "definition": "a quick backward movement of the ball from the ground that begins a play."
+          },
+          {
+            "definition": "a snapshot.",
+            "examples": [
+              "photograph, picture, photo, shot, snapshot, print, slide, frame, still; mug shot vacation snaps"
+            ]
+          },
+          {
+            "definition": "a card game in which cards from two piles are turned over simultaneously and players call “snap” as quickly as possible when two similar cards are exposed."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "snap"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "done or taken on the spur of the moment, unexpectedly, or without notice.",
+            "examples": [
+              "a snap judgment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

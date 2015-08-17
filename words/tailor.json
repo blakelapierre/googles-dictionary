@@ -1,0 +1,95 @@
+[
+  {
+    "word": "tailor",
+    "syllables": [
+      "tai",
+      "lor"
+    ],
+    "pronunciation": "ˈtālər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tailor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tailors"
+          },
+          {
+            "part": "noun",
+            "variant": "tailorfish"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person whose occupation is making fitted clothes such as suits, pants, and jackets to fit individual customers.",
+            "examples": [
+              "outfitter, dressmaker, couturier, fashion designer, designer; Moreclothier, costumer, seamstress \"the finest tailor in Memphis\"Moreclothier, costumer, seamstress the finest tailor in Memphis"
+            ]
+          },
+          {
+            "definition": "another term for bluefish."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tailor"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tailors"
+          },
+          {
+            "part": "past tense",
+            "variant": "tailored"
+          },
+          {
+            "part": "past participle",
+            "variant": "tailored"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tailoring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a tailor) make (clothes) to fit individual customers.",
+            "examples": [
+              "he was wearing a sports coat that had obviously been tailored in New York"
+            ]
+          },
+          {
+            "definition": "make or adapt for a particular purpose or person.",
+            "examples": [
+              "arrangements can be tailored to meet individual requirements"
+            ],
+            "synonyms": [
+              "customize",
+              "adapt",
+              "adjust",
+              "modify",
+              "change",
+              "convert",
+              "alter",
+              "attune",
+              "mold",
+              "gear",
+              "fit",
+              "cut",
+              "shape",
+              "tune \"services can be tailored to customer requirements\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

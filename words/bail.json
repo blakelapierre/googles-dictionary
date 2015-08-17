@@ -1,0 +1,204 @@
+[
+  {
+    "word": "bail",
+    "syllables": [
+      "bail"
+    ],
+    "pronunciation": "bāl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bail"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the temporary release of an accused person awaiting trial, sometimes on condition that a sum of money be lodged to guarantee their appearance in court.",
+            "examples": [
+              "he has been released on bail"
+            ],
+            "synonyms": [
+              "surety",
+              "security",
+              "assurance",
+              "indemnity",
+              "indemnification; Morebond",
+              "guarantee",
+              "pledge; archaicgage \"he was released on bail\""
+            ]
+          },
+          {
+            "definition": "money paid for the release an accused person as security.",
+            "examples": [
+              "surety, security, assurance, indemnity, indemnification; Morebond, guarantee, pledge; archaicgage \"he was released on bail\"Morebond, guarantee, pledge; gage he was released on bail"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bail"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bails"
+          },
+          {
+            "part": "past tense",
+            "variant": "bailed"
+          },
+          {
+            "part": "past participle",
+            "variant": "bailed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bailing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "release or secure the release of (a prisoner) on payment of bail.",
+            "examples": [
+              "his son called home to get bailed out of jail"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bail",
+    "syllables": [
+      "bail"
+    ],
+    "pronunciation": "bāl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bail"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bails"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a bar that holds something in place, in particular."
+          },
+          {
+            "definition": "a bar that guides fishing line on a reel."
+          },
+          {
+            "definition": "a bar on a typewriter or computer printer that holds the paper steady."
+          },
+          {
+            "definition": "a bar on a crampon that fits into a groove in the sole of a boot."
+          },
+          {
+            "definition": "a bar separating horses in an open stable."
+          },
+          {
+            "definition": "an arched handle, such as on a bucket or a teapot.",
+            "examples": [
+              "drawers fitted with brass bail handles"
+            ]
+          },
+          {
+            "definition": "either of the two crosspieces bridging the stumps, which the bowler and fielders try to dislodge with the ball to get the batsman out."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bail",
+    "syllables": [
+      "bail"
+    ],
+    "pronunciation": "bāl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bail"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bails"
+          },
+          {
+            "part": "past tense",
+            "variant": "bailed"
+          },
+          {
+            "part": "past participle",
+            "variant": "bailed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bailing"
+          },
+          {
+            "part": "verb",
+            "variant": "bale"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bales"
+          },
+          {
+            "part": "past tense",
+            "variant": "baled"
+          },
+          {
+            "part": "past participle",
+            "variant": "baled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "baling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "scoop water out of (a ship or boat).",
+            "examples": [
+              "the first priority is to bail out the boat with buckets"
+            ]
+          },
+          {
+            "definition": "scoop (water) out of a ship or boat.",
+            "examples": [
+              "I started to use my hands to bail out the water"
+            ]
+          },
+          {
+            "definition": "abandon a commitment, obligation, or responsibility.",
+            "examples": [
+              "after 12 years of this, including Sunday Mass with the family, I bailed"
+            ]
+          },
+          {
+            "definition": "let (someone) down by failing to fulfill a commitment, obligation, or responsibility.",
+            "examples": [
+              "he looks a little like the guy who bailed on me"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "splinter",
+    "syllables": [
+      "splin",
+      "ter"
+    ],
+    "pronunciation": "ˈsplin(t)ər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "splinters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small, thin, sharp piece of wood, glass, or similar material broken off from a larger piece.",
+            "examples": [
+              "a splinter of ice"
+            ],
+            "synonyms": [
+              "sliver",
+              "shiver",
+              "chip",
+              "shard; Morefragment",
+              "piece",
+              "bit",
+              "shred; matchwood",
+              "flinders \"a splinter of wood\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "splinters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "break or cause to break into small sharp fragments.",
+            "examples": [
+              "the soap box splintered"
+            ],
+            "synonyms": [
+              "shatter",
+              "break into tiny pieces",
+              "smash",
+              "fracture",
+              "split",
+              "crack",
+              "disintegrate",
+              "crumble; informalsmash into smithereens \"the windshield splintered\""
+            ]
+          },
+          {
+            "definition": "(of a group or organization) separate into smaller units, typically as a result of disagreement.",
+            "examples": [
+              "the party had begun to splinter into factions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

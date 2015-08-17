@@ -1,0 +1,68 @@
+[
+  {
+    "word": "tighten",
+    "syllables": [
+      "tight",
+      "en"
+    ],
+    "pronunciation": "ˈtītn",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tighten"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tightens"
+          },
+          {
+            "part": "past tense",
+            "variant": "tightened"
+          },
+          {
+            "part": "past participle",
+            "variant": "tightened"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tightening"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become tight or tighter.",
+            "examples": [
+              "tighten the bolts"
+            ],
+            "synonyms": [
+              "pull taut",
+              "tauten",
+              "pull tight",
+              "stretch",
+              "tense More\"she tightened the rope\"narrow",
+              "constrict",
+              "contract",
+              "compress",
+              "screw up",
+              "pucker",
+              "purse",
+              "squinch up \"he tightened his lips\"increase",
+              "make stricter",
+              "toughen up",
+              "heighten",
+              "scale up \"security in the area has been tightened\""
+            ],
+            "antonyms": [
+              "loosen",
+              "slacken",
+              "relax"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

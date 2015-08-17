@@ -1,0 +1,124 @@
+[
+  {
+    "word": "jerk",
+    "syllables": [
+      "jerk"
+    ],
+    "pronunciation": "jərk",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "jerks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a quick, sharp, sudden movement.",
+            "examples": [
+              "he gave a sudden jerk of his head"
+            ],
+            "synonyms": [
+              "yank",
+              "tug",
+              "pull",
+              "wrench",
+              "tweak",
+              "twitch More\"she gave the reins a jerk\"jolt",
+              "lurch",
+              "bump",
+              "start",
+              "jar",
+              "bang",
+              "bounce",
+              "shake",
+              "shock \"the elevator stopped with a jerk\""
+            ]
+          },
+          {
+            "definition": "a spasmodic muscular twitch."
+          },
+          {
+            "definition": "the raising of a barbell above the head from shoulder level by an abrupt straightening of the arms and legs, typically as the second part of a clean and jerk.",
+            "examples": [
+              "yank, tug, pull, wrench, tweak, twitch she gave the reins a jerk"
+            ]
+          },
+          {
+            "definition": "a contemptibly obnoxious person."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "jerks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "move or cause to move with a jerk.",
+            "examples": [
+              "the van jerked forward"
+            ],
+            "synonyms": [
+              "yank",
+              "tug",
+              "pull",
+              "wrench",
+              "wrest",
+              "drag",
+              "pluck",
+              "snatch",
+              "seize",
+              "rip",
+              "tear More\"she jerked her arm free\"jolt",
+              "lurch",
+              "bump",
+              "rattle",
+              "bounce",
+              "shake",
+              "jounce \"the car jerked along\""
+            ]
+          },
+          {
+            "definition": "raise (a weight) from shoulder level to above the head.",
+            "examples": [
+              "yank, tug, pull, wrench, wrest, drag, pluck, snatch, seize, rip, tear she jerked her arm free"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jerk",
+    "syllables": [
+      "jerk"
+    ],
+    "pronunciation": "jərk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "jerks"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "prepare (meat) by marinating it in spices and drying or barbecuing it over a wood fire.",
+            "examples": [
+              "jerked beef"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "lawyer",
+    "syllables": [
+      "law",
+      "yer"
+    ],
+    "pronunciation": "ˈloiər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "lawyers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who practices or studies law; an attorney or a counselor.",
+            "examples": [
+              "attorney, counsel, counselor, legal practitioner, legal professional, legal adviser, member of the bar, litigator, advocate; Morebarrister, solicitor; informalambulance chaser, mouthpiece, legal eagle, legal beagle \"all the lawyers are confident that the case will be dismissed\"Morebarrister, solicitor; ambulance chaser, mouthpiece, legal eagle, legal beagle all the lawyers are confident that the case will be dismissed"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbNorth American",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "lawyers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "practice law; work as a lawyer.",
+            "examples": [
+              "lawyering is a craft that takes a long time to become proficient at"
+            ]
+          },
+          {
+            "definition": "(of a lawyer) work on the legal aspects of (a contract, lawsuit, etc.).",
+            "examples": [
+              "there is always a danger that the deal will be lawyered to death"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

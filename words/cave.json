@@ -1,0 +1,65 @@
+[
+  {
+    "word": "cave",
+    "syllables": [
+      "cave"
+    ],
+    "pronunciation": "kāv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cave"
+          },
+          {
+            "part": "plural noun",
+            "variant": "caves"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a large underground chamber, typically of natural origin, in a hillside or cliff.",
+            "examples": [
+              "cavern, grotto, underground chamber; Morecellar, vault, crypt \"the caves at the bottom of the cliff\"Morecellar, vault, crypt the caves at the bottom of the cliff"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "cave"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "caves"
+          },
+          {
+            "part": "past tense",
+            "variant": "caved"
+          },
+          {
+            "part": "past participle",
+            "variant": "caved"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "caving"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "explore caves as a sport."
+          },
+          {
+            "definition": "short for cave in  below."
+          }
+        ]
+      }
+    ]
+  }
+]

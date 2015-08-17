@@ -1,0 +1,35 @@
+[
+  {
+    "word": "apprenticeship",
+    "syllables": [
+      "ap",
+      "pren",
+      "tice",
+      "ship"
+    ],
+    "pronunciation": "əˈpren(t)ə(s)ˌSHip",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "apprenticeship"
+          },
+          {
+            "part": "plural noun",
+            "variant": "apprenticeships"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the position of an apprentice.",
+            "examples": [
+              "the company once offered apprenticeships"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

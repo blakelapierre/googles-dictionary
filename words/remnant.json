@@ -1,0 +1,65 @@
+[
+  {
+    "word": "remnant",
+    "syllables": [
+      "rem",
+      "nant"
+    ],
+    "pronunciation": "ˈremnənt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "remnant"
+          },
+          {
+            "part": "plural noun",
+            "variant": "remnants"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small remaining quantity of something.",
+            "examples": [
+              "remains, remainder, leftovers, residue, rest; residuum the remnants of the picnic"
+            ]
+          },
+          {
+            "definition": "a piece of cloth or carpeting left when the greater part has been used or sold.",
+            "examples": [
+              "scrap, piece, bit, fragment, shred, offcut, oddment remnants of cloth"
+            ]
+          },
+          {
+            "definition": "a surviving trace.",
+            "examples": [
+              "a remnant of the past"
+            ]
+          },
+          {
+            "definition": "a small minority of people who will remain faithful to God and so be saved (in allusion to biblical prophecies concerning Israel)."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "remnant"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "remaining.",
+            "examples": [
+              "remnant strands of hair"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

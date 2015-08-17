@@ -1,0 +1,58 @@
+[
+  {
+    "word": "medicine",
+    "syllables": [
+      "med",
+      "i",
+      "cine"
+    ],
+    "pronunciation": "ˈmedəsən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "medicines"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the science or practice of the diagnosis, treatment, and prevention of disease (in technical use often taken to exclude surgery)."
+          },
+          {
+            "definition": "a compound or preparation used for the treatment or prevention of disease, especially a drug or drugs taken by mouth.",
+            "examples": [
+              "give her some medicine"
+            ],
+            "synonyms": [
+              "medication",
+              "medicament",
+              "drug",
+              "prescription",
+              "pharmaceutical",
+              "dose",
+              "treatment",
+              "remedy",
+              "cure; Morenostrum",
+              "panacea",
+              "cure-all; informalmeds; archaicphysic \"take your medicine\""
+            ]
+          },
+          {
+            "definition": "healing substances or drugs collectively.",
+            "examples": [
+              "an aid convoy loaded with food and medicine"
+            ]
+          },
+          {
+            "definition": "(among North American Indians and some other peoples) a spell, charm, or fetish believed to have healing, protective, or other power.",
+            "examples": [
+              "Fleur was murdering him by use of bad medicine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

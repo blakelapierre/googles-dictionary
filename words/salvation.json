@@ -1,0 +1,52 @@
+[
+  {
+    "word": "salvation",
+    "syllables": [
+      "sal",
+      "va",
+      "tion"
+    ],
+    "pronunciation": "salˈvāSH(ə)n",
+    "parts": [
+      {
+        "part": "nounTheology",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "salvation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deliverance from sin and its consequences, believed by Christians to be brought about by faith in Christ.",
+            "examples": [
+              "redemption, deliverance, reclamation salvation by way of repentance"
+            ],
+            "antonyms": [
+              "damnation"
+            ]
+          },
+          {
+            "definition": "preservation or deliverance from harm, ruin, or loss.",
+            "examples": [
+              "they try to sell it to us as economic salvation"
+            ],
+            "synonyms": [
+              "lifeline",
+              "preservation; Moremeans of escape",
+              "help",
+              "saving",
+              "savior \"that conviction was her salvation\""
+            ]
+          },
+          {
+            "definition": "a source or means of being saved from harm, ruin, or loss.",
+            "examples": [
+              "noun: one's salvation; plural noun: one's salvations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

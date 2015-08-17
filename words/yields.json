@@ -1,0 +1,174 @@
+[
+  {
+    "word": "yield",
+    "syllables": [
+      "yield"
+    ],
+    "pronunciation": "yēld",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "yields"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "produce or provide (a natural, agricultural, or industrial product).",
+            "examples": [
+              "the land yields grapes and tobacco"
+            ]
+          },
+          {
+            "definition": "(of an action or process) produce or deliver (a result or gain).",
+            "examples": [
+              "this method yields the same results"
+            ],
+            "synonyms": [
+              "produce",
+              "bear",
+              "give",
+              "supply",
+              "provide",
+              "afford",
+              "return",
+              "bring in",
+              "earn",
+              "realize",
+              "generate",
+              "deliver",
+              "offer",
+              "pay out; informalrake in \"too many projects yield poor returns\""
+            ]
+          },
+          {
+            "definition": "(of a financial or commercial process or transaction) generate (a specified financial return).",
+            "examples": [
+              "such investments yield direct cash returns"
+            ]
+          },
+          {
+            "definition": "give way to arguments, demands, or pressure.",
+            "examples": [
+              "the Western powers now yielded when they should have resisted"
+            ],
+            "synonyms": [
+              "surrender",
+              "capitulate",
+              "submit",
+              "relent",
+              "admit defeat",
+              "back down",
+              "climb down",
+              "give in",
+              "give up the struggle",
+              "lay down one's arms",
+              "raise/show the white flag; Moreinformalthrow in the towel",
+              "cave in \"the duke was forced to yield\"give in to",
+              "give way to",
+              "submit to",
+              "bow down to",
+              "comply with",
+              "agree to",
+              "consent to",
+              "go along with; grant",
+              "permit",
+              "allow; informalcave in to; formalaccede to \"he yielded to her demands\""
+            ],
+            "antonyms": [
+              "resist",
+              "defy"
+            ]
+          },
+          {
+            "definition": "relinquish possession of (something); give (something) up.",
+            "examples": [
+              "they might yield up their secrets"
+            ],
+            "synonyms": [
+              "relinquish",
+              "surrender",
+              "cede",
+              "remit",
+              "part with",
+              "hand over; Moremake over",
+              "bequeath",
+              "leave \"the nobility yielded power to the capitalists\""
+            ],
+            "antonyms": [
+              "withhold",
+              "retain"
+            ]
+          },
+          {
+            "definition": "cease to argue about.",
+            "examples": [
+              "I yielded the point"
+            ]
+          },
+          {
+            "definition": "(especially in a legislature) allow another the right to speak in a debate.",
+            "examples": [
+              "I yield to the gentleman from Kentucky"
+            ]
+          },
+          {
+            "definition": "give right of way to other traffic."
+          },
+          {
+            "definition": "(of a mass or structure) give way under force or pressure.",
+            "examples": [
+              "he reeled into the house as the door yielded"
+            ],
+            "synonyms": [
+              "bend",
+              "give",
+              "give way \"the floorboards yielded underfoot\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "yields"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the full amount of an agricultural or industrial product.",
+            "examples": [
+              "the milk yield was poor"
+            ]
+          },
+          {
+            "definition": "the amount of money brought in, e.g., interest from an investment or revenue from a tax; return.",
+            "examples": [
+              "an annual dividend yield of 20 percent"
+            ],
+            "synonyms": [
+              "profit",
+              "gain",
+              "return",
+              "dividend",
+              "earnings \"risky investments usually have higher yields\""
+            ]
+          },
+          {
+            "definition": "the amount obtained from a process or reaction relative to the theoretical maximum amount obtainable."
+          },
+          {
+            "definition": "(of a nuclear weapon) the force in tons or kilotons of TNT required to produce an equivalent explosion.",
+            "examples": [
+              "yields ranging from five kilotons to 100 tons"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

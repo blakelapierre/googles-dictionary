@@ -1,0 +1,57 @@
+[
+  {
+    "word": "appetizing",
+    "syllables": [
+      "ap",
+      "pe",
+      "tiz",
+      "ing"
+    ],
+    "pronunciation": "ˈapəˌtīziNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "appetizing"
+          },
+          {
+            "part": "adjective",
+            "variant": "appetising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "stimulating one's appetite.",
+            "examples": [
+              "the appetizing aroma of sizzling bacon"
+            ],
+            "synonyms": [
+              "mouthwatering",
+              "inviting",
+              "tempting; Moretasty",
+              "delicious",
+              "flavorful",
+              "toothsome",
+              "delectable",
+              "succulent; informalscrumptious",
+              "yummy",
+              "delish",
+              "lip-smacking",
+              "-licious \"an appetizing lunch\"appealing",
+              "attractive",
+              "inviting",
+              "alluring \"the least appetizing part of election campaigns\""
+            ],
+            "antonyms": [
+              "bland",
+              "off-putting",
+              "unappealing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

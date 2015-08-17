@@ -1,0 +1,94 @@
+[
+  {
+    "word": "honorable",
+    "syllables": [
+      "hon",
+      "or",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "ˈänərəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "honourable"
+          },
+          {
+            "part": "adjective",
+            "variant": "honorable"
+          },
+          {
+            "part": "adjective",
+            "variant": "Honourable"
+          },
+          {
+            "part": "adjective",
+            "variant": "Honorable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bringing or worthy of honor.",
+            "examples": [
+              "this is the only honorable course"
+            ],
+            "synonyms": [
+              "honest",
+              "moral",
+              "ethical",
+              "principled",
+              "righteous",
+              "right-minded; Moredecent",
+              "respectable",
+              "estimable",
+              "virtuous",
+              "good",
+              "upstanding",
+              "upright",
+              "worthy",
+              "noble",
+              "fair",
+              "just",
+              "truthful",
+              "trustworthy",
+              "law-abiding",
+              "reliable",
+              "reputable",
+              "creditable",
+              "dependable \"an honorable man\"illustrious",
+              "distinguished",
+              "eminent",
+              "great",
+              "glorious",
+              "renowned",
+              "acclaimed",
+              "prestigious",
+              "noble",
+              "creditable",
+              "admirable \"an honorable career\""
+            ],
+            "antonyms": [
+              "crooked",
+              "deplorable"
+            ]
+          },
+          {
+            "definition": "(of the intentions of a man courting a woman) directed toward marriage.",
+            "examples": [
+              "the young man's intentions had been honorable"
+            ]
+          },
+          {
+            "definition": "used as a title indicating eminence or distinction, given especially to judges and certain high officials.",
+            "examples": [
+              "the Honorable Richard Morris Esquire, chief justice of the supreme court of our state"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

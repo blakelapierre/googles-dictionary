@@ -1,0 +1,102 @@
+[
+  {
+    "word": "conclude",
+    "syllables": [
+      "con",
+      "clude"
+    ],
+    "pronunciation": "kənˈklo͞od",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "concluding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring (something) to an end.",
+            "examples": [
+              "they conclude their study with these words"
+            ],
+            "synonyms": [
+              "finish",
+              "end",
+              "draw to a close",
+              "be over",
+              "stop",
+              "cease More\"the meeting concluded at ten\"bring to an end",
+              "close",
+              "wind up",
+              "terminate",
+              "dissolve; informalwrap up \"she concluded the press conference\""
+            ],
+            "antonyms": [
+              "commence",
+              "start",
+              "begin",
+              "open"
+            ]
+          },
+          {
+            "definition": "come to an end.",
+            "examples": [
+              "the talk concluded with slides"
+            ]
+          },
+          {
+            "definition": "formally and finally settle or arrange (a treaty or agreement).",
+            "examples": [
+              "an attempt to conclude a ceasefire"
+            ],
+            "synonyms": [
+              "negotiate",
+              "broker",
+              "agree",
+              "come to terms on",
+              "settle",
+              "clinch",
+              "finalize",
+              "tie up; Morebring about",
+              "arrange",
+              "effect",
+              "engineer; informalsew up \"an attempt to conclude a ceasefire\""
+            ]
+          },
+          {
+            "definition": "arrive at a judgment or opinion by reasoning.",
+            "examples": [
+              "the doctors concluded that Esther had suffered a stroke"
+            ],
+            "synonyms": [
+              "deduce",
+              "infer",
+              "gather",
+              "judge",
+              "decide",
+              "conjecture",
+              "surmise",
+              "extrapolate",
+              "figure",
+              "reckon \"I concluded that he was rather unpleasant\""
+            ]
+          },
+          {
+            "definition": "say in conclusion.",
+            "examples": [
+              "“It's a wicked old world,” she concluded"
+            ]
+          },
+          {
+            "definition": "decide to do something.",
+            "examples": [
+              "I concluded to go without his knowledge"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

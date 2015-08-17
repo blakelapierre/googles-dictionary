@@ -1,0 +1,58 @@
+[
+  {
+    "word": "hay",
+    "syllables": [
+      "hay"
+    ],
+    "pronunciation": "hā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hay"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "grass that has been mown and dried for use as fodder.",
+            "examples": [
+              "forage, dried grass, silage, fodder, straw, herbage soon the barns will be filled with hay"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hay",
+    "syllables": [
+      "hay"
+    ],
+    "pronunciation": "hā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "hay"
+          },
+          {
+            "part": "plural noun",
+            "variant": "hays"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a country dance with interweaving steps similar to a reel."
+          },
+          {
+            "definition": "a winding formation danced in a hay or other country dance."
+          }
+        ]
+      }
+    ]
+  }
+]

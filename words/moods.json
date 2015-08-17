@@ -1,0 +1,94 @@
+[
+  {
+    "word": "mood",
+    "syllables": [
+      "mood"
+    ],
+    "pronunciation": "mo͞od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "moods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a temporary state of mind or feeling.",
+            "examples": [
+              "he appeared to be in a very good mood about something"
+            ],
+            "synonyms": [
+              "frame/state of mind",
+              "humor",
+              "temper; Moredisposition",
+              "spirit",
+              "tenor \"she's in a good mood\""
+            ]
+          },
+          {
+            "definition": "an angry, irritable, or sullen state of mind.",
+            "examples": [
+              "he was obviously in a mood"
+            ],
+            "synonyms": [
+              "a bad mood",
+              "a (bad) temper",
+              "a sulk",
+              "a fit of pique; Morelow spirits",
+              "the doldrums",
+              "the blues",
+              "a blue funk; informalthe dumps \"he's obviously in a mood\""
+            ]
+          },
+          {
+            "definition": "the atmosphere or pervading tone of something, especially a work of art.",
+            "examples": [
+              "Monet's “Mornings on the Seine” series, with their hushed and delicate mood"
+            ],
+            "synonyms": [
+              "atmosphere",
+              "feeling",
+              "spirit",
+              "ambience",
+              "aura",
+              "character",
+              "tenor",
+              "flavor",
+              "feel",
+              "tone \"the mood of the film\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mood",
+    "syllables": [
+      "mood"
+    ],
+    "pronunciation": "mo͞od",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "moods"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a category or form that indicates whether a verb expresses fact (indicative mood), command (imperative mood), question (interrogative mood), wish (optative mood), or conditionality (subjunctive mood)."
+          },
+          {
+            "definition": "any of the valid forms into which each of the figures of a categorical syllogism may occur."
+          }
+        ]
+      }
+    ]
+  }
+]

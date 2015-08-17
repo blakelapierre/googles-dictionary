@@ -1,0 +1,58 @@
+[
+  {
+    "word": "expulsion",
+    "syllables": [
+      "ex",
+      "pul",
+      "sion"
+    ],
+    "pronunciation": "ikˈspəlSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "expulsion"
+          },
+          {
+            "part": "plural noun",
+            "variant": "expulsions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of depriving someone of membership in an organization.",
+            "examples": [
+              "expulsion from school"
+            ],
+            "synonyms": [
+              "removal",
+              "debarment",
+              "dismissal",
+              "exclusion",
+              "discharge",
+              "ejection",
+              "drumming out \"expulsion from the party\""
+            ],
+            "antonyms": [
+              "admission"
+            ]
+          },
+          {
+            "definition": "the process of forcing someone to leave a place, especially a country.",
+            "examples": [
+              "the expulsion of the Jesuits from Spain"
+            ]
+          },
+          {
+            "definition": "the process of forcing something out of the body.",
+            "examples": [
+              "discharge, ejection, excretion, voiding, evacuation, elimination, passing the expulsion of bodily wastes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

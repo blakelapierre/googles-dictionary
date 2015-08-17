@@ -1,0 +1,123 @@
+[
+  {
+    "word": "resort",
+    "syllables": [
+      "re",
+      "sort"
+    ],
+    "pronunciation": "rəˈzôrt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "resort"
+          },
+          {
+            "part": "plural noun",
+            "variant": "resorts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a place that is a popular destination for vacations or recreation, or which is frequented for a particular purpose.",
+            "examples": [
+              "a seaside resort"
+            ],
+            "synonyms": [
+              "vacation spot",
+              "tourist center",
+              "vacationland; Moreretreat; spa; onsen; informaltourist trap \"a seaside resort\""
+            ]
+          },
+          {
+            "definition": "the tendency of a place to be frequented by many people.",
+            "examples": [
+              "places of public resort"
+            ]
+          },
+          {
+            "definition": "the action of turning to and adopting a strategy or course of action, especially a disagreeable or undesirable one, so as to resolve a difficult situation.",
+            "examples": [
+              "Germany and Italy tried to resolve their economic and social failures by resort to fascism"
+            ],
+            "synonyms": [
+              "recourse to",
+              "turning to",
+              "the use of",
+              "utilizing \"settle the matter without resort to legal proceedings\""
+            ]
+          },
+          {
+            "definition": "a strategy or course of action that may be adopted in a difficult situation.",
+            "examples": [
+              "her only resort is surgery"
+            ],
+            "synonyms": [
+              "expedient",
+              "measure",
+              "step",
+              "recourse",
+              "alternative",
+              "option",
+              "choice",
+              "possibility",
+              "hope \"strike action is our last resort\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "resort"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "resorts"
+          },
+          {
+            "part": "past tense",
+            "variant": "resorted"
+          },
+          {
+            "part": "past participle",
+            "variant": "resorted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "resorting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "turn to and adopt (a strategy or course of action, especially a disagreeable or undesirable one) so as to resolve a difficult situation.",
+            "examples": [
+              "the duke was prepared to resort to force if negotiation failed"
+            ],
+            "synonyms": [
+              "have recourse to",
+              "fall back on",
+              "turn to",
+              "make use of",
+              "use",
+              "employ",
+              "avail oneself of; Morestoop to",
+              "descend to",
+              "sink to \"I don't have to resort to such underhanded tricks\""
+            ]
+          },
+          {
+            "definition": "go often or in large numbers to.",
+            "examples": [
+              "local authorities have a duty to provide adequate sites for gypsies “residing in or resorting to” their areas"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

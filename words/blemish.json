@@ -1,0 +1,141 @@
+[
+  {
+    "word": "blemish",
+    "syllables": [
+      "blem",
+      "ish"
+    ],
+    "pronunciation": "ˈblemiSH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blemish"
+          },
+          {
+            "part": "plural noun",
+            "variant": "blemishes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small mark or flaw that spoils the appearance of something.",
+            "examples": [
+              "the merest blemish on a Rolls Royce might render it unsalable"
+            ],
+            "synonyms": [
+              "imperfection",
+              "flaw",
+              "defect",
+              "fault",
+              "deformity",
+              "discoloration",
+              "disfigurement; Morebruise",
+              "scar",
+              "pit",
+              "pock",
+              "pimple",
+              "blackhead",
+              "wart",
+              "scratch",
+              "cut",
+              "gash; mark",
+              "streak",
+              "spot",
+              "smear",
+              "speck",
+              "blotch",
+              "smudge",
+              "smut; birthmark",
+              "mole; stigma \"not a blemish marred her skin\""
+            ]
+          },
+          {
+            "definition": "a moral defect or fault.",
+            "examples": [
+              "the offenses were an uncharacteristic blemish on an otherwise clean record"
+            ],
+            "synonyms": [
+              "defect",
+              "fault",
+              "failing",
+              "flaw",
+              "imperfection",
+              "foible",
+              "vice; Moreshortcoming",
+              "weakness",
+              "deficiency",
+              "limitation; taint",
+              "blot",
+              "stain",
+              "dishonor",
+              "disgrace \"the mayor's record is not without blemish\""
+            ],
+            "antonyms": [
+              "virtue"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "blemish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "blemishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "blemished"
+          },
+          {
+            "part": "past participle",
+            "variant": "blemished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "blemishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spoil the appearance of (something) that is otherwise aesthetically perfect.",
+            "examples": [
+              "thousands of Web pages are blemished with embarrassing typos"
+            ],
+            "synonyms": [
+              "mar",
+              "spoil",
+              "impair",
+              "disfigure",
+              "blight",
+              "deface",
+              "mark",
+              "scar; Moreruin \"nothing blemished the coast\"sully",
+              "tarnish",
+              "besmirch",
+              "blacken",
+              "blot",
+              "taint; spoil",
+              "mar",
+              "ruin",
+              "disgrace",
+              "damage",
+              "degrade",
+              "dishonor; formalvitiate \"his reign has been blemished by controversy\""
+            ],
+            "antonyms": [
+              "enhance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

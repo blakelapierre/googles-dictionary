@@ -1,0 +1,174 @@
+[
+  {
+    "word": "bitter",
+    "syllables": [
+      "bit",
+      "ter"
+    ],
+    "pronunciation": "ˈbidər",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bitter"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "bitterer"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "bitterest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having a sharp, pungent taste or smell; not sweet.",
+            "examples": [
+              "the raw berries have an intensely bitter flavor"
+            ],
+            "synonyms": [
+              "sharp",
+              "acid",
+              "acidic",
+              "acrid",
+              "tart",
+              "sour",
+              "biting",
+              "unsweetened",
+              "vinegary; technicalacerbic \"a bitter aftertaste\""
+            ],
+            "antonyms": [
+              "sweet"
+            ]
+          },
+          {
+            "definition": "(of chocolate) dark and unsweetened."
+          },
+          {
+            "definition": "(of people or their feelings or behavior) angry, hurt, or resentful because of one's bad experiences or a sense of unjust treatment.",
+            "examples": [
+              "I don't feel jealous or bitter"
+            ],
+            "synonyms": [
+              "resentful",
+              "embittered",
+              "aggrieved",
+              "begrudging",
+              "rancorous",
+              "spiteful",
+              "jaundiced",
+              "ill-disposed",
+              "sullen",
+              "sour",
+              "churlish",
+              "morose",
+              "petulant",
+              "peevish",
+              "with a chip on one's shoulder \"a bitter woman\""
+            ],
+            "antonyms": [
+              "magnanimous",
+              "content"
+            ]
+          },
+          {
+            "definition": "(of a conflict, argument, or opponent) full of anger and acrimony.",
+            "examples": [
+              "a bitter, five-year legal battle"
+            ],
+            "synonyms": [
+              "acrimonious",
+              "virulent",
+              "angry",
+              "rancorous",
+              "spiteful",
+              "vicious",
+              "vitriolic",
+              "savage",
+              "ferocious",
+              "hate-filled",
+              "venomous",
+              "poisonous",
+              "acrid",
+              "nasty",
+              "ill-natured \"a bitter dispute\""
+            ],
+            "antonyms": [
+              "amicable"
+            ]
+          },
+          {
+            "definition": "(often used for emphasis) painful or unpleasant to accept or contemplate.",
+            "examples": [
+              "today's decision has come as a bitter blow"
+            ],
+            "synonyms": [
+              "painful",
+              "unpleasant",
+              "disagreeable",
+              "nasty",
+              "cruel",
+              "awful",
+              "distressing",
+              "upsetting",
+              "harrowing",
+              "heartbreaking",
+              "heart-rending",
+              "agonizing",
+              "traumatic",
+              "tragic",
+              "chilling; formalgrievous \"a bitter blow\""
+            ],
+            "antonyms": [
+              "welcome"
+            ]
+          },
+          {
+            "definition": "(of wind, cold, or weather) intensely cold.",
+            "examples": [
+              "a bitter wind blowing from the east"
+            ],
+            "synonyms": [
+              "freezing",
+              "icy",
+              "arctic",
+              "glacial; Morebiting",
+              "piercing",
+              "penetrating",
+              "raw",
+              "wintry \"a bitter wind\""
+            ],
+            "antonyms": [
+              "warm",
+              "balmy"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bitter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bitters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "beer that is strongly flavored with hops and has a bitter taste."
+          },
+          {
+            "definition": "liquor that is flavored with the sharp pungent taste of plant extracts and is used as an additive in cocktails or as a medicinal substance to promote appetite or digestion."
+          }
+        ]
+      }
+    ]
+  }
+]

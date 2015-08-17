@@ -1,0 +1,34 @@
+[
+  {
+    "word": "grandmother",
+    "syllables": [
+      "grand",
+      "moth",
+      "er"
+    ],
+    "pronunciation": "ˈɡran(d)ˌməT͟Hər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grandmother"
+          },
+          {
+            "part": "plural noun",
+            "variant": "grandmothers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the mother of one's father or mother.",
+            "examples": [
+              "grandma, gramma, granny, grannie, gran, nana "
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "recite",
+    "syllables": [
+      "re",
+      "cite"
+    ],
+    "pronunciation": "rəˈsīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "recited"
+          },
+          {
+            "part": "past participle",
+            "variant": "recited"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "repeat aloud or declaim (a poem or passage) from memory before an audience.",
+            "examples": [
+              "we provided our own entertainment by singing and reciting poetry"
+            ],
+            "synonyms": [
+              "repeat from memory",
+              "say aloud",
+              "declaim",
+              "quote",
+              "deliver",
+              "render More\"he began to recite verses of the Koran\"give a recitation",
+              "say a poem \"he stood up and started reciting\""
+            ]
+          },
+          {
+            "definition": "state (names, facts, etc.) in order.",
+            "examples": [
+              "she recited the dates and names of kings and queens"
+            ],
+            "synonyms": [
+              "enumerate",
+              "list",
+              "detail",
+              "reel off; Morerecount",
+              "relate",
+              "describe",
+              "narrate",
+              "give an account of",
+              "recapitulate",
+              "repeat \"Sir John recited the facts they knew\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

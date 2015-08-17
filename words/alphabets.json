@@ -1,0 +1,36 @@
+[
+  {
+    "word": "alphabet",
+    "syllables": [
+      "al",
+      "pha",
+      "bet"
+    ],
+    "pronunciation": "ˈalfəˌbet",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "alphabets"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a set of letters or symbols in a fixed order, used to represent the basic sounds of a language; in particular, the set of letters from A to Z.",
+            "examples": [
+              "ABCs, letters, writing system, syllabary recite the alphabet"
+            ]
+          },
+          {
+            "definition": "the basic elements in a system that combine to form complex entities.",
+            "examples": [
+              "DNA's 4-letter alphabet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

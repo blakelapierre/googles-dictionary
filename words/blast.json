@@ -1,0 +1,273 @@
+[
+  {
+    "word": "blast",
+    "syllables": [
+      "blast"
+    ],
+    "pronunciation": "blast",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "blast"
+          },
+          {
+            "part": "plural noun",
+            "variant": "blasts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a destructive wave of highly compressed air spreading outward from an explosion.",
+            "examples": [
+              "they were thrown backward by the blast"
+            ],
+            "synonyms": [
+              "shock wave",
+              "pressure wave \"the blast from the bomb\""
+            ]
+          },
+          {
+            "definition": "an explosion or explosive firing, especially of a bomb.",
+            "examples": [
+              "a bomb blast"
+            ],
+            "synonyms": [
+              "explosion",
+              "detonation",
+              "discharge",
+              "burst \"Friday's blast killed two people\""
+            ]
+          },
+          {
+            "definition": "a forceful attack or assault.",
+            "examples": [
+              "he defeated his weakest opponent in such a blast that the fans left unimpressed"
+            ]
+          },
+          {
+            "definition": "a strong gust of wind or air.",
+            "examples": [
+              "the icy blast hit them"
+            ],
+            "synonyms": [
+              "gust",
+              "rush",
+              "gale",
+              "squall",
+              "wind",
+              "draft",
+              "waft",
+              "puff \"a sudden blast of cold air\""
+            ]
+          },
+          {
+            "definition": "a strong current of air used in smelting."
+          },
+          {
+            "definition": "a single loud note of a horn, whistle, or other noisemaking device.",
+            "examples": [
+              "a blast of the ship's siren"
+            ],
+            "synonyms": [
+              "blare",
+              "wail",
+              "roar",
+              "screech",
+              "shriek",
+              "hoot",
+              "honk",
+              "beep \"the shrill blast of the trumpets\""
+            ]
+          },
+          {
+            "definition": "a severe reprimand.",
+            "examples": [
+              "I braced myself for the inevitable blast"
+            ]
+          },
+          {
+            "definition": "an enjoyable experience or lively party.",
+            "examples": [
+              "it could turn out to be a real blast"
+            ],
+            "synonyms": [
+              "good time",
+              "ball",
+              "riot \"we had a blast\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "blast"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "blasts"
+          },
+          {
+            "part": "past tense",
+            "variant": "blasted"
+          },
+          {
+            "part": "past participle",
+            "variant": "blasted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "blasting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "blow up or break apart (something solid) with explosives.",
+            "examples": [
+              "quantities of solid rock had to be blasted away"
+            ],
+            "synonyms": [
+              "blow up",
+              "bomb",
+              "blow to pieces",
+              "dynamite",
+              "shell",
+              "explode \"bombers were blasting enemy airfields\""
+            ]
+          },
+          {
+            "definition": "produce (damage or a hole) by means of an explosion.",
+            "examples": [
+              "the force of the collision blasted out a tremendous crater"
+            ]
+          },
+          {
+            "definition": "force or throw (something) in a specified direction by impact or explosion.",
+            "examples": [
+              "the car was blasted thirty feet into the sky"
+            ]
+          },
+          {
+            "definition": "shoot with a gun.",
+            "examples": [
+              "Fowler was blasted with an air rifle"
+            ],
+            "synonyms": [
+              "fire",
+              "shoot",
+              "blaze",
+              "let fly",
+              "discharge \"guns were blasting away\""
+            ]
+          },
+          {
+            "definition": "move very quickly and loudly in a specified direction.",
+            "examples": [
+              "driving rain blasted through the smashed window"
+            ]
+          },
+          {
+            "definition": "criticize fiercely.",
+            "examples": [
+              "the school was blasted by government inspectors"
+            ]
+          },
+          {
+            "definition": "make or cause to make a loud continuous musical or other noise.",
+            "examples": [
+              "music blasted out at full volume"
+            ],
+            "synonyms": [
+              "blare",
+              "boom",
+              "roar",
+              "thunder",
+              "bellow",
+              "pump",
+              "shriek",
+              "screech \"radios blasting out pop music\""
+            ]
+          },
+          {
+            "definition": "kick, strike, or throw (a ball) hard.",
+            "examples": [
+              "Ripken blasted the ball into the gap in right field"
+            ]
+          },
+          {
+            "definition": "(of a wind or other natural force) wither, shrivel, or blight (a plant).",
+            "examples": [
+              "crops blasted on the eve of harvest"
+            ]
+          },
+          {
+            "definition": "strike with divine anger.",
+            "examples": [
+              "damn and blast this awful place!"
+            ]
+          },
+          {
+            "definition": "destroy or ruin.",
+            "examples": [
+              "a candidate whose only strategy is to blast the opposition"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "exclamationBritishinformal",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "blast"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing annoyance.",
+            "examples": [
+              "“Blast! The car won't start!”"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "-blast",
+    "syllables": [
+      "-blast"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "combining formBiology",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-blast"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "denoting an embryonic cell.",
+            "examples": [
+              "erythroblast"
+            ]
+          },
+          {
+            "definition": "denoting a germ layer of an embryo.",
+            "examples": [
+              "epiblast"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "relative",
+    "syllables": [
+      "rel",
+      "a",
+      "tive"
+    ],
+    "pronunciation": "ˈrelədiv",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "relatives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person connected by blood or marriage.",
+            "examples": [
+              "much of my time is spent visiting relatives"
+            ],
+            "synonyms": [
+              "relation",
+              "member of someone's/the family",
+              "kinsman",
+              "kinswoman; Morefamily",
+              "kin",
+              "kith and kin",
+              "kindred",
+              "kinsfolk \"he's a relative of mine\""
+            ]
+          },
+          {
+            "definition": "a species related to another by common origin.",
+            "examples": [
+              "the plant is a relative of ivy"
+            ]
+          },
+          {
+            "definition": "a relative pronoun, determiner, or adverb."
+          },
+          {
+            "definition": "a term, thing, or concept that is dependent on something else."
+          }
+        ]
+      }
+    ]
+  }
+]

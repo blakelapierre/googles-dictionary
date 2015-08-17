@@ -1,0 +1,61 @@
+[
+  {
+    "word": "completion",
+    "syllables": [
+      "com",
+      "ple",
+      "tion"
+    ],
+    "pronunciation": "kəmˈplēSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "completion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of finishing something.",
+            "examples": [
+              "funds for the completion of the new building"
+            ],
+            "synonyms": [
+              "realization",
+              "accomplishment",
+              "achievement",
+              "fulfillment",
+              "consummation",
+              "finalization",
+              "resolution; Morefinish",
+              "end",
+              "conclusion",
+              "close",
+              "cessation \"the money ran out before the project's completion\""
+            ]
+          },
+          {
+            "definition": "the state of being finished.",
+            "examples": [
+              "work on the new golf course is nearing completion"
+            ]
+          },
+          {
+            "definition": "a successful forward pass.",
+            "examples": [
+              "21 completions in 26 attempts for 233 yards"
+            ]
+          },
+          {
+            "definition": "the final stage in the sale of a property, at which point it legally changes ownership.",
+            "examples": [
+              "plural noun: completions"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

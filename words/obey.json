@@ -1,0 +1,83 @@
+[
+  {
+    "word": "obey",
+    "syllables": [
+      "o",
+      "bey"
+    ],
+    "pronunciation": "əˈbāōˈbā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "obey"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "obeys"
+          },
+          {
+            "part": "past tense",
+            "variant": "obeyed"
+          },
+          {
+            "part": "past participle",
+            "variant": "obeyed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "obeying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "comply with the command, direction, or request of (a person or a law); submit to the authority of.",
+            "examples": [
+              "I always obey my father"
+            ],
+            "synonyms": [
+              "do what someone says",
+              "carry out someone's orders; Moresubmit to",
+              "defer to",
+              "bow to",
+              "yield to",
+              "give in to \"I was honor-bound to obey\"comply with",
+              "adhere to",
+              "observe",
+              "abide by",
+              "act in accordance with",
+              "conform to",
+              "respect",
+              "follow",
+              "keep to",
+              "stick to \"NRA activists point out that criminals don't obey gun laws\""
+            ]
+          },
+          {
+            "definition": "carry out (a command or instruction).",
+            "examples": [
+              "the officer was convicted for refusing to obey orders"
+            ],
+            "synonyms": [
+              "carry out",
+              "perform",
+              "act on",
+              "execute",
+              "discharge",
+              "implement",
+              "fulfill \"he refused to obey the order\""
+            ]
+          },
+          {
+            "definition": "behave in accordance with (a general principle, natural law, etc.).",
+            "examples": [
+              "the universe was complex but it obeyed certain rules"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

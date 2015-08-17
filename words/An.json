@@ -1,0 +1,273 @@
+[
+  {
+    "word": "-an",
+    "syllables": [
+      "-an"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "suffix",
+        "variants": [
+          {
+            "part": "suffix",
+            "variant": "-an"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "forming adjectives and nouns, especially from:"
+          },
+          {
+            "definition": "names of places.",
+            "examples": [
+              "Ohioan"
+            ]
+          },
+          {
+            "definition": "names of systems.",
+            "examples": [
+              "Anglican"
+            ]
+          },
+          {
+            "definition": "names of zoological classes or orders.",
+            "examples": [
+              "crustacean"
+            ]
+          },
+          {
+            "definition": "names of founders or leaders when referring to them as sources.",
+            "examples": [
+              "Chomskyan"
+            ]
+          },
+          {
+            "definition": "forming names of organic compounds, chiefly polysaccharides.",
+            "examples": [
+              "dextran"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "an",
+    "syllables": [
+      "an"
+    ],
+    "pronunciation": "anən",
+    "parts": [
+      {
+        "part": "determiner",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "an"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the form of the indefinite article (see a) used before words beginning with a vowel sound."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "an-",
+    "syllables": [
+      "an-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "an-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "variant spelling of a-1 before a vowel (as in anemia, anechoic )."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "an-",
+    "syllables": [
+      "an-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "an-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "variant spelling of ad- assimilated before n (as in annihilate, annotate )."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "an-",
+    "syllables": [
+      "an-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "an-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "variant spelling of ana- shortened before a vowel (as in aneurysm )."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "a-",
+    "syllables": [
+      "a-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "an-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not; without.",
+            "examples": [
+              "atheistic"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "a",
+    "syllables": [
+      "a"
+    ],
+    "pronunciation": "āə",
+    "parts": [
+      {
+        "part": "determiner",
+        "variants": [
+          {
+            "part": "determiner",
+            "variant": "an"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "used when referring to someone or something for the first time in a text or conversation.",
+            "examples": [
+              "a man came out of the room"
+            ]
+          },
+          {
+            "definition": "used with units of measurement to mean one such unit.",
+            "examples": [
+              "a hundred"
+            ]
+          },
+          {
+            "definition": "one single; any.",
+            "examples": [
+              "I simply haven't a thing to wear"
+            ]
+          },
+          {
+            "definition": "used when mentioning the name of someone not known to the speaker.",
+            "examples": [
+              "a Mr. Smith telephoned"
+            ]
+          },
+          {
+            "definition": "someone like (the name specified).",
+            "examples": [
+              "you're no better than a Hitler"
+            ]
+          },
+          {
+            "definition": "used to indicate membership of a class of people or things.",
+            "examples": [
+              "he is a lawyer"
+            ]
+          },
+          {
+            "definition": "used when expressing rates or ratios; in, to, or for each; per.",
+            "examples": [
+              "typing 60 words a minute"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ana-",
+    "syllables": [
+      "ana-"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "prefix",
+        "variants": [
+          {
+            "part": "prefix",
+            "variant": "an-"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "up.",
+            "examples": [
+              "anabasis"
+            ]
+          },
+          {
+            "definition": "back.",
+            "examples": [
+              "anamnesis"
+            ]
+          },
+          {
+            "definition": "again.",
+            "examples": [
+              "anabiosis"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

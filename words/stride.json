@@ -1,0 +1,120 @@
+[
+  {
+    "word": "stride",
+    "syllables": [
+      "stride"
+    ],
+    "pronunciation": "strīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "stride"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "strides"
+          },
+          {
+            "part": "past tense",
+            "variant": "strode"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "striding"
+          },
+          {
+            "part": "past participle",
+            "variant": "stridden"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "walk with long, decisive steps in a specified direction.",
+            "examples": [
+              "he strode across the road"
+            ],
+            "synonyms": [
+              "march",
+              "pace",
+              "step \"she came striding down the path\""
+            ]
+          },
+          {
+            "definition": "walk about or along (a street or other place) with long, decisive steps.",
+            "examples": [
+              "a woman striding the cobbled streets"
+            ]
+          },
+          {
+            "definition": "cross (an obstacle) with one long step.",
+            "examples": [
+              "by giving a little leap she could stride across like a grown-up"
+            ]
+          },
+          {
+            "definition": "bestride.",
+            "examples": [
+              "new wealth enabled Britain to stride the world once more"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "stride"
+          },
+          {
+            "part": "plural noun",
+            "variant": "strides"
+          },
+          {
+            "part": "modifier noun",
+            "variant": "stride"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a long, decisive step.",
+            "examples": [
+              "he crossed the room in a couple of strides"
+            ],
+            "synonyms": [
+              "(long/large) step",
+              "pace \"long swinging strides\""
+            ]
+          },
+          {
+            "definition": "the length of a step or manner of taking steps in walking or running.",
+            "examples": [
+              "the horse shortened its stride"
+            ]
+          },
+          {
+            "definition": "a step or stage in progress toward an aim.",
+            "examples": [
+              "great strides have been made toward equality"
+            ]
+          },
+          {
+            "definition": "a good or regular rate of progress, especially after a slow or hesitant start.",
+            "examples": [
+              "noun: one's stride; plural noun: one's strides"
+            ]
+          },
+          {
+            "definition": "denoting or relating to a rhythmic style of jazz piano playing in which the left hand alternately plays single bass notes on the downbeat and chords an octave higher on the upbeat.",
+            "examples": [
+              "a stride pianist"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

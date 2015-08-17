@@ -1,0 +1,96 @@
+[
+  {
+    "word": "insist",
+    "syllables": [
+      "in",
+      "sist"
+    ],
+    "pronunciation": "inˈsist",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "insist"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "insists"
+          },
+          {
+            "part": "past tense",
+            "variant": "insisted"
+          },
+          {
+            "part": "past participle",
+            "variant": "insisted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "insisting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "demand something forcefully, not accepting refusal.",
+            "examples": [
+              "she insisted on carrying her own bag"
+            ],
+            "synonyms": [
+              "demand",
+              "command",
+              "require",
+              "dictate; Moreurge",
+              "exhort \"she insisted that they pay up\""
+            ]
+          },
+          {
+            "definition": "demand forcefully to have something.",
+            "examples": [
+              "he insisted on answers to his allegations"
+            ]
+          },
+          {
+            "definition": "persist in doing something even though it is annoying or odd.",
+            "examples": [
+              "the heavy studded boots she insisted on wearing"
+            ],
+            "synonyms": [
+              "be set on",
+              "be intent on",
+              "persist in",
+              "stand firm about",
+              "stand one's ground about",
+              "be resolute about",
+              "be emphatic about",
+              "be adamant about",
+              "not take no for an answer about; informalstick to one's guns about \"she insisted on her children's going to college\""
+            ]
+          },
+          {
+            "definition": "maintain or put forward a statement positively and assertively.",
+            "examples": [
+              "the chairman insisted that all was not doom and gloom"
+            ],
+            "synonyms": [
+              "maintain",
+              "assert",
+              "hold",
+              "contend",
+              "argue",
+              "protest",
+              "claim",
+              "vow",
+              "swear",
+              "declare",
+              "stress",
+              "repeat",
+              "reiterate; formalaver \"he insisted that he knew nothing\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

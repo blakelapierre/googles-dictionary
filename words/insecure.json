@@ -1,0 +1,70 @@
+[
+  {
+    "word": "insecure",
+    "syllables": [
+      "in",
+      "se",
+      "cure"
+    ],
+    "pronunciation": "ˌinsəˈkyo͝or",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "insecure"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) not confident or assured; uncertain and anxious.",
+            "examples": [
+              "a top model who is notoriously insecure about her looks"
+            ],
+            "synonyms": [
+              "unconfident",
+              "uncertain",
+              "unsure",
+              "doubtful",
+              "hesitant",
+              "self-conscious",
+              "unassertive",
+              "diffident",
+              "unforthcoming",
+              "shy",
+              "timid",
+              "retiring",
+              "timorous",
+              "inhibited",
+              "introverted; Moreanxious",
+              "fearful",
+              "worried; informalmousy \"an insecure young man\""
+            ],
+            "antonyms": [
+              "confident"
+            ]
+          },
+          {
+            "definition": "(of a thing) not firm or set; unsafe."
+          },
+          {
+            "definition": "(of a job or position) from which removal or expulsion is always possible."
+          },
+          {
+            "definition": "not firmly fixed; liable to give way or break.",
+            "examples": [
+              "an insecure footbridge"
+            ]
+          },
+          {
+            "definition": "able to be broken into or illicitly accessed.",
+            "examples": [
+              "an insecure computer system"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

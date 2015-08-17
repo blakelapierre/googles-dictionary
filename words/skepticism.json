@@ -1,0 +1,51 @@
+[
+  {
+    "word": "skepticism",
+    "syllables": [
+      "skep",
+      "ti",
+      "cism"
+    ],
+    "pronunciation": "ˈskeptəˌsizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scepticism"
+          },
+          {
+            "part": "noun",
+            "variant": "skepticism"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a skeptical attitude; doubt as to the truth of something.",
+            "examples": [
+              "these claims were treated with skepticism"
+            ],
+            "synonyms": [
+              "doubt",
+              "doubtfulness",
+              "a pinch of salt; Moredisbelief",
+              "cynicism",
+              "distrust",
+              "mistrust",
+              "suspicion",
+              "incredulity; pessimism",
+              "defeatism; formaldubiety \"his ideas were met with skepticism\"agnosticism",
+              "doubt; atheism",
+              "unbelief",
+              "nonbelief \"he passed from skepticism to religious belief\""
+            ]
+          },
+          {
+            "definition": "the theory that certain knowledge is impossible."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "word": "incite",
+    "syllables": [
+      "in",
+      "cite"
+    ],
+    "pronunciation": "inˈsīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "inciting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "encourage or stir up (violent or unlawful behavior).",
+            "examples": [
+              "the offense of inciting racial hatred"
+            ],
+            "synonyms": [
+              "stir up",
+              "whip up",
+              "encourage",
+              "fan the flames of",
+              "stoke up",
+              "fuel",
+              "kindle",
+              "ignite",
+              "inflame",
+              "stimulate",
+              "instigate",
+              "provoke",
+              "excite",
+              "arouse",
+              "awaken",
+              "inspire",
+              "engender",
+              "trigger",
+              "spark off",
+              "ferment",
+              "foment; Moreliteraryenkindle \"we're hoping that last night's incident will not incite altercations in the stadium today\"egg on",
+              "encourage",
+              "urge",
+              "goad",
+              "provoke",
+              "spur on",
+              "drive",
+              "stimulate",
+              "push",
+              "prod",
+              "prompt",
+              "induce",
+              "impel; arouse",
+              "rouse",
+              "excite",
+              "inflame",
+              "sting",
+              "prick; informalput up to \"she incited him to commit murder\""
+            ],
+            "antonyms": [
+              "suppress",
+              "discourage",
+              "deter"
+            ]
+          },
+          {
+            "definition": "urge or persuade (someone) to act in a violent or unlawful way.",
+            "examples": [
+              "he incited loyal subjects to rebellion"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

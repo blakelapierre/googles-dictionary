@@ -1,0 +1,137 @@
+[
+  {
+    "word": "discourage",
+    "syllables": [
+      "dis",
+      "cour",
+      "age"
+    ],
+    "pronunciation": "disˈkərij",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "discourage"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "discourages"
+          },
+          {
+            "part": "past tense",
+            "variant": "discouraged"
+          },
+          {
+            "part": "past participle",
+            "variant": "discouraged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "discouraging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) to lose confidence or enthusiasm.",
+            "examples": [
+              "I don't want to discourage you, but I don't think it's such a good idea"
+            ],
+            "synonyms": [
+              "dishearten",
+              "dispirit",
+              "demoralize",
+              "cast down",
+              "depress",
+              "disappoint; Moredisincentivize; put off",
+              "unnerve",
+              "daunt",
+              "intimidate",
+              "cow",
+              "crush \"she was discouraged by his hostile tone\"disheartened",
+              "dispirited",
+              "demoralized",
+              "deflated",
+              "disappointed",
+              "let down",
+              "disconsolate",
+              "despondent",
+              "dejected",
+              "cast down",
+              "downcast",
+              "depressed",
+              "crestfallen",
+              "dismayed",
+              "low-spirited",
+              "gloomy",
+              "glum",
+              "pessimistic",
+              "unenthusiastic",
+              "unenthused; put off",
+              "daunted",
+              "intimidated",
+              "cowed",
+              "crushed; informaldown in/at the mouth",
+              "down in the dumps",
+              "bummed \"Doug must be feeling pretty discouraged\"depressing",
+              "demoralizing",
+              "disheartening",
+              "dispiriting",
+              "disappointing",
+              "gloomy",
+              "off-putting; unfavorable",
+              "unpromising",
+              "inauspicious \"most reports from the area are discouraging\""
+            ],
+            "antonyms": [
+              "encourage",
+              "hearten",
+              "encouraging"
+            ]
+          },
+          {
+            "definition": "prevent or seek to prevent (something) by showing disapproval or creating difficulties.",
+            "examples": [
+              "the plan is designed to discourage the use of private cars"
+            ],
+            "synonyms": [
+              "prevent",
+              "stop",
+              "put a stop to",
+              "avert",
+              "fend off",
+              "stave off",
+              "ward off; Moreinhibit",
+              "hinder",
+              "check",
+              "curb",
+              "put a damper on",
+              "throw cold water on \"he sought to discourage further conversation\""
+            ],
+            "antonyms": [
+              "encourage"
+            ]
+          },
+          {
+            "definition": "persuade (someone) against an action.",
+            "examples": [
+              "we want to discourage children from smoking"
+            ],
+            "synonyms": [
+              "deter from",
+              "dissuade from",
+              "disincline from",
+              "put off",
+              "talk out of; Moreadvise against",
+              "urge against; archaicdiscountenance from \"we want to discourage children from smoking\""
+            ],
+            "antonyms": [
+              "encourage"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

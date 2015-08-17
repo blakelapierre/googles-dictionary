@@ -1,0 +1,82 @@
+[
+  {
+    "word": "clarity",
+    "syllables": [
+      "clar",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˈklerədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "clarity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being clear, in particular."
+          },
+          {
+            "definition": "the quality of coherence and intelligibility.",
+            "examples": [
+              "for the sake of clarity, each of these strategies is dealt with separately"
+            ],
+            "synonyms": [
+              "lucidity",
+              "lucidness",
+              "clearness",
+              "coherence; formalperspicuity \"the clarity of his account\""
+            ],
+            "antonyms": [
+              "vagueness",
+              "obscurity"
+            ]
+          },
+          {
+            "definition": "the quality of being easy to see or hear; sharpness of image or sound.",
+            "examples": [
+              "the clarity of the picture"
+            ],
+            "synonyms": [
+              "sharpness",
+              "clearness",
+              "crispness",
+              "definition \"the clarity of the image\""
+            ],
+            "antonyms": [
+              "blurriness"
+            ]
+          },
+          {
+            "definition": "the quality of being certain or definite.",
+            "examples": [
+              "it was clarity of purpose that he needed"
+            ]
+          },
+          {
+            "definition": "the quality of transparency or purity.",
+            "examples": [
+              "the crystal clarity of water"
+            ],
+            "synonyms": [
+              "limpidity",
+              "limpidness",
+              "clearness",
+              "transparency",
+              "translucence",
+              "pellucidity \"the crystal clarity of the water\""
+            ],
+            "antonyms": [
+              "murkiness",
+              "opacity"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

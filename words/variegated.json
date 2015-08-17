@@ -1,0 +1,48 @@
+[
+  {
+    "word": "variegated",
+    "syllables": [
+      "var",
+      "i",
+      "e",
+      "gat",
+      "ed"
+    ],
+    "pronunciation": "ˈver(ē)əˌɡādəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "variegated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "exhibiting different colors, especially as irregular patches or streaks.",
+            "examples": [
+              "variegated yellow bricks"
+            ]
+          },
+          {
+            "definition": "(of a plant or foliage) having or consisting of leaves that are edged or patterned in a second color, especially white as well as green.",
+            "examples": [
+              "multicolored, multicolor, many-colored, many-hued, polychromatic, varicolored, colorful, prismatic, rainbow, kaleidoscopic; Moremottled, striated, marbled, streaked, speckled, flecked, dappled; informalsplotchy \"variegated leaves\"Moremottled, striated, marbled, streaked, speckled, flecked, dappled; splotchy variegated leaves"
+            ],
+            "antonyms": [
+              "plain",
+              "monochrome"
+            ]
+          },
+          {
+            "definition": "marked by variety.",
+            "examples": [
+              "his variegated and amusing observations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "word": "design",
+    "syllables": [
+      "de",
+      "sign"
+    ],
+    "pronunciation": "dəˈzīn",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "designs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is built or made.",
+            "examples": [
+              "he has just unveiled his design for the new museum"
+            ],
+            "synonyms": [
+              "plan",
+              "blueprint",
+              "drawing",
+              "sketch",
+              "outline",
+              "map",
+              "plot",
+              "diagram",
+              "draft",
+              "representation",
+              "scheme",
+              "model \"a design for the offices\""
+            ]
+          },
+          {
+            "definition": "the art or action of conceiving of and producing a plan or drawing.",
+            "examples": [
+              "good design can help the reader understand complicated information"
+            ]
+          },
+          {
+            "definition": "an arrangement of lines or shapes created to form a pattern or decoration.",
+            "examples": [
+              "pottery with a lovely blue and white design"
+            ],
+            "synonyms": [
+              "pattern",
+              "motif",
+              "device; Morestyle",
+              "composition",
+              "makeup",
+              "layout",
+              "construction",
+              "shape",
+              "form \"tableware with a gold design\""
+            ]
+          },
+          {
+            "definition": "purpose, planning, or intention that exists or is thought to exist behind an action, fact, or material object.",
+            "examples": [
+              "the appearance of design in the universe"
+            ],
+            "synonyms": [
+              "intention",
+              "aim",
+              "purpose",
+              "plan",
+              "intent",
+              "objective",
+              "object",
+              "goal",
+              "end",
+              "target; Morehope",
+              "desire",
+              "wish",
+              "dream",
+              "aspiration",
+              "ambition \"his design of reaching the top\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "designs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decide upon the look and functioning of (a building, garment, or other object), typically by making a detailed drawing of it.",
+            "examples": [
+              "a number of architectural students were designing a factory"
+            ],
+            "synonyms": [
+              "plan",
+              "outline",
+              "map out",
+              "draft",
+              "draw More\"the church was designed by Hicks\"invent",
+              "originate",
+              "create",
+              "think up",
+              "come up with",
+              "devise",
+              "formulate",
+              "conceive; make",
+              "produce",
+              "develop",
+              "fashion; informaldream up \"they designed a new engine\""
+            ]
+          },
+          {
+            "definition": "do or plan (something) with a specific purpose or intention in mind.",
+            "examples": [
+              "the tax changes were designed to stimulate economic growth"
+            ],
+            "synonyms": [
+              "intend",
+              "aim; Moredevise",
+              "contrive",
+              "purpose",
+              "plan; tailor",
+              "fashion",
+              "adapt",
+              "gear; mean",
+              "destine \"this paper is designed to provoke discussion\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

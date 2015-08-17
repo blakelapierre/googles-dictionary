@@ -1,0 +1,117 @@
+[
+  {
+    "word": "notable",
+    "syllables": [
+      "no",
+      "ta",
+      "ble"
+    ],
+    "pronunciation": "ˈnōdəb(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "notable"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "worthy of attention or notice; remarkable.",
+            "examples": [
+              "the gardens are notable for their collection of magnolias and camellias"
+            ],
+            "synonyms": [
+              "noteworthy",
+              "remarkable",
+              "outstanding",
+              "important",
+              "significant",
+              "momentous",
+              "memorable; Moremarked",
+              "striking",
+              "impressive; uncommon",
+              "unusual",
+              "special",
+              "exceptional",
+              "signal \"notable examples of workmanship\"prominent",
+              "important",
+              "well known",
+              "famous",
+              "affluential",
+              "famed",
+              "noted",
+              "distinguished",
+              "great",
+              "eminent",
+              "illustrious",
+              "respected",
+              "esteemed",
+              "renowned",
+              "celebrated",
+              "acclaimed",
+              "influential",
+              "prestigious",
+              "of note \"a notable author\""
+            ],
+            "antonyms": [
+              "unremarkable",
+              "insignificant",
+              "obscure",
+              "unknown"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "notable"
+          },
+          {
+            "part": "plural noun",
+            "variant": "notables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a famous or important person.",
+            "examples": [
+              "businessmen and local notables"
+            ],
+            "synonyms": [
+              "celebrity",
+              "public figure",
+              "VIP",
+              "personage",
+              "notability",
+              "dignitary",
+              "worthy",
+              "luminary; Morestar",
+              "superstar",
+              "icon",
+              "name",
+              "big name; informalceleb",
+              "somebody",
+              "bigwig",
+              "big shot",
+              "big cheese",
+              "big fish",
+              "megastar",
+              "big kahuna",
+              "high muck-a-muck",
+              "high muckety-muck \"movie stars and other notables\""
+            ],
+            "antonyms": [
+              "nonentity",
+              "no-name"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

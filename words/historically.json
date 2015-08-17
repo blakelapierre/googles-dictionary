@@ -1,0 +1,38 @@
+[
+  {
+    "word": "historically",
+    "syllables": [
+      "his",
+      "tor",
+      "i",
+      "cal",
+      "ly"
+    ],
+    "pronunciation": "hiˈstôrik(ə)lēhiˈstärik(ə)lē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "historically"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with reference to past events.",
+            "examples": [
+              "a historically accurate picture of the time"
+            ]
+          },
+          {
+            "definition": "in the past.",
+            "examples": [
+              "historically, government policy has favored urban dwellers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

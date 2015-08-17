@@ -1,0 +1,41 @@
+[
+  {
+    "word": "photographer",
+    "syllables": [
+      "pho",
+      "tog",
+      "ra",
+      "pher"
+    ],
+    "pronunciation": "fəˈtäɡrəfər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "photographer"
+          },
+          {
+            "part": "plural noun",
+            "variant": "photographers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who takes photographs, especially as a job.",
+            "examples": [
+              "a freelance press photographer"
+            ],
+            "synonyms": [
+              "shutterbug",
+              "paparazzo",
+              "photojournalist; Morelensman",
+              "cameraman; informalpap \"photographers hounded them everywhere\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "word": "participation",
+    "syllables": [
+      "par",
+      "tic",
+      "i",
+      "pa",
+      "tion"
+    ],
+    "pronunciation": "pärˌtisəˈpāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "participation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "participations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action of taking part in something.",
+            "examples": [
+              "participation in church activities"
+            ],
+            "synonyms": [
+              "involvement",
+              "part",
+              "contribution",
+              "association \"your participation is appreciated\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

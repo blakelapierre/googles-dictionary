@@ -1,0 +1,57 @@
+[
+  {
+    "word": "verify",
+    "syllables": [
+      "ver",
+      "i",
+      "fy"
+    ],
+    "pronunciation": "ˈverəˌfī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "verified"
+          },
+          {
+            "part": "past participle",
+            "variant": "verified"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make sure or demonstrate that (something) is true, accurate, or justified.",
+            "examples": [
+              "his conclusions have been verified by later experiments"
+            ],
+            "synonyms": [
+              "substantiate",
+              "confirm",
+              "prove",
+              "corroborate",
+              "back up",
+              "bear out",
+              "justify",
+              "support",
+              "uphold",
+              "attest to",
+              "testify to",
+              "validate",
+              "authenticate",
+              "endorse",
+              "certify \"the evidence verifies my claim\""
+            ],
+            "antonyms": [
+              "refute"
+            ]
+          },
+          {
+            "definition": "swear to or support (a statement) by affidavit."
+          }
+        ]
+      }
+    ]
+  }
+]

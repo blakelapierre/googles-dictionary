@@ -1,0 +1,37 @@
+[
+  {
+    "word": "forefather",
+    "syllables": [
+      "fore",
+      "fa",
+      "ther"
+    ],
+    "pronunciation": "ˈfôrˌfäT͟Hər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "forefather"
+          },
+          {
+            "part": "plural noun",
+            "variant": "forefathers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a member of the past generations of one's family or people; an ancestor."
+          },
+          {
+            "definition": "a precursor of a particular movement.",
+            "examples": [
+              "the forefathers of rock 'n' roll"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

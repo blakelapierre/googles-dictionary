@@ -1,0 +1,54 @@
+[
+  {
+    "word": "instill",
+    "syllables": [
+      "in",
+      "still"
+    ],
+    "pronunciation": "inˈstil",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "instilling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gradually but firmly establish (an idea or attitude, especially a desirable one) in a person's mind.",
+            "examples": [
+              "how do we instill a sense of rightness in today's youth?"
+            ],
+            "synonyms": [
+              "inculcate",
+              "implant",
+              "ingrain",
+              "impress",
+              "imprint",
+              "introduce; Moreengender",
+              "produce",
+              "generate",
+              "induce",
+              "inspire",
+              "promote",
+              "foster; drum (into)",
+              "drill (into) \"we instill vigilance in our children\"imbue",
+              "inspire",
+              "infuse",
+              "inculcate",
+              "inject; indoctrinate; teach \"he instilled Monet with a love of nature\""
+            ]
+          },
+          {
+            "definition": "put (a substance) into something in the form of liquid drops.",
+            "examples": [
+              "she was told how to instill eye drops"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

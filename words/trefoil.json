@@ -1,0 +1,48 @@
+[
+  {
+    "word": "trefoil",
+    "syllables": [
+      "tre",
+      "foil"
+    ],
+    "pronunciation": "ˈtrēˌfoilˈtrefˌoil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "trefoil"
+          },
+          {
+            "part": "plural noun",
+            "variant": "trefoils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small European plant of the pea family with yellow flowers and three-lobed cloverlike leaves."
+          },
+          {
+            "definition": "a plant with three-lobed leaves similar to trefoil."
+          },
+          {
+            "definition": "an ornamental design of three rounded lobes like a clover leaf, used typically in architectural tracery."
+          },
+          {
+            "definition": "a thing having three parts; a set of three.",
+            "examples": [
+              "a trefoil of parachutes lowers the shuttle's used rockets to Earth"
+            ]
+          },
+          {
+            "definition": "denoting something shaped in the form of a trefoil leaf.",
+            "examples": [
+              "trefoil windows"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

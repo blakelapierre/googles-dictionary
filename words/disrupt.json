@@ -1,0 +1,72 @@
+[
+  {
+    "word": "disrupt",
+    "syllables": [
+      "dis",
+      "rupt"
+    ],
+    "pronunciation": "disˈrəpt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "disrupt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "disrupts"
+          },
+          {
+            "part": "past tense",
+            "variant": "disrupted"
+          },
+          {
+            "part": "past participle",
+            "variant": "disrupted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "disrupting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "interrupt (an event, activity, or process) by causing a disturbance or problem.",
+            "examples": [
+              "a rail strike that could disrupt both passenger and freight service"
+            ],
+            "synonyms": [
+              "throw into confusion",
+              "throw into disorder",
+              "throw into disarray",
+              "cause confusion/turmoil in",
+              "play havoc with; Moredisturb",
+              "interfere with",
+              "upset",
+              "unsettle; obstruct",
+              "impede",
+              "hold up",
+              "delay",
+              "interrupt",
+              "suspend; informalthrow a (monkey) wrench into the works of \"the strike disrupted public transit\""
+            ]
+          },
+          {
+            "definition": "drastically alter or destroy the structure of (something).",
+            "examples": [
+              "alcohol can disrupt the chromosomes of an unfertilized egg"
+            ],
+            "synonyms": [
+              "distort",
+              "damage",
+              "buckle",
+              "warp; Moreshatter; literarysunder \"the explosion disrupted the walls of the crater\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "word": "munition",
+    "syllables": [
+      "mu",
+      "ni",
+      "tion"
+    ],
+    "pronunciation": "myo͝oˈniSHənmyə-",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "munitions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "military weapons, ammunition, equipment, and stores.",
+            "examples": [
+              "reserves of nuclear, chemical, and conventional munitions"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "munitions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "supply with munitions."
+          }
+        ]
+      }
+    ]
+  }
+]

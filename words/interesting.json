@@ -1,0 +1,105 @@
+[
+  {
+    "word": "interesting",
+    "syllables": [
+      "in",
+      "ter",
+      "est",
+      "ing"
+    ],
+    "pronunciation": "ˈint(ə)rəstiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "interesting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arousing curiosity or interest; holding or catching the attention.",
+            "examples": [
+              "an interesting debate"
+            ],
+            "synonyms": [
+              "absorbing",
+              "engrossing",
+              "fascinating",
+              "riveting",
+              "gripping",
+              "compelling",
+              "compulsive",
+              "captivating",
+              "engaging",
+              "enthralling; Moreappealing",
+              "attractive; amusing",
+              "entertaining",
+              "stimulating",
+              "thought-provoking",
+              "diverting",
+              "intriguing; bloggable \"a dramatic look inside the classroom that makes for some interesting television\""
+            ],
+            "antonyms": [
+              "boring"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "interest",
+    "syllables": [
+      "in",
+      "ter",
+      "est"
+    ],
+    "pronunciation": "ˈint(ə)rəst",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "interesting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "excite the curiosity or attention of (someone).",
+            "examples": [
+              "I thought the book might interest Eric"
+            ],
+            "synonyms": [
+              "appeal to",
+              "be of interest to",
+              "attract",
+              "intrigue",
+              "fascinate; Moreabsorb",
+              "engross",
+              "rivet",
+              "grip",
+              "captivate; amuse",
+              "divert",
+              "entertain; arouse one's curiosity",
+              "whet one's appetite; informalfloat someone's boat",
+              "tickle someone's fancy \"a topic that interests you\"persuade to have",
+              "tempt to have; sell \"can I interest you in a drink?\""
+            ],
+            "antonyms": [
+              "bore"
+            ]
+          },
+          {
+            "definition": "cause someone to undertake or acquire (something).",
+            "examples": [
+              "efforts were made to interest her in a purchase"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

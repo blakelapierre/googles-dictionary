@@ -1,0 +1,54 @@
+[
+  {
+    "word": "sunken",
+    "syllables": [
+      "sunk",
+      "en"
+    ],
+    "pronunciation": "ˈsəNGkən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sunken"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having sunk or been submerged in water.",
+            "examples": [
+              "the wreck of a sunken ship"
+            ]
+          },
+          {
+            "definition": "at a lower level than the surrounding area.",
+            "examples": [
+              "a sunken garden"
+            ],
+            "synonyms": [
+              "below ground level",
+              "at a lower level",
+              "lowered \"a sunken garden\""
+            ]
+          },
+          {
+            "definition": "(of a person's eyes or cheeks) deeply recessed, especially as a result of illness, hunger, or stress.",
+            "examples": [
+              "her face was white, with sunken cheeks"
+            ],
+            "synonyms": [
+              "hollowed",
+              "hollow",
+              "depressed",
+              "deep-set",
+              "concave",
+              "indented \"sunken eyes\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

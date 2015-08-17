@@ -1,0 +1,38 @@
+[
+  {
+    "word": "datebook",
+    "syllables": [
+      "date",
+      "book"
+    ],
+    "pronunciation": "ˈdātbo͝ok",
+    "parts": [
+      {
+        "part": "nounNorth American",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "datebook"
+          },
+          {
+            "part": "plural noun",
+            "variant": "datebooks"
+          },
+          {
+            "part": "noun",
+            "variant": "date-book"
+          },
+          {
+            "part": "plural noun",
+            "variant": "date-books"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a book with spaces for each day of the year in which one notes appointments or important information for each day."
+          }
+        ]
+      }
+    ]
+  }
+]

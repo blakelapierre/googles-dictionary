@@ -1,0 +1,51 @@
+[
+  {
+    "word": "optimism",
+    "syllables": [
+      "op",
+      "ti",
+      "mism"
+    ],
+    "pronunciation": "ˈäptəˌmizəm",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "optimism"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hopefulness and confidence about the future or the successful outcome of something.",
+            "examples": [
+              "the talks had been amicable, and there were grounds for optimism"
+            ],
+            "synonyms": [
+              "hopefulness",
+              "hope",
+              "confidence",
+              "buoyancy",
+              "cheer",
+              "cheerfulness",
+              "good cheer",
+              "sanguineness",
+              "positiveness",
+              "positive attitude \"I wish I had your optimism\""
+            ],
+            "antonyms": [
+              "pessimism"
+            ]
+          },
+          {
+            "definition": "the doctrine, especially as set forth by Leibniz, that this world is the best of all possible worlds."
+          },
+          {
+            "definition": "the belief that good must ultimately prevail over evil in the universe."
+          }
+        ]
+      }
+    ]
+  }
+]

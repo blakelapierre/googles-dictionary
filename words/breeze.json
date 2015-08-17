@@ -1,0 +1,120 @@
+[
+  {
+    "word": "breeze",
+    "syllables": [
+      "breeze"
+    ],
+    "pronunciation": "brēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "breeze"
+          },
+          {
+            "part": "plural noun",
+            "variant": "breezes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a gentle wind.",
+            "examples": [
+              "gentle wind, puff of air, gust, cat's paw; Morelight air; literaryzephyr \"a breeze ruffled the leaves\"Morelight air; zephyr a breeze ruffled the leaves"
+            ]
+          },
+          {
+            "definition": "a wind of force 2 to 6 on the Beaufort scale (4–27 knots or 4.5-31 mph)."
+          },
+          {
+            "definition": "a thing that is easy to do or accomplish.",
+            "examples": [
+              "traveling through London was a breeze"
+            ],
+            "synonyms": [
+              "easy task",
+              "child's play",
+              "nothing; Moreinformalpiece of cake",
+              "cinch",
+              "snap",
+              "kids' stuff",
+              "cakewalk",
+              "five-finger exercise",
+              "duck soup \"getting your child in and out of the seat is a breeze\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "breeze"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "breezes"
+          },
+          {
+            "part": "past tense",
+            "variant": "breezed"
+          },
+          {
+            "part": "past participle",
+            "variant": "breezed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "breezing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "come or go in a casual or lighthearted manner.",
+            "examples": [
+              "I breezed in as if nothing were wrong"
+            ],
+            "synonyms": [
+              "saunter",
+              "stroll",
+              "sail",
+              "cruise \"Roger breezed into her office\""
+            ]
+          },
+          {
+            "definition": "deal with something with apparently casual ease.",
+            "examples": [
+              "the computer has the power to breeze through huge documents"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "breeze",
+    "syllables": [
+      "breeze"
+    ],
+    "pronunciation": "brēz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "breeze"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "small cinders mixed with sand and cement to make cinder blocks."
+          }
+        ]
+      }
+    ]
+  }
+]

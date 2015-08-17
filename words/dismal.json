@@ -1,0 +1,85 @@
+[
+  {
+    "word": "dismal",
+    "syllables": [
+      "dis",
+      "mal"
+    ],
+    "pronunciation": "ˈdizməl",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "dismal"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "depressing; dreary.",
+            "examples": [
+              "the dismal weather made the late afternoon seem like evening"
+            ],
+            "synonyms": [
+              "dingy",
+              "dim",
+              "dark",
+              "gloomy",
+              "dreary",
+              "drab",
+              "dull",
+              "bleak",
+              "cheerless",
+              "depressing",
+              "uninviting",
+              "unwelcoming \"a dismal hall\""
+            ],
+            "antonyms": [
+              "cheerful",
+              "bright"
+            ]
+          },
+          {
+            "definition": "(of a person or a mood) gloomy.",
+            "examples": [
+              "his dismal mood was not dispelled by finding the house empty"
+            ],
+            "synonyms": [
+              "gloomy",
+              "glum",
+              "melancholy",
+              "morose",
+              "doleful",
+              "woebegone",
+              "forlorn",
+              "dejected",
+              "depressed",
+              "dispirited",
+              "downcast",
+              "despondent",
+              "disconsolate",
+              "miserable",
+              "sad",
+              "unhappy",
+              "sorrowful",
+              "desolate",
+              "wretched; Moreinformalblue",
+              "down in the dumps",
+              "down in/at the mouth; literarydolorous \"a dismal look\""
+            ],
+            "antonyms": [
+              "cheerful"
+            ]
+          },
+          {
+            "definition": "pitifully or disgracefully bad.",
+            "examples": [
+              "he shuddered as he watched his team's dismal performance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "word": "theology",
+    "syllables": [
+      "the",
+      "ol",
+      "o",
+      "gy"
+    ],
+    "pronunciation": "THēˈäləjē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "theology"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the study of the nature of God and religious belief."
+          },
+          {
+            "definition": "religious beliefs and theory when systematically developed.",
+            "examples": [
+              "plural noun: theologies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

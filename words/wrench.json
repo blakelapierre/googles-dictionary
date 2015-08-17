@@ -1,0 +1,130 @@
+[
+  {
+    "word": "wrench",
+    "syllables": [
+      "wrench"
+    ],
+    "pronunciation": "ren(t)SH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wrench"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wrenches"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a sudden violent twist or pull.",
+            "examples": [
+              "with a wrench Tony wriggled free"
+            ],
+            "synonyms": [
+              "tug",
+              "pull",
+              "jerk",
+              "jolt",
+              "heave; informalyank \"she felt a wrench on her shoulders\""
+            ]
+          },
+          {
+            "definition": "a feeling of sadness or distress caused by one's own or another's departure.",
+            "examples": [
+              "it will be a real wrench to leave after eight years"
+            ],
+            "synonyms": [
+              "traumatic event",
+              "painful parting; Morepang",
+              "trauma \"leaving was an immense wrench\""
+            ]
+          },
+          {
+            "definition": "a tool used for gripping and turning nuts, bolts, pipes, etc.",
+            "examples": [
+              "monkey wrench hold the piston with a wrench"
+            ]
+          },
+          {
+            "definition": "a combination of a couple with a force along its axis."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "wrench"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wrenches"
+          },
+          {
+            "part": "past tense",
+            "variant": "wrenched"
+          },
+          {
+            "part": "past participle",
+            "variant": "wrenched"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "wrenching"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pull or twist (someone or something) suddenly and violently.",
+            "examples": [
+              "Casey grabbed the gun and wrenched it upward from my hand"
+            ],
+            "synonyms": [
+              "tug",
+              "pull",
+              "jerk",
+              "wrest",
+              "heave",
+              "twist",
+              "pluck",
+              "grab",
+              "seize",
+              "snatch",
+              "force",
+              "pry",
+              "jimmy; informalyank \"he wrenched the gun from her hand\""
+            ]
+          },
+          {
+            "definition": "injure (a part of the body) as a result of a sudden twisting movement.",
+            "examples": [
+              "she slipped and wrenched her ankle"
+            ],
+            "synonyms": [
+              "sprain",
+              "twist",
+              "turn",
+              "strain",
+              "pull; Moreinjure",
+              "hurt \"she wrenched her ankle\""
+            ]
+          },
+          {
+            "definition": "turn (something, especially a nut or bolt) with a wrench."
+          },
+          {
+            "definition": "distort to fit a particular theory or interpretation.",
+            "examples": [
+              "to wrench our Bible to make it fit a misconception of facts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

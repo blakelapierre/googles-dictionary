@@ -1,0 +1,64 @@
+[
+  {
+    "word": "monogram",
+    "syllables": [
+      "mon",
+      "o",
+      "gram"
+    ],
+    "pronunciation": "ˈmänəˌɡram",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "monogram"
+          },
+          {
+            "part": "plural noun",
+            "variant": "monograms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a motif of two or more letters, typically a person's initials, usually interwoven or otherwise combined in a decorative design, used as a logo or to identify a personal possession."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "monogram"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "monograms"
+          },
+          {
+            "part": "past tense",
+            "variant": "monogrammed"
+          },
+          {
+            "part": "past participle",
+            "variant": "monogrammed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "monogramming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decorate with a monogram.",
+            "examples": [
+              "monogrammed sheets"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

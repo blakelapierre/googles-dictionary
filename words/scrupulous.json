@@ -1,0 +1,73 @@
+[
+  {
+    "word": "scrupulous",
+    "syllables": [
+      "scru",
+      "pu",
+      "lous"
+    ],
+    "pronunciation": "ˈskro͞opyələs",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "scrupulous"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or process) diligent, thorough, and extremely attentive to details.",
+            "examples": [
+              "the research has been carried out with scrupulous attention to detail"
+            ],
+            "synonyms": [
+              "careful",
+              "meticulous",
+              "painstaking",
+              "thorough",
+              "assiduous",
+              "sedulous",
+              "attentive",
+              "conscientious",
+              "punctilious",
+              "searching",
+              "close",
+              "minute",
+              "rigorous",
+              "particular",
+              "strict \"scrupulous attention to detail\""
+            ],
+            "antonyms": [
+              "careless"
+            ]
+          },
+          {
+            "definition": "very concerned to avoid doing wrong.",
+            "examples": [
+              "she's too scrupulous to have an affair with a married man"
+            ],
+            "synonyms": [
+              "honest",
+              "honorable",
+              "upright",
+              "upstanding",
+              "high-minded",
+              "right-minded",
+              "moral",
+              "ethical",
+              "good",
+              "virtuous",
+              "principled",
+              "incorruptible \"a scrupulous man\""
+            ],
+            "antonyms": [
+              "dishonest"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

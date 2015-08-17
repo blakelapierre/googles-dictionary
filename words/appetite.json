@@ -1,0 +1,58 @@
+[
+  {
+    "word": "appetite",
+    "syllables": [
+      "ap",
+      "pe",
+      "tite"
+    ],
+    "pronunciation": "ˈapəˌtīt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "appetite"
+          },
+          {
+            "part": "plural noun",
+            "variant": "appetites"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a natural desire to satisfy a bodily need, especially for food.",
+            "examples": [
+              "he has a healthy appetite"
+            ],
+            "synonyms": [
+              "hunger",
+              "ravenousness",
+              "hungriness; Moretaste",
+              "palate \"a walk sharpens the appetite\""
+            ]
+          },
+          {
+            "definition": "a strong desire or liking for something.",
+            "examples": [
+              "an unquenchable appetite for life"
+            ],
+            "synonyms": [
+              "craving",
+              "longing",
+              "yearning",
+              "hankering",
+              "hunger",
+              "thirst",
+              "passion; Moreenthusiasm",
+              "keenness",
+              "eagerness",
+              "desire; informalyen \"my appetite for learning\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

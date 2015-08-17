@@ -1,0 +1,166 @@
+[
+  {
+    "word": "forward",
+    "syllables": [
+      "for",
+      "ward"
+    ],
+    "pronunciation": "ˈfôrwərd",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "forwards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "toward the front; in the direction that one is facing or traveling.",
+            "examples": [
+              "he started up the engine and the car moved forward"
+            ],
+            "synonyms": [
+              "ahead",
+              "forwards",
+              "onward",
+              "onwards",
+              "on",
+              "further \"the traffic moved forward\""
+            ]
+          },
+          {
+            "definition": "in, near, or toward the bow or nose of a ship or aircraft."
+          },
+          {
+            "definition": "in the normal order or sequence.",
+            "examples": [
+              "the number was the same backward as forward"
+            ]
+          },
+          {
+            "definition": "onward so as to make progress; toward a successful conclusion.",
+            "examples": [
+              "there's no way forward for the relationship"
+            ],
+            "synonyms": [
+              "moving forward",
+              "moving forward",
+              "moving ahead",
+              "onward",
+              "advancing",
+              "progressing",
+              "progressive \"in a forward direction\""
+            ],
+            "antonyms": [
+              "backward"
+            ]
+          },
+          {
+            "definition": "into a position of prominence or notice.",
+            "examples": [
+              "he is pushing forward a political ally"
+            ],
+            "synonyms": [
+              "toward the front",
+              "out",
+              "forth",
+              "into view \"the winner stepped forward\""
+            ]
+          },
+          {
+            "definition": "toward the future; ahead in time.",
+            "examples": [
+              "from that day forward, the assembly was at odds with us"
+            ],
+            "synonyms": [
+              "onward",
+              "onwards",
+              "on",
+              "forth; Morefor ever",
+              "into eternity; until now \"from that day forward\""
+            ]
+          },
+          {
+            "definition": "to an earlier time.",
+            "examples": [
+              "the special issue has been moved forward to winter"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "forwards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an attacking player in basketball, hockey, or other sports."
+          },
+          {
+            "definition": "an offensive or defensive lineman."
+          },
+          {
+            "definition": "short for forward contract."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "forwards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "send (a letter or e-mail) on to a further destination.",
+            "examples": [
+              "a forwarding address"
+            ],
+            "synonyms": [
+              "send on",
+              "mail on",
+              "redirect",
+              "re-address",
+              "pass on \"my mother forwarded me your email\""
+            ]
+          },
+          {
+            "definition": "hand over or send (an official document).",
+            "examples": [
+              "their final report was forwarded to the Commanding Officer"
+            ]
+          },
+          {
+            "definition": "dispatch (goods).",
+            "examples": [
+              "a freight forwarding company"
+            ],
+            "synonyms": [
+              "send",
+              "dispatch",
+              "transmit",
+              "carry",
+              "convey",
+              "deliver",
+              "ship \"the goods were forwarded by sea\""
+            ]
+          },
+          {
+            "definition": "help to advance (something); promote.",
+            "examples": [
+              "the scientists are forwarding the development of biotechnology"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

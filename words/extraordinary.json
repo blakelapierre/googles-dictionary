@@ -1,0 +1,117 @@
+[
+  {
+    "word": "extraordinary",
+    "syllables": [
+      "ex",
+      "traor",
+      "di",
+      "nar",
+      "y"
+    ],
+    "pronunciation": "ikˈstrôrd(ə)nˌerēˌekstrəˈôrdnˌerē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "extraordinary"
+          },
+          {
+            "part": "adjective",
+            "variant": "extra-ordinary"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very unusual or remarkable.",
+            "examples": [
+              "the extraordinary plumage of the male"
+            ],
+            "synonyms": [
+              "remarkable",
+              "exceptional",
+              "amazing",
+              "astonishing",
+              "astounding",
+              "sensational",
+              "stunning",
+              "incredible",
+              "unbelievable",
+              "phenomenal; Morestriking",
+              "outstanding",
+              "momentous",
+              "impressive",
+              "singular",
+              "memorable",
+              "unforgettable",
+              "unique",
+              "noteworthy; out of the ordinary",
+              "unusual",
+              "uncommon",
+              "rare",
+              "surprising; informalfantastic",
+              "terrific",
+              "tremendous",
+              "stupendous",
+              "awesome; literarywondrous \"an extraordinary coincidence\""
+            ]
+          },
+          {
+            "definition": "unusually great.",
+            "examples": [
+              "young children need extraordinary amounts of attention"
+            ],
+            "synonyms": [
+              "very great",
+              "tremendous",
+              "enormous",
+              "immense",
+              "prodigious",
+              "stupendous",
+              "monumental \"extraordinary speed\""
+            ]
+          },
+          {
+            "definition": "(of a meeting) specially convened.",
+            "examples": [
+              "an extraordinary session of the Congress"
+            ]
+          },
+          {
+            "definition": "(of an official) additional; specially employed.",
+            "examples": [
+              "his appointment as Ambassador Extraordinary in London"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "extraordinary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "extraordinaries"
+          },
+          {
+            "part": "noun",
+            "variant": "extra-ordinary"
+          },
+          {
+            "part": "plural noun",
+            "variant": "extra-ordinaries"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an item in a company's accounts not arising from its normal activities."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "word": "oily",
+    "syllables": [
+      "oil",
+      "y"
+    ],
+    "pronunciation": "ˈoilē",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "oily"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "oilier"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "oiliest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "containing oil.",
+            "examples": [
+              "oily fish such as mackerel and sardines"
+            ],
+            "synonyms": [
+              "greasy",
+              "fatty",
+              "buttery",
+              "swimming in oil/fat \"oily food\""
+            ]
+          },
+          {
+            "definition": "covered or soaked with oil.",
+            "examples": [
+              "an oily rag"
+            ],
+            "synonyms": [
+              "greasy",
+              "oleaginous",
+              "unctuous; Moretechnicalsebaceous; formalpinguid \"oily substances\""
+            ]
+          },
+          {
+            "definition": "resembling oil in appearance or behavior.",
+            "examples": [
+              "the oily swell of the river"
+            ]
+          },
+          {
+            "definition": "(of a person or their behavior) unpleasantly smooth and ingratiating.",
+            "examples": [
+              "his oily smile"
+            ],
+            "synonyms": [
+              "unctuous",
+              "ingratiating",
+              "fawning",
+              "smooth-talking",
+              "fulsome",
+              "flattering",
+              "obsequious",
+              "sycophantic",
+              "oleaginous; Moreinformalsmarmy",
+              "slimy \"he's an oily character\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

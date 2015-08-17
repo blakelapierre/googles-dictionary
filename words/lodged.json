@@ -1,0 +1,99 @@
+[
+  {
+    "word": "lodge",
+    "syllables": [
+      "lodge"
+    ],
+    "pronunciation": "läj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "lodged"
+          },
+          {
+            "part": "past participle",
+            "variant": "lodged"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "present (a complaint, appeal, claim, etc.) formally to the proper authorities.",
+            "examples": [
+              "he has 28 days in which to lodge an appeal"
+            ],
+            "synonyms": [
+              "submit",
+              "register",
+              "enter",
+              "put forward",
+              "advance",
+              "lay",
+              "present",
+              "tender",
+              "proffer",
+              "put on record",
+              "record",
+              "file \"we lodged a complaint\""
+            ]
+          },
+          {
+            "definition": "leave money or a valuable item in (a place) or with (someone) for safekeeping."
+          },
+          {
+            "definition": "make or become firmly fixed or embedded in a particular place.",
+            "examples": [
+              "they had to remove a bullet lodged near his spine"
+            ],
+            "synonyms": [
+              "become fixed",
+              "embed itself",
+              "become embedded",
+              "become implanted",
+              "get/become stuck",
+              "stick",
+              "catch",
+              "become caught",
+              "wedge \"the bullet lodged in his back\""
+            ]
+          },
+          {
+            "definition": "stay or sleep in another person's house, paying money for one's accommodations.",
+            "examples": [
+              "the man who lodged in the room next door"
+            ],
+            "synonyms": [
+              "reside",
+              "board",
+              "stay",
+              "live",
+              "rent rooms",
+              "be put up",
+              "be quartered",
+              "room; Moreformaldwell",
+              "be domiciled",
+              "sojourn; archaicabide \"William lodged at our house\""
+            ]
+          },
+          {
+            "definition": "provide (someone) with a place to sleep or stay in return for payment.",
+            "examples": [
+              "accommodate, put up, take in, house, board, billet, quarter, shelter they were lodged at an inn"
+            ]
+          },
+          {
+            "definition": "(of wind or rain) flatten (a standing crop).",
+            "examples": [
+              "rain that soaks standing or lodged crops"
+            ]
+          },
+          {
+            "definition": "(of a crop) be flattened by wind or rain."
+          }
+        ]
+      }
+    ]
+  }
+]

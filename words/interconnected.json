@@ -1,0 +1,35 @@
+[
+  {
+    "word": "interconnect",
+    "syllables": [
+      "in",
+      "ter",
+      "con",
+      "nect"
+    ],
+    "pronunciation": "ˌin(t)ərkəˈnekt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "interconnected"
+          },
+          {
+            "part": "past participle",
+            "variant": "interconnected"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "connect with each other.",
+            "examples": [
+              "the way human activities interconnect with the environment"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

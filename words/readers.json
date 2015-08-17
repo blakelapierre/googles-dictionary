@@ -1,0 +1,69 @@
+[
+  {
+    "word": "reader",
+    "syllables": [
+      "read",
+      "er"
+    ],
+    "pronunciation": "ˈrēdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "readers"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Readers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who reads or who is fond of reading.",
+            "examples": [
+              "the books of Roald Dahl appeal to young readers"
+            ]
+          },
+          {
+            "definition": "a person who reads a particular newspaper, magazine, or text.",
+            "examples": [
+              "Times readers"
+            ]
+          },
+          {
+            "definition": "short for lay reader."
+          },
+          {
+            "definition": "a person entitled to use a particular library."
+          },
+          {
+            "definition": "a person who reads and reports to a publisher or producer on the merits of manuscripts submitted for publication or production, or who provides critical comments on the text prior to publication."
+          },
+          {
+            "definition": "a proofreader."
+          },
+          {
+            "definition": "a person who inspects and records the figure indicated on a measuring instrument.",
+            "examples": [
+              "a meter reader"
+            ]
+          },
+          {
+            "definition": "a book containing extracts of a particular author's work or passages of text designed to give learners of a language practice in reading."
+          },
+          {
+            "definition": "a university lecturer of the highest grade below professor."
+          },
+          {
+            "definition": "a machine for producing on a screen a magnified, readable image of any desired part of a microfiche or microfilm."
+          },
+          {
+            "definition": "a device or piece of software used for reading or obtaining data stored on tape, cards, or other media."
+          }
+        ]
+      }
+    ]
+  }
+]

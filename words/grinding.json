@@ -1,0 +1,124 @@
+[
+  {
+    "word": "grinding",
+    "syllables": [
+      "grind",
+      "ing"
+    ],
+    "pronunciation": "ˈɡrīndiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "grinding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a state) oppressive, tedious, and seemingly without end.",
+            "examples": [
+              "grinding poverty"
+            ]
+          },
+          {
+            "definition": "(of a sound or motion) harsh and grating.",
+            "examples": [
+              "the group's grinding, ear-splitting guitar"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grind",
+    "syllables": [
+      "grind"
+    ],
+    "pronunciation": "ɡrīnd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "grinding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reduce (something) to small particles or powder by crushing it.",
+            "examples": [
+              "grind some black pepper over the salad"
+            ],
+            "synonyms": [
+              "crush",
+              "pound",
+              "pulverize",
+              "mill",
+              "granulate",
+              "crumble",
+              "smash",
+              "press; Moretechnicaltriturate",
+              "comminute \"the sandstone is ground into powder\""
+            ]
+          },
+          {
+            "definition": "(of a mill or machine) work with a crushing action.",
+            "examples": [
+              "the old mill was grinding again"
+            ]
+          },
+          {
+            "definition": "sharpen, smooth, or produce (something) by crushing or by friction.",
+            "examples": [
+              "power from a waterwheel was used to grind cutlery"
+            ],
+            "synonyms": [
+              "sharpen",
+              "whet",
+              "hone",
+              "file",
+              "strop; Moresmooth",
+              "polish",
+              "sand",
+              "sandpaper \"a knife being ground on a wheel\""
+            ]
+          },
+          {
+            "definition": "operate (a mill or machine) by turning the handle.",
+            "examples": [
+              "she was grinding a coffee mill"
+            ]
+          },
+          {
+            "definition": "rub or cause to rub together gratingly.",
+            "examples": [
+              "tectonic plates that inexorably grind against each other"
+            ],
+            "synonyms": [
+              "rub",
+              "grate",
+              "scrape",
+              "rasp \"one tectonic plate grinds against another\""
+            ]
+          },
+          {
+            "definition": "move noisily and laboriously, especially against a countering force.",
+            "examples": [
+              "the truck was grinding slowly up the hill"
+            ]
+          },
+          {
+            "definition": "(of a dancer) rotate the hips.",
+            "examples": [
+              "go-go girls grinding to blaring disco"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

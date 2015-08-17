@@ -1,55 +1,57 @@
-{
-  "word": "contradiction",
-  "syllables": [
-    "con",
-    "tra",
-    "dic",
-    "tion"
-  ],
-  "pronunciation": "ˌkäntrəˈdikSH(ə)n",
-  "parts": [
-    {
-      "part": "noun",
-      "variants": [
-        {
-          "part": "noun",
-          "variant": "contradiction"
-        },
-        {
-          "part": "plural noun",
-          "variant": "contradictions"
-        }
-      ],
-      "definitions": [
-        {
-          "definition": "a combination of statements, ideas, or features of a situation that are opposed to one another.",
-          "examples": [
-            "the proposed new system suffers from a set of internal contradictions"
-          ]
-        },
-        {
-          "definition": "a person, thing, or situation in which inconsistent elements are present.",
-          "examples": [
-            "the paradox of using force to overcome force is a real contradiction"
-          ]
-        },
-        {
-          "definition": "the statement of a position opposite to one already made.",
-          "examples": [
-            "the second sentence appears to be in flat contradiction of the first"
-          ],
-          "synonyms": [
-            "denial",
-            "refutation",
-            "rebuttal",
-            "countering \"a contradiction of his statement\""
-          ],
-          "antonyms": [
-            "confirmation",
-            "reaffirmation"
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "word": "contradiction",
+    "syllables": [
+      "con",
+      "tra",
+      "dic",
+      "tion"
+    ],
+    "pronunciation": "ˌkäntrəˈdikSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "contradiction"
+          },
+          {
+            "part": "plural noun",
+            "variant": "contradictions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a combination of statements, ideas, or features of a situation that are opposed to one another.",
+            "examples": [
+              "the proposed new system suffers from a set of internal contradictions"
+            ]
+          },
+          {
+            "definition": "a person, thing, or situation in which inconsistent elements are present.",
+            "examples": [
+              "the paradox of using force to overcome force is a real contradiction"
+            ]
+          },
+          {
+            "definition": "the statement of a position opposite to one already made.",
+            "examples": [
+              "the second sentence appears to be in flat contradiction of the first"
+            ],
+            "synonyms": [
+              "denial",
+              "refutation",
+              "rebuttal",
+              "countering \"a contradiction of his statement\""
+            ],
+            "antonyms": [
+              "confirmation",
+              "reaffirmation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

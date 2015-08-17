@@ -1,0 +1,182 @@
+[
+  {
+    "word": "props",
+    "syllables": [
+      "props"
+    ],
+    "pronunciation": "präps",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "props"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "respect or credit due to a person.",
+            "examples": [
+              "Erika gets props for the great work she did on the music"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prop",
+    "syllables": [
+      "prop"
+    ],
+    "pronunciation": "präp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "props"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a pole or beam used as a support or to keep something in position, typically one that is not an integral part of the thing supported.",
+            "examples": [
+              "300 tubular steel props"
+            ],
+            "synonyms": [
+              "pole",
+              "post",
+              "support",
+              "upright",
+              "brace",
+              "buttress",
+              "stay",
+              "strut",
+              "stanchion",
+              "shore",
+              "pier",
+              "pillar",
+              "pile",
+              "piling",
+              "bolster",
+              "truss",
+              "column \"the roof is held up by props\""
+            ]
+          },
+          {
+            "definition": "a person or thing that is a major source of support or assistance.",
+            "examples": [
+              "the second institutional prop of conservative Spain was the army"
+            ],
+            "synonyms": [
+              "mainstay",
+              "pillar",
+              "anchor",
+              "backbone",
+              "support",
+              "foundation",
+              "cornerstone \"a prop for the economy\""
+            ]
+          },
+          {
+            "definition": "a word used to fill a syntactic role without any specific meaning of its own, for example one in it's a nice one and it in it is raining."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "props"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "position something underneath (someone or something) for support.",
+            "examples": [
+              "she propped her chin in the palm of her right hand"
+            ],
+            "synonyms": [
+              "hold up",
+              "shore up",
+              "bolster up",
+              "buttress",
+              "support",
+              "brace",
+              "underpin \"this post is propping the wall up\""
+            ]
+          },
+          {
+            "definition": "position (something or someone) more or less upright by leaning it against something else.",
+            "examples": [
+              "a jug of milk with a note propped against it"
+            ],
+            "synonyms": [
+              "lean",
+              "rest",
+              "stand",
+              "balance",
+              "steady \"she propped her bike against the wall\""
+            ]
+          },
+          {
+            "definition": "use an object to keep (something) in position.",
+            "examples": [
+              "he found that the door to the office was propped open"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prop",
+    "syllables": [
+      "prop"
+    ],
+    "pronunciation": "präp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "props"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a portable object other than furniture or costumes used on the set of a play or movie."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prop",
+    "syllables": [
+      "prop"
+    ],
+    "pronunciation": "präp",
+    "parts": [
+      {
+        "part": "nouninformal",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "props"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an aircraft propeller."
+          }
+        ]
+      }
+    ]
+  }
+]

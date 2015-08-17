@@ -1,0 +1,72 @@
+[
+  {
+    "word": "strategic",
+    "syllables": [
+      "stra",
+      "te",
+      "gic"
+    ],
+    "pronunciation": "strəˈtējik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "strategic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "examples": [
+              "the company should take strategic actions to cope with fundamental changes in the environment"
+            ],
+            "synonyms": [
+              "planned",
+              "calculated",
+              "tactical",
+              "politic",
+              "judicious",
+              "prudent",
+              "shrewd \"his lawyers were known for their strategic defense methods\""
+            ]
+          },
+          {
+            "definition": "carefully designed or planned to serve a particular purpose or advantage.",
+            "examples": [
+              "alarms are positioned at strategic points around the prison"
+            ]
+          },
+          {
+            "definition": "relating to the gaining of overall or long-term military advantage.",
+            "examples": [
+              "New Orleans was of strategic importance"
+            ]
+          },
+          {
+            "definition": "(of human or material resources) essential in fighting a war.",
+            "examples": [
+              "the strategic forces on Russian territory"
+            ],
+            "synonyms": [
+              "planned",
+              "calculated",
+              "tactical",
+              "politic",
+              "judicious",
+              "prudent",
+              "shrewd \"his lawyers were known for their strategic defense methods\""
+            ]
+          },
+          {
+            "definition": "(of bombing or weapons) done or for use against industrial areas and communication centers of enemy territory as a long-term military objective.",
+            "examples": [
+              "strategic nuclear missiles"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

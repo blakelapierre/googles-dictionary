@@ -1,0 +1,54 @@
+[
+  {
+    "word": "imminent",
+    "syllables": [
+      "im",
+      "mi",
+      "nent"
+    ],
+    "pronunciation": "ˈimənənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "imminent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "about to happen.",
+            "examples": [
+              "they were in imminent danger of being swept away"
+            ],
+            "synonyms": [
+              "impending",
+              "close (at hand)",
+              "near",
+              "(fast) approaching",
+              "coming",
+              "forthcoming",
+              "on the way",
+              "in the offing",
+              "in the pipeline",
+              "on the horizon",
+              "in the air",
+              "just around the corner",
+              "coming down the pike",
+              "expected",
+              "anticipated",
+              "brewing",
+              "looming",
+              "threatening",
+              "menacing; informalin the cards \"a ceasefire was imminent\""
+            ]
+          },
+          {
+            "definition": "overhanging."
+          }
+        ]
+      }
+    ]
+  }
+]

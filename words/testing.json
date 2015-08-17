@@ -1,0 +1,87 @@
+[
+  {
+    "word": "test",
+    "syllables": [
+      "test"
+    ],
+    "pronunciation": "test",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "testing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice.",
+            "examples": [
+              "this range has not been tested on animals"
+            ],
+            "synonyms": [
+              "try out",
+              "put to the test",
+              "put through its paces",
+              "experiment with",
+              "pilot; Morecheck",
+              "examine",
+              "assess",
+              "evaluate",
+              "appraise",
+              "investigate",
+              "analyze",
+              "scrutinize",
+              "study",
+              "probe",
+              "explore",
+              "trial; sample; screen; technicalassay \"a small-scale prototype was tested\""
+            ]
+          },
+          {
+            "definition": "reveal the strengths or capabilities of (someone or something) by putting them under strain.",
+            "examples": [
+              "such behavior would severely test any marriage"
+            ],
+            "synonyms": [
+              "put a strain on",
+              "strain",
+              "tax",
+              "try; Moremake demands on",
+              "stretch",
+              "challenge \"such behavior would test any marriage\""
+            ]
+          },
+          {
+            "definition": "give (someone) a short written or oral examination of their proficiency or knowledge.",
+            "examples": [
+              "all children are tested at eleven"
+            ]
+          },
+          {
+            "definition": "judge or measure (someone's proficiency or knowledge) by means of an examination."
+          },
+          {
+            "definition": "carry out a medical test on (a person, a part of the body, or a body fluid)."
+          },
+          {
+            "definition": "produce a specified result in a medical test, especially a drug test or AIDS test.",
+            "examples": [
+              "he tested positive for steroids after the race"
+            ]
+          },
+          {
+            "definition": "examine (a substance) by means of a reagent."
+          },
+          {
+            "definition": "touch or taste (something) to check that it is acceptable before proceeding further.",
+            "examples": [
+              "she tested the water with the tip of her elbow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "intimidate",
+    "syllables": [
+      "in",
+      "tim",
+      "i",
+      "date"
+    ],
+    "pronunciation": "inˈtiməˌdāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "intimidated"
+          },
+          {
+            "part": "past participle",
+            "variant": "intimidated"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "frighten or overawe (someone), especially in order to make them do what one wants.",
+            "examples": [
+              "he tries to intimidate his rivals"
+            ],
+            "synonyms": [
+              "frighten",
+              "menace",
+              "terrify",
+              "scare",
+              "terrorize",
+              "cow",
+              "dragoon",
+              "subdue; Morethreaten",
+              "browbeat",
+              "bully",
+              "pressure",
+              "harass",
+              "harry",
+              "hassle",
+              "hound",
+              "torment",
+              "tyrannize",
+              "persecute; informallean on",
+              "push around",
+              "bulldoze",
+              "railroad",
+              "twist someone's arm",
+              "strong-arm \"he sent his goons to intimidate the local merchants\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

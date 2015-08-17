@@ -1,0 +1,39 @@
+[
+  {
+    "word": "goalkeeper",
+    "syllables": [
+      "goal",
+      "keep",
+      "er"
+    ],
+    "pronunciation": "ˈɡōlˌkēpər",
+    "parts": [
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "goalkeeper"
+          },
+          {
+            "part": "plural noun",
+            "variant": "goalkeepers"
+          },
+          {
+            "part": "noun",
+            "variant": "goal-keeper"
+          },
+          {
+            "part": "plural noun",
+            "variant": "goal-keepers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "another term for goaltender."
+          }
+        ]
+      }
+    ]
+  }
+]

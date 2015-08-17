@@ -1,0 +1,130 @@
+[
+  {
+    "word": "entertaining",
+    "syllables": [
+      "en",
+      "ter",
+      "tain",
+      "ing"
+    ],
+    "pronunciation": "ˌen(t)ərˈtāniNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "entertaining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "providing amusement or enjoyment.",
+            "examples": [
+              "the magazine is both entertaining and informative"
+            ],
+            "synonyms": [
+              "delightful",
+              "enjoyable",
+              "diverting",
+              "amusing",
+              "pleasing",
+              "agreeable",
+              "appealing",
+              "engaging",
+              "interesting",
+              "fascinating",
+              "absorbing",
+              "compelling; Morehumorous",
+              "funny",
+              "comical; informalfun \"Ben is an entertaining companion\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "entertain",
+    "syllables": [
+      "en",
+      "ter",
+      "tain"
+    ],
+    "pronunciation": "ˌen(t)ərˈtān",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "entertaining"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "provide (someone) with amusement or enjoyment.",
+            "examples": [
+              "a tremendous game that thoroughly entertained the crowd"
+            ],
+            "synonyms": [
+              "amuse",
+              "divert",
+              "delight",
+              "please",
+              "charm",
+              "cheer",
+              "interest; Moreinformalbring the house down; engage",
+              "occupy",
+              "absorb",
+              "engross \"she wrote plays to entertain them\""
+            ],
+            "antonyms": [
+              "bore"
+            ]
+          },
+          {
+            "definition": "receive (someone) as a guest and provide them with food and drink.",
+            "examples": [
+              "a private dining room where members could entertain groups of friends"
+            ],
+            "synonyms": [
+              "receive",
+              "host",
+              "play host/hostess to",
+              "invite (around/round/over)",
+              "throw a party for; Morewine and dine",
+              "feast",
+              "cater for",
+              "feed",
+              "treat",
+              "welcome",
+              "fête \"he entertains foreign visitors\"receive guests",
+              "have people around/round/over",
+              "have company",
+              "throw/have a party \"we don't entertain much\""
+            ]
+          },
+          {
+            "definition": "give attention or consideration to (an idea, suggestion, or feeling).",
+            "examples": [
+              "Washington entertained little hope of an early improvement in relations"
+            ],
+            "synonyms": [
+              "consider",
+              "give consideration to",
+              "contemplate",
+              "think about",
+              "give thought to; Morecountenance",
+              "tolerate",
+              "support; formalbrook \"I would never entertain such an idea\""
+            ],
+            "antonyms": [
+              "reject"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

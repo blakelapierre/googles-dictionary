@@ -1,0 +1,30 @@
+[
+  {
+    "word": "Semitic",
+    "syllables": [
+      "Se",
+      "mit",
+      "ic"
+    ],
+    "pronunciation": "səˈmidik",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "Semitic"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to or denoting a family of languages that includes Hebrew, Arabic, and Aramaic and certain ancient languages such as Phoenician and Akkadian, constituting the main subgroup of the Afro-Asiatic family."
+          },
+          {
+            "definition": "relating to the peoples who speak the Semitic languages, especially Hebrew and Arabic."
+          }
+        ]
+      }
+    ]
+  }
+]

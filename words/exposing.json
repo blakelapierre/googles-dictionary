@@ -1,0 +1,116 @@
+[
+  {
+    "word": "expose",
+    "syllables": [
+      "ex",
+      "pose"
+    ],
+    "pronunciation": "ikˈspōz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "exposing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) visible, typically by uncovering it.",
+            "examples": [
+              "at low tide the sands are exposed"
+            ],
+            "synonyms": [
+              "reveal",
+              "uncover",
+              "lay bare \"at low tide",
+              "the sands are exposed\""
+            ],
+            "antonyms": [
+              "cover"
+            ]
+          },
+          {
+            "definition": "leave (something) uncovered or unprotected, especially from the weather.",
+            "examples": [
+              "adjective: exposed"
+            ]
+          },
+          {
+            "definition": "subject (photographic film) to light, especially when operating a camera."
+          },
+          {
+            "definition": "publicly and indecently display one's genitals."
+          },
+          {
+            "definition": "leave or put (someone) in an unprotected and vulnerable state.",
+            "examples": [
+              "Miranda felt exposed and lonely"
+            ],
+            "synonyms": [
+              "make vulnerable to",
+              "subject to",
+              "lay open to",
+              "put at risk of/from",
+              "put in jeopardy of/from \"he was exposed to asbestos\""
+            ],
+            "antonyms": [
+              "protect"
+            ]
+          },
+          {
+            "definition": "cause someone to experience or be at risk of.",
+            "examples": [
+              "he exposed himself unnecessarily to gunfire in the war"
+            ]
+          },
+          {
+            "definition": "make (something embarrassing or damaging) public.",
+            "examples": [
+              "investigations exposed a vast network of illegalities"
+            ]
+          },
+          {
+            "definition": "reveal the true and typically objectionable nature of (someone or something).",
+            "examples": [
+              "he has been exposed as a liar and a traitor"
+            ],
+            "synonyms": [
+              "uncover",
+              "reveal",
+              "unveil",
+              "unmask",
+              "detect",
+              "find out; Morediscover",
+              "bring to light",
+              "bring into the open",
+              "make known; denounce",
+              "condemn; informalspill the beans on",
+              "blow the whistle on \"he was exposed as a liar\""
+            ]
+          },
+          {
+            "definition": "introduce someone to (a subject or area of knowledge).",
+            "examples": [
+              "students were exposed to probability and statistics in high school"
+            ],
+            "synonyms": [
+              "introduce to",
+              "bring into contact with",
+              "make aware of",
+              "familiarize with",
+              "acquaint with \"they were exposed to liberal ideas\""
+            ],
+            "antonyms": [
+              "keep away"
+            ]
+          },
+          {
+            "definition": "leave (a child) in the open to die."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "word": "contract",
+    "syllables": [
+      "con",
+      "tract"
+    ],
+    "pronunciation": "ˈkäntrakt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "contract"
+          },
+          {
+            "part": "plural noun",
+            "variant": "contracts"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "contract"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "contracts"
+          },
+          {
+            "part": "past tense",
+            "variant": "contracted"
+          },
+          {
+            "part": "past participle",
+            "variant": "contracted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "contracting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "decrease in size, number, or range.",
+            "examples": [
+              "glass contracts as it cools"
+            ],
+            "synonyms": [
+              "shrink",
+              "get smaller",
+              "decrease",
+              "diminish",
+              "reduce",
+              "dwindle",
+              "decline \"the market for such goods began to contract\""
+            ],
+            "antonyms": [
+              "expand",
+              "increase"
+            ]
+          },
+          {
+            "definition": "(of a muscle) become shorter or tighter in order to effect movement of part of the body.",
+            "examples": [
+              "the heart is a muscle that contracts about seventy times a minute"
+            ],
+            "synonyms": [
+              "tighten",
+              "tense",
+              "flex",
+              "constrict",
+              "draw in",
+              "narrow More\"her stomach muscles contracted\"wrinkle",
+              "knit",
+              "crease",
+              "purse",
+              "pucker \"she contracted her brow\""
+            ],
+            "antonyms": [
+              "relax"
+            ]
+          },
+          {
+            "definition": "shorten (a word or phrase) by combination or elision.",
+            "examples": [
+              "“quasistellar object” was soon contracted to “quasar.”"
+            ],
+            "synonyms": [
+              "shorten",
+              "abbreviate",
+              "cut",
+              "reduce; elide \"his name was soon contracted to “Rob”\""
+            ],
+            "antonyms": [
+              "expand",
+              "lengthen"
+            ]
+          },
+          {
+            "definition": "enter into a formal and legally binding agreement.",
+            "examples": [
+              "the local authority will contract with a wide range of agencies to provide services"
+            ],
+            "synonyms": [
+              "undertake",
+              "pledge",
+              "promise",
+              "covenant",
+              "commit oneself",
+              "engage",
+              "agree",
+              "enter an agreement",
+              "make a deal \"the company contracted to rebuild the stadium\""
+            ]
+          },
+          {
+            "definition": "secure specified rights or undertake specified obligations in a formal and legally binding agreement.",
+            "examples": [
+              "a buyer may contract for the right to withhold payment"
+            ]
+          },
+          {
+            "definition": "impose an obligation on (someone) to do something by means of a formal agreement.",
+            "examples": [
+              "health authorities contract a hospital to treat a specific number of patients"
+            ]
+          },
+          {
+            "definition": "arrange for work to be done by another organization.",
+            "examples": [
+              "local authorities will have to contract out waste management"
+            ],
+            "synonyms": [
+              "subcontract",
+              "outsource",
+              "farm out \"trash collection is contracted out by the town\""
+            ]
+          },
+          {
+            "definition": "formally enter into (a marriage).",
+            "examples": [
+              "before Fanny met him, he had contracted a disastrous liaison and marriage"
+            ]
+          },
+          {
+            "definition": "enter into (a friendship or other relationship).",
+            "examples": [
+              "the patterns of social relationships contracted by men and women differ"
+            ]
+          },
+          {
+            "definition": "catch or develop (a disease or infectious agent).",
+            "examples": [
+              "three people contracted a killer virus"
+            ],
+            "synonyms": [
+              "develop",
+              "catch",
+              "get",
+              "pick up",
+              "come down with",
+              "be struck down by",
+              "be stricken with",
+              "succumb to \"she contracted rubella\""
+            ]
+          },
+          {
+            "definition": "become liable to pay (a debt).",
+            "examples": [
+              "he contracted a debt of $3,300"
+            ],
+            "synonyms": [
+              "incur",
+              "run up \"he contracted a debt of $3",
+              "300\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

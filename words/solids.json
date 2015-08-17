@@ -1,0 +1,35 @@
+[
+  {
+    "word": "solid",
+    "syllables": [
+      "sol",
+      "id"
+    ],
+    "pronunciation": "ˈsäləd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "solids"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a substance or object that is solid rather than liquid or fluid."
+          },
+          {
+            "definition": "food that is not liquid.",
+            "examples": [
+              "she drinks only milk and rarely eats solids"
+            ]
+          },
+          {
+            "definition": "a body or geometric figure having three dimensions."
+          }
+        ]
+      }
+    ]
+  }
+]

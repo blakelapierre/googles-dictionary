@@ -1,0 +1,199 @@
+[
+  {
+    "word": "pound",
+    "syllables": [
+      "pound"
+    ],
+    "pronunciation": "pound",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pounds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a unit of weight in general use equal to 16 oz. avoirdupois (0.4536 kg)."
+          },
+          {
+            "definition": "a unit of weight equal to 12 oz. troy (0.3732 kg) used for precious metals.",
+            "examples": [
+              "plural noun: pounds sterling"
+            ]
+          },
+          {
+            "definition": "the basic monetary unit of the UK, equal to 100 pence."
+          },
+          {
+            "definition": "another term for punt4."
+          },
+          {
+            "definition": "the basic monetary unit of several Middle Eastern countries, equal to 100 piastres."
+          },
+          {
+            "definition": "the former basic monetary unit of Cyprus, equal to 100 cents."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pound",
+    "syllables": [
+      "pound"
+    ],
+    "pronunciation": "pound",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pounds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strike or hit heavily and repeatedly.",
+            "examples": [
+              "Patrick pounded the couch with his fists"
+            ],
+            "synonyms": [
+              "beat",
+              "strike",
+              "hit",
+              "batter",
+              "thump",
+              "pummel",
+              "punch",
+              "rain blows on",
+              "belabor",
+              "hammer",
+              "thrash",
+              "set on",
+              "tear into; Moreinformalbash",
+              "clobber",
+              "wallop",
+              "beat the living daylights out of",
+              "whack",
+              "thwack",
+              "lay into",
+              "pitch into",
+              "light into",
+              "whale \"the two men pounded him with their fists\"beat against",
+              "crash against",
+              "batter",
+              "dash against",
+              "lash",
+              "buffet \"waves pounded the seafront\"bombard",
+              "bomb",
+              "shell",
+              "fire on; archaiccannonade \"gunships pounded the capital\""
+            ]
+          },
+          {
+            "definition": "crush or grind (something) into a powder or paste by beating it with an instrument such as a pestle.",
+            "examples": [
+              "pound the cloves with salt and pepper until smooth"
+            ],
+            "synonyms": [
+              "crush",
+              "grind",
+              "pulverize",
+              "mill",
+              "mash",
+              "pulp; technicaltriturate \"pound the cloves with salt\""
+            ]
+          },
+          {
+            "definition": "beat, throb, or vibrate with a strong regular rhythm.",
+            "examples": [
+              "her heart was pounding"
+            ],
+            "synonyms": [
+              "throb",
+              "thump",
+              "thud",
+              "hammer",
+              "pulse",
+              "race",
+              "go pit-a-pat; Moreliterarypant",
+              "thrill \"her heart was pounding\""
+            ]
+          },
+          {
+            "definition": "walk or run with heavy steps.",
+            "examples": [
+              "I heard him pounding along the gangway"
+            ],
+            "synonyms": [
+              "walk/run heavily",
+              "stomp",
+              "lumber",
+              "clomp",
+              "clump",
+              "tramp",
+              "tromp",
+              "trudge \"I heard him pounding along the gangway\""
+            ]
+          },
+          {
+            "definition": "defeat (an opponent) in a resounding way.",
+            "examples": [
+              "the Yankees pounded the Red Sox 22–1"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pound",
+    "syllables": [
+      "pound"
+    ],
+    "pronunciation": "pound",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "pounds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a place where stray animals, especially dogs, may be officially taken and kept until claimed by their owners or otherwise disposed of.",
+            "examples": [
+              "enclosure, compound, pen, yard, corral a dog pound"
+            ]
+          },
+          {
+            "definition": "a place where illegally parked motor vehicles removed by the police are kept until their owners pay a fine in order to reclaim them."
+          },
+          {
+            "definition": "a place of confinement; a trap or prison."
+          }
+        ]
+      },
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "pounds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shut (an animal) in a pound."
+          }
+        ]
+      }
+    ]
+  }
+]

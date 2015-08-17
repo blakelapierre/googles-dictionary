@@ -1,0 +1,56 @@
+[
+  {
+    "word": "rely",
+    "syllables": [
+      "re",
+      "ly"
+    ],
+    "pronunciation": "rəˈlī",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "relied"
+          },
+          {
+            "part": "past participle",
+            "variant": "relied"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "depend on with full trust or confidence.",
+            "examples": [
+              "I know I can rely on your discretion"
+            ],
+            "synonyms": [
+              "depend on",
+              "count on",
+              "bank on",
+              "place reliance on",
+              "reckon on; Morebe confident of",
+              "be sure of",
+              "believe in",
+              "have faith in",
+              "trust in; informalswear by",
+              "figure on \"we can rely on his discretion\""
+            ]
+          },
+          {
+            "definition": "be dependent on.",
+            "examples": [
+              "the charity has to rely entirely on public donations"
+            ],
+            "synonyms": [
+              "be dependent on",
+              "depend on",
+              "be unable to manage without \"we rely on government funding\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "illogical",
+    "syllables": [
+      "il",
+      "log",
+      "i",
+      "cal"
+    ],
+    "pronunciation": "i(l)ˈläjək(ə)l",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "illogical"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking sense or clear, sound reasoning.",
+            "examples": [
+              "an illogical fear of the supernatural"
+            ],
+            "synonyms": [
+              "irrational",
+              "unreasonable",
+              "unsound",
+              "unreasoned",
+              "unjustifiable",
+              "groundless",
+              "unfounded; Moreincorrect",
+              "erroneous",
+              "invalid",
+              "spurious",
+              "faulty",
+              "flawed",
+              "fallacious",
+              "unscientific; specious",
+              "sophistic",
+              "casuistic; absurd",
+              "preposterous",
+              "untenable; informalfull of holes",
+              "off the wall \"it is illogical to assume that there will never be a cure for the disease\""
+            ],
+            "antonyms": [
+              "logical"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

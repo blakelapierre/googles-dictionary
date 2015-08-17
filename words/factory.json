@@ -1,0 +1,43 @@
+[
+  {
+    "word": "factory",
+    "syllables": [
+      "fac",
+      "to",
+      "ry"
+    ],
+    "pronunciation": "ˈfakt(ə)rē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "factory"
+          },
+          {
+            "part": "plural noun",
+            "variant": "factories"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+            "examples": [
+              "plant, works, yard, mill, workshop, shop; Moreinformalsweatshop, salt mine(s) \"jobs in the factories were getting harder to find\"Moresweatshop, salt mine(s) jobs in the factories were getting harder to find"
+            ]
+          },
+          {
+            "definition": "a person, group, or institution that continually produces a great quantity of something specified.",
+            "examples": [
+              "a huge factory of lying, slander, and bad English"
+            ]
+          },
+          {
+            "definition": "an establishment for traders carrying on business in a foreign country."
+          }
+        ]
+      }
+    ]
+  }
+]

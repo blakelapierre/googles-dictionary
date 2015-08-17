@@ -1,0 +1,32 @@
+[
+  {
+    "word": "nitrate",
+    "syllables": [
+      "ni",
+      "trate"
+    ],
+    "pronunciation": "ˈnītrātˌnīˈtrāt",
+    "parts": [
+      {
+        "part": "nounChemistry",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "nitrates"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "nitrates"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

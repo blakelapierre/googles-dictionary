@@ -1,0 +1,31 @@
+[
+  {
+    "word": "clause",
+    "syllables": [
+      "clause"
+    ],
+    "pronunciation": "klôz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "clauses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate."
+          },
+          {
+            "definition": "a particular and separate article, stipulation, or proviso in a treaty, bill, or contract.",
+            "examples": [
+              "section, paragraph, article, subsection; Morestipulation, condition, proviso, rider \"a new clause in the treaty\"Morestipulation, condition, proviso, rider a new clause in the treaty"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

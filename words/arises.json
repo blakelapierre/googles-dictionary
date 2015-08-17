@@ -1,0 +1,73 @@
+[
+  {
+    "word": "arise",
+    "syllables": [
+      "a",
+      "rise"
+    ],
+    "pronunciation": "əˈrīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "arises"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a problem, opportunity, or situation) emerge; become apparent.",
+            "examples": [
+              "new difficulties had arisen"
+            ],
+            "synonyms": [
+              "come to light",
+              "become apparent",
+              "appear",
+              "emerge",
+              "crop up",
+              "turn up",
+              "surface",
+              "spring up; Moreoccur; literarybefall",
+              "come to pass \"many problems arose\""
+            ]
+          },
+          {
+            "definition": "come into being; originate.",
+            "examples": [
+              "the practice arose in the nineteenth century"
+            ]
+          },
+          {
+            "definition": "occur as a result of.",
+            "examples": [
+              "most conflicts arise from ignorance or uncertainty"
+            ],
+            "synonyms": [
+              "result",
+              "proceed",
+              "follow",
+              "ensue",
+              "derive",
+              "stem",
+              "originate; be caused by \"injuries arising from defective products\""
+            ]
+          },
+          {
+            "definition": "get or stand up.",
+            "examples": [
+              "he arose at 9:30 and went out for a walk"
+            ],
+            "synonyms": [
+              "stand up",
+              "rise",
+              "get to one's feet",
+              "get up \"the beast arose\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

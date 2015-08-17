@@ -1,0 +1,61 @@
+[
+  {
+    "word": "dribble",
+    "syllables": [
+      "drib",
+      "ble"
+    ],
+    "pronunciation": "ˈdribəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "dribbling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a liquid) fall slowly in drops or a thin stream.",
+            "examples": [
+              "rain dribbled down the window"
+            ],
+            "synonyms": [
+              "trickle",
+              "drip",
+              "fall",
+              "drizzle; Moreooze",
+              "seep \"rainwater dribbled down her face\""
+            ]
+          },
+          {
+            "definition": "pour (a liquid) slowly in drops or a thin stream.",
+            "examples": [
+              "he dribbled cream into his coffee"
+            ]
+          },
+          {
+            "definition": "allow saliva to run from the mouth.",
+            "examples": [
+              "his mouth was open and he was dribbling"
+            ],
+            "synonyms": [
+              "drool",
+              "slaver",
+              "slobber",
+              "salivate",
+              "drivel \"the baby started to dribble\""
+            ]
+          },
+          {
+            "definition": "(chiefly in soccer, field hockey, and basketball) take (the ball) forward past opponents with slight touches of the feet or the stick, or (in basketball) by continuous bouncing.",
+            "examples": [
+              "he attempted to dribble the ball from the goal area"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

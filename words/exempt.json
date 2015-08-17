@@ -1,0 +1,111 @@
+[
+  {
+    "word": "exempt",
+    "syllables": [
+      "ex",
+      "empt"
+    ],
+    "pronunciation": "iɡˈzem(p)t",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "exempt"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "free from an obligation or liability imposed on others.",
+            "examples": [
+              "these patients are exempt from all charges"
+            ],
+            "synonyms": [
+              "free from",
+              "not liable to",
+              "not subject to",
+              "exempted from",
+              "excepted from",
+              "excused of/from",
+              "absolved of \"they are exempt from all charges\""
+            ],
+            "antonyms": [
+              "subject to"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "exempt"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "exempts"
+          },
+          {
+            "part": "past tense",
+            "variant": "exempted"
+          },
+          {
+            "part": "past participle",
+            "variant": "exempted"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "exempting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "free (a person or organization) from an obligation or liability imposed on others.",
+            "examples": [
+              "they were exempted from paying the tax"
+            ],
+            "synonyms": [
+              "free from",
+              "not liable to",
+              "not subject to",
+              "exempted from",
+              "excepted from",
+              "excused of/from",
+              "absolved of More\"they are exempt from all charges\"excuse",
+              "free",
+              "release",
+              "exclude from",
+              "give/grant immunity",
+              "spare",
+              "absolve from; informallet off (the hook)",
+              "grandfather \"he had been exempted from military service\""
+            ],
+            "antonyms": [
+              "subject to"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "exempt"
+          },
+          {
+            "part": "plural noun",
+            "variant": "exempts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who is exempt from something, especially the payment of tax."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "word": "electron",
+    "syllables": [
+      "e",
+      "lec",
+      "tron"
+    ],
+    "pronunciation": "əˈlekˌträn",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "electron"
+          },
+          {
+            "part": "plural noun",
+            "variant": "electrons"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids."
+          }
+        ]
+      }
+    ]
+  }
+]

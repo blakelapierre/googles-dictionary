@@ -1,0 +1,47 @@
+[
+  {
+    "word": "scripture",
+    "syllables": [
+      "scrip",
+      "ture"
+    ],
+    "pronunciation": "ˈskripCHər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scripture"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scriptures"
+          },
+          {
+            "part": "noun",
+            "variant": "Scripture"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Scriptures"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the sacred writings of Christianity contained in the Bible.",
+            "examples": [
+              "passages of scripture"
+            ]
+          },
+          {
+            "definition": "the sacred writings of another religion.",
+            "examples": [
+              "noun: scriptures"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

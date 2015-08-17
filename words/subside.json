@@ -1,0 +1,111 @@
+[
+  {
+    "word": "subside",
+    "syllables": [
+      "sub",
+      "side"
+    ],
+    "pronunciation": "səbˈsīd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "subside"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "subsides"
+          },
+          {
+            "part": "past tense",
+            "variant": "subsided"
+          },
+          {
+            "part": "past participle",
+            "variant": "subsided"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "subsiding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "become less intense, violent, or severe.",
+            "examples": [
+              "I'll wait a few minutes until the storm subsides"
+            ],
+            "synonyms": [
+              "abate",
+              "let up",
+              "quiet down",
+              "calm",
+              "slacken (off)",
+              "ease (up)",
+              "relent",
+              "die down",
+              "recede",
+              "lessen",
+              "soften",
+              "diminish",
+              "decline",
+              "dwindle",
+              "weaken",
+              "fade",
+              "wane",
+              "ebb \"wait until the storm subsides\""
+            ],
+            "antonyms": [
+              "intensify"
+            ]
+          },
+          {
+            "definition": "lapse into silence or inactivity.",
+            "examples": [
+              "Fred opened his mouth to protest again, then subsided"
+            ]
+          },
+          {
+            "definition": "(of water) go down to a lower or the normal level.",
+            "examples": [
+              "the floods subside almost as quickly as they arise"
+            ],
+            "synonyms": [
+              "recede",
+              "ebb",
+              "fall",
+              "go down",
+              "get lower",
+              "abate \"the floodwaters have subsided\""
+            ],
+            "antonyms": [
+              "rise"
+            ]
+          },
+          {
+            "definition": "(of the ground) cave in; sink.",
+            "examples": [
+              "the island is subsiding"
+            ],
+            "synonyms": [
+              "sink",
+              "settle",
+              "cave in",
+              "collapse",
+              "crumple",
+              "give way \"the volcano is gradually subsiding\""
+            ]
+          },
+          {
+            "definition": "(of a swelling) reduce until gone.",
+            "examples": [
+              "it took seven days for the swelling to subside completely"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

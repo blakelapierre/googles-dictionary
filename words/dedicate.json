@@ -1,0 +1,90 @@
+[
+  {
+    "word": "dedicate",
+    "syllables": [
+      "ded",
+      "i",
+      "cate"
+    ],
+    "pronunciation": "ˈdedəˌkāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "dedicate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "dedicates"
+          },
+          {
+            "part": "past tense",
+            "variant": "dedicated"
+          },
+          {
+            "part": "past participle",
+            "variant": "dedicated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "dedicating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "devote (time, effort, or oneself) to a particular task or purpose.",
+            "examples": [
+              "Joan has dedicated her life to animals"
+            ],
+            "synonyms": [
+              "devote",
+              "commit",
+              "pledge",
+              "give",
+              "surrender",
+              "sacrifice; Moreset aside",
+              "allocate",
+              "consign \"she dedicated her life to the sick\""
+            ]
+          },
+          {
+            "definition": "devote (something) to a particular subject or purpose.",
+            "examples": [
+              "you should dedicate a telephone line to each modem you plan to install"
+            ]
+          },
+          {
+            "definition": "cite (a book or other artistic work) as being issued or performed in someone's honor.",
+            "examples": [
+              "the novel is dedicated to the memory of my mother"
+            ],
+            "synonyms": [
+              "inscribe",
+              "address; assign \"a book dedicated to his muse\""
+            ]
+          },
+          {
+            "definition": "formally open or unveil (a building or memorial).",
+            "examples": [
+              "the ex-president came to dedicate a $2.6 million recreation center"
+            ]
+          },
+          {
+            "definition": "ceremonially assign (a church or other building) to a deity or saint.",
+            "examples": [
+              "the parish church is dedicated to St. Paul"
+            ],
+            "synonyms": [
+              "devote",
+              "assign; Morebless",
+              "consecrate",
+              "sanctify; formalhallow \"the chapel was dedicated to the Virgin Mary\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

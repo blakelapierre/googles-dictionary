@@ -1,0 +1,133 @@
+[
+  {
+    "word": "sensitive",
+    "syllables": [
+      "sen",
+      "si",
+      "tive"
+    ],
+    "pronunciation": "ˈsensədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "sensitive"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "quick to detect or respond to slight changes, signals, or influences.",
+            "examples": [
+              "the new method of protein detection was more sensitive than earlier ones"
+            ],
+            "synonyms": [
+              "responsive to",
+              "reactive to",
+              "sentient of",
+              "sensitized to; Moreaware of",
+              "conscious of",
+              "alive to; susceptible to",
+              "affected by",
+              "vulnerable to; attuned to \"she's sensitive to changes in temperature\""
+            ],
+            "antonyms": [
+              "impervious",
+              "unresponsive"
+            ]
+          },
+          {
+            "definition": "easily damaged, injured, or distressed by slight changes.",
+            "examples": [
+              "the committee called for improved protection of wildlife in environmentally sensitive areas"
+            ],
+            "synonyms": [
+              "delicate",
+              "fragile; Moretender",
+              "sore",
+              "raw \"sensitive skin\""
+            ],
+            "antonyms": [
+              "resilient",
+              "tough"
+            ]
+          },
+          {
+            "definition": "(of photographic materials) prepared so as to respond rapidly to the action of light."
+          },
+          {
+            "definition": "(of a market) unstable and liable to quick changes of price because of outside influences."
+          },
+          {
+            "definition": "(of a person or a person's behavior) having or displaying a quick and delicate appreciation of others' feelings.",
+            "examples": [
+              "I pay tribute to the Minister for his sensitive handling of the bill"
+            ],
+            "synonyms": [
+              "tactful",
+              "careful",
+              "thoughtful",
+              "diplomatic",
+              "delicate",
+              "subtle",
+              "kid-glove; Moresympathetic",
+              "compassionate",
+              "understanding",
+              "intuitive",
+              "responsive",
+              "insightful \"the matter needs sensitive handling\""
+            ],
+            "antonyms": [
+              "clumsy"
+            ]
+          },
+          {
+            "definition": "easily offended or upset.",
+            "examples": [
+              "I suppose I shouldn't be so sensitive"
+            ],
+            "synonyms": [
+              "touchy",
+              "oversensitive",
+              "hypersensitive",
+              "easily offended",
+              "easily upset",
+              "easily hurt",
+              "thin-skinned",
+              "defensive; Moreparanoid",
+              "neurotic; informaluptight \"he's sensitive about his bald patch\""
+            ],
+            "antonyms": [
+              "thick-skinned"
+            ]
+          },
+          {
+            "definition": "kept secret or with restrictions on disclosure to avoid endangering security.",
+            "examples": [
+              "he was suspected of passing sensitive information to other countries"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sensitive"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sensitives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who is believed to respond to occult influences."
+          }
+        ]
+      }
+    ]
+  }
+]

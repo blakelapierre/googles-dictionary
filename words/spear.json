@@ -1,0 +1,80 @@
+[
+  {
+    "word": "spear",
+    "syllables": [
+      "spear"
+    ],
+    "pronunciation": "spir",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "spear"
+          },
+          {
+            "part": "plural noun",
+            "variant": "spears"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a weapon with a long shaft and a pointed tip, typically of metal, used for thrusting or throwing.",
+            "examples": [
+              "javelin, lance, assegai, harpoon, bayonet; Moregaff, leister; historicalpike \"a hand-carved ceremonial spear\"Moregaff, leister; pike a hand-carved ceremonial spear"
+            ]
+          },
+          {
+            "definition": "an instrument with a long shaft and barbed tip used for catching fish."
+          },
+          {
+            "definition": "a spearman."
+          },
+          {
+            "definition": "a plant shoot, especially a pointed stem of asparagus or broccoli."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "spear"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "spears"
+          },
+          {
+            "part": "past tense",
+            "variant": "speared"
+          },
+          {
+            "part": "past participle",
+            "variant": "speared"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "spearing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pierce or strike with a spear or other pointed object.",
+            "examples": [
+              "she speared her last French fry with her fork"
+            ]
+          },
+          {
+            "definition": "quickly extend the arm to catch (a fast-moving ball or other object).",
+            "examples": [
+              "he hit a line drive that Bogar speared backhanded"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

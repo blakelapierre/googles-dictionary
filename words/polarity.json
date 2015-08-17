@@ -1,0 +1,55 @@
+[
+  {
+    "word": "polarity",
+    "syllables": [
+      "po",
+      "lar",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "pəˈlerədēpōˈlerədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "polarity"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the property of having poles or being polar.",
+            "examples": [
+              "it exhibits polarity when presented to a magnetic needle"
+            ]
+          },
+          {
+            "definition": "the relative orientation of poles; the direction of a magnetic or electric field.",
+            "examples": [
+              "plural noun: polarities"
+            ]
+          },
+          {
+            "definition": "the state of having two opposite or contradictory tendencies, opinions, or aspects.",
+            "examples": [
+              "the polarity between male and female"
+            ],
+            "synonyms": [
+              "difference",
+              "dichotomy",
+              "separation",
+              "opposition",
+              "contradiction",
+              "antithesis",
+              "antagonism \"the marked polarity of their political positions\""
+            ]
+          },
+          {
+            "definition": "the tendency of living organisms or parts to develop with distinct anterior and posterior (or uppermost and lowermost) ends, or to grow or orient in a particular direction."
+          }
+        ]
+      }
+    ]
+  }
+]

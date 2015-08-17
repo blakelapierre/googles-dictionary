@@ -1,0 +1,31 @@
+[
+  {
+    "word": "cerebrum",
+    "syllables": [
+      "ce",
+      "re",
+      "brum"
+    ],
+    "pronunciation": "səˈrēbrəmˈserə-",
+    "parts": [
+      {
+        "part": "nounAnatomy",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cerebrum"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cerebra"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the principal and most anterior part of the brain in vertebrates, located in the front area of the skull and consisting of two hemispheres, left and right, separated by a fissure. It is responsible for the integration of complex sensory and neural functions and the initiation and coordination of voluntary activity in the body."
+          }
+        ]
+      }
+    ]
+  }
+]

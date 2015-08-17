@@ -1,0 +1,77 @@
+[
+  {
+    "word": "naturally",
+    "syllables": [
+      "nat",
+      "u",
+      "ral",
+      "ly"
+    ],
+    "pronunciation": "ˈnaCH(ə)rəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "naturally"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in a natural manner, in particular.",
+            "examples": [
+              "by nature, by character, inherently, innately, congenitally he's naturally shy"
+            ]
+          },
+          {
+            "definition": "in a normal manner; without distortion or exaggeration.",
+            "examples": [
+              "act naturally"
+            ],
+            "synonyms": [
+              "normally",
+              "in a natural manner/way",
+              "unaffectedly",
+              "spontaneously",
+              "genuinely",
+              "unpretentiously; informalnatural \"try to act naturally\""
+            ],
+            "antonyms": [
+              "self-consciously"
+            ]
+          },
+          {
+            "definition": "as a natural result.",
+            "examples": [
+              "one leads naturally into the other"
+            ]
+          },
+          {
+            "definition": "without special help or intervention.",
+            "examples": [
+              "naturally curly hair"
+            ]
+          },
+          {
+            "definition": "as may be expected; of course.",
+            "examples": [
+              "naturally, I hoped for the best"
+            ],
+            "synonyms": [
+              "of course",
+              "as might be expected",
+              "needless to say; Moreobviously",
+              "clearly",
+              "it goes without saying \"naturally",
+              "they wanted everything kept quiet\""
+            ],
+            "antonyms": [
+              "surprisingly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

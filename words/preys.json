@@ -1,0 +1,73 @@
+[
+  {
+    "word": "prey",
+    "syllables": [
+      "prey"
+    ],
+    "pronunciation": "prā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "preys"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "hunt and kill for food.",
+            "examples": [
+              "small birds that prey on insect pests"
+            ],
+            "synonyms": [
+              "hunt",
+              "predate",
+              "catch; Moreeat",
+              "feed on",
+              "live on/off \"certain larvae prey on aphids\""
+            ]
+          },
+          {
+            "definition": "take advantage of; exploit or injure.",
+            "examples": [
+              "this is a mean type of theft by ruthless people preying on the elderly"
+            ],
+            "synonyms": [
+              "exploit",
+              "victimize",
+              "pick on",
+              "take advantage of; Moretrick",
+              "swindle",
+              "cheat",
+              "hoodwink",
+              "fleece; informalcon \"they prey on the elderly\""
+            ]
+          },
+          {
+            "definition": "cause constant trouble and distress to.",
+            "examples": [
+              "the problem had begun to prey on my mind"
+            ],
+            "synonyms": [
+              "oppress",
+              "weigh on",
+              "weigh heavily on",
+              "lie heavy on",
+              "gnaw at; Moretrouble",
+              "worry",
+              "beset",
+              "disturb",
+              "distress",
+              "haunt",
+              "nag",
+              "torment",
+              "plague",
+              "obsess \"the problem preyed on his mind\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

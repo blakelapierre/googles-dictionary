@@ -1,0 +1,33 @@
+[
+  {
+    "word": "bedspread",
+    "syllables": [
+      "bed",
+      "spread"
+    ],
+    "pronunciation": "ˈbedˌspred",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bedspread"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bedspreads"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a decorative cloth used to cover a bed.",
+            "examples": [
+              "comforter, coverlet, quilt, duvet, blanket; Morespread, bedcover; datedcounterpane \"a plaid bedspread\"Morespread, bedcover; counterpane a plaid bedspread"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "immature",
+    "syllables": [
+      "im",
+      "ma",
+      "ture"
+    ],
+    "pronunciation": "ˌiməˈCHo͝orˌiməˈto͝or",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "immature"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "not fully developed.",
+            "examples": [
+              "many of the fish caught are immature"
+            ],
+            "synonyms": [
+              "unripe",
+              "not mature",
+              "premature",
+              "unmellowed; Moreundeveloped",
+              "unformed",
+              "unfinished",
+              "raw",
+              "embryonic \"an immature Stilton cheese\""
+            ],
+            "antonyms": [
+              "ripe"
+            ]
+          },
+          {
+            "definition": "having or showing emotional or intellectual development appropriate to someone younger.",
+            "examples": [
+              "his immature sense of humor"
+            ],
+            "synonyms": [
+              "childish",
+              "babyish",
+              "infantile",
+              "juvenile",
+              "adolescent",
+              "puerile",
+              "sophomoric",
+              "jejune",
+              "callow",
+              "green",
+              "tender",
+              "young",
+              "inexperienced",
+              "unsophisticated",
+              "unworldly",
+              "naive; Moreyouthful",
+              "boyish",
+              "girlish; informalwet behind the ears \"an extremely immature girl\""
+            ],
+            "antonyms": [
+              "mature",
+              "worldly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

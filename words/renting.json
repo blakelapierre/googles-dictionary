@@ -1,0 +1,50 @@
+[
+  {
+    "word": "rent",
+    "syllables": [
+      "rent"
+    ],
+    "pronunciation": "rent",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "renting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pay someone for the use of (something, typically property, land, or a car).",
+            "examples": [
+              "they rented a house together in Spain"
+            ],
+            "synonyms": [
+              "lease",
+              "charter \"she rented a car\""
+            ]
+          },
+          {
+            "definition": "(of an owner) let someone use (something) in return for payment.",
+            "examples": [
+              "he purchased a large tract of land and rented out most of it to local farmers"
+            ],
+            "synonyms": [
+              "let (out)",
+              "lease (out)",
+              "hire (out); Moresublet",
+              "sublease \"why don't you rent it out ?\""
+            ]
+          },
+          {
+            "definition": "be let or hired out at a specified rate.",
+            "examples": [
+              "skis or snowboards rent for $60–80 for six days"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

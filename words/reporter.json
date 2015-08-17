@@ -1,0 +1,34 @@
+[
+  {
+    "word": "reporter",
+    "syllables": [
+      "re",
+      "port",
+      "er"
+    ],
+    "pronunciation": "rəˈpôrdər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reporter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "reporters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who reports, especially one employed to report news or conduct interviews for newspapers or broadcasts.",
+            "examples": [
+              "journalist, correspondent, newspaperman, newspaperwoman, newsman, newswoman, columnist, pressman; Moreinformalnewshound, hack, stringer, journo, newsie \"my client has been instructed not to talk to reporters\"Morenewshound, hack, stringer, journo, newsie my client has been instructed not to talk to reporters"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

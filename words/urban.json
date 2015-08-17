@@ -1,0 +1,54 @@
+[
+  {
+    "word": "urban",
+    "syllables": [
+      "ur",
+      "ban"
+    ],
+    "pronunciation": "ˈərbən",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "urban"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "in, relating to, or characteristic of a city or town.",
+            "examples": [
+              "the urban population"
+            ],
+            "synonyms": [
+              "town",
+              "city",
+              "municipal",
+              "civic",
+              "metropolitan",
+              "built-up",
+              "inner-city",
+              "downtown",
+              "suburban; Moreurbanized",
+              "citified",
+              "townie \"crime rates are significantly higher in urban areas\""
+            ],
+            "antonyms": [
+              "rural"
+            ]
+          },
+          {
+            "definition": "denoting or relating to popular dance music of black origin.",
+            "examples": [
+              "a party that features the best in urban music"
+            ]
+          },
+          {
+            "definition": "denoting popular black culture in general."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "word": "statue",
+    "syllables": [
+      "stat",
+      "ue"
+    ],
+    "pronunciation": "ˈstaCHo͞o",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "statue"
+          },
+          {
+            "part": "plural noun",
+            "variant": "statues"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a carved or cast figure of a person or animal, especially one that is life-size or larger.",
+            "examples": [
+              "sculpture, figure, effigy, statuette, figurine, idol; Morecarving, bronze, graven image, model; bust, head \"a statue of Alexander Hamilton\"Morecarving, bronze, graven image, model; bust, head a statue of Alexander Hamilton"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

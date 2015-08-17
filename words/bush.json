@@ -1,0 +1,171 @@
+[
+  {
+    "word": "bush",
+    "syllables": [
+      "bush"
+    ],
+    "pronunciation": "bo͝oSH",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bush"
+          },
+          {
+            "part": "plural noun",
+            "variant": "bushes"
+          },
+          {
+            "part": "noun",
+            "variant": "the bush"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shrub or clump of shrubs with stems of moderate length.",
+            "examples": [
+              "a rose bush"
+            ],
+            "synonyms": [
+              "shrub",
+              "brier; Moreundergrowth",
+              "shrubbery \"a rose bush\""
+            ]
+          },
+          {
+            "definition": "(especially in Australia, Africa, and Canada) wild or uncultivated country.",
+            "examples": [
+              "they have to spend a night camping in the bush"
+            ],
+            "synonyms": [
+              "wilds",
+              "wilderness",
+              "forest",
+              "woodland",
+              "timberland",
+              "bush country",
+              "bushland; Morebackwoods",
+              "hinterland(s)",
+              "backcountry",
+              "backlands; informalthe sticks",
+              "boondocks",
+              "boonies \"out in the bush\""
+            ]
+          },
+          {
+            "definition": "vegetation growing in the bush.",
+            "examples": [
+              "the lowland country was covered in thick bush"
+            ]
+          },
+          {
+            "definition": "a luxuriant growth of thick hair or fur.",
+            "examples": [
+              "a childish face with a bush of bright hair"
+            ]
+          },
+          {
+            "definition": "a woman's pubic hair."
+          }
+        ]
+      },
+      {
+        "part": "adjectiveinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "bush"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "short for bush league."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bush"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bushes"
+          },
+          {
+            "part": "past tense",
+            "variant": "bushed"
+          },
+          {
+            "part": "past participle",
+            "variant": "bushed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bushing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spread out into a thick clump.",
+            "examples": [
+              "her hair bushed out like a halo"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bushing",
+    "syllables": [
+      "bush",
+      "ing"
+    ],
+    "pronunciation": "ˈbo͝oSHiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "mulga",
+    "syllables": [
+      "mul",
+      "ga"
+    ],
+    "pronunciation": "ˈməlɡə",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "bush"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small Australian acacia tree or shrub with grayish foliage, forming dense scrubby growth and yielding brown and yellow timber."
+          },
+          {
+            "definition": "an area of scrub or bush dominated by the mulga plant."
+          },
+          {
+            "definition": "the outback.",
+            "examples": [
+              "noun: the mulga"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

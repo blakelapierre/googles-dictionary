@@ -1,0 +1,115 @@
+[
+  {
+    "word": "rubbish",
+    "syllables": [
+      "rub",
+      "bish"
+    ],
+    "pronunciation": "ˈrəbiSH",
+    "parts": [
+      {
+        "part": "nounBritish",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "rubbish"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "waste material; refuse or litter.",
+            "examples": [
+              "an alleyway high with rubbish"
+            ]
+          },
+          {
+            "definition": "material that is considered unimportant or valueless.",
+            "examples": [
+              "she had to sift through the rubbish in every drawer"
+            ]
+          },
+          {
+            "definition": "absurd, nonsensical, or worthless talk or ideas.",
+            "examples": [
+              "I suppose you believe that rubbish about vampires"
+            ],
+            "synonyms": [
+              "nonsense",
+              "balderdash",
+              "gibberish",
+              "claptrap",
+              "blarney",
+              "moonshine",
+              "garbage; Moreinformalhogwash",
+              "baloney",
+              "jive",
+              "guff",
+              "tripe",
+              "drivel",
+              "bilge",
+              "bunk",
+              "BS",
+              "piffle",
+              "poppycock",
+              "hooey",
+              "twaddle",
+              "gobbledygook",
+              "flapdoodle; vulgar slangcrapola; datedbunkum",
+              "tommyrot \"she's talking rubbish\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbBritishinformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "rubbish"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "rubbishes"
+          },
+          {
+            "part": "past tense",
+            "variant": "rubbished"
+          },
+          {
+            "part": "past participle",
+            "variant": "rubbished"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "rubbishing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "criticize severely and reject as worthless.",
+            "examples": [
+              "he has pointedly rubbished professional estimates of the development and running costs"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjectiveBritishinformal",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "rubbish"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "very bad; worthless or useless.",
+            "examples": [
+              "people might say I was a rubbish manager"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

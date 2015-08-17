@@ -1,0 +1,85 @@
+[
+  {
+    "word": "deter",
+    "syllables": [
+      "de",
+      "ter"
+    ],
+    "pronunciation": "dəˈtər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "deter"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "deters"
+          },
+          {
+            "part": "past tense",
+            "variant": "deterred"
+          },
+          {
+            "part": "past participle",
+            "variant": "deterred"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "deterring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "discourage (someone) from doing something, typically by instilling doubt or fear of the consequences.",
+            "examples": [
+              "only a health problem would deter him from seeking re-election"
+            ],
+            "synonyms": [
+              "discourage",
+              "dissuade",
+              "put off",
+              "scare off; Moredishearten",
+              "demoralize",
+              "daunt",
+              "intimidate; disincentivize \"the high cost deterred many\""
+            ],
+            "antonyms": [
+              "encourage"
+            ]
+          },
+          {
+            "definition": "prevent the occurrence of.",
+            "examples": [
+              "strategists think not only about how to deter war, but about how war might occur"
+            ],
+            "synonyms": [
+              "prevent",
+              "stop",
+              "avert",
+              "fend off",
+              "stave off",
+              "ward off",
+              "block",
+              "halt",
+              "check; Morehinder",
+              "impede",
+              "hamper",
+              "obstruct",
+              "foil",
+              "forestall",
+              "counteract",
+              "inhibit",
+              "curb \"the presence of a guard deters crime\""
+            ],
+            "antonyms": [
+              "encourage"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

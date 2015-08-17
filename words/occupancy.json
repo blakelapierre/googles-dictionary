@@ -1,0 +1,50 @@
+[
+  {
+    "word": "occupancy",
+    "syllables": [
+      "oc",
+      "cu",
+      "pan",
+      "cy"
+    ],
+    "pronunciation": "ˈäkyəpənsē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "occupancy"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or fact of occupying a place.",
+            "examples": [
+              "the house is finally ready for occupancy"
+            ],
+            "synonyms": [
+              "occupation",
+              "tenancy",
+              "tenure",
+              "residence",
+              "residency",
+              "inhabitation",
+              "habitation",
+              "living",
+              "lease",
+              "holding",
+              "possession; formaldwelling \"our occupancy is temporary\""
+            ]
+          },
+          {
+            "definition": "the proportion of accommodations occupied or in use, typically in a hotel.",
+            "examples": [
+              "plural noun: occupancies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

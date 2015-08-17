@@ -1,0 +1,91 @@
+[
+  {
+    "word": "moss",
+    "syllables": [
+      "moss"
+    ],
+    "pronunciation": "môs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "moss"
+          },
+          {
+            "part": "plural noun",
+            "variant": "mosses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small flowerless green plant that lacks true roots, growing in low carpets or rounded cushions in damp habitats and reproducing by means of spores released from stalked capsules.",
+            "examples": [
+              "the trees are overgrown with vines and moss"
+            ]
+          },
+          {
+            "definition": "used in names of algae, lichens, and higher plants resembling moss, e.g., reindeer moss, Ceylon moss, Spanish moss."
+          },
+          {
+            "definition": "a bog, especially a peat bog."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "moss"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "mosses"
+          },
+          {
+            "part": "past tense",
+            "variant": "mossed"
+          },
+          {
+            "part": "past participle",
+            "variant": "mossed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "mossing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cover with moss."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "moss green",
+    "syllables": [
+      "moss green"
+    ],
+    "pronunciation": "",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "moss"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a bright green color like that of moss."
+          }
+        ]
+      }
+    ]
+  }
+]

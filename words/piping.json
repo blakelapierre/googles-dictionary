@@ -1,0 +1,129 @@
+[
+  {
+    "word": "piping",
+    "syllables": [
+      "pip",
+      "ing"
+    ],
+    "pronunciation": "ˈpīpiNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "piping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lengths of pipe, or a network of pipes, made of metal, plastic, or other materials."
+          },
+          {
+            "definition": "ornamentation on food consisting of lines of icing, whipped cream, etc."
+          },
+          {
+            "definition": "thin cord covered in fabric, used to decorate clothing or soft furnishings and reinforce seams."
+          },
+          {
+            "definition": "the action or art of playing a pipe or pipes."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "piping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a voice or sound) high-pitched."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pipe",
+    "syllables": [
+      "pipe"
+    ],
+    "pronunciation": "pīp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "piping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "convey (water, gas, oil, or other fluid substances) through a pipe or pipes.",
+            "examples": [
+              "water from the lakes is piped to several towns"
+            ],
+            "synonyms": [
+              "siphon",
+              "feed",
+              "channel",
+              "run",
+              "convey \"the beer is piped into barrels\""
+            ]
+          },
+          {
+            "definition": "transmit (music, a radio or television program, signals, etc.) by wire or cable.",
+            "examples": [
+              "transmit, feed, patch television shows piped in from New York"
+            ]
+          },
+          {
+            "definition": "play (a tune) on a pipe or pipes.",
+            "examples": [
+              "play on a pipe, tootle, whistle; flute he heard a tune being piped"
+            ]
+          },
+          {
+            "definition": "(of a bird) sing in a high or shrill voice.",
+            "examples": [
+              "chirp, cheep, chirrup, twitter, warble, trill, peep, sing, shrill a curlew piped"
+            ]
+          },
+          {
+            "definition": "say something in a high, shrill voice.",
+            "examples": [
+              "“No, ma'am,” piped Lucy"
+            ],
+            "synonyms": [
+              "chirp",
+              "cheep",
+              "chirrup",
+              "twitter",
+              "warble",
+              "trill",
+              "peep",
+              "sing",
+              "shrill \"a curlew piped\""
+            ]
+          },
+          {
+            "definition": "use a boatswain's whistle to summon (the crew) to work or a meal.",
+            "examples": [
+              "the hands were piped to breakfast"
+            ]
+          },
+          {
+            "definition": "decorate (clothing or soft furnishings) with a thin cord covered in fabric."
+          },
+          {
+            "definition": "put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc."
+          }
+        ]
+      }
+    ]
+  }
+]

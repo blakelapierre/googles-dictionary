@@ -1,0 +1,156 @@
+[
+  {
+    "word": "limp",
+    "syllables": [
+      "limp"
+    ],
+    "pronunciation": "limp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "limp"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "limps"
+          },
+          {
+            "part": "past tense",
+            "variant": "limped"
+          },
+          {
+            "part": "past participle",
+            "variant": "limped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "limping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "walk with difficulty, typically because of a damaged or stiff leg or foot.",
+            "examples": [
+              "he limped heavily as he moved"
+            ],
+            "synonyms": [
+              "hobble",
+              "walk with a limp",
+              "walk lamely",
+              "walk unevenly",
+              "walk haltingly",
+              "hitch",
+              "falter",
+              "stumble",
+              "lurch \"she limped out of the house\""
+            ]
+          },
+          {
+            "definition": "(of a damaged ship, aircraft, or vehicle) proceed with difficulty.",
+            "examples": [
+              "the badly damaged aircraft limped back to Sicily"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "limp"
+          },
+          {
+            "part": "plural noun",
+            "variant": "limps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a tendency to limp; a gait impeded by injury or stiffness.",
+            "examples": [
+              "he walked with a limp"
+            ],
+            "synonyms": [
+              "lameness",
+              "a hobble",
+              "an uneven gait; claudication \"walking with a limp\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "limp",
+    "syllables": [
+      "limp"
+    ],
+    "pronunciation": "limp",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "limp"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lacking internal strength or structure; not stiff or firm.",
+            "examples": [
+              "she let her whole body go limp"
+            ],
+            "synonyms": [
+              "soft",
+              "flaccid",
+              "loose",
+              "slack",
+              "lax; Morefloppy",
+              "drooping",
+              "droopy",
+              "sagging \"a limp handshake\""
+            ],
+            "antonyms": [
+              "firm"
+            ]
+          },
+          {
+            "definition": "having or denoting a book cover that is not stiffened with board."
+          },
+          {
+            "definition": "without energy or will.",
+            "examples": [
+              "he was feeling too limp to argue"
+            ],
+            "synonyms": [
+              "soft",
+              "flaccid",
+              "loose",
+              "slack",
+              "lax; Morefloppy",
+              "drooping",
+              "droopy",
+              "sagging \"a limp handshake\"tired",
+              "fatigued",
+              "weary",
+              "exhausted",
+              "worn out; lethargic",
+              "listless",
+              "spiritless",
+              "weak \"he was feeling too limp to argue\""
+            ],
+            "antonyms": [
+              "firm",
+              "energetic"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

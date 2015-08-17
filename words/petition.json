@@ -1,0 +1,109 @@
+[
+  {
+    "word": "petition",
+    "syllables": [
+      "pe",
+      "ti",
+      "tion"
+    ],
+    "pronunciation": "pəˈtiSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "petition"
+          },
+          {
+            "part": "plural noun",
+            "variant": "petitions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a formal written request, typically one signed by many people, appealing to authority with respect to a particular cause.",
+            "examples": [
+              "she was asked to sign a petition against plans to build on the local playing fields"
+            ],
+            "synonyms": [
+              "appeal",
+              "round robin \"more than 1",
+              "000 people signed the petition\""
+            ]
+          },
+          {
+            "definition": "an appeal or request, especially a solemn or humble one to a deity or a superior.",
+            "examples": [
+              "entreaty, supplication, plea, prayer, appeal, request, invocation, suit; orison petitions to Allah"
+            ]
+          },
+          {
+            "definition": "an application to a court for a writ, judicial action in a suit, etc.",
+            "examples": [
+              "a divorce petition"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "petition"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "petitions"
+          },
+          {
+            "part": "past tense",
+            "variant": "petitioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "petitioned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "petitioning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or present a formal request to (an authority) with respect to a particular cause.",
+            "examples": [
+              "Americans who moved west petitioned Congress for admission to the Union as states"
+            ],
+            "synonyms": [
+              "appeal to",
+              "request",
+              "ask",
+              "call on",
+              "entreat",
+              "beg",
+              "implore",
+              "plead with",
+              "apply to",
+              "press",
+              "urge; Moreformaladjure; literarybeseech \"they petitioned the governor to revoke the decision\""
+            ]
+          },
+          {
+            "definition": "make a solemn or humble appeal to (a figure of authority).",
+            "examples": [
+              "Russell petitioned her father for her hand in marriage"
+            ]
+          },
+          {
+            "definition": "make a formal application to (a court) for a writ, judicial action in a suit, etc.",
+            "examples": [
+              "the custodial parent petitioned the court for payment of the arrears"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

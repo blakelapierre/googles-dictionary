@@ -1,0 +1,81 @@
+[
+  {
+    "word": "underuse",
+    "syllables": [
+      "un",
+      "der",
+      "use"
+    ],
+    "pronunciation": "ˌəndərˈyo͞ozˌəndərˈyo͞os",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "underuse"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "underuses"
+          },
+          {
+            "part": "past tense",
+            "variant": "underused"
+          },
+          {
+            "part": "past participle",
+            "variant": "underused"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "underusing"
+          },
+          {
+            "part": "verb",
+            "variant": "under-use"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "under-uses"
+          },
+          {
+            "part": "past tense",
+            "variant": "under-used"
+          },
+          {
+            "part": "past participle",
+            "variant": "under-used"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "under-using"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "underuse"
+          },
+          {
+            "part": "plural noun",
+            "variant": "underuses"
+          },
+          {
+            "part": "noun",
+            "variant": "under-use"
+          },
+          {
+            "part": "plural noun",
+            "variant": "under-uses"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

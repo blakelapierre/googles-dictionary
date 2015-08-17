@@ -1,0 +1,99 @@
+[
+  {
+    "word": "encounter",
+    "syllables": [
+      "en",
+      "coun",
+      "ter"
+    ],
+    "pronunciation": "inˈkoun(t)ərenˈkoun(t)ər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "encounter"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "encounters"
+          },
+          {
+            "part": "past tense",
+            "variant": "encountered"
+          },
+          {
+            "part": "past participle",
+            "variant": "encountered"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "encountering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unexpectedly experience or be faced with (something difficult or hostile).",
+            "examples": [
+              "we have encountered one small problem"
+            ],
+            "synonyms": [
+              "experience",
+              "hit",
+              "run into",
+              "come up against",
+              "face",
+              "be faced with",
+              "confront \"we encountered a slight problem\""
+            ]
+          },
+          {
+            "definition": "meet (someone) unexpectedly.",
+            "examples": [
+              "meet, meet by chance, run into, come across/upon, stumble across/on/upon, chance on/upon, happen on/upon; bump into I encountered a teacher I used to know"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "encounter"
+          },
+          {
+            "part": "plural noun",
+            "variant": "encounters"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an unexpected or casual meeting with someone or something.",
+            "examples": [
+              "meeting, chance meeting an unexpected encounter"
+            ]
+          },
+          {
+            "definition": "a confrontation or unpleasant struggle.",
+            "examples": [
+              "his close encounter with death"
+            ],
+            "synonyms": [
+              "battle",
+              "fight",
+              "clash",
+              "confrontation",
+              "struggle",
+              "skirmish",
+              "engagement; Moreinformalrun-in",
+              "set-to",
+              "scrap \"a violent encounter between police and demonstrators\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

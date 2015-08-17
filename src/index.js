@@ -1,15 +1,20 @@
- let request = require('request'),
+require('./util/promisePolyfill');
+
+let request = require('request'),
     cheerio = require('cheerio'),
     fs = require('fs'),
     path = require('path'),
     util = require('util'),
     _ = require('lodash'),
-    g = require('generator-trees').g;
+    g = require('generator-trees').g,
+    { ratelimit } = require('./util/ratelimit'),
+    { constant } = require('./util/distributions/constant'),
+    { or } = require('./util/promisePolyfill');
 
 let htmlDirectory = 'html',
     wordsDirectory = 'words';
 
-let workList = ['define', 'right', 'food'];
+let wordList = ['define', 'right', 'food'];
 
 let dictionary = {};
 
@@ -19,9 +24,9 @@ if (!fs.existsSync(htmlDirectory)) fs.mkdirSync(htmlDirectory);
 if (!fs.existsSync(wordsDirectory)) fs.mkdirSync(wordsDirectory);
 
 sync(
-  g.map(g.modifiableStack(workList), processWord),
+  g.map(g.modifiableStack(wordList), processWord),
   (result, count) => {
-    console.log(count, 'words processed,', workList.length, 'words remaining');
+    console.log(count, 'words processed,', wordList.length, 'words remaining');
   },
   error => console.log('Process error', error)
 ).then(
@@ -33,9 +38,39 @@ sync(
   error => console.log('Error', util.inspect(error))
 );
 
+
+// let work = ratelimit(1000, constant)
+//   .per
+//     .hour(g.map(g.modifiableStackAlt(wordList), processWord))
+//   .sync(notify, notifyError);
+// console.log('work', work);
+//   // work.then(success, failed);
+
+//   work.then(result => console.log('woah', result), error => console.log('woah', error));
+
+console.log('done. i\'m out!');
+
+function notify(result, count) {
+  console.log(count, 'words processed,', wordList.length, 'words remaining');
+}
+
+function notifyError(error) {
+  console.log('Process error', error);
+}
+
+function success(count) {
+  console.log('Defined', count, 'words');
+  console.log('Writing dictionary');
+  fs.writeFileSync('dictionary.json', JSON.stringify(dictionary, null, '  '));
+}
+
+function failed(error) {
+  console.error('Error', error.stack);
+}
+
 // async(
 //   1,
-//   g.map(g.modifiableStack(workList), word => {
+//   g.map(g.modifiableStack(wordList), word => {
 //     return new Promise((resolve, reject) => {
 //       console.log(word);
 //       resolve(word);
@@ -51,48 +86,90 @@ sync(
 // );
 
 function processWord(word) {
-  return getWordHtml(word)
-                        .then(processHtml)
-                        .then(storeWord)
-                        .then(writeWordJSON)
-                        .then(addNewWords);
+  console.log('processWord');
+  return getWordHtml(word).then(processHtml)
+                          // .then([storeWord, writeWordJSON, addNewWords]);
+                        .then(storeWord(word))
+                        .then(writeWordJSON(word))
+                        .then(addNewWords(word));
 
   function getWordHtml(word) {
-    return new Promise((resolve, reject) => {
       let nonce = 0;
-      readWordFromFile(word)
-        .then(
-          resolve,
-          error => {
-            console.log('Requesting definition for', word, '...');
-            request({
-              url: 'https://google.com/search?q=define+' + word,
-              headers: {
-                'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 ' + (nonce++)
-              }
-            }, (error, response, html) => {
-              console.log('Received definition for', word, '; processing...');
-              if (error) reject(error);
-              resolve(html);
-            });
-          }
-        );
+      return new Promise((resolve, reject) => {
+        readWordFromFile(word)
+          .then(
+            result => {
+              console.log('result', result);
+              resolve(result);
+            },
+            error => {
+              console.log('Requesting definition for', word, '...');
+              request({
+                url: 'https://google.com/search?q=define+' + word,
+                headers: {
+                  'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 ' + (nonce++)
+                }
+              }, (error, response, html) => {
+                console.log('Received definition for', word, '; processing...');
+                if (error) reject(error);
+                resolve(html);
+              });
+            }
+          );
+    });
+    // return or([readWordFromFile, getWordFromGoogle], word);
+    // return readWordFromFile(word).or(getWordFromGoogle, word);
+  }
+
+  function readWordFromFile(word) {
+    console.log('finding', word);
+    let promise = new Promise((resolve, reject) => {
+      fs.readFile(getWordFileName(word), (error, data) => {
+        if (error) {
+          console.log('read error', error);
+          reject(error);
+        }
+        else {
+          console.log('found', word);
+          resolve(data.toString());
+        }
+      });
+    });
+    console.log('promise', promise);
+    return promise;
+  }
+
+  function getWordFromGoogle(word) {
+    console.log('Requesting definition for', word, '...');
+    return new Promise((resolve, reject) => {
+      request({
+        url: 'https://google.com/search?q=define+' + word,
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
+        }
+      }, (error, response, html) => {
+        console.log('Received definition for', word, '; processing...');
+        if (error) reject(error);
+        else resolve(html);
+      });
     });
   }
 
+
   function processHtml(html) {
+    console.log('processing html');
     return new Promise((resolve, reject) => {
       let $ = cheerio.load(html);
 
       fs.writeFile(getWordFileName(word), html, error => {
         if (error) reject(error);
 
-        let definitions = extractDefinitions($, word);
+        let definitions = extract($, word);
         if (definitions.length > 0) resolve(definitions);
         else reject('Did not find any definitions for ' + word);
       });
 
-      function extractDefinitions($, word) {
+      function extract($, word) {
         return $('.lr_dct_ent')
                 .map(extractEntry)
                 .get();
@@ -152,62 +229,55 @@ function processWord(word) {
 
         function extractDefinitions(definitions) {
           return definitions
-                            .find('ol.lr_dct_sf_sens li [data-dobid="dfn"]')
-                            .map((index, element) => {
-                              let definition = $(element),
-                                  examples = definition.next().find('span').text();
+                  .find('ol.lr_dct_sf_sens li [data-dobid="dfn"]')
+                  .map((index, element) => {
+                    let definition = $(element),
+                        examples = definition.next().find('span').text();
 
-                              // The next element could by synonyms or antonyms, let's check!
-                              let nyms = definition.next().next(),
-                                  text = nyms.text(),
-                                  parts = text.split(':'),
-                                  synonyms,
-                                  antonyms;
+                    // The next element could be synonyms or antonyms, let's check!
+                    let nyms = definition.next().next(),
+                        text = nyms.text(),
+                        parts = text.split(':'),
+                        synonyms,
+                        antonyms;
 
 
-                              if (parts[0] == 'synonyms') {
-                                synonyms = _.map(parts[1].split(','), word => word.trim());
+                    if (parts[0] == 'synonyms') {
+                      synonyms = _.map(parts[1].split(','), word => word.trim());
 
-                                nyms = definition.next().next().next();
-                                text = nyms.text();
-                                parts = text.split(':');
-                                // fall through!
-                              }
+                      nyms = definition.next().next().next();
+                      text = nyms.text();
+                      parts = text.split(':');
+                      // fall through!
+                    }
 
-                              if (parts[0] == 'antonyms') {
-                                antonyms = _.map(parts[1].split(','), word => word.trim());
-                              }
+                    if (parts[0] == 'antonyms') {
+                      antonyms = _.map(parts[1].split(','), word => word.trim());
+                    }
 
-                              let ret = {
-                                definition: definition.text()
-                              };
+                    let ret = {
+                      definition: definition.text()
+                    };
 
-                              if (examples.length > 0) ret.examples = [examples];
-                              if (synonyms) ret.synonyms = synonyms;
-                              if (antonyms) ret.antonyms = antonyms;
+                    if (examples.length > 0) ret.examples = [examples];
+                    if (synonyms) ret.synonyms = synonyms;
+                    if (antonyms) ret.antonyms = antonyms;
 
-                              return ret;
-                            }).get();
+                    return ret;
+                  })
+                  .get();
         }
       }
     });
   }
 
-  function readWordFromFile(word) {
-    return new Promise((resolve, reject) => {
-      fs.readFile(getWordFileName(word), (error, data) => {
-        if (error) reject(error);
-        else resolve(data.toString());
-      });
-    });
-  }
-
   function storeWord(definition) {
+    console.log('storing word');
     var added = [word];
 
     dictionary[word] = definition;
     _.each(definition, d => {
-      if (dictionary[d.word] == undefined) {
+      if (dictionary[d.word] === undefined) {
         dictionary[d.word] = d;
         added.push(d.word);
       }
@@ -244,10 +314,10 @@ function processWord(word) {
       // console.log('Attempting to add words', words);
       _.each(words, word => {
         if (word && word.length > 0 &&
-            dictionary[word] == undefined &&
-            !_.contains(workList, word)) {
+            dictionary[word] === undefined &&
+            !_.contains(wordList, word)) {
 
-          workList.push(word);
+          wordList.push(word);
         }
       });
     }
@@ -335,11 +405,42 @@ function sync(generator, notify, notifyError) {
           },
           notifyError ? error : reject);
 
-      function error(error) {
+      function error(e) {
         count++;
-        notifyError(error);
+        notifyError(e);
         if (done) resolve(count);
         else process(generator);
+      }
+    }
+  });
+}
+
+function pipe(generator, notify, notifyError) {
+  return new Promise((resolve, reject) => {
+    process(generator);
+
+    function process(generator) {
+      let {value, done} = generator.next();
+
+      value
+        .then(
+          next,
+          error);
+          //notifyError ? error : reject);
+
+      function next(result, done) {
+        notify(result);
+        if (done) resolve(result);
+        else process(generator);
+      }
+
+      function error(e) {
+        if (!notifyError) reject(e);
+        else {
+          notifyError(e);
+          if (done) resolve(count);
+          else process(generator);
+        }
       }
     }
   });
@@ -367,19 +468,19 @@ function async(maxConcurrent, generator, notify, notifyError) {
             running--;
             notify(result, count);
             if (!finished) process(generator);
-            else if (running == 0) resolve(count);
+            else if (running === 0) resolve(count);
           },
           notifyError ? error : reject);
 
       if (running < maxConcurrent) process(generator);
     }
 
-    function error(error) {
+    function error(e) {
       running--;
       count++;
-      notifyError(error);
+      notifyError(e);
       if (!finished) process(generator);
-      else if (running == 0) resolve(count);
+      else if (running === 0) resolve(count);
     }
   });
 }

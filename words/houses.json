@@ -1,0 +1,31 @@
+[
+  {
+    "word": "house",
+    "syllables": [
+      "house"
+    ],
+    "pronunciation": "houshouz",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "houses"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "houses"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

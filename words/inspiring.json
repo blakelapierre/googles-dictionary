@@ -1,0 +1,126 @@
+[
+  {
+    "word": "inspiring",
+    "syllables": [
+      "in",
+      "spir",
+      "ing"
+    ],
+    "pronunciation": "inˈspī(ə)riNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inspiring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "having the effect of inspiring someone.",
+            "examples": [
+              "he was an inspiring teacher"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inspire",
+    "syllables": [
+      "in",
+      "spire"
+    ],
+    "pronunciation": "inˈspī(ə)r",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "inspiring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fill (someone) with the urge or ability to do or feel something, especially to do something creative.",
+            "examples": [
+              "his passion for romantic literature inspired him to begin writing"
+            ],
+            "synonyms": [
+              "stimulate",
+              "motivate",
+              "encourage",
+              "influence",
+              "rouse",
+              "move",
+              "stir",
+              "energize",
+              "galvanize",
+              "incite; Moreanimate",
+              "fire",
+              "excite",
+              "spark",
+              "inspirit",
+              "incentivize",
+              "affect \"the landscape inspired him to write\"inspirational",
+              "encouraging",
+              "heartening",
+              "uplifting",
+              "stirring",
+              "rousing",
+              "stimulating",
+              "electrifying; moving",
+              "affecting",
+              "impassioned",
+              "influential \"inspiring essays\""
+            ]
+          },
+          {
+            "definition": "create (a feeling, especially a positive one) in a person.",
+            "examples": [
+              "their past record does not inspire confidence"
+            ],
+            "synonyms": [
+              "arouse",
+              "awaken",
+              "prompt",
+              "induce",
+              "ignite",
+              "trigger",
+              "kindle",
+              "produce",
+              "bring out; literaryenkindle \"Charles inspired awe in her\""
+            ]
+          },
+          {
+            "definition": "animate someone with (such a feeling).",
+            "examples": [
+              "he inspired his students with a vision of freedom"
+            ]
+          },
+          {
+            "definition": "give rise to.",
+            "examples": [
+              "the movie was successful enough to inspire a sequel"
+            ],
+            "synonyms": [
+              "give rise to",
+              "lead to",
+              "bring about",
+              "cause",
+              "prompt",
+              "spawn",
+              "engender; literarybeget \"the film inspired a musical\""
+            ]
+          },
+          {
+            "definition": "breathe in (air); inhale."
+          }
+        ]
+      }
+    ]
+  }
+]

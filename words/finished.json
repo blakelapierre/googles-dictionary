@@ -1,0 +1,207 @@
+[
+  {
+    "word": "finished",
+    "syllables": [
+      "fin",
+      "ished"
+    ],
+    "pronunciation": "ˈfiniSHt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "finished"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of an action, activity, or piece of work) having been completed or ended.",
+            "examples": [
+              "a preparatory drawing for the finished painting"
+            ]
+          },
+          {
+            "definition": "(of a person) having completed or ended an action or activity.",
+            "examples": [
+              "they'll be finished here in an hour"
+            ]
+          },
+          {
+            "definition": "having lost effectiveness, power, or prestige.",
+            "examples": [
+              "he was told he was finished at the club"
+            ]
+          },
+          {
+            "definition": "(of an object or room) having been given a particular decorative surface as the final stage in its manufacture or decoration.",
+            "examples": [
+              "plastic-finished lining paper"
+            ]
+          },
+          {
+            "definition": "(of livestock) having completed fattening before slaughter.",
+            "examples": [
+              "a reduction in prices for finished cattle"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "finish",
+    "syllables": [
+      "fin",
+      "ish"
+    ],
+    "pronunciation": "ˈfiniSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "finished"
+          },
+          {
+            "part": "past participle",
+            "variant": "finished"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring (a task or activity) to an end; complete.",
+            "examples": [
+              "they were straining to finish the job"
+            ],
+            "synonyms": [
+              "complete",
+              "end",
+              "conclude",
+              "stop",
+              "cease",
+              "terminate",
+              "bring to a conclusion/end/close",
+              "wind up; Morecrown",
+              "cap",
+              "round off",
+              "put the finishing touches to; accomplish",
+              "discharge",
+              "carry out",
+              "do",
+              "get done",
+              "fulfill; informalwrap up",
+              "sew up",
+              "polish off \"Mrs. Porter had just finished the task\"completed",
+              "concluded",
+              "terminated",
+              "over (and done with)",
+              "at an end; accomplished",
+              "executed",
+              "discharged",
+              "fulfilled",
+              "done; informalwrapped up",
+              "sewn up",
+              "polished off; formaleffectuated \"the finished job\""
+            ],
+            "antonyms": [
+              "start",
+              "incomplete"
+            ]
+          },
+          {
+            "definition": "consume or get through the final amount or portion of (something, especially food or drink).",
+            "examples": [
+              "finish your fajita while it's still hot"
+            ],
+            "synonyms": [
+              "consume",
+              "eat",
+              "devour",
+              "drink",
+              "finish off",
+              "polish off",
+              "gulp (down); Moreuse (up)",
+              "exhaust",
+              "empty",
+              "drain",
+              "get through",
+              "run through; informaldown \"Hitch finished his dinner\""
+            ],
+            "antonyms": [
+              "start"
+            ]
+          },
+          {
+            "definition": "(of an activity) come to an end.",
+            "examples": [
+              "the war has finished but nothing has changed"
+            ],
+            "synonyms": [
+              "end",
+              "come to an end",
+              "stop",
+              "conclude",
+              "come to a conclusion/end/close",
+              "cease \"the program has finished\""
+            ],
+            "antonyms": [
+              "start",
+              "begin"
+            ]
+          },
+          {
+            "definition": "have no more need for or nothing more to do with.",
+            "examples": [
+              "“I've finished with Tom,” Gloria said"
+            ],
+            "synonyms": [
+              "leave",
+              "give up",
+              "drop; Morestop",
+              "discontinue",
+              "have done with",
+              "complete; informalpack in",
+              "quit \"Sarah has finished school\""
+            ],
+            "antonyms": [
+              "begin",
+              "continue"
+            ]
+          },
+          {
+            "definition": "reach the end of a race or other sporting competition, typically in a particular position.",
+            "examples": [
+              "she finished third in the 3-meter springboard diving"
+            ]
+          },
+          {
+            "definition": "complete the manufacture or decoration of (a material, object, or place) by giving it an attractive surface appearance.",
+            "examples": [
+              "the interior was finished with V-jointed American oak"
+            ],
+            "synonyms": [
+              "varnish",
+              "lacquer",
+              "veneer",
+              "coat",
+              "stain",
+              "wax",
+              "shellac",
+              "enamel",
+              "glaze \"some items were finished in a black lacquer\""
+            ]
+          },
+          {
+            "definition": "complete the fattening of (livestock) before slaughter."
+          },
+          {
+            "definition": "prepare (a girl) for entry into fashionable society."
+          }
+        ]
+      }
+    ]
+  }
+]

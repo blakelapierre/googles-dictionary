@@ -1,0 +1,57 @@
+[
+  {
+    "word": "diction",
+    "syllables": [
+      "dic",
+      "tion"
+    ],
+    "pronunciation": "ˈdikSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "diction"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the choice and use of words and phrases in speech or writing.",
+            "examples": [
+              "Wordsworth campaigned against exaggerated poetic diction"
+            ],
+            "synonyms": [
+              "phraseology",
+              "phrasing",
+              "turn of phrase",
+              "wording",
+              "language",
+              "usage",
+              "vocabulary",
+              "terminology",
+              "expressions",
+              "idioms \"her diction was archaic\""
+            ]
+          },
+          {
+            "definition": "the style of enunciation in speaking or singing.",
+            "examples": [
+              "she began imitating his careful diction"
+            ],
+            "synonyms": [
+              "enunciation",
+              "articulation",
+              "elocution",
+              "locution",
+              "pronunciation",
+              "speech",
+              "intonation",
+              "inflection; delivery \"his careful diction\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

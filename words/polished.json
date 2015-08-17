@@ -1,0 +1,163 @@
+[
+  {
+    "word": "polished",
+    "syllables": [
+      "pol",
+      "ished"
+    ],
+    "pronunciation": "ˈpäliSHt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "polished"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "shiny as a result of being rubbed.",
+            "examples": [
+              "a polished mahogany table"
+            ],
+            "synonyms": [
+              "shiny",
+              "glossy",
+              "gleaming",
+              "lustrous",
+              "glassy; Morewaxed",
+              "buffed",
+              "burnished; varnished",
+              "glazed",
+              "lacquered",
+              "japanned",
+              "shellacked \"a polished table\""
+            ],
+            "antonyms": [
+              "dull",
+              "tarnished"
+            ]
+          },
+          {
+            "definition": "accomplished and skillful.",
+            "examples": [
+              "his polished performance in the movie"
+            ],
+            "synonyms": [
+              "expert",
+              "accomplished",
+              "masterly",
+              "masterful",
+              "skillful",
+              "adept",
+              "adroit",
+              "dexterous; Moreimpeccable",
+              "flawless",
+              "perfect",
+              "consummate",
+              "exquisite",
+              "outstanding",
+              "excellent",
+              "superb",
+              "superlative",
+              "first-rate",
+              "fine; informalace \"a polished performance\""
+            ],
+            "antonyms": [
+              "inexpert"
+            ]
+          },
+          {
+            "definition": "refined, sophisticated, or elegant.",
+            "examples": [
+              "he was polished and charming"
+            ],
+            "synonyms": [
+              "refined",
+              "cultivated",
+              "civilized",
+              "well bred",
+              "polite",
+              "courteous",
+              "genteel",
+              "decorous",
+              "respectable",
+              "urbane",
+              "suave",
+              "sophisticated \"polished manners\""
+            ],
+            "antonyms": [
+              "gauche"
+            ]
+          },
+          {
+            "definition": "(of rice) having had the outer husk removed during milling."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "polish",
+    "syllables": [
+      "pol",
+      "ish"
+    ],
+    "pronunciation": "ˈpäliSH",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "polished"
+          },
+          {
+            "part": "past participle",
+            "variant": "polished"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make the surface of (something) smooth and shiny by rubbing it.",
+            "examples": [
+              "she unloaded the dishwasher and polished the glasses"
+            ],
+            "synonyms": [
+              "shine",
+              "wax",
+              "buff",
+              "rub up/down; Moregloss",
+              "burnish; varnish",
+              "oil",
+              "glaze",
+              "lacquer",
+              "japan",
+              "shellac \"I polished his shoes\""
+            ]
+          },
+          {
+            "definition": "improve, refine, or add the finishing touches to.",
+            "examples": [
+              "he's got to polish up his French for his job"
+            ],
+            "synonyms": [
+              "perfect",
+              "refine",
+              "improve",
+              "hone",
+              "enhance; Morebrush up",
+              "revise",
+              "edit",
+              "correct",
+              "rewrite",
+              "go over",
+              "touch up; informalclean up \"polish up your essay\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "disposal",
+    "syllables": [
+      "dis",
+      "pos",
+      "al"
+    ],
+    "pronunciation": "dəˈspōzəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "disposal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "disposals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or process of throwing away or getting rid of something.",
+            "examples": [
+              "the disposal of radioactive waste"
+            ],
+            "synonyms": [
+              "throwing away",
+              "discarding",
+              "jettisoning",
+              "scrapping",
+              "recycling; Moreinformaldumping",
+              "ditching",
+              "chucking",
+              "deep-sixing \"garbage ready for disposal\""
+            ]
+          },
+          {
+            "definition": "an electrically operated device fitted to the waste pipe of a kitchen sink for grinding up food waste.",
+            "examples": [
+              "noun: disposer"
+            ]
+          },
+          {
+            "definition": "the sale of shares, property, or other assets.",
+            "examples": [
+              "the disposal of his shares in the company"
+            ]
+          },
+          {
+            "definition": "the arrangement or positioning of something.",
+            "examples": [
+              "she brushed her hair carefully, as if her success lay in the sleek disposal of each gleaming black thread"
+            ],
+            "synonyms": [
+              "arrangement",
+              "arranging",
+              "positioning",
+              "placement",
+              "lining up",
+              "disposition",
+              "grouping \"the disposal of the troops in two lines\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "word": "toupee",
+    "syllables": [
+      "tou",
+      "pee"
+    ],
+    "pronunciation": "to͞oˈpā",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "toupee"
+          },
+          {
+            "part": "plural noun",
+            "variant": "toupees"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a small wig or artificial hairpiece worn to cover a bald spot."
+          }
+        ]
+      }
+    ]
+  }
+]

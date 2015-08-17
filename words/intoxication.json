@@ -1,0 +1,36 @@
+[
+  {
+    "word": "intoxication",
+    "syllables": [
+      "in",
+      "tox",
+      "i",
+      "ca",
+      "tion"
+    ],
+    "pronunciation": "inˌtäksəˈkāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "intoxication"
+          },
+          {
+            "part": "plural noun",
+            "variant": "intoxications"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being intoxicated, especially by alcohol.",
+            "examples": [
+              "signs of intoxication"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

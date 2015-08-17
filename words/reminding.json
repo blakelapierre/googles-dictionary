@@ -1,0 +1,53 @@
+[
+  {
+    "word": "remind",
+    "syllables": [
+      "re",
+      "mind"
+    ],
+    "pronunciation": "rəˈmīnd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "reminding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "cause (someone) to remember someone or something.",
+            "examples": [
+              "he would have forgotten the boy's birthday if you hadn't reminded him"
+            ],
+            "synonyms": [
+              "jog someone's memory",
+              "help someone remember",
+              "prompt \"I left a note to remind him\""
+            ]
+          },
+          {
+            "definition": "cause someone to think of (something) because of a resemblance or likeness.",
+            "examples": [
+              "his impassive, fierce stare reminded her of an owl"
+            ],
+            "synonyms": [
+              "make one think of",
+              "cause one to remember",
+              "put one in mind of",
+              "bring/call to mind",
+              "evoke \"the song reminded me of my sister\""
+            ]
+          },
+          {
+            "definition": "bring something, especially a commitment or necessary course of action, to the attention of (someone).",
+            "examples": [
+              "the bartender reminded them that singing was not permitted"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

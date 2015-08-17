@@ -1,0 +1,79 @@
+[
+  {
+    "word": "charity",
+    "syllables": [
+      "char",
+      "i",
+      "ty"
+    ],
+    "pronunciation": "ˈCHerədē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "charity"
+          },
+          {
+            "part": "plural noun",
+            "variant": "charities"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the voluntary giving of help, typically in the form of money, to those in need.",
+            "examples": [
+              "financial assistance, aid, welfare, relief, financial relief; Morehandouts, gifts, presents, largesse; historicalalms \"we don't need charity\"philanthropy, humanitarianism, humanity, altruism, public-spiritedness, social conscience, benevolence, beneficence, munificence \"his actions are motivated by charity\"Morehandouts, gifts, presents, largesse; alms we don't need charityphilanthropy, humanitarianism, humanity, altruism, public-spiritedness, social conscience, benevolence, beneficence, munificence his actions are motivated by charity"
+            ]
+          },
+          {
+            "definition": "help or money given voluntarily to those in need.",
+            "examples": [
+              "an unemployed teacher living on charity"
+            ]
+          },
+          {
+            "definition": "an organization set up to provide help and raise money for those in need.",
+            "examples": [
+              "nonprofit organization, voluntary organization, charitable institution; Morefund, trust, foundation; dot-org \"a children's charity\"Morefund, trust, foundation; dot-org a children's charity"
+            ]
+          },
+          {
+            "definition": "the body of organizations viewed collectively as the object of fundraising or donations.",
+            "examples": [
+              "the proceeds of the sale will go to charity"
+            ]
+          },
+          {
+            "definition": "kindness and tolerance in judging others.",
+            "examples": [
+              "she found it hard to look on her mother with much charity"
+            ],
+            "synonyms": [
+              "goodwill",
+              "compassion",
+              "consideration",
+              "concern",
+              "kindness",
+              "kindheartedness",
+              "tenderness",
+              "tenderheartedness",
+              "sympathy",
+              "indulgence",
+              "tolerance",
+              "leniency",
+              "caritas; literarybounteousness \"show a bit of charity\""
+            ]
+          },
+          {
+            "definition": "love of humankind, typically in a Christian context.",
+            "examples": [
+              "faith, hope, and charity"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

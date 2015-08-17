@@ -1,0 +1,41 @@
+[
+  {
+    "word": "grape",
+    "syllables": [
+      "grape"
+    ],
+    "pronunciation": "ɡrāp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "grape"
+          },
+          {
+            "part": "plural noun",
+            "variant": "grapes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a berry, typically green (classified as white), purple, red, or black, growing in clusters on a grapevine, eaten as fruit, and used in making wine."
+          },
+          {
+            "definition": "wine.",
+            "examples": [
+              "noun: the grape"
+            ]
+          },
+          {
+            "definition": "a dark purplish red color."
+          },
+          {
+            "definition": "short for grapeshot."
+          }
+        ]
+      }
+    ]
+  }
+]

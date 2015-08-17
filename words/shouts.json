@@ -1,0 +1,118 @@
+[
+  {
+    "word": "shout",
+    "syllables": [
+      "shout"
+    ],
+    "pronunciation": "SHout",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "shouts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) utter a loud call or cry, typically as an expression of a strong emotion.",
+            "examples": [
+              "she shouted for joy"
+            ],
+            "synonyms": [
+              "yell",
+              "cry (out)",
+              "call (out)",
+              "roar",
+              "howl",
+              "bellow",
+              "bawl",
+              "call at the top of one's voice",
+              "clamor",
+              "shriek",
+              "scream; Moreraise one's voice",
+              "vociferate; informalholler \"“Help",
+              "” he shouted\""
+            ],
+            "antonyms": [
+              "whisper"
+            ]
+          },
+          {
+            "definition": "say something very loudly; call out.",
+            "examples": [
+              "he leaned out of his window and shouted abuse at them"
+            ]
+          },
+          {
+            "definition": "speak loudly and angrily to; insult or scold loudly.",
+            "examples": [
+              "he apologized because he had shouted at her in front of them all"
+            ]
+          },
+          {
+            "definition": "prevent someone from speaking or being heard by shouting.",
+            "examples": [
+              "he was shouted down as he tried to explain the decision"
+            ]
+          },
+          {
+            "definition": "indicate or express (a particular quality or characteristic) unequivocally or powerfully.",
+            "examples": [
+              "from crocodile handbag to gold-trimmed shoes, she shouted money"
+            ]
+          },
+          {
+            "definition": "treat (someone) to (something, especially a drink).",
+            "examples": [
+              "I'll shout you a beer"
+            ]
+          },
+          {
+            "definition": "buy a round of drinks.",
+            "examples": [
+              "anyone shooting a hole in one must shout for all players present on the course"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "shouts"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a loud cry expressing a strong emotion or calling attention.",
+            "examples": [
+              "his words were interrupted by warning shouts"
+            ],
+            "synonyms": [
+              "yell",
+              "cry",
+              "call",
+              "roar",
+              "howl",
+              "bellow",
+              "bawl",
+              "clamor",
+              "vociferation",
+              "shriek",
+              "scream; informalholler \"a shout of pain\""
+            ]
+          },
+          {
+            "definition": "one's turn to buy a round of drinks.",
+            "examples": [
+              "“Do you want another drink? My shout.”"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

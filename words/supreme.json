@@ -1,0 +1,123 @@
+[
+  {
+    "word": "supreme",
+    "syllables": [
+      "su",
+      "preme"
+    ],
+    "pronunciation": "so͞oˈprēm",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "supreme"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of authority or an office, or someone holding it) superior to all others.",
+            "examples": [
+              "a unified force with a supreme commander"
+            ],
+            "synonyms": [
+              "highest-ranking",
+              "chief",
+              "head",
+              "top",
+              "foremost",
+              "principal",
+              "superior",
+              "premier",
+              "first",
+              "prime; Moregreatest",
+              "dominant",
+              "predominant",
+              "preeminent \"the supreme commander\""
+            ],
+            "antonyms": [
+              "subordinate",
+              "inferior"
+            ]
+          },
+          {
+            "definition": "strongest, most important, or most powerful.",
+            "examples": [
+              "on the racetrack he reigned supreme"
+            ]
+          },
+          {
+            "definition": "very great or intense; extreme.",
+            "examples": [
+              "he was nerving himself for a supreme effort"
+            ],
+            "synonyms": [
+              "extraordinary",
+              "remarkable",
+              "incredible",
+              "phenomenal",
+              "rare",
+              "exceptional",
+              "outstanding",
+              "great",
+              "incomparable",
+              "unparalleled",
+              "peerless \"a supreme achievement\""
+            ],
+            "antonyms": [
+              "minimum"
+            ]
+          },
+          {
+            "definition": "(of a penalty or sacrifice) involving death.",
+            "examples": [
+              "our comrades who made the supreme sacrifice"
+            ],
+            "synonyms": [
+              "ultimate",
+              "final",
+              "last; Moreutmost",
+              "extreme",
+              "greatest",
+              "highest \"the supreme sacrifice\""
+            ],
+            "antonyms": [
+              "insignificant"
+            ]
+          },
+          {
+            "definition": "used to indicate that someone or something is very good at or well known for a specified activity.",
+            "examples": [
+              "here was the gift supreme"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "supreme"
+          },
+          {
+            "part": "noun",
+            "variant": "suprême"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a rich cream sauce."
+          },
+          {
+            "definition": "a dish served in supreme sauce.",
+            "examples": [
+              "plural noun: supremes; plural noun: suprêmes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

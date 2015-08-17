@@ -1,0 +1,55 @@
+[
+  {
+    "word": "sharpen",
+    "syllables": [
+      "sharp",
+      "en"
+    ],
+    "pronunciation": "ˈSHärpən",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "sharpened"
+          },
+          {
+            "part": "past participle",
+            "variant": "sharpened"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make or become sharp.",
+            "examples": [
+              "she sharpened her pencil"
+            ],
+            "synonyms": [
+              "hone",
+              "whet",
+              "strop",
+              "grind",
+              "file \"sharpen the carving knife\""
+            ]
+          },
+          {
+            "definition": "improve or cause to improve.",
+            "examples": [
+              "they must sharpen up or risk losing half their business"
+            ],
+            "synonyms": [
+              "improve",
+              "brush up",
+              "polish up",
+              "better",
+              "enhance; Morehone",
+              "fine-tune",
+              "perfect \"the players are sharpening their skills\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

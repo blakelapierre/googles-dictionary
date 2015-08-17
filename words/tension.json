@@ -1,0 +1,117 @@
+[
+  {
+    "word": "tension",
+    "syllables": [
+      "ten",
+      "sion"
+    ],
+    "pronunciation": "ˈtenSHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tension"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the state of being stretched tight.",
+            "examples": [
+              "the parachute keeps the cable under tension as it drops"
+            ],
+            "synonyms": [
+              "tightness",
+              "tautness",
+              "rigidity; Morepull",
+              "traction \"the tension of the rope\""
+            ]
+          },
+          {
+            "definition": "the state of having the muscles stretched tight, especially as causing strain or discomfort.",
+            "examples": [
+              "the elimination of neck tension can relieve headaches"
+            ]
+          },
+          {
+            "definition": "a strained state or condition resulting from forces acting in opposition to each other."
+          },
+          {
+            "definition": "the degree of tightness of stitches in knitting and machine sewing."
+          },
+          {
+            "definition": "electromotive force."
+          },
+          {
+            "definition": "mental or emotional strain.",
+            "examples": [
+              "a mind that is affected by stress or tension cannot think as clearly"
+            ],
+            "synonyms": [
+              "strain",
+              "stress",
+              "anxiety",
+              "pressure; Moreworry",
+              "apprehensiveness",
+              "apprehension",
+              "agitation",
+              "nerves",
+              "nervousness",
+              "jumpiness",
+              "edginess",
+              "restlessness; suspense",
+              "uncertainty",
+              "anticipation",
+              "excitement; informalheebie-jeebies",
+              "butterflies (in one's stomach)",
+              "collywobbles \"the tension was unbearable\""
+            ]
+          },
+          {
+            "definition": "a strained political or social state or relationship.",
+            "examples": [
+              "plural noun: tensions"
+            ]
+          },
+          {
+            "definition": "a relationship between ideas or qualities with conflicting demands or implications.",
+            "examples": [
+              "the basic tension between freedom and control"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tension"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tensions"
+          },
+          {
+            "part": "past tense",
+            "variant": "tensioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "tensioned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "tensioning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "apply a force to (something) that tends to stretch it."
+          }
+        ]
+      }
+    ]
+  }
+]

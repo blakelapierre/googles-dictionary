@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Bible",
+    "syllables": [
+      "Bi",
+      "ble"
+    ],
+    "pronunciation": "ˈbībəl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "singular proper noun",
+            "variant": "Bible"
+          },
+          {
+            "part": "noun",
+            "variant": "the Bible"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the Christian scriptures, consisting of the 66 books of the Old and New Testaments.",
+            "examples": [
+              "(Holy) Scriptures, Holy Writ, Good Book, Book of Books he read the Bible"
+            ]
+          },
+          {
+            "definition": "the Jewish scriptures, consisting of the Torah or Law, the Prophets, and the Hagiographa or Writings."
+          },
+          {
+            "definition": "a copy of the Christian or Jewish scriptures.",
+            "examples": [
+              "noun: bible; plural noun: bibles"
+            ]
+          },
+          {
+            "definition": "a particular edition or translation of the Bible.",
+            "examples": [
+              "the New English Bible"
+            ],
+            "synonyms": [
+              "(Holy) Scriptures",
+              "Holy Writ",
+              "Good Book",
+              "Book of Books \"he read the Bible\""
+            ]
+          },
+          {
+            "definition": "any authoritative book.",
+            "examples": [
+              "noun: bible"
+            ]
+          },
+          {
+            "definition": "the scriptures of any religion."
+          }
+        ]
+      }
+    ]
+  }
+]

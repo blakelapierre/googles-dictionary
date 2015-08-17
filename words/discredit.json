@@ -1,0 +1,113 @@
+[
+  {
+    "word": "discredit",
+    "syllables": [
+      "dis",
+      "cred",
+      "it"
+    ],
+    "pronunciation": "disˈkredət",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "discredit"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "discredits"
+          },
+          {
+            "part": "past tense",
+            "variant": "discredited"
+          },
+          {
+            "part": "past participle",
+            "variant": "discredited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "discrediting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "harm the good reputation of (someone or something).",
+            "examples": [
+              "his remarks were taken out of context in an effort to discredit him"
+            ],
+            "synonyms": [
+              "bring into disrepute",
+              "disgrace",
+              "dishonor",
+              "damage the reputation of",
+              "blacken the name of",
+              "put/show in a bad light",
+              "reflect badly on",
+              "compromise",
+              "stigmatize",
+              "smear",
+              "tarnish",
+              "taint",
+              "slur \"an attempt to discredit him and his company\""
+            ]
+          },
+          {
+            "definition": "cause (an idea or piece of evidence) to seem false or unreliable.",
+            "examples": [
+              "recent attempts to discredit evolution"
+            ],
+            "synonyms": [
+              "disprove",
+              "invalidate",
+              "explode",
+              "refute; Moreinformaldebunk",
+              "poke holes in; formalconfute \"that theory has been discredited\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "discredit"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "loss or lack of reputation or respect.",
+            "examples": [
+              "they committed crimes that brought discredit upon the administration"
+            ],
+            "synonyms": [
+              "dishonor",
+              "disrepute",
+              "disgrace",
+              "shame",
+              "humiliation",
+              "ignominy",
+              "infamy",
+              "notoriety; Morecensure",
+              "blame",
+              "reproach",
+              "opprobrium; stigma; dateddisesteem \"crimes that brought discredit on the administration\""
+            ],
+            "antonyms": [
+              "honor"
+            ]
+          },
+          {
+            "definition": "a person or thing that is a source of disgrace.",
+            "examples": [
+              "plural noun: discredits"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

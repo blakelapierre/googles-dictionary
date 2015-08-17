@@ -1,0 +1,104 @@
+[
+  {
+    "word": "disturb",
+    "syllables": [
+      "dis",
+      "turb"
+    ],
+    "pronunciation": "dəˈstərb",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "disturb"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "disturbs"
+          },
+          {
+            "part": "past tense",
+            "variant": "disturbed"
+          },
+          {
+            "part": "past participle",
+            "variant": "disturbed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "disturbing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "interfere with the normal arrangement or functioning of.",
+            "examples": [
+              "being sent to jail had apparently not disturbed his cheerfulness"
+            ],
+            "synonyms": [
+              "disarrange",
+              "muddle",
+              "rearrange",
+              "disorganize",
+              "disorder",
+              "mix up",
+              "interfere with",
+              "throw into disorder/confusion",
+              "turn upside down \"don't disturb his papers\""
+            ]
+          },
+          {
+            "definition": "cause to feel anxious.",
+            "examples": [
+              "I am disturbed by the document I have just read"
+            ],
+            "synonyms": [
+              "perturb",
+              "trouble",
+              "concern",
+              "worry",
+              "upset; Moreagitate",
+              "fluster",
+              "discomfit",
+              "disconcert",
+              "dismay",
+              "distress",
+              "discompose",
+              "unsettle",
+              "ruffle \"he wasn't disturbed by the allegations\"worrying",
+              "perturbing",
+              "troubling",
+              "upsetting; distressing",
+              "discomfiting",
+              "disconcerting",
+              "disquieting",
+              "unsettling",
+              "dismaying",
+              "alarming",
+              "frightening \"he gave us some disturbing information\""
+            ]
+          },
+          {
+            "definition": "interrupt the sleep, relaxation, or privacy of.",
+            "examples": [
+              "I'll see my patient now and we are not to be disturbed"
+            ],
+            "synonyms": [
+              "interrupt",
+              "intrude on",
+              "butt in on",
+              "barge in on; Moredistract",
+              "disrupt",
+              "bother",
+              "trouble",
+              "pester",
+              "harass; informalhassle \"let's go somewhere where we won't be disturbed\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

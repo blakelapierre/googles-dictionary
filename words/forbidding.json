@@ -1,0 +1,139 @@
+[
+  {
+    "word": "forbidding",
+    "syllables": [
+      "for",
+      "bid",
+      "ding"
+    ],
+    "pronunciation": "fərˈbidiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "forbidding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "unfriendly or threatening in appearance.",
+            "examples": [
+              "a grim and forbidding building"
+            ],
+            "synonyms": [
+              "hostile",
+              "unwelcoming",
+              "unfriendly",
+              "off-putting",
+              "unsympathetic",
+              "unapproachable",
+              "grim",
+              "stern",
+              "hard",
+              "tough",
+              "frosty More\"a forbidding manner\"threatening",
+              "ominous",
+              "menacing",
+              "sinister",
+              "brooding",
+              "daunting",
+              "intimidating",
+              "formidable",
+              "fearsome",
+              "frightening",
+              "terrifying",
+              "chilling",
+              "disturbing",
+              "disquieting \"the dark castle looked forbidding\""
+            ],
+            "antonyms": [
+              "friendly",
+              "inviting"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "forbid",
+    "syllables": [
+      "for",
+      "bid"
+    ],
+    "pronunciation": "fərˈbid",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "forbidding"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "refuse to allow (something).",
+            "examples": [
+              "environmental laws forbid alteration of the coast"
+            ],
+            "synonyms": [
+              "prohibit",
+              "ban",
+              "outlaw",
+              "make illegal",
+              "veto",
+              "proscribe",
+              "disallow",
+              "embargo",
+              "bar",
+              "debar",
+              "interdict; Moreenjoin",
+              "restrain \"the law forbids gender discrimination\""
+            ],
+            "antonyms": [
+              "permit"
+            ]
+          },
+          {
+            "definition": "order (someone) not to do something.",
+            "examples": [
+              "I was forbidden from leaving Russia"
+            ],
+            "synonyms": [
+              "prohibit",
+              "ban",
+              "outlaw",
+              "make illegal",
+              "veto",
+              "proscribe",
+              "disallow",
+              "embargo",
+              "bar",
+              "debar",
+              "interdict; Moreenjoin",
+              "restrain \"the law forbids gender discrimination\""
+            ],
+            "antonyms": [
+              "permit"
+            ]
+          },
+          {
+            "definition": "refuse (someone or something) entry to a place or area.",
+            "examples": [
+              "all cars are forbidden"
+            ]
+          },
+          {
+            "definition": "(of a circumstance or quality) make (something) impossible; prevent.",
+            "examples": [
+              "the cliffs forbid any easy turning movement"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

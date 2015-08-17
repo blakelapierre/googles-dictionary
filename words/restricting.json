@@ -1,0 +1,76 @@
+[
+  {
+    "word": "restrict",
+    "syllables": [
+      "re",
+      "strict"
+    ],
+    "pronunciation": "rəˈstrikt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "restricting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put a limit on; keep under control.",
+            "examples": [
+              "some roads may have to be closed at peak times to restrict the number of visitors"
+            ],
+            "synonyms": [
+              "limit",
+              "keep within bounds",
+              "regulate",
+              "control",
+              "moderate",
+              "cut down \"a busy working life restricted his leisure activities\""
+            ]
+          },
+          {
+            "definition": "deprive (someone or something) of freedom of movement or action.",
+            "examples": [
+              "cities can restrict groups of protesters from gathering on a residential street"
+            ],
+            "synonyms": [
+              "hinder",
+              "interfere with",
+              "impede",
+              "hamper",
+              "obstruct",
+              "block",
+              "check",
+              "curb",
+              "shackle \"the cuff supports the ankle without restricting movement\""
+            ]
+          },
+          {
+            "definition": "limit someone to only doing or having (a particular thing) or staying in (a particular place).",
+            "examples": [
+              "I shall restrict myself to a single example"
+            ],
+            "synonyms": [
+              "confine",
+              "limit \"he restricted himself to a 15-minute speech\""
+            ]
+          },
+          {
+            "definition": "limit something, especially an activity, to (a particular place, time, or category of people).",
+            "examples": [
+              "the zoological gardens were at first restricted to members and their guests"
+            ]
+          },
+          {
+            "definition": "withhold (information) from general circulation or disclosure.",
+            "examples": [
+              "at first the government tried to restrict news of our involvement in Vietnam"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

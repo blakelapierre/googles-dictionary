@@ -1,0 +1,63 @@
+[
+  {
+    "word": "chauffeur",
+    "syllables": [
+      "chauf",
+      "feur"
+    ],
+    "pronunciation": "SHōˈfərˈSHōfər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "chauffeur"
+          },
+          {
+            "part": "plural noun",
+            "variant": "chauffeurs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person employed to drive a private or rented automobile."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "chauffeur"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "chauffeurs"
+          },
+          {
+            "part": "past tense",
+            "variant": "chauffeured"
+          },
+          {
+            "part": "past participle",
+            "variant": "chauffeured"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "chauffeuring"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "drive (a car or a passenger in a car), typically as part of one's job.",
+            "examples": [
+              "she insisted on being chauffeured around"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

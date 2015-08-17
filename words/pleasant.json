@@ -1,0 +1,86 @@
+[
+  {
+    "word": "pleasant",
+    "syllables": [
+      "pleas",
+      "ant"
+    ],
+    "pronunciation": "ˈplez(ə)nt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "pleasant"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "pleasanter"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "pleasantest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "giving a sense of happy satisfaction or enjoyment.",
+            "examples": [
+              "a very pleasant evening"
+            ],
+            "synonyms": [
+              "enjoyable",
+              "pleasurable",
+              "nice",
+              "agreeable",
+              "pleasing",
+              "satisfying",
+              "gratifying",
+              "good; Moreentertaining",
+              "amusing",
+              "delightful",
+              "charming; fine",
+              "balmy; informallovely",
+              "great \"a pleasant evening\""
+            ]
+          },
+          {
+            "definition": "(of a person or their manner) friendly and considerate; likable.",
+            "examples": [
+              "they found him pleasant and cooperative"
+            ],
+            "synonyms": [
+              "friendly",
+              "agreeable",
+              "amiable",
+              "nice",
+              "genial",
+              "cordial",
+              "likable",
+              "amicable",
+              "good-humored",
+              "good-natured",
+              "personable; Morehospitable",
+              "approachable",
+              "gracious",
+              "courteous",
+              "polite",
+              "obliging",
+              "helpful",
+              "considerate; charming",
+              "lovely",
+              "delightful",
+              "sweet",
+              "sympathetic",
+              "simpatico \"the staff are pleasant\""
+            ],
+            "antonyms": [
+              "disagreeable"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

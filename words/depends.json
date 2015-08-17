@@ -1,0 +1,67 @@
+[
+  {
+    "word": "depend",
+    "syllables": [
+      "de",
+      "pend"
+    ],
+    "pronunciation": "dəˈpend",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "depends"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be controlled or determined by.",
+            "examples": [
+              "differences in earnings depended on a wide variety of factors"
+            ],
+            "synonyms": [
+              "be contingent on",
+              "be conditional on",
+              "be dependent on",
+              "hinge on",
+              "hang on",
+              "rest on",
+              "rely on; be decided by \"her career depends on a good reference\""
+            ]
+          },
+          {
+            "definition": "rely on.",
+            "examples": [
+              "the kind of person you could depend on"
+            ]
+          },
+          {
+            "definition": "need or require for financial or other support.",
+            "examples": [
+              "a town that had depended heavily upon the wool industry"
+            ],
+            "synonyms": [
+              "rely on",
+              "lean on; Morecount on",
+              "bank on",
+              "trust (in)",
+              "have faith in",
+              "believe in; pin one's hopes on \"my family depends on me\""
+            ]
+          },
+          {
+            "definition": "be grammatically dependent on."
+          },
+          {
+            "definition": "hang down.",
+            "examples": [
+              "his tongue depended from open jaws"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

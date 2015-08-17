@@ -1,0 +1,83 @@
+[
+  {
+    "word": "fluent",
+    "syllables": [
+      "flu",
+      "ent"
+    ],
+    "pronunciation": "ˈflo͞oənt",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "fluent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person) able to express oneself easily and articulately.",
+            "examples": [
+              "a fluent speaker and writer on technical subjects"
+            ],
+            "synonyms": [
+              "articulate",
+              "eloquent",
+              "expressive",
+              "communicative",
+              "coherent",
+              "cogent",
+              "illuminating",
+              "vivid",
+              "well written/spoken \"a fluent campaign speech\""
+            ],
+            "antonyms": [
+              "inarticulate"
+            ]
+          },
+          {
+            "definition": "(of a person) able to speak or write a particular foreign language easily and accurately.",
+            "examples": [
+              "she became fluent in French and German"
+            ],
+            "synonyms": [
+              "articulate; have a (good) command of \"fluent in French\""
+            ]
+          },
+          {
+            "definition": "(of a foreign language) spoken accurately and with facility.",
+            "examples": [
+              "he spoke fluent Spanish"
+            ]
+          },
+          {
+            "definition": "(of speech, language, movement, or style) smoothly graceful and easy.",
+            "examples": [
+              "his style of play was fast and fluent"
+            ],
+            "synonyms": [
+              "free-flowing",
+              "smooth",
+              "effortless",
+              "easy",
+              "natural",
+              "fluid; Moregraceful",
+              "elegant; regular",
+              "rhythmic \"a very fluent running style\""
+            ],
+            "antonyms": [
+              "jerky"
+            ]
+          },
+          {
+            "definition": "able to flow freely; fluid.",
+            "examples": [
+              "a fluent discharge from the nose"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "word": "loaded",
+    "syllables": [
+      "load",
+      "ed"
+    ],
+    "pronunciation": "ˈlōdəd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "loaded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carrying or bearing a load, especially a large one.",
+            "examples": [
+              "a heavily loaded freight train"
+            ],
+            "synonyms": [
+              "full",
+              "filled",
+              "laden",
+              "packed",
+              "stuffed",
+              "crammed",
+              "brimming",
+              "stacked; Moreinformalchock-full",
+              "chockablock \"a loaded freight train\""
+            ]
+          },
+          {
+            "definition": "(of a firearm) charged with ammunition.",
+            "examples": [
+              "a loaded gun"
+            ],
+            "synonyms": [
+              "primed",
+              "charged",
+              "armed",
+              "ready to fire \"a loaded gun\""
+            ]
+          },
+          {
+            "definition": "containing in abundance or to excess.",
+            "examples": [
+              "your average chocolate bar is loaded with fat"
+            ]
+          },
+          {
+            "definition": "having a lot of money; wealthy.",
+            "examples": [
+              "she doesn't really have to work—they're loaded"
+            ]
+          },
+          {
+            "definition": "having had too much alcohol; drunk.",
+            "examples": [
+              "man, did I get loaded after I left his house"
+            ]
+          },
+          {
+            "definition": "(of a car) equipped with many optional extras; deluxe.",
+            "examples": [
+              "1989 Ford 250 LXT: low miles, loaded"
+            ]
+          },
+          {
+            "definition": "weighted or biased toward a particular outcome.",
+            "examples": [
+              "a trick like the one with the loaded dice"
+            ],
+            "synonyms": [
+              "biased",
+              "rigged",
+              "fixed; Morejuiced; weighted \"loaded dice\""
+            ]
+          },
+          {
+            "definition": "(of a word, statement, or question) charged with an underlying meaning or implication.",
+            "examples": [
+              "avoid politically loaded terms like “nation”"
+            ],
+            "synonyms": [
+              "charged",
+              "sensitive",
+              "delicate \"a loaded question\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "load",
+    "syllables": [
+      "load"
+    ],
+    "pronunciation": "lōd",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "loaded"
+          },
+          {
+            "part": "past participle",
+            "variant": "loaded"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "put a load or large amount of something on or in (a vehicle, ship, container, etc.).",
+            "examples": [
+              "they load up their dugout canoes"
+            ],
+            "synonyms": [
+              "fill",
+              "fill up",
+              "pack",
+              "charge",
+              "stock",
+              "stack",
+              "lade \"we quickly loaded the van\""
+            ]
+          },
+          {
+            "definition": "place (a load or large quantity of something) on or in a vehicle, ship, container, etc.",
+            "examples": [
+              "stolen property from a burglary was loaded into a taxi"
+            ],
+            "synonyms": [
+              "pack",
+              "stow",
+              "store",
+              "stack",
+              "bundle; Moreplace",
+              "deposit",
+              "put away \"Larry loaded boxes into the jeep\""
+            ]
+          },
+          {
+            "definition": "(of a ship or vehicle) take on a load.",
+            "examples": [
+              "when we came to the quay the ship was still loading"
+            ]
+          },
+          {
+            "definition": "take, buy, or consume a large amount of.",
+            "examples": [
+              "I just went down to the store and loaded up on beer"
+            ]
+          },
+          {
+            "definition": "make (someone or something) carry or hold a large or excessive amount of heavy things.",
+            "examples": [
+              "Elaine was loaded down with bags full of shopping"
+            ]
+          },
+          {
+            "definition": "supply someone or something with (something) in overwhelming abundance or to excess.",
+            "examples": [
+              "the King and Queen loaded Columbus with wealth and honors"
+            ],
+            "synonyms": [
+              "reward",
+              "ply",
+              "regale",
+              "shower \"Richard loaded Marshal with honors\""
+            ]
+          },
+          {
+            "definition": "bias toward a particular outcome.",
+            "examples": [
+              "the odds were loaded against them before the match"
+            ],
+            "synonyms": [
+              "bias",
+              "rig",
+              "fix; weight \"the dice are loaded against him\""
+            ]
+          },
+          {
+            "definition": "charge (a firearm) with ammunition.",
+            "examples": [
+              "prime, charge, prepare to fire/use he loaded a gun"
+            ]
+          },
+          {
+            "definition": "insert something into (a device) so that it can be operated.",
+            "examples": [
+              "load your camera before you start"
+            ]
+          },
+          {
+            "definition": "insert (something) into a device so that it will operate.",
+            "examples": [
+              "load the cassette into the camcorder"
+            ],
+            "synonyms": [
+              "insert",
+              "put",
+              "place",
+              "slot \"load the cassette into the camcorder\""
+            ]
+          },
+          {
+            "definition": "transfer (a program or data) into memory, or into the central processor from storage."
+          },
+          {
+            "definition": "add an extra charge to (an insurance premium) in the case of a poorer risk."
+          }
+        ]
+      }
+    ]
+  }
+]

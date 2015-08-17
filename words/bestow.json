@@ -1,0 +1,59 @@
+[
+  {
+    "word": "bestow",
+    "syllables": [
+      "be",
+      "stow"
+    ],
+    "pronunciation": "bəˈstō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "bestow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "bestows"
+          },
+          {
+            "part": "past tense",
+            "variant": "bestowed"
+          },
+          {
+            "part": "past participle",
+            "variant": "bestowed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "bestowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "confer or present (an honor, right, or gift).",
+            "examples": [
+              "the office was bestowed on him by the chief of state"
+            ],
+            "synonyms": [
+              "confer on",
+              "grant",
+              "accord",
+              "afford",
+              "endow someone with",
+              "vest in",
+              "present",
+              "award",
+              "give",
+              "donate to",
+              "entrust with",
+              "vouchsafe \"the honor bestowed upon him\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

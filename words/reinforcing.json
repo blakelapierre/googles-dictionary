@@ -1,0 +1,57 @@
+[
+  {
+    "word": "reinforce",
+    "syllables": [
+      "re",
+      "in",
+      "force"
+    ],
+    "pronunciation": "ˌrēinˈfôrs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "reinforcing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "strengthen or support, especially with additional personnel or material.",
+            "examples": [
+              "paratroopers were sent to reinforce the troops already in the area"
+            ],
+            "synonyms": [
+              "augment",
+              "increase",
+              "add to",
+              "supplement",
+              "boost",
+              "top up \"the need to reinforce NATO troops\""
+            ]
+          },
+          {
+            "definition": "strengthen (an existing feeling, idea, or habit).",
+            "examples": [
+              "various actions of the leaders so reinforced fears and suspicions that war became unavoidable"
+            ],
+            "synonyms": [
+              "strengthen",
+              "fortify",
+              "support; Morecement",
+              "boost",
+              "promote",
+              "encourage",
+              "deepen",
+              "enrich",
+              "enhance",
+              "intensify",
+              "improve \"reinforcing links between colleges and companies\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

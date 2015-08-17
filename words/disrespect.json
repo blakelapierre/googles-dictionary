@@ -1,0 +1,79 @@
+[
+  {
+    "word": "disrespect",
+    "syllables": [
+      "dis",
+      "re",
+      "spect"
+    ],
+    "pronunciation": "ˌdisrəˈspekt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "disrespect"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "lack of respect or courtesy.",
+            "examples": [
+              "growing disrespect for the rule of law"
+            ],
+            "synonyms": [
+              "contempt",
+              "lack of respect",
+              "scorn",
+              "disregard",
+              "disdain More\"disrespect for authority\"discourtesy",
+              "rudeness",
+              "impoliteness",
+              "incivility",
+              "ill/bad manners; insolence",
+              "impudence",
+              "impertinence \"he meant no disrespect to anybody\""
+            ],
+            "antonyms": [
+              "esteem"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbNorth Americaninformal",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "disrespect"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "disrespects"
+          },
+          {
+            "part": "past tense",
+            "variant": "disrespected"
+          },
+          {
+            "part": "past participle",
+            "variant": "disrespected"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "disrespecting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "show a lack of respect for; insult.",
+            "examples": [
+              "a young brave who disrespects his elders"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

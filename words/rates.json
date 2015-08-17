@@ -1,0 +1,201 @@
+[
+  {
+    "word": "rate",
+    "syllables": [
+      "rate"
+    ],
+    "pronunciation": "rāt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "rates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a measure, quantity, or frequency, typically one measured against some other quantity or measure.",
+            "examples": [
+              "the crime rate rose by 26 percent"
+            ]
+          },
+          {
+            "definition": "the speed with which something moves, happens, or changes.",
+            "examples": [
+              "your heart rate"
+            ],
+            "synonyms": [
+              "speed",
+              "pace",
+              "tempo",
+              "velocity",
+              "momentum \"the rate of change\""
+            ]
+          },
+          {
+            "definition": "a fixed price paid or charged for something, especially goods or services.",
+            "examples": [
+              "the basic rate of pay"
+            ],
+            "synonyms": [
+              "charge",
+              "price",
+              "cost",
+              "tariff",
+              "fare",
+              "levy",
+              "toll; Morefee",
+              "remuneration",
+              "payment",
+              "wage",
+              "allowance \"an hourly rate of $30\""
+            ]
+          },
+          {
+            "definition": "the amount of a charge or payment expressed as a percentage of some other amount, or as a basis of calculation.",
+            "examples": [
+              "you'll find our current interest rate very competitive"
+            ],
+            "synonyms": [
+              "percentage",
+              "ratio",
+              "proportion; Morescale",
+              "standard",
+              "level \"a fixed rate of interest\""
+            ]
+          },
+          {
+            "definition": "(in the UK) a tax on land and buildings paid to the local authority by a business, and formerly also by occupants of private property."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "rates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "assign a standard or value to (something) according to a particular scale.",
+            "examples": [
+              "they were asked to rate their ability at different driving maneuvers"
+            ],
+            "synonyms": [
+              "assess",
+              "evaluate",
+              "appraise",
+              "judge",
+              "estimate",
+              "calculate",
+              "gauge",
+              "measure",
+              "adjudge; Moregrade",
+              "rank",
+              "classify",
+              "categorize \"they rated his driving ability\""
+            ]
+          },
+          {
+            "definition": "assign a standard, optimal, or limiting rating to (a piece of equipment).",
+            "examples": [
+              "its fuel economy is rated at 25 miles a gallon in the city"
+            ]
+          },
+          {
+            "definition": "assess the value of (a property) for the purpose of levying a local tax."
+          },
+          {
+            "definition": "consider to be of a certain quality, standard, or rank.",
+            "examples": [
+              "he rates the company's stock a “buy.”"
+            ],
+            "synonyms": [
+              "consider",
+              "judge",
+              "reckon",
+              "think",
+              "hold",
+              "deem",
+              "find; Moreregard as",
+              "look on as",
+              "count as \"the scheme was rated effective\""
+            ]
+          },
+          {
+            "definition": "be regarded in a specified way.",
+            "examples": [
+              "Jeff still rates as one of the nicest people I have ever met"
+            ]
+          },
+          {
+            "definition": "be worthy of; merit.",
+            "examples": [
+              "the ambassador rated a bulletproof car and a police escort"
+            ],
+            "synonyms": [
+              "merit",
+              "deserve",
+              "warrant",
+              "be worthy of",
+              "be deserving of \"he rated only a brief mention\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rate",
+    "syllables": [
+      "rate"
+    ],
+    "pronunciation": "rāt",
+    "parts": [
+      {
+        "part": "verbarchaic",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "rates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "scold (someone) angrily.",
+            "examples": [
+              "he rated the young man soundly for his want of respect"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ret",
+    "syllables": [
+      "ret"
+    ],
+    "pronunciation": "ret",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "rates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "soak (flax or hemp) in water to soften it and separate the fibers."
+          }
+        ]
+      }
+    ]
+  }
+]

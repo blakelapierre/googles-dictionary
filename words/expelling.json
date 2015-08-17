@@ -1,0 +1,67 @@
+[
+  {
+    "word": "expel",
+    "syllables": [
+      "ex",
+      "pel"
+    ],
+    "pronunciation": "ikˈspel",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "expelling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "deprive (someone) of membership of or involvement in a school or other organization.",
+            "examples": [
+              "she was expelled from school"
+            ],
+            "synonyms": [
+              "throw out",
+              "eject",
+              "bar",
+              "ban",
+              "debar",
+              "drum out",
+              "oust",
+              "remove",
+              "get rid of",
+              "dismiss; Morecashier; informalchuck out",
+              "sling out",
+              "kick out",
+              "boot out",
+              "give someone the bum's rush \"the opposition leader was expelled from her party\""
+            ],
+            "antonyms": [
+              "admit"
+            ]
+          },
+          {
+            "definition": "force (someone) to leave a place, especially a country.",
+            "examples": [
+              "banish, exile, deport, evict, expatriate, drive out, throw out he was expelled from the country"
+            ]
+          },
+          {
+            "definition": "force out or eject (something), especially from the body.",
+            "examples": [
+              "she expelled a shuddering breath"
+            ],
+            "synonyms": [
+              "let out",
+              "discharge",
+              "eject",
+              "issue",
+              "send forth \"Dolly expelled a hiss\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

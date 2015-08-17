@@ -1,0 +1,56 @@
+[
+  {
+    "word": "choose",
+    "syllables": [
+      "choose"
+    ],
+    "pronunciation": "CHo͞oz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "choosing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "pick out or select (someone or something) as being the best or most appropriate of two or more alternatives.",
+            "examples": [
+              "he chose a seat facing the door"
+            ],
+            "synonyms": [
+              "select",
+              "pick (out)",
+              "opt for",
+              "settle on",
+              "decide on",
+              "fix on",
+              "take; Moreappoint",
+              "name",
+              "nominate",
+              "vote for",
+              "elect \"we chose a quiet country inn\""
+            ]
+          },
+          {
+            "definition": "decide on a course of action, typically after rejecting alternatives.",
+            "examples": [
+              "he chose to go"
+            ],
+            "synonyms": [
+              "wish",
+              "want",
+              "desire",
+              "feel/be inclined",
+              "please",
+              "like",
+              "see fit \"I'll stay as long as I choose\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

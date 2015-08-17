@@ -1,0 +1,96 @@
+[
+  {
+    "word": "sin",
+    "syllables": [
+      "sin"
+    ],
+    "pronunciation": "sin",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "sins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an immoral act considered to be a transgression against divine law.",
+            "examples": [
+              "a sin in the eyes of God"
+            ],
+            "synonyms": [
+              "immoral act",
+              "wrong",
+              "wrongdoing",
+              "act of evil/wickedness",
+              "transgression",
+              "crime",
+              "offense",
+              "misdeed",
+              "misdemeanor; Morearchaictrespass \"a sin in the eyes of God\"wickedness",
+              "wrongdoing",
+              "wrong",
+              "evil",
+              "evildoing",
+              "sinfulness",
+              "immorality",
+              "iniquity",
+              "vice",
+              "crime \"the human capacity for sin\""
+            ],
+            "antonyms": [
+              "virtue"
+            ]
+          },
+          {
+            "definition": "an act regarded as a serious or regrettable fault, offense, or omission.",
+            "examples": [
+              "he committed the unforgivable sin of refusing to give interviews"
+            ],
+            "synonyms": [
+              "scandal",
+              "crime",
+              "disgrace",
+              "outrage \"they've cut the school music program—it's a sin\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "sins"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "commit a sin.",
+            "examples": [
+              "I sinned and brought shame down on us"
+            ],
+            "synonyms": [
+              "commit a sin",
+              "commit an offense",
+              "transgress",
+              "do wrong",
+              "commit a crime",
+              "break the law",
+              "misbehave",
+              "go astray; archaictrespass \"I have sinned\""
+            ]
+          },
+          {
+            "definition": "offend against (God, a person, or a principle).",
+            "examples": [
+              "I had sinned against my master"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

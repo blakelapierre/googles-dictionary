@@ -1,0 +1,30 @@
+[
+  {
+    "word": "infraction",
+    "syllables": [
+      "in",
+      "frac",
+      "tion"
+    ],
+    "pronunciation": "inˈfrakSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "infractions"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a violation or infringement of a law, agreement, or set of rules.",
+            "examples": [
+              "violation, contravention, breach, transgression, infringement, offense; Moreneglect, dereliction, noncompliance; contumacy \"leaving the grounds before noon is an infraction of the rules\"Moreneglect, dereliction, noncompliance; contumacy leaving the grounds before noon is an infraction of the rules"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

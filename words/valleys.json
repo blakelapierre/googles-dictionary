@@ -1,0 +1,32 @@
+[
+  {
+    "word": "valley",
+    "syllables": [
+      "val",
+      "ley"
+    ],
+    "pronunciation": "ˈvalē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "valleys"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a low area of land between hills or mountains, typically with a river or stream flowing through it.",
+            "examples": [
+              "dale, vale; Morehollow, basin, gully, gorge, ravine, coulee, trough, canyon, rift; glen; literarydell \"the homes in the valley are subject to mudslides\"Morehollow, basin, gully, gorge, ravine, coulee, trough, canyon, rift; glen; dell the homes in the valley are subject to mudslides"
+            ]
+          },
+          {
+            "definition": "an internal angle formed by the intersecting planes of a roof, or by the slope of a roof and a wall."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Akkadian",
+    "syllables": [
+      "Ak",
+      "ka",
+      "di",
+      "an"
+    ],
+    "pronunciation": "əˈkādēənəˈkäd-",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "Akkadian"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Akkadians"
+          },
+          {
+            "part": "noun",
+            "variant": "Accadian"
+          },
+          {
+            "part": "plural noun",
+            "variant": "Accadians"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an inhabitant of Akkad."
+          },
+          {
+            "definition": "the Semitic language of Akkad."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "Akkadian"
+          },
+          {
+            "part": "adjective",
+            "variant": "Accadian"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "relating to Akkad in ancient Babylonia or its people or their language."
+          }
+        ]
+      }
+    ]
+  }
+]

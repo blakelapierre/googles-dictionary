@@ -1,0 +1,59 @@
+[
+  {
+    "word": "nil",
+    "syllables": [
+      "nil"
+    ],
+    "pronunciation": "nil",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "nil"
+          },
+          {
+            "part": "plural noun",
+            "variant": "nils"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "zero, especially as a score in certain games.",
+            "examples": [
+              "they beat us three-nil"
+            ],
+            "synonyms": [
+              "nothing",
+              "none; Morezero",
+              "0",
+              "naught/nought; love; informalzilch",
+              "zip",
+              "nada",
+              "a goose egg",
+              "nix; datedcipher \"our chances of getting there on time were nil\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "nil"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "nonexistent.",
+            "examples": [
+              "his chances for survival were slim, almost nil"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

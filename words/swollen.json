@@ -1,0 +1,106 @@
+[
+  {
+    "word": "swollen",
+    "syllables": [
+      "swol",
+      "len"
+    ],
+    "pronunciation": "ˈswōlən",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      }
+    ]
+  },
+  {
+    "word": "swell",
+    "syllables": [
+      "swell"
+    ],
+    "pronunciation": "swel",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past participle",
+            "variant": "swollen"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.",
+            "examples": [
+              "her bruised knee was already swelling up"
+            ],
+            "synonyms": [
+              "expand",
+              "bulge",
+              "distend",
+              "inflate",
+              "dilate",
+              "bloat",
+              "puff up",
+              "balloon",
+              "fatten",
+              "fill out",
+              "tumefy \"her lip swelled up\""
+            ],
+            "antonyms": [
+              "shrink",
+              "contract"
+            ]
+          },
+          {
+            "definition": "become or make greater in intensity, number, amount, or volume.",
+            "examples": [
+              "the murmur swelled to a roar"
+            ],
+            "synonyms": [
+              "grow",
+              "enlarge",
+              "increase",
+              "expand",
+              "rise",
+              "escalate",
+              "multiply",
+              "proliferate",
+              "snowball",
+              "mushroom More\"the population swelled\"increase",
+              "enlarge",
+              "augment",
+              "boost",
+              "top up",
+              "step up",
+              "multiply \"the program swelled enrollments\"grow loud",
+              "grow louder",
+              "amplify",
+              "crescendo",
+              "intensify",
+              "heighten \"the music swelled to fill the house\""
+            ],
+            "antonyms": [
+              "wane",
+              "decrease",
+              "quiet"
+            ]
+          },
+          {
+            "definition": "be intensely affected or filled with a particular emotion.",
+            "examples": [
+              "she felt herself swell with pride"
+            ],
+            "synonyms": [
+              "be filled",
+              "be bursting",
+              "brim",
+              "overflow \"she swelled with pride\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

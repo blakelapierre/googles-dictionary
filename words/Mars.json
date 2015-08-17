@@ -1,0 +1,58 @@
+[
+  {
+    "word": "mar",
+    "syllables": [
+      "mar"
+    ],
+    "pronunciation": "mär",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "mars"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "impair the appearance of; disfigure.",
+            "examples": [
+              "no wrinkles marred her face"
+            ],
+            "synonyms": [
+              "spoil",
+              "impair",
+              "disfigure",
+              "detract from",
+              "blemish",
+              "scar; Moremutilate",
+              "deface",
+              "deform \"an ugly scar marred his features\"spoil",
+              "ruin",
+              "impair",
+              "damage",
+              "wreck; harm",
+              "hurt",
+              "blight",
+              "taint",
+              "tarnish",
+              "sully",
+              "stain",
+              "pollute; informalfoul up; formalvitiate \"the celebrations were marred by violence\""
+            ],
+            "antonyms": [
+              "enhance"
+            ]
+          },
+          {
+            "definition": "impair the quality of; spoil.",
+            "examples": [
+              "violence marred a number of New Year celebrations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

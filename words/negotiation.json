@@ -1,0 +1,59 @@
+[
+  {
+    "word": "negotiation",
+    "syllables": [
+      "ne",
+      "go",
+      "ti",
+      "a",
+      "tion"
+    ],
+    "pronunciation": "nəˌɡōSHēˈāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "negotiation"
+          },
+          {
+            "part": "plural noun",
+            "variant": "negotiations"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "discussion aimed at reaching an agreement.",
+            "examples": [
+              "a worldwide ban is currently under negotiation"
+            ],
+            "synonyms": [
+              "discussion(s)",
+              "talks",
+              "deliberations; Moreconference",
+              "debate",
+              "dialogue",
+              "consultation; mediation",
+              "arbitration",
+              "conciliation \"the negotiations resume next week\"arrangement",
+              "brokering; settlement",
+              "conclusion",
+              "completion",
+              "transaction \"the negotiation of the deal\""
+            ]
+          },
+          {
+            "definition": "the action or process of negotiating.",
+            "examples": [
+              "negotiation of the deals"
+            ]
+          },
+          {
+            "definition": "the action or process of transferring ownership of a document."
+          }
+        ]
+      }
+    ]
+  }
+]

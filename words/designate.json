@@ -1,0 +1,49 @@
+[
+  {
+    "word": "designate",
+    "syllables": [
+      "des",
+      "ig",
+      "nate"
+    ],
+    "pronunciation": "ˈdeziɡˌnātˈdeziɡnətˈdeziɡˌnāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "designate"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "designates"
+          },
+          {
+            "part": "past tense",
+            "variant": "designated"
+          },
+          {
+            "part": "past participle",
+            "variant": "designated"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "designating"
+          }
+        ],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "designate"
+          }
+        ],
+        "definitions": []
+      }
+    ]
+  }
+]

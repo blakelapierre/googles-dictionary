@@ -1,0 +1,57 @@
+[
+  {
+    "word": "born",
+    "syllables": [
+      "born"
+    ],
+    "pronunciation": "bôrn",
+    "parts": [
+      {
+        "part": "",
+        "variants": [],
+        "definitions": []
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "born"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "existing as a result of birth.",
+            "examples": [
+              "he was born in Seattle"
+            ]
+          },
+          {
+            "definition": "having a natural ability to do a particular job or task.",
+            "examples": [
+              "he's a born engineer"
+            ]
+          },
+          {
+            "definition": "perfectly suited or trained to do a particular job or task.",
+            "examples": [
+              "they believe that they are born to rule"
+            ]
+          },
+          {
+            "definition": "(of a thing) brought into existence.",
+            "examples": [
+              "her own business was born"
+            ]
+          },
+          {
+            "definition": "existing as a result of a particular situation or feeling.",
+            "examples": [
+              "a power born of obsession"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

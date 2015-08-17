@@ -1,0 +1,123 @@
+[
+  {
+    "word": "tow",
+    "syllables": [
+      "tow"
+    ],
+    "pronunciation": "tō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "tow"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "tows"
+          },
+          {
+            "part": "past tense",
+            "variant": "towed"
+          },
+          {
+            "part": "past participle",
+            "variant": "towed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "towing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a motor vehicle or boat) pull (another vehicle or boat) along with a rope, chain, or tow bar.",
+            "examples": [
+              "pull, haul, drag, draw, tug, lug the car was towed back to the garage"
+            ]
+          },
+          {
+            "definition": "(of a person) pull (someone or something) along behind one.",
+            "examples": [
+              "she saw Frank towing Nicky along by the hand"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tow"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an act of towing a vehicle or boat."
+          },
+          {
+            "definition": "a rope or line used to tow a vehicle or boat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tow",
+    "syllables": [
+      "tow"
+    ],
+    "pronunciation": "tō",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tow"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the coarse and broken part of flax or hemp prepared for spinning."
+          },
+          {
+            "definition": "a bundle of untwisted natural or man-made fibers.",
+            "examples": [
+              "plural noun: tows"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "TOW",
+    "syllables": [
+      "TOW"
+    ],
+    "pronunciation": "tō",
+    "parts": [
+      {
+        "part": "abbreviation",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "TOW"
+          },
+          {
+            "part": "plural noun",
+            "variant": "TOWs"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "tube-launched, optically tracked, wire-guided (missile)."
+          }
+        ]
+      }
+    ]
+  }
+]

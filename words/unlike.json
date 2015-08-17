@@ -1,0 +1,161 @@
+[
+  {
+    "word": "unlike",
+    "syllables": [
+      "un",
+      "like"
+    ],
+    "pronunciation": "ˌənˈlīk",
+    "parts": [
+      {
+        "part": "preposition",
+        "variants": [
+          {
+            "part": "preposition",
+            "variant": "unlike"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "different from; not similar to.",
+            "examples": [
+              "they were unlike anything ever seen before"
+            ],
+            "synonyms": [
+              "different from",
+              "dissimilar to More\"the familiar artichoke is totally unlike a Jerusalem artichoke\"in contrast to",
+              "as opposed to \"unlike Bob",
+              "Regis enjoyed swing dancing\""
+            ],
+            "antonyms": [
+              "similar to",
+              "similarly to"
+            ]
+          },
+          {
+            "definition": "in contrast to; differently from.",
+            "examples": [
+              "unlike Helen, he was not superstitious"
+            ]
+          },
+          {
+            "definition": "uncharacteristic of (someone).",
+            "examples": [
+              "he sounded irritable, which was unlike him"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "unlike"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "dissimilar or different from each other.",
+            "examples": [
+              "they seemed utterly unlike, despite being twins"
+            ],
+            "synonyms": [
+              "dissimilar",
+              "unalike",
+              "disparate",
+              "contrasting",
+              "antithetical",
+              "different",
+              "diverse",
+              "incongruous",
+              "heterogeneous",
+              "mismatched",
+              "divergent",
+              "at variance",
+              "varying",
+              "at odds; Moreinformalpoles apart",
+              "like night and day",
+              "like apples and oranges \"a meeting of unlike minds\""
+            ]
+          },
+          {
+            "definition": "not like; different from.",
+            "examples": [
+              "he was very unlike to any other man"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "unlike",
+    "syllables": [
+      "un",
+      "like"
+    ],
+    "pronunciation": "ˈənˌlīk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "unlike"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "unlikes"
+          },
+          {
+            "part": "past tense",
+            "variant": "unliked"
+          },
+          {
+            "part": "past participle",
+            "variant": "unliked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "unliking"
+          },
+          {
+            "part": "verb",
+            "variant": "un-like"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "un-likes"
+          },
+          {
+            "part": "past tense",
+            "variant": "un-liked"
+          },
+          {
+            "part": "past participle",
+            "variant": "un-liked"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "un-liking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "be regarded with distaste or hostility; be unpopular.",
+            "examples": [
+              "the article suggests that his character was unliked by many"
+            ]
+          },
+          {
+            "definition": "withdraw one's liking or approval of (a web page or posting on a social media website that one has previously liked).",
+            "examples": [
+              "I cut about 300 of my 400 friends and unliked about 20–30 pages"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

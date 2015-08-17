@@ -1,0 +1,36 @@
+[
+  {
+    "word": "cornice",
+    "syllables": [
+      "cor",
+      "nice"
+    ],
+    "pronunciation": "ˈkôrnis",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "cornice"
+          },
+          {
+            "part": "plural noun",
+            "variant": "cornices"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an ornamental molding around the wall of a room just below the ceiling."
+          },
+          {
+            "definition": "a horizontal molded projection crowning a building or structure, especially the uppermost member of the entablature of an order, surmounting the frieze."
+          },
+          {
+            "definition": "an overhanging mass of hardened snow at the edge of a mountain precipice."
+          }
+        ]
+      }
+    ]
+  }
+]

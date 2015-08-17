@@ -1,0 +1,51 @@
+[
+  {
+    "word": "trump",
+    "syllables": [
+      "trump"
+    ],
+    "pronunciation": "trəmp",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "trumped"
+          },
+          {
+            "part": "past participle",
+            "variant": "trumped"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(in bridge, whist, and similar card games) play a trump on (a card of another suit), having no cards of the suit led."
+          },
+          {
+            "definition": "beat (someone or something) by saying or doing something better.",
+            "examples": [
+              "taste trumps most if not all other factors when consumers choose food products"
+            ],
+            "synonyms": [
+              "outshine",
+              "outclass",
+              "upstage",
+              "put in the shade",
+              "eclipse",
+              "surpass",
+              "outdo",
+              "outperform; Morebeat",
+              "better",
+              "top",
+              "cap; informalbe a cut above",
+              "be head and shoulders above",
+              "leave standing \"by wearing the simplest of dresses",
+              "she had trumped them all\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "word": "palm",
+    "syllables": [
+      "palm"
+    ],
+    "pronunciation": "pä(l)m",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "palm"
+          },
+          {
+            "part": "plural noun",
+            "variant": "palms"
+          },
+          {
+            "part": "noun",
+            "variant": "palm tree"
+          },
+          {
+            "part": "plural noun",
+            "variant": "palm trees"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an unbranched evergreen tree with a crown of long feathered or fan-shaped leaves, and typically having old leaf scars forming a regular pattern on the trunk. Palms grow in warm regions, especially the tropics."
+          },
+          {
+            "definition": "a leaf of a palm tree awarded as a prize or viewed as a symbol of victory or triumph.",
+            "examples": [
+              "the consensus was that the palm should go to Doerner"
+            ],
+            "synonyms": [
+              "prize",
+              "trophy",
+              "award",
+              "crown",
+              "laurel wreath",
+              "laurels",
+              "bays \"the palm of victory\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "palm",
+    "syllables": [
+      "palm"
+    ],
+    "pronunciation": "pä(l)m",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "palm"
+          },
+          {
+            "part": "plural noun",
+            "variant": "palms"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the inner surface of the hand between the wrist and fingers."
+          },
+          {
+            "definition": "a part of a glove that covers the palm of the hand."
+          },
+          {
+            "definition": "a hard shield worn on the hand by sailmakers to protect the palm in sewing."
+          },
+          {
+            "definition": "the palmate part of an antler."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "palm"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "palms"
+          },
+          {
+            "part": "past tense",
+            "variant": "palmed"
+          },
+          {
+            "part": "past participle",
+            "variant": "palmed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "palming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "conceal (a card or other small object) in the hand, especially as part of a trick or theft.",
+            "examples": [
+              "he would spin wild tales while palming your wristwatch"
+            ]
+          },
+          {
+            "definition": "hit (something) with the palm of the hand."
+          },
+          {
+            "definition": "illegally grip (the ball) with the hand while dribbling."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "motorboat",
+    "syllables": [
+      "mo",
+      "tor",
+      "boat"
+    ],
+    "pronunciation": "ˈmōdərˌbōt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "motor boat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "motor boats"
+          },
+          {
+            "part": "noun",
+            "variant": "motorboat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "motorboats"
+          },
+          {
+            "part": "noun",
+            "variant": "motor-boat"
+          },
+          {
+            "part": "plural noun",
+            "variant": "motor-boats"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a boat powered by a motor, especially a recreational boat."
+          }
+        ]
+      }
+    ]
+  }
+]

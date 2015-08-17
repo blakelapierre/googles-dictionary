@@ -1,0 +1,45 @@
+[
+  {
+    "word": "forbearance",
+    "syllables": [
+      "for",
+      "bear",
+      "ance"
+    ],
+    "pronunciation": "fôrˈberənsfər-",
+    "parts": [
+      {
+        "part": "nounformal",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "forbearance"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "patient self-control; restraint and tolerance.",
+            "examples": [
+              "forbearance from taking action"
+            ],
+            "synonyms": [
+              "tolerance",
+              "patience",
+              "resignation",
+              "endurance",
+              "fortitude",
+              "stoicism; Moreleniency",
+              "clemency",
+              "indulgence; restraint",
+              "self-restraint",
+              "self-control \"we are proud of the forbearance you have demonstrated during these difficult weeks\""
+            ]
+          },
+          {
+            "definition": "the action of refraining from exercising a legal right, especially enforcing the payment of a debt."
+          }
+        ]
+      }
+    ]
+  }
+]

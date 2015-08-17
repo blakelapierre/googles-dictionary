@@ -1,0 +1,39 @@
+[
+  {
+    "word": "goffer",
+    "syllables": [
+      "gof",
+      "fer"
+    ],
+    "pronunciation": "ˈɡäfər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "goffered"
+          },
+          {
+            "part": "past participle",
+            "variant": "goffered"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "treat (a lace edge or frill) with heated irons in order to crimp or flute it.",
+            "examples": [
+              "a goffered frill"
+            ]
+          },
+          {
+            "definition": "(of the gilt edges of a book) embossed with a repeating design.",
+            "examples": [
+              "adjective: goffered"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

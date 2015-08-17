@@ -1,0 +1,28 @@
+[
+  {
+    "word": "fruit",
+    "syllables": [
+      "fruit"
+    ],
+    "pronunciation": "fro͞ot",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "fruiting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a tree or other plant) produce fruit, typically at a specified time.",
+            "examples": [
+              "the trees fruit very early"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

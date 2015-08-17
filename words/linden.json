@@ -1,0 +1,30 @@
+[
+  {
+    "word": "linden",
+    "syllables": [
+      "lin",
+      "den"
+    ],
+    "pronunciation": "ˈlindən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "linden"
+          },
+          {
+            "part": "plural noun",
+            "variant": "lindens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a deciduous tree with heart-shaped leaves and fragrant yellowish blossoms, native to north temperate regions. The pale soft timber is used for carving and furniture."
+          }
+        ]
+      }
+    ]
+  }
+]

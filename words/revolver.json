@@ -1,0 +1,31 @@
+[
+  {
+    "word": "revolver",
+    "syllables": [
+      "re",
+      "volv",
+      "er"
+    ],
+    "pronunciation": "rəˈvälvər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "revolver"
+          },
+          {
+            "part": "plural noun",
+            "variant": "revolvers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a pistol with revolving chambers enabling several shots to be fired without reloading."
+          }
+        ]
+      }
+    ]
+  }
+]

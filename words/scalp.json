@@ -1,0 +1,74 @@
+[
+  {
+    "word": "scalp",
+    "syllables": [
+      "scalp"
+    ],
+    "pronunciation": "skalp",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "scalp"
+          },
+          {
+            "part": "plural noun",
+            "variant": "scalps"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the skin covering the head, excluding the face."
+          },
+          {
+            "definition": "the scalp with the hair belonging to it cut or torn away from an enemy's head as a battle trophy, especially by an American Indian."
+          }
+        ]
+      },
+      {
+        "part": "verbhistorical",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "scalp"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "scalps"
+          },
+          {
+            "part": "past tense",
+            "variant": "scalped"
+          },
+          {
+            "part": "past participle",
+            "variant": "scalped"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "scalping"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take the scalp of (an enemy)."
+          },
+          {
+            "definition": "punish severely.",
+            "examples": [
+              "if I ever heard anybody doing that, I'd scalp them"
+            ]
+          },
+          {
+            "definition": "sell (a ticket) for a popular event at a price higher than the official one.",
+            "examples": [
+              "tickets were scalped for forty times their face value"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

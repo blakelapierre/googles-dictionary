@@ -1,0 +1,87 @@
+[
+  {
+    "word": "ignite",
+    "syllables": [
+      "ig",
+      "nite"
+    ],
+    "pronunciation": "iɡˈnīt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "ignite"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "ignites"
+          },
+          {
+            "part": "past tense",
+            "variant": "ignited"
+          },
+          {
+            "part": "past participle",
+            "variant": "ignited"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "igniting"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "catch fire or cause to catch fire.",
+            "examples": [
+              "furniture can give off lethal fumes when it ignites"
+            ],
+            "synonyms": [
+              "catch fire",
+              "burst into flames",
+              "combust; Morebe set off",
+              "explode \"he escaped moments before the gas ignited\"light",
+              "set fire to",
+              "set on fire",
+              "set alight",
+              "kindle",
+              "spark",
+              "touch off; informalset/put a match to \"his cigarette ignited the blanket\""
+            ],
+            "antonyms": [
+              "go out",
+              "extinguish"
+            ]
+          },
+          {
+            "definition": "arouse or inflame (an emotion or situation).",
+            "examples": [
+              "the words ignited new fury in him"
+            ],
+            "synonyms": [
+              "arouse",
+              "kindle",
+              "trigger",
+              "spark",
+              "instigate",
+              "excite",
+              "provoke",
+              "stimulate",
+              "animate",
+              "stir up",
+              "whip up",
+              "rally",
+              "jump-start",
+              "incite",
+              "fuel \"the campaign failed to ignite voter interest\""
+            ],
+            "antonyms": [
+              "dampen"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

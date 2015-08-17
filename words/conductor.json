@@ -1,0 +1,46 @@
+[
+  {
+    "word": "conductor",
+    "syllables": [
+      "con",
+      "duc",
+      "tor"
+    ],
+    "pronunciation": "kənˈdəktər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "conductor"
+          },
+          {
+            "part": "plural noun",
+            "variant": "conductors"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who directs the performance of an orchestra or choir.",
+            "examples": [
+              "he was appointed principal conductor of the Berlin Philharmonic Orchestra"
+            ]
+          },
+          {
+            "definition": "a person in charge of a train, streetcar, or other public conveyance, who collects fares and sells tickets."
+          },
+          {
+            "definition": "a material or device that conducts or transmits heat, electricity, or sound, especially when regarded in terms of its capacity to do this.",
+            "examples": [
+              "graphite is a reasonably good conductor of electricity"
+            ]
+          },
+          {
+            "definition": "another term for lightning rod."
+          }
+        ]
+      }
+    ]
+  }
+]

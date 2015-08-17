@@ -1,0 +1,44 @@
+[
+  {
+    "word": "repulsion",
+    "syllables": [
+      "re",
+      "pul",
+      "sion"
+    ],
+    "pronunciation": "rəˈpəlSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "repulsion"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a feeling of intense distaste or disgust.",
+            "examples": [
+              "people talk about the case with a mixture of fascination and repulsion"
+            ],
+            "synonyms": [
+              "disgust",
+              "revulsion",
+              "abhorrence",
+              "repugnance",
+              "nausea",
+              "horror",
+              "aversion",
+              "abomination",
+              "distaste \"she shuddered with repulsion\""
+            ]
+          },
+          {
+            "definition": "a force under the influence of which objects tend to move away from each other, e.g., through having the same magnetic polarity or electric charge."
+          }
+        ]
+      }
+    ]
+  }
+]

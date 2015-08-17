@@ -1,0 +1,47 @@
+[
+  {
+    "word": "warble",
+    "syllables": [
+      "war",
+      "ble"
+    ],
+    "pronunciation": "ˈwôrbəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "warbling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a bird) sing softly and with a succession of constantly changing notes.",
+            "examples": [
+              "larks were warbling in the trees"
+            ],
+            "synonyms": [
+              "trill",
+              "sing",
+              "chirp",
+              "chirrup",
+              "cheep",
+              "twitter",
+              "tweet",
+              "chatter",
+              "peep",
+              "call \"larks warbled in the sky\""
+            ]
+          },
+          {
+            "definition": "(of a person) sing in a trilling or quavering voice.",
+            "examples": [
+              "he warbled in an implausible soprano"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

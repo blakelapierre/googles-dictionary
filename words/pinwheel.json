@@ -1,0 +1,66 @@
+[
+  {
+    "word": "pinwheel",
+    "syllables": [
+      "pin",
+      "wheel"
+    ],
+    "pronunciation": "ˈpinˌ(h)wēl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "pinwheel"
+          },
+          {
+            "part": "plural noun",
+            "variant": "pinwheels"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a child's toy consisting of a stick with colored vanes that twirl in the wind."
+          },
+          {
+            "definition": "a fireworks device that whirls and emits colored fire."
+          },
+          {
+            "definition": "something shaped or rotating like a pinwheel."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "pinwheel"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "pinwheels"
+          },
+          {
+            "part": "past tense",
+            "variant": "pinwheeled"
+          },
+          {
+            "part": "past participle",
+            "variant": "pinwheeled"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "pinwheeling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "spin or rotate like a pinwheel."
+          }
+        ]
+      }
+    ]
+  }
+]

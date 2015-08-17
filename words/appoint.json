@@ -1,0 +1,95 @@
+[
+  {
+    "word": "appoint",
+    "syllables": [
+      "ap",
+      "point"
+    ],
+    "pronunciation": "əˈpoint",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "appoint"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "appoints"
+          },
+          {
+            "part": "past tense",
+            "variant": "appointed"
+          },
+          {
+            "part": "past participle",
+            "variant": "appointed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "appointing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "assign a job or role to (someone).",
+            "examples": [
+              "she has been appointed to the board"
+            ],
+            "synonyms": [
+              "nominate",
+              "name",
+              "designate",
+              "install as",
+              "commission",
+              "engage",
+              "co-opt; Moreselect",
+              "choose",
+              "elect",
+              "vote in; detail \"he was appointed chairman\""
+            ],
+            "antonyms": [
+              "reject"
+            ]
+          },
+          {
+            "definition": "determine or decide on (a time or a place).",
+            "examples": [
+              "they appointed a day in May for the meeting"
+            ],
+            "synonyms": [
+              "specify",
+              "determine",
+              "assign",
+              "designate",
+              "allot",
+              "set",
+              "fix",
+              "arrange",
+              "choose",
+              "decide on",
+              "establish",
+              "settle",
+              "ordain",
+              "prescribe",
+              "decree \"the arbitrator shall appoint a date for the meeting\""
+            ]
+          },
+          {
+            "definition": "decree.",
+            "examples": [
+              "such laws are appointed by God"
+            ]
+          },
+          {
+            "definition": "decide the disposal of (property of which one is not the owner) under powers granted by the owner.",
+            "examples": [
+              "trustees appoint the capital to the beneficiaries"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

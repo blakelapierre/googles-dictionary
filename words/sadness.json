@@ -1,0 +1,52 @@
+[
+  {
+    "word": "sadness",
+    "syllables": [
+      "sad",
+      "ness"
+    ],
+    "pronunciation": "ˈsadnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sadness"
+          },
+          {
+            "part": "plural noun",
+            "variant": "sadnesses"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the condition or quality of being sad.",
+            "examples": [
+              "a source of great sadness"
+            ],
+            "synonyms": [
+              "unhappiness",
+              "sorrow",
+              "dejection",
+              "depression",
+              "misery",
+              "despondency",
+              "despair",
+              "desolation",
+              "wretchedness",
+              "gloom",
+              "gloominess",
+              "dolefulness",
+              "melancholy",
+              "mournfulness",
+              "woe",
+              "heartache",
+              "grief; informalthe blues \"our sadness cannot be measured\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

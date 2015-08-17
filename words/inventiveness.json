@@ -1,0 +1,31 @@
+[
+  {
+    "word": "inventiveness",
+    "syllables": [
+      "in",
+      "ven",
+      "tive",
+      "ness"
+    ],
+    "pronunciation": "inˈven(t)ivnəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "inventiveness"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the quality of being inventive; creativity.",
+            "examples": [
+              "the inventiveness of the staging"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

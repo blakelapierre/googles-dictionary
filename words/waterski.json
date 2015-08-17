@@ -1,0 +1,89 @@
+[
+  {
+    "word": "waterski",
+    "syllables": [
+      "wa",
+      "ter",
+      "ski"
+    ],
+    "pronunciation": "ˈwädərˌskē",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "waterski"
+          },
+          {
+            "part": "plural noun",
+            "variant": "waterskis"
+          },
+          {
+            "part": "noun",
+            "variant": "water-ski"
+          },
+          {
+            "part": "plural noun",
+            "variant": "water-skis"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "each of a pair of skis enabling the wearer to skim the surface of the water when towed by a motorboat."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "waterski"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "waterskis"
+          },
+          {
+            "part": "past tense",
+            "variant": "waterskied"
+          },
+          {
+            "part": "past participle",
+            "variant": "waterskied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "waterskiing"
+          },
+          {
+            "part": "verb",
+            "variant": "water-ski"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "water-skis"
+          },
+          {
+            "part": "past tense",
+            "variant": "water-skied"
+          },
+          {
+            "part": "past participle",
+            "variant": "water-skied"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "water-skiing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "skim the surface of water on waterskis."
+          }
+        ]
+      }
+    ]
+  }
+]

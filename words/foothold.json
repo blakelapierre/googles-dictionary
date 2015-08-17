@@ -1,0 +1,36 @@
+[
+  {
+    "word": "foothold",
+    "syllables": [
+      "foot",
+      "hold"
+    ],
+    "pronunciation": "ˈfo͝otˌhōld",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "foothold"
+          },
+          {
+            "part": "plural noun",
+            "variant": "footholds"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a place where a person's foot can be lodged to support them securely, especially while climbing."
+          },
+          {
+            "definition": "a secure position from which further progress may be made.",
+            "examples": [
+              "the company is attempting to gain a foothold in the Russian market"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

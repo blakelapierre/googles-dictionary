@@ -1,0 +1,51 @@
+[
+  {
+    "word": "citizen",
+    "syllables": [
+      "cit",
+      "i",
+      "zen"
+    ],
+    "pronunciation": "ˈsidizənˈsidisən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "citizens"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a legally recognized subject or national of a state or commonwealth, either native or naturalized.",
+            "examples": [
+              "a Polish citizen"
+            ],
+            "synonyms": [
+              "national",
+              "subject",
+              "passport holder",
+              "native \"a Japanese citizen\""
+            ]
+          },
+          {
+            "definition": "an inhabitant of a particular town or city.",
+            "examples": [
+              "the citizens of Los Angeles"
+            ],
+            "synonyms": [
+              "inhabitant",
+              "resident",
+              "native",
+              "townsman",
+              "townswoman",
+              "townsperson",
+              "denizen; Moretaxpayer; burgher \"the citizens of Amsterdam\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

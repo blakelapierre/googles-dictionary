@@ -1,0 +1,62 @@
+[
+  {
+    "word": "imbue",
+    "syllables": [
+      "im",
+      "bue"
+    ],
+    "pronunciation": "imˈbyo͞o",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "imbue"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "imbues"
+          },
+          {
+            "part": "past tense",
+            "variant": "imbued"
+          },
+          {
+            "part": "past participle",
+            "variant": "imbued"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "imbuing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "inspire or permeate with a feeling or quality.",
+            "examples": [
+              "the entire performance was imbued with sparkle and elan"
+            ],
+            "synonyms": [
+              "permeate",
+              "saturate",
+              "diffuse",
+              "suffuse",
+              "pervade",
+              "bathe",
+              "drench",
+              "steep; Moreimpregnate",
+              "inject",
+              "inculcate",
+              "ingrain",
+              "instill",
+              "invest",
+              "inspire",
+              "breathe; fill \"a writer so deeply imbued with classical knowledge\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

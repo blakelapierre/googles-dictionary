@@ -1,0 +1,48 @@
+[
+  {
+    "word": "activate",
+    "syllables": [
+      "ac",
+      "ti",
+      "vate"
+    ],
+    "pronunciation": "ˈaktəˌvāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "activates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) active or operative.",
+            "examples": [
+              "fumes from cooking are enough to activate the alarm"
+            ],
+            "synonyms": [
+              "operate",
+              "switch on",
+              "turn on",
+              "start (up)",
+              "set going",
+              "trigger (off)",
+              "set in motion",
+              "initiate",
+              "actuate",
+              "energize; trip \"the alarm system can be activated remotely\""
+            ]
+          },
+          {
+            "definition": "convert (a substance, molecule, etc.) into a reactive form.",
+            "examples": [
+              "activated chlorine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

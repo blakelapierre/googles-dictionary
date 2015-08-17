@@ -1,0 +1,53 @@
+[
+  {
+    "word": "slow",
+    "syllables": [
+      "slow"
+    ],
+    "pronunciation": "slō",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "slowing"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "reduce one's speed or the speed of a vehicle or process.",
+            "examples": [
+              "the train slowed to a halt"
+            ],
+            "synonyms": [
+              "reduce speed",
+              "go slower",
+              "decelerate",
+              "brake \"the traffic forced him to slow down\""
+            ],
+            "antonyms": [
+              "accelerate"
+            ]
+          },
+          {
+            "definition": "live or work less actively or intensely.",
+            "examples": [
+              "I wasn't feeling well and had to slow down"
+            ],
+            "synonyms": [
+              "take it easy",
+              "relax",
+              "ease up/off",
+              "take a break",
+              "slack off",
+              "let up; Moreinformalchill (out)",
+              "chillax",
+              "hang loose \"you need to slow down\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

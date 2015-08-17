@@ -1,0 +1,105 @@
+[
+  {
+    "word": "antecedent",
+    "syllables": [
+      "an",
+      "te",
+      "ced",
+      "ent"
+    ],
+    "pronunciation": "ˌan(t)əˈsēdnt",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "antecedent"
+          },
+          {
+            "part": "plural noun",
+            "variant": "antecedents"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a thing or event that existed before or logically precedes another.",
+            "examples": [
+              "some antecedents to the African novel might exist in Africa's oral traditions"
+            ],
+            "synonyms": [
+              "precursor",
+              "forerunner",
+              "predecessor \"the guitar's antecedent\""
+            ],
+            "antonyms": [
+              "descendant"
+            ]
+          },
+          {
+            "definition": "a person's ancestors or family and social background.",
+            "examples": [
+              "her early life and antecedents have been traced"
+            ],
+            "synonyms": [
+              "ancestor",
+              "forefather",
+              "forebear",
+              "progenitor",
+              "primogenitor; Moreancestry",
+              "family tree",
+              "lineage",
+              "genealogy",
+              "roots \"her antecedents have been traced\""
+            ],
+            "antonyms": [
+              "descendant"
+            ]
+          },
+          {
+            "definition": "a word, phrase, clause, or sentence to which another word (especially a following relative pronoun) refers."
+          },
+          {
+            "definition": "the statement contained in the “if” clause of a conditional proposition."
+          },
+          {
+            "definition": "the first term in a ratio."
+          }
+        ]
+      },
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "antecedent"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "preceding in time or order; previous or preexisting.",
+            "examples": [
+              "the antecedent events that prompt you to break a diet"
+            ],
+            "synonyms": [
+              "previous",
+              "earlier",
+              "prior",
+              "preceding",
+              "precursory",
+              "former",
+              "foregoing; formalanterior \"antecedent events\""
+            ],
+            "antonyms": [
+              "subsequent",
+              "later"
+            ]
+          },
+          {
+            "definition": "denoting a grammatical antecedent."
+          }
+        ]
+      }
+    ]
+  }
+]

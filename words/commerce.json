@@ -1,0 +1,60 @@
+[
+  {
+    "word": "commerce",
+    "syllables": [
+      "com",
+      "merce"
+    ],
+    "pronunciation": "ˈkämərs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "commerce"
+          },
+          {
+            "part": "noun",
+            "variant": "comm."
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the activity of buying and selling, especially on a large scale.",
+            "examples": [
+              "the possible increase of commerce by a great railroad"
+            ],
+            "synonyms": [
+              "trade",
+              "trading",
+              "buying and selling",
+              "business",
+              "dealing",
+              "traffic; More(financial) transactions",
+              "dealings \"industry and commerce\""
+            ]
+          },
+          {
+            "definition": "social dealings between people.",
+            "examples": [
+              "outside the normal commerce of civilized life"
+            ],
+            "synonyms": [
+              "relations",
+              "dealings",
+              "socializing",
+              "communication",
+              "association",
+              "contact",
+              "intercourse \"human commerce\""
+            ]
+          },
+          {
+            "definition": "sexual intercourse."
+          }
+        ]
+      }
+    ]
+  }
+]

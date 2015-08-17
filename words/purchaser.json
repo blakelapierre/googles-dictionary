@@ -1,0 +1,41 @@
+[
+  {
+    "word": "purchaser",
+    "syllables": [
+      "pur",
+      "chas",
+      "er"
+    ],
+    "pronunciation": "ˈpərCHəsər",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "purchaser"
+          },
+          {
+            "part": "plural noun",
+            "variant": "purchasers"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a person who buys something; a buyer.",
+            "examples": [
+              "one of the club's prospective purchasers"
+            ],
+            "synonyms": [
+              "buyer",
+              "shopper",
+              "customer",
+              "consumer",
+              "patron; vendee \"the purchaser agrees to pay all shipping charges\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

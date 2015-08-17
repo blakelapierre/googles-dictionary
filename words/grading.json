@@ -1,0 +1,65 @@
+[
+  {
+    "word": "grade",
+    "syllables": [
+      "grade"
+    ],
+    "pronunciation": "ɡrād",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "grading"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "arrange in or allocate to grades; class or sort.",
+            "examples": [
+              "they are graded according to thickness"
+            ],
+            "synonyms": [
+              "classify",
+              "class",
+              "categorize",
+              "bracket",
+              "sort",
+              "group",
+              "arrange",
+              "pigeonhole; Morerank",
+              "evaluate",
+              "rate",
+              "value \"eggs are graded by size\""
+            ]
+          },
+          {
+            "definition": "give a mark to (a student or a piece of work).",
+            "examples": [
+              "score, mark, assess, judge, evaluate, appraise the essays have been graded"
+            ]
+          },
+          {
+            "definition": "pass gradually from one level, especially a shade of color, into another.",
+            "examples": [
+              "the sky graded from blue to white on the horizon"
+            ],
+            "synonyms": [
+              "blend",
+              "shade",
+              "merge",
+              "pass \"the colors grade into one another\""
+            ]
+          },
+          {
+            "definition": "reduce (a road) to an easy gradient."
+          },
+          {
+            "definition": "cross (livestock) with a superior breed."
+          }
+        ]
+      }
+    ]
+  }
+]

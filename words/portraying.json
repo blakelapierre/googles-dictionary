@@ -1,0 +1,75 @@
+[
+  {
+    "word": "portray",
+    "syllables": [
+      "por",
+      "tray"
+    ],
+    "pronunciation": "pôrˈtrā",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "portraying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "depict (someone or something) in a work of art or literature.",
+            "examples": [
+              "the author wanted to portray a new type of hero"
+            ],
+            "synonyms": [
+              "paint",
+              "draw",
+              "sketch",
+              "picture",
+              "depict",
+              "represent",
+              "illustrate",
+              "render More\"she portrays the older architecture of her province\"describe",
+              "depict",
+              "characterize",
+              "represent",
+              "present",
+              "delineate",
+              "evoke",
+              "tell of \"the Newfoundland portrayed by Proulx\""
+            ]
+          },
+          {
+            "definition": "(of an actor) represent or play the part of (someone) on film or stage.",
+            "examples": [
+              "he tossed his affable TV persona aside to portray a merciless mobster"
+            ],
+            "synonyms": [
+              "play",
+              "act the part of",
+              "take the role of",
+              "represent",
+              "appear as; formalpersonate \"the actor portrays a spy\""
+            ]
+          },
+          {
+            "definition": "describe (someone or something) in a particular way.",
+            "examples": [
+              "the book portrayed him as a self-serving careerist"
+            ],
+            "synonyms": [
+              "describe",
+              "depict",
+              "characterize",
+              "represent",
+              "present",
+              "delineate",
+              "evoke",
+              "tell of \"the Newfoundland portrayed by Proulx\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

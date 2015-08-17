@@ -1,0 +1,32 @@
+[
+  {
+    "word": "psychologist",
+    "syllables": [
+      "psy",
+      "chol",
+      "o",
+      "gist"
+    ],
+    "pronunciation": "sīˈkäləjəst",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "psychologist"
+          },
+          {
+            "part": "plural noun",
+            "variant": "psychologists"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an expert or specialist in psychology."
+          }
+        ]
+      }
+    ]
+  }
+]

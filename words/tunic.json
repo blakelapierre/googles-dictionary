@@ -1,0 +1,45 @@
+[
+  {
+    "word": "tunic",
+    "syllables": [
+      "tu",
+      "nic"
+    ],
+    "pronunciation": "ˈt(y)o͞onik",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tunic"
+          },
+          {
+            "part": "plural noun",
+            "variant": "tunics"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and Rome."
+          },
+          {
+            "definition": "a loose, thigh-length garment, worn typically by women over a skirt or trousers."
+          },
+          {
+            "definition": "a close-fitting short coat as part of a uniform, especially a police or military uniform."
+          },
+          {
+            "definition": "an integument or membrane enclosing or lining an organ or part."
+          },
+          {
+            "definition": "any of the concentric layers of a plant bulb, e.g., an onion."
+          },
+          {
+            "definition": "the rubbery outer coat of a sea squirt."
+          }
+        ]
+      }
+    ]
+  }
+]

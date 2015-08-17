@@ -1,0 +1,86 @@
+[
+  {
+    "word": "sterilize",
+    "syllables": [
+      "ster",
+      "i",
+      "lize"
+    ],
+    "pronunciation": "ˈsterəˌlīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "sterilize"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sterilizes"
+          },
+          {
+            "part": "past tense",
+            "variant": "sterilized"
+          },
+          {
+            "part": "past participle",
+            "variant": "sterilized"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sterilizing"
+          },
+          {
+            "part": "verb",
+            "variant": "sterilise"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "sterilises"
+          },
+          {
+            "part": "past tense",
+            "variant": "sterilised"
+          },
+          {
+            "part": "past participle",
+            "variant": "sterilised"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "sterilising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make (something) free from bacteria or other living microorganisms.",
+            "examples": [
+              "babies' feeding equipment can be cleaned and sterilized"
+            ],
+            "synonyms": [
+              "disinfect",
+              "fumigate",
+              "decontaminate",
+              "sanitize; Morepasteurize; clean",
+              "cleanse",
+              "purify; technicalautoclave \"the scalpel was first sterilized\""
+            ],
+            "antonyms": [
+              "contaminate"
+            ]
+          },
+          {
+            "definition": "deprive (a person or animal) of the ability to produce offspring, typically by removing or blocking the sex organs.",
+            "examples": [
+              "make unable to have children, make infertile, hysterectomize, vasectomize, have one's tubes tied, have a tubal ligation, have a salpingectomy More\"over 6.5 million people were sterilized\"neuter, castrate, spay, geld, cut, fix, desex, alter, doctor \"sterilizing domestic animals\"Moreover 6.5 million people were sterilizedneuter, castrate, spay, geld, cut, fix, desex, alter, doctor sterilizing domestic animals"
+            ]
+          },
+          {
+            "definition": "make (land or water) unable to produce crops or support life."
+          }
+        ]
+      }
+    ]
+  }
+]

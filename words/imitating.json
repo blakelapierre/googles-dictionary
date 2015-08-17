@@ -1,0 +1,64 @@
+[
+  {
+    "word": "imitate",
+    "syllables": [
+      "im",
+      "i",
+      "tate"
+    ],
+    "pronunciation": "ˈiməˌtāt",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "imitating"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take or follow as a model.",
+            "examples": [
+              "his style was imitated by many other writers"
+            ],
+            "synonyms": [
+              "emulate",
+              "copy",
+              "model oneself on",
+              "follow",
+              "echo",
+              "parrot; Moreinformalrip off",
+              "knock off",
+              "pirate \"other artists have imitated her style\""
+            ]
+          },
+          {
+            "definition": "copy (a person's speech or mannerisms), especially for comic effect.",
+            "examples": [
+              "she imitated my Scottish accent"
+            ],
+            "synonyms": [
+              "mimic",
+              "do an impression of",
+              "impersonate",
+              "ape; Moreparody",
+              "caricature",
+              "burlesque",
+              "travesty; informaltake off",
+              "send up",
+              "make like",
+              "mock; formalpersonate \"at one point in the show he imitated a guy in the front row\""
+            ]
+          },
+          {
+            "definition": "copy or simulate.",
+            "examples": [
+              "synthetic fabrics can now imitate everything from silk to rubber"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

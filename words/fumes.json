@@ -1,0 +1,100 @@
+[
+  {
+    "word": "fume",
+    "syllables": [
+      "fume"
+    ],
+    "pronunciation": "fyo͞om",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "fumes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "gas, smoke, or vapor that smells strongly or is dangerous to inhale.",
+            "examples": [
+              "clouds of exhaust fumes spewed by cars"
+            ],
+            "synonyms": [
+              "smoke",
+              "vapor",
+              "gas",
+              "effluvium; Moreexhaust; pollution \"a fire giving off toxic fumes\""
+            ]
+          },
+          {
+            "definition": "a pungent odor of a particular thing or substance.",
+            "examples": [
+              "he breathed fumes of wine into her face"
+            ],
+            "synonyms": [
+              "smell",
+              "odor",
+              "stink",
+              "reek",
+              "stench",
+              "fetor",
+              "funk; literarymiasma \"stale wine fumes\""
+            ]
+          },
+          {
+            "definition": "a watery vapor, steam, or mist rising from the earth or sea."
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "3rd person present",
+            "variant": "fumes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "emit gas, smoke, or vapor.",
+            "examples": [
+              "fragments of lava hit the ground, fuming and sizzling"
+            ],
+            "synonyms": [
+              "emit smoke",
+              "emit gas",
+              "smoke; archaicreek \"fragments of lava were fuming and sizzling\""
+            ]
+          },
+          {
+            "definition": "expose (especially wood) to ammonia fumes in order to produce dark tints.",
+            "examples": [
+              "the fumed oak sideboard"
+            ]
+          },
+          {
+            "definition": "feel, show, or express great anger.",
+            "examples": [
+              "he is fuming over the interference in his work"
+            ],
+            "synonyms": [
+              "be furious",
+              "be enraged",
+              "be very angry",
+              "seethe",
+              "be livid",
+              "be incensed",
+              "boil",
+              "be beside oneself",
+              "spit; Morerage",
+              "rant and rave; informalbe hot under the collar",
+              "foam at the mouth",
+              "see red \"Elsa was still fuming at his arrogance\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "word": "tuberculosis",
+    "syllables": [
+      "tu",
+      "ber",
+      "cu",
+      "lo",
+      "sis"
+    ],
+    "pronunciation": "t(y)o͞oˌbərkyəˈlōsəs",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "tuberculosis"
+          },
+          {
+            "part": "noun",
+            "variant": "pulmonary tuberculosis"
+          },
+          {
+            "part": "noun",
+            "variant": "TB"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an infectious bacterial disease characterized by the growth of nodules (tubercles) in the tissues, especially the lungs."
+          }
+        ]
+      }
+    ]
+  }
+]

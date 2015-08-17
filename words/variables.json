@@ -1,0 +1,51 @@
+[
+  {
+    "word": "variable",
+    "syllables": [
+      "var",
+      "i",
+      "a",
+      "ble"
+    ],
+    "pronunciation": "ˈverēəb(ə)l",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "variables"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "an element, feature, or factor that is liable to vary or change.",
+            "examples": [
+              "there are too many variables involved to make any meaningful predictions"
+            ],
+            "synonyms": [
+              "factor",
+              "element",
+              "ingredient",
+              "quantity",
+              "unknown quantity",
+              "condition \"there are other variables to consider\""
+            ]
+          },
+          {
+            "definition": "a quantity that during a calculation is assumed to vary or be capable of varying in value."
+          },
+          {
+            "definition": "a data item that may take on more than one value during the runtime of a program."
+          },
+          {
+            "definition": "short for variable star."
+          },
+          {
+            "definition": "the region of light, variable winds to the north of the northeast trade winds or (in the southern hemisphere) between the southeast trade winds and the westerlies."
+          }
+        ]
+      }
+    ]
+  }
+]

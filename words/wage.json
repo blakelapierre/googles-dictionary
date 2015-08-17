@@ -1,0 +1,102 @@
+[
+  {
+    "word": "wage",
+    "syllables": [
+      "wage"
+    ],
+    "pronunciation": "wāj",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "wage"
+          },
+          {
+            "part": "plural noun",
+            "variant": "wages"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee, especially to a manual or unskilled worker.",
+            "examples": [
+              "we were struggling to get better wages"
+            ],
+            "synonyms": [
+              "pay",
+              "payment",
+              "remuneration",
+              "salary",
+              "stipend",
+              "fee",
+              "honorarium; Moreincome",
+              "revenue; profit",
+              "gain",
+              "reward; earnings",
+              "paycheck; pay packet; formalemolument \"the farm workers' wages\""
+            ]
+          },
+          {
+            "definition": "the part of total production that is the return to labor as earned income, as distinct from the remuneration received by capital as unearned income."
+          },
+          {
+            "definition": "the result or effect of doing something considered wrong or unwise.",
+            "examples": [
+              "the wages of sin is death"
+            ],
+            "synonyms": [
+              "reward",
+              "recompense",
+              "retribution; Morereturns",
+              "deserts \"the wages of sin is death\""
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "wage"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "wages"
+          },
+          {
+            "part": "past tense",
+            "variant": "waged"
+          },
+          {
+            "part": "past participle",
+            "variant": "waged"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "waging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "carry on (a war or campaign).",
+            "examples": [
+              "it is necessary to destroy their capacity to wage war"
+            ],
+            "synonyms": [
+              "engage in",
+              "carry on",
+              "conduct",
+              "execute",
+              "pursue",
+              "prosecute",
+              "proceed with \"the security forces waged war on the guerrillas\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "word": "custard",
+    "syllables": [
+      "cus",
+      "tard"
+    ],
+    "pronunciation": "ˈkəstərd",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "custard"
+          },
+          {
+            "part": "plural noun",
+            "variant": "custards"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a dessert or sweet sauce made with milk, eggs, and sugar."
+          }
+        ]
+      }
+    ]
+  }
+]

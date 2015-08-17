@@ -1,0 +1,73 @@
+[
+  {
+    "word": "observance",
+    "syllables": [
+      "ob",
+      "serv",
+      "ance"
+    ],
+    "pronunciation": "əbˈzərvəns",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "observance"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the action or practice of fulfilling or respecting the requirements of law, morality, or ritual.",
+            "examples": [
+              "strict observance of the rules"
+            ],
+            "synonyms": [
+              "rite",
+              "ritual",
+              "ceremony",
+              "ceremonial",
+              "celebration",
+              "practice",
+              "service",
+              "office",
+              "festival",
+              "tradition",
+              "custom",
+              "convention",
+              "formality",
+              "form; formalpraxis \"a Catholic calendar of saints' days and religious observances\""
+            ]
+          },
+          {
+            "definition": "an act performed for religious or ceremonial reasons.",
+            "examples": [
+              "plural noun: observances"
+            ]
+          },
+          {
+            "definition": "a rule to be followed by a religious order.",
+            "examples": [
+              "he drew up a body of monastic observances"
+            ]
+          },
+          {
+            "definition": "respect; deference.",
+            "examples": [
+              "compliance with, adherence to, accordance with, respect for, observation of, obedience to; Morekeeping of, obeying of, fulfillment of, following of, honoring of; archaicabidance by \"elders responsible for the correct observance of sacred rites\"Morekeeping of, obeying of, fulfillment of, following of, honoring of; abidance by elders responsible for the correct observance of sacred rites"
+            ],
+            "antonyms": [
+              "disregard"
+            ]
+          },
+          {
+            "definition": "the action of watching or noticing something.",
+            "examples": [
+              "the baby's motionless observance of me"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "affirmative",
+    "syllables": [
+      "af",
+      "firm",
+      "a",
+      "tive"
+    ],
+    "pronunciation": "əˈfərmədiv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "affirmative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "agreeing with a statement or to a request.",
+            "examples": [
+              "an affirmative answer"
+            ]
+          },
+          {
+            "definition": "(of a vote) expressing approval or agreement.",
+            "examples": [
+              "positive, assenting, consenting, corroborative, favorable an affirmative answer"
+            ],
+            "antonyms": [
+              "negative"
+            ]
+          },
+          {
+            "definition": "supportive, hopeful, or encouraging.",
+            "examples": [
+              "the music's natural buoyancy and affirmative character"
+            ]
+          },
+          {
+            "definition": "active or obligatory.",
+            "examples": [
+              "they have an affirmative duty to stop crime in their buildings"
+            ]
+          },
+          {
+            "definition": "stating that a fact is so; making an assertion."
+          }
+        ]
+      },
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "affirmative"
+          },
+          {
+            "part": "plural noun",
+            "variant": "affirmatives"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a statement of agreement with an assertion or request.",
+            "examples": [
+              "he accepted her reply as an affirmative"
+            ]
+          },
+          {
+            "definition": "a position of agreement or confirmation.",
+            "examples": [
+              "noun: the affirmative"
+            ]
+          },
+          {
+            "definition": "a word or particle used in making assertions."
+          },
+          {
+            "definition": "a statement asserting that something is true of the subject of a proposition."
+          }
+        ]
+      },
+      {
+        "part": "exclamationNorth American",
+        "variants": [
+          {
+            "part": "exclamation",
+            "variant": "affirmative"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "expressing agreement with a statement or request; yes."
+          }
+        ]
+      }
+    ]
+  }
+]

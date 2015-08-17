@@ -1,0 +1,59 @@
+[
+  {
+    "word": "cease",
+    "syllables": [
+      "cease"
+    ],
+    "pronunciation": "sēs",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "ceased"
+          },
+          {
+            "part": "past participle",
+            "variant": "ceased"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "bring or come to an end.",
+            "examples": [
+              "the hostilities had ceased and normal life was resumed"
+            ],
+            "synonyms": [
+              "come to an end",
+              "come to a halt",
+              "end",
+              "halt",
+              "stop",
+              "conclude",
+              "terminate",
+              "finish",
+              "draw to a close",
+              "be over More\"hostilities had ceased\"bring to an end",
+              "bring to a halt",
+              "end",
+              "halt",
+              "stop",
+              "conclude",
+              "terminate",
+              "finish",
+              "wind up",
+              "discontinue",
+              "suspend",
+              "break off; informalleave off \"they ceased all military activity\""
+            ],
+            "antonyms": [
+              "start",
+              "continue"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

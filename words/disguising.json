@@ -1,0 +1,66 @@
+[
+  {
+    "word": "disguise",
+    "syllables": [
+      "dis",
+      "guise"
+    ],
+    "pronunciation": "disˈɡīz",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "disguising"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give (someone or oneself) a different appearance in order to conceal one's identity.",
+            "examples": [
+              "he disguised himself as a girl"
+            ],
+            "synonyms": [
+              "dress up as",
+              "pretend to be",
+              "pass oneself off as",
+              "impersonate",
+              "pose as; Moreformalpersonate \"Eleanor disguised herself as a man\"in disguise",
+              "camouflaged; incognito",
+              "undercover \"a disguised investigator\""
+            ]
+          },
+          {
+            "definition": "make (something) unrecognizable by altering its appearance, sound, taste, or smell.",
+            "examples": [
+              "does holding a handkerchief over the mouthpiece really disguise your voice?"
+            ]
+          },
+          {
+            "definition": "conceal the nature or existence of (a feeling or situation).",
+            "examples": [
+              "he made no effort to disguise his contempt"
+            ],
+            "synonyms": [
+              "camouflage",
+              "conceal",
+              "hide",
+              "cover up",
+              "dissemble",
+              "mask",
+              "screen",
+              "shroud",
+              "veil",
+              "cloak; Moregloss over",
+              "put up a smokescreen to hide/mask \"his controlled voice disguised his true feelings\""
+            ],
+            "antonyms": [
+              "expose"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

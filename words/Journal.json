@@ -1,0 +1,69 @@
+[
+  {
+    "word": "journal",
+    "syllables": [
+      "jour",
+      "nal"
+    ],
+    "pronunciation": "ˈjərnl",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "journal"
+          },
+          {
+            "part": "plural noun",
+            "variant": "journals"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a newspaper or magazine that deals with a particular subject or professional activity.",
+            "examples": [
+              "medical journals"
+            ],
+            "synonyms": [
+              "periodical",
+              "magazine",
+              "gazette",
+              "digest",
+              "review",
+              "newsletter",
+              "bulletin; Morenewspaper",
+              "paper",
+              "tabloid",
+              "broadsheet; daily",
+              "weekly",
+              "monthly",
+              "quarterly \"a medical journal\""
+            ]
+          },
+          {
+            "definition": "a daily record of news and events of a personal nature; a diary.",
+            "examples": [
+              "diary, daily record, daybook, log, logbook, chronicle; daytimer he keeps a journal"
+            ]
+          },
+          {
+            "definition": "a logbook."
+          },
+          {
+            "definition": "a record of the daily proceedings in the British Houses of Parliament.",
+            "examples": [
+              "plural noun: Journals; plural noun: the Journals"
+            ]
+          },
+          {
+            "definition": "(in bookkeeping) a daily record of business transactions with a statement of the accounts to which each is to be debited and credited."
+          },
+          {
+            "definition": "the part of a shaft or axle that rests on bearings."
+          }
+        ]
+      }
+    ]
+  }
+]

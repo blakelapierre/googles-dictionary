@@ -1,0 +1,25 @@
+[
+  {
+    "word": "dyne",
+    "syllables": [
+      "dyne"
+    ],
+    "pronunciation": "dīn",
+    "parts": [
+      {
+        "part": "nounPhysics",
+        "variants": [
+          {
+            "part": "plural noun",
+            "variant": "dynes"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a unit of force that, acting on a mass of one gram, increases its velocity by one centimeter per second every second along the direction that it acts."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "shiver",
+    "syllables": [
+      "shiv",
+      "er"
+    ],
+    "pronunciation": "ˈSHivər",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "shivering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or animal) shake slightly and uncontrollably as a result of being cold, frightened, or excited.",
+            "examples": [
+              "they shivered in the damp foggy cold"
+            ],
+            "synonyms": [
+              "tremble",
+              "quiver",
+              "shake",
+              "shudder",
+              "quaver",
+              "quake \"he was shivering with fear\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shiver",
+    "syllables": [
+      "shiv",
+      "er"
+    ],
+    "pronunciation": "ˈSHivər",
+    "parts": [
+      {
+        "part": "verbrare",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "shivering"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "break into splinters or fragments.",
+            "examples": [
+              "the world seemed to shiver into a million splinters of prismatic color"
+            ],
+            "synonyms": [
+              "shatter",
+              "splinter",
+              "smash",
+              "fragment",
+              "crack",
+              "break \"the window shivered into thousands of pieces\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "word": "worrying",
+    "syllables": [
+      "wor",
+      "ry",
+      "ing"
+    ],
+    "pronunciation": "ˈwərēiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "worrying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "causing anxiety about actual or potential problems; alarming.",
+            "examples": [
+              "a worrying health risk"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "worry",
+    "syllables": [
+      "wor",
+      "ry"
+    ],
+    "pronunciation": "ˈwərē",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "worrying"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "give way to anxiety or unease; allow one's mind to dwell on difficulty or troubles.",
+            "examples": [
+              "he worried about his soldier sons in the war"
+            ],
+            "synonyms": [
+              "fret",
+              "be concerned",
+              "be anxious",
+              "agonize",
+              "overthink",
+              "brood",
+              "panic",
+              "lose sleep",
+              "get worked up",
+              "get stressed",
+              "get in a state",
+              "stew",
+              "torment oneself \"she worries about his health\""
+            ]
+          },
+          {
+            "definition": "cause to feel anxiety or concern.",
+            "examples": [
+              "there was no need to worry her"
+            ]
+          },
+          {
+            "definition": "cause annoyance to.",
+            "examples": [
+              "the noise never really stops, but it doesn't worry me"
+            ],
+            "synonyms": [
+              "trouble",
+              "bother",
+              "make anxious",
+              "disturb",
+              "distress",
+              "upset",
+              "concern",
+              "disquiet",
+              "fret",
+              "agitate",
+              "unsettle",
+              "perturb",
+              "scare",
+              "fluster",
+              "stress",
+              "tax",
+              "torment",
+              "plague",
+              "bedevil; Moreprey on one's mind",
+              "weigh down",
+              "gnaw at",
+              "rattle; informalbug",
+              "get to",
+              "dig at",
+              "nag \"is something worrying you?\""
+            ]
+          },
+          {
+            "definition": "(of a dog or other carnivorous animal) tear at, gnaw on, or drag around with the teeth.",
+            "examples": [
+              "I found my dog contentedly worrying a bone"
+            ]
+          },
+          {
+            "definition": "(of a dog) chase and attack (livestock, especially sheep)."
+          },
+          {
+            "definition": "pull at or fiddle with repeatedly.",
+            "examples": [
+              "he began to worry at the knot in the cord"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

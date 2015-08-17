@@ -1,0 +1,78 @@
+[
+  {
+    "word": "naive",
+    "syllables": [
+      "na",
+      "ive"
+    ],
+    "pronunciation": "nīˈēv",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "naive"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "naiver"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "naivest"
+          },
+          {
+            "part": "adjective",
+            "variant": "naïve"
+          },
+          {
+            "part": "comparative adjective",
+            "variant": "naïver"
+          },
+          {
+            "part": "superlative adjective",
+            "variant": "naïvest"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "(of a person or action) showing a lack of experience, wisdom, or judgment.",
+            "examples": [
+              "the rather naive young man had been totally misled"
+            ]
+          },
+          {
+            "definition": "(of a person) natural and unaffected; innocent.",
+            "examples": [
+              "Andy had a sweet, naive look when he smiled"
+            ],
+            "synonyms": [
+              "innocent",
+              "unsophisticated",
+              "artless",
+              "ingenuous",
+              "inexperienced",
+              "guileless",
+              "unworldly",
+              "trusting; Moregullible",
+              "credulous",
+              "immature",
+              "callow",
+              "raw",
+              "green",
+              "wide-eyed; informalwet behind the ears",
+              "born yesterday \"don't be fooled by his naive manner of speaking\""
+            ],
+            "antonyms": [
+              "worldly"
+            ]
+          },
+          {
+            "definition": "of or denoting art produced in a straightforward style that deliberately rejects sophisticated artistic techniques and has a bold directness resembling a child's work, typically in bright colors with little or no perspective."
+          }
+        ]
+      }
+    ]
+  }
+]

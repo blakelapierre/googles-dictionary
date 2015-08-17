@@ -1,0 +1,84 @@
+[
+  {
+    "word": "sampling",
+    "syllables": [
+      "sam",
+      "pling"
+    ],
+    "pronunciation": "ˈsamp(ə)liNG",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "sampling"
+          },
+          {
+            "part": "plural noun",
+            "variant": "samplings"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the taking of a sample or samples.",
+            "examples": [
+              "routine river sampling is carried out according to a schedule"
+            ]
+          },
+          {
+            "definition": "a sample."
+          },
+          {
+            "definition": "the technique of digitally encoding music or sound and reusing it as part of a composition or recording."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sample",
+    "syllables": [
+      "sam",
+      "ple"
+    ],
+    "pronunciation": "ˈsampəl",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "sampling"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "take a sample or samples of (something) for analysis.",
+            "examples": [
+              "bone marrow cells were sampled"
+            ]
+          },
+          {
+            "definition": "try the qualities of (food or drink) by tasting it.",
+            "examples": [
+              "try (out), taste, test, put to the test, experiment with; Moreappraise, evaluate, test drive; informalcheck out \"we sampled the culinary offerings\"Moreappraise, evaluate, test drive; check out we sampled the culinary offerings"
+            ]
+          },
+          {
+            "definition": "get a representative experience of.",
+            "examples": [
+              "sample the pleasures of Saint Maarten"
+            ]
+          },
+          {
+            "definition": "ascertain the momentary value of (an analog signal) many times a second so as to convert the signal to digital form."
+          },
+          {
+            "definition": "record or extract a small piece of music or sound digitally for reuse as part of a composition or song."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "word": "inspired",
+    "syllables": [
+      "in",
+      "spired"
+    ],
+    "pronunciation": "inˈspī(ə)rd",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "inspired"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "of extraordinary quality, as if arising from some external creative impulse.",
+            "examples": [
+              "they had to thank the goalie for some inspired saves"
+            ]
+          },
+          {
+            "definition": "(of a person) exhibiting a creative impulse in the activity specified.",
+            "examples": [
+              "she was an inspired gardener"
+            ],
+            "synonyms": [
+              "outstanding",
+              "wonderful",
+              "marvelous",
+              "excellent",
+              "magnificent",
+              "fine",
+              "exceptional",
+              "first-class",
+              "first-rate",
+              "virtuoso",
+              "supreme",
+              "superlative",
+              "brilliant; Moreinnovative",
+              "ingenious",
+              "imaginative",
+              "original; informaltremendous",
+              "superb",
+              "super",
+              "ace",
+              "wicked",
+              "awesome",
+              "out of this world \"toe-tapping melodies and inspired lyrics\""
+            ],
+            "antonyms": [
+              "dull",
+              "poor"
+            ]
+          },
+          {
+            "definition": "(of air or another substance) that is breathed in.",
+            "examples": [
+              "inspired air must be humidified"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inspire",
+    "syllables": [
+      "in",
+      "spire"
+    ],
+    "pronunciation": "inˈspī(ə)r",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "past tense",
+            "variant": "inspired"
+          },
+          {
+            "part": "past participle",
+            "variant": "inspired"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "fill (someone) with the urge or ability to do or feel something, especially to do something creative.",
+            "examples": [
+              "his passion for romantic literature inspired him to begin writing"
+            ],
+            "synonyms": [
+              "stimulate",
+              "motivate",
+              "encourage",
+              "influence",
+              "rouse",
+              "move",
+              "stir",
+              "energize",
+              "galvanize",
+              "incite; Moreanimate",
+              "fire",
+              "excite",
+              "spark",
+              "inspirit",
+              "incentivize",
+              "affect \"the landscape inspired him to write\"inspirational",
+              "encouraging",
+              "heartening",
+              "uplifting",
+              "stirring",
+              "rousing",
+              "stimulating",
+              "electrifying; moving",
+              "affecting",
+              "impassioned",
+              "influential \"inspiring essays\""
+            ]
+          },
+          {
+            "definition": "create (a feeling, especially a positive one) in a person.",
+            "examples": [
+              "their past record does not inspire confidence"
+            ],
+            "synonyms": [
+              "arouse",
+              "awaken",
+              "prompt",
+              "induce",
+              "ignite",
+              "trigger",
+              "kindle",
+              "produce",
+              "bring out; literaryenkindle \"Charles inspired awe in her\""
+            ]
+          },
+          {
+            "definition": "animate someone with (such a feeling).",
+            "examples": [
+              "he inspired his students with a vision of freedom"
+            ]
+          },
+          {
+            "definition": "give rise to.",
+            "examples": [
+              "the movie was successful enough to inspire a sequel"
+            ],
+            "synonyms": [
+              "give rise to",
+              "lead to",
+              "bring about",
+              "cause",
+              "prompt",
+              "spawn",
+              "engender; literarybeget \"the film inspired a musical\""
+            ]
+          },
+          {
+            "definition": "breathe in (air); inhale."
+          }
+        ]
+      }
+    ]
+  }
+]

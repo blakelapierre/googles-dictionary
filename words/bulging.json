@@ -1,0 +1,48 @@
+[
+  {
+    "word": "bulge",
+    "syllables": [
+      "bulge"
+    ],
+    "pronunciation": "bəlj",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "bulging"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "swell or protrude to an unnatural or incongruous extent.",
+            "examples": [
+              "the veins in his neck bulged"
+            ],
+            "synonyms": [
+              "swell",
+              "stick out",
+              "puff out",
+              "balloon (out)",
+              "bug out",
+              "fill out",
+              "belly",
+              "distend",
+              "tumefy",
+              "intumesce; Moreproject",
+              "protrude",
+              "stand out \"his eyes were bulging\""
+            ]
+          },
+          {
+            "definition": "be full of and distended with.",
+            "examples": [
+              "a briefcase bulging with documents"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

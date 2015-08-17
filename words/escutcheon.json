@@ -1,0 +1,42 @@
+[
+  {
+    "word": "escutcheon",
+    "syllables": [
+      "es",
+      "cutch",
+      "eon"
+    ],
+    "pronunciation": "iˈskəCHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "escutcheon"
+          },
+          {
+            "part": "plural noun",
+            "variant": "escutcheons"
+          },
+          {
+            "part": "noun",
+            "variant": "escutcheon plate"
+          },
+          {
+            "part": "plural noun",
+            "variant": "escutcheon plates"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "a shield or emblem bearing a coat of arms."
+          },
+          {
+            "definition": "a flat piece of metal for protection and often ornamentation, around a keyhole, door handle, or light switch."
+          }
+        ]
+      }
+    ]
+  }
+]

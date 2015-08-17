@@ -1,0 +1,70 @@
+[
+  {
+    "word": "personally",
+    "syllables": [
+      "per",
+      "son",
+      "al",
+      "ly"
+    ],
+    "pronunciation": "ˈpərs(ə)nəlē",
+    "parts": [
+      {
+        "part": "adverb",
+        "variants": [
+          {
+            "part": "adverb",
+            "variant": "personally"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "with the personal presence or action of the individual specified; in person.",
+            "examples": [
+              "she stayed to thank O'Brien personally"
+            ],
+            "synonyms": [
+              "in person",
+              "oneself \"I'd like to thank you personally\""
+            ]
+          },
+          {
+            "definition": "used to indicate that a specified person and no other is involved in something.",
+            "examples": [
+              "they had made conclusions without getting to know me personally"
+            ]
+          },
+          {
+            "definition": "from someone's personal standpoint or according to their particular nature; in a subjective rather than an objective way.",
+            "examples": [
+              "he had spoken personally and emotionally"
+            ],
+            "synonyms": [
+              "for my part",
+              "for myself",
+              "to my way of thinking",
+              "to my mind",
+              "in my estimation",
+              "as far as I am concerned",
+              "in my view/opinion",
+              "from my point of view",
+              "from where I stand",
+              "as I see it",
+              "if you ask me",
+              "my sense is",
+              "for my money",
+              "in my book; privately \"personally",
+              "I think it's a good idea\""
+            ]
+          },
+          {
+            "definition": "with regard to one's personal and private rather than public or professional capacity.",
+            "examples": [
+              "nothing had gone well personally or politically"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

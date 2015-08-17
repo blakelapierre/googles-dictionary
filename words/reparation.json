@@ -1,0 +1,52 @@
+[
+  {
+    "word": "reparation",
+    "syllables": [
+      "rep",
+      "a",
+      "ra",
+      "tion"
+    ],
+    "pronunciation": "ˌrepəˈrāSH(ə)n",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "reparation"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the making of amends for a wrong one has done, by paying money to or otherwise helping those who have been wronged.",
+            "examples": [
+              "the courts required a convicted offender to make financial reparation to his victim"
+            ],
+            "synonyms": [
+              "amends",
+              "restitution",
+              "redress",
+              "compensation",
+              "recompense",
+              "repayment",
+              "atonement \"the victims are seeking reparation\""
+            ]
+          },
+          {
+            "definition": "the compensation for war damage paid by a defeated state.",
+            "examples": [
+              "plural noun: reparations"
+            ]
+          },
+          {
+            "definition": "the action of repairing something.",
+            "examples": [
+              "the old hall was pulled down to avoid the cost of reparation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

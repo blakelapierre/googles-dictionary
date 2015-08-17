@@ -1,0 +1,123 @@
+[
+  {
+    "word": "vision",
+    "syllables": [
+      "vi",
+      "sion"
+    ],
+    "pronunciation": "ˈviZHən",
+    "parts": [
+      {
+        "part": "noun",
+        "variants": [
+          {
+            "part": "noun",
+            "variant": "vision"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "the faculty or state of being able to see.",
+            "examples": [
+              "she had defective vision"
+            ],
+            "synonyms": [
+              "eyesight",
+              "sight",
+              "observation",
+              "(visual) perception; Moreeyes; view",
+              "perspective \"her vision was blurred by tears\""
+            ]
+          },
+          {
+            "definition": "the ability to think about or plan the future with imagination or wisdom.",
+            "examples": [
+              "the organization had lost its vision and direction"
+            ],
+            "synonyms": [
+              "imagination",
+              "creativity",
+              "inventiveness",
+              "innovation",
+              "inspiration",
+              "intuition",
+              "perception",
+              "insight",
+              "foresight",
+              "prescience \"his speech lacked vision\""
+            ]
+          },
+          {
+            "definition": "a mental image of what the future will or could be like.",
+            "examples": [
+              "plural noun: visions"
+            ]
+          },
+          {
+            "definition": "the images seen on a television screen."
+          },
+          {
+            "definition": "an experience of seeing someone or something in a dream or trance, or as a supernatural apparition.",
+            "examples": [
+              "the idea came to him in a vision"
+            ],
+            "synonyms": [
+              "apparition",
+              "hallucination",
+              "illusion",
+              "mirage",
+              "specter",
+              "phantom",
+              "ghost",
+              "wraith",
+              "manifestation; Moreliteraryphantasm",
+              "shade \"the psychic was troubled by visions of the dead\""
+            ]
+          },
+          {
+            "definition": "a vivid mental image, especially a fanciful one of the future.",
+            "examples": [
+              "plural noun: visions"
+            ]
+          },
+          {
+            "definition": "a person or sight of unusual beauty.",
+            "examples": [
+              "beautiful sight, feast for the eyes, pleasure to behold, delight, dream, beauty, picture, joy, marvel; Moreinformalsight for sore eyes, stunner, knockout, looker, eye-catcher, peach \"Melissa was a vision in lilac\"Moresight for sore eyes, stunner, knockout, looker, eye-catcher, peach Melissa was a vision in lilac"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "verbrare",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "vision"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "visions"
+          },
+          {
+            "part": "past tense",
+            "variant": "visioned"
+          },
+          {
+            "part": "past participle",
+            "variant": "visioned"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "visioning"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "imagine."
+          }
+        ]
+      }
+    ]
+  }
+]

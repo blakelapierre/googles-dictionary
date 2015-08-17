@@ -1,0 +1,96 @@
+[
+  {
+    "word": "linking",
+    "syllables": [
+      "link",
+      "ing"
+    ],
+    "pronunciation": "ˈliNGkiNG",
+    "parts": [
+      {
+        "part": "adjective",
+        "variants": [
+          {
+            "part": "adjective",
+            "variant": "linking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "connecting or joining something to something else."
+          },
+          {
+            "definition": "denoting a consonant that is sounded at a boundary between two words or morphemes where two vowels would otherwise be adjacent, as in law(r) and order."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "syllables": [
+      "link"
+    ],
+    "pronunciation": "liNGk",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "gerund or present participle",
+            "variant": "linking"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "make, form, or suggest a connection with or between.",
+            "examples": [
+              "rumors that linked his name with Judith"
+            ],
+            "synonyms": [
+              "associate",
+              "connect",
+              "relate",
+              "join",
+              "bracket \"the evidence linking him with the murder\""
+            ]
+          },
+          {
+            "definition": "connect or join physically.",
+            "examples": [
+              "a network of routes linking towns and villages"
+            ],
+            "synonyms": [
+              "join",
+              "connect",
+              "fasten",
+              "attach",
+              "bind",
+              "unite",
+              "combine",
+              "amalgamate; Moreclamp",
+              "secure",
+              "fix",
+              "tie",
+              "couple",
+              "yoke",
+              "hitch \"four boxes were linked together\""
+            ]
+          },
+          {
+            "definition": "create a hyperlink between (web pages or hypertext documents).",
+            "examples": [
+              "I've had problems linking my blog to other websites"
+            ]
+          },
+          {
+            "definition": "clasp; intertwine.",
+            "examples": [
+              "once outside he linked arms with her"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

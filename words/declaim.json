@@ -1,0 +1,76 @@
+[
+  {
+    "word": "declaim",
+    "syllables": [
+      "de",
+      "claim"
+    ],
+    "pronunciation": "dəˈklām",
+    "parts": [
+      {
+        "part": "verb",
+        "variants": [
+          {
+            "part": "verb",
+            "variant": "declaim"
+          },
+          {
+            "part": "3rd person present",
+            "variant": "declaims"
+          },
+          {
+            "part": "past tense",
+            "variant": "declaimed"
+          },
+          {
+            "part": "past participle",
+            "variant": "declaimed"
+          },
+          {
+            "part": "gerund or present participle",
+            "variant": "declaiming"
+          }
+        ],
+        "definitions": [
+          {
+            "definition": "utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience.",
+            "examples": [
+              "she declaimed her views"
+            ],
+            "synonyms": [
+              "make a speech",
+              "give an address",
+              "give a lecture",
+              "deliver a sermon; Morespeak",
+              "hold forth",
+              "orate",
+              "preach",
+              "lecture",
+              "sermonize",
+              "moralize; informalsound off",
+              "spout",
+              "speechify",
+              "preachify \"a preacher declaiming from the pulpit\"recite",
+              "read aloud",
+              "read out loud",
+              "read out; deliver; informalspout \"they loved to hear him declaim his poetry\"speak out against",
+              "rail against",
+              "inveigh against",
+              "fulminate against",
+              "rage against",
+              "thunder against; rant about",
+              "expostulate against; condemn",
+              "criticize",
+              "attack",
+              "decry",
+              "disparage \"he declaimed against the evils of society\""
+            ]
+          },
+          {
+            "definition": "forcefully protest against or criticize (something)."
+          }
+        ]
+      }
+    ]
+  }
+]
